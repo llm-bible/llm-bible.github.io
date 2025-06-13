@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11391"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11391'}
+tags: ['Training Techniques', 'Fine-Tuning', 'RecSys', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Neural news recommender systems (RSs) have integrated language models (LMs)
 to encode news articles with rich textual information into representations,

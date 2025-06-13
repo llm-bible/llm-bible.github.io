@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ganesh2020compressing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.11985"}
-tags: ['Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.11985'}
+tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Survey Paper', 'Pretraining Methods']
 ---
 Pre-trained Transformer-based models have achieved state-of-the-art
 performance for various Natural Language Processing (NLP) tasks. However, these

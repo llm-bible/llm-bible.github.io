@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025chart
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04095"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Dataset', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04095'}
+tags: ['Attention Mechanism', 'Dataset', 'RAG', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Multimodal Large Language Models (MLLMs) have garnered significant attention
 for their strong visual-semantic understanding. Most existing chart benchmarks

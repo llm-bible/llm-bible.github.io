@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024numerical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12441"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12441'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have emerged as the leading architecture in deep learning,
 proving to be versatile and highly effective across diverse domains beyond

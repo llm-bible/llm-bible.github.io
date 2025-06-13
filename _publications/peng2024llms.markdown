@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02108"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02108'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Post-training Large Language Models (LLMs) with explicit reasoning
 trajectories can enhance their reasoning abilities. However, acquiring such

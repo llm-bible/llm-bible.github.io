@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09394"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09394'}
 tags: ['Training Techniques']
 ---
 Despite the successes of language models, their evaluation remains a daunting

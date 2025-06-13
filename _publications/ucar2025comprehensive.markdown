@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ucar2025comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17190"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17190'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 This paper presents the overview of the development and fine-tuning of large
 language models (LLMs) designed specifically for answering medical questions.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12402"}
-tags: ['GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12402'}
+tags: ['Prompting', 'In-Context Learning', 'GPT', 'Pretraining Methods']
 ---
 Speech language models (LMs) are promising for high-quality speech synthesis
 through in-context learning. A typical speech LM takes discrete semantic units

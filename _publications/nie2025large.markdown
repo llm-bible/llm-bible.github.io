@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: nie2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09992"}
-  - {name: "Code", url: "https://ml-gsai.github.io/LLaDA-demo/"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09992'}
+  - {name: "Code", url: 'https://ml-gsai.github.io/LLaDA-demo/'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Merging', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Autoregressive models (ARMs) are widely regarded as the cornerstone of large
 language models (LLMs). We challenge this notion by introducing LLaDA, a

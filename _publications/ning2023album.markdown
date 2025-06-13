@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ning2023album
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12943"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12943'}
 tags: ['Reinforcement Learning']
 ---
 This work studies how to transform an album to vivid and coherent stories, a

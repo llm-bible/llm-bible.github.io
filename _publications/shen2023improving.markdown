@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17400"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17400'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Transformer-based models, such as BERT and GPT, have been widely adopted in
 natural language processing (NLP) due to their exceptional performance.

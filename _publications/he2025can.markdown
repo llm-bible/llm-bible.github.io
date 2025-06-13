@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19361"}
-tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19361'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Recently, o1-like models have drawn significant attention, where these models
 produce the long Chain-of-Thought (CoT) reasoning steps to improve the

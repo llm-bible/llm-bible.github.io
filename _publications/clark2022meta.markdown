@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: clark2022meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.02475"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.02475'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Dynamic evaluation of language models (LMs) adapts model parameters at test
 time using gradient information from previous tokens and substantially improves

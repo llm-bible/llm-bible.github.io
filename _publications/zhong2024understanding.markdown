@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13282"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13282'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Enabling LLMs to handle lengthy context is currently a research hotspot. Most
 LLMs are built upon rotary position embedding (RoPE), a popular position

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01469"}
-  - {name: "Code", url: "https://github.com/PKU-YuanGroup/Hallucination-Attack"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Security', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01469'}
+  - {name: "Code", url: 'https://github.com/PKU-YuanGroup/Hallucination-Attack'}
+tags: ['Has Code', 'Transformer', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), including GPT-3.5, LLaMA, and PaLM, seem to be
 knowledgeable and able to adapt to many tasks. However, we still cannot

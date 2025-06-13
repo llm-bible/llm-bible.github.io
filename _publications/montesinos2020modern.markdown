@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: montesinos2020modern
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.04968"}
-tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.04968'}
+tags: ['Language Modeling', 'Transformer', 'GPT', 'Model Architecture', 'BERT', 'Applications', 'Pretraining Methods']
 ---
 Synthetic text generation is challenging and has limited success. Recently, a
 new architecture, called Transformers, allow machine learning models to

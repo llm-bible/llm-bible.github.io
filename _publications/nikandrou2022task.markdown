@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: nikandrou2022task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.00044"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Security', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.00044'}
+tags: ['Transformer', 'Security', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Continual learning aims to train a model incrementally on a sequence of tasks
 without forgetting previous knowledge. Although continual learning has been

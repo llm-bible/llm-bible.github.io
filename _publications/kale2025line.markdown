@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kale2025line
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11256"}
-  - {name: "Code", url: "https://github.com/knowledge-verse-ai/LLM-Self_Knowledge_Eval"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11256'}
+  - {name: "Code", url: 'https://github.com/knowledge-verse-ai/LLM-Self_Knowledge_Eval'}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Merging']
 ---
 As LLMs grow more powerful, their most profound achievement may be

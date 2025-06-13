@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: potamitis2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12951"}
-tags: ['Tools', 'Agentic', 'Agent', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12951'}
+tags: ['Prompting', 'Agentic', 'Tools', 'Agent']
 ---
 Recent advancements in large language models (LLMs) have catalyzed the
 development of general-purpose autonomous agents, demonstrating remarkable

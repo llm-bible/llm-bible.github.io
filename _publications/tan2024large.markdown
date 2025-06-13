@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13446"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13446'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 Data annotation and synthesis generally refers to the labeling or generating
 of raw data with relevant information, which could be used for improving the

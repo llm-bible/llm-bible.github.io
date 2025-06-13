@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sharma2025cola
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02965"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02965'}
+tags: ['Language Modeling', 'GPT', 'Model Architecture', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 LLMs' remarkable ability to tackle a wide range of language tasks opened new
 opportunities for collaborative human-AI problem solving. LLMs can amplify

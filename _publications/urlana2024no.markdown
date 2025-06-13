@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: urlana2024no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01444"}
-  - {name: "Code", url: "https://github.com/vinayakcse/IndustrialLLMsPapers"}
-tags: ['Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01444'}
+  - {name: "Code", url: 'https://github.com/vinayakcse/IndustrialLLMsPapers'}
+tags: ['Has Code', 'RAG', 'Applications', 'Merging', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are playing a pivotal role in deploying
 strategic use cases across a range of organizations, from large pan-continental

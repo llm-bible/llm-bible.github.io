@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: merth2024superposition
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06910"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06910'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite the successes of large language models (LLMs), they exhibit
 significant drawbacks, particularly when processing long contexts. Their

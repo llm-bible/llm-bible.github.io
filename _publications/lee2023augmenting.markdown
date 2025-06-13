@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03003"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03003'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 The advent of large language models (LLMs) has opened up new opportunities in
 the field of mobile task automation. Their superior language understanding and

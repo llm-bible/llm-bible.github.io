@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yim2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18093"}
-  - {name: "Code", url: "https://github.com/yimjinkyu1/date2024_pipette"}
-tags: ['Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18093'}
+  - {name: "Code", url: 'https://github.com/yimjinkyu1/date2024_pipette'}
+tags: ['Reinforcement Learning', 'Has Code', 'Training Techniques']
 ---
 Training large language models (LLMs) is known to be challenging because of
 the huge computational and memory capacity requirements. To address these

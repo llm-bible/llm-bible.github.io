@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: marouf2025no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04469"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'ACL', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04469'}
+tags: ['Attention Mechanism', 'ACL', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Multimodal Models']
 ---
 Continual Learning in Visual Question Answering (VQACL) requires models to
 learn new visual-linguistic tasks (plasticity) while retaining knowledge from

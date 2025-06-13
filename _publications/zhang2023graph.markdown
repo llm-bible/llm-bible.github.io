@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.11116"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11116'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'RecSys', 'Applications', 'Reinforcement Learning']
 ---
 In this paper, we aim to develop a large language model (LLM) with the
 reasoning ability on complex graph data. Currently, LLMs have achieved very

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023survey
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.19860v5"}
-  - {name: "Code", url: "https://github.com/WLiK/LLM4Rec"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.19860v5'}
+  - {name: "Code", url: 'https://github.com/WLiK/LLM4Rec'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have emerged as powerful tools in the field of
 Natural Language Processing (NLP) and have recently gained significant

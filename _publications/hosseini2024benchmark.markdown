@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hosseini2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09834"}
-  - {name: "Code", url: "https://github.com/lavita-ai/medical-eval-sphere"}
-tags: ['Ethics and Bias', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09834'}
+  - {name: "Code", url: 'https://github.com/lavita-ai/medical-eval-sphere'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Applications']
 ---
 There is a lack of benchmarks for evaluating large language models (LLMs) in
 long-form medical question answering (QA). Most existing medical QA evaluation

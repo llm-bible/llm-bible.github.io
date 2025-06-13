@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: okuda2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15645"}
-  - {name: "Code", url: "https://github.com/katsumiok/ts-askit"}
-  - {name: "Code", url: "https://github.com/katsumiok/pyaskit,"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15645'}
+  - {name: "Code", url: 'https://github.com/katsumiok/ts-askit'}
+  - {name: "Code", url: 'https://github.com/katsumiok/pyaskit,'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit a unique phenomenon known as emergent
 abilities, demonstrating adeptness across numerous tasks, from text

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bahak2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07592"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07592'}
+tags: ['Attention Mechanism', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 In the current era, a multitude of language models has emerged to cater to
 user inquiries. Notably, the GPT-3.5 Turbo language model has gained

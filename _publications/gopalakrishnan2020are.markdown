@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gopalakrishnan2020are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.07683"}
-tags: ['Transformer', 'INTERSPEECH', 'GPT', 'NeurIPS', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.07683'}
+tags: ['Attention Mechanism', 'Transformer', 'NeurIPS', 'INTERSPEECH', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Large end-to-end neural open-domain chatbots are becoming increasingly
 popular. However, research on building such chatbots has typically assumed that

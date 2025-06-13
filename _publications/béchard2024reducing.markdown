@@ -6,8 +6,8 @@ conference: "2024.naacl-industry.19"
 year: 2024
 bibkey: béchard2024reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08189"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08189'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 A common and fundamental limitation of Generative AI (GenAI) is its
 propensity to hallucinate. While large language models (LLM) have taken the

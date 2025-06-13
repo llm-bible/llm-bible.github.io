@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fadeeva2023lm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07383"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07383'}
+tags: ['Language Modeling', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in the capabilities of large language models (LLMs) have
 paved the way for a myriad of groundbreaking applications in various fields.

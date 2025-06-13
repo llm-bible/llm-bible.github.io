@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023video
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10122"}
-  - {name: "Code", url: "https://github.com/PKU-YuanGroup/Video-LLaVA"}
-tags: ['GPT', 'Model Architecture', 'Tokenization', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10122'}
+  - {name: "Code", url: 'https://github.com/PKU-YuanGroup/Video-LLaVA'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Multimodal Models', 'Tokenization']
 ---
 The Large Vision-Language Model (LVLM) has enhanced the performance of
 various downstream tasks in visual-language understanding. Most existing

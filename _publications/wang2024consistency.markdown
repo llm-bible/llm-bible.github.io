@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024consistency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12735"}
-  - {name: "Code", url: "https://github.com/Raibows/CREAM"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12735'}
+  - {name: "Code", url: 'https://github.com/Raibows/CREAM'}
+tags: ['Has Code', 'RAG', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recent self-rewarding large language models (LLM) have successfully applied
 LLM-as-a-Judge to iteratively improve the alignment performance without the

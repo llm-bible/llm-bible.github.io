@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abbasi2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08848"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08848'}
 tags: ['Applications']
 ---
 This paper explores the intersection of psychology and artificial

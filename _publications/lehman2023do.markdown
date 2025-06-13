@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lehman2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.08091"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.08091'}
+tags: ['In-Context Learning', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Although recent advances in scaling large language models (LLMs) have
 resulted in improvements on many NLP tasks, it remains unclear whether these

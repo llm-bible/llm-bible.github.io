@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22446"}
-  - {name: "Code", url: "https://github.com/cuongnguyenx/CounselingBench"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22446'}
+  - {name: "Code", url: 'https://github.com/cuongnguyenx/CounselingBench'}
+tags: ['Has Code', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The rapid evolution of Large Language Models (LLMs) presents a promising
 solution to the global shortage of mental health professionals. However, their

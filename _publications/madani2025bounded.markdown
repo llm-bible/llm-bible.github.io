@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: madani2025bounded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02911"}
-tags: ['Security', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02911'}
+tags: ['Attention Mechanism', 'Security', 'Model Architecture']
 ---
 Feature attribution (FA) methods are common post-hoc approaches that explain
 how Large Language Models (LLMs) make predictions. Accordingly, generating

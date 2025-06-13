@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fleshman2024continuous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08417"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08417'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly capable of completing knowledge
 intensive tasks by recalling information from a static pretraining corpus. Here

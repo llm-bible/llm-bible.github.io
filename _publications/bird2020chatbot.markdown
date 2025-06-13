@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: bird2020chatbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.05990"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.05990'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'BERT', 'Pretraining Methods']
 ---
 In this work, we present the Chatbot Interaction with Artificial Intelligence
 (CI-AI) framework as an approach to the training of deep learning chatbots for

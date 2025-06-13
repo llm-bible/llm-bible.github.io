@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11263"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11263'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite significant progress in model editing methods, their application in
 real-world scenarios remains challenging as they often cause large language

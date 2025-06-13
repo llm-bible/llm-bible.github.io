@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024defense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01666"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01666'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Overcoming the limited context limitations in early-generation LLMs,
 retrieval-augmented generation (RAG) has been a reliable solution for

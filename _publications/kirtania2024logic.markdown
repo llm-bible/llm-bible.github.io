@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kirtania2024logic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02514"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02514'}
 tags: ['RAG', 'Prompting']
 ---
 In this paper we examine the limitations of Large Language Models (LLMs) for

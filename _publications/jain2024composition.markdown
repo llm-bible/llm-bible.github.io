@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024composition
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01868"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01868'}
 tags: ['Training Techniques', 'RAG', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) have achieved remarkable advancements, but their

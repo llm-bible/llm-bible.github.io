@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: handa2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10601"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10601'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Responsible AI']
 ---
 Recent advancements in Large Language Model (LLM) safety have primarily
 focused on mitigating attacks crafted in natural language or common ciphers

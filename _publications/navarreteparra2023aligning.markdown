@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: navarreteparra2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.17649"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.17649'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 In this paper, we propose a methodology to align a medium-sized GPT model,
 originally trained in English for an open domain, to a small closed domain in

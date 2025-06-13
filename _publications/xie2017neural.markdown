@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: xie2017neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1711.09534"}
-tags: ['Language Modeling', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1711.09534'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 Deep learning methods have recently achieved great empirical success on
 machine translation, dialogue response generation, summarization, and other

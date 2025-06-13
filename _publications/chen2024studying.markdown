@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024studying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19783"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19783'}
+tags: ['RAG', 'Security', 'Applications', 'Tools', 'Prompting', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large language models (LLMs) achieve promising results in code generation
 based on a given natural language description. They have been integrated into

@@ -6,8 +6,8 @@ conference: "IJCV 2025"
 year: 2023
 bibkey: wu2023paragraph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14284"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14284'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Text-to-image (T2I) models have recently experienced rapid development,
 achieving astonishing performance in terms of fidelity and textual alignment

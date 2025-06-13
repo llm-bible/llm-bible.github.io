@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024intent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14252"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14252'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generating large-scale, domain-specific, multilingual multi-turn dialogue
 datasets remains a significant hurdle for training effective Multi-Turn Intent

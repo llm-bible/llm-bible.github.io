@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023modular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02379"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02379'}
+tags: ['Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Quantization', 'Applications', 'Pretraining Methods']
 ---
 Pre-trained Transformer models like T5 and BART have advanced the state of
 the art on a wide range of text generation tasks. Compressing these models into

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saeedi2024heuristics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02820"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02820'}
+tags: ['Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 We investigate the presence of cognitive biases in three large language
 models (LLMs): GPT-4o, Gemma 2, and Llama 3.1. The study uses 1,500 experiments

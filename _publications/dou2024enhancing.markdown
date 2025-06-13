@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dou2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08046"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08046'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 The emergence of large language models (LLMs), such as Generative Pre-trained
 Transformer 4 (GPT-4) used by ChatGPT, has profoundly impacted the academic and

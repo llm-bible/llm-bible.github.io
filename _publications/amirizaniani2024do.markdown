@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amirizaniani2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05659"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05659'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 Theory of Mind (ToM) reasoning entails recognizing that other individuals
 possess their own intentions, emotions, and thoughts, which is vital for

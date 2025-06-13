@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: brivaiglesias2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07681"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07681'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This study evaluates the machine translation (MT) quality of two

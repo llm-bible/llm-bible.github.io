@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00829"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00829'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Enhancing the reasoning capabilities of Large Language Models (LLMs) with
 efficiency and scalability remains a fundamental challenge in artificial

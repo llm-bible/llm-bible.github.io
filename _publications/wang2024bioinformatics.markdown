@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024bioinformatics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15274"}
-tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15274'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Survey Paper']
 ---
 The year 2023 marked a significant surge in the exploration of applying large
 language model (LLM) chatbots, notably ChatGPT, across various disciplines. We

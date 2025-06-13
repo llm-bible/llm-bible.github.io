@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rohde2021hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.07545"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.07545'}
+tags: ['Attention Mechanism', 'Arxiv', 'Transformer', 'RAG', 'WMT', 'Model Architecture', 'Training Techniques', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 One of the challenges for current sequence to sequence (seq2seq) models is
 processing long sequences, such as those in summarization and document level

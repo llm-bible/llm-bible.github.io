@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: papadatos2024linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00967"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00967'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are often sycophantic, prioritizing agreement
 with their users over accurate or objective statements. This problematic

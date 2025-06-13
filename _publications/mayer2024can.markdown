@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mayer2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04164"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04164'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture']
 ---
 In recent years, large language models (LLMs) have emerged as powerful tools
 with potential applications in various fields, including software engineering.

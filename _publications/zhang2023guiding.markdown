@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023guiding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13208"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13208'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications', 'Model Architecture']
 ---
 Deep generative neural networks, such as Variational AutoEncoders (VAEs),
 offer an opportunity to better understand and control language models from the

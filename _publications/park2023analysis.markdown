@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: park2023analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07820"}
-tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07820'}
+tags: ['Language Modeling', 'Few-Shot', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Prompting', 'Tokenization', 'Pretraining Methods']
 ---
 An exciting advancement in the field of multilingual models is the emergence
 of autoregressive models with zero- and few-shot capabilities, a phenomenon

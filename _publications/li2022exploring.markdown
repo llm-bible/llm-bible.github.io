@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.07046"}
-tags: ['Transformer', 'Pre-Training', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.07046'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Interpretability', 'Pretraining Methods']
 ---
 Contrastive Language-Image Pre-training (CLIP) learns rich representations
 via readily available supervision of natural language. It improves the

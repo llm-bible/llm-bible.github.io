@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yoshida2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16241"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Pretraining Methods', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16241'}
+tags: ['Masked Language Model', 'Transformer', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'BERT', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This thesis provides methods and analysis of models which make progress on
 this goal. The techniques outlined are task agnostic, and should provide

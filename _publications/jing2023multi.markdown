@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jing2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09829"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09829'}
 tags: ['Uncategorized']
 ---
 The effective assessment of the instruction-following ability of large

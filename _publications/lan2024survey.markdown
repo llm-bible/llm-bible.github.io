@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lan2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15359"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15359'}
 tags: ['Survey Paper']
 ---
 The Large Visual Language Models (LVLMs) enhances user interaction and

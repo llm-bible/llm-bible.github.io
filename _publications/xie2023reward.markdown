@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11489"}
-  - {name: "Code", url: "https://text-to-reward.github.io/"}
-tags: ['Tools', 'Agentic', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11489'}
+  - {name: "Code", url: 'https://text-to-reward.github.io/'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Tools']
 ---
 Designing reward functions is a longstanding challenge in reinforcement
 learning (RL); it requires specialized knowledge or domain data, leading to

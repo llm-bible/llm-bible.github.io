@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sharan2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00125"}
-  - {name: "Code", url: "https://llmassist.github.io"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00125'}
+  - {name: "Code", url: 'https://llmassist.github.io'}
 tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Although planning is a crucial component of the autonomous driving stack,

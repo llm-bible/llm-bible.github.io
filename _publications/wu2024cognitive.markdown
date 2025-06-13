@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09176"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09176'}
 tags: ['RAG', 'Tools', 'Model Architecture']
 ---
 Resolving the dichotomy between the human-like yet constrained reasoning

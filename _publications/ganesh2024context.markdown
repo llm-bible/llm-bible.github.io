@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ganesh2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16383"}
-tags: ['RAG', 'Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16383'}
+tags: ['RAG', 'Prompting', 'Applications', 'Tools']
 ---
 Generating high-quality answers consistently by providing contextual
 information embedded in the prompt passed to the Large Language Model (LLM) is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024extroversion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04583"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04583'}
+tags: ['Agentic', 'Language Modeling', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) exhibit robust capabilities in text generation
 and comprehension, mimicking human behavior and exhibiting synthetic

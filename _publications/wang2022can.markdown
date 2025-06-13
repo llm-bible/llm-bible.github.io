@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.00735"}
-  - {name: "Code", url: "https://github.com/anonNo2/crosstalk-generation"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.00735'}
+  - {name: "Code", url: 'https://github.com/anonNo2/crosstalk-generation'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language is the principal tool for human communication, in which humor is one
 of the most attractive parts. Producing natural language like humans using

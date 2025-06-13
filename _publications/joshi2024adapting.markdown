@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: joshi2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14815"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14815'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 Multilingual LLMs support a variety of languages; however, their performance
 is suboptimal for low-resource languages. In this work, we emphasize the

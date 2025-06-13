@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: crouse2023formally
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08535"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08535'}
 tags: ['RAG', 'Agentic', 'Tools']
 ---
 Autonomous, goal-driven agents powered by LLMs have recently emerged as

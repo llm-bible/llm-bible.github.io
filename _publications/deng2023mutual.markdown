@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: deng2023mutual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05842"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05842'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 While large language models (LLMs) are empowered with broad knowledge, their

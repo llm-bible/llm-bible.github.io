@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: marro2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03933"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03933'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Language is typically modelled with discrete sequences. However, the most

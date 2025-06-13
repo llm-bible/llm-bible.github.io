@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: deutsch2025expanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12404"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12404'}
 tags: ['RAG', 'WMT']
 ---
 As large language models (LLM) become more and more capable in languages

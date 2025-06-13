@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: hung2021ds
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.08395"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.08395'}
+tags: ['Masked Language Model', 'Language Modeling', 'RAG', 'Training Techniques', 'Tools', 'BERT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent work has shown that self-supervised dialog-specific pretraining on
 large conversational datasets yields substantial gains over traditional

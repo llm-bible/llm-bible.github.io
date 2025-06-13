@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04072"}
-  - {name: "Code", url: "https://github.com/hyfshadow/PTBench"}
-tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04072'}
+  - {name: "Code", url: 'https://github.com/hyfshadow/PTBench'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Tool invocation is a crucial mechanism for extending the capabilities of
 Large Language Models (LLMs) and has recently garnered significant attention.

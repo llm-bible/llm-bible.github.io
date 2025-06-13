@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: saxena2025uav
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21432"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21432'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Multimodal Models']
 ---
 A core challenge in AI-guided autonomy is enabling agents to navigate
 realistically and effectively in previously unseen environments based on

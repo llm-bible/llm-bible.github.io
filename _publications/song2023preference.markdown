@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023preference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.17492"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.17492'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Large language models (LLMs) often contain misleading content, emphasizing
 the need to align them with human values to ensure secure AI systems.

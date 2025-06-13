@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: tay2022unifying
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2205.05131v3"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2205.05131v3'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Applications', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Existing pre-trained models are generally geared towards a particular class
 of problems. To date, there seems to be still no consensus on what the right

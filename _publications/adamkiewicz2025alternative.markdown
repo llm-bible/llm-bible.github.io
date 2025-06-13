@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: adamkiewicz2025alternative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09436"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09436'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Recent technological advances popularized the use of image generation among
 the general public. Crafting effective prompts can, however, be difficult for

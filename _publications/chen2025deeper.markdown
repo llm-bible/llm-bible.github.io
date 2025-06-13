@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025deeper
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11078"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11078'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 To advance personalized applications such as recommendation systems and user
 behavior prediction, recent research increasingly adopts large language models

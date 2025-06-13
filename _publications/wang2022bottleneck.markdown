@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022bottleneck
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.14318"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.14318'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'BERT', 'Pre-Training', 'Pretraining Methods']
 ---
 End-to-end spoken language understanding (SLU) systems benefit from
 pretraining on large corpora, followed by fine-tuning on application-specific

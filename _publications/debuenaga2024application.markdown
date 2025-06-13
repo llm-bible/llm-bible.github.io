@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: debuenaga2024application
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14694"}
-tags: ['Transformer', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14694'}
+tags: ['Language Modeling', 'Transformer', 'GPT', 'Model Architecture', 'Tools', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The GPT (Generative Pre-trained Transformer) language models are an
 artificial intelligence and natural language processing technology that enables

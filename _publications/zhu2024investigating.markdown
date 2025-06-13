@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05457"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05457'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Inspired by the recent advancements of Large Language Models (LLMs) in NLP
 tasks, there's growing interest in applying LLMs to graph-related tasks. This

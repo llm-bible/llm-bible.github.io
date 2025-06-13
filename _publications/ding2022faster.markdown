@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ding2022faster
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.14217"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.14217'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The development of the transformer-based text-to-image models are impeded by
 its slow generation and complexity for high-resolution images. In this work, we

@@ -6,9 +6,9 @@ conference: "ICLR 2024 spotlight"
 year: 2024
 bibkey: huang2024mastering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08957"}
-  - {name: "Code", url: "https://github.com/Eleanor-H/MUSTARD"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08957'}
+  - {name: "Code", url: 'https://github.com/Eleanor-H/MUSTARD'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recent large language models (LLMs) have witnessed significant advancement in
 various tasks, including mathematical reasoning and theorem proving. As these

@@ -6,10 +6,10 @@ conference: "EMNLP 2024 Main (The 2024 Conference on Empirical Methods on Natura
 year: 2024
 bibkey: chen2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08702"}
-  - {name: "Code", url: "https://github.com/yongchao98/PROMST"}
-  - {name: "Code", url: "https://yongchao98.github.io/MIT-REALM-PROMST"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08702'}
+  - {name: "Code", url: 'https://github.com/yongchao98/PROMST'}
+  - {name: "Code", url: 'https://yongchao98.github.io/MIT-REALM-PROMST'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Prompting']
 ---
 Prompt optimization aims to find the best prompt to a large language model
 (LLM) for a given task. LLMs have been successfully used to help find and

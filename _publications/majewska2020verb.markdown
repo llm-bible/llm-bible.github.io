@@ -6,8 +6,8 @@ conference: "Proceedings of ACL-IJCNLP 2021 Volume 1 Long Papers 6952-6969"
 year: 2020
 bibkey: majewska2020verb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15421"}
-tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15421'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 In parallel to their overwhelming success across NLP tasks, language ability
 of deep Transformer networks, pretrained via language modeling (LM) objectives

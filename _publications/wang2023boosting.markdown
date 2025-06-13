@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06427"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06427'}
 tags: ['Prompting']
 ---
 Recently, Chain-of-Thought (CoT) prompting has delivered success on complex

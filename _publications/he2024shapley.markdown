@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024shapley
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00705"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00705'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 The pre-trained Large Language Models (LLMs) can be adapted for many
 downstream tasks and tailored to align with human preferences through

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bansal2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02412"}
-tags: ['Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02412'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Foundational models with billions of parameters which have been trained on
 large corpora of data have demonstrated non-trivial skills in a variety of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dąbkowski2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07195"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07195'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Recursion is one of the hallmarks of human language. While many design
 features of language have been shown to exist in animal communication systems,

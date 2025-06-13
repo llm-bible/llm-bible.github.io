@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10637"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10637'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 While there is much excitement about the potential of large multimodal models
 (LMM), a comprehensive evaluation is critical to establish their true

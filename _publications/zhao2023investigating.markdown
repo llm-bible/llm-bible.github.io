@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14987"}
-  - {name: "Code", url: "https://github.com/yale-nlp/LLM-T2T"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14987'}
+  - {name: "Code", url: 'https://github.com/yale-nlp/LLM-T2T'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Tabular data is prevalent across various industries, necessitating
 significant time and effort for users to understand and manipulate for their

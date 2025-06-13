@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: rony2022knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.09149"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.09149'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Task-oriented dialogue generation is challenging since the underlying
 knowledge is often dynamic and effectively incorporating knowledge into the

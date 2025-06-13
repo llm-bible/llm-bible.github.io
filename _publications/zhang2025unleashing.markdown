@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05216"}
-tags: ['Language Modeling', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05216'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Applications', 'Model Architecture']
 ---
 Dense retrieval is a crucial task in Information Retrieval (IR) and is the
 foundation for downstream tasks such as re-ranking. Recently, large language

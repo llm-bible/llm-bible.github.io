@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07508"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07508'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 The rise of large language models (LLMs) and instruction tuning has led to
 the current trend of instruction-tuned large language and vision models

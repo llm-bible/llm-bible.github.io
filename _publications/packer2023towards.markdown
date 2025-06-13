@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: packer2023towards
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.08560v2"}
-  - {name: "Code", url: "https://memgpt.ai"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.08560v2'}
+  - {name: "Code", url: 'https://memgpt.ai'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have revolutionized AI, but are constrained by
 limited context windows, hindering their utility in tasks like extended

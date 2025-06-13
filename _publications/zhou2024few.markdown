@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14774"}
-  - {name: "Code", url: "https://github.com/lionel-w2/FAP"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14774'}
+  - {name: "Code", url: 'https://github.com/lionel-w2/FAP'}
+tags: ['Attention Mechanism', 'Has Code', 'Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'Multimodal Models']
 ---
 The vulnerability of deep neural networks to imperceptible adversarial
 perturbations has attracted widespread attention. Inspired by the success of

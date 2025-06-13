@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: borro2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18816"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18816'}
 tags: ['RAG', 'Prompting']
 ---
 While systems designed for solving planning tasks vastly outperform Large

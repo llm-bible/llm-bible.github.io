@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ajith2023systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.00259"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.00259'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) performs tasks by prompting a large language model

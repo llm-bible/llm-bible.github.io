@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03085"}
-  - {name: "Code", url: "https://lucaria-academy.github.io/Mimir/"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03085'}
+  - {name: "Code", url: 'https://lucaria-academy.github.io/Mimir/'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods']
 ---
 Text serves as the key control signal in video generation due to its
 narrative nature. To render text descriptions into video clips, current video

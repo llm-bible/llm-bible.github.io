@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024population
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19668"}
-  - {name: "Code", url: "https://github.com/jacklishufan/PopAlignSDXL"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19668'}
+  - {name: "Code", url: 'https://github.com/jacklishufan/PopAlignSDXL'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Text-to-image (T2I) models achieve high-fidelity generation through extensive
 training on large datasets. However, these models may unintentionally pick up

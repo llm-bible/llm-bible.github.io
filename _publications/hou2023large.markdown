@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: hou2023large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.08845v2"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/LLMRank"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'RecSys', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.08845v2'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/LLMRank'}
+tags: ['Has Code', 'Model Architecture', 'GPT', 'Prompting', 'RecSys', 'Ethics and Bias']
 ---
 Recently, large language models (LLMs) (e.g., GPT-4) have demonstrated
 impressive general-purpose task-solving abilities, including the potential to

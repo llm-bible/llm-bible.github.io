@@ -6,8 +6,8 @@ conference: "In Proceedings of the 2023 AAAI and ACM Conference on AI Ethics and
 year: 2023
 bibkey: rastogi2023supporting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.09991"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09991'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models are becoming increasingly pervasive and ubiquitous in
 society via deployment in sociotechnical systems. Yet these language models, be

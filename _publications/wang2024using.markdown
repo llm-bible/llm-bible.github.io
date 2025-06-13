@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.07238"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.07238'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Distillation', 'Prompting', 'Pretraining Methods']
 ---
 Advanced Large language models (LLMs) like GPT-4 or LlaMa 3 provide superior
 performance in complex human-like interactions. But they are costly, or too

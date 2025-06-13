@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17197"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17197'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Leveraging Large Language Models (LLMs) for recommendation has recently
 garnered considerable attention, where fine-tuning plays a key role in LLMs'

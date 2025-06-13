@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tsvilodub2023overinformative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07151"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07151'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 When faced with a polar question, speakers often provide overinformative
 answers going beyond a simple "yes" or "no". But what principles guide the

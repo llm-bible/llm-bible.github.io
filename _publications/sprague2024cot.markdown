@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sprague2024cot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12183"}
-tags: ['RAG', 'Survey Paper', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12183'}
+tags: ['RAG', 'Prompting', 'Applications', 'Survey Paper']
 ---
 Chain-of-thought (CoT) via prompting is the de facto method for eliciting
 reasoning capabilities from large language models (LLMs). But for what kinds of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025driver
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07837"}
-tags: ['Fine-Tuning', 'Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07837'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Interpretability', 'Pretraining Methods']
 ---
 With the rapid development of China high-speed railway, drivers face
 increasingly significant technical challenges during operations, such as fault

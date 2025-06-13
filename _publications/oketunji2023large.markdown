@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: oketunji2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14769"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Language Modeling', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14769'}
+tags: ['Language Modeling', 'RAG', 'Fairness', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Bias Mitigation', 'Ethics and Bias']
 ---
 The Large Language Model Bias Index (LLMBI) is a pioneering approach designed
 to quantify and address biases inherent in large language models (LLMs), such

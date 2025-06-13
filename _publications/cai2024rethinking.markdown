@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06407"}
-tags: ['Responsible AI', 'RAG', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06407'}
+tags: ['RAG', 'Responsible AI', 'Applications']
 ---
 Large language models (LLMs) have become increasingly integrated with various
 applications. To ensure that LLMs do not generate unsafe responses, they are

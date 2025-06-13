@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024take
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19599"}
-tags: ['Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19599'}
+tags: ['Reinforcement Learning', 'Survey Paper']
 ---
 Recent studies suggest large language models (LLMs) can exhibit human-like
 reasoning, aligning with human behavior in economic experiments, surveys, and

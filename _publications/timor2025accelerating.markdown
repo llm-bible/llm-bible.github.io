@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: timor2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05202"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05202'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 Accelerating the inference of large language models (LLMs) is a critical
 challenge in generative AI. Speculative decoding (SD) methods offer substantial

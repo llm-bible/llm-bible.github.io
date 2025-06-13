@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: barry2021gabert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.12930"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.12930'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The BERT family of neural language models have become highly popular due to
 their ability to provide sequences of text with rich context-sensitive token

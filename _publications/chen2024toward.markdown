@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19707"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19707'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) have been routinely used to solve various tasks
 using step-by-step reasoning. However, the structure of intermediate reasoning

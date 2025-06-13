@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rahman2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15564"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15564'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have demonstrated
 promising capabilities in code generation tasks. However, most existing

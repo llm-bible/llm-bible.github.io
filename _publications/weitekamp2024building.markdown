@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: weitekamp2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17924"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17924'}
 tags: ['Agentic', 'Training Techniques']
 ---
 AI2T is an interactively teachable AI for authoring intelligent tutoring

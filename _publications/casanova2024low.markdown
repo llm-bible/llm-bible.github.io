@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: casanova2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12117"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12117'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Security', 'GPT', 'Training Techniques', 'Quantization', 'Pretraining Methods']
 ---
 Large language models (LLMs) have significantly advanced audio processing
 through audio codecs that convert audio into discrete tokens, enabling the

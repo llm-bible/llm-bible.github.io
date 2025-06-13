@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhattacharya2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13855"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13855'}
 tags: ['Model Architecture']
 ---
 Multilingualism in Large Language Models (LLMs) is an yet under-explored

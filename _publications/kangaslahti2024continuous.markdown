@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kangaslahti2024continuous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07117"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07117'}
+tags: ['Reinforcement Learning', 'RAG', 'Language Modeling', 'Applications']
 ---
 As large language models (LLMs) have gained popularity for a variety of use
 cases, making them adaptable and controllable has become increasingly

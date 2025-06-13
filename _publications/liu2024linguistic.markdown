@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024linguistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16504"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16504'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Multi-turn intent classification is notably challenging due to the complexity
 and evolving nature of conversational contexts. This paper introduces LARA, a

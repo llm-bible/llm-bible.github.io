@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: manduzio2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18890"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18890'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have demonstrated
 exceptional capabilities in natural language understanding and generation.

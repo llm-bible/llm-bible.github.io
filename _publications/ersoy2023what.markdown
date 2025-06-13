@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ersoy2023what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.12299"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.12299'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Multilingual generative language models (LMs) are increasingly fluent in a
 large variety of languages. Trained on the concatenation of corpora in multiple

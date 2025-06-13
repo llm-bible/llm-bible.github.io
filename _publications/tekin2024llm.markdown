@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tekin2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03953"}
-  - {name: "Code", url: "https://github.com/git-disl/llm-topla"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Pruning', 'Merging', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03953'}
+  - {name: "Code", url: 'https://github.com/git-disl/llm-topla'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Prompting', 'Pruning']
 ---
 Combining large language models during training or at inference time has
 shown substantial performance gain over component LLMs. This paper presents

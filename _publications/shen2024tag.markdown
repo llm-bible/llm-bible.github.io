@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024tag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05140"}
-tags: ['Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05140'}
+tags: ['Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable proficiency in
 understanding and generating natural language. However, their capabilities wane

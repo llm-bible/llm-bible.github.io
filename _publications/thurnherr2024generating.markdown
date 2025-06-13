@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thurnherr2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13714"}
-tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13714'}
+tags: ['Interpretability and Explainability', 'Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Achieving a mechanistic understanding of transformer-based language models is
 an open challenge, especially due to their large number of parameters.

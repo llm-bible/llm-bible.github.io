@@ -6,9 +6,9 @@ conference: "Machine Learning With Applications 16 100558"
 year: 2024
 bibkey: corrêa2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16640"}
-  - {name: "Code", url: "https://github.com/Nkluge-correa/TeenyTinyLlama"}
-tags: ['Applications', 'Has Code', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16640'}
+  - {name: "Code", url: 'https://github.com/Nkluge-correa/TeenyTinyLlama'}
+tags: ['Has Code', 'Language Modeling', 'Applications']
 ---
 Large language models (LLMs) have significantly advanced natural language
 processing, but their progress has yet to be equal across languages. While most

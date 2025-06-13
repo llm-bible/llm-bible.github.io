@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: yang2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08140"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08140'}
 tags: ['Applications', 'Model Architecture']
 ---
 Conversational recommendation systems (CRS) engage with users by inferring

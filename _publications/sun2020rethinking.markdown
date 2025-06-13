@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: sun2020rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.08961"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.08961'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper does not aim at introducing a novel model for document-level
 neural machine translation. Instead, we head back to the original Transformer

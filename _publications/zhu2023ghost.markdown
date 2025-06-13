@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023ghost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17144"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/GITM"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17144'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/GITM'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 The captivating realm of Minecraft has attracted substantial research
 interest in recent years, serving as a rich platform for developing intelligent

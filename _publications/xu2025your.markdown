@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17479"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17479'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'INTERSPEECH', 'Multimodal Models']
 ---
 In this paper, we present Speak Ease: an augmentative and alternative
 communication (AAC) system to support users' expressivity by integrating

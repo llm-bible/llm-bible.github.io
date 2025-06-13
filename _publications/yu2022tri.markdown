@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yu2022tri
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.02899"}
-tags: ['Transformer', 'Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.02899'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools']
 ---
 In natural language processing (NLP), the context of a word or sentence plays
 an essential role. Contextual information such as the semantic representation

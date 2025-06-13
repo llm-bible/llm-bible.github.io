@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: labash2024res
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16801"}
-  - {name: "Code", url: "https://github.com/Qurrent-AI/RES-Q"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16801'}
+  - {name: "Code", url: 'https://github.com/Qurrent-AI/RES-Q'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 The instruction-following ability of Large Language Models (LLMs) has
 cultivated a class of LLM-based systems capable of approaching complex tasks

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bucciarelli2024personalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03665"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03665'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 The task of image captioning demands an algorithm to generate natural
 language descriptions of visual inputs. Recent advancements have seen a

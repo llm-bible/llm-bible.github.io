@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15973"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15973'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 We present Legommenders, a unique library designed for content-based
 recommendation that enables the joint training of content encoders alongside

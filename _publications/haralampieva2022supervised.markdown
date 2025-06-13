@@ -6,8 +6,8 @@ conference: "Journal of Artificial Intelligence Research 74 (2022) 1059-1089"
 year: 2022
 bibkey: haralampieva2022supervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.09324"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.09324'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, there has been a surge in research in multimodal machine
 translation (MMT), where additional modalities such as images are used to

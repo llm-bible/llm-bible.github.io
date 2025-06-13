@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13193"}
-  - {name: "Code", url: "https://github.com/IDEA-XL/PRESTO"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13193'}
+  - {name: "Code", url: 'https://github.com/IDEA-XL/PRESTO'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) have seen growing adoption across
 various scientific disciplines. These advancements encourage the investigation

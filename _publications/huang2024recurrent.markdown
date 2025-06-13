@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024recurrent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06110"}
-  - {name: "Code", url: "https://github.com/WUHU-G/RCC_Transformer"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06110'}
+  - {name: "Code", url: 'https://github.com/WUHU-G/RCC_Transformer'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 To extend the context length of Transformer-based large language models
 (LLMs) and improve comprehension capabilities, we often face limitations due to

@@ -6,8 +6,8 @@ conference: "ICML 2024"
 year: 2024
 bibkey: dohmatob2024tale
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07043"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07043'}
+tags: ['Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Scaling Laws', 'Pre-Training', 'Pretraining Methods']
 ---
 As AI model size grows, neural scaling laws have become a crucial tool to
 predict the improvements of large models when increasing capacity and the size

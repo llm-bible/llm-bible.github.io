@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024collu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09997"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09997'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Despite their success, large language models (LLMs) face the critical

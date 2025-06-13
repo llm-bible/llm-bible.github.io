@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024expert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19299"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Training Techniques', 'Pretraining Methods', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19299'}
+tags: ['Efficiency and Optimization', 'Fairness', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) can elicit social bias during generations,
 especially when inference with toxic prompts. Controlling the sensitive

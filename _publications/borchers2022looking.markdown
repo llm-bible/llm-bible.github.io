@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: borchers2022looking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11374"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11374'}
+tags: ['RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The growing capability and availability of generative language models has
 enabled a wide range of new downstream tasks. Academic research has identified,

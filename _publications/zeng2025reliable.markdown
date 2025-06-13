@@ -6,7 +6,7 @@ conference: "EPTCS 416 2025 pp. 398-406"
 year: 2025
 bibkey: zeng2025reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09237"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09237'}
 tags: ['Agentic', 'Tools']
 ---
 Efforts have been made to make machines converse like humans in the past few

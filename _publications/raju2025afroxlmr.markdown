@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: raju2025afroxlmr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18020"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18020'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'Quantization', 'Reinforcement Learning']
 ---
 Language model compression through knowledge distillation has emerged as a
 promising approach for deploying large language models in resource-constrained

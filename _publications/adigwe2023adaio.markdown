@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: adigwe2023adaio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05360"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05360'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This paper presents the ADAIO team's system entry in the Building Educational
 Applications (BEA) 2023 Shared Task on Generating AI Teacher Responses in

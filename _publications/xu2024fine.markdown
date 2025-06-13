@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13551"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13551'}
 tags: ['Prompting']
 ---
 This work introduces an original and practical paradigm for narrative

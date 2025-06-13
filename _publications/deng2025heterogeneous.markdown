@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025heterogeneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01469"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01469'}
 tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods']
 ---
 Transformer-based sequential recommendation (TSR) models have shown superior

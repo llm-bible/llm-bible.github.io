@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11673"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11673'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Unified information extraction (UIE) aims to extract diverse structured
 information from unstructured text. While large language models (LLMs) have

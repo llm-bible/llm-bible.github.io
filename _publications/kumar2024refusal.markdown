@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024refusal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13886"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13886'}
+tags: ['Agentic', 'Security', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Reinforcement Learning', 'Responsible AI']
 ---
 For safety reasons, large language models (LLMs) are trained to refuse
 harmful user instructions, such as assisting dangerous activities. We study an

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rodriguez2025using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13948"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13948'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This research investigates the use of customized GPT models to enhance
 prompting proficiency among architecture students when generating AI-driven

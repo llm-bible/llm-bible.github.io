@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fuadi2023indonesian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.00856"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.00856'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Indonesian language is spoken by almost 200 million people and is the 10th
 most spoken language in the world, but it is under-represented in NLP (Natural

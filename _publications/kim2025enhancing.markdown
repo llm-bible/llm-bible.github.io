@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02722"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02722'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 Although large language models (LLMs) have demonstrated impressive reasoning
 capabilities across general domains, their effectiveness in real-world clinical

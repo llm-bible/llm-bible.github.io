@@ -6,8 +6,8 @@ conference: "In International Conference on Artificial Intelligence in Education
 year: 2024
 bibkey: scarlatos2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01304"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01304'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 Automatically generating feedback via large language models (LLMs) in
 intelligent tutoring systems and online learning platforms has the potential to

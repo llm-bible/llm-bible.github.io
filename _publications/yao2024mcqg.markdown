@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024mcqg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13191"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13191'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Automatic question generation (QG) is essential for AI and NLP, particularly
 in intelligent tutoring, dialogue systems, and fact verification. Generating

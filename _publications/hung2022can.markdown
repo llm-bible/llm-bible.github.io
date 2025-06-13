@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hung2022can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.07362"}
-tags: ['Model Architecture', 'Transformer', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.07362'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Demographic factors (e.g., gender or age) shape our language. Previous work
 showed that incorporating demographic factors can consistently improve

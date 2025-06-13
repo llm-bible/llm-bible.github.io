@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: grönroos2018memad
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.10802"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'WMT', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.10802'}
+tags: ['Transformer', 'WMT', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper describes the MeMAD project entry to the WMT Multimodal Machine
 Translation Shared Task.

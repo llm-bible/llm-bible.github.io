@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bruno2023insights
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08117"}
-tags: ['Language Modeling', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08117'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications', 'Merging']
 ---
 The widespread adoption of large language models (LLMs) across diverse AI
 applications is proof of the outstanding achievements obtained in several

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tiwari2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01758"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01758'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 Using proprietary Large Language Models on legal tasks poses challenges due
 to data privacy issues, domain data heterogeneity, domain knowledge

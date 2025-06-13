@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16568"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16568'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 Temporal knowledge graph question answering (TKGQA) poses a significant

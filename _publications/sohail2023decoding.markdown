@@ -6,8 +6,8 @@ conference: "Journal of King Saud University - Computer and Information Science 
 year: 2023
 bibkey: sohail2023decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14107"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14107'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Chat Generative Pre-trained Transformer (ChatGPT) has gained significant
 interest and attention since its launch in November 2022. It has shown

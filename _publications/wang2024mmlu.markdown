@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024mmlu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15468"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15468'}
 tags: ['Agentic']
 ---
 We propose MMLU-SR, a novel dataset designed to measure the true

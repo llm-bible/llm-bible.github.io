@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08910"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08910'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pruning']
 ---
 In modern large language models (LLMs), handling very long context lengths
 presents significant challenges as it causes slower inference speeds and

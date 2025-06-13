@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09431"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09431'}
+tags: ['Tools', 'Applications', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 While large language models (LLMs) present significant potential for
 supporting numerous real-world applications and delivering positive social

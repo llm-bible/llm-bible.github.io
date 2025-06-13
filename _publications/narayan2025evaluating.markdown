@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: narayan2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10360"}
-  - {name: "Code", url: "https://github.com/Kartik-3004/facexbench"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10360'}
+  - {name: "Code", url: 'https://github.com/Kartik-3004/facexbench'}
+tags: ['Has Code', 'Fairness', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Multimodal Models', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Multimodal Large Language Models (MLLMs) demonstrate impressive
 problem-solving abilities across a wide range of tasks and domains. However,

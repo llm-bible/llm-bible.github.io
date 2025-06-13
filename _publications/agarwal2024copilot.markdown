@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwal2024copilot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14261"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14261'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 The integration of Large Language Models (LLMs) into Development Environments
 (IDEs) has become a focal point in modern software development. LLMs such as

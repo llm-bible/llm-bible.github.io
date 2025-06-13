@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024align
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15838"}
-  - {name: "Code", url: "https://github.com/PKU-Alignment/align-anything"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15838'}
+  - {name: "Code", url: 'https://github.com/PKU-Alignment/align-anything'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Reinforcement learning from human feedback (RLHF) has proven effective in
 enhancing the instruction-following capabilities of large language models;

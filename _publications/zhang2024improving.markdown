@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16855"}
-tags: ['Scaling Laws', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16855'}
+tags: ['Multimodal Models', 'Training Techniques', 'Scaling Laws']
 ---
 Universal Multimodal Retrieval (UMR) aims to enable search across various
 modalities using a unified model, where queries and candidates can consist of

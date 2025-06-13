@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: do2024facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20434"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20434'}
 tags: ['Uncategorized']
 ---
 While humans increasingly rely on large language models (LLMs), they are

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13413"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13413'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have demonstrated that
 progressive refinement, rather than providing a single answer, results in more

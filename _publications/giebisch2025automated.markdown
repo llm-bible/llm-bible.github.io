@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: giebisch2025automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01248"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01248'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 In-car conversational systems bring the promise to improve the in-vehicle
 user experience. Modern conversational systems are based on Large Language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024powerful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04997"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04997'}
+tags: ['Training Techniques', 'Tools', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 CLIP is a foundational multimodal model that aligns image and text features
 into a shared representation space via contrastive learning on large-scale

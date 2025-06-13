@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hao2025low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01043"}
-  - {name: "Code", url: "https://github.com/Hao840/Awesome-Low-Precision-Training"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01043'}
+  - {name: "Code", url: 'https://github.com/Hao840/Awesome-Low-Precision-Training'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have achieved impressive performance across
 various domains. However, the substantial hardware resources required for their

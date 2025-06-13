@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: son2025linguistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17407"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17407'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Scaling pre-training compute has proven effective for achieving
 mulitlinguality, but does the same hold for test-time scaling? In this work, we

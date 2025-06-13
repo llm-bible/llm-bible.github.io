@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.13369"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.13369'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, Transformer-based language models have demonstrated remarkable
 performance across many NLP domains. However, the unsupervised pre-training

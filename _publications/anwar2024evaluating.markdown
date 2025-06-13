@@ -6,8 +6,8 @@ conference: "43rd Annual CNS Conference and the 48th Annual CNS/CNA Student Conf
 year: 2024
 bibkey: anwar2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00090"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00090'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning']
 ---
 This paper examines the application of ChatGPT, a large language model (LLM),
 for question-and-answer (Q&A) tasks in the highly specialized field of nuclear

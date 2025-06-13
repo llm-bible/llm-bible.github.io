@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: burden2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01247"}
-tags: ['Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01247'}
+tags: ['Reinforcement Learning', 'Responsible AI', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) present a dual-use dilemma: they enable
 beneficial applications while harboring potential for harm, particularly

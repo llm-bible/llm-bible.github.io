@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10179"}
-tags: ['Fine-Tuning', 'RAG']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10179'}
+tags: ['RAG', 'Fine-Tuning']
 ---
 Large Language Models (LLMs) often suffer from catastrophic forgetting when
 learning multiple tasks sequentially, making continual learning (CL) essential

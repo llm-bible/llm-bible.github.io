@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: gavrilov2019self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1901.07786"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1901.07786'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Headline generation is a special type of text summarization task. While the
 amount of available training data for this task is almost unlimited, it still

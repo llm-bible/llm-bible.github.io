@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmed2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01110"}
-  - {name: "Code", url: "https://github.com/amurtadha/MateICL"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01110'}
+  - {name: "Code", url: 'https://github.com/amurtadha/MateICL'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 In-Context Learning (ICL). However, the fixed position length constraints in

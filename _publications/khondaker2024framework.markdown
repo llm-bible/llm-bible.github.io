@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khondaker2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15951"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15951'}
+tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Prior works on detoxification are scattered in the sense that they do not
 cover all aspects of detoxification needed in a real-world scenario. Notably,

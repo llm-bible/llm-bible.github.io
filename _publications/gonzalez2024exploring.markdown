@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gonzalez2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10890"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10890'}
 tags: ['Fine-Tuning', 'Tools']
 ---
 Large language models (LLMs) hold potential for innovative HCI research,

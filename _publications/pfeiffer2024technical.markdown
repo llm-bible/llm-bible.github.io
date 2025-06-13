@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pfeiffer2024technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09276"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09276'}
+tags: ['Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We present H2O-Danube3, a series of small language models consisting of
 H2O-Danube3-4B, trained on 6T tokens and H2O-Danube3-500M, trained on 4T

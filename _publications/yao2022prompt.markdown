@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: yao2022prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11166"}
-  - {name: "Code", url: "https://github.com/thunlp/DPT"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11166'}
+  - {name: "Code", url: 'https://github.com/thunlp/DPT'}
+tags: ['Has Code', 'Language Modeling', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Tools', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Recent works have shown promising results of prompt tuning in stimulating
 pre-trained language models (PLMs) for natural language processing (NLP) tasks.

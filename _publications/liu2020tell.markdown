@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020tell
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.01475"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.01475'}
+tags: ['Efficiency and Optimization', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we propose a novel data augmentation method, referred to as
 Controllable Rewriting based Question Data Augmentation (CRQDA), for machine

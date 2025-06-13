@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rawlekar2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08381"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08381'}
+tags: ['RAG', 'Multimodal Models', 'Prompting', 'Training Techniques']
 ---
 Vision-language models (VLMs) like CLIP have been adapted for Multi-Label
 Recognition (MLR) with partial annotations by leveraging prompt-learning, where

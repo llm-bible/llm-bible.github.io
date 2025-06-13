@@ -6,8 +6,8 @@ conference: "Artificial Intelligence in Music Sound Art and Design - 11th Intern
 year: 2022
 bibkey: krol2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.08264"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.08264'}
+tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Open AI's language model, GPT-3, has shown great potential for many NLP
 tasks, with applications in many different domains. In this work we carry out a

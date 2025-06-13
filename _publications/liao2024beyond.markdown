@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12866"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12866'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The efficiency of large language models (LLMs) remains a critical challenge,
 particularly in contexts where computational resources are limited. Traditional

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07232"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07232'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Recently, large language models (LLMs) enhanced by self-reflection have
 achieved promising performance on machine translation. The key idea is guiding

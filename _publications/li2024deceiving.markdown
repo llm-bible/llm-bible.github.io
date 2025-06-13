@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024deceiving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08248"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08248'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Deep learning underpins most of the currently advanced natural language
 processing (NLP) tasks such as textual classification, neural machine

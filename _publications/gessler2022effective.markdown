@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: gessler2022effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.12510"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.12510'}
+tags: ['Masked Language Model', 'Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer language models (TLMs) are critical for most NLP tasks, but they
 are difficult to create for low-resource languages because of how much

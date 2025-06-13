@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02611"}
-tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02611'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Tools']
 ---
 Modern media firms require automated and efficient methods to identify
 content that is most engaging and appealing to users. Leveraging a large-scale

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhai2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13125"}
-tags: ['Survey Paper', 'Uncategorized']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13125'}
+tags: ['Uncategorized', 'Survey Paper']
 ---
 Recent advances in large language models (LLMs) have shown that they can
 answer questions requiring complex reasoning. However, their ability to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hadjikyriacou2024would
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20053"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20053'}
+tags: ['Agentic', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pre-trained Language Models (LMs) exhibit strong zero-shot and in-context
 learning capabilities; however, their behaviors are often difficult to control.

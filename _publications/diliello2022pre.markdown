@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: diliello2022pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.10455"}
-tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.10455'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 An important task for designing QA systems is answer sentence selection
 (AS2): selecting the sentence containing (or constituting) the answer to a

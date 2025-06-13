@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: yang2022zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.08155"}
-  - {name: "Code", url: "https://github.com/antoyang/FrozenBiLM"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.08155'}
+  - {name: "Code", url: 'https://github.com/antoyang/FrozenBiLM'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'Few-Shot', 'BERT', 'GPT', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Video question answering (VideoQA) is a complex task that requires diverse
 multi-modal data for training. Manual annotation of question and answers for

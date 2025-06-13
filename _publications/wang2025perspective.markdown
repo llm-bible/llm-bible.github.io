@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025perspective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09265"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09265'}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 Large language models (LLMs) have revolutionized the field of natural
 language processing, enabling remarkable progress in various tasks. Different

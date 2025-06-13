@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024p
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04449"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04449'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Despite the remarkable performance of multimodal large language models
 (MLLMs) across diverse tasks, the substantial training and inference costs

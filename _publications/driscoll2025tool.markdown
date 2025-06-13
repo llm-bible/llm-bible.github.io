@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: driscoll2025tool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13859"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13859'}
+tags: ['Prompting', 'GPT', 'Tools', 'Model Architecture']
 ---
 AI, especially Large Language Models (LLMs) like ChatGPT, have rapidly
 developed and gained widespread adoption in the past five years, shifting user

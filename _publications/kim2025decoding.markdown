@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14289"}
-tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14289'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques', 'Tools']
 ---
 Personalized alignments for individual users have been a long-standing goal
 in large language models (LLMs). We introduce Drift, a novel framework that

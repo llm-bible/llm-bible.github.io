@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: iga2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17249"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17249'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent work has shown the capability of Large Language Models (LLMs) to solve
 tasks related to Knowledge Graphs, such as Knowledge Graph Completion, even in

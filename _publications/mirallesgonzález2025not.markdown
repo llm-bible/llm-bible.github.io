@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mirallesgonzález2025not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03940"}
-tags: ['Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03940'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 The rapid advancement in large language models (LLMs) has significantly
 enhanced their ability to generate coherent and contextually relevant text,

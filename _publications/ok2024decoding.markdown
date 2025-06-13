@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ok2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18002"}
-  - {name: "Code", url: "https://github.com/HJ-Ok/DecLimSup"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18002'}
+  - {name: "Code", url: 'https://github.com/HJ-Ok/DecLimSup'}
+tags: ['Has Code', 'Training Techniques']
 ---
 How can small-scale large language models (LLMs) efficiently utilize the
 supervision of LLMs to improve their generative quality? This question has been

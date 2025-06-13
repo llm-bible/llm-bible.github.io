@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nguyen2023recurrent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15348"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15348'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning large-scale Transformers has led to the explosion of many AI
 applications across Natural Language Processing and Computer Vision tasks.

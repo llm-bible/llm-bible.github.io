@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shivagunde2024deconstructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02054"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02054'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 The ability of large language models (LLMs) to \\(``\\)learn in context\\("\\) based
 on the provided prompt has led to an explosive growth in their use, culminating

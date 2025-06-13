@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024grammar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15639"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15639'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) have achieved remarkable progress in code
 generation. It now becomes crucial to identify whether the code is AI-generated

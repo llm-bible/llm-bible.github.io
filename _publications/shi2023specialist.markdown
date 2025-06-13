@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023specialist
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15326"}
-  - {name: "Code", url: "https://github.com/DavidFanzz/Generalist_or_Specialist"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15326'}
+  - {name: "Code", url: 'https://github.com/DavidFanzz/Generalist_or_Specialist'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Training Techniques']
 ---
 The potential of large language models (LLMs) to simultaneously perform a
 wide range of natural language processing (NLP) tasks has been the subject of

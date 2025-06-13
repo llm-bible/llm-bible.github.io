@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: owen2024linguistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09362"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09362'}
 tags: ['GPT', 'Model Architecture']
 ---
 The recent breakthroughs in Large Language Models (LLMs) have mostly focused

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: pashevich2021episodic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.06453"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.06453'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Interaction and navigation defined by natural language instructions in
 dynamic environments pose significant challenges for neural agents. This paper

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025toolace
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01400"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01400'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Tool learning, which allows Large Language Models (LLMs) to leverage external
 tools for solving complex user tasks, has emerged as a promising avenue for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024sifo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19999"}
-tags: ['Security', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19999'}
+tags: ['Ethics and Bias', 'Security', 'Applications']
 ---
 Following multiple instructions is a crucial ability for large language
 models (LLMs). Evaluating this ability comes with significant challenges: (i)

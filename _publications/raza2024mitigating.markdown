@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: raza2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11290"}
-  - {name: "Code", url: "https://github.com/shainarazavi/MBIAS/tree/main"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Ethics and Bias', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11290'}
+  - {name: "Code", url: 'https://github.com/shainarazavi/MBIAS/tree/main'}
+tags: ['Has Code', 'Security', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 The deployment of Large Language Models (LLMs) in diverse applications
 necessitates an assurance of safety without compromising the contextual

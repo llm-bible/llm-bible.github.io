@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hoang2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00867"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00867'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting']
 ---
 Compressing Large Language Models (LLMs) often leads to reduced performance,
 especially for knowledge-intensive tasks. In this work, we dive into how

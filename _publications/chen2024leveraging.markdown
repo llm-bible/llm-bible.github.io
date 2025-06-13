@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16977"}
-tags: ['RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16977'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models', 'Tools']
 ---
 Unlike professional Business-to-Consumer (B2C) e-commerce platforms (e.g.,
 Amazon), Consumer-to-Consumer (C2C) platforms (e.g., Facebook marketplace) are

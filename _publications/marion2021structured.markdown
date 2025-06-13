@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: marion2021structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.00269"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.00269'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 We tackle the problem of weakly-supervised conversational Question Answering
 over large Knowledge Graphs using a neural semantic parsing approach. We

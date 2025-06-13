@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rosenbaum2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05388"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05388'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 We present CALICO, a method to fine-tune Large Language Models (LLMs) to
 localize conversational agent training data from one language to another. For

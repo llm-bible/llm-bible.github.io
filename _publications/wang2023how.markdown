@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04751"}
-  - {name: "Code", url: "https://github.com/allenai/open-instruct"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04751'}
+  - {name: "Code", url: 'https://github.com/allenai/open-instruct'}
+tags: ['Has Code', 'RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning']
 ---
 In this work we explore recent advances in instruction-tuning language models
 on a range of open instruction-following datasets. Despite recent claims that

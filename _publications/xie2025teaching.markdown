@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03492"}
-tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03492'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Tools']
 ---
 Teaching large language models (LLMs) to critique and refine their outputs is
 crucial for building systems that can iteratively improve, yet it is

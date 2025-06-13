@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zlotchevski2022exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.13928"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.13928'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Transformer models achieved the state-of-the-art status for Natural
 Language Understanding tasks and are increasingly becoming the baseline model

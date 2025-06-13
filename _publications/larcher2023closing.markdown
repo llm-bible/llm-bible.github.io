@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: larcher2023closing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11878"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11878'}
+tags: ['Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 The strategy of training the model from scratch in a specific language or
 domain serves two essential purposes: i) enhancing performance in the

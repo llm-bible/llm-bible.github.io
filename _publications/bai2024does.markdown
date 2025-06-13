@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05648"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05648'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training']
 ---
 Continual learning (CL) aims to train models that can sequentially learn new
 tasks without forgetting previous tasks' knowledge. Although previous works

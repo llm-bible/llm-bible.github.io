@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lei2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10947"}
-  - {name: "Code", url: "https://github.com/microsoft/RecAI"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10947'}
+  - {name: "Code", url: 'https://github.com/microsoft/RecAI'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Fine-Tuning', 'RecSys', 'Reinforcement Learning']
 ---
 Recommender systems are widely used in online services, with embedding-based
 models being particularly popular due to their expressiveness in representing

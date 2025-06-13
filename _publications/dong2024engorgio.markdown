@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024engorgio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19394"}
-  - {name: "Code", url: "https://github.com/jianshuod/Engorgio-prompt"}
-tags: ['Security', 'Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19394'}
+  - {name: "Code", url: 'https://github.com/jianshuod/Engorgio-prompt'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code', 'Security']
 ---
 Auto-regressive large language models (LLMs) have yielded impressive
 performance in many real-world tasks. However, the new paradigm of these LLMs

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kelious2024abdelhak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00809"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00809'}
 tags: ['GPT', 'Model Architecture']
 ---
 This study introduces a dedicated model aimed at solving the BRAINTEASER task

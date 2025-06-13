@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: osman2018dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1802.00209"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1802.00209'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 Visual Question Answering (VQA) requires AI models to comprehend data in two
 domains, vision and text. Current state-of-the-art models use learned attention

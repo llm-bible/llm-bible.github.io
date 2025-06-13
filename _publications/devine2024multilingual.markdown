@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: devine2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12612"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12612'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Open source large language models (LLMs) have shown great improvements in
 recent times. However, many of these models are focused solely on popular

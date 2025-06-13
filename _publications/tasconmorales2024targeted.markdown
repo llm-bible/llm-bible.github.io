@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tasconmorales2024targeted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03043"}
-  - {name: "Code", url: "https://github.com/sergiotasconmorales/locvqallm"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03043'}
+  - {name: "Code", url: 'https://github.com/sergiotasconmorales/locvqallm'}
+tags: ['Has Code', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Merging', 'Multimodal Models']
 ---
 With growing interest in recent years, medical visual question answering
 (Med-VQA) has rapidly evolved, with multimodal large language models (MLLMs)

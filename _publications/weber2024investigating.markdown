@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: weber2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13703"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13703'}
 tags: ['Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 The adaption of multilingual pre-trained LLMs into eloquent and helpful

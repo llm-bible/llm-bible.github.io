@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chu2024causal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04160"}
-tags: ['Pre-Training', 'Tools', 'Ethics and Bias', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04160'}
+tags: ['Pre-Training', 'Security', 'Training Techniques', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have shown impressive performance in natural
 language tasks, but their outputs can exhibit undesirable attributes or biases.

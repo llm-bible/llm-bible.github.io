@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: west2021symbolic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.07178"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.07178'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Applications']
 ---
 The common practice for training commonsense models has gone
 from-human-to-corpus-to-machine: humans author commonsense knowledge graphs in

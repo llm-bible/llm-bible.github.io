@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdali2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05750"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05750'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) have revolutionized the field of Natural

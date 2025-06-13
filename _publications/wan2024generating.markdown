@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10426"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10426'}
 tags: ['Interpretability and Explainability', 'Merging']
 ---
 Large language models are limited by challenges in factuality and

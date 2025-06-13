@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rahman2024v
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15341"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15341'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In the rapidly evolving landscape of AI research and application, Multimodal
 Large Language Models (MLLMs) have emerged as a transformative force, adept at

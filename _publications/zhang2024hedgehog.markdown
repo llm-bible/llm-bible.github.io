@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024hedgehog
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04347"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04347'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Linear attentions have shown potential for improving Transformer efficiency,
 reducing attention's quadratic complexity to linear in sequence length. This

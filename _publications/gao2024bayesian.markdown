@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024bayesian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04424"}
-tags: ['Language Modeling', 'RAG', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04424'}
+tags: ['Ethics and Bias', 'Language Modeling', 'RAG', 'Applications']
 ---
 Recent advances in large language models (LLMs) show the potential of using
 LLMs as evaluators for assessing the quality of text generations from LLMs.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: karpinska2024one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16264"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16264'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Synthetic long-context LLM benchmarks (e.g., "needle-in-the-haystack") test
 only surface-level retrieval capabilities, but how well can long-context LLMs

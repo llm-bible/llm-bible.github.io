@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023is
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.04339v2"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.04339v2'}
+tags: ['Attention Mechanism', 'GPT', 'BERT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recently, ChatGPT has drawn great attention from both the research community
 and the public. We are particularly interested in whether it can serve as a

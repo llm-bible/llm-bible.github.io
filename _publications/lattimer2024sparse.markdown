@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lattimer2024sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04617"}
-  - {name: "Code", url: "https://github.com/asappresearch/josh-llm-simulation-training"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04617'}
+  - {name: "Code", url: 'https://github.com/asappresearch/josh-llm-simulation-training'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in state-of-the-art (SOTA) Large Language Model (LLM)
 agents, especially in multi-turn dialogue tasks, have been primarily driven by

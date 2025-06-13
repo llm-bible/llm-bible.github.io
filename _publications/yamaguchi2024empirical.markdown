@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yamaguchi2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10712"}
-tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10712'}
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 The development of state-of-the-art generative large language models (LLMs)
 disproportionately relies on English-centric tokenizers, vocabulary and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sarkar2024block
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10951"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10951'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 The ubiquity of vision transformers (ViTs) for various edge applications,
 including personalized learning, has created the demand for on-device

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vicsek2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03473"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03473'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Previous discussions have highlighted the need for generative AI tools to
 become more culturally sensitive, yet often neglect the complexities of

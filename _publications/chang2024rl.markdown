@@ -6,8 +6,8 @@ conference: "ICLR 2025 Workshop on Reasoning and Planning for Large Language Mod
 year: 2024
 bibkey: chang2024rl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23912"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23912'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The reasoning abilities of large language models (LLMs) have improved with
 chain-of-thought (CoT) prompting, allowing models to solve complex tasks

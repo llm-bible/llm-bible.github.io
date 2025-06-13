@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: geiping2024coercing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14020"}
-tags: ['Training Techniques', 'Security', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14020'}
+tags: ['Pre-Training', 'Security', 'Training Techniques']
 ---
 It has recently been shown that adversarial attacks on large language models
 (LLMs) can "jailbreak" the model into making harmful statements. In this work,

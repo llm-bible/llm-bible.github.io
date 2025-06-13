@@ -6,8 +6,8 @@ conference: "Proc. IEEE ASRU Workshop Dec. 2023"
 year: 2023
 bibkey: yang2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15649"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15649'}
+tags: ['ACL', 'Few-Shot', 'INTERSPEECH', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 We explore the ability of large language models (LLMs) to act as speech
 recognition post-processors that perform rescoring and error correction. Our

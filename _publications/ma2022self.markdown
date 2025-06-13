@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ma2022self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.08094"}
-tags: ['Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.08094'}
+tags: ['Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 This paper introduces a novel Self-supervised Fine-grained Dialogue
 Evaluation framework (SelF-Eval). The core idea is to model the correlation

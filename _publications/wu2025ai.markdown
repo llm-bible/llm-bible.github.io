@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12064"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12064'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 The rise of LLMs (Large Language Models) has contributed to the improved
 performance and development of cutting-edge NLP applications. However, these

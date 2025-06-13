@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: davoudi2025collective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20758"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20758'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 We present a collaborative framework where multiple large language models,
 namely GPT-4-0125-preview, Meta-LLaMA-3-70B-Instruct, Claude-3-Opus, and

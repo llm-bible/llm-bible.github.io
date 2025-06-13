@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11242"}
-  - {name: "Code", url: "https://github.com/declare-lab/trust-align"}
-tags: ['Tools', 'RAG', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11242'}
+  - {name: "Code", url: 'https://github.com/declare-lab/trust-align'}
+tags: ['Has Code', 'RAG', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 LLMs are an integral component of retrieval-augmented generation (RAG)
 systems. While many studies focus on evaluating the overall quality of

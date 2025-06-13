@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: candel2023democratizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08161"}
-tags: ['Transformer', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08161'}
+tags: ['Transformer', 'Fairness', 'Applications', 'Model Architecture', 'GPT', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Applications built on top of Large Language Models (LLMs) such as GPT-4
 represent a revolution in AI due to their human-level capabilities in natural

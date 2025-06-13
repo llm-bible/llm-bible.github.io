@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02561"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'ACL', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02561'}
+tags: ['Attention Mechanism', 'ACL', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Merging']
 ---
 We present LLM-Blender, an ensembling framework designed to attain
 consistently superior performance by leveraging the diverse strengths of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dietz2025integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00684"}
-tags: ['Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00684'}
+tags: ['Tools', 'Training Techniques']
 ---
 Solving arithmetic tasks is a simple and fundamental skill, yet modern Large
 Language Models (LLMs) have great difficulty with them. We introduce the

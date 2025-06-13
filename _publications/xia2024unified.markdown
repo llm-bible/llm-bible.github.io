@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17098"}
-tags: ['Training Techniques', 'RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17098'}
+tags: ['Training Techniques', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Currently, the success of large language models (LLMs) illustrates that a
 unified multitasking approach can significantly enhance model usability,

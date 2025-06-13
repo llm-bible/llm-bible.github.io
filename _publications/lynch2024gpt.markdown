@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lynch2024gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05435"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05435'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting']
 ---
 Large Language Models (LLMs) play a pivotal role in generating vast arrays of
 narratives, facilitating a systematic exploration of their effectiveness for

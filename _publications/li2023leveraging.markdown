@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00907"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00907'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning Large Language Models (LLMs) adapts a trained model to specific
 downstream tasks, significantly improving task-specific performance. Supervised

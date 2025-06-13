@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: shultz2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17196"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17196'}
 tags: ['Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 We examine whether a leading AI system GPT4 understands text as well as

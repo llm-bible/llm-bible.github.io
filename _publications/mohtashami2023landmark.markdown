@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: mohtashami2023landmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16300"}
-  - {name: "Code", url: "https://github.com/epfml/landmark-attention/"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16300'}
+  - {name: "Code", url: 'https://github.com/epfml/landmark-attention/'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 While Transformers have shown remarkable success in natural language
 processing, their attention mechanism's large memory requirements have limited

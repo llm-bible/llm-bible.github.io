@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024pooling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02727"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02727'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 The significant advancements of Large Language Models (LLMs) in generative
 tasks have led to a growing body of work exploring LLM-based embedding models.

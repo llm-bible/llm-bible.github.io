@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08069"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08069'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have become increasingly integral to enhancing
 developer productivity, particularly in code generation, comprehension, and

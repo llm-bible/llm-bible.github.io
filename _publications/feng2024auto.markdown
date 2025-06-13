@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01724"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01724'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Batch prompting is a common technique in large language models (LLMs) used to
 process multiple inputs simultaneously, aiming to improve computational

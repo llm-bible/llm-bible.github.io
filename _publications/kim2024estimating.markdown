@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024estimating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10933"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10933'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained large language models (LLMs) with limited hardware
 presents challenges due to GPU memory constraints. Various distributed

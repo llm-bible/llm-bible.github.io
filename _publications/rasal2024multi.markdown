@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rasal2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10039"}
-tags: ['Model Architecture', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10039'}
+tags: ['Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 In recent years, large language models have demonstrated remarkable
 capabilities in natural language understanding and generation. However, these

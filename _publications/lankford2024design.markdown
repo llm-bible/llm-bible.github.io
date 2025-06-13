@@ -6,8 +6,8 @@ conference: "In Proceedings of the 1st Workshop on Open Community-Driven Machine
 year: 2024
 bibkey: lankford2024design
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03582"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03582'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 adaptNMT is an open-source application that offers a streamlined approach to
 the development and deployment of Recurrent Neural Networks and Transformer

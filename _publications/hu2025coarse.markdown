@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025coarse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13622"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13622'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 The Process Reward Model (PRM) plays a crucial role in mathematical reasoning
 tasks, requiring high-quality supervised process data. However, we observe that

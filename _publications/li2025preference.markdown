@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025preference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16929"}
-  - {name: "Code", url: "https://github.com/lscpku/TEMPLE"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16929'}
+  - {name: "Code", url: 'https://github.com/lscpku/TEMPLE'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Video Large Language Models (Video LLMs) have achieved significant success by
 leveraging a two-stage paradigm: pretraining on large-scale video-text data for

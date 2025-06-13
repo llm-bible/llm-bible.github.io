@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kallappa2025krutrim
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09642"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09642'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 India is a diverse society with unique challenges in developing AI systems,
 including linguistic diversity, oral traditions, data accessibility, and

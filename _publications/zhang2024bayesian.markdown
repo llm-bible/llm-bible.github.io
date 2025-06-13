@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024bayesian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20163"}
-  - {name: "Code", url: "https://github.com/nuster1128/MemSim"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20163'}
+  - {name: "Code", url: 'https://github.com/nuster1128/MemSim'}
 tags: ['Agentic', 'Has Code']
 ---
 LLM-based agents have been widely applied as personal assistants, capable of

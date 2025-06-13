@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: schnabel2024symbolic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02319"}
-  - {name: "Code", url: "https://github.com/microsoft/sammo"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02319'}
+  - {name: "Code", url: 'https://github.com/microsoft/sammo'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting']
 ---
 In many modern LLM applications, such as retrieval augmented generation,
 prompts have become programs themselves. In these settings, prompt programs are

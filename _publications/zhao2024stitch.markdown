@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024stitch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03324"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03324'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Vision-language models (VLMs) have shown remarkable success across various
 multi-modal tasks, yet large VLMs encounter significant efficiency challenges

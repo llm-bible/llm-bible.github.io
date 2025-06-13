@@ -6,8 +6,8 @@ conference: "Front. Robot. AI 111347538 2024"
 year: 2023
 bibkey: lakhnati2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07214"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07214'}
+tags: ['Agentic', 'Transformer', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In a rapidly evolving digital landscape autonomous tools and robots are
 becoming commonplace. Recognizing the significance of this development, this

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhan2023general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12680"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12680'}
+tags: ['Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The burgeoning progress in the field of Large Language Models (LLMs) heralds
 significant benefits due to their unparalleled capacities. However, it is

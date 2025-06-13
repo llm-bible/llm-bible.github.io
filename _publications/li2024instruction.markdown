@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08443"}
-tags: ['Multimodal Models', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08443'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Merging']
 ---
 Large Vision-Language Models (LVLMs) have achieved remarkable success in a
 wide range of multimodal tasks by integrating pre-trained vision encoders and

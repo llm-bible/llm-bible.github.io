@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: pengpun2024seed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15484"}
-  - {name: "Code", url: "https://github.com/parinzee/seed-free-synthetic-instruct"}
-tags: ['Fine-Tuning', 'Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15484'}
+  - {name: "Code", url: 'https://github.com/parinzee/seed-free-synthetic-instruct'}
+tags: ['Fine-Tuning', 'Has Code', 'Applications', 'Tools']
 ---
 We present a synthetic data approach for instruction-tuning large language
 models (LLMs) for low-resource languages in a data-efficient manner,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kumar2025no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00441"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00441'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Responsible AI']
 ---
 As large language models (LLMs) and generative AI become widely adopted,
 guardrails have emerged as a key tool to ensure their safe use. However, adding

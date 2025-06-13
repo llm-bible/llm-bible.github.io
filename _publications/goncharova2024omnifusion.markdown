@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: goncharova2024omnifusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06212"}
-  - {name: "Code", url: "https://github.com/AIRI-Institute/OmniFusion"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06212'}
+  - {name: "Code", url: 'https://github.com/AIRI-Institute/OmniFusion'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 Last year, multimodal architectures served up a revolution in AI-based
 approaches and solutions, extending the capabilities of large language models

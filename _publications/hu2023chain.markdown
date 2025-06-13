@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10276"}
-  - {name: "Code", url: "https://github.com/hanxuhu/chain-of-symbol-planning"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10276'}
+  - {name: "Code", url: 'https://github.com/hanxuhu/chain-of-symbol-planning'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 In this paper, we take the initiative to investigate the performance of LLMs
 on complex planning tasks that require LLMs to understand a virtual spatial

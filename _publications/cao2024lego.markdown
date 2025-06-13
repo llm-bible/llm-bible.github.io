@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024lego
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05844"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05844'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 GraphRAG integrates (knowledge) graphs with large language models (LLMs) to
 improve reasoning accuracy and contextual relevance. Despite its promising

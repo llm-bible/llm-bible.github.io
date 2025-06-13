@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rehm2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12886"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12886'}
+tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning', 'Applications']
 ---
 Large language models (LLMs) demonstrate unprecedented capabilities and
 define the state of the art for almost all natural language processing (NLP)

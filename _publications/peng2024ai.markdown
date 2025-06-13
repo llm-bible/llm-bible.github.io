@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10956"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10956'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 In recent years, generative AI has undergone major advancements,
 demonstrating significant promise in augmenting human productivity. Notably,

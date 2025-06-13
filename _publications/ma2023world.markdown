@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023world
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08685"}
-  - {name: "Code", url: "https://github.com/sled-group/world-to-words"}
-tags: ['Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08685'}
+  - {name: "Code", url: 'https://github.com/sled-group/world-to-words'}
+tags: ['Has Code', 'Model Architecture', 'BERT', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 The ability to connect language units to their referents in the physical
 world, referred to as grounding, is crucial to learning and understanding

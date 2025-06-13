@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024m
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20127"}
-  - {name: "Code", url: "https://github.com/SU-JIAYUAN/M-MAD"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20127'}
+  - {name: "Code", url: 'https://github.com/SU-JIAYUAN/M-MAD'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Recent advancements in large language models (LLMs) have given rise to the
 LLM-as-a-judge paradigm, showcasing their potential to deliver human-like

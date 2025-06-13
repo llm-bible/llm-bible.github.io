@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: christopoulou2024controlling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05102"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05102'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 Preference Optimization (PO) has proven an effective step for aligning
 language models to human-desired behaviors. Current variants, following the

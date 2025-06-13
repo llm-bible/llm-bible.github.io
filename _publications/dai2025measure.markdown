@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: dai2025measure
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01478"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01478'}
 tags: ['RAG', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated improved generation

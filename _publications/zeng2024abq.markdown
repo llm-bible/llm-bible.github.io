@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024abq
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08554"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08554'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Quantization', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing
 tasks. However, their practical application is constrained by substantial

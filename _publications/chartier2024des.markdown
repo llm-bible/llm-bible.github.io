@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chartier2024des
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15173"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15173'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) like ChatGPT or Bard have revolutionized

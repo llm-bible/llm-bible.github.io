@@ -6,8 +6,8 @@ conference: "NAACL 2024 Findings"
 year: 2024
 bibkey: ki2024guiding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07851"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07851'}
+tags: ['Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Machine Translation (MT) remains one of the last NLP tasks where large
 language models (LLMs) have not yet replaced dedicated supervised systems. This

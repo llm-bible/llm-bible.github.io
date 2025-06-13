@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025steering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00187"}
-  - {name: "Code", url: "https://github.com/HanjiangHu/NBF-LLM"}
-tags: ['Responsible AI', 'Tools', 'Merging', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00187'}
+  - {name: "Code", url: 'https://github.com/HanjiangHu/NBF-LLM'}
+tags: ['Has Code', 'Security', 'Tools', 'Merging', 'Prompting', 'Responsible AI']
 ---
 Large language models (LLMs) are highly vulnerable to jailbreaking attacks,
 wherein adversarial prompts are designed to elicit harmful responses. While

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: matton2019emergent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.10832"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.10832'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Large, self-supervised transformer-based language representation models have
 recently received significant amounts of attention, and have produced

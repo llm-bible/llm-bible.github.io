@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025translating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21022"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21022'}
 tags: ['RAG']
 ---
 Linear Temporal Logic (LTL) has become a prevalent specification language for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: juneja2025hardware
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19662"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19662'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Quantization', 'Reinforcement Learning']
 ---
 Quantization is critical for efficiently deploying large language models
 (LLMs). Yet conventional methods remain hardware-agnostic, limited to bit-width

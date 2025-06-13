@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023survey
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2308.15701v1"}
-tags: ['Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2308.15701v1'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'RecSys', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recommender systems is set up to address the issue of information overload in
 traditional information retrieval systems, which is focused on recommending

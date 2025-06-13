@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02130"}
-tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02130'}
+tags: ['Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are increasingly used for various tasks with
 graph structures. Though LLMs can process graph information in a textual

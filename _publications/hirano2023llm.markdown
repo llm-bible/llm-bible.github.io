@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hirano2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12720"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12720'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 This study constructed a Japanese chat dataset for tuning large language
 models (LLMs), which consist of about 8.4 million records. Recently, LLMs have

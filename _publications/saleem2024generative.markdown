@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saleem2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00959"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00959'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Traditional language models have been extensively evaluated for software
 engineering domain, however the potential of ChatGPT and Gemini have not been

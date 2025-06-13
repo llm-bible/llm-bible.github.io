@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: xie2021exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.08133"}
-tags: ['BERT', 'RAG', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.08133'}
+tags: ['RAG', 'GPT', 'BERT', 'Model Architecture']
 ---
 GPT-2 has been frequently adapted in story generation models as it provides
 powerful generative capability. However, it still fails to generate consistent

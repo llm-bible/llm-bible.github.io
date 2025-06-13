@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12516"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12516'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Despite remarkable advancements in mitigating hallucinations in large
 language models (LLMs) by retrieval augmentation, it remains challenging to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024calibrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19817"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19817'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The effectiveness of large language models (LLMs) is not only measured by
 their ability to generate accurate outputs but also by their calibration-how

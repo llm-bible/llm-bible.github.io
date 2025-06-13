@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: hennigen2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09188"}
-  - {name: "Code", url: "http://symgen.github.io"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09188'}
+  - {name: "Code", url: 'http://symgen.github.io'}
+tags: ['Has Code', 'Language Modeling', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 LLMs are vulnerable to hallucinations, and thus their outputs generally
 require laborious human verification for high-stakes applications. To this end,

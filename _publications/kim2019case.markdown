@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: kim2019case
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.07653"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.07653'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 The sequence-to-sequence (seq2seq) model for neural machine translation has

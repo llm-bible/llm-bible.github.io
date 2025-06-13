@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: an2024make
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16811"}
-  - {name: "Code", url: "https://github.com/microsoft/FILM"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16811'}
+  - {name: "Code", url: 'https://github.com/microsoft/FILM'}
+tags: ['Has Code', 'RAG', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 While many contemporary large language models (LLMs) can process lengthy
 input, they still struggle to fully utilize information within the long

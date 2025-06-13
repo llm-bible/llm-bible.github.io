@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kirk2022improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.07636"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.07636'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic']
 ---
 Language models (LLMs) offer potential as a source of knowledge for agents
 that need to acquire new task competencies within a performance environment. We

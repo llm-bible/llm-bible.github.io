@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: hazarika2021zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.06411"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.06411'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Controlling neural network-based models for natural language generation (NLG)
 has broad applications in numerous areas such as machine translation, document

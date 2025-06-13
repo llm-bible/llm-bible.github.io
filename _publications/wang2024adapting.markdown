@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04997"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'TACL', 'Language Modeling', 'Reinforcement Learning', 'ACL', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04997'}
+tags: ['Language Modeling', 'ACL', 'RAG', 'Efficiency and Optimization', 'Tools', 'Applications', 'Prompting', 'Reinforcement Learning', 'TACL']
 ---
 The rapid advancement of Large Language Models (LLMs) has inaugurated a
 transformative epoch in natural language processing, fostering unprecedented

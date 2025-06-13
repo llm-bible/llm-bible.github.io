@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09049"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/LC-Rec/"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'RecSys', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09049'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/LC-Rec/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'RecSys', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have shown great potential in
 recommender systems, either improving existing recommendation models or serving

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yue2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19213"}
-tags: ['RAG', 'Agentic', 'Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19213'}
+tags: ['RAG', 'Agentic', 'Applications', 'Survey Paper']
 ---
 This paper surveys the development of large language model (LLM)-based agents
 for question answering (QA). Traditional agents face significant limitations,

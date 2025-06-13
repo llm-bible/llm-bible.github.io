@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bommarito2022gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.14402"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.14402'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Nearly all jurisdictions in the United States require a professional license
 exam, commonly referred to as "the Bar Exam," as a precondition for law

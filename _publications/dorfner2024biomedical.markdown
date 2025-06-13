@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dorfner2024biomedical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13833"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13833'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown potential in biomedical applications,
 leading to efforts to fine-tune them on domain-specific data. However, the

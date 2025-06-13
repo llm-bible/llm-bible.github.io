@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: khanna2024tabular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01585"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01585'}
 tags: ['RAG', 'Applications']
 ---
 In recent times Large Language Models have exhibited tremendous capabilities,

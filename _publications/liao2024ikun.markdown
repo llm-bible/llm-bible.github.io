@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024ikun
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11512"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'WMT', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11512'}
+tags: ['RAG', 'WMT', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper introduces two multilingual systems, IKUN and IKUN-C, developed
 for the general machine translation task in WMT24. IKUN and IKUN-C represent an

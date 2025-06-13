@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: song2025discovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23361"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23361'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) possess impressive linguistic capabilities but
 often fail to faithfully retain factual knowledge, leading to hallucinations

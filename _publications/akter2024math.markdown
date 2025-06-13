@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: akter2024math
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12881"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12881'}
 tags: ['Training Techniques', 'Pretraining Methods']
 ---
 The utility of synthetic data to enhance pretraining data quality and hence

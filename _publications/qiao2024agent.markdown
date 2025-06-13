@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024agent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14205"}
-  - {name: "Code", url: "https://github.com/zjunlp/WKM"}
-tags: ['Agentic', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14205'}
+  - {name: "Code", url: 'https://github.com/zjunlp/WKM'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Training Techniques']
 ---
 Recent endeavors towards directly using large language models (LLMs) as agent
 models to execute interactive planning tasks have shown commendable results.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023copilot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14349"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14349'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This paper presents an AI-assisted programming tool called Copilot for Xcode
 for program composition and design to support human software developers. By

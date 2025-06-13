@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: serrano2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17301"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17301'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Given the growing importance of AI literacy, we decided to write this
 tutorial to help narrow the gap between the discourse among those who study

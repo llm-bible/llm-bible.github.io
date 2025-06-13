@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: elfadeel2021robustly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.08809"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.08809'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 In this paper, we explore multi-task learning (MTL) as a second pretraining
 step to learn enhanced universal language representation for transformer

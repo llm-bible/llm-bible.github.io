@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16458"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16458'}
+tags: ['Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 Recent progress in large language models (LLMs) offers promising new
 approaches for recommendation system tasks. While the current state-of-the-art

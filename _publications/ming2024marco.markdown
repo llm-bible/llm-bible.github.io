@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ming2024marco
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04003"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04003'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) have achieved remarkable progress in recent
 years; however, their excellent performance is still largely limited to major

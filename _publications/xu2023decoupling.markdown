@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023decoupling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18323"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18323'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Augmented Language Models (ALMs) blend the reasoning capabilities of Large
 Language Models (LLMs) with tools that allow for knowledge retrieval and action

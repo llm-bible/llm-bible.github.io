@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024re
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07069"}
-tags: ['Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07069'}
+tags: ['Reinforcement Learning', 'Security']
 ---
 The automatic evaluation of instruction following typically involves using
 large language models (LLMs) to assess response quality. However, there is a

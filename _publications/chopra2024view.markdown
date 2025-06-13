@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chopra2024view
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00948"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00948'}
 tags: ['Tools']
 ---
 When large language models (LLMs) are asked to perform certain tasks, how can

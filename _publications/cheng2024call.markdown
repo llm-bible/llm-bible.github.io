@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024call
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08593"}
-  - {name: "Code", url: "https://aka.ms/readi"}
-tags: ['RAG', 'Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08593'}
+  - {name: "Code", url: 'https://aka.ms/readi'}
+tags: ['RAG', 'Has Code', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown potential in reasoning over
 structured environments, e.g., knowledge graph and table. Such tasks typically

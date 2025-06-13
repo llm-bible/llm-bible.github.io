@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: jin2019multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.00458"}
-tags: ['Tools', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.00458'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'Tools']
 ---
 Machine Reading Comprehension (MRC) for question answering (QA), which aims
 to answer a question given the relevant context passages, is an important way

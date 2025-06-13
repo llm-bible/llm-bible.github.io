@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10285"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10285'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Dialogue summarization involves a wide range of scenarios and domains.
 However, existing methods generally only apply to specific scenarios or

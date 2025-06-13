@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shmidman2023introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14568"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14568'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 We present DictaLM, a large-scale language model tailored for Modern Hebrew.

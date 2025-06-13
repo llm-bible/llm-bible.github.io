@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: gur2022understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.03945"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.03945'}
 tags: ['Training Techniques', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) have shown exceptional performance on a variety

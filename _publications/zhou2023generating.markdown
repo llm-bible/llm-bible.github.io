@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.09672"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.09672'}
 tags: ['RAG', 'Tools']
 ---
 Visual programming has the potential of providing novice programmers with a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: poulis2023transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08941"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08941'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'BERT', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent advancements in transformer-based models have initiated research
 interests in investigating their ability to learn to perform reasoning tasks.

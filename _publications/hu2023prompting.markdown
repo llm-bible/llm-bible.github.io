@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13264"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13264'}
+tags: ['Prompting', 'Tools']
 ---
 Prompting is now a dominant method for evaluating the linguistic knowledge of
 large language models (LLMs). While other methods directly read out models'

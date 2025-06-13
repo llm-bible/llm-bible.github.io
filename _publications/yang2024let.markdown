@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20372"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20372'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have exhibited impressive capabilities across a
 myriad of tasks, yet they occasionally yield undesirable outputs. We posit that

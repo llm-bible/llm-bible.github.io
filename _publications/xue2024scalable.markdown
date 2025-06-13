@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xue2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12057"}
-tags: ['RAG', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12057'}
+tags: ['Ethics and Bias', 'RAG']
 ---
 Retrieval-augmented generation (RAG) techniques are widely used today to
 retrieve and present information in a conversational format. This paper

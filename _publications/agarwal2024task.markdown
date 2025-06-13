@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwal2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18369"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18369'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 Large language models (LLMs) have transformed AI across diverse domains, with
 prompting being central to their success in guiding model outputs. However,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: tafjord2021general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.02593"}
-  - {name: "Code", url: "https://github.com/allenai/macaw"}
-tags: ['Training Techniques', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.02593'}
+  - {name: "Code", url: 'https://github.com/allenai/macaw'}
+tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'GPT']
 ---
 Despite the successes of pretrained language models, there are still few
 high-quality, general-purpose QA systems that are freely available. In

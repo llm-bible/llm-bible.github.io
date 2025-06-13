@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16722"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16722'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Low-rank adaptation (LoRA) and its variants have recently gained much
 interest due to their ability to avoid excessive inference costs. However, LoRA

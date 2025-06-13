@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pillai2025replay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17780"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17780'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 Continual learning in large language models (LLMs) typically encounters the
 critical challenge of catastrophic forgetting, where previously acquired

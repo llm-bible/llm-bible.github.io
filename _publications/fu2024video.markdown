@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024video
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2405.21075v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2405.21075v2'}
 tags: ['GPT', 'Model Architecture']
 ---
 In the quest for artificial general intelligence, Multi-modal Large Language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cao2023cultural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17353"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'LREC']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17353'}
+tags: ['LREC', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Building upon the considerable advances in Large Language Models (LLMs), we
 are now equipped to address more sophisticated tasks demanding a nuanced

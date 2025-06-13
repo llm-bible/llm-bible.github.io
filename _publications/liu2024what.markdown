@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12157"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12157'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Owing to the capability of in-context learning, large language models (LLMs)

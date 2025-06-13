@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dukić2024looking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.14556"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.14556'}
+tags: ['Masked Language Model', 'Language Modeling', 'BERT', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pre-trained language models based on masked language modeling (MLM) excel in
 natural language understanding (NLU) tasks. While fine-tuned MLM-based encoders

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lv2025cascaded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05662"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05662'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Efficient Multimodal Large Language Models (EMLLMs) can improve performance
 through Chain-of-Thought (CoT) reasoning, but they have poor self-evaluation

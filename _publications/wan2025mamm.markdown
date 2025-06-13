@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wan2025mamm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15272"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15272'}
 tags: ['Agentic', 'Applications']
 ---
 Multi-agent collaboration among models has shown promise in reasoning tasks

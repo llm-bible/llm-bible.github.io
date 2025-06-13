@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15236"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15236'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In text-to-image diffusion models, the cross-attention map of each text token
 indicates the specific image regions attended. Comparing these maps of

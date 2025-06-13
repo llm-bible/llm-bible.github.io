@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cook2024ticking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03608"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03608'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Given the widespread adoption and usage of Large Language Models (LLMs), it
 is crucial to have flexible and interpretable evaluations of their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: carammia2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00890"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00890'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are distinguished by their architecture, which
 dictates their parameter size and performance capabilities. Social scientists

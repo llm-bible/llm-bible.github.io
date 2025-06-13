@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2011
 bibkey: collobert2011natural
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/1103.0398v1"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/1103.0398v1'}
 tags: ['Training Techniques', 'Model Architecture']
 ---
 We propose a unified neural network architecture and learning algorithm that

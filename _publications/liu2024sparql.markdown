@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024sparql
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11417"}
-tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11417'}
+tags: ['Agentic', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have led to significant improvements in the
 Knowledge Base Question Answering (KBQA) task. However, datasets used in KBQA

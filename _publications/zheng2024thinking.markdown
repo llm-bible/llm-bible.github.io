@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12591"}
-  - {name: "Code", url: "https://github.com/Terry-Xu-666/visual_inference_chain"}
-tags: ['Tools', 'Multimodal Models', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12591'}
+  - {name: "Code", url: 'https://github.com/Terry-Xu-666/visual_inference_chain'}
+tags: ['Ethics and Bias', 'Has Code', 'Multimodal Models', 'Tools']
 ---
 Multimodal large language models (MLLMs) have advanced the integration of
 visual and linguistic modalities, establishing themselves as the dominant

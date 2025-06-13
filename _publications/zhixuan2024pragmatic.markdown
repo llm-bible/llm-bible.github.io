@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhixuan2024pragmatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17930"}
-tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17930'}
+tags: ['Agentic', 'RAG', 'GPT', 'Model Architecture', 'Multimodal Models']
 ---
 People often give instructions whose meaning is ambiguous without further
 context, expecting that their actions or goals will disambiguate their

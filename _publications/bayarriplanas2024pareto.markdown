@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bayarriplanas2024pareto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15127"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15127'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 This study leverages optimized context retrieval to enhance open-source Large

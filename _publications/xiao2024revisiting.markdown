@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14884"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14884'}
 tags: ['Agentic', 'Tools']
 ---
 LLM-based agents have emerged as promising tools, which are crafted to

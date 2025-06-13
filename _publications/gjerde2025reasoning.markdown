@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gjerde2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16606"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16606'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 With the rapid progress of Large Language Models (LLMs), it becomes
 increasingly important to understand their abilities and limitations. In two

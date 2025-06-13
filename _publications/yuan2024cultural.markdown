@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024cultural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11167"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11167'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Merging', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) face challenges in aligning with diverse
 cultural values despite their remarkable performance in generation, which stems

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024guiding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00554"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00554'}
 tags: ['Uncategorized']
 ---
 Instruction-tuned large language models (LLMs) are capable of generating

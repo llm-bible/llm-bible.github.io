@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023knowledgeable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14771"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14771'}
+tags: ['Language Modeling', 'Few-Shot', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) enable in-context learning (ICL) by conditioning
 on a few labeled training examples as a text-based prompt, eliminating the need

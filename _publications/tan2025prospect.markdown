@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025prospect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08026"}
-tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08026'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Applications']
 ---
 Large Language Models (LLMs) have made significant progress in open-ended
 dialogue, yet their inability to retain and retrieve relevant information from

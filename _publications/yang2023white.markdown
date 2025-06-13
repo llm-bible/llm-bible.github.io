@@ -6,7 +6,7 @@ conference: "Proc. ACM Program. Lang. Vol. 8 No. OOPSLA2 Article 296. Publicatio
 year: 2023
 bibkey: yang2023white
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15991"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15991'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Compiler correctness is crucial, as miscompilation can falsify program

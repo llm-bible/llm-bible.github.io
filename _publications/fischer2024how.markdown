@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fischer2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12893"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12893'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have been showing promising results for various
 NLP-tasks without the explicit need to be trained for these tasks by using

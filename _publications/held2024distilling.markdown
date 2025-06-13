@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: held2024distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02678"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02678'}
 tags: ['Fine-Tuning', 'Training Techniques']
 ---
 Voice assistants, such as Siri and Google Assistant, typically model audio

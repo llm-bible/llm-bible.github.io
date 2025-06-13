@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025acceleration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05947"}
-tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05947'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Multiple heads decoding accelerates the inference of Large Language Models
 (LLMs) by predicting next several tokens simultaneously. It generates and

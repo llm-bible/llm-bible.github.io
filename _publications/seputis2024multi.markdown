@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: seputis2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02958"}
-tags: ['Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02958'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Large pre-trained vision-language models, such as CLIP, have demonstrated
 state-of-the-art performance across a wide range of image classification tasks,

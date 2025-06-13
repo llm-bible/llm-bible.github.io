@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yona2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16908"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16908'}
 tags: ['Applications']
 ---
 We posit that large language models (LLMs) should be capable of expressing

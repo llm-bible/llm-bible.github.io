@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mishra2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05675"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05675'}
+tags: ['Prompting', 'Tools']
 ---
 Reasoning abilities of LLMs have been a key focus in recent years. One
 challenging reasoning domain with interesting nuances is legal reasoning, which

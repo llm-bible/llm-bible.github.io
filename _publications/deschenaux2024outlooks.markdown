@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deschenaux2024outlooks
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11473"}
-tags: ['GPT', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11473'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'GPT', 'Merging', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The modern autoregressive Large Language Models (LLMs) have achieved
 outstanding performance on NLP benchmarks, and they are deployed in the real

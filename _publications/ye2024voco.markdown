@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024voco
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12275"}
-  - {name: "Code", url: "https://yxxxb.github.io/VoCo-LLaMA-page/"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12275'}
+  - {name: "Code", url: 'https://yxxxb.github.io/VoCo-LLaMA-page/'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) have achieved remarkable success in various
 multi-modal tasks, but they are often bottlenecked by the limited context

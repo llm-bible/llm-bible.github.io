@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025visualisation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03979"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03979'}
+tags: ['Reinforcement Learning', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) reasoning processes are challenging to analyze
 due to their complexity and the lack of organized visualization tools. We

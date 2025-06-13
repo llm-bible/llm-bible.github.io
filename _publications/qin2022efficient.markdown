@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: qin2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.06311"}
-  - {name: "Code", url: "https://github.com/thunlp/ELLE"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.06311'}
+  - {name: "Code", url: 'https://github.com/thunlp/ELLE'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Merging', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 Current pre-trained language models (PLM) are typically trained with static
 data, ignoring that in real-world scenarios, streaming data of various sources

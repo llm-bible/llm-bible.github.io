@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02320"}
-tags: ['RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02320'}
+tags: ['Few-Shot', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 Decoder-only large language models (LLMs) excel in high-resource languages
 across various tasks through few-shot or even zero-shot in-context learning

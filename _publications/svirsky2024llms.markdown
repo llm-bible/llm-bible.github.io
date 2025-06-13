@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: svirsky2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12951"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12951'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs), with billions of parameters, present
 significant challenges for full finetuning due to the high computational

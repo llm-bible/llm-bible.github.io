@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: gan2019multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.00579"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.00579'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 This paper presents a new model for visual dialog, Recurrent Dual Attention

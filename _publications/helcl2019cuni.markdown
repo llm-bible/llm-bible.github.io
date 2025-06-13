@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: helcl2019cuni
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.09246"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.09246'}
+tags: ['Transformer', 'WMT', 'Security', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present our submission to the WMT19 Robustness Task. Our baseline system
 is the Charles University (CUNI) Transformer system trained for the WMT18

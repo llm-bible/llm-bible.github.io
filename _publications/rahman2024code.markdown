@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rahman2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04831"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04831'}
 tags: ['RAG', 'Prompting', 'Model Architecture']
 ---
 Generative models such as large language models are extensively used as code

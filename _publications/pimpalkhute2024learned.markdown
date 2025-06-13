@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pimpalkhute2024learned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12663"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12663'}
 tags: ['RAG']
 ---
 We investigate the integration of Large Language Models (LLMs) into query

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tao2025saliency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04514"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04514'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pruning', 'Reinforcement Learning']
 ---
 Despite the recent success of large language models (LLMs), LLMs are
 particularly challenging in long-sequence inference scenarios due to the

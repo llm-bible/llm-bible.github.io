@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024agent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12881"}
-  - {name: "Code", url: "https://github.com/InternLM/Agent-FLAN"}
-tags: ['Agentic', 'Pre-Training', 'Tools', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12881'}
+  - {name: "Code", url: 'https://github.com/InternLM/Agent-FLAN'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Tools', 'Pre-Training']
 ---
 Open-sourced Large Language Models (LLMs) have achieved great success in
 various NLP tasks, however, they are still far inferior to API-based models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16103"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16103'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models', 'Training Techniques']
 ---
 Building general-purpose models that can perceive diverse real-world
 modalities and solve various tasks is an appealing target in artificial

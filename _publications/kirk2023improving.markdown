@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kirk2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06770"}
-tags: ['Agentic', 'Prompting', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06770'}
+tags: ['Prompting', 'Agentic', 'Agent']
 ---
 Large language models (LLMs) offer significant promise as a knowledge source
 for task learning. Prompt engineering has been shown to be effective for

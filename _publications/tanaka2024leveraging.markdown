@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tanaka2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06874"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06874'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 The analysis of students' emotions and behaviors is crucial for enhancing
 learning outcomes and personalizing educational experiences. Traditional

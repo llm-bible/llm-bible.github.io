@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: brothers2024uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05768"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05768'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We explore the Iterative Inference Hypothesis (IIH) within the context of
 transformer-based language models, aiming to understand how a model's latent

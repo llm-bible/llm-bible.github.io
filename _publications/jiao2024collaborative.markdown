@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiao2024collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13002"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13002'}
 tags: ['RAG', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) methods augment the input of Large

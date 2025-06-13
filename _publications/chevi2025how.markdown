@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chevi2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17083"}
-tags: ['Fine-Tuning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17083'}
+tags: ['Reinforcement Learning', 'Fine-Tuning']
 ---
 What makes an interaction with the LLM more preferable for the user? While it
 is intuitive to assume that information accuracy in the LLM's responses would

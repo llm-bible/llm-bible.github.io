@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024finer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18218"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18218'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Overparametrized transformer networks are the state-of-the-art architecture
 for Large Language Models (LLMs). However, such models contain billions of

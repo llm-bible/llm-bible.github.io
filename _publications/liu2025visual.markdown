@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01785"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01785'}
+tags: ['Agentic', 'Few-Shot', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement Fine-Tuning (RFT) in Large Reasoning Models like OpenAI o1
 learns from feedback on its answers, which is especially useful in applications

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: seegmiller2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01147"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01147'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have been shown to be proficient in correctly

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.08973"}
-tags: ['Few-Shot', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.08973'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Applications', 'Tools']
 ---
 Multi-hop question answering (QA) involves finding multiple relevant passages
 and step-by-step reasoning to answer complex questions, indicating a

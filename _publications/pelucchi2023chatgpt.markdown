@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pelucchi2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06427"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06427'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 ChatGPT took the world by storm for its impressive abilities. Due to its
 release without documentation, scientists immediately attempted to identify its

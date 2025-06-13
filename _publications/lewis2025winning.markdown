@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lewis2025winning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19545"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19545'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Distillation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The deployment of Large Language Models (LLMs) in customer support is
 constrained by hallucination-generating false information-and the high cost of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mireshghallah2023smaller
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.09859"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09859'}
 tags: ['GPT', 'Model Architecture']
 ---
 With the advent of fluent generative language models that can produce

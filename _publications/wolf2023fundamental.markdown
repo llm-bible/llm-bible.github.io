@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wolf2023fundamental
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.11082v6"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.11082v6'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 An important aspect in developing language models that interact with humans
 is aligning their behavior to be useful and unharmful for their human users.

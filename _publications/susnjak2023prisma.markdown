@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: susnjak2023prisma
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14905"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14905'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 With the proliferation of open-sourced Large Language Models (LLMs) and
 efficient finetuning techniques, we are on the cusp of the emergence of

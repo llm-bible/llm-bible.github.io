@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01314"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01314'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Pre-Training']
 ---
 Norwegian, spoken by only 5 million population, is under-representative
 within the most impressive breakthroughs in NLP tasks. To the best of our

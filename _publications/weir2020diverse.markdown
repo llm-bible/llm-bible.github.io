@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: weir2020diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.02882"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.02882'}
 tags: ['Reinforcement Learning']
 ---
 We present COD3S, a novel method for generating semantically diverse

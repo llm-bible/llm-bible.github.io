@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lanchantin2023data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07974"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07974'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent progress in using machine learning models for reasoning tasks has been
 driven by novel model architectures, large-scale pre-training protocols, and

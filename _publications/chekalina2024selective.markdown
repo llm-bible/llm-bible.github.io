@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chekalina2024selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07383"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07383'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The performance of Transformer models has been enhanced by increasing the
 number of parameters and the length of the processed text. Consequently,

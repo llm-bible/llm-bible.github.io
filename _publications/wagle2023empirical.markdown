@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wagle2023empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09358"}
-  - {name: "Code", url: "https://github.com/pnnl/EXPERT2"}
-tags: ['Responsible AI', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09358'}
+  - {name: "Code", url: 'https://github.com/pnnl/EXPERT2'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable achievements in natural
 language processing tasks, producing high-quality outputs. However, LLMs still

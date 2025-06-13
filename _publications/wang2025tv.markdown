@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025tv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18940"}
-tags: ['Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18940'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Recent advancements in LLMs have accelerated the development of dialogue
 generation across text and images, yet video-based dialogue generation remains

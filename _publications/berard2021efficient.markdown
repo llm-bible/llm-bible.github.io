@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: berard2021efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.06679"}
-tags: ['Security', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.06679'}
+tags: ['Security', 'Applications', 'Model Architecture']
 ---
 Multilingual NMT has become an attractive solution for MT deployment in
 production. But to match bilingual quality, it comes at the cost of larger and

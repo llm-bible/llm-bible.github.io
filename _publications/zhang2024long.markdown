@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20279"}
-tags: ['Language Modeling', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20279'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications', 'Merging']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capability in a
 variety of NLP tasks. However, LLMs are also prone to generate nonfactual

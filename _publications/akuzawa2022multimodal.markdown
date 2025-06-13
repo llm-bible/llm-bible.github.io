@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: akuzawa2022multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.00676"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.00676'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Agents that can follow language instructions are expected to be useful in a
 variety of situations such as navigation. However, training neural

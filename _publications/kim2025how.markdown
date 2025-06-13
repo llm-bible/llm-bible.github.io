@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18303"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18303'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 As large language models (LLMs) like ChatGPT become increasingly integrated

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.07992"}
-  - {name: "Code", url: "https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family.git"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.07992'}
+  - {name: "Code", url: 'https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family.git'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 ChatGPT is a powerful large language model (LLM) that covers knowledge
 resources such as Wikipedia and supports natural language question answering

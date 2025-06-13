@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lee2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.11870"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.11870'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'BERT', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 BERT has shown a lot of sucess in a wide variety of NLP tasks. But it has a
 limitation dealing with long inputs due to its attention mechanism. Longformer,

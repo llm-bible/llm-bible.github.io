@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022visually
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.10178"}
-  - {name: "Code", url: "https://github.com/Victorwz/VaLM"}
-tags: ['Pre-Training', 'Tools', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.10178'}
+  - {name: "Code", url: 'https://github.com/Victorwz/VaLM'}
+tags: ['Has Code', 'Language Modeling', 'Training Techniques', 'Tools', 'Merging', 'Multimodal Models', 'Pre-Training']
 ---
 Human language is grounded on multimodal knowledge including visual knowledge
 like colors, sizes, and shapes. However, current large-scale pre-trained

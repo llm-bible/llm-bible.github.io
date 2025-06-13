@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pan2025chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02390"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02390'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Merging', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Research on LLM technologies is rapidly emerging, with most of them employing
 a 'fast thinking' approach to inference. Most LLMs generate the final result

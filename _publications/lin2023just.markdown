@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023just
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08154"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08154'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Although chain-of-thought (CoT) prompting combined with language models has

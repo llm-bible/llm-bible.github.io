@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zang2024let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07301"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07301'}
 tags: ['RAG', 'Multimodal Models', 'Model Architecture']
 ---
 Storytelling aims to generate reasonable and vivid narratives based on an

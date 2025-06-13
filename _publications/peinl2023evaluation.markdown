@@ -6,8 +6,8 @@ conference: "Under review in ARIA 2023"
 year: 2023
 bibkey: peinl2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11991"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11991'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) have garnered significant attention, but the
 definition of "large" lacks clarity. This paper focuses on medium-sized

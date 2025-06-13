@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: yan2020off
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.11714"}
-tags: ['Transformer', 'Agentic', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.11714'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recently, several approaches have been proposed to solve language generation
 problems. Transformer is currently state-of-the-art seq-to-seq model in

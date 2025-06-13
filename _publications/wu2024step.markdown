@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11924"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11924'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 While Large Language Models (LLMs) excel in question-answering (QA) tasks,
 their real reasoning abilities on multiple evidence retrieval and integration

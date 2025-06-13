@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: miura2024japanese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03396"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03396'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'BERT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 This paper proposes the task of automatic assessment of Sentence Translation
 Exercises (STEs), that have been used in the early stage of L2 language

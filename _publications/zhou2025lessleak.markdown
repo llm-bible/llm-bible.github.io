@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025lessleak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06215"}
-tags: ['Pre-Training', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06215'}
+tags: ['RAG', 'Pre-Training', 'Training Techniques', 'Applications', 'Tools', 'Survey Paper', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are widely utilized in software engineering (SE)
 tasks, such as code generation and automated program repair. However, their

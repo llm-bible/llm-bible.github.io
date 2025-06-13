@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vu2024curriculum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18126"}
-tags: ['Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18126'}
+tags: ['Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown strong in-context learning (ICL)
 abilities with a few demonstrations. However, one critical challenge is how to

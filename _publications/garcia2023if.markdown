@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: garcia2023if
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10808"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10808'}
 tags: ['Training Techniques']
 ---
 The recent advent of powerful Large-Language Models (LLM) provides a new

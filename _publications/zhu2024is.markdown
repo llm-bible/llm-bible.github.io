@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08460"}
-  - {name: "Code", url: "https://github.com/FreedomIntelligence/FreshBench"}
-tags: ['Tools', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08460'}
+  - {name: "Code", url: 'https://github.com/FreedomIntelligence/FreshBench'}
+tags: ['Ethics and Bias', 'Has Code', 'Tools']
 ---
 The rapid advancement of Large Language Models (LLMs) has led to the
 development of benchmarks that consider temporal dynamics, however, there

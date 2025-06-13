@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024break
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02057"}
-  - {name: "Code", url: "https://github.com/hao-ai-lab/LookaheadDecoding"}
-tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02057'}
+  - {name: "Code", url: 'https://github.com/hao-ai-lab/LookaheadDecoding'}
+tags: ['Attention Mechanism', 'Has Code', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Autoregressive decoding of large language models (LLMs) is memory bandwidth
 bounded, resulting in high latency and significant wastes of the parallel

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pfau2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15758"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15758'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Chain-of-thought responses from language models improve performance across

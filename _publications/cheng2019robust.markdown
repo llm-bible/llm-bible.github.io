@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: cheng2019robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.02443"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Security', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.02443'}
+tags: ['Transformer', 'Security', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Neural machine translation (NMT) often suffers from the vulnerability to
 noisy perturbations in the input. We propose an approach to improving the

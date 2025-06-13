@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024lightning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04658"}
-  - {name: "Code", url: "https://github.com/OpenNLPLab/lightning-attention"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04658'}
+  - {name: "Code", url: 'https://github.com/OpenNLPLab/lightning-attention'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture']
 ---
 Linear attention is an efficient attention mechanism that has recently
 emerged as a promising alternative to conventional softmax attention. With its

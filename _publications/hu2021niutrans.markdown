@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2021
 bibkey: hu2021niutrans
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.08008"}
-  - {name: "Code", url: "https://github.com/NiuTrans/NiuTensor),"}
-  - {name: "Code", url: "https://github.com/NiuTrans/NiuTrans.NMT)"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.08008'}
+  - {name: "Code", url: 'https://github.com/NiuTrans/NiuTensor),'}
+  - {name: "Code", url: 'https://github.com/NiuTrans/NiuTrans.NMT)'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Quantization', 'Applications', 'Pruning', 'Pretraining Methods']
 ---
 This paper describes the submissions of the NiuTrans Team to the WNGT 2020
 Efficiency Shared Task. We focus on the efficient implementation of deep

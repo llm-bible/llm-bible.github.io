@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chi2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10414"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10414'}
+tags: ['Security', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We introduce Llama Guard 3 Vision, a multimodal LLM-based safeguard for
 human-AI conversations that involves image understanding: it can be used to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02214"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02214'}
+tags: ['SLT', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive capabilities across
 various tasks. However, training LLMs from scratch requires significant

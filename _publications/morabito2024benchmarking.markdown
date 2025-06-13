@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: morabito2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13843"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13843'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Mitigating explicit and implicit biases in Large Language Models (LLMs) has
 become a critical focus in the field of natural language processing. However,

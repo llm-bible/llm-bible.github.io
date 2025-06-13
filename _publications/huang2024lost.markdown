@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06568"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06568'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 This study investigates how Large Language Models (LLMs) leverage source and
 reference data in machine translation evaluation task, aiming to better

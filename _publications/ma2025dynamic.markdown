@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01054"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01054'}
+tags: ['Reinforcement Learning', 'GPT', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Current large language models (LLMs) often struggle to produce accurate
 responses on the first attempt for complex reasoning tasks like code

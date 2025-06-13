@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ai2025open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15722"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15722'}
+tags: ['RAG', 'Model Architecture', 'BERT', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Accessing accurate medication insights is vital for enhancing patient safety,
 minimizing errors, and supporting clinical decision-making. However, healthcare

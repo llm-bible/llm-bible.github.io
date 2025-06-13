@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02429"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'RecSys', 'LREC', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02429'}
+tags: ['LREC', 'Transformer', 'Model Architecture', 'Tools', 'RecSys', 'Pretraining Methods']
 ---
 Traditional recommender systems such as matrix factorization methods have
 primarily focused on learning a shared dense embedding space to represent both

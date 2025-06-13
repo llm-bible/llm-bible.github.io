@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hase2024unreasonable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06751"}
-  - {name: "Code", url: "https://github.com/allenai/easy-to-hard-generalization"}
-tags: ['Fine-Tuning', 'Model Architecture', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06751'}
+  - {name: "Code", url: 'https://github.com/allenai/easy-to-hard-generalization'}
+tags: ['Attention Mechanism', 'Has Code', 'ACL', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 How can we train models to perform well on hard test data when hard training
 data is by definition difficult to label correctly? This question has been

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025ultra
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05427"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05427'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Pre-Training']
 ---
 Data quality has become a key factor in enhancing model performance with the
 rapid development of large language models (LLMs). Model-driven data filtering

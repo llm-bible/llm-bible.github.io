@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: hao2022structured
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2212.06713v1"}
-  - {name: "Code", url: "https://aka.ms/structured-prompting"}
-tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2212.06713v1'}
+  - {name: "Code", url: 'https://aka.ms/structured-prompting'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Few-Shot', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Large language models have exhibited intriguing in-context learning
 capability, achieving promising zero- and few-shot performance without updating

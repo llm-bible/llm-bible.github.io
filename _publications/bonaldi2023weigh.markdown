@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bonaldi2023weigh
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02311"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02311'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent computational approaches for combating online hate speech involve the
 automatic generation of counter narratives by adapting Pretrained

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jang2024kit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16444"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16444'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Instruction Tuning on Large Language Models is an essential process for model
 to function well and achieve high performance in specific tasks. Accordingly,

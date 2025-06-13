@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jambunathan2024image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07225"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07225'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 The potentials of Generative-AI technologies like Large Language models
 (LLMs) to revolutionize education are undermined by ethical considerations

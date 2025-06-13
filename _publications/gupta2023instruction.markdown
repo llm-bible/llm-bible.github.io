@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05539"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05539'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Instruction tuning of language models has demonstrated the ability to enhance
 model generalization to unseen tasks via in-context learning using a few

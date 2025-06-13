@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rosati2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12914"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Interpretability and Explainability', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12914'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 While there has been progress towards aligning Large Language Models (LLMs)
 with human values and ensuring safe behaviour at inference time, safety guards

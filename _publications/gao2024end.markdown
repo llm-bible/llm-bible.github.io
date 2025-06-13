@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18870"}
-  - {name: "Code", url: "https://github.com/ZhaolinGao/LangPTune"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'RecSys', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18870'}
+  - {name: "Code", url: 'https://github.com/ZhaolinGao/LangPTune'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'RecSys', 'Ethics and Bias', 'Interpretability']
 ---
 There is a growing interest in natural language-based user profiles for
 recommender systems, which aims to enhance transparency and scrutability

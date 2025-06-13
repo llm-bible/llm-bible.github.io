@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024tele
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16645"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16645'}
 tags: ['Training Techniques', 'Pre-Training', 'Applications']
 ---
 Large language models (LLMs) have showcased profound capabilities in language

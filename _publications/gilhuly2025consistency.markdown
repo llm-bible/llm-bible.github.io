@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gilhuly2025consistency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20647"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20647'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Text summarizing is a critical Natural Language Processing (NLP) task with
 applications ranging from information retrieval to content generation. Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: balaguer2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08406"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08406'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 There are two common ways in which developers are incorporating proprietary
 and domain-specific data when building applications of Large Language Models

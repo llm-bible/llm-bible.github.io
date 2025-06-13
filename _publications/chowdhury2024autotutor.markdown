@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chowdhury2024autotutor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09216"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09216'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have found several use cases in education,

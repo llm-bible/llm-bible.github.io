@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025diffusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.15045"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.15045'}
+tags: ['Attention Mechanism', 'Model Architecture', 'BERT', 'Training Techniques', 'GPT', 'Merging', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language model (LLM)-based embedding models, benefiting from large scale pre-training and post-training, have begun to surpass BERT and T5-based models on general-purpose text embedding tasks such as document retrieval. However, a fundamental limitation of LLM embeddings lies in the unidirectional attention used during autoregressive pre-training, which misaligns with the bidirectional nature of text embedding tasks. To this end, We propose adopting diffusion language models for text embeddings, motivated by their inherent bidirectional architecture and recent success in matching or surpassing LLMs especially on reasoning tasks. We present the first systematic study of the diffusion language embedding model, which outperforms the LLM-based embedding model by 20% on long-document retrieval, 8% on reasoning-intensive retrieval, 2% on instruction-following retrieval, and achieve competitive performance on traditional text embedding benchmarks. Our analysis verifies that bidirectional attention is crucial for encoding global context in long and complex text.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024empower
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05185"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05185'}
 tags: ['Training Techniques']
 ---
 Large Language Models (LLMs) have been widely used in various tasks,

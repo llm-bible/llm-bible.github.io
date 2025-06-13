@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02080"}
-tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02080'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated the ability to generate text
 that realistically reflects a range of different subjective human perspectives.

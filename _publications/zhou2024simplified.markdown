@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024simplified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09342"}
-tags: ['Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09342'}
+tags: ['Training Techniques', 'Reinforcement Learning', 'Applications', 'Tools']
 ---
 Enlarging the context window of large language models (LLMs) has become a
 crucial research area, particularly for applications involving extremely long

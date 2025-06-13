@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15741"}
-  - {name: "Code", url: "https://github.com/fzp0424/MT-Ladder"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15741'}
+  - {name: "Code", url: 'https://github.com/fzp0424/MT-Ladder'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 General-purpose Large Language Models (LLMs) like GPT-4 have achieved
 remarkable advancements in machine translation (MT) by leveraging extensive web

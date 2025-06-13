@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024universal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03310"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03310'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Length generalization refers to the ability to extrapolate from short
 training sequences to long test sequences and is a challenge for current large

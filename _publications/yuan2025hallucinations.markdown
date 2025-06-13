@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025hallucinations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13824"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13824'}
+tags: ['RAG', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Concerns about hallucinations in Large Language Models (LLMs) have been
 raised by researchers, yet their potential in areas where creativity is vital,

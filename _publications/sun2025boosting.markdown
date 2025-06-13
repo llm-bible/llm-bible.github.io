@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04872"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04872'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The challenge of reducing the size of Large Language Models (LLMs) while
 maintaining their performance has gained significant attention. However,

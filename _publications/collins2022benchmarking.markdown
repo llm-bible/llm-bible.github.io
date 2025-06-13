@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: collins2022benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.05718"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.05718'}
 tags: ['Interpretability and Explainability']
 ---
 Human language offers a powerful window into our thoughts -- we tell stories,

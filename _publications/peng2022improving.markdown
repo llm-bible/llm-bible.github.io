@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: peng2022improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.08124"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.08124'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multimodal conditionality in transformer-based natural language models has
 demonstrated state-of-the-art performance in the task of product description

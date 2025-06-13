@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19444"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19444'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 mathematical problem solving, particularly in single turn question answering

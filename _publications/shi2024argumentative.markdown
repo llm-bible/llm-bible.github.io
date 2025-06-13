@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024argumentative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04629"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04629'}
 tags: ['Ethics and Bias', 'Merging']
 ---
 Large language models (LLMs) are enabling designers to give life to exciting new user experiences for information access. In this work, we present a system that generates LLM personas to debate a topic of interest from different perspectives. How might information seekers use and benefit from such a system? Can centering information access around diverse viewpoints help to mitigate thorny challenges like confirmation bias in which information seekers over-trust search results matching existing beliefs? How do potential biases and hallucinations in LLMs play out alongside human users who are also fallible and possibly biased?

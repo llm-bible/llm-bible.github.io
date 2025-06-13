@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kharchenko2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14805"}
-tags: ['Training Techniques', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14805'}
+tags: ['Prompting', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) attempt to imitate human behavior by responding
 to humans in a way that pleases them, including by adhering to their values.

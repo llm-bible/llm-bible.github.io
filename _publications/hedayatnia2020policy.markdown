@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: hedayatnia2020policy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.12529"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.12529'}
 tags: ['Applications']
 ---
 Open-domain dialogue systems aim to generate relevant, informative and

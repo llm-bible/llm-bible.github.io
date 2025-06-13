@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bian2025federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11880"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11880'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) in federated settings enables
 privacy-preserving adaptation but suffers from cross-client interference due to

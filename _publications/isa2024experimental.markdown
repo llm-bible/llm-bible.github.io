@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: isa2024experimental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18568"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18568'}
+tags: ['RAG', 'GPT', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Integrating machine learning (ML) into customer service chatbots enhances
 their ability to understand and respond to user queries, ultimately improving

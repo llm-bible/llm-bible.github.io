@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03970"}
-tags: ['Applications', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03970'}
+tags: ['ACL', 'RAG', 'Security', 'Applications', 'Reinforcement Learning', 'TACL']
 ---
 As the legal community increasingly examines the use of large language models
 (LLMs) for various legal applications, legal AI developers have turned to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cho2025analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03711"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03711'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Tools']
 ---
 One critical challenge in the institutional adoption journey of Large
 Language Models (LLMs) stems from their propensity to hallucinate in generated

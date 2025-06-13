@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hammoud2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01832"}
-  - {name: "Code", url: "https://github.com/hammoudhasan/SynthCLIP"}
-tags: ['RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01832'}
+  - {name: "Code", url: 'https://github.com/hammoudhasan/SynthCLIP'}
+tags: ['RAG', 'Has Code', 'Training Techniques']
 ---
 We present SynthCLIP, a CLIP model trained on entirely synthetic text-image
 pairs. Leveraging recent text-to-image (TTI) networks and large language models

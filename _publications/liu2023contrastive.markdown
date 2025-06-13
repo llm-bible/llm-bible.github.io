@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17945"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17945'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 We study the task of extending the large language model (LLM) into a
 vision-language instruction-following model. This task is crucial but

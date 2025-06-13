@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025discovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03723"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03723'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Hardware design automation faces challenges in generating high-quality
 Verilog code efficiently. This paper introduces VFlow, an automated framework

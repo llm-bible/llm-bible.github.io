@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kandra2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07457"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07457'}
 tags: ['Agentic']
 ---
 It has been frequently observed that human speakers align their language use

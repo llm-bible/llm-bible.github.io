@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05133"}
-  - {name: "Code", url: "https://github.com/HumainLab/Personalized_RLHF"}
-tags: ['Agentic', 'Tools', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05133'}
+  - {name: "Code", url: 'https://github.com/HumainLab/Personalized_RLHF'}
+tags: ['Agentic', 'Has Code', 'Language Modeling', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Personalized large language models (LLMs) are designed to tailor responses to
 individual user preferences. While Reinforcement Learning from Human Feedback

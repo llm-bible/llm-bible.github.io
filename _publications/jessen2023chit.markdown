@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jessen2023chit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.09909"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.09909'}
+tags: ['Agentic', 'RAG', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 This research investigates the application of Large Language Models (LLMs) to
 augment conversational agents in process mining, aiming to tackle its inherent

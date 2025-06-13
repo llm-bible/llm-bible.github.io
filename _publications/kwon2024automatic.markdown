@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kwon2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07652"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07652'}
+tags: ['Agentic', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Finding appropriate prompts for the specific task has become an important
 issue as the usage of Large Language Models (LLM) has expanded. Reinforcement

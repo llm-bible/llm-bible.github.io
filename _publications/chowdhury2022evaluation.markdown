@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chowdhury2022evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.04464"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.04464'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 We study the task of predicting a set of salient questions from a given
 paragraph without any prior knowledge of the precise answer. We make two main

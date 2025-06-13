@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chua2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03185"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03185'}
+tags: ['Agentic', 'Security', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'Training Techniques', 'BERT', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Generalizable alignment is a core challenge for deploying Large Language
 Models (LLMs) safely in real-world NLP applications. Current alignment methods,

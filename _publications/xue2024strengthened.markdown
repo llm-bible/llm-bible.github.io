@@ -6,8 +6,8 @@ conference: "ACL 2024"
 year: 2024
 bibkey: xue2024strengthened
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01026"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01026'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Multiple-Choice Questions (MCQs) constitute a critical area of research in
 the study of Large Language Models (LLMs). Previous works have investigated the

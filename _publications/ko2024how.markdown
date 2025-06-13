@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ko2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05606"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05606'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Tools']
 ---
 In the real world, knowledge is constantly evolving, which can render
 existing knowledge-based datasets outdated. This unreliability highlights the

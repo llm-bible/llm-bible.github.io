@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20493"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20493'}
+tags: ['Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 While reasoning large language models (LLMs) demonstrate remarkable
 performance across various tasks, they also contain notable security

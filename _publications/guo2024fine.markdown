@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.18103"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.18103'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) and their fine-tuning techniques have
 demonstrated superior performance in various language understanding and

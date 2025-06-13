@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: coelho2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17805"}
-tags: ['Dataset', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17805'}
+tags: ['Prompting', 'GPT', 'Dataset', 'Model Architecture']
 ---
 Recent advancements in large language models have revolutionized information
 access, as these models harness data available on the web to address complex

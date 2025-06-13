@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: horiguchi2024evolution
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00993"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00993'}
 tags: ['RAG', 'Agentic']
 ---
 Recent advancements in Large Language Models (LLMs) have spurred a surge of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2016
 bibkey: le2016lstm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1605.01652"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1605.01652'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 We introduce an LSTM-based method for dynamically integrating several

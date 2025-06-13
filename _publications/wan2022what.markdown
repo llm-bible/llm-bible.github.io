@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wan2022what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.06840"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.06840'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, many pre-trained language models for source code have been proposed
 to model the context of code and serve as a basis for downstream code

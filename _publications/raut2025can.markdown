@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: raut2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04745"}
-tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04745'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
 ---
 This paper evaluates the ability of Large Language Models (LLMs) to leverage
 contextual information in the form of structured linguistic representations.

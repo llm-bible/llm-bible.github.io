@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hegde2025distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09757"}
-tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09757'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Autonomous driving demands safe motion planning, especially in critical
 "long-tail" scenarios. Recent end-to-end autonomous driving systems leverage

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04613"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04613'}
 tags: ['Tools', 'Applications', 'Merging']
 ---
 With the recent developments in large language models (LLMs) and their

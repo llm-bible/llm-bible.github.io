@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shah2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10681"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10681'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Merging', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 While recent advances in large language models (LLMs) have significantly
 enhanced performance across diverse natural language tasks, the high

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16420"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16420'}
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'RecSys', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Recommender systems (RS) have become essential in filtering information and
 personalizing content for users. RS techniques have traditionally relied on

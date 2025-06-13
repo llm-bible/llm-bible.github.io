@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023out
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10529"}
-  - {name: "Code", url: "https://github.com/Alibaba-NLP/SeqGPT"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10529'}
+  - {name: "Code", url: 'https://github.com/Alibaba-NLP/SeqGPT'}
+tags: ['Has Code', 'Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive ability for open-domain
 NLP tasks. However, LLMs are sometimes too footloose for natural language

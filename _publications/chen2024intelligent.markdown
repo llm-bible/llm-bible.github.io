@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024intelligent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19451"}
-tags: ['Tools', 'Tokenization', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19451'}
+tags: ['Applications', 'Prompting', 'Tokenization', 'Tools']
 ---
 This paper explores the application of prompt engineering to enhance the
 performance of large language models (LLMs) in the domain of Traditional

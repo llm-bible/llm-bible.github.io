@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05318"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05318'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT']
 ---
 Despite significant advancements in the general capability of large language
 models (LLMs), they continue to struggle with consistent and accurate

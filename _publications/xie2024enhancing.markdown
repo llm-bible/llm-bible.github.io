@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11566"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11566'}
 tags: ['Fine-Tuning', 'Tools']
 ---
 Knowledge editing aims to adjust the knowledge within large language models

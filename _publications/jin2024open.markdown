@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10872"}
-  - {name: "Code", url: "https://github.com/CharlesPikachu/ToolBridge,"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10872'}
+  - {name: "Code", url: 'https://github.com/CharlesPikachu/ToolBridge,'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Through the integration of external tools, large language models (LLMs) such
 as GPT-4o and Llama 3.1 significantly expand their functional capabilities,

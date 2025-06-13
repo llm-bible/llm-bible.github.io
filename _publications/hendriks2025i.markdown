@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hendriks2025i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16056"}
-tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Merging', 'Interpretability', 'Training Techniques', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16056'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Merging', 'Prompting', 'Interpretability']
 ---
 Artificial Intelligence (AI) has increasingly influenced modern society,
 recently in particular through significant advancements in Large Language

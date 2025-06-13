@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024detoxifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14472"}
-  - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14472'}
+  - {name: "Code", url: 'https://github.com/zjunlp/EasyEdit'}
+tags: ['Has Code', 'Security', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 This paper investigates using knowledge editing techniques to detoxify Large
 Language Models (LLMs). We construct a benchmark, SafeEdit, which covers nine

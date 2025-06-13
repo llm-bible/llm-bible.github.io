@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22134"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22134'}
 tags: ['RAG', 'Applications']
 ---
 The promising applications of large language models are often limited by the

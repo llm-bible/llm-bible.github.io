@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhi2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01292"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01292'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'Multimodal Models']
 ---
 Research on 3D Vision-Language Models (3D-VLMs) is gaining increasing
 attention, which is crucial for developing embodied AI within 3D scenes, such

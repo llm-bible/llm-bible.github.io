@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.14100"}
-  - {name: "Code", url: "https://github.com/microsoft/GenerativeImage2Text"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.14100'}
+  - {name: "Code", url: 'https://github.com/microsoft/GenerativeImage2Text'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 In this paper, we design and train a Generative Image-to-text Transformer,
 GIT, to unify vision-language tasks such as image/video captioning and question

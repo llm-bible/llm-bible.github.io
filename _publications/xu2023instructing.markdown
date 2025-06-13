@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023instructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14688"}
-  - {name: "Code", url: "https://github.com/OFA-Sys/ExpertLLaMA"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14688'}
+  - {name: "Code", url: 'https://github.com/OFA-Sys/ExpertLLaMA'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 The answering quality of an aligned large language model (LLM) can be
 drastically improved if treated with proper crafting of prompts. In this paper,

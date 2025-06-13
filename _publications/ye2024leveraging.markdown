@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07136"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07136'}
+tags: ['Few-Shot', 'RAG', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 Federated instruction tuning enables multiple clients to collaboratively
 fine-tune a shared large language model (LLM) that can follow humans'

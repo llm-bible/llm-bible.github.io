@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09407"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09407'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 While server-side Large Language Models (LLMs) demonstrate proficiency in
 function calling and complex reasoning, deploying Small Language Models (SLMs)

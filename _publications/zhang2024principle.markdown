@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024principle
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05403"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05403'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL, also known as few-shot prompting) has been the
 standard method of adapting LLMs to downstream tasks, by learning from a few

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15127"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Pruning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15127'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Applications', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 The recent advancements in large language models (LLMs) have significantly
 improved language understanding and generation capabilities. However, it is

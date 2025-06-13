@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: pang2024phased
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04371"}
-  - {name: "Code", url: "https://github.com/xubuvd/PhasedSFT"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04371'}
+  - {name: "Code", url: 'https://github.com/xubuvd/PhasedSFT'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Instruction Fine-Tuning enhances pre-trained language models from basic
 next-word prediction to complex instruction-following. However, existing

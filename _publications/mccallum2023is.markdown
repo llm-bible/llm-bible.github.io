@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mccallum2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04736"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04736'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite numerous successes, the field of reinforcement learning (RL) remains
 far from matching the impressive generalisation power of human behaviour

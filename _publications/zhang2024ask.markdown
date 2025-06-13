@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024ask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12639"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12639'}
+tags: ['Reinforcement Learning', 'Agentic', 'Fine-Tuning', 'Tools']
 ---
 The evolution of large language models (LLMs) has enhanced the planning
 capabilities of language agents in diverse real-world scenarios. Despite these

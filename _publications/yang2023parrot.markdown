@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023parrot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05452"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05452'}
 tags: ['Training Techniques']
 ---
 The pre-trained large language models (LLMs) have shown their extraordinary

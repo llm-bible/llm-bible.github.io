@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: somerstep2024transfer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16236"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16236'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Modern large language model (LLM) alignment techniques rely on human
 feedback, but it is unclear whether these techniques fundamentally limit the

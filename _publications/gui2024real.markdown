@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gui2024real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06369"}
-  - {name: "Code", url: "https://webcode2m.github.io"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06369'}
+  - {name: "Code", url: 'https://webcode2m.github.io'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Automatically generating webpage code from webpage designs can significantly
 reduce the workload of front-end developers, and recent Multimodal Large

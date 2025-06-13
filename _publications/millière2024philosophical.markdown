@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: millière2024philosophical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03207"}
-tags: ['Interpretability and Explainability', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03207'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Multimodal Models']
 ---
 In this paper, the second of two companion pieces, we explore novel
 philosophical questions raised by recent progress in large language models

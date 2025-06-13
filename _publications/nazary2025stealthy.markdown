@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: nazary2025stealthy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05196"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05196'}
 tags: ['RAG', 'RecSys', 'Security']
 ---
 We present a systematic study of provider-side data poisoning in

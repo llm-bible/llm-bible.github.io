@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13840"}
-  - {name: "Code", url: "https://github.com/tsinghua-fib-lab/LLM4SBR"}
-tags: ['Tools', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13840'}
+  - {name: "Code", url: 'https://github.com/tsinghua-fib-lab/LLM4SBR'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Session-based recommendation (SBR) methods often rely on user behavior data,
 which can struggle with the sparsity of session data, limiting performance.

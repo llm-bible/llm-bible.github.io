@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14492"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Training Techniques', 'Pretraining Methods', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14492'}
+tags: ['Fairness', 'Training Techniques', 'Tools', 'Prompting', 'Fine-Tuning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) are prone to capturing biases from training
 corpus, leading to potential negative social impacts. Existing prompt-based

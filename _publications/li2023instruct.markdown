@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023instruct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10763"}
-tags: ['Agentic', 'Reinforcement Learning', 'Masked Language Model', 'Agent', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10763'}
+tags: ['Masked Language Model', 'Agentic', 'Agent', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recently, 3D understanding has become popular to facilitate autonomous agents
 to perform further decisionmaking. However, existing 3D datasets and methods

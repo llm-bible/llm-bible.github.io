@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023generative
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.03516v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.03516v2'}
 tags: ['RAG', 'RecSys', 'Applications']
 ---
 Recommender systems typically retrieve items from an item corpus for

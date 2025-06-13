@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: khan2025performance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15761"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15761'}
 tags: ['Efficiency and Optimization', 'Applications', 'Merging']
 ---
 The deployment of large language models (LLMs) on extended reality (XR)

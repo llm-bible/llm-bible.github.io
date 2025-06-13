@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024mechanistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18167"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18167'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 State-of-the-art language models (LMs) sometimes generate non-factual
 hallucinations that misalign with world knowledge. To explore the mechanistic

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025psy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03645"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03645'}
 tags: ['Tools']
 ---
 Large language models (LLMs) are becoming increasingly popular in the field

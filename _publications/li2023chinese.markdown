@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10654"}
-  - {name: "Code", url: "https://github.com/TongjiFinLab/CFGPT"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10654'}
+  - {name: "Code", url: 'https://github.com/TongjiFinLab/CFGPT'}
+tags: ['Has Code', 'Transformer', 'Applications', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated great potential in natural
 language processing tasks within the financial domain. In this work, we present

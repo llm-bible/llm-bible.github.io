@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09069"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09069'}
 tags: ['Training Techniques', 'Applications']
 ---
 To reduce issues like hallucinations and lack of control in Large Language

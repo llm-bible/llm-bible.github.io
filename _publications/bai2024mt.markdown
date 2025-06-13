@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024mt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14762"}
-  - {name: "Code", url: "https://github.com/mtbench101/mt-bench-101"}
-tags: ['Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14762'}
+  - {name: "Code", url: 'https://github.com/mtbench101/mt-bench-101'}
+tags: ['Reinforcement Learning', 'Has Code']
 ---
 The advent of Large Language Models (LLMs) has drastically enhanced dialogue
 systems. However, comprehensively evaluating the dialogue abilities of LLMs

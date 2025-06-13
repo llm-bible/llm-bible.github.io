@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gu2023programmable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15194"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15194'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multi-hop question answering (MQA) is one of the challenging tasks to
 evaluate machine's comprehension and reasoning abilities, where large language

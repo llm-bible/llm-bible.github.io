@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: osuji2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08496"}
-tags: ['Transformer', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08496'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This systematic review undertakes a comprehensive analysis of current
 research on data-to-text generation, identifying gaps, challenges, and future

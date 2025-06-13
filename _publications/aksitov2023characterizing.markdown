@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: aksitov2023characterizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.05578"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05578'}
 tags: ['RAG', 'Prompting']
 ---
 Despite recent progress, it has been difficult to prevent semantic

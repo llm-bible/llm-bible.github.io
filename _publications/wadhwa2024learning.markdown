@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wadhwa2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02397"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02397'}
 tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Recent work has explored the capability of large language models (LLMs) to

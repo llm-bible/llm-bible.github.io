@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kook2025empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22005"}
-  - {name: "Code", url: "https://github.com/kookeej/CORAL"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22005'}
+  - {name: "Code", url: 'https://github.com/kookeej/CORAL'}
 tags: ['RAG', 'RecSys', 'Has Code']
 ---
 Conversational recommender systems (CRSs) are designed to suggest the target

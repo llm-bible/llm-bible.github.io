@@ -6,7 +6,7 @@ conference: "Computer (Volume 57 Issue 8 August 2024)"
 year: 2025
 bibkey: conde2025speed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16721"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16721'}
 tags: ['Uncategorized']
 ---
 The speed of open-weights large language models (LLMs) and its dependency on

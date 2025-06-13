@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18148"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18148'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated surprising performance on many
 tasks, including writing supportive messages that display empathy. Here, we had

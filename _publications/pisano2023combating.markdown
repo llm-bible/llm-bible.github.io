@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pisano2023combating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.00029"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.00029'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Research into AI alignment has grown considerably since the recent
 introduction of increasingly capable Large Language Models (LLMs).

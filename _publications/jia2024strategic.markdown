@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024strategic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17509"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17509'}
 tags: ['Efficiency and Optimization', 'Applications']
 ---
 The need for effective unlearning mechanisms in large language models (LLMs)

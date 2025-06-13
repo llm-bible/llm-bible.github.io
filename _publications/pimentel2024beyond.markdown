@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pimentel2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21072"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21072'}
 tags: ['Fine-Tuning', 'Tools', 'Model Architecture']
 ---
 As large language models (LLMs) continue to evolve, the need for robust and

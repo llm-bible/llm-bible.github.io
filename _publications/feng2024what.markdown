@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00371"}
-tags: ['Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00371'}
+tags: ['Reinforcement Learning', 'Security', 'Tools']
 ---
 Social media bot detection has always been an arms race between advancements
 in machine learning bot detectors and adversarial bot strategies to evade

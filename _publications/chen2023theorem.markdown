@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023theorem
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12524"}
-  - {name: "Code", url: "https://github.com/wenhuchen/TheoremQA"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12524'}
+  - {name: "Code", url: 'https://github.com/wenhuchen/TheoremQA'}
+tags: ['Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 The recent LLMs like GPT-4 and PaLM-2 have made tremendous progress in
 solving fundamental math problems like GSM8K by achieving over 90% accuracy.

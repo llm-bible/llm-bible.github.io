@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cassano2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12450"}
-  - {name: "Code", url: "https://github.com/nuprl/CanItEdit"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12450'}
+  - {name: "Code", url: 'https://github.com/nuprl/CanItEdit'}
+tags: ['Has Code', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 A significant amount of research is focused on developing and evaluating
 large language models for a variety of code synthesis tasks. These include

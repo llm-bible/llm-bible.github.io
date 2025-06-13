@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: lin2022simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.00511"}
-  - {name: "Code", url: "https://github.com/castorini/dhr"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.00511'}
+  - {name: "Code", url: 'https://github.com/castorini/dhr'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained language models have been successful in many knowledge-intensive
 NLP tasks. However, recent work has shown that models such as BERT are not

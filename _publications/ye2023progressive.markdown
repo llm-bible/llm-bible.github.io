@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09466"}
-tags: ['Tools', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09466'}
+tags: ['Reinforcement Learning', 'Tools', 'Merging']
 ---
 In spite of the rapidly evolving landscape of text-to-image generation, the
 synthesis and manipulation of multiple entities while adhering to specific

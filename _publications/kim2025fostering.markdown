@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025fostering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08554"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08554'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Large language models (LLMs) can produce erroneous responses that sound
 fluent and convincing, raising the risk that users will rely on these responses

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yen2023three
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13615"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13615'}
 tags: ['Applications']
 ---
 Due to the remarkable language understanding and generation abilities of

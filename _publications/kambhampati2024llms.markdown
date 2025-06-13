@@ -6,8 +6,8 @@ conference: "Proceedings of the 41 st International Conference on Machine Learni
 year: 2024
 bibkey: kambhampati2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01817"}
-tags: ['Tools', 'Prompting', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01817'}
+tags: ['Prompting', 'Tools', 'Merging']
 ---
 There is considerable confusion about the role of Large Language Models
 (LLMs) in planning and reasoning tasks. On one side are over-optimistic claims

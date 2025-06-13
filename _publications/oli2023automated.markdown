@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: oli2023automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05399"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05399'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Few-Shot', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Assessing student's answers and in particular natural language answers is a
 crucial challenge in the field of education. Advances in machine learning,

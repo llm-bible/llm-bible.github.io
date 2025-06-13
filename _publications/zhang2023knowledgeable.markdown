@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023knowledgeable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06503"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06503'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Deploying large language models (LLMs) to real scenarios for domain-specific
 question answering (QA) is a key thrust for LLM applications, which poses

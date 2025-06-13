@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12021"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12021'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large language model (LLM) decoding involves generating a sequence of tokens
 based on a given context, where each token is predicted one at a time using the

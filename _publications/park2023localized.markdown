@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: park2023localized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04837"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04837'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Instruction following vision-language (VL) models offer a flexible interface
 that supports a broad range of multimodal tasks in a zero-shot fashion.

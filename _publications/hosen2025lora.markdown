@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hosen2025lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15610"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15610'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Quantization', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The current study describes a cost-effective method for adapting large
 language models (LLMs) for academic advising with study-abroad contexts in mind

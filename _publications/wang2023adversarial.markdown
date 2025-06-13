@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14950"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14950'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 With the emergence of more powerful large language models (LLMs), such as
 ChatGPT and GPT-4, in-context learning (ICL) has gained significant prominence

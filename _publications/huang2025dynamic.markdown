@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16268"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16268'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Evaluating large language models (LLMs) poses significant challenges,
 particularly due to issues of data contamination and the leakage of correct

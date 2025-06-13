@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08640"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08640'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent research on Large Language Models (LLMs) has led to remarkable
 advancements in general NLP AI assistants. Some studies have further explored

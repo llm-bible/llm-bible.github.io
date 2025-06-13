@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: seo2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12560"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12560'}
 tags: ['Reinforcement Learning']
 ---
 The necessity of language-specific tokenizers intuitively appears crucial for

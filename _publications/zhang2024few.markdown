@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04478"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04478'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Pre-trained language models (PLMs) have attracted enormous attention over the
 past few years with their unparalleled performances. Meanwhile, the soaring

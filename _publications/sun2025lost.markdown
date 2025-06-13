@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10634"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10634'}
 tags: ['Attention Mechanism', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 By simply incorporating demonstrations into the context, in-context learning

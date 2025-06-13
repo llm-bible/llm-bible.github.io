@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05819"}
-  - {name: "Code", url: "https://github.com/THU-MIG/VTC-CLS"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05819'}
+  - {name: "Code", url: 'https://github.com/THU-MIG/VTC-CLS'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Prompting', 'Pruning', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Multimodal Large Language Models (MLLMs) have recently demonstrated strong
 performance across a wide range of vision-language tasks, garnering significant

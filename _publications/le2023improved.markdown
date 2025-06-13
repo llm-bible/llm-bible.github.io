@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: le2023improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17280"}
-  - {name: "Code", url: "https://github.com/octaviaguo/ChattyChef"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17280'}
+  - {name: "Code", url: 'https://github.com/octaviaguo/ChattyChef'}
+tags: ['Reinforcement Learning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 In this paper, we study the task of instructional dialogue and focus on the
 cooking domain. Analyzing the generated output of the GPT-J model, we reveal

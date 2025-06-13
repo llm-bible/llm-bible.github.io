@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11363"}
-  - {name: "Code", url: "https://github.com/ProteinGPT/ProteinGPT"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11363'}
+  - {name: "Code", url: 'https://github.com/ProteinGPT/ProteinGPT'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models']
 ---
 Understanding biological processes, drug development, and biotechnological
 advancements requires a detailed analysis of protein structures and functions,

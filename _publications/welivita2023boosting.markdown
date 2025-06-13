@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: welivita2023boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10195"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10195'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 AI-driven chatbots have become an emerging solution to address psychological
 distress. Due to the lack of psychotherapeutic data, researchers use dialogues

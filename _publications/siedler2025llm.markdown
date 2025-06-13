@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: siedler2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13553"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13553'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 In complex multi-agent environments, achieving efficient learning and
 desirable behaviours is a significant challenge for Multi-Agent Reinforcement

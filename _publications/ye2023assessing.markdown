@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14868"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14868'}
 tags: ['Prompting']
 ---
 Large language models (LLMs) take advantage of step-by-step reasoning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.04195"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.04195'}
+tags: ['Masked Language Model', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 We present an empirical investigation of pre-trained Transformer-based
 auto-regressive language models for the task of open-domain dialogue

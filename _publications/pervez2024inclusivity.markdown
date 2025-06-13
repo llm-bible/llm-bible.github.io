@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pervez2024inclusivity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19497"}
-tags: ['Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19497'}
+tags: ['Ethics and Bias', 'Tools']
 ---
 Large language models (LLMs) are increasingly utilized to assist in
 scientific and academic writing, helping authors enhance the coherence of their

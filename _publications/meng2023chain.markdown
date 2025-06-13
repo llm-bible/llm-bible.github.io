@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: meng2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09241"}
-  - {name: "Code", url: "https://github.com/GraphPKU/CoI"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09241'}
+  - {name: "Code", url: 'https://github.com/GraphPKU/CoI'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The human brain is naturally equipped to comprehend and interpret visual
 information rapidly. When confronted with complex problems or concepts, we use

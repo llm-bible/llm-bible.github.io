@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: kumar2018automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1803.03664"}
-tags: ['Tools', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1803.03664'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Neural network-based methods represent the state-of-the-art in question
 generation from text. Existing work focuses on generating only questions from

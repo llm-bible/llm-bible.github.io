@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: neha2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03933"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03933'}
+tags: ['Language Modeling', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The rapid development of Artificial Intelligence (AI) has led to the creation
 of powerful text generation models, such as large language models (LLMs), which

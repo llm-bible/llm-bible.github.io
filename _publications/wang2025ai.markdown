@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00934"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00934'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Leveraging large language models (LLMs) to generate high-stakes documents,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yadkori2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01563"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01563'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 We develop a principled procedure for determining when a large language model
 (LLM) should abstain from responding (e.g., by saying "I don't know") in a

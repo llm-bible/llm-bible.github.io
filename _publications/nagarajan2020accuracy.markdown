@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: nagarajan2020accuracy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.03688"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.03688'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Transformers have greatly advanced the state-of-the-art in Natural Language
 Processing (NLP) in recent years, but present very large computation and

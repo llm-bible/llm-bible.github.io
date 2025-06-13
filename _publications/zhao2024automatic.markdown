@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07627"}
-  - {name: "Code", url: "https://github.com/SalesforceAIResearch/Auto-CEI"}
-tags: ['Security', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07627'}
+  - {name: "Code", url: 'https://github.com/SalesforceAIResearch/Auto-CEI'}
+tags: ['Reinforcement Learning', 'Has Code', 'Security']
 ---
 Hallucinations (i.e., generating plausible but inaccurate content) and
 laziness (i.e. excessive refusals or defaulting to "I don't know") persist as

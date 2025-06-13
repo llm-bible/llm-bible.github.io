@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13544"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13544'}
+tags: ['Training Techniques', 'Language Modeling', 'Applications', 'Tools']
 ---
 Despite the rapid progress of large language models (LLMs), their
 length-controllable text generation (LCTG) ability remains below expectations,

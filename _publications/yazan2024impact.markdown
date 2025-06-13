@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yazan2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10251"}
-tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10251'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization']
 ---
 Post-training quantization reduces the computational demand of Large Language
 Models (LLMs) but can weaken some of their capabilities. Since LLM abilities

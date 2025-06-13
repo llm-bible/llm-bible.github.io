@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kwan2023joint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00230"}
-tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00230'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Dialogue policy learning (DPL) is a crucial component of dialogue modelling.
 Its primary role is to determine the appropriate abstract response, commonly

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11538"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11538'}
+tags: ['RAG', 'INTERSPEECH', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable advancements in
 language understanding and generation. Building on the success of text-based

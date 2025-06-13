@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: glenn2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17882"}
-  - {name: "Code", url: "https://github.com/parkervg/blendsql"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17882'}
+  - {name: "Code", url: 'https://github.com/parkervg/blendsql'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 Many existing end-to-end systems for hybrid question answering tasks can
 often be boiled down to a "prompt-and-pray" paradigm, where the user has

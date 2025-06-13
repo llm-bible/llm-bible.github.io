@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024parallel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05589"}
-tags: ['Training Techniques', 'RAG', 'Tools', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05589'}
+tags: ['Training Techniques', 'RAG', 'Language Modeling', 'Tools']
 ---
 Speculative decoding has proven to be an efficient solution to large language
 model (LLM) inference, where the small drafter predicts future tokens at a low

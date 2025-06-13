@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12821"}
-tags: ['Training Techniques', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12821'}
+tags: ['Prompting', 'Applications', 'Training Techniques']
 ---
 Factual inconsistencies pose a significant hurdle for the faithful
 summarization by generative models. While a major direction to enhance

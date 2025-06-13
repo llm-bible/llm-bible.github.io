@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lehmann2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09047"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09047'}
 tags: ['Fine-Tuning', 'Interpretability and Explainability']
 ---
 The effect of large language models (LLMs) in education is debated: Previous

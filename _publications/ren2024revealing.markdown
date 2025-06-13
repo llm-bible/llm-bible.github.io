@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024revealing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07865"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07865'}
+tags: ['Agentic', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 The rapid advancement of Large Language Models (LLMs) has brought about
 remarkable generative capabilities but also raised concerns about their

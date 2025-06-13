@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13184"}
-tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13184'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Tools']
 ---
 Spatial reasoning in Large Language Models (LLMs) is the foundation for
 embodied intelligence. However, even in simple maze environments, LLMs still

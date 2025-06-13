@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: plesner2025flip
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12256"}
-  - {name: "Code", url: "https://github.com/aplesner/FLIP-Reasoning-Challenge"}
-tags: ['RAG', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12256'}
+  - {name: "Code", url: 'https://github.com/aplesner/FLIP-Reasoning-Challenge'}
+tags: ['RAG', 'Has Code', 'Multimodal Models']
 ---
 Over the past years, advances in artificial intelligence (AI) have
 demonstrated how AI can solve many perception and generation tasks, such as

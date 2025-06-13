@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024pride
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11436"}
-  - {name: "Code", url: "https://github.com/xu1998hz/llm_self_bias"}
-tags: ['GPT', 'Has Code', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11436'}
+  - {name: "Code", url: 'https://github.com/xu1998hz/llm_self_bias'}
+tags: ['Ethics and Bias', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Recent studies show that large language models (LLMs) improve their
 performance through self-feedback on certain tasks while degrade on others. We

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024early
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05508"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05508'}
+tags: ['Language Modeling', 'RAG', 'Security', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent advances have demonstrated that large language models (LLMs) excel as
 listwise rerankers, but their high computational demands remain a barrier to

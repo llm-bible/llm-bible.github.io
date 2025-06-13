@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kayali2024mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20331"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20331'}
 tags: ['Reinforcement Learning']
 ---
 Leading large language models (LLMs) are trained on public data. However,

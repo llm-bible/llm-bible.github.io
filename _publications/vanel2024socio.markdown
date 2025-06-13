@@ -6,8 +6,8 @@ conference: "AHRI 2024 Sep 2024 Glasgow United Kingdom"
 year: 2024
 bibkey: vanel2024socio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04492"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04492'}
+tags: ['Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Conversational systems are now capable of producing impressive and generally
 relevant responses. However, we have no visibility nor control of the

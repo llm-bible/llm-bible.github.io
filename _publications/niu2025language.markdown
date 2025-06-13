@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: niu2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08271"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'GPT', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08271'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent research has shown an increasing interest in utilizing pre-trained
 large language models (LLMs) for a variety of time series applications.

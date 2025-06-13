@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025overview
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13038"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13038'}
 tags: ['RAG']
 ---
 In this paper, we provide an overview of the NTCIR-18 Automatic Evaluation of

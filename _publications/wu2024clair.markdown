@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024clair
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12962"}
-  - {name: "Code", url: "https://github.com/DavidMChan/clair-a"}
-tags: ['Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12962'}
+  - {name: "Code", url: 'https://github.com/DavidMChan/clair-a'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Ethics and Bias', 'Interpretability']
 ---
 The Automated Audio Captioning (AAC) task asks models to generate natural
 language descriptions of an audio input. Evaluating these machine-generated

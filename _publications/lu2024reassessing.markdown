@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024reassessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15558"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15558'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Although large language models (LLMs) have achieved remarkable success across
 various domains, their considerable scale necessitates substantial

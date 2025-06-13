@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023modularity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04640"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04640'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pre-Training']
 ---
 Large Language Models (LLMs) have achieved remarkable results. However,
 existing models are expensive to train and deploy, and it is also difficult to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: smith2024mysterious
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03621"}
-  - {name: "Code", url: "https://github.com/DRAGNLabs/injectable-alignment-model"}
-tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03621'}
+  - {name: "Code", url: 'https://github.com/DRAGNLabs/injectable-alignment-model'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have an unrivaled and invaluable ability to
 "align" their output to a diverse range of human preferences, by mirroring them

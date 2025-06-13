@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gamallo2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13893"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13893'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) have transformed natural language processing.
 Yet, their predominantly English-centric training has led to biases and

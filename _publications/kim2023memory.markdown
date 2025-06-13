@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14152"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14152'}
+tags: ['Language Modeling', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) face the challenges in fine-tuning and
 deployment due to their high memory demands and computational costs. While

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cen2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14655"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14655'}
+tags: ['ACL', 'RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Language models are often trained to maximize the likelihood of the next
 token given past tokens in the training dataset. However, during inference

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024instruct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15501"}
-tags: ['Agentic', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15501'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic', 'Applications']
 ---
 Code snippet adaptation is a fundamental activity in the software development
 process. Unlike code generation, code snippet adaptation is not a "free

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020lexically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.10813"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.10813'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Applications', 'Model Architecture']
 ---
 Conditional text generation has been a challenging task that is yet to see
 human-level performance from state-of-the-art models. In this work, we

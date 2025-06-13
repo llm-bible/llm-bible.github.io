@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liang2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08617"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08617'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While Reinforcement Learning from Human Feedback (RLHF) has shown promise in
 aligning generative AI, we present empirical evidence that it can also cause

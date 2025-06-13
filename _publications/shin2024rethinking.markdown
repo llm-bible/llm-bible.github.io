@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shin2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15524"}
-tags: ['Efficiency and Optimization', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15524'}
+tags: ['Pruning', 'Efficiency and Optimization']
 ---
 This work suggests fundamentally rethinking the current practice of pruning
 large language models (LLMs). The way it is done is by divide and conquer:

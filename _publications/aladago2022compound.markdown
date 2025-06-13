@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: aladago2022compound
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.01447"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.01447'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 We present an effective method for fusing visual-and-language representations
 for several question answering tasks including visual question answering and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ge2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18202"}
-  - {name: "Code", url: "https://github.com/DCDmllm/WorldGPT"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18202'}
+  - {name: "Code", url: 'https://github.com/DCDmllm/WorldGPT'}
+tags: ['Agentic', 'Has Code', 'RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 World models are progressively being employed across diverse fields,
 extending from basic environment simulation to complex scenario construction.

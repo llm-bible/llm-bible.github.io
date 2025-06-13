@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: banerjee2024navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12880"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12880'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 As LLMs are increasingly deployed in global applications, the importance of
 cultural sensitivity becomes paramount, ensuring that users from diverse

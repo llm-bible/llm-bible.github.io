@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: saito2023verbosity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10076"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10076'}
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 In recent years, Large Language Models (LLMs) have witnessed a remarkable
 surge in prevalence, altering the landscape of natural language processing and

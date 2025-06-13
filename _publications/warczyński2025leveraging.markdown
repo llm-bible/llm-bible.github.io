@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: warczyński2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20609"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20609'}
 tags: ['RAG', 'Prompting']
 ---
 We introduce a simple approach that uses a large language model (LLM) to

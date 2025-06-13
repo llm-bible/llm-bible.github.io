@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023catastrophic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06987"}
-  - {name: "Code", url: "https://github.com/Princeton-SysML/Jailbreak_LLM"}
-tags: ['Responsible AI', 'Tools', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06987'}
+  - {name: "Code", url: 'https://github.com/Princeton-SysML/Jailbreak_LLM'}
+tags: ['Has Code', 'Security', 'Tools', 'Prompting', 'Responsible AI']
 ---
 The rapid progress in open-source large language models (LLMs) is
 significantly advancing AI development. Extensive efforts have been made before

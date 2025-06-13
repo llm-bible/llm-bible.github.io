@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tsvilodub2024experimental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05776"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05776'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Human communication is based on a variety of inferences that we draw from
 sentences, often going beyond what is literally said. While there is wide

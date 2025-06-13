@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rodriguezcardenas2025mining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07046"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07046'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language Models (LLMs), such as transformer-based neural networks trained on
 billions of parameters, have become increasingly prevalent in software

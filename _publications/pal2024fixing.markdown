@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pal2024fixing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13228"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13228'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Direct Preference Optimisation (DPO) is effective at significantly improving
 the performance of large language models (LLMs) on downstream tasks such as

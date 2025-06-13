@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: xiao2020ernie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2001.11314"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2001.11314'}
+tags: ['Attention Mechanism', 'Pre-Training', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Current pre-training works in natural language generation pay little
 attention to the problem of exposure bias on downstream tasks. To address this

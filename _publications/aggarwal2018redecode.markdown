@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: aggarwal2018redecode
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1811.04454"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1811.04454'}
+tags: ['Applications', 'Tools']
 ---
 Generating paraphrases, that is, different variations of a sentence conveying
 the same meaning, is an important yet challenging task in NLP. Automatically

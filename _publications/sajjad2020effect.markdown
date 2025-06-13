@@ -6,8 +6,8 @@ conference: "Computer Speech and Language 2022"
 year: 2020
 bibkey: sajjad2020effect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.03844"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.03844'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'BERT', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 Transformer-based NLP models are trained using hundreds of millions or even
 billions of parameters, limiting their applicability in computationally

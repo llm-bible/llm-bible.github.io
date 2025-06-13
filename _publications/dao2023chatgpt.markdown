@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dao2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08272"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08272'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 This study examines the efficacy of two SOTA large language models (LLMs),
 namely ChatGPT and Microsoft Bing Chat (BingChat), in catering to the needs of

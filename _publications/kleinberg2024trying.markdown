@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kleinberg2024trying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01675"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01675'}
 tags: ['Reinforcement Learning']
 ---
 Differentiating between generated and human-written content is important for

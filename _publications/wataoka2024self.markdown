@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wataoka2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21819"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21819'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Automated evaluation leveraging large language models (LLMs), commonly
 referred to as LLM evaluators or LLM-as-a-judge, has been widely used in

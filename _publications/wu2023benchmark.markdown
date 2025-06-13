@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01557"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01557'}
 tags: ['Agentic']
 ---
 Recent large language models (LLMs) have demonstrated great potential toward

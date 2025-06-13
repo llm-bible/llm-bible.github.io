@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: silwal2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18099"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18099'}
+tags: ['Attention Mechanism', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Contextual Embeddings have yielded state-of-the-art results in various
 natural language processing tasks. However, these embeddings are constrained by

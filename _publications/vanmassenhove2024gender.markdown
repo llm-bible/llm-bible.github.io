@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vanmassenhove2024gender
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10016"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Model Architecture', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10016'}
+tags: ['Transformer', 'Fairness', 'GPT', 'Model Architecture', 'Applications', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 This chapter examines the role of Machine Translation in perpetuating gender
 bias, highlighting the challenges posed by cross-linguistic settings and

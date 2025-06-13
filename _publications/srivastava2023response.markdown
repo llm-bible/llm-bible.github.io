@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: srivastava2023response
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.12729"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.12729'}
+tags: ['Transformer', 'Efficiency and Optimization', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Virtual Mental Health Assistants (VMHAs) have become a prevalent method for
 receiving mental health counseling in the digital healthcare space. An

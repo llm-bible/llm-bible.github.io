@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: caffagni2025recurrence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01980"}
-  - {name: "Code", url: "https://github.com/aimagelab/ReT"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01980'}
+  - {name: "Code", url: 'https://github.com/aimagelab/ReT'}
+tags: ['Large-Scale Training', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Cross-modal retrieval is gaining increasing efficacy and interest from the
 research community, thanks to large-scale training, novel architectural and

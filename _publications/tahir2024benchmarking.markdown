@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tahir2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15453"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15453'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) pre-trained on multilingual data have

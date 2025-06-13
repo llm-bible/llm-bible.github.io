@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024analytical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13178"}
-tags: ['Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'TACL', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13178'}
+tags: ['Agentic', 'Interpretability and Explainability', 'ACL', 'Applications', 'Tools', 'TACL']
 ---
 Evaluating Large Language Models (LLMs) as general-purpose agents is
 essential for understanding their capabilities and facilitating their

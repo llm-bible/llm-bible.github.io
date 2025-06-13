@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aboutalebi2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03194"}
-tags: ['Responsible AI', 'Tools', 'Multimodal Models', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03194'}
+tags: ['Multimodal Models', 'Responsible AI', 'Tools', 'Merging']
 ---
 Development of multimodal interactive systems is hindered by the lack of
 rich, multimodal (text, images) conversational data, which is needed in large

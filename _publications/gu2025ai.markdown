@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gu2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00079"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00079'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Survey Paper']
 ---
 Even though AI literacy has emerged as a prominent education topic in the
 wake of generative AI, its definition remains vague. There is little consensus

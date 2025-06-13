@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: baluja2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05315"}
-tags: ['Interpretability and Explainability', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05315'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Multimodal Models']
 ---
 While Large Language Models (LLMs) have demonstrated impressive natural
 language understanding capabilities across various text-based tasks,

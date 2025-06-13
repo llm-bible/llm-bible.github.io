@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: savadikar2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.00700"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.00700'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We present Generative Parameter-Efficient Fine-Tuning (GIFT) for adapting
 pretrained Transformer backbones on downstream tasks. GIFT learns to generate

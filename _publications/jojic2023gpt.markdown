@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jojic2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.14310"}
-tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.14310'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We demonstrate that, through appropriate prompting, GPT-3 family of models
 can be triggered to perform iterative behaviours necessary to execute (rather

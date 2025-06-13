@@ -6,8 +6,8 @@ conference: "Nature Communications 2023"
 year: 2022
 bibkey: singh2022augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.11799"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.11799'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Ethics and Bias', 'Interpretability']
 ---
 Recent large language models (LLMs) have demonstrated remarkable prediction
 performance for a growing array of tasks. However, their proliferation into

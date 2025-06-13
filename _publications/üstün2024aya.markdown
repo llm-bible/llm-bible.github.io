@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: üstün2024aya
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07827"}
-tags: ['Responsible AI', 'Pruning', 'Efficiency and Optimization', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07827'}
+tags: ['Ethics and Bias', 'Pruning', 'Efficiency and Optimization', 'Responsible AI']
 ---
 Recent breakthroughs in large language models (LLMs) have centered around a
 handful of data-rich languages. What does it take to broaden access to

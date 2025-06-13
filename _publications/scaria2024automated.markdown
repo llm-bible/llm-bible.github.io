@@ -6,7 +6,7 @@ conference: "Artificial Intelligence in Education. AIED 2024"
 year: 2024
 bibkey: scaria2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04394"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04394'}
 tags: ['Prompting']
 ---
 Developing questions that are pedagogically sound, relevant, and promote

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07488"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07488'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have demonstrated
 remarkable abilities in handling a variety of natural language processing (NLP)

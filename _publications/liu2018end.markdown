@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: liu2018end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1807.01763"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1807.01763'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Applications']
 ---
 We present an end-to-end approach that takes unstructured textual input and
 generates structured output compliant with a given vocabulary. Inspired by

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rawat2024little
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18779"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18779'}
+tags: ['RAG', 'Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Ethics and Bias']
 ---
 A primary challenge in large language model (LLM) development is their
 onerous pre-training cost. Typically, such pre-training involves optimizing a

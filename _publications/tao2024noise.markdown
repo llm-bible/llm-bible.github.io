@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024noise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09582"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09582'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 The success of Vision Language Models (VLMs) on various vision-language tasks
 heavily relies on pre-training with large scale web-crawled datasets. However,

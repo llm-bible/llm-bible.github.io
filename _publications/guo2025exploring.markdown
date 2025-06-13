@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16548"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16548'}
 tags: ['Prompting']
 ---
 There has been extensive prior work exploring how psychological factors such

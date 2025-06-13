@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: indurthi2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01853"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01853'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Advancements in Large Language Models (LLMs) have significantly enhanced
 instruction-following capabilities. However, most Instruction Fine-Tuning (IFT)

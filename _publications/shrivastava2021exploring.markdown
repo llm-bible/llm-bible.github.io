@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: shrivastava2021exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.13999"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.13999'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Quantization', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained language models improves the quality of commercial
 reply suggestion systems, but at the cost of unsustainable training times.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: javaheripi2022training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.02094"}
-tags: ['Transformer', 'GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.02094'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 The Transformer architecture is ubiquitously used as the building block of
 large-scale autoregressive language models. However, finding architectures with

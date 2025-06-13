@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lovon2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09384"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09384'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Electronic Health Record (EHR) tables pose unique challenges among which is
 the presence of hidden contextual dependencies between medical features with a

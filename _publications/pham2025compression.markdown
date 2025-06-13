@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: pham2025compression
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14854"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14854'}
 tags: ['Uncategorized']
 ---
 LLM developers are increasingly reliant on synthetic data, but generating

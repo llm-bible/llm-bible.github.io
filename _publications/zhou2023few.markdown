@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08042"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08042'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Model Architecture', 'BERT', 'Tools', 'GPT']
 ---
 Natural language explanations have the potential to provide rich information
 that in principle guides model reasoning. Yet, recent work by Lampinen et al.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lochab2025energy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13134"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13134'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Reward models (RMs) are essential for aligning Large Language Models (LLMs)
 with human preferences. However, they often struggle with capturing complex

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maheshwari2024efficacy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11968"}
-tags: ['Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11968'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have enabled a range of applications in
 zero-shot and few-shot learning settings, including the generation of synthetic

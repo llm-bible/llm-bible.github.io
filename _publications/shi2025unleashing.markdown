@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10829"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10829'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Conditional layout generation aims to automatically generate visually
 appealing and semantically coherent layouts from user-defined constraints.

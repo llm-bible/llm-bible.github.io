@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: linzucker2025prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15247"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15247'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 The use of chatbots in language learning has evolved significantly since the
 1960s, becoming more sophisticated platforms as generative AI emerged. These

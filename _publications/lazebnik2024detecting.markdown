@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lazebnik2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16807"}
-tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16807'}
+tags: ['Language Modeling', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs), exemplified by ChatGPT, have significantly
 reshaped text generation, particularly in the realm of writing assistance.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiao2023personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02483"}
-  - {name: "Code", url: "https://github.com/Wendy-Xiao/chatgpt_editing_summ"}
-tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02483'}
+  - {name: "Code", url: 'https://github.com/Wendy-Xiao/chatgpt_editing_summ'}
+tags: ['Agentic', 'Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Tailoring outputs from large language models, like ChatGPT, to implicit user
 preferences remains a challenge despite their impressive generative

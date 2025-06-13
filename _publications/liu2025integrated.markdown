@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025integrated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15973"}
-  - {name: "Code", url: "https://github.com/zhoujiahuan1991/CVPR2025-STOP"}
-tags: ['CVPR', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15973'}
+  - {name: "Code", url: 'https://github.com/zhoujiahuan1991/CVPR2025-STOP'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'CVPR', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Pre-trained on tremendous image-text pairs, vision-language models like CLIP
 have demonstrated promising zero-shot generalization across numerous

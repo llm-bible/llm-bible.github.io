@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiao2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13718"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13718'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Existing efforts to improve logical reasoning ability of language models have

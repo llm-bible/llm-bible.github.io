@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023hallucination
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.06968v4"}
-  - {name: "Code", url: "https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl"}
-tags: ['GPT', 'Model Architecture', 'ACL', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.06968v4'}
+  - {name: "Code", url: 'https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl'}
+tags: ['Has Code', 'ACL', 'GPT', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multi-modal large language models (MLLMs) have been shown to efficiently
 integrate natural language with visual information to handle multi-modal tasks.

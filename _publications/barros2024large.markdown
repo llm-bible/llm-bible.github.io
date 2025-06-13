@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barros2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14473"}
-tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14473'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Tools']
 ---
 The exponential growth of text-based data in domains such as healthcare,
 education, and social sciences has outpaced the capacity of traditional

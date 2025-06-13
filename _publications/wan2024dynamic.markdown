@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13035"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13035'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Generative inference in Large Language Models (LLMs) is impeded by the
 growing memory demands of Key-Value (KV) cache, especially for longer

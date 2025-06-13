@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14128"}
-  - {name: "Code", url: "https://microsoft.github.io/tale-suite"}
-tags: ['Agentic', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14128'}
+  - {name: "Code", url: 'https://microsoft.github.io/tale-suite'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code']
 ---
 Reasoning is an essential skill to enable Large Language Models (LLMs) to
 interact with the world. As tasks become more complex, they demand increasingly

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11235"}
-  - {name: "Code", url: "https://github.com/imoneoi/openchat"}
-  - {name: "Code", url: "https://huggingface.co/openchat"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11235'}
+  - {name: "Code", url: 'https://github.com/imoneoi/openchat'}
+  - {name: "Code", url: 'https://huggingface.co/openchat'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Nowadays, open-source large language models like LLaMA have emerged. Recent
 developments have incorporated supervised fine-tuning (SFT) and reinforcement

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ferrando2023automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02553"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02553'}
+tags: ['Applications', 'Tools']
 ---
 Behavioral testing in NLP allows fine-grained evaluation of systems by
 examining their linguistic capabilities through the analysis of input-output

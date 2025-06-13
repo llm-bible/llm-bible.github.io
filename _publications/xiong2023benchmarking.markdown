@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiong2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10180"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10180'}
 tags: ['GPT', 'Model Architecture']
 ---
 Automated theorem proving (ATP) has become an appealing domain for exploring

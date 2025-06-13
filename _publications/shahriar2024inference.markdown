@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shahriar2024inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19206"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19206'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Aligning Large Language Models (LLM) to address subjectivity and nuanced
 preference levels requires adequate flexibility and control, which can be a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025following
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04994"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04994'}
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Despite the impressive performance of large language models (LLMs), they can
 present unintended biases and harmful behaviors driven by encoded values,

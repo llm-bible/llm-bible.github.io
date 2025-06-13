@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: brunet2023icl
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.07405v1"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.07405v1'}
+tags: ['Few-Shot', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large pretrained language models (LLMs) can be rapidly adapted to a wide
 variety of tasks via a text-to-text approach, where the instruction and input

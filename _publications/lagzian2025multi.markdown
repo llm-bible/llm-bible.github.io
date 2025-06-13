@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lagzian2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12700"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12700'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) demonstrate remarkable proficiency in generating
 accurate and fluent text. However, they often struggle with diversity and

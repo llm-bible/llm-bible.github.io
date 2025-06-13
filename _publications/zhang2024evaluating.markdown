@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16732"}
-  - {name: "Code", url: "https://github.com/Mercury7353/PyBench"}
-tags: ['Agentic', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16732'}
+  - {name: "Code", url: 'https://github.com/Mercury7353/PyBench'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Training Techniques']
 ---
 The LLM Agent, equipped with a code interpreter, is capable of automatically
 solving real-world coding tasks, such as data analysis and image editing.

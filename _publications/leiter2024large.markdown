@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leiter2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18528"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18528'}
+tags: ['Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs) have revolutionized NLP research. Notably,
 in-context learning enables their use as evaluation metrics for natural

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mahfuz2024too
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00416"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00416'}
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Tokenization', 'Pretraining Methods']
 ---
 Each new generation of English-oriented Large Language Models (LLMs) exhibits
 enhanced cross-lingual transfer capabilities and significantly outperforms

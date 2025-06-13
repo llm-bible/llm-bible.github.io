@@ -6,8 +6,8 @@ conference: "6th International Workshop on Dialog Systems (IWDS); 10th IEEE Inte
 year: 2023
 bibkey: brocki2023deep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.09412"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.09412'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Mental health counseling remains a major challenge in modern society due to
 cost, stigma, fear, and unavailability. We posit that generative artificial

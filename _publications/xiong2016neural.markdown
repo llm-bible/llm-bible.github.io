@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2016
 bibkey: xiong2016neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1607.05809"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1607.05809'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Neural conversational models tend to produce generic or safe responses in

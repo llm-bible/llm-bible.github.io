@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09127"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09127'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Multimodal Models']
 ---
 Existing work on jailbreak Multimodal Large Language Models (MLLMs) has
 focused primarily on adversarial examples in model inputs, with less attention

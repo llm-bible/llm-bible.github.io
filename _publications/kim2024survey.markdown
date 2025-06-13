@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11381"}
-tags: ['Transformer', 'Survey Paper', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11381'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Survey Paper', 'Pretraining Methods']
 ---
 The advent of the Attention mechanism and Transformer architecture enables
 contextually natural text generation and compresses the burden of processing

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: you2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05981"}
-  - {name: "Code", url: "https://github.com/GATECH-EIC/ShiftAddLLM"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05981'}
+  - {name: "Code", url: 'https://github.com/GATECH-EIC/ShiftAddLLM'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive performance on language
 tasks but face challenges when deployed on resource-constrained devices due to

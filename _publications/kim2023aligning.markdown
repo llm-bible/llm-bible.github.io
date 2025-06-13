@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13735"}
-  - {name: "Code", url: "https://github.com/naver-ai/almost"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13735'}
+  - {name: "Code", url: 'https://github.com/naver-ai/almost'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Aligning large language models (LLMs) to human values has become increasingly
 important as it enables sophisticated steering of LLMs. However, it requires

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: das2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04902"}
-  - {name: "Code", url: "https://github.com/VILA-Lab/GBLM-Pruner"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04902'}
+  - {name: "Code", url: 'https://github.com/VILA-Lab/GBLM-Pruner'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) with billions of parameters are prime targets
 for network pruning, removing some model weights without hurting performance.

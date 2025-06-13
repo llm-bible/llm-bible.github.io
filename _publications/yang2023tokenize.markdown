@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023tokenize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04589"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04589'}
 tags: ['Multimodal Models', 'GPT', 'Pretraining Methods']
 ---
 Despite Multi-modal Large Language Models (MM-LLMs) have made exciting

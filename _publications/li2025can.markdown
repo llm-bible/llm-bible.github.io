@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10496"}
-  - {name: "Code", url: "https://github.com/arxivBenchLLM/arXivBench"}
-  - {name: "Code", url: "https://huggingface.co/datasets/arXivBenchLLM/arXivBench"}
-tags: ['Tools', 'Has Code', 'Prompting', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10496'}
+  - {name: "Code", url: 'https://github.com/arxivBenchLLM/arXivBench'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/arXivBenchLLM/arXivBench'}
+tags: ['Arxiv', 'Has Code', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) have demonstrated remarkable effectiveness in
 completing various tasks such as reasoning, translation, and question

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: paul2023reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01904"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01904'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Language models (LMs) have recently shown remarkable performance on reasoning
 tasks by explicitly generating intermediate inferences, e.g., chain-of-thought

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sarangi2025decompose
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09056"}
-tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09056'}
+tags: ['Reinforcement Learning', 'Prompting', 'Training Techniques']
 ---
 Theory of Mind (ToM) is the ability to understand and reflect on the mental
 states of others. Although this capability is crucial for human interaction,

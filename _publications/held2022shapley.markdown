@@ -6,8 +6,8 @@ conference: "https://aclanthology.org/2023.eacl-main.177/"
 year: 2022
 bibkey: held2022shapley
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.05709"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.05709'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Interpretability', 'Pretraining Methods']
 ---
 Multilingual transformer-based models demonstrate remarkable zero and
 few-shot transfer across languages by learning and reusing language-agnostic

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yoon2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10695"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10695'}
 tags: ['Training Techniques']
 ---
 We introduce LangBridge, a zero-shot approach to adapt language models for

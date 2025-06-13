@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024stronger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07133"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07133'}
 tags: ['Reinforcement Learning']
 ---
 Instruction tuning has been widely adopted to ensure large language models

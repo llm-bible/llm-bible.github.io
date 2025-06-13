@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: fang2021transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.00828"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.00828'}
+tags: ['GPT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We investigate large-scale latent variable models (LVMs) for neural story
 generation -- an under-explored application for open-domain long text -- with

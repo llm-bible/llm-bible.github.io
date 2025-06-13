@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023lion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11860"}
-tags: ['Fine-Tuning', 'RAG', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11860'}
+tags: ['RAG', 'Fine-Tuning', 'Multimodal Models', 'Prompting']
 ---
 Multimodal Large Language Models (MLLMs) have endowed LLMs with the ability
 to perceive and understand multi-modal signals. However, most of the existing

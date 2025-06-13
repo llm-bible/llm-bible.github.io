@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13516"}
-tags: ['Efficiency and Optimization', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13516'}
+tags: ['Pruning', 'Efficiency and Optimization']
 ---
 Activation sparsity refers to the existence of considerable
 weakly-contributed elements among activation outputs. As a prevalent property

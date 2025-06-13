@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: horawalavithana2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.01139"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.01139'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 Instruction finetuning is a popular paradigm to align large language models
 (LLM) with human intent. Despite its popularity, this idea is less explored in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nathan2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15922"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15922'}
+tags: ['INTERSPEECH', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) with domain-specific instructions
 has emerged as an effective method to enhance their domain-specific

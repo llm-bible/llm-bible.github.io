@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024time
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14982"}
-tags: ['Model Architecture', 'Few-Shot', 'Transformer', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14982'}
+tags: ['Few-Shot', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent Transformer-based large language models (LLMs) demonstrate in-context
 learning ability to perform various functions based solely on the provided

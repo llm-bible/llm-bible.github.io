@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: moslem2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.14559"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.14559'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Consistency is a key requirement of high-quality translation. It is
 especially important to adhere to pre-approved terminology and adapt to

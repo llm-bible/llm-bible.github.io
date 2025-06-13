@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: furniturewala2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19526"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19526'}
 tags: ['Uncategorized']
 ---
 To be included into chatbot systems, Large language models (LLMs) must be

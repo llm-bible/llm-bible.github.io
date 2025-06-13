@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghazanfari2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02080"}
-  - {name: "Code", url: "https://github.com/SaraGhazanfari/EMMA"}
-tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02080'}
+  - {name: "Code", url: 'https://github.com/SaraGhazanfari/EMMA'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Security', 'Training Techniques', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multi-modal Large Language Models (MLLMs) have recently exhibited impressive
 general-purpose capabilities by leveraging vision foundation models to encode

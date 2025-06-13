@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: paranjape2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.09014"}
-tags: ['Tools', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.09014'}
+tags: ['Few-Shot', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs) can perform complex reasoning in few- and
 zero-shot settings by generating intermediate chain of thought (CoT) reasoning

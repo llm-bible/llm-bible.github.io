@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: lin2021triple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.00247"}
-tags: ['Transformer', 'Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.00247'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools']
 ---
 In this work, a robust and efficient text-to-speech (TTS) synthesis system
 named Triple M is proposed for large-scale online application. The key

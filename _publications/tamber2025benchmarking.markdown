@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tamber2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04847"}
-tags: ['RAG', 'Few-Shot', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04847'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'RAG', 'Applications']
 ---
 Hallucinations remain a persistent challenge for LLMs. RAG aims to reduce
 hallucinations by grounding responses in contexts. However, even when provided

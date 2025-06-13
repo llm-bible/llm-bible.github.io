@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: raman2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09552"}
-tags: ['Interpretability', 'Agentic', 'Survey Paper', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09552'}
+tags: ['Prompting', 'Interpretability', 'Agentic', 'Survey Paper']
 ---
 There is increasing interest in using LLMs as decision-making "agents." Doing
 so includes many degrees of freedom: which model should be used; how should it

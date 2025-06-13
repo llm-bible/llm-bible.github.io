@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ruan2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11405"}
-tags: ['RAG', 'Tools', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11405'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools', 'Merging']
 ---
 Despite being pretrained on multilingual corpora, large language models
 (LLMs) exhibit suboptimal performance on low-resource languages. Recent

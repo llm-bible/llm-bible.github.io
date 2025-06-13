@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15453"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15453'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Merging']
 ---
 Large Language Models (LLMs) have strong instruction-following capability to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rehg2024kv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00161"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00161'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Context lengths of Large Language Models (LLMs) have exploded in recent
 years, with 128k-token context becoming a standard and million-token context

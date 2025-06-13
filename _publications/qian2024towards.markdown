@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19465"}
-  - {name: "Code", url: "https://github.com/ChnQ/TracingLLM"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19465'}
+  - {name: "Code", url: 'https://github.com/ChnQ/TracingLLM'}
+tags: ['Has Code', 'Ethics and Bias', 'Security', 'Fairness', 'Training Techniques', 'Fine-Tuning', 'Bias Mitigation', 'Reinforcement Learning', 'Pre-Training']
 ---
 Ensuring the trustworthiness of large language models (LLMs) is crucial. Most
 studies concentrate on fully pre-trained LLMs to better understand and improve

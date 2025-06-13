@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: buzaaba2025lugha
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06536"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06536'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) have achieved impressive results in a wide range
 of natural language applications. However, they often struggle to recognize

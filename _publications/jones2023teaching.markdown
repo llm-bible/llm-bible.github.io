@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jones2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06827"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06827'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) frequently hallucinate on abstractive
 summarization tasks such as document-based question-answering, meeting

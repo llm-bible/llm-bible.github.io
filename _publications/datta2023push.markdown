@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: datta2023push
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.06223"}
-tags: ['Interpretability and Explainability', 'Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.06223'}
+tags: ['Ethics and Bias', 'Interpretability and Explainability', 'Tools']
 ---
 Deployed artificial intelligence (AI) often impacts humans, and there is no
 one-size-fits-all metric to evaluate these tools. Human-centered evaluation of

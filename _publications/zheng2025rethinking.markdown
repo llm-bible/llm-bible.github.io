@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13397"}
-tags: ['Pre-Training', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13397'}
+tags: ['Masked Language Model', 'BERT', 'Training Techniques', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Masked Language Models (MLMs) have achieved remarkable success in many
 self-supervised representation learning tasks. MLMs are trained by randomly

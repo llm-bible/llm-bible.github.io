@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yona2025interpreting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08908"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08908'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Security', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs), despite their impressive capabilities, often
 fail to accurately repeat a single word when prompted to, and instead output

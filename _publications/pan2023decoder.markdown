@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023decoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15539"}
-  - {name: "Code", url: "https://github.com/sade-adrien/SteloCoder"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15539'}
+  - {name: "Code", url: 'https://github.com/sade-adrien/SteloCoder'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 With the recent focus on Large Language Models (LLMs), both StarCoder (Li et
 al., 2023) and Code Llama (Rozi\`ere et al., 2023) have demonstrated remarkable

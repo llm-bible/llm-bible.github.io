@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08851"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08851'}
 tags: ['Ethics and Bias']
 ---
 Despite large language models' (LLMs) recent advancements, their bias and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020qiaoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.02645"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.02645'}
+tags: ['Interpretability and Explainability', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 In this paper, we present language model system submitted to SemEval-2020
 Task 4 competition: "Commonsense Validation and Explanation". We participate in

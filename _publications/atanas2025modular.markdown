@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: atanas2025modular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17645"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17645'}
 tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) exhibit impressive capabilities but struggle

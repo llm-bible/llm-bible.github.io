@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024regeneration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01489"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01489'}
+tags: ['Attention Mechanism', 'Security', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Text-to-image generative models have recently garnered significant attention
 due to their ability to generate images based on prompt descriptions. While

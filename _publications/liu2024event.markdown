@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024event
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00832"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00832'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Event cameras record visual information as asynchronous pixel change streams,
 excelling at scene perception under unsatisfactory lighting or high-dynamic

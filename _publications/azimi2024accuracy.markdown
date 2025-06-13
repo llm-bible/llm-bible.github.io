@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: azimi2024accuracy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02964"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02964'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are fundamentally transforming human-facing
 applications in the health and well-being domains: boosting patient engagement,

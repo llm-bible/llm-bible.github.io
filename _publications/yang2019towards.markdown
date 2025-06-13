@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: yang2019towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.05672"}
-  - {name: "Code", url: "https://github.com/bytedance/neurst/"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.05672'}
+  - {name: "Code", url: 'https://github.com/bytedance/neurst/'}
+tags: ['Has Code', 'Transformer', 'WMT', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Distillation', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 GPT-2 and BERT demonstrate the effectiveness of using pre-trained language
 models (LMs) on various natural language processing tasks. However, LM

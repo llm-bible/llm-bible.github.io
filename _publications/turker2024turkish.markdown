@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: turker2024turkish
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01308"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01308'}
+tags: ['Masked Language Model', 'Language Modeling', 'RAG', 'BERT', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We present VBART, the first Turkish sequence-to-sequence Large Language
 Models (LLMs) pre-trained on a large corpus from scratch. VBART are compact

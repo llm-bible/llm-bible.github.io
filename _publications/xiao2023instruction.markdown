@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiao2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.00201"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.00201'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Prompts have been proven to play a crucial role in large language models, and
 in recent years, vision models have also been using prompts to improve

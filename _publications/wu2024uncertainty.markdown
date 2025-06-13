@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024uncertainty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08662"}
-tags: ['Interpretability and Explainability', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08662'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Applications']
 ---
 Large Language Models (LLMs) show promise for natural language generation in
 healthcare, but risk hallucinating factually incorrect information. Deploying

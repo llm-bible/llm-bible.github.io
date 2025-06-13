@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: raj2023semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09138"}
-tags: ['Applications', 'Prompting', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09138'}
+tags: ['Reinforcement Learning', 'Prompting', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) exhibit remarkable fluency and competence across
 various natural language tasks. However, recent research has highlighted their

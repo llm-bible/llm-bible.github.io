@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cascantebonilla2024natural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22315"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22315'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Compositional reasoning in Vision-Language Models (VLMs) remains challenging
 as these models often struggle to relate objects, attributes, and spatial

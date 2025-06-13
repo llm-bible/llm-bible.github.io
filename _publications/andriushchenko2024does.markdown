@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: andriushchenko2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11969"}
-  - {name: "Code", url: "https://github.com/tml-epfl/llm-past-tense"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11969'}
+  - {name: "Code", url: 'https://github.com/tml-epfl/llm-past-tense'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Refusal training is widely used to prevent LLMs from generating harmful,
 undesirable, or illegal outputs. We reveal a curious generalization gap in the

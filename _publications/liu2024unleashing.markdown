@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01154"}
-tags: ['Tools', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01154'}
+tags: ['Prompting', 'In-Context Learning', 'Tools']
 ---
 Recent research in zero-shot Relation Extraction (RE) has focused on using
 Large Language Models (LLMs) due to their impressive zero-shot capabilities.

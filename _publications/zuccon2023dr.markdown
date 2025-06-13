@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zuccon2023dr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13793"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13793'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training']
 ---
 Generative pre-trained language models (GPLMs) like ChatGPT encode in the
 model's parameters knowledge the models observe during the pre-training phase.

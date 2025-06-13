@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roberts2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06349"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06349'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 This paper evaluates whether large language models (LLMs) exhibit cognitive
 fan effects, similar to those discovered by Anderson in humans, after being

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11505"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11505'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Federated Learning (FL) has recently been applied to the parameter-efficient
 fine-tuning of Large Language Models (LLMs). While promising, it raises

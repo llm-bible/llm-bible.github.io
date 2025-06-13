@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: phan2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07321"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07321'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 As LLMs become increasingly ubiquitous, researchers have tried various
 techniques to augment the knowledge provided to these models. Long context and

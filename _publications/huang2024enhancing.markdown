@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10006"}
-  - {name: "Code", url: "https://github.com/Aipura/Orca"}
-tags: ['Agentic', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10006'}
+  - {name: "Code", url: 'https://github.com/Aipura/Orca'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Tools', 'Prompting']
 ---
 Large language models has catalyzed the development of personalized dialogue
 systems, numerous role-playing conversational agents have emerged. While

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13949"}
-  - {name: "Code", url: "https://github.com/mobarakol/PitVQA"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13949'}
+  - {name: "Code", url: 'https://github.com/mobarakol/PitVQA'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'GPT', 'Model Architecture', 'Merging', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Visual Question Answering (VQA) within the surgical domain, utilizing Large
 Language Models (LLMs), offers a distinct opportunity to improve

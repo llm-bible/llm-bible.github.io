@@ -6,8 +6,8 @@ conference: "published in CVPR 2022"
 year: 2021
 bibkey: xue2021advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.10337"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.10337'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 We study joint video and language (VL) pre-training to enable cross-modality
 learning and benefit plentiful downstream VL tasks. Existing works either

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024omni
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00773"}
-  - {name: "Code", url: "https://github.com/FFD8FFE/babelbench"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00773'}
+  - {name: "Code", url: 'https://github.com/FFD8FFE/babelbench'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Applications', 'Multimodal Models']
 ---
 Large language models (LLMs) have become increasingly pivotal across various
 domains, especially in handling complex data types. This includes structured

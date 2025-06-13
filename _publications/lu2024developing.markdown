@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20007"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20007'}
 tags: ['Fine-Tuning']
 ---
 Recent end-to-end speech language models (SLMs) have expanded upon the

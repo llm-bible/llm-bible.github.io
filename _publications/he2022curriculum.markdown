@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: he2022curriculum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09114"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09114'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 The dual-encoder has become the de facto architecture for dense retrieval.
 Typically, it computes the latent representations of the query and document

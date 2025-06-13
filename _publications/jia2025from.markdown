@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jia2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12448"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12448'}
+tags: ['Tools', 'Applications', 'GPT', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Discrete tokenizers have emerged as indispensable components in modern
 machine learning systems, particularly within the context of autoregressive

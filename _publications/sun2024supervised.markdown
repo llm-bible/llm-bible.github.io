@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024supervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12017"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12017'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The prevailing approach to aligning Large Language Models (LLMs) typically
 relies on human or AI feedback and assumes access to specific types of

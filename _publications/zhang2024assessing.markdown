@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16457"}
-  - {name: "Code", url: "https://github.com/hyintell/RetrievalQA"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16457'}
+  - {name: "Code", url: 'https://github.com/hyintell/RetrievalQA'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Adaptive retrieval-augmented generation (ARAG) aims to dynamically determine
 the necessity of retrieval for queries instead of retrieving indiscriminately

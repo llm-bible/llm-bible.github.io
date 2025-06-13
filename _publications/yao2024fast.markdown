@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16444"}
-  - {name: "Code", url: "https://github.com/LMCache/LMCache"}
-tags: ['RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16444'}
+  - {name: "Code", url: 'https://github.com/LMCache/LMCache'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) often incorporate multiple text chunks in their
 inputs to provide the necessary contexts. To speed up the prefill of the long

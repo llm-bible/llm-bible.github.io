@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: gu2019insertion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.01370"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.01370'}
 tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Conventional neural autoregressive decoding commonly assumes a fixed

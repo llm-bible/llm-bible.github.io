@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19644"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19644'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Reinforcement learning (RL) faces challenges in evaluating policy
 trajectories within intricate game tasks due to the difficulty in designing

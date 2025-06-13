@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01126"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01126'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) have performed remarkably well in various
 natural language processing tasks by benchmarking, including in the Western

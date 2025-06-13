@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05209"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05209'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Scaling Laws', 'Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 The extrapolation capability of Large Language Models (LLMs) based on Rotary
 Position Embedding is currently a topic of considerable interest. The

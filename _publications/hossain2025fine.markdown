@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hossain2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01651"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01651'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper presents a comparative study aimed at optimizing Llama2 inference,
 a critical aspect of machine learning and natural language processing (NLP). We

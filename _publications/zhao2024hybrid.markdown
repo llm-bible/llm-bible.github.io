@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.17437"}
-  - {name: "Code", url: "https://github.com/Loreley99/SynthEval_CheckList"}
-tags: ['RAG', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.17437'}
+  - {name: "Code", url: 'https://github.com/Loreley99/SynthEval_CheckList'}
+tags: ['RAG', 'Has Code', 'Tools']
 ---
 Traditional benchmarking in NLP typically involves using static held-out test
 sets. However, this approach often results in an overestimation of performance

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08201"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08201'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) have transformed numerous fields by enabling
 advanced natural language interactions but remain susceptible to critical

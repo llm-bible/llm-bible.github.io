@@ -6,8 +6,8 @@ conference: "ACL 2019"
 year: 2019
 bibkey: nangia2019human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.10425"}
-tags: ['BERT', 'RAG', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.10425'}
+tags: ['Training Techniques', 'RAG', 'BERT', 'Model Architecture']
 ---
 The GLUE benchmark (Wang et al., 2019b) is a suite of language understanding
 tasks which has seen dramatic progress in the past year, with average

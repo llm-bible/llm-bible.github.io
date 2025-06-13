@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: peng2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00071"}
-  - {name: "Code", url: "https://github.com/jquesnelle/yarn"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00071'}
+  - {name: "Code", url: 'https://github.com/jquesnelle/yarn'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Rotary Position Embeddings (RoPE) have been shown to effectively encode
 positional information in transformer-based language models. However, these

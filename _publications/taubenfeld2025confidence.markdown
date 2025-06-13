@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: taubenfeld2025confidence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06233"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06233'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Self-consistency decoding enhances LLMs' performance on reasoning tasks by
 sampling diverse reasoning paths and selecting the most frequent answer.

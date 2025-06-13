@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wu2021explaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.00196"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.00196'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Interpretability', 'Pretraining Methods']
 ---
 BERT, as one of the pretrianed language models, attracts the most attention
 in recent years for creating new benchmarks across GLUE tasks via fine-tuning.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sallou2023breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08055"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08055'}
+tags: ['Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) have gained considerable traction within the
 Software Engineering (SE) community, impacting various SE tasks from code

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: yu2020complex
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15643"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15643'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 Large-scale pre-trained language models have demonstrated strong knowledge
 representation ability. However, recent studies suggest that even though these

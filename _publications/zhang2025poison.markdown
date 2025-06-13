@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025poison
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.19164"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.19164'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Multimodal Models', 'Ethics and Bias']
 ---
 Large vision-language models (LVMs) extend large language models (LLMs) with
 visual perception capabilities, enabling them to process and interpret visual

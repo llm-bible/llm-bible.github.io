@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024trustworthy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18022"}
-tags: ['Tools', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18022'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 In the rapidly evolving AI era with large language models (LLMs) at the core,
 making LLMs more trustworthy and efficient, especially in output generation

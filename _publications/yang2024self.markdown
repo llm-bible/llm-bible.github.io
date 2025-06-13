@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13669"}
-  - {name: "Code", url: "https://github.com/sail-sg/sdft"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13669'}
+  - {name: "Code", url: 'https://github.com/sail-sg/sdft'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 The surge in Large Language Models (LLMs) has revolutionized natural language
 processing, but fine-tuning them for specific tasks often encounters challenges

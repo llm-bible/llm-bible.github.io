@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nipu2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13219"}
-tags: ['Responsible AI', 'Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13219'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Applications', 'Model Architecture', 'BERT', 'GPT', 'Responsible AI', 'Pretraining Methods']
 ---
 Artificial Intelligence (AI) chatbots leveraging Large Language Models (LLMs)
 are gaining traction in healthcare for their potential to automate patient

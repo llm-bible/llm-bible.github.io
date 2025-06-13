@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: nagrani2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00681"}
-  - {name: "Code", url: "https://github.com/google-deepmind/neptune?tab=readme-ov-file\#minerva"}
-tags: ['Multimodal Models', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00681'}
+  - {name: "Code", url: 'https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Multimodal Models']
 ---
 Multimodal LLMs are turning their focus to video benchmarks, however most
 video benchmarks only provide outcome supervision, with no intermediate or
@@ -28,4 +28,4 @@ traces, and find that failure modes are primarily related to temporal
 localization, followed by visual perception errors, as opposed to logical or
 completeness errors. The dataset, along with questions, answer candidates and
 reasoning traces will be publicly available under
-https://github.com/google-deepmind/neptune?tab=readme-ov-file\#minerva.
+https://github.com/google-deepmind/neptune?tab=readme-ov-file\%23minerva.

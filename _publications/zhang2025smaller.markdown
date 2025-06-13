@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025smaller
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14005"}
-  - {name: "Code", url: "https://github.com/NiceRingNode/LGGPT"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14005'}
+  - {name: "Code", url: 'https://github.com/NiceRingNode/LGGPT'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization']
 ---
 We propose LGGPT, an LLM-based model tailored for unified layout generation.
 First, we propose Arbitrary Layout Instruction (ALI) and Universal Layout

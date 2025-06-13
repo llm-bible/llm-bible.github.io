@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: harandizadeh2024risk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14988"}
-tags: ['Responsible AI', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14988'}
+tags: ['Security', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Responsible AI']
 ---
 This paper explores the pressing issue of risk assessment in Large Language
 Models (LLMs) as they become increasingly prevalent in various applications.

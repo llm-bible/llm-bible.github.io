@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20417"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20417'}
 tags: ['RAG', 'Tools']
 ---
 Humor plays a significant role in daily language communication. With the

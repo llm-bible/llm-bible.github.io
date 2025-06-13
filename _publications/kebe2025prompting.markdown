@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kebe2025prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03624"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'ACL', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03624'}
+tags: ['ACL', 'RAG', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This study introduces LlaMADRS, a novel framework leveraging open-source
 Large Language Models (LLMs) to automate depression severity assessment using

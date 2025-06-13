@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025early
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17352"}
-  - {name: "Code", url: "https://github.com/yihedeng9/OpenVLThinker"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17352'}
+  - {name: "Code", url: 'https://github.com/yihedeng9/OpenVLThinker'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements demonstrated by DeepSeek-R1 have shown that complex
 reasoning abilities in large language models (LLMs), including sophisticated

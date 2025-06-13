@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07532"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07532'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are demonstrating remarkable human like
 capabilities across diverse domains, including psychological assessment. This

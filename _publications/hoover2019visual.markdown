@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: hoover2019visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.05276"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.05276'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'BERT', 'Tools', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models can produce powerful contextual representations that
 lead to improvements across many NLP tasks. Since these models are typically

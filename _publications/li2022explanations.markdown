@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022explanations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.06726"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.06726'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'In-Context Learning']
 ---
 Integrating free-text explanations to in-context learning of large language
 models (LLM) is shown to elicit strong reasoning capabilities along with

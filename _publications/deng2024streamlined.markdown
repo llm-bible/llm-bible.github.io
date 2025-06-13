@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024streamlined
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04285"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04285'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have evolved into interactive agents,
 proficient in planning, tool use, and task execution across a wide variety of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: karimpanal2023lagr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13542"}
-tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13542'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) have recently demonstrated their impressive
 ability to provide context-aware responses via text. This ability could

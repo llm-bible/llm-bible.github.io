@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gunal2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05060"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05060'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Given the increasing demand for mental health assistance, artificial
 intelligence (AI), particularly large language models (LLMs), may be valuable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ive2025clean
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20953"}
-tags: ['Responsible AI', 'RAG', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20953'}
+tags: ['RAG', 'Efficiency and Optimization', 'Responsible AI']
 ---
 Background:
   Clinical guidelines are central to safe evidence-based medicine in modern

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gaere2025new
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16155"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16155'}
 tags: ['GPT', 'Model Architecture']
 ---
 This paper introduces DATETIME, a new high-quality benchmark designed to

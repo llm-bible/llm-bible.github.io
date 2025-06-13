@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: mosbach2020interplay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.02616"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.02616'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained contextualized embedding models has become an
 integral part of the NLP pipeline. At the same time, probing has emerged as a

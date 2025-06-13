@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19846"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19846'}
 tags: ['Training Techniques']
 ---
 Recent advancements in large language models (LLMs) have highlighted the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: grigsby2024amago
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11188"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11188'}
+tags: ['Agentic', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Language models trained on diverse datasets unlock generalization by
 in-context learning. Reinforcement Learning (RL) policies can achieve a similar

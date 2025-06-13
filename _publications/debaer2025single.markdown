@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: debaer2025single
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18650"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18650'}
 tags: ['Agentic', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Optimizing language models for use in conversational agents requires large

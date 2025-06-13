@@ -6,9 +6,9 @@ conference: "ACL 2024 main"
 year: 2024
 bibkey: wang2024evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11175"}
-  - {name: "Code", url: "https://github.com/mbzuai-nlp/M4GT-Bench"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11175'}
+  - {name: "Code", url: 'https://github.com/mbzuai-nlp/M4GT-Bench'}
+tags: ['Has Code', 'Training Techniques']
 ---
 The advent of Large Language Models (LLMs) has brought an unprecedented surge
 in machine-generated text (MGT) across diverse channels. This raises legitimate

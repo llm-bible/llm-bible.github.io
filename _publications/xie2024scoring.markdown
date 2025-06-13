@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024scoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20264"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20264'}
 tags: ['Tools']
 ---
 In recent years, Large Language Models (LLMs) have become increasingly more

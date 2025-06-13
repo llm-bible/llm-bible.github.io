@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: neplenbroek2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07243"}
-  - {name: "Code", url: "https://github.com/Veranep/MBBQ"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07243'}
+  - {name: "Code", url: 'https://github.com/Veranep/MBBQ'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Generative large language models (LLMs) have been shown to exhibit harmful
 biases and stereotypes. While safety fine-tuning typically takes place in

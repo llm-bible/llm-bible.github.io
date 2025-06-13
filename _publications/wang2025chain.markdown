@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14342"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14342'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Training Techniques']
 ---
 This paper introduces an approach for training o1-like RAG models that
 retrieve and reason over relevant information step by step before generating

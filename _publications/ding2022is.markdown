@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: ding2022is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10450"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10450'}
 tags: ['Few-Shot', 'GPT', 'Model Architecture']
 ---
 Data annotation is the process of labeling data that could be used to train

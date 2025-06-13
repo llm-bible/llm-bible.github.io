@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ren2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11779"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11779'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) typically relies on producing large
 sets of input-output pairs. Yet for a given question, there can be many valid

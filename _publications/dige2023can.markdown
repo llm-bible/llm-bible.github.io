@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dige2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10472"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10472'}
+tags: ['Applications', 'Tools', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 As the breadth and depth of language model applications continue to expand
 rapidly, it is increasingly important to build efficient frameworks for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: sun2019generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.09333"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.09333'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer model has been widely used on machine translation tasks and
 obtained state-of-the-art results. In this paper, we report an interesting

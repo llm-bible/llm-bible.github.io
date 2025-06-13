@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vankov2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00065"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00065'}
 tags: ['Ethics and Bias', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated considerable success in

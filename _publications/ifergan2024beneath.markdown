@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ifergan2024beneath
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10646"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10646'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 The veracity of a factoid is largely independent of the language it is
 written in. However, language models are inconsistent in their ability to

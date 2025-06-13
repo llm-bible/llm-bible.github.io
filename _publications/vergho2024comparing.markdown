@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vergho2024comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06920"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06920'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Recent large language models (LLMs) have been shown to be effective for
 misinformation detection. However, the choice of LLMs for experiments varies

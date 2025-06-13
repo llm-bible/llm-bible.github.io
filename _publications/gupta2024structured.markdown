@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10584"}
-tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10584'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) often generate incorrect or outdated
 information, especially in low-resource settings or when dealing with private

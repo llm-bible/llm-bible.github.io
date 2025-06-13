@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tsai2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05040"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05040'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Recent work targeting large language models (LLMs) for code generation
 demonstrated that increasing the amount of training data through synthetic code

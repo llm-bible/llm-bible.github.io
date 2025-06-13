@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: kong2019adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1901.07129"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1901.07129'}
 tags: ['Security', 'Training Techniques', 'Tools']
 ---
 In this work, we propose a method for neural dialogue response generation

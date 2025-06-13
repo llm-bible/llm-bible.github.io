@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: diallo2025rule
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11336"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11336'}
 tags: ['RAG', 'Tools']
 ---
 In this paper, we introduce Rule-Guided Feedback (RGF), a framework designed

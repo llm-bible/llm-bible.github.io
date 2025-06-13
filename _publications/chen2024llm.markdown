@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12543"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12543'}
 tags: ['Uncategorized']
 ---
 The remarkable understanding and generation capabilities of large language

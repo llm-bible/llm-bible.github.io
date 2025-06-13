@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023fewer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08901"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08901'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pruning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown impressive capabilities, yet they
 still struggle with math reasoning. In this work, we propose CoT-Influx, a

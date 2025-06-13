@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chaudhary2024certifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18780"}
-tags: ['Tools', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18780'}
+tags: ['Ethics and Bias', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) can produce biased responses that can cause
 representational harms. However, conventional studies are insufficient to

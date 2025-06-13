@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wadhwa2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14511"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14511'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Eliciting "chain of thought" (CoT) rationales -- sequences of token that
 convey a "reasoning" process -- has been shown to consistently improve LLM

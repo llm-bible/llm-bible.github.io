@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chen2021towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.07143"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.07143'}
+tags: ['Transformer', 'SLT', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Pre-Training', 'Pretraining Methods']
 ---
 In recent years, researchers tend to pre-train ever-larger language models to
 explore the upper limit of deep models. However, large language model

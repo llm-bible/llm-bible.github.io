@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: garridomerchán2023real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03728"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03728'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), as the case of OpenAI ChatGPT-4 Turbo, are
 revolutionizing several industries, including higher education. In this

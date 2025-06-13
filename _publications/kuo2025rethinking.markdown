@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kuo2025rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01906"}
-tags: ['Transformer', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01906'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Transformer', 'Model Architecture']
 ---
 Large vision-and-language models (LVLMs) typically treat visual and textual
 embeddings as homogeneous inputs to a large language model (LLM). However,

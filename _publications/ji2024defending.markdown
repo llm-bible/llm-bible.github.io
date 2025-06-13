@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16192"}
-  - {name: "Code", url: "https://github.com/UCSB-NLP-Chang/SemanticSmooth"}
-tags: ['Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16192'}
+  - {name: "Code", url: 'https://github.com/UCSB-NLP-Chang/SemanticSmooth'}
+tags: ['Prompting', 'Has Code', 'Security']
 ---
 Aligned large language models (LLMs) are vulnerable to jailbreaking attacks,
 which bypass the safeguards of targeted LLMs and fool them into generating

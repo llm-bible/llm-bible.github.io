@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11944"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11944'}
 tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 As the capabilities of large multimodal models (LMMs) continue to advance,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19740"}
-  - {name: "Code", url: "https://github.com/aigc-apps/PertEval"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19740'}
+  - {name: "Code", url: 'https://github.com/aigc-apps/PertEval'}
+tags: ['Reinforcement Learning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Expert-designed close-ended benchmarks are indispensable in assessing the
 knowledge capacity of large language models (LLMs). Despite their widespread

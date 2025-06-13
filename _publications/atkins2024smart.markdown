@@ -6,7 +6,7 @@ conference: "Proceedings of Interspeech 2024"
 year: 2024
 bibkey: atkins2024smart
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18133"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18133'}
 tags: ['RAG', 'Prompting']
 ---
 We present ConvoCache, a conversational caching system that solves the

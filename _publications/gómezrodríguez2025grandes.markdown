@@ -6,8 +6,8 @@ conference: "Amparo Alonso Betanzos Daniel Pe~na y Pilar Poncela (eds.) La Intel
 year: 2025
 bibkey: gómezrodríguez2025grandes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18205"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18205'}
+tags: ['GPT', 'Fine-Tuning', 'Applications', 'Model Architecture']
 ---
 Large language models, such as the well-known ChatGPT, have brought about an
 unexpected revolution in the field of artificial intelligence. On the one hand,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cheng2025neutralizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11614"}
-tags: ['Security', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11614'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Security', 'Tools']
 ---
 LLMs are often claimed to be capable of Natural Language Inference (NLI),
 which is widely regarded as a cornerstone of more complex forms of reasoning.

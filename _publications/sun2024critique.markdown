@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024critique
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04518"}
-  - {name: "Code", url: "https://github.com/GAIR-NLP/MetaCritique"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04518'}
+  - {name: "Code", url: 'https://github.com/GAIR-NLP/MetaCritique'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Critique, as a natural language description for assessing the quality of
 model-generated content, has played a vital role in the training, evaluation,

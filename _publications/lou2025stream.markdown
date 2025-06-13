@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lou2025stream
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05336"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05336'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 The rapid advancement of large language models (LLMs) has led to significant
 improvements in their capabilities, but also to increased concerns about their

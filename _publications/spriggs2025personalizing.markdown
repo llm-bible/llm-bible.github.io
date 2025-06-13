@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: spriggs2025personalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08655"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08655'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 The widespread adoption of large language models (LLMs) marks a
 transformative era in technology, especially within the educational sector.

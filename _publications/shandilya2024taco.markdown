@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shandilya2024taco
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13035"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13035'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The increasing prevalence of large language models (LLMs) such as GPT-4 in
 various applications has led to a surge in the size of prompts required for

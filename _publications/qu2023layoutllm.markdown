@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qu2023layoutllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.05095"}
-  - {name: "Code", url: "https://layoutllm-t2i.github.io"}
-tags: ['Has Code', 'Prompting', 'In-Context Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.05095'}
+  - {name: "Code", url: 'https://layoutllm-t2i.github.io'}
+tags: ['Prompting', 'Has Code', 'In-Context Learning', 'Merging']
 ---
 In the text-to-image generation field, recent remarkable progress in Stable
 Diffusion makes it possible to generate rich kinds of novel photorealistic

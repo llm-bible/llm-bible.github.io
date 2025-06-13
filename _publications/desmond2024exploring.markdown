@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: desmond2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08950"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08950'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Interaction with Large Language Models (LLMs) is primarily carried out via
 prompting. A prompt is a natural language instruction designed to elicit

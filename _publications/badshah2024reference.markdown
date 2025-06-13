@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: badshah2024reference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09235"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09235'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 The emergence of Large Language Models (LLMs) as chat assistants capable of
 generating human-like conversations has amplified the need for robust

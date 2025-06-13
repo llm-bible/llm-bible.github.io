@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: sugawara2020benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.01912"}
-tags: ['Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.01912'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Applications', 'Model Architecture', 'Interpretability']
 ---
 Machine reading comprehension (MRC) has received considerable attention as a
 benchmark for natural language understanding. However, the conventional task

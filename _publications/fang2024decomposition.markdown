@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024decomposition
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07080"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07080'}
 tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Answering Questions over Knowledge Graphs (KGQA) is key to well-functioning

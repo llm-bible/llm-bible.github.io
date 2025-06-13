@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ding2021prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.10604"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.10604'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 As an effective approach to tune pre-trained language models (PLMs) for
 specific tasks, prompt-learning has recently attracted much attention from

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023trusting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14739"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14739'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Language models (LMs) often struggle to pay enough attention to the input
 context, and generate texts that are unfaithful or contain hallucinations. To

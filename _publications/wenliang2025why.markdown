@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wenliang2025why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10760"}
-tags: ['Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10760'}
+tags: ['Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) can be prompted to do many tasks, but finding
 good prompts is not always easy, nor is understanding some performant prompts.

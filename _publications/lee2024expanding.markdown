@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024expanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09780"}
-tags: ['Fine-Tuning', 'RAG', 'Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09780'}
+tags: ['Agentic', 'Fine-Tuning', 'RAG', 'Prompting']
 ---
 Large Language Models (LLMs) have exhibited remarkable capabilities in many
 complex tasks including mathematical reasoning. However, traditional approaches

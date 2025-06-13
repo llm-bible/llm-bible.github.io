@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bulatov2023scaling
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.11062v2"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.11062v2'}
+tags: ['Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 A major limitation for the broader scope of problems solvable by transformers
 is the quadratic scaling of computational complexity with input size. In this

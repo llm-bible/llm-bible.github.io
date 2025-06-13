@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024external
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17355"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17355'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT']
 ---
 In the current landscape of large language models (LLMs), the process of
 instruction tuning serves as an essential step. Considering the high computing

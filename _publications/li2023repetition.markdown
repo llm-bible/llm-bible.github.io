@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023repetition
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10226"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10226'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 There are a number of diverging hypotheses about the neural text degeneration
 problem, i.e., generating repetitive and dull loops, which makes this problem

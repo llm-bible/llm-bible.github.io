@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sannidhi2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13273"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13273'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Applications', 'Ethics and Bias']
 ---
 Pre-trained large language models (PLLMs) like OpenAI ChatGPT and Google
 Gemini face challenges such as inaccurate factual recall, hallucinations,

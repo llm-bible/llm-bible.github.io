@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10020"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10020'}
+tags: ['Agentic', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We posit that to achieve superhuman agents, future models require superhuman
 feedback in order to provide an adequate training signal. Current approaches

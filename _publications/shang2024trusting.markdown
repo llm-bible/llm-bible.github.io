@@ -6,7 +6,7 @@ conference: "AIES 24 Proceedings of the Seventh AAAI/ACM Conference on AI Ethics
 year: 2024
 bibkey: shang2024trusting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05354"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05354'}
 tags: ['Agentic', 'Survey Paper', 'Merging']
 ---
 Trust is not just a cognitive issue but also an emotional one, yet the

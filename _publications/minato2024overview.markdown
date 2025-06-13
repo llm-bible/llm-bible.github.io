@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: minato2024overview
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.03547"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.03547'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 We have held dialogue robot competitions in 2020 and 2022 to compare the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: peeters2023entity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11244"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11244'}
+tags: ['Interpretability and Explainability', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Entity matching is the task of deciding whether two entity descriptions refer
 to the same real-world entity. Entity matching is a central step in most data

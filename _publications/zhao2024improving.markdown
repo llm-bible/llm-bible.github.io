@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14500"}
-tags: ['Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14500'}
+tags: ['Few-Shot', 'Applications', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Radiology report summarization (RRS) is crucial for patient care, requiring
 concise "Impressions" from detailed "Findings." This paper introduces a novel

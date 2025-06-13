@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024logra
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02615"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02615'}
+tags: ['RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 State-of-the-art medical multi-modal large language models (med-MLLM), like
 LLaVA-Med or BioMedGPT, leverage instruction-following data in pre-training.

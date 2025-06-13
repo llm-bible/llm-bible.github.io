@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cahoon2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02922"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02922'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 In this work, we benchmark various graph-based retrieval-augmented generation
 (RAG) systems across a broad spectrum of query types, including OLTP-style

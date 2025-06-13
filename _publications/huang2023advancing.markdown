@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.12351"}
-  - {name: "Code", url: "https://github.com/Strivin0311/long-llms-learning"}
-tags: ['Transformer', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.12351'}
+  - {name: "Code", url: 'https://github.com/Strivin0311/long-llms-learning'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Prompting', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) have been applied in diverse
 areas such as knowledge bases, human interfaces, and dynamic agents, and

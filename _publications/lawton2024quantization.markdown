@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lawton2024quantization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14713"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14713'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 QLoRA reduces the memory-cost of fine-tuning a large language model (LLM)
 with LoRA by quantizing the base LLM. However, quantization introduces

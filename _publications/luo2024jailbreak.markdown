@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024jailbreak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10150"}
-tags: ['Responsible AI', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10150'}
+tags: ['Prompting', 'Security', 'Responsible AI']
 ---
 In this paper, we investigate the safety mechanisms of instruction fine-tuned
 large language models (LLMs). We discover that re-weighting MLP neurons can

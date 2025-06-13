@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023object
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.15125"}
-tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.15125'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) can enhance writing by automating or supporting
 specific tasks in writers' workflows (e.g., paraphrasing, creating analogies).

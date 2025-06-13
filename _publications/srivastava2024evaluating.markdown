@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: srivastava2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11194"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11194'}
 tags: ['Prompting', 'Applications']
 ---
 Large Language Models (LLMs), excel in natural language understanding, but

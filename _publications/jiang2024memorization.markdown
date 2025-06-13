@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024memorization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14368"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14368'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 Recently, Large Language Models (LLMs) have shown impressive performance in
 character understanding tasks, such as analyzing the roles, personalities, and

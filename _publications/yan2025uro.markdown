@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yan2025uro
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17810"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17810'}
 tags: ['Uncategorized']
 ---
 In recent years, with advances in large language models (LLMs), end-to-end

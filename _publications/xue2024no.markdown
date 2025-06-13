@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xue2024no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12192"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12192'}
+tags: ['In-Context Learning', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 The security of Large Language Models (LLMs) has become an important research
 topic since the emergence of ChatGPT. Though there have been various effective

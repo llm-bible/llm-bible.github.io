@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: jayram2019transfer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.11938"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.11938'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Transfer learning has become the de facto standard in computer vision and
 natural language processing, especially where labeled data is scarce. Accuracy

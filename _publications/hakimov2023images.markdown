@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hakimov2023images
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13782"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13782'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Model Architecture', 'GPT', 'Multimodal Models']
 ---
 Large language models have demonstrated robust performance on various
 language tasks using zero-shot or few-shot learning paradigms. While being

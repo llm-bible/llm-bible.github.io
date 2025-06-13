@@ -6,8 +6,8 @@ conference: "2020 International Conference on Advanced Informatics Concept Theor
 year: 2020
 bibkey: muis2020sequence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.13889"}
-tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.13889'}
+tags: ['RAG', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Automatic question generation is defined as the task of automating the
 creation of question given a various of textual data. Research in automatic

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: davies2023competence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.00333"}
-tags: ['Tools', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.00333'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Prompting', 'Pretraining Methods']
 ---
 Despite the recent successes of large, pretrained neural language models
 (LLMs), comparatively little is known about the representations of linguistic

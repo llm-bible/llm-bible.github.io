@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: nezhurina2024alice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02061"}
-  - {name: "Code", url: "https://github.com/LAION-AI/AIW"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code', 'Scaling Laws', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02061'}
+  - {name: "Code", url: 'https://github.com/LAION-AI/AIW'}
+tags: ['Large-Scale Training', 'Has Code', 'Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Scaling Laws', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large Language Models (LLMs) are often described as instances of foundation
 models that possess strong generalization obeying scaling laws, and therefore

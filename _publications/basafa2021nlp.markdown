@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: basafa2021nlp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.03775"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.03775'}
 tags: ['BERT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents a technical report of our submission to the 4th task of

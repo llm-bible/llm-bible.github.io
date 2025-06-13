@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zaib2021bert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.11394"}
-tags: ['BERT', 'Tools', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.11394'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'BERT']
 ---
 As one promising way to inquire about any particular information through a
 dialog with the bot, question answering dialog systems have gained increasing

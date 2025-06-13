@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liusie2024teacher
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13590"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Distillation', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13590'}
+tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Distillation', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated impressive zero-shot
 capabilities and versatility in NLP tasks, however they sometimes fail to

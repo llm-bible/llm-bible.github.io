@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yamamura2024fooling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15275"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Ethics and Bias', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15275'}
+tags: ['Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 The deployment of artificial intelligence (AI) in critical decision-making
 and evaluation processes raises concerns about inherent biases that malicious

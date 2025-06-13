@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bayat2024enhanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00301"}
-  - {name: "Code", url: "https://github.com/launchnlp/LITO"}
-tags: ['Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00301'}
+  - {name: "Code", url: 'https://github.com/launchnlp/LITO'}
+tags: ['Has Code', 'Efficiency and Optimization']
 ---
 Large language models (LLMs) can generate long-form and coherent text, yet
 they often hallucinate facts, which undermines their reliability. To mitigate

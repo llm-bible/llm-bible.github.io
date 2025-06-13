@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08788"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08788'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Natural Language Generation (NLG) typically involves evaluating the generated
 text in various aspects (e.g., consistency and naturalness) to obtain a

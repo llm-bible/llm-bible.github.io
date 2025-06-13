@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023binary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.09601"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.09601'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 Binary code summarization, while invaluable for understanding code semantics,
 is challenging due to its labor-intensive nature. This study delves into the

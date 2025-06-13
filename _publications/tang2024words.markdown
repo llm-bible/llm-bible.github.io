@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024words
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08482"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08482'}
 tags: ['Prompting', 'Merging']
 ---
 Diffusion models are the state of the art in text-to-image generation, but

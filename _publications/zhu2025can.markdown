@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10202"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10202'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have transformed natural language processing but
 pose significant challenges for real-world deployment. These models necessitate

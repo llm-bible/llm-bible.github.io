@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02416"}
-  - {name: "Code", url: "https://github.com/liangzid/PromptExtractionEval"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Large-Scale Training', 'Has Code', 'Pretraining Methods', 'Scaling Laws', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02416'}
+  - {name: "Code", url: 'https://github.com/liangzid/PromptExtractionEval'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Has Code', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Scaling Laws', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 The drastic increase of large language models' (LLMs) parameters has led to a
 new research direction of fine-tuning-free downstream customization by prompts,

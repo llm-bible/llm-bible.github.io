@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024intrinsic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11614"}
-  - {name: "Code", url: "https://github.com/yihuaihong/ConceptVectors"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11614'}
+  - {name: "Code", url: 'https://github.com/yihuaihong/ConceptVectors'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Security', 'Model Architecture', 'Reinforcement Learning']
 ---
 The task of "unlearning" certain concepts in large language models (LLMs) has
 attracted immense attention recently, due to its importance in mitigating

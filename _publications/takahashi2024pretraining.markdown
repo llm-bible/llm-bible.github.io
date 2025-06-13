@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: takahashi2024pretraining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08262"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08262'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 The development of Large Language Models (LLMs) in various languages has been
 advancing, but the combination of non-English languages with domain-specific

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chiang2025regression
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04381"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04381'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 The LLM-as-a-judge paradigm uses large language models (LLMs) for automated

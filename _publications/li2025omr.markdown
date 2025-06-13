@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025omr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17660"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17660'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Generative AI has significantly advanced text-driven image generation, but it
 still faces challenges in producing outputs that consistently align with

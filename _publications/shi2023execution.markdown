@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023execution
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.13883"}
-tags: ['Transformer', 'Model Architecture', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.13883'}
+tags: ['Transformer', 'Few-Shot', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 When writing programs, people have the ability to tackle a new complex task
 by decomposing it into smaller and more familiar subtasks. While it is

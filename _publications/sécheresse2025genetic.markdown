@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sécheresse2025genetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07157"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07157'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 various tasks, with their performance heavily dependent on the quality of input

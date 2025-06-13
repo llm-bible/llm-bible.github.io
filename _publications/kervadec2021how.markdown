@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: kervadec2021how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.03656"}
-  - {name: "Code", url: "https://reasoningpatterns.github.io)"}
-tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.03656'}
+  - {name: "Code", url: 'https://reasoningpatterns.github.io)'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'ACL', 'Model Architecture', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Since its inception, Visual Question Answering (VQA) is notoriously known as
 a task, where models are prone to exploit biases in datasets to find shortcuts

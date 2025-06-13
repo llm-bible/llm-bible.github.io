@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ibrahim2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07077"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07077'}
 tags: ['Uncategorized']
 ---
 The tendency of users to anthropomorphise large language models (LLMs) is of

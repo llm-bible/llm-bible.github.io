@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kurtic2023sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06927"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06927'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Quantization', 'Applications', 'Pretraining Methods']
 ---
 We consider the problem of accurate sparse fine-tuning of large language
 models (LLMs), that is, fine-tuning pretrained LLMs on specialized tasks, while

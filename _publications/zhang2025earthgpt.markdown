@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025earthgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12795"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12795'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advances in the visual-language area have developed natural
 multi-modal large language models (MLLMs) for spatial reasoning through visual

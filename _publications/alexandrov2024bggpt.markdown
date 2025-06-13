@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alexandrov2024bggpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10893"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10893'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Responsible AI', 'Pretraining Methods']
 ---
 We present BgGPT-Gemma-2-27B-Instruct and BgGPT-Gemma-2-9B-Instruct:
 continually pretrained and fine-tuned versions of Google's Gemma-2 models,

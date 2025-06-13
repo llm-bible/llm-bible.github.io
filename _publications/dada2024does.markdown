@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dada2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04067"}
-  - {name: "Code", url: "https://github.com/TIO-IKIM/CLUE"}
-tags: ['Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04067'}
+  - {name: "Code", url: 'https://github.com/TIO-IKIM/CLUE'}
+tags: ['Has Code', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are expected to significantly contribute to
 patient care, diagnostics, and administrative processes. Emerging biomedical

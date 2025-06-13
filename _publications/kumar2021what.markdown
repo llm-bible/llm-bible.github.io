@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kumar2021what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.09105"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.09105'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Multimodal Models', 'Pre-Training']
 ---
 Language Models (LMs) have been ubiquitously leveraged in various tasks
 including spoken language understanding (SLU). Spoken language requires careful

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saito2024where
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12170"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12170'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models require updates to remain up-to-date or adapt to new
 domains by fine-tuning them with new documents. One key is memorizing the

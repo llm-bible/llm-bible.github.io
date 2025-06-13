@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hang2025bpqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04155"}
-tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04155'}
+tags: ['Transformer', 'RAG', 'GPT', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Clinical measurements such as blood pressures and respiration rates are
 critical in diagnosing and monitoring patient outcomes. It is an important

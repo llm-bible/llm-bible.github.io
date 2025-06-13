@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: long2025evidence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16171"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16171'}
+tags: ['Reinforcement Learning', 'Applications', 'Tools']
 ---
 Due to the remarkable reasoning ability, Large language models (LLMs) have
 demonstrated impressive performance in knowledge graph question answering

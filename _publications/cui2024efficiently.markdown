@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024efficiently
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07081"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07081'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs) exhibit outstanding performance in machine
 translation via in-context learning. In contrast to sentence-level translation,

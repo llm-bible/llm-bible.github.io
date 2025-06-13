@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: geng2018learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1812.10230"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1812.10230'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Neural machine translation (NMT) models generally adopt an encoder-decoder
 architecture for modeling the entire translation process. The encoder

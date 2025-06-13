@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: almazrouei2023falcon
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16867"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16867'}
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce the Falcon series: 7B, 40B, and 180B parameters causal
 decoder-only models trained on a diverse high-quality corpora predominantly

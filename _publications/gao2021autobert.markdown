@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gao2021autobert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.07445"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.07445'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'BERT', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Transformer-based pre-trained language models like BERT and its variants have
 recently achieved promising performance in various natural language processing

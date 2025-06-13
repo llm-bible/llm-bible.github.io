@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: momennejad2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15129"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15129'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Recently an influx of studies claim emergent cognitive abilities in large
 language models (LLMs). Yet, most rely on anecdotes, overlook contamination of

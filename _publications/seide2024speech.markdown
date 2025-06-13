@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: seide2024speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09569"}
-tags: ['INTERSPEECH', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09569'}
+tags: ['Attention Mechanism', 'INTERSPEECH', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 We introduce Speech ReaLLM, a new ASR architecture that marries
 "decoder-only" ASR with the RNN-T to make multimodal LLM architectures capable

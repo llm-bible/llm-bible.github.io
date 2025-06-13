@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023llm
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.13711v1"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.13711v1'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 We propose LLM-Eval, a unified multi-dimensional automatic evaluation method

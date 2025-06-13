@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024interpretable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12388"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12388'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Accurate and interpretable user satisfaction estimation (USE) is critical for
 understanding, evaluating, and continuously improving conversational systems.

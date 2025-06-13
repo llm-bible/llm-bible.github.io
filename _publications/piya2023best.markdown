@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: piya2023best
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04687"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04687'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 In today's society, we are becoming increasingly dependent on software
 systems. However, we also constantly witness the negative impacts of buggy

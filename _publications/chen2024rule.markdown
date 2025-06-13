@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024rule
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22353"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22353'}
 tags: ['RAG', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Retrieval-augmented generation (RAG) has shown promising potential in

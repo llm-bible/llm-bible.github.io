@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024contextualization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01729"}
-  - {name: "Code", url: "https://github.com/David-Li0406/Contextulization-Distillation"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01729'}
+  - {name: "Code", url: 'https://github.com/David-Li0406/Contextulization-Distillation'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 While textual information significantly enhances the performance of
 pre-trained language models (PLMs) in knowledge graph completion (KGC), the

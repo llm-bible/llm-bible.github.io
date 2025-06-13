@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16555"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16555'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Quantization', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal recommendation aims to recommend user-preferred candidates based
 on her/his historically interacted items and associated multimodal information.

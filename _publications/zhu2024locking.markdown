@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024locking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10343"}
-  - {name: "Code", url: "https://github.com/zhu-minjun/SafetyLock"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10343'}
+  - {name: "Code", url: 'https://github.com/zhu-minjun/SafetyLock'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on additional datasets is often
 necessary to optimize them for specific downstream tasks. However, existing

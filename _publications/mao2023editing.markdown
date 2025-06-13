@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mao2023editing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02168"}
-  - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02168'}
+  - {name: "Code", url: 'https://github.com/zjunlp/EasyEdit'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 This paper introduces an innovative task focused on editing the personality

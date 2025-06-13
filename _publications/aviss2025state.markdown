@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: aviss2025state
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18356"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18356'}
+tags: ['GPT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We introduce the State Stream Transformer (SST), a novel LLM architecture
 that reveals emergent reasoning behaviours and capabilities latent in

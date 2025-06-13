@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18295"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18295'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements highlight the success of instruction tuning with large

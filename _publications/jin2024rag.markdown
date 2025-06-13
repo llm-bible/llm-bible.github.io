@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13746"}
-  - {name: "Code", url: "https://huggingface.co/datasets/jinzhuoran/RAG-RewardBench/"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13746'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/jinzhuoran/RAG-RewardBench/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Reinforcement Learning']
 ---
 Despite the significant progress made by existing retrieval augmented
 language models (RALMs) in providing trustworthy responses and grounding in

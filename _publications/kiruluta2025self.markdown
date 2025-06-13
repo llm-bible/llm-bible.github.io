@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kiruluta2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10482"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10482'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We propose a novel reinforcement learning framework for post training large
 language models that does not rely on human in the loop feedback. Instead, our

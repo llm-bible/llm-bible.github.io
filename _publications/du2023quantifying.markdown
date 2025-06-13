@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: du2023quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05217"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05217'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Although demonstrating superb performance on various NLP tasks, large

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: deduro2025measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.21028"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.21028'}
 tags: ['Fine-Tuning', 'Tools']
 ---
 Large Language Models (LLMs) can engage in human-looking conversational

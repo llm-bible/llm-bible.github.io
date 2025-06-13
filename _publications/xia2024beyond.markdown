@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01887"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01887'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In-context reinforcement learning (ICRL) is a frontier paradigm for solving
 reinforcement learning problems in the foundation model era. While ICRL

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: she2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06838"}
-tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06838'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Though reasoning abilities are considered language-agnostic, existing LLMs
 exhibit inconsistent reasoning abilities across different languages, e.g.,

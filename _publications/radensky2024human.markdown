@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: radensky2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14634"}
-tags: ['Fine-Tuning', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14634'}
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The scientific ideation process often involves blending salient aspects of
 existing papers to create new ideas, and facet-based ideation is an established

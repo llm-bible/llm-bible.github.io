@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024asynchronous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14849"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14849'}
+tags: ['Transformer', 'SLT', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the rapid advancement of Neural Machine Translation (NMT), enhancing
 translation efficiency and quality has become a focal point of research.

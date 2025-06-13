@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sareen2025putting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04842"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04842'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prevalent reinforcement learning~(RL) methods for fine-tuning LLM reasoners,
 such as GRPO or Leave-one-out PPO, abandon the learned value function in favor

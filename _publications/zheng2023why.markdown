@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023why
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.10513v3"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.10513v3'}
 tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recent advancements in large language models, such as ChatGPT, have

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024comments
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07549"}
-  - {name: "Code", url: "https://github.com/pppa2019/Mango"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07549'}
+  - {name: "Code", url: 'https://github.com/pppa2019/Mango'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Code generation aims to understand the problem description and generate
 corresponding code snippets, where existing works generally decompose such

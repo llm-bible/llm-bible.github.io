@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bai2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20750"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20750'}
 tags: ['Training Techniques', 'Multimodal Models', 'Model Architecture']
 ---
 Large vision-language models show tremendous potential in understanding

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024rotary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00119"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00119'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Parameter-efficient finetuning (PEFT) methods effectively adapt large
 language models (LLMs) to diverse downstream tasks, reducing storage and GPU

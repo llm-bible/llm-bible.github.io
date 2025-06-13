@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10077"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10077'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Recently, Large language models (LLMs) with powerful general capabilities
 have been increasingly integrated into various Web applications, while

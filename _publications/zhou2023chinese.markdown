@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.11812"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.11812'}
 tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT is a publicly available chatbot that can quickly generate texts on

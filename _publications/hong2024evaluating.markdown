@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09395"}
-  - {name: "Code", url: "https://github.com/declare-lab/LLM-ReasoningTest"}
-tags: ['Security', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09395'}
+  - {name: "Code", url: 'https://github.com/declare-lab/LLM-ReasoningTest'}
+tags: ['Reinforcement Learning', 'Has Code', 'Security']
 ---
 Recent advancements in Large Language Models (LLMs) have showcased striking
 results on existing logical reasoning benchmarks, with some models even

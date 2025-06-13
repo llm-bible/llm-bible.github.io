@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16639"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16639'}
 tags: ['RAG']
 ---
 Problematic smartphone use negatively affects physical and mental health.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023pmc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10415"}
-  - {name: "Code", url: "https://paperswithcode.com/paper/pmc-vqa-visual-instruction-tuning-for-medical,"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10415'}
+  - {name: "Code", url: 'https://paperswithcode.com/paper/pmc-vqa-visual-instruction-tuning-for-medical,'}
+tags: ['Has Code', 'RAG', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Medical Visual Question Answering (MedVQA) presents a significant opportunity
 to enhance diagnostic accuracy and healthcare delivery by leveraging artificial

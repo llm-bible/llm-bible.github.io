@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18252"}
-tags: ['Fine-Tuning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18252'}
+tags: ['Few-Shot', 'Fine-Tuning', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive performance on many
 tasks. However, to achieve optimal performance, specially designed prompting

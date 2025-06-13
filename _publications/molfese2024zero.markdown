@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: molfese2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05077"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05077'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Current Large Language Models (LLMs) have shown strong reasoning capabilities
 in commonsense question answering benchmarks, but the process underlying their

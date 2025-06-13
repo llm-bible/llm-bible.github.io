@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023exploration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08899"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08899'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Training large transformers using next-token prediction has given rise to
 groundbreaking advancements in AI. While this generative AI approach has

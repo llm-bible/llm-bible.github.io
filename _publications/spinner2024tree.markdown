@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: spinner2024tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07627"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07627'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Large language models (LLMs) are widely deployed in various downstream tasks,
 e.g., auto-completion, aided writing, or chat-based text generation. However,

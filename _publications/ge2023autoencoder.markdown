@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ge2023autoencoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.06945"}
-  - {name: "Code", url: "https://github.com/getao/icae"}
-tags: ['RAG', 'Has Code', 'Prompting', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.06945'}
+  - {name: "Code", url: 'https://github.com/getao/icae'}
+tags: ['RAG', 'Has Code', 'Language Modeling', 'Prompting']
 ---
 We propose the In-context Autoencoder (ICAE), leveraging the power of a large
 language model (LLM) to compress a long context into short compact memory slots

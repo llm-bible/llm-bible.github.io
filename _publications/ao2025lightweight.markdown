@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ao2025lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03137"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03137'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have impressive capabilities in text
 understanding and zero-shot reasoning. However, delays in knowledge updates may

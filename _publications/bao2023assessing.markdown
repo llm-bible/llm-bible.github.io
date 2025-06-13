@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: bao2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09430"}
-  - {name: "Code", url: "https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09430'}
+  - {name: "Code", url: 'https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs), such as LLaMA, Alpaca, Vicuna, GPT-3.5 and
 GPT-4, have advanced the performance of AI systems on various natural language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abbasian2024empathy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04777"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Merging', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04777'}
+tags: ['Agentic', 'RAG', 'Tools', 'Applications', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Agents represent one of the most emerging applications of Large Language
 Models (LLMs) and Generative AI, with their effectiveness hinging on multimodal

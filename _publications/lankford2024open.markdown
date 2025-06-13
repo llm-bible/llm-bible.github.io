@@ -6,8 +6,8 @@ conference: "Language Resources and Evaluation 57 1671-1696 (2023)"
 year: 2024
 bibkey: lankford2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02367"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02367'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 adaptNMT streamlines all processes involved in the development and deployment
 of RNN and Transformer neural translation models. As an open-source

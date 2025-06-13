@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: opedal2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.18070"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.18070'}
+tags: ['Ethics and Bias', 'Fine-Tuning', 'Survey Paper']
 ---
 There is increasing interest in employing large language models (LLMs) as
 cognitive models. For such purposes, it is central to understand which

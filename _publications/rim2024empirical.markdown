@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rim2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05734"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05734'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
 ---
 This work explores the capability of conversational chatbots powered by large
 language models (LLMs), to understand and characterize predicate symmetry, a

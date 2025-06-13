@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tack2024online
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04317"}
-  - {name: "Code", url: "https://github.com/jihoontack/MAC"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04317'}
+  - {name: "Code", url: 'https://github.com/jihoontack/MAC'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Due to the rapid generation and dissemination of information, large language
 models (LLMs) quickly run out of date despite enormous development costs. To

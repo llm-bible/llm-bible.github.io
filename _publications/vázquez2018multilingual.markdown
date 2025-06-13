@@ -6,8 +6,8 @@ conference: "Proceedings of the 4th Workshop on Representation Learning for NLP 
 year: 2018
 bibkey: vázquez2018multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1811.00498"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1811.00498'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning']
 ---
 In this paper, we propose a multilingual encoder-decoder architecture capable
 of obtaining multilingual sentence representations by means of incorporating an

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goel2024audio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07616"}
-  - {name: "Code", url: "https://audiodialogues.github.io/"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07616'}
+  - {name: "Code", url: 'https://audiodialogues.github.io/'}
 tags: ['RAG', 'Has Code', 'Prompting', 'Applications']
 ---
 Existing datasets for audio understanding primarily focus on single-turn

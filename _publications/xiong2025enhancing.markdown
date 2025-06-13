@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiong2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08180"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Tokenization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08180'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Tokenization']
 ---
 Large Language Models (LLMs) have demonstrated strong generalization
 capabilities across a wide range of natural language processing (NLP) tasks.

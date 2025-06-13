@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: aghakhani2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06101"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06101'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Problem-solving therapy (PST) is a structured psychological approach that
 helps individuals manage stress and resolve personal issues by guiding them

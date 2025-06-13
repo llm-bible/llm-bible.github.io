@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohammed2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14391"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14391'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly strong contenders in machine
 translation. In this work, we focus on document-level translation, where some

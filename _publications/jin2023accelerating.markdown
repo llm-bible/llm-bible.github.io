@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00576"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00576'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 The evolving sophistication and intricacies of Large Language Models (LLMs)
 yield unprecedented advancements, yet they simultaneously demand considerable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024aggregated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18344"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18344'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper introduces a novel approach to enhancing closed-domain Question
 Answering (QA) systems, focusing on the specific needs of the Lawrence Berkeley

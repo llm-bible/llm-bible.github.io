@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xi2024practice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06624"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06624'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLM) often needs to be Continual Pre-Trained (CPT) to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kabir2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11879"}
-  - {name: "Code", url: "https://github.com/apurba-nsu-rnd-lab/DFAR"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Ethics and Bias', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11879'}
+  - {name: "Code", url: 'https://github.com/apurba-nsu-rnd-lab/DFAR'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) with a human reasoning approach ensures
 that LLMs produce morally correct and human-like decisions. Ethical concerns

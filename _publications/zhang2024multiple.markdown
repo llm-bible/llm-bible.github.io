@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024multiple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11966"}
-  - {name: "Code", url: "https://github.com/Geralt-Targaryen/MC-Evaluation"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11966'}
+  - {name: "Code", url: 'https://github.com/Geralt-Targaryen/MC-Evaluation'}
 tags: ['Has Code', 'Uncategorized']
 ---
 We present GSM-MC, a multiple-choice (MC) dataset constructed by collecting

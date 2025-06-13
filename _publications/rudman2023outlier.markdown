@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rudman2023outlier
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17715"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17715'}
+tags: ['Pre-Training', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Representations from large language models (LLMs) are known to be dominated
 by a small subset of dimensions with exceedingly high variance. Previous works

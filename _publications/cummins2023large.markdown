@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cummins2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07062"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07062'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 We explore the novel application of Large Language Models to code
 optimization. We present a 7B-parameter transformer model trained from scratch

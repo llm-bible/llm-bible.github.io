@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hao2023chatllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.12998"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.12998'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Dialogue-based language models mark a huge milestone in the field of
 artificial intelligence, by their impressive ability to interact with users, as

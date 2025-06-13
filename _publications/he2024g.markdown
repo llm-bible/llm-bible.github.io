@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024g
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07630"}
-  - {name: "Code", url: "https://github.com/XiaoxinHe/G-Retriever"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07630'}
+  - {name: "Code", url: 'https://github.com/XiaoxinHe/G-Retriever'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Given a graph with textual attributes, we enable users to `chat with their
 graph': that is, to ask questions about the graph using a conversational

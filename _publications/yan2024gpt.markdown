@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03658"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03658'}
 tags: ['GPT', 'Model Architecture']
 ---
 This study comprehensively evaluates the translation quality of Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024deepen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03281"}
-tags: ['Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03281'}
+tags: ['Ethics and Bias', 'Tools']
 ---
 Evaluation is the baton for the development of large language models. Current
 evaluations typically employ a single-item assessment paradigm for each atomic

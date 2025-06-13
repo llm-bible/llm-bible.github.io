@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hariharan2025semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00409"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00409'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have greatly improved their capability in
 performing NLP tasks. However, deeper semantic understanding, contextual

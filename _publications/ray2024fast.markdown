@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ray2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10543"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10543'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 RAG (Retrieval Augmented Generation) allows LLMs (large language models) to

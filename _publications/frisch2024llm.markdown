@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: frisch2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02896"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02896'}
 tags: ['Agentic', 'GPT', 'Prompting', 'Model Architecture']
 ---
 While both agent interaction and personalisation are vibrant topics in

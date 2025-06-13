@@ -6,8 +6,8 @@ conference: "Reincarnating Reinforcement Learning Workshop at ICLR 2023"
 year: 2023
 bibkey: mezghani2023think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.11063"}
-tags: ['Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11063'}
+tags: ['Agentic', 'Language Modeling', 'Transformer', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The success of transformer models trained with a language modeling objective
 brings a promising opportunity to the reinforcement learning framework.

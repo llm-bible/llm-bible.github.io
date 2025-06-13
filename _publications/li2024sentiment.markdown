@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024sentiment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18005"}
-tags: ['Tools', 'Survey Paper', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18005'}
+tags: ['Prompting', 'Applications', 'Tools', 'Survey Paper']
 ---
 Modern natural language generation systems with Large Language Models (LLMs)
 exhibit the capability to generate a plausible summary of multiple documents;

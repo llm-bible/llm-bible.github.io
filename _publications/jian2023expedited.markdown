@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jian2023expedited
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03291"}
-  - {name: "Code", url: "https://github.com/yiren-jian/EVLGen"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03291'}
+  - {name: "Code", url: 'https://github.com/yiren-jian/EVLGen'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 In this paper, we introduce \\(\text\{EVL\}_\{\text\{Gen\}\}\\), a streamlined
 framework designed for the pre-training of visually conditioned language

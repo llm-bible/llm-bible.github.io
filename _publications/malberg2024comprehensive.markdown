@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: malberg2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15413"}
-  - {name: "Code", url: "https://github.com/simonmalberg/cognitive-biases-in-llms"}
-tags: ['RAG', 'Tools', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15413'}
+  - {name: "Code", url: 'https://github.com/simonmalberg/cognitive-biases-in-llms'}
+tags: ['Ethics and Bias', 'Has Code', 'RAG', 'Tools']
 ---
 We present a large-scale evaluation of 30 cognitive biases in 20
 state-of-the-art large language models (LLMs) under various decision-making

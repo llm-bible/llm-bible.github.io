@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13373"}
-  - {name: "Code", url: "https://github.com/ZJLAB-AMMI/LLM4Teach"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13373'}
+  - {name: "Code", url: 'https://github.com/ZJLAB-AMMI/LLM4Teach'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recent studies have uncovered the potential of Large Language Models (LLMs)
 in addressing complex sequential decision-making tasks through the provision of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11061"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11061'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The impressive performance of large language models (LLMs) has led to their

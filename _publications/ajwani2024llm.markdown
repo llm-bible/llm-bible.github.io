@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ajwani2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06800"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06800'}
 tags: ['Interpretability and Explainability', 'Security', 'Tools']
 ---
 Large Language Models (LLMs) are becoming vital tools that help us solve and

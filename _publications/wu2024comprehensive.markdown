@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15228"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15228'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Large language models (LLMs) like GitHub Copilot and ChatGPT have emerged as
 powerful tools for code generation, significantly enhancing productivity and

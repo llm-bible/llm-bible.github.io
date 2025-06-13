@@ -6,8 +6,8 @@ conference: "NeurIPS 2023 Workshop on Robustness of Few-shot and Zero-shot Learn
 year: 2023
 bibkey: mousavi2023n
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18679"}
-tags: ['Security', 'Bias Mitigation', 'Fairness', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18679'}
+tags: ['Ethics and Bias', 'Security', 'Fairness', 'Bias Mitigation']
 ---
 We propose a self-correction mechanism for Large Language Models (LLMs) to
 mitigate issues such as toxicity and fact hallucination. This method involves

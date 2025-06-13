@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024disentangling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.19159"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.19159'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Reinforcement Learning from Human Feedback (RLHF) has been a crucial
 component in the recent success of Large Language Models. However, RLHF is know

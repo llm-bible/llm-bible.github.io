@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10595"}
-tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10595'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have received widespread attention for
 advancing the interpretable self-driving. Existing evaluations of LVLMs

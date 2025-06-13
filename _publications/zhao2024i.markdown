@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17469"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17469'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 When seeking information from unfamiliar documents, users frequently pose

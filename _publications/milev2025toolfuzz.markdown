@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: milev2025toolfuzz
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04479"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04479'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Model (LLM) Agents leverage the advanced reasoning
 capabilities of LLMs in real-world applications. To interface with an

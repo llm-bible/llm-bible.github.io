@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yin2023did
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01150"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01150'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Large language models (LLMs) have shown impressive performance in following
 natural language instructions to solve unseen tasks. However, it remains

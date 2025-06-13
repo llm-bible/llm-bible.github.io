@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vrabcová2025pink
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22395"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22395'}
 tags: ['Interpretability and Explainability', 'Security']
 ---
 Negations are key to determining sentence meaning, making them essential for logical reasoning. Despite their importance, negations pose a substantial challenge for large language models (LLMs) and remain underexplored.

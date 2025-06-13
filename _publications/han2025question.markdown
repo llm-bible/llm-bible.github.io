@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09402"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09402'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) often struggle with tasks that require a deep
 understanding of complex questions, especially when faced with long-range

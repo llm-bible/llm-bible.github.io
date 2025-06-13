@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ranaldi2024that
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06332"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06332'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 The cognitive essence of humans is deeply intertwined with the concept of
 animacy, which plays an essential role in shaping their memory, vision, and

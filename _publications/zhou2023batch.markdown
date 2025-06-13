@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023batch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.17249"}
-tags: ['Ethics and Bias', 'Applications', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.17249'}
+tags: ['Few-Shot', 'Applications', 'Prompting', 'Ethics and Bias', 'In-Context Learning']
 ---
 Prompting and in-context learning (ICL) have become efficient learning
 paradigms for large language models (LLMs). However, LLMs suffer from prompt

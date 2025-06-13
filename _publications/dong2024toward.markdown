@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09584"}
-  - {name: "Code", url: "https://FollowRAG.github.io"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09584'}
+  - {name: "Code", url: 'https://FollowRAG.github.io'}
 tags: ['RAG', 'Has Code']
 ---
 Following natural instructions is crucial for the effective application of

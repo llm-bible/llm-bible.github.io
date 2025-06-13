@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shang2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18312"}
-tags: ['RAG', 'Agentic', 'Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18312'}
+tags: ['Reinforcement Learning', 'RAG', 'Security', 'Agentic']
 ---
 Large language models (LLMs) have demonstrated the world with the sparks of
 artificial general intelligence (AGI). One opinion, especially from some

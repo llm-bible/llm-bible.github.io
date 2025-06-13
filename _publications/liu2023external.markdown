@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023external
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.12057"}
-  - {name: "Code", url: "https://github.com/AkideLiu/ANLP"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.12057'}
+  - {name: "Code", url: 'https://github.com/AkideLiu/ANLP'}
+tags: ['Reinforcement Learning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Memory is identified as a crucial human faculty that allows for the retention
 of visual and linguistic information within the hippocampus and neurons in the

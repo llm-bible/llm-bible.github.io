@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kunananthaseelan2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10945"}
-tags: ['Fine-Tuning', 'Tools', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10945'}
+tags: ['Few-Shot', 'Tools', 'Fine-Tuning', 'Prompting', 'Multimodal Models']
 ---
 We introduce a language-grounded visual prompting method to adapt the visual
 encoder of vision-language models for downstream tasks. By capitalizing on

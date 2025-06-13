@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: atil2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05291"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05291'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have become ubiquitous, thus it is important to
 understand their risks and limitations. Smaller LLMs can be deployed where

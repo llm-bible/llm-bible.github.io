@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ivgi2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.00748"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.00748'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based pretrained language models (LMs) are ubiquitous across
 natural language understanding, but cannot be applied to long sequences such as

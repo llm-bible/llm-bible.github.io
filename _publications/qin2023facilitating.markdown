@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qin2023facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16789"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16789'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Despite the advancements of open-source large language models (LLMs), e.g.,
 LLaMA, they remain significantly limited in tool-use capabilities, i.e., using

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024reasoner
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10266"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10266'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'GPT', 'Ethics and Bias']
 ---
 Stance detection is crucial for fostering a human-centric Web by analyzing
 user-generated content to identify biases and harmful narratives that undermine

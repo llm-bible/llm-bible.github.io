@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bang2023multimodal
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2302.04023v4"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Dataset', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2302.04023v4'}
+tags: ['Dataset', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This paper proposes a framework for quantitatively evaluating interactive
 LLMs such as ChatGPT using publicly available data sets. We carry out an

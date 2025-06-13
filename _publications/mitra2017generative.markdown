@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: mitra2017generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1711.06238"}
-tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1711.06238'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture']
 ---
 Question Answering has come a long way from answer sentence selection,
 relational QA to reading and comprehension. We shift our attention to

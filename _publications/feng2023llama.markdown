@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: feng2023llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08922"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08922'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, various studies have leveraged Large Language Models (LLMs) to help
 decision-making and planning in environments, and try to align the LLMs'

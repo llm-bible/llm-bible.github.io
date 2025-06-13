@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rosu2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10660"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10660'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper introduces an LLM-based Latin-to-English translation platform
 designed to address the challenges of translating Latin texts. We named the

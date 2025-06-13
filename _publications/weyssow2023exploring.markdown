@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: weyssow2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10462"}
-  - {name: "Code", url: "https://github.com/martin-wey/peft-llm-code/"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10462'}
+  - {name: "Code", url: 'https://github.com/martin-wey/peft-llm-code/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) demonstrate impressive capabilities to generate
 accurate code snippets given natural language intents in a zero-shot manner,

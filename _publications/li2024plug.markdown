@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14554"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14554'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Applications', 'Multimodal Models']
 ---
 Large vision-language models (LVLMs) are ignorant of the up-to-date
 knowledge, such as LLaVA series, because they cannot be updated frequently due

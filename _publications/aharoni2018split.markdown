@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: aharoni2018split
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.01035"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.01035'}
 tags: ['Training Techniques']
 ---
 Splitting and rephrasing a complex sentence into several shorter sentences

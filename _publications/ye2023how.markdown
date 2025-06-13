@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14947"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14947'}
 tags: ['Uncategorized']
 ---
 We investigate the predictability of large language model (LLM) capabilities:

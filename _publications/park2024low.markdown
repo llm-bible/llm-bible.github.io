@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04630"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04630'}
+tags: ['Few-Shot', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 Cross-lingual summarization (XLS) aims to generate a summary in a target
 language different from the source language document. While large language

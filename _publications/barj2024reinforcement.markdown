@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barj2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07181"}
-tags: ['Agentic', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07181'}
+tags: ['Agentic', 'RAG', 'Security', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We introduce a method to address goal misgeneralization in reinforcement
 learning (RL), leveraging Large Language Model (LLM) feedback during training.

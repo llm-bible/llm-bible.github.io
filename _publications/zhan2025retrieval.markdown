@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhan2025retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02087"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'BERT', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02087'}
+tags: ['Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'BERT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Objectives: We aim to dynamically retrieve informative demonstrations,
 enhancing in-context learning in multimodal large language models (MLLMs) for

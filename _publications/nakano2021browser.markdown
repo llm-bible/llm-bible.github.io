@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: nakano2021browser
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2112.09332v3"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2112.09332v3'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We fine-tune GPT-3 to answer long-form questions using a text-based
 web-browsing environment, which allows the model to search and navigate the

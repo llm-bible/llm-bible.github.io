@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: marion2023when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04564"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04564'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pruning', 'Pretraining Methods']
 ---
 Large volumes of text data have contributed significantly to the development
 of large language models (LLMs) in recent years. This data is typically

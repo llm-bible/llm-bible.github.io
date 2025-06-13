@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022memorizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.08913"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.08913'}
+tags: ['Arxiv', 'Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Language models typically need to be trained or finetuned in order to acquire
 new knowledge, which involves updating their weights. We instead envision

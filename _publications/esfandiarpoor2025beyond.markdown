@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: esfandiarpoor2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23239"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23239'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have allowed the
 augmentation of information retrieval (IR) pipelines with synthetic data in

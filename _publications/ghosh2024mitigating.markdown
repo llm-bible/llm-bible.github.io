@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghosh2024mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2405.15683v1"}
-tags: ['Training Techniques', 'Multimodal Models', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2405.15683v1'}
+tags: ['Training Techniques', 'Prompting', 'Multimodal Models', 'Applications']
 ---
 Recent interest in Large Vision-Language Models (LVLMs) for practical
 applications is moderated by the significant challenge of hallucination or the

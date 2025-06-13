@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lewis2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14215"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14215'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training']
 ---
 LLMs have performed well on several reasoning benchmarks, including ones that
 test analogical reasoning abilities. However, there is debate on the extent to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gan2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10953"}
-tags: ['Fine-Tuning', 'RAG', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10953'}
+tags: ['RAG', 'Fine-Tuning', 'Tools']
 ---
 The Mutual Reinforcement Effect (MRE) represents a promising avenue in
 information extraction and multitasking research. Nevertheless, its

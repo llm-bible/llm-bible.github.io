@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14853"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14853'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 Developing language model-based dialogue agents requires effective data to

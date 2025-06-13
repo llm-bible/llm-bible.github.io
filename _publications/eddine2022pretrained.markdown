@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: eddine2022pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.10945"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.10945'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Like most natural language understanding and generation tasks,
 state-of-the-art models for summarization are transformer-based

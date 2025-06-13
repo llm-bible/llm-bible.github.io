@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: parekh2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23511"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23511'}
 tags: ['Applications']
 ---
 Research has shown the effectiveness of reasoning (e.g., Chain-of-Thought),

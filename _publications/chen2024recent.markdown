@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024recent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17974"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17974'}
 tags: ['Agentic', 'Survey Paper']
 ---
 Enhancing user engagement through personalization in conversational agents

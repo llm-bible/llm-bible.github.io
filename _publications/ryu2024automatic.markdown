@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ryu2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18382"}
-  - {name: "Code", url: "https://iconlab.negarmehr.com/CurricuLLM/"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18382'}
+  - {name: "Code", url: 'https://iconlab.negarmehr.com/CurricuLLM/'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Reinforcement Learning']
 ---
 Curriculum learning is a training mechanism in reinforcement learning (RL)
 that facilitates the achievement of complex policies by progressively

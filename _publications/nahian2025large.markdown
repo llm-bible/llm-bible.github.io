@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nahian2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11792"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11792'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The ability to predict drug overdose risk from a patient's medical records is
 crucial for timely intervention and prevention. Traditional machine learning

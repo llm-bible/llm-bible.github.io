@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024use
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01955"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01955'}
 tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Cancer clinical trials often face challenges in recruitment and engagement

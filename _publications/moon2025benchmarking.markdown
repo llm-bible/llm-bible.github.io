@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: moon2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13187"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13187'}
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Tools']
 ---
 This study presents a comprehensive evaluation of five leading large language
 models (LLMs) - Chat GPT 4o, Copilot Pro, Gemini Advanced, Claude Pro, and Meta

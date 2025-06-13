@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024gpts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18098"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18098'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 In this paper, we explore the application of Generative Pre-trained
 Transformers (GPTs) in cross-lingual legal Question-Answering (QA) systems

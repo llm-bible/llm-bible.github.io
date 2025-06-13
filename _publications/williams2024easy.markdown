@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: williams2024easy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19616"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19616'}
 tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 We introduce a comprehensive Linguistic Benchmark designed to evaluate the

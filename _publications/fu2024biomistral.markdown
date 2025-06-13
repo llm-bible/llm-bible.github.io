@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024biomistral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18955"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18955'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) such as ChatGPT are fine-tuned on large and
 diverse instruction-following corpora, and can generalize to new tasks.

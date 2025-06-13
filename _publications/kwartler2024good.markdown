@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kwartler2024good
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14262"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14262'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 This study explores the ability of Large Language Model (LLM) agents to

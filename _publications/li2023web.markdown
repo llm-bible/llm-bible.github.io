@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023web
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10998"}
-tags: ['RAG', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10998'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) encode a large amount of world knowledge.
 However, as such knowledge is frozen at the time of model training, the models

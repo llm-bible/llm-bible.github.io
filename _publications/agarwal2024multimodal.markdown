@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwal2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11215"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11215'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'RAG', 'Security', 'Tools', 'Applications', 'Multimodal Models']
 ---
 Memes have evolved as a prevalent medium for diverse communication, ranging
 from humour to propaganda. With the rising popularity of image-focused content,

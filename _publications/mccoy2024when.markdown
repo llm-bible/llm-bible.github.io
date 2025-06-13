@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mccoy2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01792"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01792'}
 tags: ['Reinforcement Learning']
 ---
 In "Embers of Autoregression" (McCoy et al., 2023), we showed that several

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ghosal2023unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02053"}
-  - {name: "Code", url: "https://huggingface.co/declare-lab/flacuna-13b-v1.0"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02053'}
+  - {name: "Code", url: 'https://huggingface.co/declare-lab/flacuna-13b-v1.0'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, the release of INSTRUCTEVAL has provided valuable insights into the
 performance of large language models (LLMs) that utilize encoder-decoder or

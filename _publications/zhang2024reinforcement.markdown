@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.17283"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.17283'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Retrieval-augmented language models have exhibited promising performance
 across various areas of natural language processing (NLP), including

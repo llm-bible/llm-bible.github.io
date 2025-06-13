@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: dai2023neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20501"}
-  - {name: "Code", url: "https://github.com/KID-22/Source-Bias"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20501'}
+  - {name: "Code", url: 'https://github.com/KID-22/Source-Bias'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Applications', 'Fine-Tuning', 'Ethics and Bias']
 ---
 Recently, the emergence of large language models (LLMs) has revolutionized
 the paradigm of information retrieval (IR) applications, especially in web

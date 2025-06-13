@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wiegreffe2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15018"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15018'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multiple-choice question answering (MCQA) is a key competence of performant
 transformer language models that is tested by mainstream benchmarks. However,

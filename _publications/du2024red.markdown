@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.14853"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.14853'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Despite the substantial advancements in artificial intelligence, large
 language models (LLMs) remain being challenged by generation safety. With

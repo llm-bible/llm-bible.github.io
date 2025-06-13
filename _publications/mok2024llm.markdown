@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mok2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12016"}
-tags: ['Agentic', 'Tools', 'RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12016'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Prompting']
 ---
 Task-orientated conversational agents interact with users and assist them via
 leveraging external APIs. A typical task-oriented conversational system can be

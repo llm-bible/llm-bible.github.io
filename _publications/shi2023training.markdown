@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11303"}
-  - {name: "Code", url: "https://github.com/HKUST-KnowComp/QaDynamics"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11303'}
+  - {name: "Code", url: 'https://github.com/HKUST-KnowComp/QaDynamics'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Zero-shot commonsense Question-Answering (QA) requires models to reason about
 general situations beyond specific benchmarks. State-of-the-art approaches

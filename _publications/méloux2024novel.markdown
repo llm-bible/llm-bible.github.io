@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: méloux2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.17070"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.17070'}
+tags: ['Language Modeling', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Teaching new information to pre-trained large language models (PLM) is a
 crucial but challenging task. Model adaptation techniques, such as fine-tuning

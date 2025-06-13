@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025pike
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11551"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11551'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Despite notable advancements in Retrieval-Augmented Generation (RAG) systems
 that expand large language model (LLM) capabilities through external retrieval,

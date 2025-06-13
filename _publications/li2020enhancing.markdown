@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.09147"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.09147'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Most of the existing works for dialogue generation are data-driven models
 trained directly on corpora crawled from websites. They mainly focus on

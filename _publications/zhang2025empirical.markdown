@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00019"}
-  - {name: "Code", url: "https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression"}
-tags: ['Agentic', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00019'}
+  - {name: "Code", url: 'https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression'}
+tags: ['Agentic', 'Has Code', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Prompt engineering enables Large Language Models (LLMs) to perform a variety
 of tasks. However, lengthy prompts significantly increase computational

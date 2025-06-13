@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14352"}
-tags: ['RAG', 'Attention Mechanism', 'Survey Paper', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14352'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Survey Paper']
 ---
 Techniques that enhance inference through increased computation at test-time
 have recently gained attention. In this survey, we investigate the current

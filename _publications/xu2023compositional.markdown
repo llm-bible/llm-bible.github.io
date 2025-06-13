@@ -6,7 +6,7 @@ conference: "Findings of EMNLP 2023"
 year: 2023
 bibkey: xu2023compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02748"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02748'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Data-to-text generation involves transforming structured data, often

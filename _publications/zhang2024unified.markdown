@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00863"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00863'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Quantization', 'Pretraining Methods']
 ---
 The remarkable success of Large Language Models (LLMs) across diverse tasks
 has driven the research community to extend their capabilities to molecular

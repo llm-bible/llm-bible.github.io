@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kohli2023building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12624"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12624'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Building LLMs for languages other than English is in great demand due to the
 unavailability and performance of multilingual LLMs, such as understanding the

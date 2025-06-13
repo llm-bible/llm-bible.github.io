@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: saha2025almost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15666"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15666'}
+tags: ['Language Modeling', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The growing use of large language models (LLMs) for text generation has led
 to widespread concerns about AI-generated content detection. However, an

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024determine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03777"}
-tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03777'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) exhibit varying strengths and weaknesses across
 different tasks, prompting recent studies to explore the benefits of ensembling

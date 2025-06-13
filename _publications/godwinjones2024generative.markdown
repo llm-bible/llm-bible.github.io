@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: godwinjones2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14395"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14395'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 There are obvious benefits to integrating generative AI (artificial
 intelligence) into language learning and teaching. Those include using AI as a

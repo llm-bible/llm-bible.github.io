@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15083"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15083'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Large-scale Pretrained Language Models (LLMs), such as ChatGPT and GPT4, have
 shown strong abilities in multilingual translations, without being explicitly

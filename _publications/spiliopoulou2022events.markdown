@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: spiliopoulou2022events
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.05392"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.05392'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 This paper investigates models of event implications. Specifically, how well
 models predict entity state-changes, by targeting their understanding of

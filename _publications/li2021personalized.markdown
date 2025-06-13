@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.11601"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.11601'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'BERT', 'Model Architecture', 'Applications', 'Survey Paper', 'Pretraining Methods']
 ---
 Personalization of natural language generation plays a vital role in a large
 spectrum of tasks, such as explainable recommendation, review summarization and

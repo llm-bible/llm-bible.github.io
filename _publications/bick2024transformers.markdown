@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bick2024transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10189"}
-tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10189'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer architectures have become a dominant paradigm for domains like
 language modeling but suffer in many inference settings due to their

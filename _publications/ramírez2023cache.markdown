@@ -6,7 +6,7 @@ conference: "Findings of the Association for Computational Linguistics ACL 2024"
 year: 2023
 bibkey: ramírez2023cache
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13561"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13561'}
 tags: ['Tools']
 ---
 Large-scale deployment of generative AI tools often depends on costly API

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shakhadri2025shakti
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17092"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17092'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 We introduce Shakti VLM, a family of vision-language models in the capacity
 of 1B and 4B parameters designed to address data efficiency challenges in

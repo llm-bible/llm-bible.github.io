@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gagne2023inner
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.01784"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.01784'}
 tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based large-scale language models (LLMs) are able to generate

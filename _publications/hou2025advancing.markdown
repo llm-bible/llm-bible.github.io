@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hou2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11651"}
-  - {name: "Code", url: "https://github.com/THUDM/T1"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11651'}
+  - {name: "Code", url: 'https://github.com/THUDM/T1'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 complex reasoning tasks. However, existing approaches mainly rely on imitation

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: nwankwo2024conversation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11838"}
-  - {name: "Code", url: "https://osf.io/wzyf6"}
-  - {name: "Code", url: "https://github.com/LinusNEP/TCC_IRoNL.git)"}
-tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Agent', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11838'}
+  - {name: "Code", url: 'https://osf.io/wzyf6'}
+  - {name: "Code", url: 'https://github.com/LinusNEP/TCC_IRoNL.git)'}
+tags: ['Agentic', 'Has Code', 'Agent', 'RAG', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In recent years, autonomous agents have surged in real-world environments
 such as our homes, offices, and public spaces. However, natural human-robot

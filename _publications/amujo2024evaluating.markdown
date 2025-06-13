@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amujo2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11006"}
-tags: ['Fine-Tuning', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11006'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have expanded into various domains.
 However, there remains a need to evaluate how these models perform when

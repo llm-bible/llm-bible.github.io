@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shibata2023theory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14504"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14504'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This study aims to acquire knowledge for creating very large language models
 that are immune to hallucinations. Hallucinations in contemporary large

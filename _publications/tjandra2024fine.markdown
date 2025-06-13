@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tjandra2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17234"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17234'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are known to hallucinate, whereby they generate
 plausible but inaccurate text. This phenomenon poses significant risks in

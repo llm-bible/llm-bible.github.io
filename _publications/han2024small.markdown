@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07301"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07301'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative Language Models (LMs) such as ChatGPT have exhibited remarkable
 performance across various downstream tasks. Nevertheless, one of their most

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhan2023removing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05553"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05553'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As large language models (LLMs) have increased in their capabilities, so does
 their potential for dual use. To reduce harmful outputs, produces and vendors

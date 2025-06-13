@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02591"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02591'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 We present CM3Leon (pronounced "Chameleon"), a retrieval-augmented,
 token-based, decoder-only multi-modal language model capable of generating and

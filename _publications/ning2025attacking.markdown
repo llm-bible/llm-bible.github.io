@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ning2025attacking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13192"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'RecSys', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13192'}
+tags: ['Attention Mechanism', 'Agentic', 'Security', 'Model Architecture', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recently, Large Language Model (LLM)-empowered recommender systems (RecSys)
 have brought significant advances in personalized user experience and have

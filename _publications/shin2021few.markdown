@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: shin2021few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08696"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08696'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large language models can perform semantic parsing with little training data,
 when prompted with in-context examples. It has been shown that this can be

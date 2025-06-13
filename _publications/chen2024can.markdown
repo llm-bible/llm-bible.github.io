@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06318"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06318'}
+tags: ['Agentic', 'Agent', 'Few-Shot', 'RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have brought autonomous agents closer to
 artificial general intelligence (AGI) due to their promising generalization and

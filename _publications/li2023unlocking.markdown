@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15014"}
-tags: ['Applications', 'Tools', 'Efficiency and Optimization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15014'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'Tools']
 ---
 The temporal aspect is a significant dimension of our reality. We notice the
 challenge that large language models (LLMs) face when engaging in temporal

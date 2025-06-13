@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01399"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01399'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 To interact with humans and act in the world, agents need to understand the
 range of language that people use and relate it to the visual world. While

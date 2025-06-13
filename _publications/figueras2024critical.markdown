@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: figueras2024critical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14335"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14335'}
 tags: ['Tools']
 ---
 The development of Large Language Models (LLMs) has brought impressive

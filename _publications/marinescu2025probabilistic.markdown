@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: marinescu2025probabilistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18573"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18573'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated vast capabilities on
 generative tasks in recent years, yet they struggle with guaranteeing the

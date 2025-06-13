@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06356"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06356'}
 tags: ['Applications']
 ---
 Query understanding in Conversational Information Seeking (CIS) involves

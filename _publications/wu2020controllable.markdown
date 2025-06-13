@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wu2020controllable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.00613"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00613'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Current end-to-end neural conversation models inherently lack the flexibility
 to impose semantic control in the response generation process, often resulting

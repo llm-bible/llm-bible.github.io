@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18104"}
-  - {name: "Code", url: "https://huggingface.co/datasets/math-ai/TemplateGSM"}
-  - {name: "Code", url: "https://github.com/iiis-ai/TemplateMath"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18104'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/math-ai/TemplateGSM'}
+  - {name: "Code", url: 'https://github.com/iiis-ai/TemplateMath'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The rapid advancement of large language models (LLMs) such as GPT-3, PaLM,
 and Llama has significantly transformed natural language processing, showcasing

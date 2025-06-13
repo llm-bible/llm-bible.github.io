@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: leng2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00043"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00043'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 Existing reasoning evaluation frameworks for Large Language Models (LLMs) and
 Large Vision-Language Models (LVLMs) predominantly either assess text-based

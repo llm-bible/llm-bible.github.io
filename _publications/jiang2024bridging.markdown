@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12214"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12214'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 To advance capabilities of large language models (LLMs) in solving
 combinatorial optimization problems (COPs), this paper presents the

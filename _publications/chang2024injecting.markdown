@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024injecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18564"}
-tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18564'}
+tags: ['Agentic', 'RAG', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Recent research in dialogue systems and corpora has focused on two main
 categories: task-oriented (TOD) and open-domain (chit-chat) dialogues. TOD

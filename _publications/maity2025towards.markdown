@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: maity2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05683"}
-tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05683'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'GPT', 'Model Architecture']
 ---
 This research paper presents a comprehensive analysis of the performance of
 prominent pre-trained large language models (LLMs), including GPT-4 Turbo,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024generalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08831"}
-tags: ['Fine-Tuning', 'RAG', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08831'}
+tags: ['RAG', 'Model Architecture', 'GPT', 'Fine-Tuning']
 ---
 With tremendous efforts on developing effective e-commerce models,
 conventional e-commerce models show limited success in generalist e-commerce

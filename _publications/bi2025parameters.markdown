@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: bi2025parameters
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15888"}
-  - {name: "Code", url: "https://github.com/byronBBL/CK-PLUG}{{this"}
-tags: ['RAG', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15888'}
+  - {name: "Code", url: 'https://github.com/byronBBL/CK-PLUG}{{this'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) mitigates hallucinations in Large
 Language Models (LLMs) by integrating external knowledge. However, conflicts

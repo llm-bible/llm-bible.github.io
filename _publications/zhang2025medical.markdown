@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025medical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17784"}
-tags: ['Ethics and Bias', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17784'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The automatic generation of brain CT reports has gained widespread attention,
 given its potential to assist radiologists in diagnosing cranial diseases.

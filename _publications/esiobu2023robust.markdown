@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: esiobu2023robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18140"}
-tags: ['Pre-Training', 'Tools', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Training Techniques', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18140'}
+tags: ['RAG', 'Pre-Training', 'Fairness', 'Training Techniques', 'Tools', 'Prompting', 'Survey Paper', 'Bias Mitigation', 'Ethics and Bias']
 ---
 As generative large language models (LLMs) grow more performant and
 prevalent, we must develop comprehensive enough tools to measure and improve

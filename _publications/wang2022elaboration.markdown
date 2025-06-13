@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022elaboration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.01232"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.01232'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 In question answering requiring common sense, language models (e.g., GPT-3)
 have been used to generate text expressing background knowledge that helps

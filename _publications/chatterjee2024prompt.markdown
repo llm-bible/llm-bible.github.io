@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chatterjee2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02185"}
-  - {name: "Code", url: "https://github.com/kowndinya-renduchintala/POSIX"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02185'}
+  - {name: "Code", url: 'https://github.com/kowndinya-renduchintala/POSIX'}
+tags: ['Attention Mechanism', 'Has Code', 'Few-Shot', 'Model Architecture', 'Prompting']
 ---
 Despite their remarkable capabilities, Large Language Models (LLMs) are found
 to be surprisingly sensitive to minor variations in prompts, often generating

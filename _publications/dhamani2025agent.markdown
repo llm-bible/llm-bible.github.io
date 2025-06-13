@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dhamani2025agent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07815"}
-tags: ['Agentic', 'Tools', 'Model Architecture', 'Training Techniques', 'Agent', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07815'}
+tags: ['Agentic', 'Agent', 'Training Techniques', 'Tools', 'Model Architecture', 'Prompting']
 ---
 Recent advances in prompting techniques and multi-agent systems for Large
 Language Models (LLMs) have produced increasingly complex approaches. However,

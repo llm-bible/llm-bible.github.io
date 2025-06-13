@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: klissarov2024modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05656"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05656'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Large pretrained models are showing increasingly better performance in
 reasoning and planning tasks across different modalities, opening the

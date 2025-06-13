@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: uehara2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10005"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10005'}
 tags: ['Security', 'Training Techniques']
 ---
 The increasing demand for intelligent systems capable of interpreting and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02936"}
-  - {name: "Code", url: "https://github.com/ZIKEYUAN/GraCoRe"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02936'}
+  - {name: "Code", url: 'https://github.com/ZIKEYUAN/GraCoRe'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Evaluating the graph comprehension and reasoning abilities of Large Language

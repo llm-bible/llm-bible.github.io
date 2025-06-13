@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11593"}
-tags: ['Applications', 'Tools', 'Efficiency and Optimization', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11593'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Personalized text generation presents a specialized mechanism for delivering
 content that is specific to a user's personal context. While the research

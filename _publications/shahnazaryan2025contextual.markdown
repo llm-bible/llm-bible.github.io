@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shahnazaryan2025contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07195"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07195'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Merging']
 ---
 We explore the impact of multi-source input strategies on machine translation
 (MT) quality, comparing GPT-4o, a large language model (LLM), with a

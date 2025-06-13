@@ -6,7 +6,7 @@ conference: "WWW 25 - ACM Web Conference (formerly International World Wide Web 
 year: 2025
 bibkey: lecourt2025chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04831"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04831'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This work investigates the capabilities of large language models (LLMs) in

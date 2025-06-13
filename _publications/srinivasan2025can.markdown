@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: srinivasan2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13949"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13949'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture']
 ---
 Question: What is the performance and reasoning ability of OpenAI o1 compared
 to other large language models in addressing ophthalmology-specific questions?

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02731"}
-  - {name: "Code", url: "https://github.com/wuhy68/Parameter-Efficient-MoE"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02731'}
+  - {name: "Code", url: 'https://github.com/wuhy68/Parameter-Efficient-MoE'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated considerable proficiency in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.14625"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.14625'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Why do large pre-trained transformer-based models perform so well across a
 wide variety of NLP tasks? Recent research suggests the key may lie in

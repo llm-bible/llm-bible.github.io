@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03157"}
-tags: ['Efficiency and Optimization', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03157'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications', 'Merging']
 ---
 In this work, we investigate a typical scenario in code generation where a
 developer edits existing code in real time and requests a code assistant, e.g.,

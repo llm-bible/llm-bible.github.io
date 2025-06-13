@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16738"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16738'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Merging', 'Pruning', 'Multimodal Models', 'Pre-Training']
 ---
 Learning a versatile language-image model is computationally prohibitive
 under a limited computing budget. This paper delves into the *efficient

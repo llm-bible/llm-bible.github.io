@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03511"}
-  - {name: "Code", url: "https://github.com/zhongshsh/MoExtend"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03511'}
+  - {name: "Code", url: 'https://github.com/zhongshsh/MoExtend'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) excel in various tasks but are primarily trained
 on text data, limiting their application scope. Expanding LLM capabilities to

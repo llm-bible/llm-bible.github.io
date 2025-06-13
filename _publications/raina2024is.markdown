@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: raina2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14016"}
-tags: ['Security', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14016'}
+tags: ['Reinforcement Learning', 'Security', 'Applications']
 ---
 Large Language Models (LLMs) are powerful zero-shot assessors used in
 real-world situations such as assessing written exams and benchmarking systems.

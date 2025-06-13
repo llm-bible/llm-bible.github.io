@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hooper2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14152"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14152'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Reinforcement Learning']
 ---
 Quantization is a powerful tool to improve large language model (LLM)
 inference efficiency by utilizing more energy-efficient low-precision datapaths

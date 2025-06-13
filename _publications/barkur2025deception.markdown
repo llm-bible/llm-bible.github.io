@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: barkur2025deception
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16513"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16513'}
+tags: ['Agentic', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recent advances in Large Language Models (LLMs) have incorporated planning
 and reasoning capabilities, enabling models to outline steps before execution

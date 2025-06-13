@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14808"}
-tags: ['Transformer', 'GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14808'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recently, autoregressive models have demonstrated remarkable performance in
 class-conditional image generation. However, the application of next-token

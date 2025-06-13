@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: merrill2024transforming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06464"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06464'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Despite the proliferation of wearable health trackers and the importance of
 sleep and exercise to health, deriving actionable personalized insights from

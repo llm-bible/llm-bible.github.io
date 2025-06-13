@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024driving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04759"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04759'}
+tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 This work presents an interpretable decision-making framework for autonomous
 vehicles that integrates traffic regulations, norms, and safety guidelines

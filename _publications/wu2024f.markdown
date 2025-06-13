@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024f
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05821"}
-  - {name: "Code", url: "https://github.com/wusize/F-LMM"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05821'}
+  - {name: "Code", url: 'https://github.com/wusize/F-LMM'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Endowing Large Multimodal Models (LMMs) with visual grounding capability can
 significantly enhance AIs' understanding of the visual world and their

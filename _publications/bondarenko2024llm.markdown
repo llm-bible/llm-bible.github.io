@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bondarenko2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21330"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21330'}
+tags: ['RAG', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 The retrieval-augmented generation (RAG) approach is used to reduce the
 confabulation of large language models (LLMs) for question answering by

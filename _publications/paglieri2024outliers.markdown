@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: paglieri2024outliers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20835"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Merging', 'Security', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20835'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Quantization', 'Merging', 'Pre-Training']
 ---
 Post-Training Quantization (PTQ) enhances the efficiency of Large Language
 Models (LLMs) by enabling faster operation and compatibility with more

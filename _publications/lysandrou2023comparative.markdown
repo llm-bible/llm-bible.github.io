@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lysandrou2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16850"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16850'}
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study presents a comparative analysis of three Generative Pre-trained
 Transformer (GPT) solutions in a question and answer (Q&A) setting: Drug-GPT 3,

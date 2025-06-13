@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jeong2024sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13868"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13868'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Quantization']
 ---
 Recently, large language models (LLMs) have shown surprising performance in
 task-specific workloads as well as general tasks with the given prompts.

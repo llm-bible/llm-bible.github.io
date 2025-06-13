@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghosh2024logical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16100"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16100'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In recent years, large language models (LLMs) have demonstrated significant
 success in performing varied natural language tasks such as language

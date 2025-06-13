@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024dropping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05317"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05317'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Merging', 'Pretraining Methods']
 ---
 This paper tackles the memory hurdle of processing long context sequences in
 Large Language Models (LLMs), by presenting a novel approach, Dropping In

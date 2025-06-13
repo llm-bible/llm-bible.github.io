@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025math
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06453"}
-tags: ['Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06453'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Large language models have demonstrated impressive performance on challenging
 mathematical reasoning tasks, which has triggered the discussion of whether the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024unifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02485"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02485'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large language models (LLMs) typically utilize the top-k contexts from a
 retriever in retrieval-augmented generation (RAG). In this work, we propose a

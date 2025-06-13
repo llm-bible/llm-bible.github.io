@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024silver
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17483"}
-tags: ['RAG', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17483'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture']
 ---
 In this work, we provide a thorough investigation of gist-based context
 compression methods to improve long-context processing in large language

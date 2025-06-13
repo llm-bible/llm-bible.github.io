@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10766"}
-tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10766'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Security', 'Training Techniques']
 ---
 As the post-training of large language models (LLMs) advances from
 instruction-following to complex reasoning tasks, understanding how different

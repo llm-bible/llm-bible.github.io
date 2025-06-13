@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025first
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06468"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06468'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have garnered significant attention for their
 impressive general-purpose capabilities. For applications requiring intricate

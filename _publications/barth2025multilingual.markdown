@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: barth2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12895"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12895'}
 tags: ['Ethics and Bias', 'Applications']
 ---
 The breakthrough of generative large language models (LLMs) that can solve

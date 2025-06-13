@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024eliminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05265"}
-  - {name: "Code", url: "https://github.com/ChenMnZ/PrefixQuant"}
-tags: ['Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05265'}
+  - {name: "Code", url: 'https://github.com/ChenMnZ/PrefixQuant'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization']
 ---
 Existing weight-activation quantization methods for Large Language Models
 (LLMs) primarily address channel-wise outliers but often neglect token-wise

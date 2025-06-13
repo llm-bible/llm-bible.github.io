@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: badshah2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08542"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08542'}
 tags: ['RAG', 'Tools']
 ---
 Evaluating Large Language Models (LLMs) free-form generated responses remains

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tigges2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10827"}
-tags: ['Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10827'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Most currently deployed large language models (LLMs) undergo continuous
 training or additional finetuning. By contrast, most research into LLMs'

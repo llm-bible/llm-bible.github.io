@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhou2019question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00140"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00140'}
 tags: ['Uncategorized']
 ---
 Question generation is a challenging task which aims to ask a question based

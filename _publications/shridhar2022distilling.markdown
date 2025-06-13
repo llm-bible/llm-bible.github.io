@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: shridhar2022distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.00193"}
-  - {name: "Code", url: "https://github.com/kumar-shridhar/Distiiling-LM"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.00193'}
+  - {name: "Code", url: 'https://github.com/kumar-shridhar/Distiiling-LM'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'GPT', 'Model Architecture']
 ---
 Step-by-step reasoning approaches like chain of thought (CoT) have proved to
 be very effective in inducing reasoning capabilities in large language models.

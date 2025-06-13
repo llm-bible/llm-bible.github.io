@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14588"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14588'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 In legal practice, judges apply the trichotomous dogmatics of criminal law,
 sequentially assessing the elements of the offense, unlawfulness, and

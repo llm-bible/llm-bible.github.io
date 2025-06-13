@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024review
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05804"}
-  - {name: "Code", url: "https://github.com/xinzhel/LLM-Agent-Survey"}
-tags: ['Agentic', 'Survey Paper', 'Tools', 'RAG', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05804'}
+  - {name: "Code", url: 'https://github.com/xinzhel/LLM-Agent-Survey'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Tools', 'Survey Paper']
 ---
 Tool use, planning, and feedback learning are currently three prominent
 paradigms for developing Large Language Model (LLM)-based agents across various

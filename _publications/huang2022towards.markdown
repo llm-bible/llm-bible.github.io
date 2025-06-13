@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: huang2022towards
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2212.10403v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2212.10403v2'}
 tags: ['Interpretability', 'Survey Paper']
 ---
 Reasoning is a fundamental aspect of human intelligence that plays a crucial

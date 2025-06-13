@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: taesiri2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05291"}
-  - {name: "Code", url: "https://glitchbench.github.io/"}
-tags: ['Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05291'}
+  - {name: "Code", url: 'https://glitchbench.github.io/'}
+tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Large multimodal models (LMMs) have evolved from large language models (LLMs)
 to integrate multiple input modalities, such as visual inputs. This integration

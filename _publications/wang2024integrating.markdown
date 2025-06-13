@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10162"}
-  - {name: "Code", url: "https://github.com/Strong-AI-Lab/ChatLogic"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10162'}
+  - {name: "Code", url: 'https://github.com/Strong-AI-Lab/ChatLogic'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) such as ChatGPT and GPT-4 have demonstrated
 impressive capabilities in various generative tasks. However, their performance

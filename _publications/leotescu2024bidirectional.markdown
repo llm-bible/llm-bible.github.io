@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leotescu2024bidirectional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05210"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05210'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 The transformer is a powerful data modelling framework responsible for
 remarkable performance on a wide range of tasks. However, they are limited in

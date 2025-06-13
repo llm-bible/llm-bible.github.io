@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wei2020learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.15960"}
-tags: ['Applications', 'Model Architecture', 'Masked Language Model', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.15960'}
+tags: ['Masked Language Model', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent studies have demonstrated the overwhelming advantage of cross-lingual
 pre-trained models (PTMs), such as multilingual BERT and XLM, on cross-lingual

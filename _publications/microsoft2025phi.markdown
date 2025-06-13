@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: microsoft2025phi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01743"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01743'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We introduce Phi-4-Mini and Phi-4-Multimodal, compact yet highly capable
 language and multimodal models. Phi-4-Mini is a 3.8-billion-parameter language

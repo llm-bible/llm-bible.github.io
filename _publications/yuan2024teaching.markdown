@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01069"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01069'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Humans follow criteria when they execute tasks, and these criteria are
 directly used to assess the quality of task completion. Therefore, having

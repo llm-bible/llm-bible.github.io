@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024invar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07021"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07021'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Retrieval-augmented generation (RAG) has shown impressive capability in
 providing reliable answer predictions and addressing hallucination problems. A

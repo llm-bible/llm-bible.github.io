@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19443"}
-  - {name: "Code", url: "https://github.com/ictnlp/Auto-RAG"}
-tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19443'}
+  - {name: "Code", url: 'https://github.com/ictnlp/Auto-RAG'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Few-Shot', 'RAG', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Iterative retrieval refers to the process in which the model continuously
 queries the retriever during generation to enhance the relevance of the

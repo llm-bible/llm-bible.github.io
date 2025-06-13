@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09424"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09424'}
+tags: ['INTERSPEECH', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 We present a novel Speech Augmented Language Model (SALM) with \{\em
 multitask\} and \{\em in-context\} learning capabilities. SALM comprises a frozen

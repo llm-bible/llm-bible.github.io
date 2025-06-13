@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mirza2024meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11755"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11755'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Prompt ensembling of Large Language Model (LLM) generated category-specific
 prompts has emerged as an effective method to enhance zero-shot recognition

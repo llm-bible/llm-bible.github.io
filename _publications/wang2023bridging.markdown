@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10648"}
-  - {name: "Code", url: "https://github.com/rosewang2008/bridge"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10648'}
+  - {name: "Code", url: 'https://github.com/rosewang2008/bridge'}
+tags: ['Has Code', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Scaling high-quality tutoring remains a major challenge in education. Due to
 growing demand, many platforms employ novice tutors who, unlike experienced

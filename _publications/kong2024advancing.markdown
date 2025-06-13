@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kong2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14361"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14361'}
 tags: ['RAG', 'Tools']
 ---
 Large Language Models (LLMs) trained on large volumes of data excel at

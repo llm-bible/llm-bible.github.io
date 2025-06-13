@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03514"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03514'}
 tags: ['Uncategorized']
 ---
 Developing Large Language Models (LLMs) with robust long-context capabilities

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14693"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14693'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recent advances in table understanding have focused on instruction-tuning
 large language models (LLMs) for table-related tasks. However, existing

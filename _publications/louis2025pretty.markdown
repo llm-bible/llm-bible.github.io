@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: louis2025pretty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16075"}
-tags: ['Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16075'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) pipelines enhance Large Language Models
 (LLMs) by retrieving relevant documents, but they face scalability issues due

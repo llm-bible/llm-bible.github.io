@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: doan2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04646"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04646'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning']
 ---
 Large language models (LLMs), such as GPT-4, PaLM, and LLaMa, have been shown
 to achieve remarkable performance across a variety of natural language tasks.

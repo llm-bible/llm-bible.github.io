@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: cruzbenito2020automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.07740"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.07740'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Tokenization', 'Pretraining Methods']
 ---
 In recent years, the use of deep learning in language models gained much
 attention. Some research projects claim that they can generate text that can be

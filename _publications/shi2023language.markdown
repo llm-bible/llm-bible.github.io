@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023language
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.10638v6"}
-tags: ['RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.10638v6'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LMs) are currently trained to predict tokens given
 document prefixes, enabling them to directly perform long-form generation and

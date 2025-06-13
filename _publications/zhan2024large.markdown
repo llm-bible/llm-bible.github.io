@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhan2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01288"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01288'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have offered new opportunities for emotional

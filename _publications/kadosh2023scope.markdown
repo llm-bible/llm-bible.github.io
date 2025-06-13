@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kadosh2023scope
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09440"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09440'}
 tags: ['RAG', 'Training Techniques']
 ---
 With easier access to powerful compute resources, there is a growing trend in

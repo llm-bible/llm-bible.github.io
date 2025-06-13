@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alassan2024comparison
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13713"}
-tags: ['Model Architecture', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13713'}
+tags: ['Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have recently demonstrated remarkable
 performance in various Natural Language Processing (NLP) applications, such as

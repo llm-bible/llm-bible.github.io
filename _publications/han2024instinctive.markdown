@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024instinctive
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2402.03757v1"}
-  - {name: "Code", url: "https://github.com/MasaiahHan/CorrelationQA"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2402.03757v1'}
+  - {name: "Code", url: 'https://github.com/MasaiahHan/CorrelationQA'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have recently experienced remarkable progress,
 where the advent of multi-modal large language models (MLLMs) has endowed LLMs

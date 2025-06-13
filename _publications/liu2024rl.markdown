@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024rl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19299"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19299'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated proficiency in utilizing
 various tools by coding, yet they face limitations in handling intricate logic

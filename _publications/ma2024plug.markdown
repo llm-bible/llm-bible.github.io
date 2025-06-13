@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20996"}
-tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20996'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Recently, preference optimization methods such as DPO have significantly
 enhanced large language models (LLMs) in wide tasks including dialogue and

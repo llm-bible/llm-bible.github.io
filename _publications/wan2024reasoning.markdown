@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.17017"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.17017'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Self-Consistency mitigates hallucinations in Large Language Models (LLMs) by
 sampling multiple reasoning paths,but it lacks a systematic approach to

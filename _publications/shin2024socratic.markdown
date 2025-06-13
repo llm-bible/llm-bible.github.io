@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shin2024socratic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15190"}
-tags: ['Agentic', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15190'}
+tags: ['Agentic', 'ACL', 'In-Context Learning', 'Few-Shot', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'TACL']
 ---
 Embodied Instruction Following (EIF) is the task of executing natural
 language instructions by navigating and interacting with objects in interactive

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bajpai2024temporally
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14065"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14065'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 The prolific use of Large Language Models (LLMs) as an alternate knowledge
 base requires them to be factually consistent, necessitating both correctness

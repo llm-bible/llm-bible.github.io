@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023massive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04661"}
-  - {name: "Code", url: "https://github.com/ChenmienTan/malmen"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04661'}
+  - {name: "Code", url: 'https://github.com/ChenmienTan/malmen'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'GPT', 'Pre-Training']
 ---
 While large language models (LLMs) have enabled learning knowledge from the
 pre-training corpora, the acquired knowledge may be fundamentally incorrect or

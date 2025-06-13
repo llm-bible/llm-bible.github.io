@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023amortizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04363"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04363'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Autoregressive large language models (LLMs) compress knowledge from their
 training data through next-token conditional distributions. This limits

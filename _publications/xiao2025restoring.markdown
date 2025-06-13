@@ -6,8 +6,8 @@ conference: "ICML 2025"
 year: 2025
 bibkey: xiao2025restoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01997"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01997'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 One of the key technologies for the success of Large Language Models (LLMs)
 is preference alignment. However, a notable side effect of preference alignment

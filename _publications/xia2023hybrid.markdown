@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xia2023hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04215"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04215'}
 tags: ['RAG', 'Applications']
 ---
 Large language models (LLMs) enhanced with retrieval augmentation has shown

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024r
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01661"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01661'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture']
 ---
 Query rewrite is essential for optimizing SQL queries to improve their
 execution efficiency without changing their results. Traditionally, this task

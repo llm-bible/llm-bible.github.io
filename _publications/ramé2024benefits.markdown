@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramé2024benefits
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16768"}
-tags: ['Pre-Training', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16768'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 Reinforcement learning from human feedback (RLHF) aligns large language
 models (LLMs) by encouraging their generations to have high rewards, using a

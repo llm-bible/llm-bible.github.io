@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10819"}
-  - {name: "Code", url: "https://github.com/mit-han-lab/duo-attention"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10819'}
+  - {name: "Code", url: 'https://github.com/mit-han-lab/duo-attention'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Quantization', 'Pruning']
 ---
 Deploying long-context large language models (LLMs) is essential but poses
 significant computational and memory challenges. Caching all Key and Value (KV)

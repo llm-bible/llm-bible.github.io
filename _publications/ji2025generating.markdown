@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15183"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15183'}
+tags: ['Attention Mechanism', 'RAG', 'Tools', 'Model Architecture', 'Prompting', 'RecSys', 'Reinforcement Learning']
 ---
 Multi-modal recommender systems (MMRS) have gained significant attention due
 to their ability to leverage information from various modalities to enhance

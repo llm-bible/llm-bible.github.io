@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: das2020probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.01016"}
-tags: ['Agentic', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.01016'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Training Techniques']
 ---
 Recent work has shown how predictive modeling can endow agents with rich
 knowledge of their surroundings, improving their ability to act in complex

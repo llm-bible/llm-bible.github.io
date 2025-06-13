@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024feedback
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21349"}
-  - {name: "Code", url: "https://github.com/titurte/FALCON"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21349'}
+  - {name: "Code", url: 'https://github.com/titurte/FALCON'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have achieved significant progress in
 automated code generation. Despite their strong instruction-following

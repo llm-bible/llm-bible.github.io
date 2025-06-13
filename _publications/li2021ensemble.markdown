@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021ensemble
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.09665"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.09665'}
+tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Machine question answering is an essential yet challenging task in natural
 language processing. Recently, Pre-trained Contextual Embeddings (PCE) models

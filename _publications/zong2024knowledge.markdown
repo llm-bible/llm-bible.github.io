@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zong2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09131"}
-tags: ['Language Modeling', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09131'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated efficacy in various linguistic
 applications, including question answering and controlled text generation.

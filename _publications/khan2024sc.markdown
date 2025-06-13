@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khan2024sc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18989"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models', 'Prompting', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18989'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Quantization', 'Prompting', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper introduces SC-Phi2, a fine-tuned StarCraft II small language model
 for macromanagement tasks. Small language models, like Phi2, Gemma, and

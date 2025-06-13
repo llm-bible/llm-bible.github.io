@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15050"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Agent', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15050'}
+tags: ['Agentic', 'Agent', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Large Vision Language Models (VLMs) extend and enhance the perceptual
 abilities of Large Language Models (LLMs). Despite offering new possibilities

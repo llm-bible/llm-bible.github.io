@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08147"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08147'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved substantial progress in processing
 long contexts but still struggle with long-context reasoning. Existing

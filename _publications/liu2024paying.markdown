@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024paying
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2407.21771v1"}
-  - {name: "Code", url: "https://lalbj.github.io/projects/PAI/"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2407.21771v1'}
+  - {name: "Code", url: 'https://lalbj.github.io/projects/PAI/'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Multimodal Models', 'Ethics and Bias']
 ---
 Existing Large Vision-Language Models (LVLMs) primarily align image features
 of vision encoder with Large Language Models (LLMs) to leverage their superior

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dorka2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08755"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08755'}
+tags: ['RAG', 'Multimodal Models', 'Agentic', 'Training Techniques']
 ---
 Addressing the challenge of a digital assistant capable of executing a wide
 array of user tasks, our research focuses on the realm of instruction-based

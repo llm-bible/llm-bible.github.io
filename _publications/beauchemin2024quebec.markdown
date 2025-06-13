@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: beauchemin2024quebec
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09623"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09623'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) perform outstandingly in various downstream
 tasks, and the use of the Retrieval-Augmented Generation (RAG) architecture has

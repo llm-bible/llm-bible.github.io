@@ -6,9 +6,9 @@ conference: "Proceedings of the 40th International Conference on Machine Learnin
 year: 2023
 bibkey: liu2023deja
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17157"}
-  - {name: "Code", url: "https://github.com/FMInference/DejaVu"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17157'}
+  - {name: "Code", url: 'https://github.com/FMInference/DejaVu'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) with hundreds of billions of parameters have
 sparked a new wave of exciting AI applications. However, they are

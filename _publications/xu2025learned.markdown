@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025learned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10816"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10816'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Quantization', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In recent years, dense retrieval has been the focus of information retrieval
 (IR) research. While effective, dense retrieval produces uninterpretable dense

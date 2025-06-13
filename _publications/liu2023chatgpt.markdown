@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07799"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07799'}
+tags: ['Attention Mechanism', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large-scale language models, like ChatGPT, have garnered significant media
 attention and stunned the public with their remarkable capacity for generating

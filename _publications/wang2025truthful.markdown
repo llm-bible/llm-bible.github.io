@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025truthful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04556"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04556'}
 tags: ['RAG']
 ---
 Large language models (LLMs) are known to struggle with consistently

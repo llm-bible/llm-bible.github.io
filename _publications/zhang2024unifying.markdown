@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024unifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05361"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05361'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The high incidence and mortality rates associated with respiratory diseases
 underscores the importance of early screening. Machine learning models can

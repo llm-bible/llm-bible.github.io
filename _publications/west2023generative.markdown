@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: west2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00059"}
-tags: ['Security', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00059'}
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Security', 'Model Architecture']
 ---
 The recent wave of generative AI has sparked unprecedented global attention,
 with both excitement and concern over potentially superhuman levels of

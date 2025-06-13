@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00050"}
-tags: ['GPT', 'Prompting', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00050'}
+tags: ['Ethics and Bias', 'GPT', 'Prompting', 'Model Architecture']
 ---
 In this study, we investigate the capabilities and inherent biases of
 advanced large language models (LLMs) such as GPT-3.5 and GPT-4 in the context

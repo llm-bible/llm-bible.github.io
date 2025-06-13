@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jian2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01562"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01562'}
 tags: ['RAG', 'Tools']
 ---
 Large language models (LLMs) are trained on data assumed to include natural

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yoon2024orchestrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19352"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19352'}
 tags: ['Tools']
 ---
 In this paper, we present a systematic effort to design, evaluate, and

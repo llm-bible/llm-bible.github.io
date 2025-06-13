@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16178"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16178'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) augmented with retrieval exhibit robust
 performance and extensive versatility by incorporating external contexts.

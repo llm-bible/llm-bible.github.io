@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19488"}
-  - {name: "Code", url: "https://github.com/zyang1580/CoLLM"}
-tags: ['RAG', 'Attention Mechanism', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19488'}
+  - {name: "Code", url: 'https://github.com/zyang1580/CoLLM'}
+tags: ['Attention Mechanism', 'RAG', 'Has Code', 'Model Architecture']
 ---
 Leveraging Large Language Models as Recommenders (LLMRec) has gained
 significant attention and introduced fresh perspectives in user preference

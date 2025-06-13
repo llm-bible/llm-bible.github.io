@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: duan2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.03159"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.03159'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Question Answering (QA) is the task of automatically answering questions
 posed by humans in natural languages. There are different settings to answer a

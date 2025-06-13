@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15438"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15438'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Retrieval-Augmented Generation (RAG) significantly improved the ability of

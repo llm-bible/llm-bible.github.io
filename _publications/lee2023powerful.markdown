@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023powerful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07317"}
-tags: ['Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07317'}
+tags: ['Training Techniques', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present \\(\textbf\{Platypus\}\\), a family of fine-tuned and merged Large
 Language Models (LLMs) that achieves the strongest performance and currently

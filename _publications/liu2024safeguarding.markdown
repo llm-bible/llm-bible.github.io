@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024safeguarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.21123"}
-tags: ['Fine-Tuning', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.21123'}
+tags: ['Language Modeling', 'RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As large language models (LLMs) increasingly depend on web-scraped datasets,
 concerns arise over their potential to generate verbatim training content with

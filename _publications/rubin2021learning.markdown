@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rubin2021learning
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2112.08633v2"}
-tags: ['Applications', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2112.08633v2'}
+tags: ['Applications', 'Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 In-context learning is a recent paradigm in natural language understanding,
 where a large pre-trained language model (LM) observes a test instance and a

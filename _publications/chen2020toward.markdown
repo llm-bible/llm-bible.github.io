@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chen2020toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.06015"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.06015'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Knowledge graph (KG) question generation (QG) aims to generate natural
 language questions from KGs and target answers. Previous works mostly focus on

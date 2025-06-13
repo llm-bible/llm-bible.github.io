@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024diversifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00143"}
-  - {name: "Code", url: "https://github.com/TensorsSun/RGTR"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00143'}
+  - {name: "Code", url: 'https://github.com/TensorsSun/RGTR'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Temporal sentence grounding is a challenging task that aims to localize the
 moment spans relevant to a language description. Although recent DETR-based

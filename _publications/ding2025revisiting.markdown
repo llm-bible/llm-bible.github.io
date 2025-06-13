@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ding2025revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01542"}
-tags: ['Efficiency and Optimization', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01542'}
+tags: ['Pruning', 'Efficiency and Optimization']
 ---
 Model pruning technique is vital for accelerating large language models by
 reducing their size and computational requirements. However, the

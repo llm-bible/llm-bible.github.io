@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: razzhigaev2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15007"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15007'}
 tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We introduce methods to quantify how Large Language Models (LLMs) encode and

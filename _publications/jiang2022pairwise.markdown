@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: jiang2022pairwise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10555"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10555'}
+tags: ['GPT', 'WMT', 'Applications', 'Model Architecture']
 ---
 Pre-trained language models have been successful in natural language
 generation (NLG) tasks. While various decoding methods have been employed, they

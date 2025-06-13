@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: siyan2024privacy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17127"}
-  - {name: "Code", url: "https://github.com/siyan-sylvia-li/PAPILLON"}
-tags: ['Tools', 'Efficiency and Optimization', 'Merging', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17127'}
+  - {name: "Code", url: 'https://github.com/siyan-sylvia-li/PAPILLON'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Merging', 'Prompting']
 ---
 Users can divulge sensitive information to proprietary LLM providers, raising
 significant privacy concerns. While open-source models, hosted locally on the

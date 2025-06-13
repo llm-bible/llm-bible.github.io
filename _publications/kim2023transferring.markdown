@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023transferring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.02903"}
-tags: ['Pre-Training', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.02903'}
+tags: ['Training Techniques', 'Prompting', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Despite surprising performance on zero-shot transfer, pre-training a
 large-scale multimodal model is often prohibitive as it requires a huge amount

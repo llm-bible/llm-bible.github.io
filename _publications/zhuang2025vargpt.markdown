@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhuang2025vargpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02949"}
-  - {name: "Code", url: "https://github.com/VARGPT-family/VARGPT-v1.1"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02949'}
+  - {name: "Code", url: 'https://github.com/VARGPT-family/VARGPT-v1.1'}
+tags: ['Agentic', 'Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this work, we present VARGPT-v1.1, an advanced unified visual
 autoregressive model that builds upon our previous framework VARGPT. The model

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: cui2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.08177"}
-  - {name: "Code", url: "https://github.com/ymcui/Chinese-LLaMA-Alpaca"}
-  - {name: "Code", url: "https://github.com/ymcui/Chinese-LLaMA-Alpaca-2"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.08177'}
+  - {name: "Code", url: 'https://github.com/ymcui/Chinese-LLaMA-Alpaca'}
+  - {name: "Code", url: 'https://github.com/ymcui/Chinese-LLaMA-Alpaca-2'}
+tags: ['Has Code', 'ACL', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training', 'TACL']
 ---
 Large Language Models (LLMs), such as ChatGPT and GPT-4, have dramatically
 transformed natural language processing research and shown promising strides

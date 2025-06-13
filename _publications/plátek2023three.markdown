@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: plátek2023three
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.06502"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.06502'}
 tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This paper describes the systems submitted by team6 for ChatEval, the DSTC 11

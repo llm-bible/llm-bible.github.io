@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: le2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02971"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02971'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In Visual Document Understanding (VDU) tasks, fine-tuning a pre-trained
 Vision-Language Model (VLM) with new datasets often falls short in optimizing

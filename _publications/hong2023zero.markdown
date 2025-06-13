@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hong2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05584"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05584'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have emerged as powerful and general solutions
 to many natural language tasks. However, many of the most important

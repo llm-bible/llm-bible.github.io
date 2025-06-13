@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024deconfounded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02686"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02686'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable efficiency in
 tackling various tasks based on human instructions, but studies reveal that

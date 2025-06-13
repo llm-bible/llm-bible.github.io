@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2018
 bibkey: alon2018generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.01400"}
-  - {name: "Code", url: "http://code2seq.org"}
-  - {name: "Code", url: "http://github.com/tech-srl/code2seq"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.01400'}
+  - {name: "Code", url: 'http://code2seq.org'}
+  - {name: "Code", url: 'http://github.com/tech-srl/code2seq'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The ability to generate natural language sequences from source code snippets
 has a variety of applications such as code summarization, documentation, and

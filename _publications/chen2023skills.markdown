@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023skills
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.00304"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00304'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 We investigate how to elicit compositional generalization capabilities in
 large language models (LLMs). Compositional generalization empowers LLMs to

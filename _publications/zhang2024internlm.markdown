@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024internlm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03320"}
-  - {name: "Code", url: "https://github.com/InternLM/InternLM-XComposer"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03320'}
+  - {name: "Code", url: 'https://github.com/InternLM/InternLM-XComposer'}
+tags: ['Has Code', 'Model Architecture', 'Applications', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We present InternLM-XComposer-2.5 (IXC-2.5), a versatile large-vision
 language model that supports long-contextual input and output. IXC-2.5 excels

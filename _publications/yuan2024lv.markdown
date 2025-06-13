@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024lv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05136"}
-  - {name: "Code", url: "https://github.com/infinigence/LVEval"}
-tags: ['RAG', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05136'}
+  - {name: "Code", url: 'https://github.com/infinigence/LVEval'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Ethics and Bias']
 ---
 State-of-the-art large language models (LLMs) are now claiming remarkable
 supported context lengths of 256k or even more. In contrast, the average

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: razin2025what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15477"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15477'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization']
 ---
 The success of Reinforcement Learning from Human Feedback (RLHF) critically
 depends on the quality of the reward model. While this quality is primarily

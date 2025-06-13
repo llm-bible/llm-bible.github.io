@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: valmeekam2023planning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15771"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15771'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Intrigued by the claims of emergent reasoning capabilities in LLMs trained on
 general web corpora, in this paper, we set out to investigate their planning

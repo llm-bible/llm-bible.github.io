@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: agarwal2025hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17767"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17767'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pruning', 'Pretraining Methods']
 ---
 Answering questions that require reasoning and aggregation across both
 structured (tables) and unstructured (raw text) data sources presents

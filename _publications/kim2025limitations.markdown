@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025limitations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04381"}
-tags: ['Security', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04381'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) have attained human-level accuracy on medical
 question-answer (QA) benchmarks. However, their limitations in navigating

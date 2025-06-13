@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: palenmichel2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12779"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12779'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Merging', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 The emergence of Large Language Models (LLMs) has revolutionized natural
 language processing in various applications especially in e-commerce. One

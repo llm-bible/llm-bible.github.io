@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kruff2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02560"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02560'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The use of Large Language Models (LLMs) for simulating user behavior in the
 domain of Interactive Information Retrieval has recently gained significant

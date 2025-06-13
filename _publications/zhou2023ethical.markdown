@@ -6,8 +6,8 @@ conference: "Electronics 2024"
 year: 2023
 bibkey: zhou2023ethical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10646"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10646'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models, e.g. ChatGPT are currently contributing enormously to
 make artificial intelligence even more popular, especially among the general

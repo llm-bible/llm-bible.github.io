@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: grzybowski2024polish
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00559"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00559'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated significant potential in

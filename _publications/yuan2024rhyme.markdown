@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024rhyme
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10130"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10130'}
 tags: ['GPT', 'Model Architecture']
 ---
 Neural language representation models such as GPT, pre-trained on large-scale

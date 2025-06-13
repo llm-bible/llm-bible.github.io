@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jaiswal2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00821"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00821'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) demonstrate remarkable capabilities in various

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: labruna2023unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14556"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14556'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large pre-trained language models have exhibited unprecedented capabilities
 in producing high-quality text via prompting techniques. This fact introduces

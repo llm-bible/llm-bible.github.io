@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gui2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10365"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10365'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'GPT', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Transformer-based large language models (e.g., BERT and GPT) achieve great
 success, and fine-tuning, which tunes a pre-trained model on a task-specific

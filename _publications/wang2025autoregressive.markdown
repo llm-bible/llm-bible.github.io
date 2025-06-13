@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11128"}
-tags: ['RAG', 'GPT', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11128'}
+tags: ['RAG', 'Language Modeling', 'GPT', 'Pretraining Methods']
 ---
 To advance continuous-valued token modeling and temporal-coherence
 enforcement, we propose FELLE, an autoregressive model that integrates language

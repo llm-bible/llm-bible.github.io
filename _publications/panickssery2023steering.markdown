@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: panickssery2023steering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06681"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06681'}
 tags: ['RAG', 'Prompting']
 ---
 We introduce Contrastive Activation Addition (CAA), an innovative method for

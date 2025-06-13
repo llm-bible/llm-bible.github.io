@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: srivastava2023instances
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02107"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02107'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) have revolutionized zero-shot task performance,

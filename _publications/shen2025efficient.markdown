@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shen2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20952"}
-tags: ['Fine-Tuning', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20952'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the widespread application of Large Language Models across various
 domains, their security issues have increasingly garnered significant attention

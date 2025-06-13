@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15862"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15862'}
 tags: ['Prompting']
 ---
 It has been well-known that Chain-of-Thought can remarkably enhance LLMs'

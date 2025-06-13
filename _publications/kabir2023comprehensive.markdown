@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kabir2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13173"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13173'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have emerged as one of the most important

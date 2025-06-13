@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025orchestrate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23830"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23830'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs), such as GPT-4o, are garnering
 significant attention. During the exploration of MLLM training, we identified

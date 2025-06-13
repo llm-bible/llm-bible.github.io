@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: xie2022unifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.05966"}
-  - {name: "Code", url: "https://github.com/hkunlp/unifiedskg"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.05966'}
+  - {name: "Code", url: 'https://github.com/hkunlp/unifiedskg'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Tools']
 ---
 Structured knowledge grounding (SKG) leverages structured knowledge to
 complete user requests, such as semantic parsing over databases and question

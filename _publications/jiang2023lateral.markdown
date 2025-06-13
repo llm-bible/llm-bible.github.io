@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023lateral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05057"}
-tags: ['Security', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05057'}
+tags: ['Attention Mechanism', 'Security', 'Applications', 'Model Architecture']
 ---
 The success of language models has inspired the NLP community to attend to
 tasks that require implicit and complex reasoning, relying on human-like

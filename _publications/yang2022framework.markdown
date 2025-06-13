@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2022
 bibkey: yang2022framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08097"}
-  - {name: "Code", url: "https://guanqun-yang.github.io/testaug/)"}
-  - {name: "Code", url: "https://github.com/guanqun-yang/testaug)"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08097'}
+  - {name: "Code", url: 'https://guanqun-yang.github.io/testaug/)'}
+  - {name: "Code", url: 'https://github.com/guanqun-yang/testaug)'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT']
 ---
 The recently proposed capability-based NLP testing allows model developers to
 test the functional capabilities of NLP models, revealing functional failures

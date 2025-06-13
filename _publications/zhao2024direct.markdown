@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04787"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04787'}
 tags: ['Training Techniques']
 ---
 Although recent quantized Large Language Models (LLMs), such as BitNet, have

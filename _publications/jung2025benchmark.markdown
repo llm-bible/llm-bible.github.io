@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jung2025benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19540"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Security', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19540'}
+tags: ['Security', 'Fairness', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 enhanced interactions between users and models. These advancements concurrently

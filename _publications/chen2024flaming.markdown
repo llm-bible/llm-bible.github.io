@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024flaming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21236"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21236'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 Since the release of ChatGPT, large language models (LLMs) have demonstrated
 remarkable capabilities across various domains. A key challenge in developing

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: muennighoff2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09906"}
-  - {name: "Code", url: "https://github.com/ContextualAI/gritlm"}
-tags: ['RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09906'}
+  - {name: "Code", url: 'https://github.com/ContextualAI/gritlm'}
+tags: ['RAG', 'Has Code', 'Training Techniques']
 ---
 All text-based language problems can be reduced to either generation or
 embedding. Current models only perform well at one or the other. We introduce

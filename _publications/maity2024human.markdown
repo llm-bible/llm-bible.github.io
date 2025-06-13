@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maity2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19822"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19822'}
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 As artificial intelligence (AI) becomes more integrated into educational
 environments, how can we ensure that these systems are both understandable and

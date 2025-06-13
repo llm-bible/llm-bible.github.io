@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: monazzah2025story
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07459"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07459'}
 tags: ['Training Techniques']
 ---
 Large language models predominantly reflect Western cultures, largely due to

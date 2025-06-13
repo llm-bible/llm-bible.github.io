@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03176"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03176'}
 tags: ['Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have achieved impressive performance,

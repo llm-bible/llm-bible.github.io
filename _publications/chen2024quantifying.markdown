@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18346"}
-  - {name: "Code", url: "https://github.com/OpenCausaLab/MORE"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18346'}
+  - {name: "Code", url: 'https://github.com/OpenCausaLab/MORE'}
+tags: ['Agentic', 'Has Code', 'Tools', 'Applications', 'Multimodal Models', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent advancements in Large Language Models (LLMs) have facilitated the
 development of Multimodal LLMs (MLLMs). Despite their impressive capabilities,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00461"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00461'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods']
 ---
 With the rapid advent of generative models, efficiently deploying these
 models on specialized hardware has become critical. Tensor Processing Units

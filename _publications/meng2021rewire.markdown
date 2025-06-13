@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: meng2021rewire
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.08173"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.08173'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Knowledge probing is crucial for understanding the knowledge transfer
 mechanism behind the pre-trained language models (PLMs). Despite the growing

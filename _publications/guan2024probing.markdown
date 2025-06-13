@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13461"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13461'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Vision-language pretraining (VLP) with transformers has demonstrated
 exceptional performance across numerous multimodal tasks. However, the

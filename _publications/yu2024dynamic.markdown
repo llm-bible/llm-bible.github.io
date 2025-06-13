@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23605"}
-tags: ['Pre-Training', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23605'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning']
 ---
 Large language models (LLMs) can learn vast amounts of knowledge from diverse
 domains during pre-training. However, long-tail knowledge from specialized

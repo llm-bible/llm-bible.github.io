@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ge2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20712"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20712'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 End-user development allows everyday users to tailor service robots or
 applications to their needs. One user-friendly approach is natural language

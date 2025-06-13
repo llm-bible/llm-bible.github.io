@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shukor2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00647"}
-  - {name: "Code", url: "https://github.com/mshukor/EvALign-ICL"}
-tags: ['Agentic', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00647'}
+  - {name: "Code", url: 'https://github.com/mshukor/EvALign-ICL'}
+tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability', 'In-Context Learning']
 ---
 Following the success of Large Language Models (LLMs), Large Multimodal
 Models (LMMs), such as the Flamingo model and its subsequent competitors, have

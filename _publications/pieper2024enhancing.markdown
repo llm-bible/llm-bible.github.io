@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pieper2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12599"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12599'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper explores the enhancement of small language models through
 strategic dataset augmentation via ChatGPT-3.5-Turbo, in the domain of Natural

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fonseca2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08704"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08704'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Although large language models (LLMs) exhibit remarkable capacity to leverage
 in-context demonstrations, it is still unclear to what extent they can learn

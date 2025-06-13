@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shamsfard2025farseval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14690"}
-tags: ['Responsible AI', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14690'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Ethics and Bias', 'Responsible AI']
 ---
 Research on evaluating and analyzing large language models (LLMs) has been
 extensive for resource-rich languages such as English, yet their performance in

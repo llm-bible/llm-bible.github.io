@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nachane2024few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04890"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04890'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 In this paper, we propose a modified version of the MedQA-USMLE dataset,
 named MEDQA-OPEN, which contains open-ended medical questions without options

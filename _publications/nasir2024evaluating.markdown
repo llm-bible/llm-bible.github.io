@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nasir2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07765"}
-  - {name: "Code", url: "https://github.com/umair-nasir14/Game-Traversal-Benchmark"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07765'}
+  - {name: "Code", url: 'https://github.com/umair-nasir14/Game-Traversal-Benchmark'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) have recently demonstrated great success in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04190"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04190'}
+tags: ['Training Techniques', 'RAG', 'Reinforcement Learning', 'Applications']
 ---
 The recent surge in research focused on generating synthetic data from large
 language models (LLMs), especially for scenarios with limited data

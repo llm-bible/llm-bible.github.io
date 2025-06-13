@@ -6,8 +6,8 @@ conference: "ResMilitaris 2022"
 year: 2025
 bibkey: agrawal2025conversation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02249"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02249'}
+tags: ['RAG', 'Security', 'Applications', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive capabilities in natural
 language processing tasks, including dialogue generation. This research aims to

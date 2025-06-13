@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: thede2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05683"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05683'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Keeping large language models factually up-to-date is crucial for deployment,
 yet costly retraining remains a challenge. Knowledge editing offers a promising

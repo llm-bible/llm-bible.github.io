@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024hdl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.18423"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.18423'}
+tags: ['Interpretability and Explainability', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 This paper presents Hardware Description Language Generative Pre-trained
 Transformers (HDL-GPT), a novel approach that leverages the vast repository of

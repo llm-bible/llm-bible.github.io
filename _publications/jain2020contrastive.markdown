@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: jain2020contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.04973"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.04973'}
+tags: ['Security', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Pre-Training']
 ---
 Recent work learns contextual representations of source code by
 reconstructing tokens from their context. For downstream semantic understanding

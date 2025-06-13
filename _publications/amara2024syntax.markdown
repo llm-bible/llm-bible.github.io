@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amara2024syntax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09259"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09259'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Applications', 'Interpretability', 'Responsible AI', 'Pretraining Methods']
 ---
 To harness the power of large language models in safety-critical domains, we
 need to ensure the explainability of their predictions. However, despite the

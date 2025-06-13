@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: munakata2024multiple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17173"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17173'}
 tags: ['Prompting', 'Merging']
 ---
 Large language models (LLMs) often fabricate a hallucinatory text. Several

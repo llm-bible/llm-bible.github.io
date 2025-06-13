@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024resources
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14567"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14567'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Retrieval-augmented generation (RAG) has become integral to large language
 models (LLMs), particularly for conversational AI systems where user questions

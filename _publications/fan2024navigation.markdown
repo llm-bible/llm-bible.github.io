@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024navigation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15087"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15087'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Prompting']
 ---
 Navigation instruction generation, which requires embodied agents to describe
 the navigation routes, has been of great interest in robotics and

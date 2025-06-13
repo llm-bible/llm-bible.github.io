@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: konen2024style
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01618"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01618'}
+tags: ['Prompting', 'Training Techniques']
 ---
 This research explores strategies for steering the output of large language
 models (LLMs) towards specific styles, such as sentiment, emotion, or writing

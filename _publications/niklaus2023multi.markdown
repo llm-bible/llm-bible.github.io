@@ -6,8 +6,8 @@ conference: "EMNLP Findings 2023"
 year: 2023
 bibkey: niklaus2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.13126"}
-tags: ['Transformer', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.13126'}
+tags: ['Transformer', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Lately, propelled by the phenomenal advances around the transformer
 architecture, the legal NLP field has enjoyed spectacular growth. To measure

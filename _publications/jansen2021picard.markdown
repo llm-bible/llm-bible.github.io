@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: jansen2021picard
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.08146"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.08146'}
 tags: ['Applications']
 ---
 Tamarian, a fictional language introduced in the Star Trek episode Darmok,

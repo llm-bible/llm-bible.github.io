@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08045"}
-  - {name: "Code", url: "https://github.com/Linear95/APO"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08045'}
+  - {name: "Code", url: 'https://github.com/Linear95/APO'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Human preference alignment is essential to improve the interaction quality of
 large language models (LLMs). Existing alignment methods depend on manually

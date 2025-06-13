@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fonseca2025safeguarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02018"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02018'}
+tags: ['Language Modeling', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Applications', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have been shown to be susceptible to jailbreak
 attacks, or adversarial attacks used to illicit high risk behavior from a

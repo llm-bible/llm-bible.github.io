@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sundararaman2022pseudo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.09132"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.09132'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 While pre-trained large-scale deep models have garnered attention as an
 important topic for many downstream natural language processing (NLP) tasks,

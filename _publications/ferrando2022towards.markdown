@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ferrando2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11631"}
-tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11631'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 In Neural Machine Translation (NMT), each token prediction is conditioned on
 the source sentence and the target prefix (what has been previously translated

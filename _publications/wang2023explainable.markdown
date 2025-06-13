@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023explainable
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.07652v2"}
-  - {name: "Code", url: "https://github.com/demoleiwang/LLM4Vis}{https://github.com/demoleiwang/LLM4Vis"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.07652v2'}
+  - {name: "Code", url: 'https://github.com/demoleiwang/LLM4Vis}{https://github.com/demoleiwang/LLM4Vis'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Data visualization is a powerful tool for exploring and communicating
 insights in various domains. To automate visualization choice for datasets, a

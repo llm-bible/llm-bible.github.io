@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11065"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11065'}
 tags: ['GPT', 'Model Architecture']
 ---
 Emphasis is a crucial component in human communication, which indicates the

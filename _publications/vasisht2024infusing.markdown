@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vasisht2024infusing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01481"}
-tags: ['Pre-Training', 'Applications', 'Merging', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01481'}
+tags: ['Training Techniques', 'Applications', 'Merging', 'Prompting', 'Pre-Training']
 ---
 Knowledge infusion is a promising method for enhancing Large Language Models
 for domain-specific NLP tasks rather than pre-training models over large data

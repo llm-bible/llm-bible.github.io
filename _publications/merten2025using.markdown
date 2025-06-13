@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: merten2025using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07557"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07557'}
 tags: ['Uncategorized']
 ---
 Recent research in Large Language Models (LLMs), has had a profound impact

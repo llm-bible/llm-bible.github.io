@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023teaching
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.18752v1"}
-  - {name: "Code", url: "https://github.com/StevenGrove/GPT4Tools"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.18752v1'}
+  - {name: "Code", url: 'https://github.com/StevenGrove/GPT4Tools'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 This paper aims to efficiently enable Large Language Models (LLMs) to use
 multimodal tools. Advanced proprietary LLMs, such as ChatGPT and GPT-4, have

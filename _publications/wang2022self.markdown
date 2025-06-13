@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022self
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2203.11171v4"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2203.11171v4'}
 tags: ['RAG', 'Prompting']
 ---
 Chain-of-thought prompting combined with pre-trained large language models

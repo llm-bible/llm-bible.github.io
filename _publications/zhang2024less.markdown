@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19694"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19694'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning Large Language Models (LLMs) has become a crucial technique for
 adapting pre-trained models to downstream tasks. However, the enormous size of

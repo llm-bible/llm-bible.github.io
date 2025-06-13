@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: liu2017inverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1710.03370"}
-tags: ['Applications', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1710.03370'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Applications', 'Model Architecture']
 ---
 We propose the inverse problem of Visual question answering (iVQA), and
 explore its suitability as a benchmark for visuo-linguistic understanding. The

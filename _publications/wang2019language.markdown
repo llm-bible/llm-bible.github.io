@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wang2019language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1904.09408"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1904.09408'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'BERT', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 The Transformer architecture is superior to RNN-based models in computational
 efficiency. Recently, GPT and BERT demonstrate the efficacy of Transformer

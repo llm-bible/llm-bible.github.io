@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dou2025sailing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12982"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12982'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning', 'Pre-Training']
 ---
 Sailor2 is a family of cutting-edge multilingual language models for
 South-East Asian (SEA) languages, available in 1B, 8B, and 20B sizes to suit

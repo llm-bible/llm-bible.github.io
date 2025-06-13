@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024weak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13647"}
-  - {name: "Code", url: "https://github.com/GAIR-NLP/weak-to-strong-reasoning"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13647'}
+  - {name: "Code", url: 'https://github.com/GAIR-NLP/weak-to-strong-reasoning'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 When large language models (LLMs) exceed human-level capabilities, it becomes
 increasingly challenging to provide full-scale and accurate supervision for

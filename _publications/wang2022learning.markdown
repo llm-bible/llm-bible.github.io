@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.04287"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.04287'}
+tags: ['RAG', 'Security', 'Model Architecture', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Pre-Training']
 ---
 Recent advances in pre-training vision-language models like CLIP have shown
 great potential in learning transferable visual representations. Nonetheless,

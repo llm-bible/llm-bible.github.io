@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nguyen2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10690"}
-tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10690'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT']
 ---
 Student modeling is central to many educational technologies as it enables
 predicting future learning outcomes and designing targeted instructional

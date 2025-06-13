@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15225"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15225'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Reinforcement Learning', 'Model Architecture']
 ---
 In this work, we introduce a novel approach called Scaling to Emphasize
 Attention for Long-context retrieval (SEAL), which enhances the retrieval

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: phogat2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14722"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14722'}
+tags: ['Transformer', 'Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce a large language model (LLM) based approach to answer complex
 questions requiring multi-hop numerical reasoning over financial reports. While

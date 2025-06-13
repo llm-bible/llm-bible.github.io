@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: parisi2022tool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.12255"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.12255'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Transformer based language models (LMs) demonstrate increasing performance
 with scale across a wide variety of tasks. Scale alone however cannot enable

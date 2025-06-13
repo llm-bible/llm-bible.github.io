@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: mao2025through
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10183"}
-  - {name: "Code", url: "https://github.com/ShunqiM/PM"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10183'}
+  - {name: "Code", url: 'https://github.com/ShunqiM/PM'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Ethics and Bias']
 ---
 Existing vision-language models (VLMs) often suffer from visual
 hallucination, where the generated responses contain inaccuracies that are not

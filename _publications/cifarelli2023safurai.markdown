@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cifarelli2023safurai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03243"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03243'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces Safurai-Csharp, an open-source model designed to
 specialize in the generation, completion, and debugging of C# code.

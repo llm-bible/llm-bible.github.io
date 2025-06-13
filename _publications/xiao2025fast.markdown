@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiao2025fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17999"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17999'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Tools']
 ---
 Generative conversational interfaces powered by large language models (LLMs)
 typically stream output token-by-token at a rate determined by computational

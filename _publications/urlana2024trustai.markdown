@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: urlana2024trustai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16592"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16592'}
 tags: ['Uncategorized']
 ---
 The Large Language Models (LLMs) exhibit remarkable ability to generate

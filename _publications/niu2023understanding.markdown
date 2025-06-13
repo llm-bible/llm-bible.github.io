@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: niu2023understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14782"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14782'}
 tags: ['RAG', 'Prompting']
 ---
 In the burgeoning domain of Large Language Models (LLMs), there is a growing

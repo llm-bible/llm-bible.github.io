@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: du2023regenerate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04673"}
-tags: ['Transformer', 'INTERSPEECH', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04673'}
+tags: ['Transformer', 'RAG', 'INTERSPEECH', 'Model Architecture', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 Generative Pre-trained Transformer (GPT) models have achieved remarkable
 performance on various natural language processing tasks, and have shown great

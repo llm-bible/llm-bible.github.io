@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04199"}
-tags: ['Applications', 'Tools', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04199'}
+tags: ['Language Modeling', 'Applications', 'Tools']
 ---
 Current long-context benchmarks primarily focus on retrieval-based tests,
 requiring Large Language Models (LLMs) to locate specific information within

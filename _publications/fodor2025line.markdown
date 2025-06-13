@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fodor2025line
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14318"}
-tags: ['Interpretability and Explainability', 'Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14318'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Security', 'Tools']
 ---
 Large language models (LLMs) regularly demonstrate new and impressive
 performance on a wide range of language, knowledge, and reasoning benchmarks.

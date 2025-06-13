@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025mygo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13117"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13117'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Survey Paper', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have demonstrated their
 impressive abilities in various reasoning and decision-making tasks. However,

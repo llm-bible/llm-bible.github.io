@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07272"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07272'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Security', 'Tools', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt-based pre-trained language models (PLMs) paradigm have succeeded
 substantially in few-shot natural language processing (NLP) tasks. However,

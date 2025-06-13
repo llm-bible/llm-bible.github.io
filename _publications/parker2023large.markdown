@@ -6,8 +6,8 @@ conference: "Int J Artif Intell Educ (2024)"
 year: 2023
 bibkey: parker2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.17447"}
-tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.17447'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper assesses the potential for the large language models (LLMs) GPT-4
 and GPT-3.5 to aid in deriving insight from education feedback surveys.

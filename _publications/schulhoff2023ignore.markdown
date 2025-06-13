@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: schulhoff2023ignore
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16119"}
-tags: ['Security', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16119'}
+tags: ['Prompting', 'Security', 'Applications']
 ---
 Large Language Models (LLMs) are deployed in interactive contexts with direct
 user engagement, such as chatbots and writing assistants. These deployments are

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhowmick2023automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15004"}
-tags: ['Transformer', 'Tools', 'Survey Paper', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15004'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Tools', 'Survey Paper', 'Pretraining Methods']
 ---
 The use of question-based activities (QBAs) is wide-spread in education,
 traditionally forming an integral part of the learning and assessment process.

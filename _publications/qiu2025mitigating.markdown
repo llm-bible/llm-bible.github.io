@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiu2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11603"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11603'}
+tags: ['Security', 'Efficiency and Optimization', 'Model Architecture', 'Fairness', 'GPT', 'Prompting', 'Multimodal Models', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) exhibit strong natural language processing
 capabilities but also inherit and amplify societal biases, including gender

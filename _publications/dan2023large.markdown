@@ -6,12 +6,12 @@ conference: "Arxiv"
 year: 2023
 bibkey: dan2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.02773"}
-  - {name: "Code", url: "https://www.educhat.top/)"}
-  - {name: "Code", url: "https://github.com/icalk-nlp/EduChat,"}
-  - {name: "Code", url: "https://huggingface.co/ecnu-icalk"}
-  - {name: "Code", url: "https://vimeo.com/851004454)"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.02773'}
+  - {name: "Code", url: 'https://www.educhat.top/)'}
+  - {name: "Code", url: 'https://github.com/icalk-nlp/EduChat,'}
+  - {name: "Code", url: 'https://huggingface.co/ecnu-icalk'}
+  - {name: "Code", url: 'https://vimeo.com/851004454)'}
+tags: ['Has Code', 'Tools', 'Applications', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 EduChat (https://www.educhat.top/) is a large-scale language model
 (LLM)-based chatbot system in the education domain. Its goal is to support

@@ -6,8 +6,8 @@ conference: "CVPR2022 Workshop on Open-Domain Retrieval Under a Multi-Modal Sett
 year: 2019
 bibkey: lu2019textual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.09134"}
-tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.09134'}
+tags: ['Attention Mechanism', 'Agentic', 'Security', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 Multiple-choice VQA has drawn increasing attention from researchers and
 end-users recently. As the demand for automatically constructing large-scale

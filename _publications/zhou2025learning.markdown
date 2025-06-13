@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04960"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Merging', 'RecSys', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04960'}
+tags: ['RAG', 'Efficiency and Optimization', 'Merging', 'RecSys', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Conventional multimodal recommender systems predominantly leverage Bayesian
 Personalized Ranking (BPR) optimization to learn item representations by

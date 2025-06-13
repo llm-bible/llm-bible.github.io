@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024mentor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09037"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09037'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have displayed remarkable performances across
 various complex tasks by leveraging Chain-of-Thought (CoT) prompting. Recently,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: anand2024critical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11930"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11930'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models trained on code corpora (code-LLMs) have demonstrated
 impressive performance in various coding assistance tasks. However, despite

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14751"}
-  - {name: "Code", url: "https://github.com/bytarnish/AGILE"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14751'}
+  - {name: "Code", url: 'https://github.com/bytarnish/AGILE'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
 ---
 We introduce a novel reinforcement learning framework of LLM agents named
 AGILE (AGent that Interacts and Learns from Environments) designed to perform

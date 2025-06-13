@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: parcalabescu2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18624"}
-tags: ['Interpretability and Explainability', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18624'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Multimodal Models', 'Model Architecture']
 ---
 Vision and language model (VLM) decoders are currently the best-performing
 architectures on multimodal tasks. Next to answers, they are able to produce

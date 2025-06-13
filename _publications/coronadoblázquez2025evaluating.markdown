@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: coronadoblázquez2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21613"}
-tags: ['BERT', 'Applications', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21613'}
+tags: ['Ethics and Bias', 'BERT', 'Applications', 'Model Architecture']
 ---
 We study the ability of large language models (LLMs) to generate
 comprehensive and accurate book summaries solely from their internal knowledge,

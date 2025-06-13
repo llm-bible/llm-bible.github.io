@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ilager2025green
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11006"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11006'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are becoming integral to daily life, showcasing
 their vast potential across various Natural Language Processing (NLP) tasks.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: kim2018improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.02393"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.02393'}
 tags: ['Uncategorized']
 ---
 Neural question generation (NQG) is the task of generating a question from a

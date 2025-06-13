@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: min2025propaganda
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12344"}
-  - {name: "Code", url: "https://github.com/NayMyatMin/RAVEN"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12344'}
+  - {name: "Code", url: 'https://github.com/NayMyatMin/RAVEN'}
+tags: ['Has Code', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) demonstrate remarkable performance across myriad
 language tasks, yet they remain vulnerable to backdoor attacks, where

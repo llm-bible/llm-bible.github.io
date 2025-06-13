@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: hao2020ranking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.05640"}
-tags: ['Transformer', 'Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.05640'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools']
 ---
 How to effectively utilize the dialogue history is a crucial problem in
 multi-turn dialogue generation. Previous works usually employ various neural

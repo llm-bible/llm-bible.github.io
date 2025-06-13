@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024lab
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18986"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18986'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Accurate interpretation of lab results is crucial in clinical medicine, yet

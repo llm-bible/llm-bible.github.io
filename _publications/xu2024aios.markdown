@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024aios
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06907"}
-  - {name: "Code", url: "https://github.com/agiresearch/CoRE,"}
-  - {name: "Code", url: "https://github.com/agiresearch/OpenAGI,"}
-  - {name: "Code", url: "https://github.com/agiresearch/AIOS"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06907'}
+  - {name: "Code", url: 'https://github.com/agiresearch/CoRE,'}
+  - {name: "Code", url: 'https://github.com/agiresearch/OpenAGI,'}
+  - {name: "Code", url: 'https://github.com/agiresearch/AIOS'}
 tags: ['Agentic', 'Has Code', 'Tools']
 ---
 Since their inception, programming languages have trended towards greater

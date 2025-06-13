@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zan2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14399"}
-  - {name: "Code", url: "https://github.com/alphadl/LanguageAware_Tuning"}
-tags: ['Fine-Tuning', 'RAG', 'Prompting', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'SLT', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14399'}
+  - {name: "Code", url: 'https://github.com/alphadl/LanguageAware_Tuning'}
+tags: ['Has Code', 'SLT', 'Few-Shot', 'RAG', 'WMT', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Translation-tailored Large language models (LLMs) exhibit remarkable
 translation capabilities, even competing with supervised-trained commercial

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: suri2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06040"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06040'}
 tags: ['Training Techniques']
 ---
 The memorization of training data by Large Language Models (LLMs) poses

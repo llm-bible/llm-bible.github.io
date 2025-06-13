@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12736"}
-tags: ['Responsible AI', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12736'}
+tags: ['Ethics and Bias', 'Responsible AI']
 ---
 As the number of large language models (LLMs) released to the public grows,
 there is a pressing need to understand the safety implications associated with

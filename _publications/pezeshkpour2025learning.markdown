@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pezeshkpour2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17840"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17840'}
+tags: ['Pre-Training', 'Fine-Tuning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance on
 various tasks, yet their ability to extract and internalize deeper insights

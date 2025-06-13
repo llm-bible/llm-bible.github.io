@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.03609"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.03609'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Current literature demonstrates that Large Language Models (LLMs) are great
 few-shot learners, and prompting significantly increases their performance on a

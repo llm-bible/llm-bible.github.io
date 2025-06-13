@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023characterizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15419"}
-tags: ['Pre-Training', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15419'}
+tags: ['GPT', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 How do language models learn to make predictions during pre-training? To
 study this, we extract learning curves from five autoregressive English

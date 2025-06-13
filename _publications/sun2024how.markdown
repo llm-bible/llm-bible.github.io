@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12292"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12292'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 We analyze contextual representations in neural autoregressive language
 models, emphasizing long-range contexts that span several thousand tokens. Our

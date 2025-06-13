@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: poesia2022reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.11227"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.11227'}
+tags: ['Few-Shot', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large pre-trained language models have been used to generate code,providing a
 flexible interface for synthesizing programs from natural language

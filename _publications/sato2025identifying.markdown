@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sato2025identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22941"}
-tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22941'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'BERT', 'GPT', 'Multimodal Models', 'Interpretability', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) have led to the development
 of multimodal LLMs (MLLMs) in the fields of natural language processing (NLP)

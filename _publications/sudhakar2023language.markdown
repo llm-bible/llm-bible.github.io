@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sudhakar2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07687"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07687'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated superior performance in
 language understanding benchmarks. CALM, a popular approach, leverages

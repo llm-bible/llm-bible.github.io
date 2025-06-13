@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: son2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11548"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11548'}
 tags: ['GPT', 'Model Architecture']
 ---
 We propose KMMLU, a new Korean benchmark with 35,030 expert-level

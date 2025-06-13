@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fu2025empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12945"}
-tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12945'}
+tags: ['Language Modeling', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Popular Micro-videos, dominant on platforms like TikTok and YouTube, hold
 significant commercial value. The rise of high-quality AI-generated content has

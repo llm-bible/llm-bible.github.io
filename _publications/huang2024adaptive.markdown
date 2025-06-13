@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01474"}
-  - {name: "Code", url: "https://github.com/ictnlp/MoCE"}
-tags: ['Applications', 'Model Architecture', 'Attention Mechanism', 'Tokenization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01474'}
+  - {name: "Code", url: 'https://github.com/ictnlp/MoCE'}
+tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture', 'Tokenization']
 ---
 Byte-based machine translation systems have shown significant potential in
 massively multilingual settings. Unicode encoding, which maps each character to

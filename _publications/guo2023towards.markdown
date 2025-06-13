@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.02205"}
-  - {name: "Code", url: "https://github.com/MAPS-research/GEMRec"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'RecSys', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.02205'}
+  - {name: "Code", url: 'https://github.com/MAPS-research/GEMRec'}
+tags: ['Has Code', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'RecSys', 'Prompting']
 ---
 Recommender Systems are built to retrieve relevant items to satisfy users'
 information needs. The candidate corpus usually consists of a finite set of

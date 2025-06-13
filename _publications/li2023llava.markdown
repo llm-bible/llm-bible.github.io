@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00890"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00890'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Applications', 'Multimodal Models']
 ---
 Conversational generative AI has demonstrated remarkable promise for
 empowering biomedical practitioners, but current investigations focus on

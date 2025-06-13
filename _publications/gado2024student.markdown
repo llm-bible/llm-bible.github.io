@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gado2024student
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20079"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20079'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Intelligent Tutoring Systems (ITS) enhance personalized learning by
 predicting student answers to provide immediate and customized instruction.

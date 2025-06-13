@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: velay2018multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.00423"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.00423'}
 tags: ['Model Architecture']
 ---
 This study evaluates the performances of an LSTM network for detecting and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pranida2025synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12932"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12932'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Quantifying reasoning capability in low-resource languages remains a
 challenge in NLP due to data scarcity and limited access to annotators. While

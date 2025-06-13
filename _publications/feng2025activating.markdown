@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: feng2025activating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10053"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10053'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Leveraging the autonomous decision-making capabilities of large language
 models (LLMs) has demonstrated superior performance in reasoning tasks.

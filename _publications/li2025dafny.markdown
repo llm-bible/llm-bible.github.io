@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025dafny
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06283"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06283'}
 tags: ['Prompting', 'Applications']
 ---
 Using large language models (LLMs) to generate source code from natural

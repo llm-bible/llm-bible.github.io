@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16567"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16567'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Existing dialogue data augmentation (DA) techniques predominantly focus on
 augmenting utterance-level dialogues, which makes it difficult to take dialogue

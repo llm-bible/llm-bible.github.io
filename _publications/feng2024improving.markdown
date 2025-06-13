@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16379"}
-  - {name: "Code", url: "https://github.com/fzp0424/self_correct_mt"}
-tags: ['Interpretability and Explainability', 'Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16379'}
+  - {name: "Code", url: 'https://github.com/fzp0424/self_correct_mt'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have achieved impressive results in Machine
 Translation (MT). However, careful evaluations by human reveal that the

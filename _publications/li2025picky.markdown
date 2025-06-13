@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025picky
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01116"}
-  - {name: "Code", url: "https://github.com/GuanlinLee/llm_instruction_tuning"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01116'}
+  - {name: "Code", url: 'https://github.com/GuanlinLee/llm_instruction_tuning'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have emerged as powerful tools for addressing a
 wide range of general inquiries and tasks. Despite this, fine-tuning aligned

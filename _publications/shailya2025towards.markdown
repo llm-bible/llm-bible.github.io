@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: shailya2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06227"}
-  - {name: "Code", url: "https://github.com/cerai-iitm/LExT)"}
-tags: ['Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06227'}
+  - {name: "Code", url: 'https://github.com/cerai-iitm/LExT)'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 As Large Language Models (LLMs) become increasingly integrated into
 high-stakes domains, there have been several approaches proposed toward

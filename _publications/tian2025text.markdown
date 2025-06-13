@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tian2025text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15980"}
-  - {name: "Code", url: "https://github.com/adobe/nl_sql_analyzer"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15980'}
+  - {name: "Code", url: 'https://github.com/adobe/nl_sql_analyzer'}
+tags: ['Has Code', 'Training Techniques', 'GPT', 'Applications', 'Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Text-to-SQL models, which parse natural language (NL) questions to executable
 SQL queries, are increasingly adopted in real-world applications. However,

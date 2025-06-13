@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ko2024hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19502"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19502'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Despite the advances in large language models (LLMs), how they use their
 knowledge for reasoning is not yet well understood. In this study, we propose a

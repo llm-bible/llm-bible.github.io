@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: łajewska2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11452"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11452'}
 tags: ['Training Techniques']
 ---
 Generative AI models face the challenge of hallucinations that can undermine

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiao2023lm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13534"}
-  - {name: "Code", url: "https://github.com/FlagOpen/FlagEmbedding/tree/master/LM_Cocktail"}
-tags: ['Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13534'}
+  - {name: "Code", url: 'https://github.com/FlagOpen/FlagEmbedding/tree/master/LM_Cocktail'}
+tags: ['Has Code', 'RAG', 'Applications', 'Merging', 'Reinforcement Learning']
 ---
 The pre-trained language models are continually fine-tuned to better support
 downstream applications. However, this operation may result in significant

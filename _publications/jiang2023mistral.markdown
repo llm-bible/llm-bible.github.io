@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023mistral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06825"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06825'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 We introduce Mistral 7B v0.1, a 7-billion-parameter language model engineered
 for superior performance and efficiency. Mistral 7B outperforms Llama 2 13B

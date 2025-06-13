@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024input
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09997"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09997'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Low-Rank Adaptation (LoRA) provides an effective yet efficient solution for
 fine-tuning large language models (LLM). The modular and plug-and-play nature

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10689"}
-  - {name: "Code", url: "https://lcowiclr2025.github.io"}
-tags: ['Agentic', 'GPT', 'Tools', 'ICLR', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10689'}
+  - {name: "Code", url: 'https://lcowiclr2025.github.io'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Reinforcement Learning', 'Interpretability', 'ICLR']
 ---
 Recent advances in large language models (LLMs) have led to a growing
 interest in developing LLM-based agents for automating web tasks. However,

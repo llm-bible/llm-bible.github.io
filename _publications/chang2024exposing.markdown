@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024exposing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00621"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00621'}
 tags: ['Security']
 ---
 Can we trust Large Language Models (LLMs) to accurately predict scam? This

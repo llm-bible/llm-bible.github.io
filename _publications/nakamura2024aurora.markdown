@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: nakamura2024aurora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00399"}
-  - {name: "Code", url: "https://huggingface.co/aurora-m"}
-tags: ['Responsible AI', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00399'}
+  - {name: "Code", url: 'https://huggingface.co/aurora-m'}
+tags: ['Has Code', 'RAG', 'Security', 'Applications', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 Pretrained language models are an integral part of AI applications, but their
 high computational cost for training limits accessibility. Initiatives such as

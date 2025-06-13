@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: dejong2021mention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.06176"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.06176'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Natural language understanding tasks such as open-domain question answering
 often require retrieving and assimilating factual information from multiple

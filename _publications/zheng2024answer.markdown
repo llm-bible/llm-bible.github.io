@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024answer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06477"}
-  - {name: "Code", url: "https://github.com/Zheng0428/COIG-Kun"}
-tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06477'}
+  - {name: "Code", url: 'https://github.com/Zheng0428/COIG-Kun'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'Fine-Tuning']
 ---
 In this paper, we introduce Kun, a novel approach for creating high-quality
 instruction-tuning datasets for large language models (LLMs) without relying on

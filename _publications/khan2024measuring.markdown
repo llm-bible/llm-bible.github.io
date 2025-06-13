@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khan2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11763"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11763'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 The rise of large language models (LLMs) has created a need for advanced
 benchmarking systems beyond traditional setups. To this end, we introduce

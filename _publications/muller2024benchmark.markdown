@@ -6,8 +6,8 @@ conference: "Proceedings of the 31st International Conference on Computational L
 year: 2024
 bibkey: muller2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06595"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06595'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) has emerged as a common paradigm to use
 Large Language Models (LLMs) alongside private and up-to-date knowledge bases.

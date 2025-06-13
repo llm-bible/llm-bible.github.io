@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05362"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05362'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The growing emotional stress in modern society has increased the demand for
 Emotional Support Conversations (ESC). While Large Language Models (LLMs) show

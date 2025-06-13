@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023mcc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14747"}
-tags: ['Efficiency and Optimization', 'Prompting', 'Distillation', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14747'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Distillation', 'Model Architecture']
 ---
 Large language models (LLMs) have showcased remarkable capabilities in
 complex reasoning through chain of thought (CoT) prompting. Recently, there has

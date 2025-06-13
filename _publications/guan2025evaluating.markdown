@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guan2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22458"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22458'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools', 'Survey Paper']
 ---
 This survey examines evaluation methods for large language model (LLM)-based
 agents in multi-turn conversational settings. Using a PRISMA-inspired

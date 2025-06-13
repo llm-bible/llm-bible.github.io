@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yebin2024observing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13442"}
-  - {name: "Code", url: "https://beafbench.github.io/"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13442'}
+  - {name: "Code", url: 'https://beafbench.github.io/'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Vision language models (VLMs) perceive the world through a combination of a
 visual encoder and a large language model (LLM). The visual encoder,

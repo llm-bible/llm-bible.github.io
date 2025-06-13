@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025realistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00018"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00018'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have been previously explored for mental
 healthcare training and therapy client simulation, but they still fall short in

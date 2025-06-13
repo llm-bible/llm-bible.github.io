@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: malnatsky2025dialogic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15762"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15762'}
 tags: ['Tools']
 ---
 Dialogic learning fosters motivation and deeper understanding in education

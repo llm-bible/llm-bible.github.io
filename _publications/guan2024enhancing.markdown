@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13235"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13235'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are increasingly prominent in the recommendation
 systems domain. Existing studies usually utilize in-context learning or

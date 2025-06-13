@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yige2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07619"}
-tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07619'}
+tags: ['Training Techniques', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recently, large language models (LLMs) have demonstrated impressive
 capabilities in dealing with new tasks with the help of in-context learning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023exposing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00946"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00946'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Why do large language models sometimes output factual inaccuracies and
 exhibit erroneous reasoning? The brittleness of these models, particularly when

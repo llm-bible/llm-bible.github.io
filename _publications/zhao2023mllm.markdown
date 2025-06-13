@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023mllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13566"}
-  - {name: "Code", url: "https://github.com/opendatalab/MLLM-DataEngine"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13566'}
+  - {name: "Code", url: 'https://github.com/opendatalab/MLLM-DataEngine'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models']
 ---
 Despite the great advance of Multimodal Large Language Models (MLLMs) in both
 instruction dataset building and benchmarking, the independence of training and

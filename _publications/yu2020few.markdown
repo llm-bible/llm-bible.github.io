@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: yu2020few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.05009"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.05009'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Pretraining Methods']
 ---
 Conversational query rewriting aims to reformulate a concise conversational
 query to a fully specified, context-independent query that can be effectively

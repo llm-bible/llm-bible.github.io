@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025webgen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03733"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03733'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 LLM-based agents have demonstrated great potential in generating and managing
 code within complex codebases. In this paper, we introduce WebGen-Bench, a

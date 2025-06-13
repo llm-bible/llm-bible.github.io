@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: boubdir2023which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14424"}
-tags: ['Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14424'}
+tags: ['Prompting', 'Efficiency and Optimization']
 ---
 Human evaluation is increasingly critical for assessing large language
 models, capturing linguistic nuances, and reflecting user preferences more

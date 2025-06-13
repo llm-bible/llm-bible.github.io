@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024offline
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07798"}
-  - {name: "Code", url: "https://github.com/whwu95/FreeVA"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Fairness', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07798'}
+  - {name: "Code", url: 'https://github.com/whwu95/FreeVA'}
+tags: ['Has Code', 'RAG', 'Fairness', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Multimodal Models', 'Bias Mitigation', 'Ethics and Bias']
 ---
 This paper undertakes an empirical study to revisit the latest advancements
 in Multimodal Large Language Models (MLLMs): Video Assistant. This study,

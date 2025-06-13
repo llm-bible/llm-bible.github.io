@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04792"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04792'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Direct alignment from preferences (DAP) methods, such as DPO, have recently
 emerged as efficient alternatives to reinforcement learning from human feedback

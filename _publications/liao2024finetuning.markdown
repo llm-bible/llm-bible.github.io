@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024finetuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05147"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05147'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Quantization', 'Fine-Tuning']
 ---
 Memory-efficient finetuning of large language models (LLMs) has recently
 attracted huge attention with the increasing size of LLMs, primarily due to the

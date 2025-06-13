@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: gao2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19622"}
-  - {name: "Code", url: "https://github.com/Hongcheng-Gao/HAVEN"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19622'}
+  - {name: "Code", url: 'https://github.com/Hongcheng-Gao/HAVEN'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The hallucination of large multimodal models (LMMs), providing responses that
 appear correct but are actually incorrect, limits their reliability and

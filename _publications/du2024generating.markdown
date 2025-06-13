@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08054"}
-tags: ['Agentic', 'Model Architecture', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08054'}
+tags: ['Agentic', 'Tools', 'Model Architecture']
 ---
 The conventional BIM authoring process typically requires designers to master
 complex and tedious modeling commands in order to materialize their design

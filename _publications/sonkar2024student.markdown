@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sonkar2024student
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15156"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15156'}
 tags: ['Training Techniques']
 ---
 The pursuit of personalized education has led to the integration of Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rao2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.01248"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Security', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.01248'}
+tags: ['RAG', 'Security', 'Fairness', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) especially ChatGPT have produced impressive
 results in various areas, but their potential human-like psychology is still

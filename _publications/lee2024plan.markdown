@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024plan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12430"}
-  - {name: "Code", url: "https://github.com/myeon9h/PlanRAG"}
-tags: ['Interpretability', 'RAG', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12430'}
+  - {name: "Code", url: 'https://github.com/myeon9h/PlanRAG'}
+tags: ['RAG', 'Has Code', 'Interpretability']
 ---
 In this paper, we conduct a study to utilize LLMs as a solution for decision
 making that requires complex data analysis. We define Decision QA as the task

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023verify
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.03268"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.03268'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture']
 ---
 As large language models (LLMs) have become the norm in NLP, demonstrating
 good performance in generation and reasoning tasks, one of its most fatal

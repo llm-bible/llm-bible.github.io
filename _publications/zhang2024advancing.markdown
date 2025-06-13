@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12718"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12718'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We present ASAP, a new framework for detecting and grounding multi-modal
 media manipulation (DGM4).Upon thorough examination, we observe that accurate

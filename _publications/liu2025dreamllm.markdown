@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025dreamllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16439"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16439'}
 tags: ['Multimodal Models']
 ---
 We present DreamLLM-3D, a composite multimodal AI system behind an immersive

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10763"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10763'}
+tags: ['Language Modeling', 'Training Techniques', 'BERT', 'Tools', 'Model Architecture', 'GPT', 'Merging', 'Multimodal Models', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Diffusion models have exhibited remarkable capabilities in text-to-image
 generation. However, their performance in image-to-text generation,

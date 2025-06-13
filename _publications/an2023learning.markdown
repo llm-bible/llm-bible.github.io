@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: an2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20689"}
-  - {name: "Code", url: "https://github.com/microsoft/LEMA"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20689'}
+  - {name: "Code", url: 'https://github.com/microsoft/LEMA'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) recently exhibited remarkable reasoning
 capabilities on solving math problems. To further improve their reasoning

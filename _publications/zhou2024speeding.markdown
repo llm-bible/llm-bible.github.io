@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024speeding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06172"}
-  - {name: "Code", url: "https://github.com/kilian-group/banditeval"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06172'}
+  - {name: "Code", url: 'https://github.com/kilian-group/banditeval'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code']
 ---
 Developing prompt-based methods with Large Language Models (LLMs) requires
 making numerous decisions, which give rise to a combinatorial search problem

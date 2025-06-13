@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024credibility
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11497"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11497'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) can alleviate hallucinations of Large
 Language Models (LLMs) by referencing external documents. However, the

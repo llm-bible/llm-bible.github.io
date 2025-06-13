@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mondal2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16731"}
-tags: ['Transformer', 'Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16731'}
+tags: ['Interpretability and Explainability', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'BERT', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Recent developments in transformer-based language models have allowed them to
 capture a wide variety of world knowledge that can be adapted to downstream

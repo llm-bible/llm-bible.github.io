@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pantazopoulos2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04403"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Model Architecture', 'Security', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04403'}
+tags: ['Attention Mechanism', 'Security', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Responsible AI']
 ---
 Augmenting Large Language Models (LLMs) with image-understanding capabilities
 has resulted in a boom of high-performing Vision-Language models (VLMs). While

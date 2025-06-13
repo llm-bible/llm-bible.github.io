@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13077"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13077'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) traditionally rely on
 final-layer loss for training and final-layer representations for predictions,

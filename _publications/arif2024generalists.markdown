@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arif2024generalists
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04459"}
-tags: ['BERT', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04459'}
+tags: ['GPT', 'BERT', 'Model Architecture']
 ---
 In this paper, we compare general-purpose models, GPT-4-Turbo and Llama-3-8b,
 with special-purpose models--XLM-Roberta-large, mT5-large, and Llama-3-8b--that

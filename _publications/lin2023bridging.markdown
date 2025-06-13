@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023bridging
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.06491v2"}
-tags: ['RAG', 'Tools', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.06491v2'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools', 'Merging']
 ---
 Harnessing Large Language Models (LLMs) for recommendation is rapidly
 emerging, which relies on two fundamental steps to bridge the recommendation

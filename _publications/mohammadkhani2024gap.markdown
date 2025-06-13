@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohammadkhani2024gap
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05407"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05407'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite the strong performance of large language models (LLMs) in tasks like
 mathematical reasoning, their practical use is limited by high computational

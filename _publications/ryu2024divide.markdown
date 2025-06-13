@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ryu2024divide
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08047"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08047'}
 tags: ['Prompting']
 ---
 Complex logical reasoning tasks require a long sequence of reasoning, which a

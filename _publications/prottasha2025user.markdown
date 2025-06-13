@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: prottasha2025user
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10660"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10660'}
 tags: ['Tools']
 ---
 User profile modeling plays a key role in personalized systems, as it

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yun2023keeping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.12707"}
-tags: ['Agentic', 'Ethics and Bias', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.12707'}
+tags: ['Ethics and Bias', 'Agentic', 'Tools']
 ---
 Standardized, validated questionnaires are vital tools in research and
 healthcare, offering dependable self-report data. Prior work has revealed that

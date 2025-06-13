@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: fu2025adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04204"}
-  - {name: "Code", url: "https://github.com/fshp971/adv-icl"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04204'}
+  - {name: "Code", url: 'https://github.com/fshp971/adv-icl'}
+tags: ['Has Code', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Jailbreak attacks against large language models (LLMs) aim to induce harmful
 behaviors in LLMs through carefully crafted adversarial prompts. To mitigate

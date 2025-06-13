@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: wei2022emergent
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2206.07682v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2206.07682v2'}
 tags: ['Efficiency and Optimization']
 ---
 Scaling up language models has been shown to predictably improve performance

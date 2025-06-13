@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02515"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02515'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'Training Techniques', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based, pre-trained large language models (LLMs) have demonstrated
 outstanding performance across diverse domains, particularly in the emerging

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chrysostomou2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.02657"}
-tags: ['Interpretability and Explainability', 'Transformer', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.02657'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture']
 ---
 Neural network architectures in natural language processing often use
 attention mechanisms to produce probability distributions over input token

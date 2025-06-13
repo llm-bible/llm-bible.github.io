@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11874"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11874'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Fairness', 'Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The continuous advancement of large language models (LLMs) has brought
 increasing attention to the critical issue of developing fair and reliable

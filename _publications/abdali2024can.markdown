@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdali2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20529"}
-tags: ['Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20529'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 The advent of Large Language Models (LLMs) has garnered significant
 popularity and wielded immense power across various domains within Natural

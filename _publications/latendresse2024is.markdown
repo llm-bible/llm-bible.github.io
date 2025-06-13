@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: latendresse2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05128"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05128'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Fine-Tuning', 'Merging', 'Reinforcement Learning']
 ---
 Software libraries play a critical role in the functionality, efficiency, and
 maintainability of software systems. As developers increasingly rely on Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: cetinic2022myth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.15271"}
-tags: ['Multimodal Models', 'Ethics and Bias', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.15271'}
+tags: ['Ethics and Bias', 'Multimodal Models', 'Merging']
 ---
 The paper discusses the potential of large vision-language models as objects
 of interest for empirical cultural studies. Focusing on the comparative

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024sliding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14574"}
-  - {name: "Code", url: "https://github.com/8421BCD/fullrank"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14574'}
+  - {name: "Code", url: 'https://github.com/8421BCD/fullrank'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown exciting performance in listwise
 passage ranking. Due to the limited input length, existing methods often adopt

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kang2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18395"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18395'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown promising performance in
 knowledge-intensive reasoning tasks that require a compound understanding of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiu2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08398"}
-  - {name: "Code", url: "https://github.com/yfqiu-nlp/temporal-llms"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08398'}
+  - {name: "Code", url: 'https://github.com/yfqiu-nlp/temporal-llms'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning']
 ---
 Are Large language models (LLMs) temporally grounded? Since LLMs cannot
 perceive and interact with the environment, it is impossible to answer this

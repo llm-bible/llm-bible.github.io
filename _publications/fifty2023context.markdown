@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: fifty2023context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10971"}
-  - {name: "Code", url: "https://github.com/cfifty/CAML"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10971'}
+  - {name: "Code", url: 'https://github.com/cfifty/CAML'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models like ChatGPT demonstrate a remarkable capacity to learn
 new concepts during inference without any fine-tuning. However, visual models

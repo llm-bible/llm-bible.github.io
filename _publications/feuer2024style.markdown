@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: feuer2024style
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15268"}
-  - {name: "Code", url: "https://github.com/penfever/sos-bench"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15268'}
+  - {name: "Code", url: 'https://github.com/penfever/sos-bench'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 The release of ChatGPT in November 2022 sparked an explosion of interest in
 post-training and an avalanche of new preference optimization (PO) methods.

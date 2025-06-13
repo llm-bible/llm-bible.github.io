@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kar2024broadening
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07204"}
-tags: ['Multimodal Models', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07204'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Multimodal Models']
 ---
 Vision-language models (VLMs) are typically composed of a vision encoder,
 e.g. CLIP, and a language model (LM) that interprets the encoded features to

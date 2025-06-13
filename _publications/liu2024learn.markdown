@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024learn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10738"}
-tags: ['Fine-Tuning', 'Applications', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10738'}
+tags: ['Few-Shot', 'Applications', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 Demonstration ordering, which is an important strategy for in-context
 learning (ICL), can significantly affects the performance of large language

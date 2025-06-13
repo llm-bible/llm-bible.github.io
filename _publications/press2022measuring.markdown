@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: press2022measuring
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2210.03350v3"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2210.03350v3'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT', 'Pretraining Methods']
 ---
 We investigate the ability of language models to perform compositional
 reasoning tasks where the overall solution depends on correctly composing the

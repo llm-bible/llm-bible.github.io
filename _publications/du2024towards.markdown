@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16903"}
-tags: ['Agentic', 'Tools', 'TACL', 'ACL', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16903'}
+tags: ['Agentic', 'ACL', 'Agent', 'Tools', 'TACL']
 ---
 Facing increasingly complex BIM authoring software and the accompanying
 expensive learning costs, designers often seek to interact with the software in

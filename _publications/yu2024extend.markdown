@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024extend
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03092"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03092'}
 tags: ['Applications', 'Merging']
 ---
 Merging Large Language Models (LLMs) aims to amalgamate multiple homologous

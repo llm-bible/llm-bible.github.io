@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024openba
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05957"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05957'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Pruning', 'Pre-Training']
 ---
 Large Language Models (LLMs) have played an important role in many fields due
 to their powerful capabilities.However, their massive number of parameters

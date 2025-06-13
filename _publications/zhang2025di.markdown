@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025di
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13699"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13699'}
 tags: ['Tools']
 ---
 Large Language Models have advanced automated software development, however,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18120"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18120'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI']
 ---
 Prior research has revealed that certain abstract concepts are linearly
 represented as directions in the representation space of LLMs, predominantly

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023balancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15896"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15896'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have performed well in providing general and
 extensive health suggestions in single-turn conversations, exemplified by

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fernandez2024poison
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06788"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06788'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Interpretability']
 ---
 Recent research has shown that large language models (LLMs) are particularly
 vulnerable to adversarial attacks. Since the release of ChatGPT, various

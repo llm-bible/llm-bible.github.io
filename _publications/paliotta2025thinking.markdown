@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: paliotta2025thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20339"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20339'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements have demonstrated that the performance of large language
 models (LLMs) can be significantly enhanced by scaling computational resources

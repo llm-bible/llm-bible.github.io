@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023prompted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.04533"}
-tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.04533'}
+tags: ['Agentic', 'Few-Shot', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In this paper, we propose MPC (Modular Prompted Chatbot), a new approach for
 creating high-quality conversational agents without the need for fine-tuning.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ou2024inductive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11095"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11095'}
 tags: ['RAG', 'Agentic']
 ---
 Aligning large language models (LLMs) with human expectations requires

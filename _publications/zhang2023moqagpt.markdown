@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023moqagpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13265"}
-  - {name: "Code", url: "https://github.com/lezhang7/MOQAGPT"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13265'}
+  - {name: "Code", url: 'https://github.com/lezhang7/MOQAGPT'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 Multi-modal open-domain question answering typically requires evidence
 retrieval from databases across diverse modalities, such as images, tables,

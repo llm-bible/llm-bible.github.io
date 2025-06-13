@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15004"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15004'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Model (LLM) agents are rapidly improving to handle
 increasingly complex web-based tasks. Most of these agents rely on

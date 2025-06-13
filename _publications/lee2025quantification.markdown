@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025quantification
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12619"}
-  - {name: "Code", url: "https://github.com/Aegis1863/LLMs-Distillation-Quantification"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability', 'Security', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12619'}
+  - {name: "Code", url: 'https://github.com/Aegis1863/LLMs-Distillation-Quantification'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Security', 'Tools', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 Model distillation is a fundamental technique in building large language
 models (LLMs), transferring knowledge from a teacher model to a student model.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ray2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06420"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06420'}
 tags: ['Applications']
 ---
 The global shortage of healthcare workers has demanded the development of

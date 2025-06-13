@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: gu2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20194"}
-  - {name: "Code", url: "https://github.com/MikeGu721/GAPO"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20194'}
+  - {name: "Code", url: 'https://github.com/MikeGu721/GAPO'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advances in large language models have highlighted the critical need
 for precise control over model outputs through predefined constraints. While

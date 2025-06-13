@@ -6,7 +6,7 @@ conference: "Journal of Biomedical Informatics Volume 151 March 2024 104620"
 year: 2023
 bibkey: wei2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08410"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08410'}
 tags: ['GPT', 'Model Architecture', 'Survey Paper']
 ---
 Large language models such as ChatGPT are increasingly explored in medical

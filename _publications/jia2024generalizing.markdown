@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024generalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14760"}
-tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14760'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Preference learning (PL) with large language models (LLMs) aims to align the
 LLMs' generations with human preferences. Previous work on reinforcement

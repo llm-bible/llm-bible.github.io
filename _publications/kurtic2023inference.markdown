@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kurtic2023inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.04089"}
-  - {name: "Code", url: "https://github.com/IST-DASLab/ZipLM"}
-tags: ['Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.04089'}
+  - {name: "Code", url: 'https://github.com/IST-DASLab/ZipLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'GPT', 'Model Architecture', 'Pruning']
 ---
 The breakthrough performance of large language models (LLMs) comes with major
 computational footprints and high deployment costs. In this paper, we progress

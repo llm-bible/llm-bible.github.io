@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chadimová2024meaningless
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17304"}
-tags: ['GPT', 'Prompting', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17304'}
+tags: ['Ethics and Bias', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This paper introduces a novel method, referred to as "hashing", which
 involves masking potentially bias-inducing words in large language models

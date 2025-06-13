@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: miliani2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15487"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15487'}
 tags: ['Prompting']
 ---
 Large Language Models (LLMs) are increasingly used in tasks requiring

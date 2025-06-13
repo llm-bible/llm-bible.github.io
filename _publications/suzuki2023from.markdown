@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: suzuki2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03412"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03412'}
 tags: ['Fine-Tuning']
 ---
 Instruction tuning is essential for large language models (LLMs) to become

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11517"}
-tags: ['GPT', 'RAG', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11517'}
+tags: ['RAG', 'GPT', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Decoding with autoregressive large language models (LLMs) traditionally
 occurs sequentially, generating one token after another. An emerging line of

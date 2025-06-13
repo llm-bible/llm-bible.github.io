@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tanneru2024hardness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10625"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10625'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) are increasingly being employed in real-world
 applications in critical domains such as healthcare, it is important to ensure

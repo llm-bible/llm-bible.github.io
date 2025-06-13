@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16744"}
-  - {name: "Code", url: "https://portal-cornell.github.io/demo2code/"}
-tags: ['Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16744'}
+  - {name: "Code", url: 'https://portal-cornell.github.io/demo2code/'}
+tags: ['Has Code', 'Applications', 'Tools']
 ---
 Language instructions and demonstrations are two natural ways for users to
 teach robots personalized tasks. Recent progress in Large Language Models

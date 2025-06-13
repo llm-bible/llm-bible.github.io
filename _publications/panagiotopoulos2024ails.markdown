@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: panagiotopoulos2024ails
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01084"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01084'}
+tags: ['Transformer', 'RAG', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In this paper, we outline our submission for the SemEval-2024 Task 9
 competition: 'BRAINTEASER: A Novel Task Defying Common Sense'. We engage in

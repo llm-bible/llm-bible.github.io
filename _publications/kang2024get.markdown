@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kang2024get
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02774"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/DV4LLM-D761/"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02774'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/DV4LLM-D761/'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Merging', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 This work focuses on leveraging and selecting from vast, unlabeled, open data
 to pre-fine-tune a pre-trained language model. The goal is to minimize the need

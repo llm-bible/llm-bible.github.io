@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ling2025complex
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19295"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19295'}
+tags: ['Interpretability and Explainability', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We consider enhancing large language models (LLMs) for complex planning
 tasks. While existing methods allow LLMs to explore intermediate steps to make

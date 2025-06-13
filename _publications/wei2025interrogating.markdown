@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025interrogating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16290"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16290'}
 tags: ['Training Techniques']
 ---
 The current discourse on large language models (LLMs) and copyright largely

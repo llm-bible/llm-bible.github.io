@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.18483"}
-  - {name: "Code", url: "https://github.com/sperfu/EyeDoc"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.18483'}
+  - {name: "Code", url: 'https://github.com/sperfu/EyeDoc'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Ophthalmology consultations are crucial for diagnosing, treating, and
 preventing eye diseases. However, the growing demand for consultations exceeds

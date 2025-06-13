@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024regaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11365"}
-tags: ['Responsible AI', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11365'}
+tags: ['Multimodal Models', 'Responsible AI', 'Security']
 ---
 The deployment of multimodal large language models (MLLMs) has demonstrated
 remarkable success in engaging in conversations involving visual inputs, thanks

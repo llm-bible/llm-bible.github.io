@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023lamini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14402"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14402'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) with instruction fine-tuning demonstrate
 superior generative capabilities. However, these models are resource-intensive.

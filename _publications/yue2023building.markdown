@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yue2023building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05653"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05653'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 We introduce MAmmoTH, a series of open-source large language models (LLMs)

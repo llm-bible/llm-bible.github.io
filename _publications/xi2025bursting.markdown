@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xi2025bursting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13539"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13539'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'RecSys', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recommender systems (RSs) often suffer from the feedback loop phenomenon,
 e.g., RSs are trained on data biased by their recommendations. This leads to

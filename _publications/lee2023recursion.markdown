@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023recursion
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2306.06891v1"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2306.06891v1'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Generating intermediate steps, or Chain of Thought (CoT), is an effective way
 to significantly improve language models' (LM) multi-step reasoning capability.

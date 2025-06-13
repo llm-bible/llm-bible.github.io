@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024fairer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11370"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11370'}
+tags: ['Efficiency and Optimization', 'Fairness', 'Applications', 'Tools', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large language models (LLMs) have shown promising abilities as cost-effective
 and reference-free evaluators for assessing language generation quality. In

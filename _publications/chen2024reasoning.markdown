@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16437"}
-  - {name: "Code", url: "https://r-eval.github.io"}
-tags: ['RAG', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16437'}
+  - {name: "Code", url: 'https://r-eval.github.io'}
+tags: ['RAG', 'Has Code', 'Tools']
 ---
 Large language models for code (i.e., code LLMs) have shown strong code
 understanding and generation capabilities. To evaluate the capabilities of code

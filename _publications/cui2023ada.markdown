@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cui2023ada
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04484"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04484'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Instructions augmentation is a crucial step for unleashing the full potential
 of large language models (LLMs) in downstream tasks. Existing Self-Instruct

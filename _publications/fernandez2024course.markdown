@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fernandez2024course
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14666"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14666'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Automated teaching assistants and chatbots have significant potential to
 reduce the workload of human instructors, especially for logistics-related

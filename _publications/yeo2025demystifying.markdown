@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yeo2025demystifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03373"}
-  - {name: "Code", url: "https://github.com/eddycmu/demystify-long-cot"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03373'}
+  - {name: "Code", url: 'https://github.com/eddycmu/demystify-long-cot'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Scaling inference compute enhances reasoning in large language models (LLMs),
 with long chains-of-thought (CoTs) enabling strategies like backtracking and

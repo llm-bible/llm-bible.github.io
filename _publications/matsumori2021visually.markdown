@@ -6,7 +6,7 @@ conference: "IEEE Access 9 160521-160532 (2021)"
 year: 2021
 bibkey: matsumori2021visually
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.13985"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.13985'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Text-guided image manipulation tasks have recently gained attention in the

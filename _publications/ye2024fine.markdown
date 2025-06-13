@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00741"}
-  - {name: "Code", url: "https://github.com/Junjie-Ye/ToolEyes"}
-tags: ['Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00741'}
+  - {name: "Code", url: 'https://github.com/Junjie-Ye/ToolEyes'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools']
 ---
 Existing evaluations of tool learning primarily focus on validating the
 alignment of selected tools for large language models (LLMs) with expected

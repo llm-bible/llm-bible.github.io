@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024length
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06411"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06411'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Direct Preference Optimization (DPO) is widely utilized in the Reinforcement
 Learning from Human Feedback (RLHF) phase to align Large Language Models (LLMs)

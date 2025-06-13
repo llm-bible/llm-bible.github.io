@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhao2019extremely
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.11687"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.11687'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'Model Architecture', 'Quantization']
 ---
 Pretrained language models like BERT have achieved good results on NLP tasks,
 but are impractical on resource-limited devices due to memory footprint. A

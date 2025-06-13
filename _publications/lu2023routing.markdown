@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023routing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08692"}
-tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08692'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Training Techniques']
 ---
 The complementary potential of Large Language Models (LLM) assumes
 off-the-shelf LLMs have heterogeneous expertise in a wide range of domains and

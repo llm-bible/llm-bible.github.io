@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ryoo2024xgen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16267"}
-  - {name: "Code", url: "https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html"}
-tags: ['Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16267'}
+  - {name: "Code", url: 'https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html'}
+tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 We present xGen-MM-Vid (BLIP-3-Video): a multimodal language model for
 videos, particularly designed to efficiently capture temporal information over

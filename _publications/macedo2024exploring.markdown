@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: macedo2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17214"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17214'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Code translation between programming languages is a long-existing and
 critical task in software engineering, facilitating the modernization of legacy

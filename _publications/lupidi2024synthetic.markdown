@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lupidi2024synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08239"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08239'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Large Language Models still struggle in challenging scenarios that leverage
 structured data, complex reasoning, or tool usage. In this paper, we propose

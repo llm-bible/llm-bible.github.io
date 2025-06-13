@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15983"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15983'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'Model Architecture', 'Quantization', 'Pretraining Methods']
 ---
 This work explores optimizing transformer-based language models by
 integrating model compression techniques with inhibitor attention, a novel

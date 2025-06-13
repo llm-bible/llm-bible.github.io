@@ -6,9 +6,9 @@ conference: "ACM Transactions on Computing Education June 2024"
 year: 2024
 bibkey: mendonça2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09671"}
-  - {name: "Code", url: "https://github.com/nabormendonca/gpt-4v-enade-cs-2021"}
-tags: ['GPT', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09671'}
+  - {name: "Code", url: 'https://github.com/nabormendonca/gpt-4v-enade-cs-2021'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Fairness', 'Model Architecture', 'GPT', 'Multimodal Models', 'Survey Paper', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The recent integration of visual capabilities into Large Language Models
 (LLMs) has the potential to play a pivotal role in science and technology

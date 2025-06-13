@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: munkhdalai2024leave
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07143"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07143'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 This work introduces an efficient method to scale Transformer-based Large
 Language Models (LLMs) to infinitely long inputs with bounded memory and

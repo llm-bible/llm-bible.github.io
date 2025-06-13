@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024graphic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14801"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14801'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 A well-executed graphic design typically achieves harmony in two levels, from
 the fine-grained design elements (color, font and layout) to the overall

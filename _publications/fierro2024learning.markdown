@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fierro2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03381"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03381'}
 tags: ['Reinforcement Learning']
 ---
 The increasing demand for the deployment of LLMs in information-seeking

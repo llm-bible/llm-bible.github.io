@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19436"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19436'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Merging', 'Applications']
 ---
 This paper focuses on the dynamic optimization of the Retrieval-Augmented
 Generation (RAG) architecture. It proposes a state-aware dynamic knowledge

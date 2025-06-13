@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023universal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.08518"}
-  - {name: "Code", url: "https://github.com/microsoft/LMOps"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.08518'}
+  - {name: "Code", url: 'https://github.com/microsoft/LMOps'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are popular for their impressive abilities, but
 the need for model-specific fine-tuning or task-specific prompt engineering can

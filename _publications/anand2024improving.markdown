@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: anand2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00846"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00846'}
+tags: ['RAG', 'Multimodal Models', 'Training Techniques']
 ---
 This paper presents GPSM4K, a comprehensive geometry multimodal dataset
 tailored to augment the problem-solving capabilities of Large Vision Language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: dušek2019evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1901.07931"}
-tags: ['Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1901.07931'}
+tags: ['Reinforcement Learning', 'Model Architecture']
 ---
 This paper provides a comprehensive analysis of the first shared task on
 End-to-End Natural Language Generation (NLG) and identifies avenues for future

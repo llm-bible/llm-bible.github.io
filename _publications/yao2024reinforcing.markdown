@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024reinforcing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09173"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09173'}
 tags: ['Interpretability and Explainability', 'Training Techniques']
 ---
 Following formatting instructions to generate well-structured content is a

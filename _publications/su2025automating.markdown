@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: su2025automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23781"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23781'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated strong potential and
 impressive performance in automating the generation and optimization of

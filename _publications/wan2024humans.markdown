@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024humans
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05897"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05897'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Although large language models (LLMs) have been assessed for general medical
 knowledge using licensing exams, their ability to support clinical

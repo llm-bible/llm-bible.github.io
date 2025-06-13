@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11052"}
-  - {name: "Code", url: "https://github.com/renjie3/MemAttn"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11052'}
+  - {name: "Code", url: 'https://github.com/renjie3/MemAttn'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Prompting']
 ---
 Recent advancements in text-to-image diffusion models have demonstrated their
 remarkable capability to generate high-quality images from textual prompts.

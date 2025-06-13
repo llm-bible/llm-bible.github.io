@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024any
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10517"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10517'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Quantization', 'Reinforcement Learning']
 ---
 Recently, considerable efforts have been directed towards compressing Large
 Language Models (LLMs), which showcase groundbreaking capabilities across

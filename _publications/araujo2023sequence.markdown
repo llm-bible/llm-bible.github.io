@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: araujo2023sequence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11259"}
-  - {name: "Code", url: "https://github.com/vgaraujov/Seq2Seq-Spanish-PLMs"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11259'}
+  - {name: "Code", url: 'https://github.com/vgaraujov/Seq2Seq-Spanish-PLMs'}
+tags: ['Has Code', 'GPT', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Applications']
 ---
 In recent years, significant advancements in pre-trained language models have
 driven the creation of numerous non-English language variants, with a

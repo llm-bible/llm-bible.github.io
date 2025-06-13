@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chambon2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15242"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15242'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Tools']
 ---
 We introduce BigO(Bench), a novel coding benchmark designed to evaluate the
 capabilities of generative language models in understanding and generating code

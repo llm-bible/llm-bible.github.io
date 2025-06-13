@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bałazy2024lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17604"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17604'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The rapid expansion of large language models (LLMs) has underscored the need
 for parameter-efficient fine-tuning methods, with LoRA (Low-Rank Adaptation)

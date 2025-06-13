@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023planning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.05510"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.05510'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Existing large language model-based code generation pipelines typically use
 beam search or sampling algorithms during the decoding process. Although the

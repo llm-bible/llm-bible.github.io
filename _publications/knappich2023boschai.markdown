@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: knappich2023boschai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01907"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01907'}
 tags: ['RAG', 'Training Techniques']
 ---
 Automatic simplification can help laypeople to comprehend complex scientific

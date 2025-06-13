@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chae2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02575"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02575'}
 tags: ['Tools']
 ---
 Algorithmic reasoning refers to the ability to understand the complex

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gwozdz2025rdf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21605"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21605'}
+tags: ['Tools', 'Responsible AI', 'Training Techniques']
 ---
 Large Language Models (LLMs) increasingly serve as knowledge interfaces, yet
 systematically assessing their reliability with conflicting information remains

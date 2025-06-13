@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: doddapaneni2021primer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.00676"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.00676'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 Multilingual Language Models (\MLLMs) such as mBERT, XLM, XLM-R,
 \textit\{etc.\} have emerged as a viable option for bringing the power of

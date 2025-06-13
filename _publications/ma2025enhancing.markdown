@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06964"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06964'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 role-playing scenarios, particularly in simulating domain-specific experts

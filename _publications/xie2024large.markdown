@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15116"}
-  - {name: "Code", url: "https://github.com/jun0wanan/awesome-large-multimodal-agents"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'Merging', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15116'}
+  - {name: "Code", url: 'https://github.com/jun0wanan/awesome-large-multimodal-agents'}
+tags: ['Agentic', 'Has Code', 'Applications', 'Tools', 'Merging', 'Multimodal Models', 'Survey Paper']
 ---
 Large language models (LLMs) have achieved superior performance in powering
 text-based AI agents, endowing them with decision-making and reasoning

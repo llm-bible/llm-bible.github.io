@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: molchanova2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08265"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08265'}
 tags: ['Tools']
 ---
 With the advancement of large language models (LLMs), the focus in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: lu2019pretraining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.02265"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.02265'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 We present ViLBERT (short for Vision-and-Language BERT), a model for learning
 task-agnostic joint representations of image content and natural language. We

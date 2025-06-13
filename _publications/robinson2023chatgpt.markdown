@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: robinson2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07423"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07423'}
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) implicitly learn to perform a range of language
 tasks, including machine translation (MT). Previous studies explore aspects of

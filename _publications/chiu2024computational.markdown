@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chiu2024computational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00820"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00820'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 The emergence of large language models (LLMs) like ChatGPT has increased
 interest in their use as therapists to address mental health challenges and the

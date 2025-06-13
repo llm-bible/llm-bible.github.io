@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024revealing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12409"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12409'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Autonomous planning has been an ongoing pursuit since the inception of
 artificial intelligence. Based on curated problem solvers, early planning

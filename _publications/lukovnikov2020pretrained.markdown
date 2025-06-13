@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: lukovnikov2020pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2001.11985"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2001.11985'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Answering simple questions over knowledge graphs is a well-studied problem in
 question answering. Previous approaches for this task built on recurrent and

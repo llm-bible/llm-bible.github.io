@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jeong2023study
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.01105"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.01105'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This study presents a method for implementing generative AI services by
 utilizing the Large Language Models (LLM) application architecture. With recent

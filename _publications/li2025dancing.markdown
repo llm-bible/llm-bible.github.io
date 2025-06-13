@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025dancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17363"}
-  - {name: "Code", url: "https://github.com/puddingyeah/PANEL"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17363'}
+  - {name: "Code", url: 'https://github.com/puddingyeah/PANEL'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Training Techniques']
 ---
 Enhancing the reasoning capabilities of large language models (LLMs),
 particularly for complex tasks requiring multi-step logical deductions, remains

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ngweta2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06969"}
-tags: ['Security', 'Few-Shot', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06969'}
+tags: ['Few-Shot', 'Security', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have gained popularity in recent years for their
 utility in various applications. However, they are sensitive to non-semantic

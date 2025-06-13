@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18890"}
-  - {name: "Code", url: "https://github.com/bigai-nlco/TokenSwift"}
-tags: ['Tools', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18890'}
+  - {name: "Code", url: 'https://github.com/bigai-nlco/TokenSwift'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools', 'Model Architecture']
 ---
 Generating ultra-long sequences with large language models (LLMs) has become
 increasingly crucial but remains a highly time-intensive task, particularly for

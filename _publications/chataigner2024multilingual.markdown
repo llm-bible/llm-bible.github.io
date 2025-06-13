@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chataigner2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18270"}
-tags: ['Applications', 'Tools', 'Prompting', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18270'}
+tags: ['Prompting', 'Language Modeling', 'Applications', 'Tools']
 ---
 Large language models (LLMs) are increasingly used as alternatives to
 traditional search engines given their capacity to generate text that resembles

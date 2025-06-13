@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12843"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12843'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper, we conduct a comprehensive SWOT analysis of prompt engineering
 techniques within the realm of Large Language Models (LLMs). Emphasizing

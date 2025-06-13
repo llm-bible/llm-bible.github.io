@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kang2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00581"}
-tags: ['Agentic', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00581'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 As large language models (LLMs) become increasingly integrated into critical
 applications, aligning their behavior with human values presents significant

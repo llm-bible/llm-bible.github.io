@@ -6,11 +6,11 @@ conference: "Arxiv"
 year: 2024
 bibkey: almaamari2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19610"}
-  - {name: "Code", url: "https://zenodo.org/doi/10.5281/zenodo.12677631),"}
-  - {name: "Code", url: "https://github.com/padas-lab-de/multi-language-dataset-creator),"}
-  - {name: "Code", url: "https://github.com/ModMaamari/mixture-modular-experts)"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19610'}
+  - {name: "Code", url: 'https://zenodo.org/doi/10.5281/zenodo.12677631),'}
+  - {name: "Code", url: 'https://github.com/padas-lab-de/multi-language-dataset-creator),'}
+  - {name: "Code", url: 'https://github.com/ModMaamari/mixture-modular-experts)'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 This research combines Knowledge Distillation (KD) and Mixture of Experts
 (MoE) to develop modular, efficient multilingual language models. Key

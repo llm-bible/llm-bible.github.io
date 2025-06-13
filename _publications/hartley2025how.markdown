@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hartley2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04735"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04735'}
+tags: ['Agentic', 'Agent', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are increasingly deployed as autonomous agents,
 necessitating a deeper understanding of their decision-making behaviour under

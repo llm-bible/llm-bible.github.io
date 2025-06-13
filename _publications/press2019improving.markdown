@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: press2019improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.03864"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.03864'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multilayer transformer networks consist of interleaved self-attention and
 feedforward sublayers. Could ordering the sublayers in a different pattern lead

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: nie2021mlp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.04453"}
-  - {name: "Code", url: "https://github.com/easonnie/mlp-vil"}
-tags: ['Transformer', 'Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.04453'}
+  - {name: "Code", url: 'https://github.com/easonnie/mlp-vil'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'RAG', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Merging', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We initiate the first empirical study on the use of MLP architectures for
 vision-and-language (VL) fusion. Through extensive experiments on 5 VL tasks

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: palacio2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03873"}
-tags: ['Transformer', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03873'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) for code are a family of high-parameter,
 transformer-based neural networks pre-trained on massive datasets of both

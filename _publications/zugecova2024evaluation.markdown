@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zugecova2024evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13666"}
-tags: ['Responsible AI', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13666'}
+tags: ['Reinforcement Learning', 'Responsible AI']
 ---
 The capabilities of recent large language models (LLMs) to generate
 high-quality content indistinguishable by humans from human-written texts rises

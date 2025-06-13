@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhandari2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16526"}
-  - {name: "Code", url: "https://github.com/AMAAI-Lab/Text2midi)"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16526'}
+  - {name: "Code", url: 'https://github.com/AMAAI-Lab/Text2midi)'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 This paper introduces text2midi, an end-to-end model to generate MIDI files
 from textual descriptions. Leveraging the growing popularity of multimodal

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: nayak2021using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.07349"}
-tags: ['BERT', 'RAG', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.07349'}
+tags: ['RAG', 'BERT', 'Applications', 'Model Architecture']
 ---
 Linguistic Acceptability is the task of determining whether a sentence is
 grammatical or ungrammatical. It has applications in several use cases like

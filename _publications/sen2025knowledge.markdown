@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sen2025knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20000"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20000'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Knowledge Distillation (KD) is one of the approaches to reduce the size of
 Large Language Models (LLMs). A LLM with smaller number of model parameters

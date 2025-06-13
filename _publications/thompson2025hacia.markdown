@@ -6,8 +6,8 @@ conference: "In Libro de Actas CACIC 2024 pp. 72-81"
 year: 2025
 bibkey: thompson2025hacia
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20939"}
-tags: ['RAG', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20939'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 Early Detection of Risks (EDR) on the Web involves identifying at-risk users
 as early as possible. Although Large Language Models (LLMs) have proven to

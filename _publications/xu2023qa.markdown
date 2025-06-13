@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023qa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14717"}
-  - {name: "Code", url: "https://github.com/yuhuixu1993/qa-lora"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14717'}
+  - {name: "Code", url: 'https://github.com/yuhuixu1993/qa-lora'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recently years have witnessed a rapid development of large language models
 (LLMs). Despite the strong ability in many language-understanding tasks, the

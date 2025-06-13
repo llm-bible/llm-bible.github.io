@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: nafar2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09614"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09614'}
 tags: ['Prompting']
 ---
 This paper considers the challenges Large Language Models (LLMs) face when

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025mirage
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15269"}
-  - {name: "Code", url: "https://huggingface.co/RachelHGF/Mirage-in-the-Eyes"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15269'}
+  - {name: "Code", url: 'https://huggingface.co/RachelHGF/Mirage-in-the-Eyes'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Fusing visual understanding into language generation, Multi-modal Large
 Language Models (MLLMs) are revolutionizing visual-language applications. Yet,

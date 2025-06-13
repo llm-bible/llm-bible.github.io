@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04457"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04457'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Security', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Vision-language models (VLMs) have achieved remarkable advancements,
 capitalizing on the impressive capabilities of large language models (LLMs)

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: marks2023geometry
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06824"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06824'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have impressive capabilities, but are prone to
 outputting falsehoods. Recent work has developed techniques for inferring

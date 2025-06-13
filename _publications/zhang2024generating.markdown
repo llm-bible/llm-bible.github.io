@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06918"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06918'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 To improve the ability of the large language model (LLMs) to tackle complex
 reasoning problems, chain-of-thoughts (CoT) methods were proposed to guide LLMs

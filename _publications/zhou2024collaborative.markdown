@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17231"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17231'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large language models have become integral to question-answering applications
 despite their propensity for generating hallucinations and factually inaccurate

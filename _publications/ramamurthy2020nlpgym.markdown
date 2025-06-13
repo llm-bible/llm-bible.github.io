@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: ramamurthy2020nlpgym
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.08272"}
-  - {name: "Code", url: "https://github.com/rajcscw/nlp-gym"}
-tags: ['Agentic', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.08272'}
+  - {name: "Code", url: 'https://github.com/rajcscw/nlp-gym'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Applications']
 ---
 Reinforcement learning (RL) has recently shown impressive performance in
 complex game AI and robotics tasks. To a large extent, this is thanks to the

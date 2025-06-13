@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023retrieve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11206"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11206'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 Despite their competitive performance on knowledge-intensive tasks, large
 language models (LLMs) still have limitations in memorizing all world knowledge

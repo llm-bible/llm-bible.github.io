@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024guided
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13093"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13093'}
 tags: ['Tools']
 ---
 In modern commercial systems, including Recommendation, Ranking, and

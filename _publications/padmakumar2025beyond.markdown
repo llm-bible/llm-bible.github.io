@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: padmakumar2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09389"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09389'}
 tags: ['Training Techniques']
 ---
 As large language models (LLMs) are increasingly used for ideation and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: schoepp2025evolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15214"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15214'}
+tags: ['Agentic', 'Tools', 'Multimodal Models', 'Survey Paper', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Reinforcement learning (RL) has shown impressive results in sequential
 decision-making tasks. Meanwhile, Large Language Models (LLMs) and

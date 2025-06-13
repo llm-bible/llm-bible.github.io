@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023psy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11991"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11991'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 The demand for psychological counselling has grown significantly in recent
 years, particularly with the global outbreak of COVID-19, which has heightened

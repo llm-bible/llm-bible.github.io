@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025preference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19731"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19731'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Reinforcement Learning']
 ---
 Applying large language models (LLMs) to assist in psycho-counseling is an
 emerging and meaningful approach, driven by the significant gap between patient

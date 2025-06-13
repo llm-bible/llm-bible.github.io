@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2022
 bibkey: nouriborji2022model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.06425"}
-  - {name: "Code", url: "https://github.com/nlpie-research/MiniALBERT"}
-  - {name: "Code", url: "https://huggingface.co/nlpie"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.06425'}
+  - {name: "Code", url: 'https://github.com/nlpie-research/MiniALBERT'}
+  - {name: "Code", url: 'https://huggingface.co/nlpie'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pre-trained Language Models (LMs) have become an integral part of Natural
 Language Processing (NLP) in recent years, due to their superior performance in

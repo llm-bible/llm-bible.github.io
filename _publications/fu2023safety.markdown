@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06924"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06924'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recent developments in balancing the usefulness and safety of Large Language
 Models (LLMs) have raised a critical question: Are mainstream NLP tasks

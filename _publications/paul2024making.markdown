@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: paul2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13950"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13950'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been shown to perform better when asked to
 reason step-by-step before answering a question. However, it is unclear to what

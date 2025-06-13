@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01017"}
-tags: ['Applications', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01017'}
+tags: ['ACL', 'RAG', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'TACL', 'Pretraining Methods']
 ---
 Visual Self-Supervised Learning (SSL) currently underperforms Contrastive
 Language-Image Pretraining (CLIP) in multimodal settings such as Visual

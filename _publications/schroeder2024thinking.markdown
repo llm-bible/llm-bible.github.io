@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schroeder2024thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17402"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17402'}
+tags: ['Agentic', 'Few-Shot', 'GPT', 'Tools', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown impressive capabilities across
 diverse settings, but still struggle as the length and complexity of the

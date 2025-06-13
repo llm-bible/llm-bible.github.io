@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11494"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Pruning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11494'}
+tags: ['Large-Scale Training', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'GPT', 'Scaling Laws', 'Pruning', 'Pre-Training']
 ---
 Recently, large language models (LLMs) have demonstrated superior performance
 across various tasks by adhering to scaling laws, which significantly increase

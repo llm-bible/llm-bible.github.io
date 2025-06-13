@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024adapters
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09644"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09644'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Vocabulary adaptation, which integrates new vocabulary into pre-trained
 language models, enables expansion to new languages and mitigates token

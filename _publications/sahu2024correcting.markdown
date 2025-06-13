@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sahu2024correcting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02352"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02352'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 Large Visual Language Models (LVLMs) struggle with hallucinations in visual
 instruction following task(s), limiting their trustworthiness and real-world

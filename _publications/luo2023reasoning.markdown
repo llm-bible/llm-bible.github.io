@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01061"}
-tags: ['Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01061'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications', 'Tools']
 ---
 Large language models (LLMs) have demonstrated impressive reasoning abilities
 in complex tasks. However, they lack up-to-date knowledge and experience

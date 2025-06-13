@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sung2023pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14827"}
-tags: ['Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14827'}
+tags: ['Few-Shot', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Intent classification (IC) plays an important role in task-oriented dialogue
 systems. However, IC models often generalize poorly when training without

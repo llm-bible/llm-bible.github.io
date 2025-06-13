@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liang2025i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14693"}
-  - {name: "Code", url: "https://github.com/jokieleung/I-MCTS"}
-tags: ['Agentic', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14693'}
+  - {name: "Code", url: 'https://github.com/jokieleung/I-MCTS'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Applications']
 ---
 Recent advancements in large language models (LLMs) have shown remarkable
 potential in automating machine learning tasks. However, existing LLM-based

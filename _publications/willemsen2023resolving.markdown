@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: willemsen2023resolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13430"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13430'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) have shown to be effective at image retrieval
 based on simple text queries, but text-image retrieval based on conversational

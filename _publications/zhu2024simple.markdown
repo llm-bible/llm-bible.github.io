@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08521"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08521'}
+tags: ['RAG', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in retrieval-augmented generation (RAG) have demonstrated
 impressive performance in the question-answering (QA) task. However, most

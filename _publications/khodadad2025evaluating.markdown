@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: khodadad2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16414"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16414'}
 tags: ['COLING', 'Applications']
 ---
 In this study, we introduced a new benchmark consisting of a curated dataset

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07097"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07097'}
 tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Stakeholders -- from model developers to policymakers -- seek to minimize the

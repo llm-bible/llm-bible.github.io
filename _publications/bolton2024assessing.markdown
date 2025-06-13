@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bolton2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15894"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15894'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large language models, such as GPT-4 and Med-PaLM, have shown impressive

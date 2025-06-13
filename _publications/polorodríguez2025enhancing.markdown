@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: polorodríguez2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14469"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14469'}
+tags: ['Reinforcement Learning', 'RAG', 'Model Architecture']
 ---
 This work presents a novel architecture for context-aware interactions within
 smart environments, leveraging Large Language Models (LLMs) to enhance user

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11315"}
-  - {name: "Code", url: "https://github.com/HITsz-TMG/SEER"}
-tags: ['RAG', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11315'}
+  - {name: "Code", url: 'https://github.com/HITsz-TMG/SEER'}
+tags: ['RAG', 'Has Code', 'Tools']
 ---
 Recent studies in Retrieval-Augmented Generation (RAG) have investigated
 extracting evidence from retrieved passages to reduce computational costs and

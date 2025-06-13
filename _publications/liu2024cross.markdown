@@ -6,7 +6,7 @@ conference: "ECAI2024"
 year: 2024
 bibkey: liu2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08724"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08724'}
 tags: ['Applications', 'Pretraining Methods']
 ---
 Although large language models(LLMs) show amazing capabilities, among various

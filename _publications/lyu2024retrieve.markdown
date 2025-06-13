@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024retrieve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14979"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14979'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 Despite the significant progress of large language models (LLMs) in various
 tasks, they often produce factual errors due to their limited internal

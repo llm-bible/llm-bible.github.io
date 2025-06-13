@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chi2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05966"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05966'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 We present THOUGHTSCULPT, a general reasoning and search method for tasks
 with outputs that can be decomposed into components. THOUGHTSCULPT explores a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deotte2024winning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04658"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'KDD', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04658'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'KDD']
 ---
 This paper describes the winning solution of all 5 tasks for the Amazon KDD
 Cup 2024 Multi Task Online Shopping Challenge for LLMs. The challenge was to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024action
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11277"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11277'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Merging']
 ---
 Recent studies have demonstrated the potential to control paraphrase
 generation, such as through syntax, which has broad applications in various

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: metzger2023ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14391"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14391'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Deep Reinforcement Learning (Deep RL) is increasingly used to cope with the
 open-world assumption in service-oriented systems. Deep RL was successfully

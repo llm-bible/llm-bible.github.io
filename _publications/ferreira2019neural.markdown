@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: ferreira2019neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.09022"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.09022'}
+tags: ['Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Traditionally, most data-to-text applications have been designed using a
 modular pipeline architecture, in which non-linguistic input data is converted

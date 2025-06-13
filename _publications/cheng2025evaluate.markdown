@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: cheng2025evaluate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11858"}
-  - {name: "Code", url: "https://github.com/thunlp/EmbodiedEval"}
-tags: ['Agentic', 'Tools', 'Applications', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11858'}
+  - {name: "Code", url: 'https://github.com/thunlp/EmbodiedEval'}
+tags: ['Agentic', 'Has Code', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have shown significant advancements,
 providing a promising future for embodied agents. Existing benchmarks for

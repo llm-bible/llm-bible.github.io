@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08208"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08208'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have made significant strides in natural
 language processing and are increasingly being integrated into recommendation

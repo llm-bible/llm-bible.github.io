@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rep2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13130"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13130'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 While BERT produces high-quality sentence embeddings, its pre-training
 computational cost is a significant drawback. In contrast, ELECTRA provides a

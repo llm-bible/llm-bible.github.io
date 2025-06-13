@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.07988"}
-  - {name: "Code", url: "https://github.com/zhuohan123/terapipe"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.07988'}
+  - {name: "Code", url: 'https://github.com/zhuohan123/terapipe'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 Model parallelism has become a necessity for training modern large-scale deep
 language models. In this work, we identify a new and orthogonal dimension from

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023illuminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14202"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14202'}
 tags: ['Fine-Tuning', 'Prompting']
 ---
 This study explores the idea of AI Personality or AInality suggesting that

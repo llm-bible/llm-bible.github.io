@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: joselowitz2024insights
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12491"}
-tags: ['Interpretability and Explainability', 'Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12491'}
+tags: ['Reinforcement Learning', 'Agentic', 'Interpretability and Explainability', 'Training Techniques']
 ---
 Large language models (LLMs) trained with Reinforcement Learning from Human
 Feedback (RLHF) have demonstrated remarkable capabilities, but their underlying

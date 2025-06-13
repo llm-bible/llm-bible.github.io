@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: degenaro2022cascading
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.11456"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.11456'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models having hundreds of millions, and even billions, of
 parameters have performed extremely well on a variety of natural language

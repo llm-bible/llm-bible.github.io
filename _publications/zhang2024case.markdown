@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024case
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09967"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09967'}
 tags: ['Applications']
 ---
 Large Language Models (LLMs) excel in generating personalized content and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: gupta2019exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.01767"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.01767'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Enhancing machine capabilities to answer questions has been a topic of
 considerable focus in recent years of NLP research. Language models like

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: wiseman2018learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.10122"}
-tags: ['Applications', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.10122'}
+tags: ['Language Modeling', 'Applications']
 ---
 While neural, encoder-decoder models have had significant empirical success
 in text generation, there remain several unaddressed problems with this style

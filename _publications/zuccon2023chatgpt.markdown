@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zuccon2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09401"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09401'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Can ChatGPT provide evidence to support its answers? Does the evidence it
 suggests actually exist and does it really support its answer? We investigate

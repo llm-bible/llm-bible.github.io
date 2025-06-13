@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhai2023halle
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.01779v3"}
-tags: ['GPT', 'RAG', 'Multimodal Models', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.01779v3'}
+tags: ['RAG', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Current Large Multimodal Models (LMMs) achieve remarkable progress, yet there
 remains significant uncertainty regarding their ability to accurately apprehend

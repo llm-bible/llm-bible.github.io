@@ -6,8 +6,8 @@ conference: "CEUR Workshop Proceedings (2023 Vol. 3537 pp. 29-37)"
 year: 2023
 bibkey: bacciu2023reinforced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.12798"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.12798'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The emergence of large language models (LLMs) has revolutionized machine
 learning and related fields, showcasing remarkable abilities in comprehending,

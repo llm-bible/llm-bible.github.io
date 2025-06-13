@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: binz2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03759"}
-tags: ['Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03759'}
+tags: ['Attention Mechanism', 'Tools', 'Model Architecture']
 ---
 Large language models (LLMs) are being increasingly incorporated into
 scientific workflows. However, we have yet to fully grasp the implications of

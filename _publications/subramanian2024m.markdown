@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: subramanian2024m
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03699"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03699'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 There is vivid research on adapting Large Language Models (LLMs) to perform a
 variety of tasks in high-stakes domains such as healthcare. Despite their

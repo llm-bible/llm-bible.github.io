@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: srinivasan2024selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15610"}
-  - {name: "Code", url: "https://github.com/tejas1995/ReCoVERR"}
-tags: ['Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15610'}
+  - {name: "Code", url: 'https://github.com/tejas1995/ReCoVERR'}
+tags: ['Has Code', 'Multimodal Models']
 ---
 Selective prediction minimizes incorrect predictions from vision-language
 models (VLMs) by allowing them to abstain from answering when uncertain.

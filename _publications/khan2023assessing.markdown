@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: khan2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02640"}
-  - {name: "Code", url: "https://github.com/DSAatUSU/ChatGPT-promises-and-pitfalls"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02640'}
+  - {name: "Code", url: 'https://github.com/DSAatUSU/ChatGPT-promises-and-pitfalls'}
+tags: ['Has Code', 'Security', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 This paper presents a comprehensive evaluation of the code generation
 capabilities of ChatGPT, a prominent large language model, compared to human

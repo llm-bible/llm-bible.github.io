@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024temporal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06166"}
-tags: ['Multimodal Models', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06166'}
+tags: ['Reinforcement Learning', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Video Large Language Models (Video LLMs) have shown promising capabilities in
 video comprehension, yet they struggle with tracking temporal changes and

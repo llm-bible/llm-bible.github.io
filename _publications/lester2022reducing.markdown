@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lester2022reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.05577"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.05577'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Parameter-efficient methods are able to use a single frozen pre-trained large
 language model (LLM) to perform many tasks by learning task-specific soft

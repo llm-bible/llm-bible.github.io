@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024mmlongbench
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01523"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01523'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Understanding documents with rich layouts and multi-modal components is a
 long-standing and practical task. Recent Large Vision-Language Models (LVLMs)

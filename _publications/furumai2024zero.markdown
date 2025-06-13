@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: furumai2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03585"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03585'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Persuasion plays a pivotal role in a wide range of applications from health
 intervention to the promotion of social good. Persuasive chatbots employed

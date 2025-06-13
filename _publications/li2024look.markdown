@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024look
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10153"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10153'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 The emergence of large language models (LLMs) is a milestone in generative
 artificial intelligence, achieving significant success in text comprehension

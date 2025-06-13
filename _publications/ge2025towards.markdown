@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ge2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01630"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01630'}
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Applications']
 ---
 Temporal reasoning in multi-session dialogues presents a significant
 challenge which has been under-studied in previous temporal reasoning

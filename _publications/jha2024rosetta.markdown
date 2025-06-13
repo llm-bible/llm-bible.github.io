@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jha2024rosetta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17821"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17821'}
+tags: ['Model Architecture', 'BERT', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 While large language models, such as GPT and BERT, have already demonstrated
 unprecedented skills in everything from natural language processing to

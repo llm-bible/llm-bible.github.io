@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14492"}
-  - {name: "Code", url: "https://github.com/tangzhy/RealCritic"}
-tags: ['Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14492'}
+  - {name: "Code", url: 'https://github.com/tangzhy/RealCritic'}
+tags: ['Reinforcement Learning', 'Has Code']
 ---
 Critiques are important for enhancing the performance of Large Language
 Models (LLMs), enabling both self-improvement and constructive feedback for

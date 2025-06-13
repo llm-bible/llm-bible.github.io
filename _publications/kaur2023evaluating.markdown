@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kaur2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08800"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08800'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 As corporations rush to integrate large language models (LLMs) to their
 search offerings, it is critical that they provide factually accurate

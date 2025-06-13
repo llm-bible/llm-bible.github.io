@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024safeguarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13426"}
-tags: ['Security', 'Efficiency and Optimization', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13426'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Applications', 'Security']
 ---
 Large language models (LLMs) are increasingly utilized in applications where
 system prompts, which guide model outputs, play a crucial role. These prompts

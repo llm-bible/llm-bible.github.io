@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024operating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18963"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18963'}
 tags: ['Agentic', 'Multimodal Models', 'Applications', 'Tools']
 ---
 Large language models (LLMs) and large multimodal models (LMMs) have shown

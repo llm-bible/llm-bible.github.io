@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sinha2023mathematical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02295"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02295'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models have become popular for their remarkable capabilities
 in human-oriented tasks and traditional natural language processing tasks. Its

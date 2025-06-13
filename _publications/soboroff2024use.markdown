@@ -6,8 +6,8 @@ conference: "Information Retrieval Research. 1 1 (Mar. 2025) 29-46"
 year: 2024
 bibkey: soboroff2024use
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15133"}
-tags: ['Arxiv', 'SIGIR', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15133'}
+tags: ['SIGIR', 'Arxiv', 'Reinforcement Learning', 'Prompting']
 ---
 Making the relevance judgments for a TREC-style test collection can be
 complex and expensive. A typical TREC track usually involves a team of six

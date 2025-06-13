@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10626"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10626'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have gained significant attention in the field
 of natural language processing (NLP) due to their wide range of applications.

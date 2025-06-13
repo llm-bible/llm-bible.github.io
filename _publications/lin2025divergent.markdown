@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025divergent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13629"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13629'}
+tags: ['Arxiv', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), such as ChatGPT, are reshaping content creation
 and academic writing. This study investigates the impact of AI-assisted

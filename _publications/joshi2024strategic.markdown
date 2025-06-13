@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: joshi2024strategic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17204"}
-tags: ['Survey Paper', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17204'}
+tags: ['Prompting', 'Applications', 'Survey Paper']
 ---
 Given the advancements in conversational artificial intelligence, the
 evaluation and assessment of Large Language Models (LLMs) play a crucial role

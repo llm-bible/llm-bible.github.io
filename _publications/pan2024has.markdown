@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024has
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18679"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18679'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Training large language models (LLMs) from scratch is an expensive endeavor,
 particularly as world knowledge continually evolves. To maintain relevance and

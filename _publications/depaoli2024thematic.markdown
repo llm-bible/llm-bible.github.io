@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: depaoli2024thematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08488"}
-tags: ['Arxiv', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08488'}
+tags: ['Reinforcement Learning', 'Arxiv', 'Prompting']
 ---
 This paper proposes a test to perform Thematic Analysis (TA) with Large
 Language Model (LLM) on data which is in a different language than English.

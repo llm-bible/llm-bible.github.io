@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: madani2024steering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10453"}
-tags: ['Attention Mechanism', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10453'}
+tags: ['Attention Mechanism', 'Prompting', 'Reinforcement Learning', 'Model Architecture']
 ---
 In this study, we address the challenge of enabling large language models
 (LLMs) to consistently adhere to emotional support strategies in extended

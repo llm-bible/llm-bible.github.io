@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: stureborg2024tailoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10861"}
-  - {name: "Code", url: "https://github.com/rickardstureborg/tailor-cgo"}
-  - {name: "Code", url: "https://huggingface.co/datasets/DukeNLP/tailor-cgo"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10861'}
+  - {name: "Code", url: 'https://github.com/rickardstureborg/tailor-cgo'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/DukeNLP/tailor-cgo'}
+tags: ['Has Code', 'GPT', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 One way to personalize chatbot interactions is by establishing common ground
 with the intended reader. A domain where establishing mutual understanding

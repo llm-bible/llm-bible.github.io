@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zaranis2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16246"}
-tags: ['Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16246'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have achieved state-of-the-art performance in
 machine translation (MT) and demonstrated the ability to leverage in-context

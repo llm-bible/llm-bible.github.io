@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15657"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15657'}
+tags: ['Reinforcement Learning', 'Prompting', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) demonstrate remarkable performance
 across a wide range of domains, with increasing emphasis on enhancing their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chandler2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13009"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13009'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting', 'Applications', 'Survey Paper', 'Pretraining Methods']
 ---
 Accurate text summarization is one of the most common and important tasks
 performed by Large Language Models, where the costs of human review for an

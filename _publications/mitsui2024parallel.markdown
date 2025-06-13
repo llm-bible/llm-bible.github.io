@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mitsui2024parallel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12428"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12428'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 Multimodal language models that process both text and speech have a potential
 for applications in spoken dialogue systems. However, current models face two

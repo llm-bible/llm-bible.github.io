@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiao2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00658"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00658'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated significant potential in
 handling complex reasoning tasks through step-by-step rationale generation.

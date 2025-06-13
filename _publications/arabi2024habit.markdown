@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arabi2024habit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19229"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19229'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This paper presents the iterative development of Habit Coach, a GPT-based
 chatbot designed to support users in habit change through personalized

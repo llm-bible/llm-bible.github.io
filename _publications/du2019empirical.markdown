@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: du2019empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.10835"}
-tags: ['Agentic', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.10835'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Agentic']
 ---
 Generating paraphrases from given sentences involves decoding words step by
 step from a large vocabulary. To learn a decoder, supervised learning which

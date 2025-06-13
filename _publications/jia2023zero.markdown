@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jia2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11648"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11648'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 Despite tremendous improvements in natural language generation, summarization
 models still suffer from the unfaithfulness issue. Previous work evaluates

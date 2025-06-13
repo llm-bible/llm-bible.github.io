@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: khalil2025resnetvllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14429"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14429'}
 tags: ['RAG']
 ---
 Large Language Models (LLMs) have transformed natural language processing

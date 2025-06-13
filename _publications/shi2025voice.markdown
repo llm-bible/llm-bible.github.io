@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025voice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02707"}
-tags: ['Transformer', 'INTERSPEECH', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02707'}
+tags: ['Agentic', 'Transformer', 'RAG', 'INTERSPEECH', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 A voice AI agent that blends seamlessly into daily life would interact with
 humans in an autonomous, real-time, and emotionally expressive manner. Rather

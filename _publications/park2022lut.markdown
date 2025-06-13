@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: park2022lut
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.09557"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.09557'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Pretraining Methods']
 ---
 Recent advances in self-supervised learning and the Transformer architecture
 have significantly improved natural language processing (NLP), achieving

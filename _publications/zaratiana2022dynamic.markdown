@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: zaratiana2022dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.15048"}
-  - {name: "Code", url: "https://github.com/urchade/DyReX"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.15048'}
+  - {name: "Code", url: 'https://github.com/urchade/DyReX'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Extractive question answering (ExQA) is an essential task for Natural
 Language Processing. The dominant approach to ExQA is one that represents the

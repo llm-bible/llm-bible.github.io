@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023bounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.09185"}
-  - {name: "Code", url: "https://github.com/SALT-NLP/Bound-Cap-LLM"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.09185'}
+  - {name: "Code", url: 'https://github.com/SALT-NLP/Bound-Cap-LLM'}
+tags: ['Has Code', 'Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 The limits of open-ended generative models are unclear, yet increasingly
 important. What causes them to succeed and what causes them to fail? In this

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: communication2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05187"}
-  - {name: "Code", url: "https://github.com/facebookresearch/seamless_communication"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05187'}
+  - {name: "Code", url: 'https://github.com/facebookresearch/seamless_communication'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Multimodal Models', 'Ethics and Bias']
 ---
 Large-scale automatic speech translation systems today lack key features that
 help machine-mediated communication feel seamless when compared to

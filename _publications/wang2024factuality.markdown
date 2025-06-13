@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024factuality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02420"}
-tags: ['Survey Paper', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02420'}
+tags: ['Attention Mechanism', 'ACL', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'TACL']
 ---
 Large language models (LLMs), especially when instruction-tuned for chat,
 have become part of our daily lives, freeing people from the process of

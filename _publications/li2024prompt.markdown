@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12388"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12388'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 Leveraging large language models (LLMs) for complex natural language tasks
 typically requires long-form prompts to convey detailed requirements and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.16479v1"}
-tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.16479v1'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Large vision-language models (LVLMs) suffer from hallucination a lot,
 generating responses that apparently contradict to the image content

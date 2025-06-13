@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: poesia2023certified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04031"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04031'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language models often achieve higher accuracy when reasoning step-by-step in
 complex tasks. However, even when arriving at a correct final answer, their

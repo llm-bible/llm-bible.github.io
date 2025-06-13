@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cappellazzo2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12319"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12319'}
+tags: ['Attention Mechanism', 'RAG', 'INTERSPEECH', 'Efficiency and Optimization', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) have recently become a focal point
 of research due to their formidable multimodal understanding capabilities. For

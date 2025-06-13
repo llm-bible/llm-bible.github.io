@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11724"}
-  - {name: "Code", url: "https://github.com/XinyuanLu00/TART"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11724'}
+  - {name: "Code", url: 'https://github.com/XinyuanLu00/TART'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Reinforcement Learning', 'Interpretability']
 ---
 Current Large Language Models (LLMs) exhibit limited ability to understand
 table structures and to apply precise numerical reasoning, which is crucial for

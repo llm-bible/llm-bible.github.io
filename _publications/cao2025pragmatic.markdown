@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cao2025pragmatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15835"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15835'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated impressive potential in
 translating natural language (NL) instructions into program code. However, user

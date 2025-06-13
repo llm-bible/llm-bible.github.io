@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gong2024ast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.03003"}
-  - {name: "Code", url: "https://github.com/gonglinyuan/ast_t5"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.03003'}
+  - {name: "Code", url: 'https://github.com/gonglinyuan/ast_t5'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have made significant advancements in
 code-related tasks, yet many LLMs treat code as simple sequences, neglecting

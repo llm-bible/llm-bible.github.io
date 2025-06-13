@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chemla2024no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09544"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09544'}
+tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Training Techniques']
 ---
 What role can the otherwise successful Large Language Models (LLMs) play in
 the understanding of human cognition, and in particular in terms of informing

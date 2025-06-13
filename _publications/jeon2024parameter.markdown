@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jeon2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04902"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04902'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Due to the high memory and computational costs associated with large language
 models (LLMs), model compression techniques such as quantization, which reduces

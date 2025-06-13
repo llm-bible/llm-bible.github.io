@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12742"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12742'}
 tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 The advancement of large language models (LLMs) has significantly broadened

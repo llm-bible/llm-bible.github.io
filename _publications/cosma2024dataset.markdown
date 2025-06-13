@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cosma2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13222"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13222'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have become increasingly powerful and
 have become capable of solving a plethora of tasks through proper instructions

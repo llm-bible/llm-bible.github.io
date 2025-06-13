@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18743"}
-  - {name: "Code", url: "https://github.com/THUDM/AlignBench"}
-tags: ['Interpretability and Explainability', 'Has Code', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18743'}
+  - {name: "Code", url: 'https://github.com/THUDM/AlignBench'}
+tags: ['Reinforcement Learning', 'Has Code', 'Interpretability and Explainability', 'Merging']
 ---
 Alignment has become a critical step for instruction-tuned Large Language
 Models (LLMs) to become helpful assistants. However, the effective evaluation

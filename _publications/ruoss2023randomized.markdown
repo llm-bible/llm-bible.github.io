@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ruoss2023randomized
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.16843v1"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.16843v1'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformers have impressive generalization capabilities on tasks with a
 fixed context length. However, they fail to generalize to sequences of

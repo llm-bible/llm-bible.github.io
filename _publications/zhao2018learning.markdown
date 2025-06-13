@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: zhao2018learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1807.00737"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1807.00737'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Learning goal-oriented dialogues by means of deep reinforcement learning has
 recently become a popular research topic. However, commonly used policy-based

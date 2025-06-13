@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025each
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15103"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15103'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Tools']
 ---
 Low-Rank Adaptation (LoRA) is widely used for adapting large language models
 (LLMs) to specific domains due to its efficiency and modularity. Meanwhile,

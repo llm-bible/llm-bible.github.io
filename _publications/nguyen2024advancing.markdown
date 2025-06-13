@@ -6,9 +6,9 @@ conference: "Computers and Electrical Engineering 119 (2024) 109474"
 year: 2024
 bibkey: nguyen2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21229"}
-  - {name: "Code", url: "https://github.com/nngocson2002/ViVQA"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21229'}
+  - {name: "Code", url: 'https://github.com/nngocson2002/ViVQA'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Visual Question Answering (VQA) has recently emerged as a potential research
 domain, captivating the interest of many in the field of artificial

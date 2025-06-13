@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alshemali2024uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15173"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15173'}
+tags: ['Prompting', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 The thematic fit estimation task measures the compatibility between a
 predicate (typically a verb), an argument (typically a noun phrase), and a

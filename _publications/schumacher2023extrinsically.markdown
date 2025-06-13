@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: schumacher2023extrinsically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08303"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08303'}
+tags: ['GPT', 'Model Architecture', 'Responsible AI', 'Applications']
 ---
 Large language models (LLMs) have shown promise in safety-critical
 applications such as healthcare, yet the ability to quantify performance has

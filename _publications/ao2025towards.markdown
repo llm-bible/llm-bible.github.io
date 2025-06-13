@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ao2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15338"}
-tags: ['Tools', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15338'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have recently shown remarkable ability to
 process not only text but also multimodal inputs such as speech and audio.

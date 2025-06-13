@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ai2024qase
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04771"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04771'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 To address the challenges of out-of-control generation in generative models
 for machine reading comprehension (MRC), we introduce the Question-Attended

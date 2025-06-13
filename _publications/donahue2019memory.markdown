@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: donahue2019memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.10487"}
-tags: ['RAG', 'Attention Mechanism', 'Transformer', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.10487'}
+tags: ['Attention Mechanism', 'RAG', 'Transformer', 'Model Architecture']
 ---
 Recent dialogue approaches operate by reading each word in a conversation
 history, and aggregating accrued dialogue information into a single state. This

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024instance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20441"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20441'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Zero-shot Chain-of-Thought (CoT) prompting emerges as a simple and effective
 strategy for enhancing the performance of large language models (LLMs) in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024new
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16965"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16965'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'GPT']
 ---
 With the fast development of large language models (LLMs), LLM-driven Web
 Agents (Web Agents for short) have obtained tons of attention due to their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: magister2022teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.08410"}
-tags: ['Efficiency and Optimization', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.08410'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Distillation']
 ---
 Chain of thought prompting successfully improves the reasoning capabilities
 of large language models, achieving state of the art results on a range of

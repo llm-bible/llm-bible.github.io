@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cohen2024information
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13207"}
-tags: ['Responsible AI', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13207'}
+tags: ['Prompting', 'Security', 'Responsible AI']
 ---
 The popularity of large language models (LLMs) continues to increase, and
 LLM-based assistants have become ubiquitous, assisting people of diverse

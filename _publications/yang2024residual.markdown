@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024residual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15851"}
-  - {name: "Code", url: "https://github.com/yvhangyang/ResCLIP"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15851'}
+  - {name: "Code", url: 'https://github.com/yvhangyang/ResCLIP'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 While vision-language models like CLIP have shown remarkable success in
 open-vocabulary tasks, their application is currently confined to image-level

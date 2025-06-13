@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025achieving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07979"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07979'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Class-incremental learning (CIL) enables models to learn new classes
 progressively while preserving knowledge of previously learned ones. Recent

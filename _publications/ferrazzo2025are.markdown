@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ferrazzo2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10266"}
-tags: ['Tools', 'GPT', 'Applications', 'TACL', 'Model Architecture', 'ACL', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10266'}
+tags: ['Attention Mechanism', 'ACL', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'TACL']
 ---
 Data elicitation from human participants is one of the core data collection
 strategies used in empirical linguistic research. The amount of participants in

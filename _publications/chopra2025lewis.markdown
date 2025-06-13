@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chopra2025lewis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03874"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Merging', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03874'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Merging', 'Pruning']
 ---
 As specialized large language models (LLMs) become increasingly prevalent,
 model merging methods are being used to combine them to create a single

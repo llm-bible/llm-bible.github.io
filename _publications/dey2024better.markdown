@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dey2024better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13153"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13153'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) are trained on massive amounts of data, enabling
 their application across diverse domains and tasks. Despite their remarkable

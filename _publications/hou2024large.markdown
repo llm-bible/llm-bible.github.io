@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11789"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11789'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) are able to provide assistance on a wide range
 of information-seeking tasks. However, model outputs may be misleading, whether

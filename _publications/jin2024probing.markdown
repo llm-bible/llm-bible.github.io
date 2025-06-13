@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13584"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13584'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Humans perceive and comprehend different visual properties of an object based
 on specific contexts. For instance, we know that a banana turns brown ``when it

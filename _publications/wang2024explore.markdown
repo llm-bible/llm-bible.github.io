@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024explore
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06655"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06655'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture']
 ---
 Reasoning is a central capability of human intelligence. In recent years,
 with the advent of large-scale datasets, pretrained large language models have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025full
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04723"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04723'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 This study addresses key challenges in developing domain-specific large
 language models (LLMs) for Chinese state-owned assets and enterprises (SOAEs),

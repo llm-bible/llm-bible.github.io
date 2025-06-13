@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: meng2025personal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16473"}
-tags: ['GPT', 'Tools', 'Multimodal Models', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16473'}
+tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Tools']
 ---
 Traditional rule-based conversational robots, constrained by predefined
 scripts and static response mappings, fundamentally lack adaptability for

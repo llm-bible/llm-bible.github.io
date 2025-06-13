@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: surana2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15476"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15476'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'RecSys']
 ---
 Conversational recommender systems (CRS) typically require extensive
 domain-specific conversational datasets, yet high costs, privacy concerns, and

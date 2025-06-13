@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ruciński2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09759"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09759'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 This study explores the potential of fine-tuning foundational English Large
 Language Models (LLMs) for generating Polish text. The first step involves

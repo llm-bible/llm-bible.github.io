@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17631"}
-  - {name: "Code", url: "https://github.com/baaivision/JudgeLM"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17631'}
+  - {name: "Code", url: 'https://github.com/baaivision/JudgeLM'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Evaluating Large Language Models (LLMs) in open-ended scenarios is
 challenging because existing benchmarks and metrics can not measure them

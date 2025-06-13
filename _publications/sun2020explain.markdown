@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: sun2020explain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2001.01037"}
-tags: ['Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2001.01037'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper analyzes the predictions of image captioning models with attention
 mechanisms beyond visualizing the attention itself. We develop variants of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11402"}
-  - {name: "Code", url: "https://huggingface.co/nvidia/NVLM-D-72B"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11402'}
+  - {name: "Code", url: 'https://huggingface.co/nvidia/NVLM-D-72B'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 We introduce NVLM 1.0, a family of frontier-class multimodal large language
 models (LLMs) that achieve state-of-the-art results on vision-language tasks,

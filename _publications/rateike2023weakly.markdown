@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rateike2023weakly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02798"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02798'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We propose an auditing method to identify whether a large language model
 (LLM) encodes patterns such as hallucinations in its internal states, which may

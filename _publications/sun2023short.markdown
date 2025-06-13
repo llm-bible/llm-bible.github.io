@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023short
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.09136"}
-tags: ['Agentic', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.09136'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large language models (LLMs) have transformed many fields, including natural
 language processing, computer vision, and reinforcement learning. These models

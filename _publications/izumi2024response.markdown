@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: izumi2024response
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15966"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15966'}
 tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Dialogue systems controlled by predefined or rule-based scenarios derived

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kurihara2025lctg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15875"}
-tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15875'}
+tags: ['Language Modeling', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 The rise of large language models (LLMs) has led to more diverse and
 higher-quality machine-generated text. However, their high expressive power

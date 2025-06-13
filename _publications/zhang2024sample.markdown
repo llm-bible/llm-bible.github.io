@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024sample
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17092"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17092'}
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 Document Information Extraction (DIE) aims to extract structured information
 from Visually Rich Documents (VRDs). Previous full-training approaches have

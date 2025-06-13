@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: vaidya2023humans
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06408"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06408'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Language models that are trained on the next-word prediction task have been
 shown to accurately model human behavior in word prediction and reading speed.

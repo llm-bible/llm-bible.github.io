@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: stahl2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15845"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15845'}
 tags: ['Few-Shot', 'Prompting']
 ---
 Individual feedback can help students improve their essay writing skills.

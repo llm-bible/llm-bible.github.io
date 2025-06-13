@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: koshti2023interaction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07150"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07150'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper aims to address a critical challenge in robotics, which is

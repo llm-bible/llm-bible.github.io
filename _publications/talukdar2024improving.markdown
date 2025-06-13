@@ -6,8 +6,8 @@ conference: "World Journal of Advanced Engineering Technology and Sciences 2023 
 year: 2024
 bibkey: talukdar2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04023"}
-tags: ['Responsible AI', 'Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Interpretability', 'Security', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04023'}
+tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Fairness', 'Applications', 'Tools', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 As Large Language Models (LLMs) become increasingly sophisticated and
 ubiquitous in natural language processing (NLP) applications, ensuring their

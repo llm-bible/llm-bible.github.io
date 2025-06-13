@@ -6,8 +6,8 @@ conference: "International Conference on Learning Representations (ICLR 2023)"
 year: 2023
 bibkey: ji2023tailoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13344"}
-tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13344'}
+tags: ['Language Modeling', 'RAG', 'Security', 'GPT', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 The standard paradigm of neural language generation adopts maximum likelihood
 estimation (MLE) as the optimizing method. From a distributional view, MLE in

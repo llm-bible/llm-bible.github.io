@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: meyur2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11800"}
-tags: ['RAG', 'Tools', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11800'}
+tags: ['RAG', 'Language Modeling', 'Applications', 'Tools']
 ---
 In the rapidly evolving landscape of Natural Language Processing (NLP) and
 text generation, the emergence of Retrieval Augmented Generation (RAG) presents

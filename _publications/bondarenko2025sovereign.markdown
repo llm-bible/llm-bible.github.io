@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bondarenko2025sovereign
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04745"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04745'}
 tags: ['Reinforcement Learning']
 ---
 This report analyzes key trends, challenges, risks, and opportunities

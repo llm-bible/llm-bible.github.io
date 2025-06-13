@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: samvelyan2024rainbow
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16822"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16822'}
+tags: ['Security', 'Training Techniques', 'Applications', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 As large language models (LLMs) become increasingly prevalent across many
 real-world applications, understanding and enhancing their robustness to

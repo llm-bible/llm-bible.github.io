@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05184"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05184'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Recent studies show that large language models (LLMs) are powerful tools for
 working with natural language, bringing advances in many areas of computational

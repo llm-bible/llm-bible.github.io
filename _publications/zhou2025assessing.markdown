@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07329"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07329'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 The impact of random seeds in fine-tuning large language models (LLMs) has
 been largely overlooked despite its potential influence on model performance.In

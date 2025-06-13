@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ding2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06625"}
-  - {name: "Code", url: "https://github.com/DripNowhy/ETA"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06625'}
+  - {name: "Code", url: 'https://github.com/DripNowhy/ETA'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI']
 ---
 Vision Language Models (VLMs) have become essential backbones for multimodal
 intelligence, yet significant safety challenges limit their real-world

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: long2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08206"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08206'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Knowledge retrieval with multi-modal queries plays a crucial role in
 supporting knowledge-intensive multi-modal applications. However, existing

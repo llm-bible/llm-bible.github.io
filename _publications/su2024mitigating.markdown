@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09417"}
-  - {name: "Code", url: "https://github.com/oneal2000/EntityHallucination"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09417'}
+  - {name: "Code", url: 'https://github.com/oneal2000/EntityHallucination'}
 tags: ['Has Code', 'Applications']
 ---
 The emergence of Large Language Models (LLMs) has revolutionized how users

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abhyankar2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01869"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01869'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models are increasingly integrated with external environments,

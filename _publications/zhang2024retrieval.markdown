@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10207"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10207'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Open-domain semantic parsing remains a challenging task, as models often rely
 on heuristics and struggle to handle unseen concepts. In this paper, we

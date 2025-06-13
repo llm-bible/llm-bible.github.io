@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shanahan2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03746"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03746'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 This paper assesses the potential for large language models (LLMs) to serve
 as assistive tools in the creative writing process, by means of a single,

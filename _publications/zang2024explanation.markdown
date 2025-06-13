@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zang2024explanation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13390"}
-tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13390'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The robustness of Transformer-based Natural Language Inference encoders is
 frequently compromised as they tend to rely more on dataset biases than on the

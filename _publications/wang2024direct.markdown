@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14664"}
-tags: ['Efficiency and Optimization', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14664'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Survey Paper', 'Ethics and Bias']
 ---
 Auto-evaluation is crucial for assessing response quality and offering
 feedback for model development. Recent studies have explored training large

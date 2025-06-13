@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024meaningful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09085"}
-  - {name: "Code", url: "https://github.com/Waste-Wood/MeanLearn"}
-tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09085'}
+  - {name: "Code", url: 'https://github.com/Waste-Wood/MeanLearn'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability']
 ---
 Large language models (LLMs) have developed impressive performance and strong
 explainability across various reasoning scenarios, marking a significant stride

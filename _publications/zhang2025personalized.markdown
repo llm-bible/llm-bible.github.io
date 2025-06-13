@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05213"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05213'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Personalized text generation aims to infer users' writing style preferences
 from their historical texts and generate outputs that faithfully reflect these

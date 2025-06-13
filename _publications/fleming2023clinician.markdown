@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fleming2023clinician
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14089"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14089'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 The ability of large language models (LLMs) to follow natural language
 instructions with human-level fluency suggests many opportunities in healthcare

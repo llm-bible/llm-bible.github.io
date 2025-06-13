@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thelwall2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06752"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06752'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Evaluating the quality of academic journal articles is a time consuming but
 critical task for national research evaluation exercises, appointments and

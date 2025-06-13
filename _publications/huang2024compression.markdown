@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024compression
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09937"}
-tags: ['RAG', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09937'}
+tags: ['Reinforcement Learning', 'RAG', 'Language Modeling', 'Efficiency and Optimization']
 ---
 There is a belief that learning to compress well will lead to intelligence.
 Recently, language modeling has been shown to be equivalent to compression,

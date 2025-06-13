@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: borkar2025privacy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15680"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15680'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Due to the sensitive nature of personally identifiable information (PII), its
 owners may have the authority to control its inclusion or request its removal

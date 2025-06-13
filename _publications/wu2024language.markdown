@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04332"}
-  - {name: "Code", url: "https://github.com/FoundationVision/Liquid"}
-tags: ['Training Techniques', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04332'}
+  - {name: "Code", url: 'https://github.com/FoundationVision/Liquid'}
+tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Training Techniques']
 ---
 We present Liquid, an auto-regressive generation paradigm that seamlessly
 integrates visual comprehension and generation by tokenizing images into

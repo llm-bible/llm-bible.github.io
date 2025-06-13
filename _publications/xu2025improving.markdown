@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06101"}
-  - {name: "Code", url: "https://github.com/JianXu95/RALLRec"}
-tags: ['RAG', 'Reinforcement Learning', 'LREC', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06101'}
+  - {name: "Code", url: 'https://github.com/JianXu95/RALLRec'}
+tags: ['LREC', 'Has Code', 'RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have been integrated into recommendation systems
 to enhance user behavior comprehension. The Retrieval Augmented Generation

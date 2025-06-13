@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: miller2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16717"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16717'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Language Models (LMs) have demonstrated impressive capabilities in solving
 complex reasoning tasks, particularly when prompted to generate intermediate

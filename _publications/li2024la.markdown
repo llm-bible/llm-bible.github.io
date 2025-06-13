@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024la
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08597"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08597'}
 tags: ['RAG', 'INTERSPEECH', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in integrating speech information into large language

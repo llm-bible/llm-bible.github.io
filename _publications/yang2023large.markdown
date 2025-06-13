@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.20487v1"}
-  - {name: "Code", url: "https://github.com/YangZhengyi98/RecInterpreter"}
-tags: ['Tools', 'RAG', 'ACL', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.20487v1'}
+  - {name: "Code", url: 'https://github.com/YangZhengyi98/RecInterpreter'}
+tags: ['Has Code', 'ACL', 'RAG', 'Tools', 'Prompting', 'Multimodal Models']
 ---
 Sequential recommendation is to predict the next item of interest for a user,
 based on her/his interaction history with previous items. In conventional

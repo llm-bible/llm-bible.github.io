@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024study
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08089"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08089'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning']
 ---
 This paper presents an innovative exploration of the application potential of
 large language models (LLM) in addressing the challenging task of automatically

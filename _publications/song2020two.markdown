@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: song2020two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.12817"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.12817'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 While pre-training and fine-tuning, e.g., BERT~\citep\{devlin2018bert\},
 GPT-2~\citep\{radford2019language\}, have achieved great success in language

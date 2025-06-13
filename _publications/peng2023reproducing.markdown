@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: peng2023reproducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13876"}
-tags: ['INTERSPEECH', 'Pre-Training', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Dataset', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13876'}
+tags: ['Dataset', 'Ethics and Bias', 'INTERSPEECH', 'Security', 'Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Bias Mitigation', 'Reinforcement Learning', 'Pre-Training']
 ---
 Pre-training speech models on large volumes of data has achieved remarkable
 success. OpenAI Whisper is a multilingual multitask model trained on 680k hours

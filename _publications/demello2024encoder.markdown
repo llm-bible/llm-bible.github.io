@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: demello2024encoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19204"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19204'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper we present PeLLE, a family of large language models based on
 the RoBERTa architecture, for Brazilian Portuguese, trained on curated, open

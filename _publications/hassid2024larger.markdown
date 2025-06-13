@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hassid2024larger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00725"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00725'}
 tags: ['Applications']
 ---
 It is a common belief that large language models (LLMs) are better than

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zafrir2019quantized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.06188"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.06188'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, pre-trained Transformer based language models such as BERT and GPT,
 have shown great improvement in many Natural Language Processing (NLP) tasks.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wehner2025challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19649"}
-tags: ['Tools', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19649'}
+tags: ['Reinforcement Learning', 'Tools', 'Survey Paper']
 ---
 Representation Engineering (RepE) is a novel paradigm for controlling the
 behavior of LLMs. Unlike traditional approaches that modify inputs or fine-tune

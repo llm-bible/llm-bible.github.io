@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wallat2021investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.02902"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.02902'}
+tags: ['Masked Language Model', 'Language Modeling', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Probing complex language models has recently revealed several insights into
 linguistic and semantic patterns found in the learned representations. In this

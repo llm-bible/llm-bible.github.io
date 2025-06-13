@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024appagent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11824"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11824'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 With the advancement of Multimodal Large Language Models (MLLM), LLM-driven
 visual agents are increasingly impacting software interfaces, particularly

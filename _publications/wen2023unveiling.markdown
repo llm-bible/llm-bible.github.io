@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wen2023unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17391"}
-  - {name: "Code", url: "https://github.com/thu-coai/Implicit-Toxicity"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17391'}
+  - {name: "Code", url: 'https://github.com/thu-coai/Implicit-Toxicity'}
+tags: ['Agentic', 'Has Code', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 The open-endedness of large language models (LLMs) combined with their
 impressive capabilities may lead to new safety issues when being exploited for

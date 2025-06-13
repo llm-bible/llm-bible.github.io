@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: caccia2025training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08727"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08727'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training']
 ---
 Dynamically integrating new or rapidly evolving information after (Large)
 Language Model pre-training remains challenging, particularly in low-data

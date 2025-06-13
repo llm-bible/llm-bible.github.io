@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: merity2019single
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.11423"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.11423'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods']
 ---
 The leading approaches in language modeling are all obsessed with TV shows of
 my youth - namely Transformers and Sesame Street. Transformers this,

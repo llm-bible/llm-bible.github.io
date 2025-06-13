@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024truth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01064"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01064'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) often produce outputs that -- though plausible
 -- can lack consistency and reliability, particularly in ambiguous or complex

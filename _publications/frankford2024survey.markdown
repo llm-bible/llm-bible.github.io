@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: frankford2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20183"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20183'}
 tags: ['Survey Paper']
 ---
 This paper analyzes Large Language Models (LLMs) with regard to their

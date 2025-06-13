@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023cue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11792"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11792'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs), such as \texttt\{ChatGPT\}, greatly empower
 dialogue systems with strong language understanding and generation

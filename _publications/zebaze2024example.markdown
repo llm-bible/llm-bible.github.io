@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zebaze2024example
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00397"}
-  - {name: "Code", url: "https://github.com/ArmelRandy/ICL-MT"}
-tags: ['Has Code', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00397'}
+  - {name: "Code", url: 'https://github.com/ArmelRandy/ICL-MT'}
+tags: ['Prompting', 'Has Code', 'Applications']
 ---
 The ability of generative large language models (LLMs) to perform in-context
 learning has given rise to a large body of research into how best to prompt

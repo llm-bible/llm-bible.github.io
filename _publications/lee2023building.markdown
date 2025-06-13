@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.03512"}
-  - {name: "Code", url: "https://github.com/minniie/multimodal_chat.git"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.03512'}
+  - {name: "Code", url: 'https://github.com/minniie/multimodal_chat.git'}
+tags: ['Has Code', 'GPT', 'BERT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This work aims to create a multimodal AI system that chats with humans and
 shares relevant photos. While earlier works were limited to dialogues about

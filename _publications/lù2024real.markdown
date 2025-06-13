@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lù2024real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05930"}
-  - {name: "Code", url: "https://mcgill-nlp.github.io/weblinx"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05930'}
+  - {name: "Code", url: 'https://mcgill-nlp.github.io/weblinx'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We propose the problem of conversational web navigation, where a digital
 agent controls a web browser and follows user instructions to solve real-world

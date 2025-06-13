@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025creation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14478"}
-  - {name: "Code", url: "https://github.com/open-compass/Creation-MMBench"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14478'}
+  - {name: "Code", url: 'https://github.com/open-compass/Creation-MMBench'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Creativity is a fundamental aspect of intelligence, involving the ability to
 generate novel and appropriate solutions across diverse contexts. While Large

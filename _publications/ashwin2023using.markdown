@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ashwin2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.17147"}
-tags: ['Training Techniques', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.17147'}
+tags: ['Ethics and Bias', 'Training Techniques']
 ---
 Large Language Models (LLMs) are quickly becoming ubiquitous, but the
 implications for social science research are not yet well understood. This

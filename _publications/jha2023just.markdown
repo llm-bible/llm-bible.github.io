@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jha2023just
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14864"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14864'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'Model Architecture', 'Quantization', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) enable unparalleled few- and zero-shot reasoning
 capabilities but at a high computational footprint. A growing assortment of

@@ -6,7 +6,7 @@ conference: "Minds Machines 35 2 (2025)"
 year: 2024
 bibkey: ryazanov2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06120"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06120'}
 tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 We perform a mixed-method frame semantics-based analysis on a dataset of more

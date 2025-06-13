@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kim2022high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.04558"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.04558'}
+tags: ['Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Data-to-text (D2T) generation is the task of generating texts from structured
 inputs. We observed that when the same target sentence was repeated twice,

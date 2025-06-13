@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ton2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11984"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11984'}
 tags: ['Tools']
 ---
 Large Language Models (LLMs) have shown impressive performance in complex

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: khvatskii2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16537"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16537'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 This paper examines the performance of Multimodal LLMs (MLLMs) in skilled
 production work, with a focus on welding. Using a novel data set of real-world

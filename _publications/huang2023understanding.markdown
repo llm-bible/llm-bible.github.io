@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023understanding
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.12995v1"}
-  - {name: "Code", url: "https://github.com/AIGC-Audio/AudioGPT"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.12995v1'}
+  - {name: "Code", url: 'https://github.com/AIGC-Audio/AudioGPT'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have exhibited remarkable capabilities across a
 variety of domains and tasks, challenging our understanding of learning and

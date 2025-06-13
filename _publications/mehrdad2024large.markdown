@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mehrdad2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00247"}
-tags: ['Fine-Tuning', 'RAG', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00247'}
+tags: ['RAG', 'Fine-Tuning', 'Prompting', 'Applications']
 ---
 High relevance of retrieved and re-ranked items to the search query is the
 cornerstone of successful product search, yet measuring relevance of items to

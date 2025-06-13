@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wan2023universal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14926"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14926'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 A hallmark of modern large language models (LLMs) is their impressive general

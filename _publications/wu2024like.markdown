@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024like
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13803"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13803'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 The human-computer interaction (HCI) research community has a longstanding
 interest in exploring the mismatch between users' actual experiences and

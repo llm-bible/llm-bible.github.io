@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11314"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11314'}
 tags: ['Efficiency and Optimization']
 ---
 Recent advancements in long chain-of-thoughts(long CoTs) have significantly

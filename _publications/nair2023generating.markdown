@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nair2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.05982"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.05982'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 A medical provider's summary of a patient visit serves several critical
 purposes, including clinical decision-making, facilitating hand-offs between

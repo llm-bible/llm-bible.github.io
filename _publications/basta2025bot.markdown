@@ -6,8 +6,8 @@ conference: "Pacific-Asia Conference on Knowledge Discovery and Data Mining PAKD
 year: 2025
 bibkey: basta2025bot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07036"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07036'}
+tags: ['Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 We present "Bot Wars," a framework using Large Language Models (LLMs)
 scam-baiters to counter phone scams through simulated adversarial dialogues.

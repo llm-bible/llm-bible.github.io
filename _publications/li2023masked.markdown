@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023masked
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.05314"}
-  - {name: "Code", url: "https://github.com/pengfeiliHEU/MUMC"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.05314'}
+  - {name: "Code", url: 'https://github.com/pengfeiliHEU/MUMC'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'BERT', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Medical visual question answering (VQA) is a challenging task that requires
 answering clinical questions of a given medical image, by taking consider of

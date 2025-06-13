@@ -6,8 +6,8 @@ conference: "10.1016/j.esmorw.2024.100078"
 year: 2024
 bibkey: hetz2024superhuman
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01428"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01428'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Interpretability']
 ---
 Large Language Models (LLMs) are revolutionizing medical Question-Answering
 (medQA) through extensive use of medical literature. However, their performance

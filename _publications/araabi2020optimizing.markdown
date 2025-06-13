@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: araabi2020optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.02266"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.02266'}
+tags: ['Transformer', 'SLT', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Language pairs with limited amounts of parallel data, also known as
 low-resource languages, remain a challenge for neural machine translation.

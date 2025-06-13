@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07641"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07641'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 As research in large language models (LLMs) continues to accelerate,
 LLM-based evaluation has emerged as a scalable and cost-effective alternative

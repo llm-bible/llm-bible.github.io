@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07584"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07584'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Semantic information is vital for human interaction, and decoding it from
 brain activity enables non-invasive clinical augmentative and alternative

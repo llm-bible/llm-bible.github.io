@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: guo2022turbocharge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.05022"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.05022'}
+tags: ['Transformer', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Natural Language Processing (NLP) inference is seeing increasing adoption by
 mobile applications, where on-device inference is desirable for crucially

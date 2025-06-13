@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sinclair2021structural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.14989"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.14989'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 We investigate the extent to which modern, neural language models are
 susceptible to structural priming, the phenomenon whereby the structure of a

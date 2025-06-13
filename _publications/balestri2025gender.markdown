@@ -6,8 +6,8 @@ conference: "Frontiers in Artificial Intelligence (2025) 81558696"
 year: 2025
 bibkey: balestri2025gender
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16534"}
-tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Interpretability', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16534'}
+tags: ['Fairness', 'GPT', 'Model Architecture', 'Prompting', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability']
 ---
 This study evaluates the biases in Gemini 2.0 Flash Experimental, a
 state-of-the-art large language model (LLM) developed by Google, focusing on

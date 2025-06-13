@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024kg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11163"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11163'}
+tags: ['Agentic', 'Agent', 'RAG', 'Applications', 'Tools']
 ---
 In this paper, we aim to improve the reasoning ability of large language
 models (LLMs) over knowledge graphs (KGs) to answer complex questions. Inspired

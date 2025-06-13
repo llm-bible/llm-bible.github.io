@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03921"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03921'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Sentence Embedding stands as a fundamental task within the realm of Natural
 Language Processing, finding extensive application in search engines, expert

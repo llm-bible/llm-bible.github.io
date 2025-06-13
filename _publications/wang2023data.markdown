@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01700"}
-  - {name: "Code", url: "https://github.com/ZigeW/data_management_LLM"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01700'}
+  - {name: "Code", url: 'https://github.com/ZigeW/data_management_LLM'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Data plays a fundamental role in training Large Language Models (LLMs).
 Efficient data management, particularly in formulating a well-suited training

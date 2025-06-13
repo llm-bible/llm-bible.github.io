@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18475"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18475'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) using low-rank adaptation (LoRA) has
 become a highly efficient approach for downstream tasks, particularly in

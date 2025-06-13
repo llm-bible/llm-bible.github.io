@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08398"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08398'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 In this paper, we analyze and empirically show that the learned relevance for
 conventional information retrieval (IR) scenarios may be inconsistent in

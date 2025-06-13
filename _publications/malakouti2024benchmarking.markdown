@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: malakouti2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10719"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10719'}
 tags: ['Uncategorized']
 ---
 Vision language models (VLMs) have shown strong zero-shot generalization

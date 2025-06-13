@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: shafayat2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.10900"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.10900'}
 tags: ['Prompting', 'Applications']
 ---
 In this study, we introduce BEnQA, a dataset comprising parallel Bengali and

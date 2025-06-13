@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bajpai2024information
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10813"}
-tags: ['Security', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10813'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated strong performance as
 knowledge repositories, enabling models to understand user queries and generate

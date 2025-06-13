@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024wavelet
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12924"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12924'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large Language Models (LLMs) have ushered in a new wave of artificial
 intelligence advancements impacting every scientific field and discipline. We

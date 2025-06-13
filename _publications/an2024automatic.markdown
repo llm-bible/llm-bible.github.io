@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: an2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00598"}
-  - {name: "Code", url: "https://github.com/umd-huang-lab/FalseRefusal"}
-tags: ['Responsible AI', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00598'}
+  - {name: "Code", url: 'https://github.com/umd-huang-lab/FalseRefusal'}
+tags: ['Prompting', 'Has Code', 'Security', 'Responsible AI']
 ---
 Safety-aligned large language models (LLMs) sometimes falsely refuse
 pseudo-harmful prompts, like "how to kill a mosquito," which are actually

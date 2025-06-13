@@ -6,8 +6,8 @@ conference: "2024 6th International Conference on Computational Intelligence and
 year: 2025
 bibkey: roy2025conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09801"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09801'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 This study introduces a system leveraging Large Language Models (LLMs) to
 extract text and enhance user interaction with PDF documents via a

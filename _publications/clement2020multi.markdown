@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: clement2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.03150"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.03150'}
 tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Simultaneously modeling source code and natural language has many exciting

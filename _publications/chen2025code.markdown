@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12734"}
-tags: ['Agentic', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12734'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Pre-Training']
 ---
 Unified Structured Knowledge Reasoning (USKR) aims to answer natural language
 questions (NLQs) by using structured sources such as tables, databases, and

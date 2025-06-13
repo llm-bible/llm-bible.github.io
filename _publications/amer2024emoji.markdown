@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amer2024emoji
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05031"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05031'}
+tags: ['Reinforcement Learning', 'GPT', 'BERT', 'Model Architecture']
 ---
 Emojis improve communication quality among smart-phone users that use mobile
 keyboards to exchange text. To predict emojis for users based on input text, we

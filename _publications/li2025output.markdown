@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025output
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01923"}
-tags: ['Responsible AI', 'Agentic', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01923'}
+tags: ['Agentic', 'Security', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) have demonstrated strong reasoning capabilities,
 but their safety under adversarial conditions remains a challenge. This study

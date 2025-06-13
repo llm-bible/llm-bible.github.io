@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chan2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04681"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04681'}
 tags: ['Survey Paper']
 ---
 This study examines the impact of AI on human false memories -- recollections

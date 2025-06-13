@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nishimwe2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17220"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17220'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 NLP models have been known to perform poorly on user-generated content (UGC),
 mainly because it presents a lot of lexical variations and deviates from the

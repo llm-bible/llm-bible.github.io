@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024financial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17866"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17866'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 We investigate whether large language models (LLMs) can successfully perform
 financial statement analysis in a way similar to a professional human analyst.

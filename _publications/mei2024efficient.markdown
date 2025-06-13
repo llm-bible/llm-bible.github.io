@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: mei2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14088"}
-  - {name: "Code", url: "https://github.com/openpsi-project/ReaLHF"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14088'}
+  - {name: "Code", url: 'https://github.com/openpsi-project/ReaLHF'}
+tags: ['Large-Scale Training', 'Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Reinforcement Learning from Human Feedback (RLHF) is a pivotal technique for
 empowering large language model (LLM) applications. Compared with the

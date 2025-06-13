@@ -6,8 +6,8 @@ conference: "Proceedings of the First Workshop on Patient-Oriented Language Proc
 year: 2025
 bibkey: lovon2025revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20547"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20547'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 The lack of standardized evaluation benchmarks in the medical domain for text
 inputs can be a barrier to widely adopting and leveraging the potential of

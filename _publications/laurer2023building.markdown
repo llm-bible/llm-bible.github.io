@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: laurer2023building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17543"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17543'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Generative Large Language Models (LLMs) have become the mainstream choice for
 fewshot and zeroshot learning thanks to the universality of text generation.

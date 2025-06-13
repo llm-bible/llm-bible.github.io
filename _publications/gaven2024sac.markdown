@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gaven2024sac
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12481"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12481'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Agentic']
 ---
 The past years have seen Large Language Models (LLMs) strive not only as
 generative models but also as agents solving textual sequential decision-making

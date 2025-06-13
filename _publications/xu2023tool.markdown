@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023tool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16504"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16504'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent studies on software tool manipulation with large language models
 (LLMs) mostly rely on closed model APIs. The industrial adoption of these

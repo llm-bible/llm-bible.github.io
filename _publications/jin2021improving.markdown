@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: jin2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.03137"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.03137'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training']
 ---
 Existing generative pre-trained language models (e.g., GPT) focus on modeling
 the language structure and semantics of general texts. However, those models do

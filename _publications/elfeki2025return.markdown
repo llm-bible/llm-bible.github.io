@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: elfeki2025return
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16273"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16273'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 The dominance of large decoder-only language models has overshadowed
 encoder-decoder architectures, despite their fundamental efficiency advantages

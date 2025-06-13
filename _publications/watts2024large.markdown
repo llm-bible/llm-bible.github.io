@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: watts2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15053"}
-tags: ['Pre-Training', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15053'}
+tags: ['Ethics and Bias', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Evaluation of multilingual Large Language Models (LLMs) is challenging due to
 a variety of factors -- the lack of benchmarks with sufficient linguistic

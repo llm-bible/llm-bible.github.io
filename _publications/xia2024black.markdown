@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12841"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12841'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Merging', 'Multimodal Models', 'Applications', 'Pretraining Methods']
 ---
 A diverse range of large language models (LLMs), e.g., ChatGPT, and visual
 question answering (VQA) models, e.g., BLIP, have been developed for solving

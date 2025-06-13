@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qu2024alleviating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2408.00555v1"}
-tags: ['RAG', 'Tools', 'Multimodal Models', 'Applications']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2408.00555v1'}
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Tools']
 ---
 Despite the remarkable ability of large vision-language models (LVLMs) in
 image comprehension, these models frequently generate plausible yet factually

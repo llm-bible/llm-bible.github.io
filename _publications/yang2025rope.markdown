@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025rope
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18795"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18795'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Long-context large language models (LLMs) have achieved remarkable
 advancements, driven by techniques like Rotary Position Embedding (RoPE) (Su et

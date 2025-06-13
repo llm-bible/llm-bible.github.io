@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05674"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05674'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 In this paper, we present MoMA: an open-vocabulary, training-free
 personalized image model that boasts flexible zero-shot capabilities. As

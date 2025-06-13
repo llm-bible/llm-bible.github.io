@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023never
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09198"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09198'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 While large language models (LLMs) are equipped with longer text input
 capabilities than before, they are struggling to seek correct information in

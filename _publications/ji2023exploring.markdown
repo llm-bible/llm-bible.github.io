@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ji2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.14742"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.14742'}
+tags: ['Training Techniques', 'GPT', 'Applications', 'Fine-Tuning', 'Model Architecture', 'Reinforcement Learning']
 ---
 The success of ChatGPT has recently attracted numerous efforts to replicate
 it, with instruction-tuning strategies being a key factor in achieving

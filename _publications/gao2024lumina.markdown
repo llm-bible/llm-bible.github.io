@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024lumina
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05945"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05945'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Sora unveils the potential of scaling Diffusion Transformer for generating
 photorealistic images and videos at arbitrary resolutions, aspect ratios, and

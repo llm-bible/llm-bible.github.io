@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hagos2024recent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14962"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14962'}
 tags: ['Applications', 'Merging']
 ---
 The emergence of Generative Artificial Intelligence (AI) and Large Language

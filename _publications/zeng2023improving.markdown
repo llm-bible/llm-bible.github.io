@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02851"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02851'}
+tags: ['Efficiency and Optimization', 'WMT', 'Applications', 'Tools']
 ---
 Contemporary translation engines based on the encoder-decoder framework have
 made significant strides in development. However, the emergence of Large

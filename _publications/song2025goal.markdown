@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: song2025goal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06139"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06139'}
 tags: ['RAG', 'Prompting']
 ---
 Using Large Language Models (LLMs) to evaluate and compare two answers from

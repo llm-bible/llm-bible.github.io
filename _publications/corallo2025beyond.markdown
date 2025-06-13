@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: corallo2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04973"}
-tags: ['RAG', 'Few-Shot', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04973'}
+tags: ['Few-Shot', 'RAG', 'Applications']
 ---
 Incorporating external knowledge in large language models (LLMs) enhances
 their utility across diverse applications, but existing methods have

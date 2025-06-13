@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024ce
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02829"}
-tags: ['Tools', 'Quantization', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02829'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Tools', 'Quantization']
 ---
 Large Language Models (LLMs) have achieved remarkable success in serving
 end-users with human-like intelligence. However, LLMs demand high computational

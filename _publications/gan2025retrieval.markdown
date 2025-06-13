@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gan2025retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14891"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14891'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Merging', 'Survey Paper', 'Responsible AI']
 ---
 Recent advancements in Retrieval-Augmented Generation (RAG) have
 revolutionized natural language processing by integrating Large Language Models

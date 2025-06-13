@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023pay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.13365"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.13365'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Although large language models (LLMs) have achieved significant success in
 natural language processing, they still struggle with long-context

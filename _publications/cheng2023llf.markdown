@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023llf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06853"}
-tags: ['Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06853'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 We introduce a new benchmark, LLF-Bench (Learning from Language Feedback
 Benchmark; pronounced as "elf-bench"), to evaluate the ability of AI agents to

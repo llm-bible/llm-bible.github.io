@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghossein2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18947"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18947'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In-Context Learning (ICL) enables Large Language Models (LLMs) to perform new
 tasks by conditioning on prompts with relevant information. Retrieval-Augmented

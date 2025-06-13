@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: boleda2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11856"}
-tags: ['Interpretability and Explainability', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11856'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Model Architecture', 'Survey Paper']
 ---
 Since the middle of the 20th century, a fierce battle is being fought between
 symbolic and continuous approaches to language and cognition. The success of

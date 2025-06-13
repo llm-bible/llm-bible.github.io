@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024saving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01142"}
-tags: ['Agentic', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01142'}
+tags: ['Attention Mechanism', 'Agentic', 'Agent', 'Applications', 'Model Architecture']
 ---
 Online LLM inference powers many exciting applications such as intelligent
 chatbots and autonomous agents. Modern LLM inference engines widely rely on

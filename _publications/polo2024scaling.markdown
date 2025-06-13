@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: polo2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06540"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06540'}
+tags: ['Large-Scale Training', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Pre-Training']
 ---
 Scaling laws for large language models (LLMs) predict model performance based
 on parameters like size and training data. However, differences in training

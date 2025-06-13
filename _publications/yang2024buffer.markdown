@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024buffer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04271"}
-  - {name: "Code", url: "https://github.com/YangLing0818/buffer-of-thought-llm"}
-tags: ['Efficiency and Optimization', 'RAG', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04271'}
+  - {name: "Code", url: 'https://github.com/YangLing0818/buffer-of-thought-llm'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Prompting']
 ---
 We introduce Buffer of Thoughts (BoT), a novel and versatile
 thought-augmented reasoning approach for enhancing accuracy, efficiency and

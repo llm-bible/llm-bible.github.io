@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yaacoub2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00339"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00339'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Tools']
 ---
 Artificial intelligence (AI) is rapidly transforming education, presenting
 unprecedented opportunities for personalized learning and streamlined content

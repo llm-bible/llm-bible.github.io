@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: das2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08295"}
-tags: ['INTERSPEECH', 'Tools', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08295'}
+tags: ['INTERSPEECH', 'Training Techniques', 'Tools', 'Prompting', 'Multimodal Models']
 ---
 Large language models (LLMs) have shown incredible proficiency in performing
 tasks that require semantic understanding of natural language instructions.

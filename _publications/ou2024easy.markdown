@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ou2024easy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03049"}
-  - {name: "Code", url: "https://github.com/zjunlp/EasyInstruct,"}
-tags: ['Tools', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03049'}
+  - {name: "Code", url: 'https://github.com/zjunlp/EasyInstruct,'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'Prompting']
 ---
 In recent years, instruction tuning has gained increasing attention and
 emerged as a crucial technique to enhance the capabilities of Large Language

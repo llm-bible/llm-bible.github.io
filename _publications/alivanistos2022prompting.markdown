@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: alivanistos2022prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.11057"}
-  - {name: "Code", url: "https://github.com/HEmile/iswc-challenge"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.11057'}
+  - {name: "Code", url: 'https://github.com/HEmile/iswc-challenge'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting']
 ---
 Language Models (LMs) have proven to be useful in various downstream
 applications, such as summarisation, translation, question answering and text

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: grattafiori2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21783"}
-tags: ['Responsible AI', 'Transformer', 'INTERSPEECH', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21783'}
+tags: ['Transformer', 'INTERSPEECH', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Modern artificial intelligence (AI) systems are powered by foundation models.
 This paper presents a new set of foundation models, called Llama 3. It is a

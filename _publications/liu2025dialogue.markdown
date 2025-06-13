@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17860"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17860'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Current medical AI systems often fail to replicate real-world clinical
 reasoning, as they are predominantly trained and evaluated on static text and

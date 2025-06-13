@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.09494"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Security', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.09494'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'BERT']
 ---
 To reduce the computation cost and the energy consumption in large language
 models (LLM), skimming-based acceleration dynamically drops unimportant tokens

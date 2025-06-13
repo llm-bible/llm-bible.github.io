@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bonagiri2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01719"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01719'}
 tags: ['RAG', 'Prompting']
 ---
 A Large Language Model (LLM) is considered consistent if semantically

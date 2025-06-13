@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13916"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13916'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Knowledge graphs play a vital role in numerous artificial intelligence tasks,
 yet they frequently face the issue of incompleteness. In this study, we explore

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024process
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12358"}
-  - {name: "Code", url: "https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/ProcTag"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12358'}
+  - {name: "Code", url: 'https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/ProcTag'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recently, large language models (LLMs) and multimodal large language models
 (MLLMs) have demonstrated promising results on document visual question

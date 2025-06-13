@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024unsupervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18150"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18150'}
+tags: ['Language Modeling', 'RAG', 'Security', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) enhances large language models (LLMs) by
 incorporating additional information from retrieval. However, studies have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024matryoshka
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17430"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Merging', 'ACL', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17430'}
+tags: ['ACL', 'Efficiency and Optimization', 'Tools', 'Merging', 'Pruning', 'Multimodal Models']
 ---
 Large Multimodal Models (LMMs) such as LLaVA have shown strong performance in
 visual-linguistic reasoning. These models first embed images into a fixed large

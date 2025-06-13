@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17259"}
-  - {name: "Code", url: "https://github.com/CSHaitao/LegalAgentBench"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17259'}
+  - {name: "Code", url: 'https://github.com/CSHaitao/LegalAgentBench'}
+tags: ['Agentic', 'Has Code', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 With the increasing intelligence and autonomy of LLM agents, their potential
 applications in the legal domain are becoming increasingly apparent. However,

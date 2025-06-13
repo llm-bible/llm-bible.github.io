@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hirota2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13912"}
-tags: ['RAG', 'Multimodal Models', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13912'}
+tags: ['Ethics and Bias', 'RAG', 'Multimodal Models']
 ---
 Large language models (LLMs) have enhanced the capacity of vision-language
 models to caption visual text. This generative approach to image caption

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024traditional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04941"}
-tags: ['Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04941'}
+tags: ['Reinforcement Learning', 'Security']
 ---
 The recently unprecedented advancements in Large Language Models (LLMs) have
 propelled the medical community by establishing advanced medical-domain models.

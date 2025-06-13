@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: mei2023lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17488"}
-  - {name: "Code", url: "https://github.com/dongyuanjushi/LightLM"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17488'}
+  - {name: "Code", url: 'https://github.com/dongyuanjushi/LightLM'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper presents LightLM, a lightweight Transformer-based language model
 for generative recommendation. While Transformer-based generative modeling has

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: vasquez2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00056"}
-  - {name: "Code", url: "https://github.com/DarianRodriguez/NegVerse"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00056'}
+  - {name: "Code", url: 'https://github.com/DarianRodriguez/NegVerse'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Despite the impressive performance of large language models across various
 tasks, they often struggle with reasoning under negated statements. Negations

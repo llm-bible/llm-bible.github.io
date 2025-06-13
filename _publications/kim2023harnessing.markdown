@@ -6,8 +6,8 @@ conference: "In Proceedings of the CHI Conference on Human Factors in Computing 
 year: 2023
 bibkey: kim2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05231"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05231'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 In the mental health domain, Large Language Models (LLMs) offer promising new
 opportunities, though their inherent complexity and low controllability have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: phan2024distillation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14874"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14874'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Distillation', 'Quantization']
 ---
 We propose a straightforward approach called Distillation Contrastive
 Decoding (DCD) to enhance the reasoning capabilities of Large Language Models

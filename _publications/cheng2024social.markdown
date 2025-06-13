@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024social
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06569"}
-tags: ['GPT', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06569'}
+tags: ['GPT', 'Training Techniques', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Multi-modal Large Language Models (MLLMs) have advanced significantly,
 offering powerful vision-language understanding capabilities. However, these

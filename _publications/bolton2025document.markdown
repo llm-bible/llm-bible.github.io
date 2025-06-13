@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bolton2025document
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01307"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01307'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI', 'Pretraining Methods']
 ---
 Safety critical software assessment requires robust assessment against
 complex regulatory frameworks, a process traditionally limited by manual

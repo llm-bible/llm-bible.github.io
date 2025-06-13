@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09767"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09767'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The escalating demand for long-context applications has intensified the
 necessity of extending the LLM context windows. Despite recent fine-tuning

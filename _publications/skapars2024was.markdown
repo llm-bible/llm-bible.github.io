@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: skapars2024was
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11059"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11059'}
 tags: ['Security', 'Training Techniques']
 ---
 Training large language models (LLMs) requires a substantial investment of

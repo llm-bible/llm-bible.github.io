@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agostinelli2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13046"}
-tags: ['Transformer', 'Tools', 'GPT', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13046'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'GPT', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 A promising approach to preserving model performance in linearized
 transformers is to employ position-based re-weighting functions. However,

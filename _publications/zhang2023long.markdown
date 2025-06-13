@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12020"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12020'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 The convergence of embodied agents and large language models (LLMs) has
 brought significant advancements to embodied instruction following.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: amin2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10075"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10075'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Purpose: Enhanced health literacy has been linked to better health outcomes;
 however, few interventions have been studied. We investigate whether large

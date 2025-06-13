@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10430"}
-tags: ['Responsible AI', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10430'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recent advancements in Large Language Models (LLMs) have enabled them to
 approach human-level persuasion capabilities. However, such potential also

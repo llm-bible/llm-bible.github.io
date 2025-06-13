@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: subramanian2025small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05465"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05465'}
 tags: ['Efficiency and Optimization', 'Survey Paper']
 ---
 As foundation AI models continue to increase in size, an important question

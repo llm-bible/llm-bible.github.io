@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ai2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04652"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04652'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Multimodal Models', 'Pretraining Methods']
 ---
 We introduce the Yi model family, a series of language and multimodal models
 that demonstrate strong multi-dimensional capabilities. The Yi model family is

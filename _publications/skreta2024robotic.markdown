@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: skreta2024robotic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04157"}
-tags: ['Tools', 'Applications', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04157'}
+tags: ['ACL', 'RAG', 'Tools', 'Applications', 'Reinforcement Learning', 'TACL']
 ---
 Advancements in large language models (LLMs) have demonstrated their
 potential in facilitating high-level reasoning, logical reasoning and robotics

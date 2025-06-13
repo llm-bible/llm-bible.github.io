@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07188"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07188'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 Large language models, such as OpenAI's ChatGPT, have demonstrated
 exceptional language understanding capabilities in various NLP tasks. Sparsely

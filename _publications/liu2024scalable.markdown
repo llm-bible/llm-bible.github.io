@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23463"}
-  - {name: "Code", url: "https://github.com/yale-nlp/MDCure"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23463'}
+  - {name: "Code", url: 'https://github.com/yale-nlp/MDCure'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 Multi-document (MD) processing is crucial for LLMs to handle real-world tasks
 such as summarization and question-answering across large sets of documents.

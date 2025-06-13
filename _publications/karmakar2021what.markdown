@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: karmakar2021what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.11308"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.11308'}
+tags: ['Transformer', 'Efficiency and Optimization', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Pre-trained models of code built on the transformer architecture have
 performed well on software engineering (SE) tasks such as predictive code

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024consolidating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03987"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03987'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have shown limitations in tasks requiring
 complex logical reasoning and multi-step problem-solving. To address these

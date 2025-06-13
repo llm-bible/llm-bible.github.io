@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ge2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12701"}
-tags: ['Transformer', 'Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Security', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12701'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Interpretability', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are known to be vulnerable to backdoor attacks,
 where triggers embedded in poisoned samples can maliciously alter LLMs'

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lermen2023lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20624"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20624'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 AI developers often apply safety alignment procedures to prevent the misuse
 of their AI systems. For example, before Meta released Llama 2-Chat - a

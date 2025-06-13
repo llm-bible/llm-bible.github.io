@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024cause
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03491"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03491'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Empowered by the large-scale pretrained language models, existing dialogue
 systems have demonstrated impressive performance conducting fluent and

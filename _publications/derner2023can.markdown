@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: derner2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16070"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16070'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Merging', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The interplay between artificial intelligence (AI) and psychology,
 particularly in personality assessment, represents an important emerging area

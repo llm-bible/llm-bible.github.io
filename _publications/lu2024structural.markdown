@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024structural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20797"}
-  - {name: "Code", url: "https://github.com/AIDC-AI/Ovis"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20797'}
+  - {name: "Code", url: 'https://github.com/AIDC-AI/Ovis'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 Current Multimodal Large Language Models (MLLMs) typically integrate a
 pre-trained LLM with another pre-trained vision transformer through a

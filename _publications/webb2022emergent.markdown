@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: webb2022emergent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09196"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09196'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 The recent advent of large language models has reinvigorated debate over
 whether human cognitive capacities might emerge in such generic models given

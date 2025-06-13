@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14073"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14073'}
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 An emerging family of language models (LMs), capable of processing both text
 and images within a single visual view, has the promise to unlock complex tasks

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16601"}
-tags: ['Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16601'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications', 'Tools']
 ---
 This study evaluates how well large language models (LLMs) and traditional
 machine translation (MT) tools translate medical consultation summaries from

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sukeda2023domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10083"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10083'}
 tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture']
 ---
 In the ongoing wave of impact driven by large language models (LLMs) like

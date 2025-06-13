@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pourreza2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.08520"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.08520'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have made tremendous progress in natural
 language understanding and they have also been successfully adopted in other

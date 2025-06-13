@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: matelsky2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.02439"}
-tags: ['Fine-Tuning', 'RAG', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.02439'}
+tags: ['RAG', 'Fine-Tuning', 'Tools']
 ---
 Open-ended questions are a favored tool among instructors for assessing
 student understanding and encouraging critical exploration of course material.

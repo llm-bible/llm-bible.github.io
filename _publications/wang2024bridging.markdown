@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12462"}
-  - {name: "Code", url: "https://github.com/weixuan-wang123/INCLINE"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12462'}
+  - {name: "Code", url: 'https://github.com/weixuan-wang123/INCLINE'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in natural
 language processing but exhibit significant performance gaps among different

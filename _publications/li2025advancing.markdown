@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04839"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04839'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Multimodal in-context learning (ICL) has emerged as a key capability of Large
 Vision-Language Models (LVLMs), driven by their increasing scale and

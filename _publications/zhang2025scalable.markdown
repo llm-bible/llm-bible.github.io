@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10881"}
-tags: ['Tools', 'Prompting', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10881'}
+tags: ['Prompting', 'Tools', 'Merging']
 ---
 Large language models (LLMs) have demonstrated remarkable performance, yet
 their diverse strengths and weaknesses prevent any single LLM from achieving

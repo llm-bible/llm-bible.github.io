@@ -6,8 +6,8 @@ conference: "Information 2022 13(7) 309"
 year: 2024
 bibkey: lankford2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02366"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02366'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 In this study, a human evaluation is carried out on how hyperparameter
 settings impact the quality of Transformer-based Neural Machine Translation

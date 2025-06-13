@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14184"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14184'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study assesses the ability of state-of-the-art large language models
 (LLMs) including GPT-3.5, GPT-4, Falcon, and LLaMA 2 to identify patients with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bindal2024improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11344"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11344'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In enhancing LinkedIn core content recommendation models, a significant
 challenge lies in improving their semantic understanding capabilities. This

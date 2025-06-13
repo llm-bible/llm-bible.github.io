@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: heo2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14582"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14582'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications']
 ---
 Large language models (LLMs) could be valuable personal AI agents across
 various domains, provided they can precisely follow user instructions. However,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024mtu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11710"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11710'}
+tags: ['Reinforcement Learning', 'GPT', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) have displayed massive improvements in reasoning
 and decision-making skills and can hold natural conversations with users.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10474"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Agent', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10474'}
+tags: ['Agentic', 'Agent', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 Over the last decade, a wide range of training and deployment strategies for
 Large Language Models (LLMs) have emerged. Among these, the prompting paradigms

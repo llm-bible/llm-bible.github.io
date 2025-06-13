@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: lester2021power
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2104.08691v2"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2104.08691v2'}
+tags: ['Few-Shot', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 In this work, we explore "prompt tuning", a simple yet effective mechanism
 for learning "soft prompts" to condition frozen language models to perform

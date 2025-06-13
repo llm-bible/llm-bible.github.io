@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kostiuk2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09154"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09154'}
 tags: ['GPT', 'Model Architecture']
 ---
 In this work, we evaluated Lithuanian and general history knowledge of

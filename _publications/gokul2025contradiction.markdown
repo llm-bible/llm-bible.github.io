@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gokul2025contradiction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00180"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00180'}
+tags: ['RAG', 'Security', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) systems have emerged as a powerful
 method for enhancing large language models (LLMs) with up-to-date information.

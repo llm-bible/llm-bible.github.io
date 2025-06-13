@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025circuit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16356"}
-  - {name: "Code", url: "https://github.com/zjunlp/CaKE"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16356'}
+  - {name: "Code", url: 'https://github.com/zjunlp/CaKE'}
 tags: ['RAG', 'Has Code']
 ---
 Knowledge Editing (KE) enables the modification of outdated or incorrect

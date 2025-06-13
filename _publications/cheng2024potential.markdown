@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024potential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06410"}
-tags: ['Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06410'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) play a crucial role in capturing structured
 semantics to enhance language understanding, improve interpretability, and

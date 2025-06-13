@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14335"}
-  - {name: "Code", url: "https://audio-agi.github.io/WavJourney_demopage/"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14335'}
+  - {name: "Code", url: 'https://audio-agi.github.io/WavJourney_demopage/'}
+tags: ['Has Code', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Despite breakthroughs in audio generation models, their capabilities are
 often confined to domain-specific conditions such as speech transcriptions and

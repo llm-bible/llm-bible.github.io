@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024numerals
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02864"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02864'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Numeral systems and units of measurement are two conjoined topics in

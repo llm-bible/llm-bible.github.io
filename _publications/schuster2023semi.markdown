@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: schuster2023semi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04886"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04886'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Recently proposed long-form question answering (QA) systems, supported by
 large language models (LLMs), have shown promising capabilities. Yet,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: korpan2025encoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05765"}
-tags: ['Tools', 'Fairness', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05765'}
+tags: ['Ethics and Bias', 'Prompting', 'Fairness', 'Tools']
 ---
 As robots take on caregiving roles, ensuring equitable and unbiased
 interactions with diverse populations is critical. Although Large Language

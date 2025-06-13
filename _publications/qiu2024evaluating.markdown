@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23252"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23252'}
+tags: ['Agentic', 'RAG', 'Security', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As large language models (LLMs) expand into performing as agents for
 real-world applications beyond traditional NLP tasks, evaluating their

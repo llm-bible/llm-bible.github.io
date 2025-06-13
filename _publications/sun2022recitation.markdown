@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sun2022recitation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.01296"}
-  - {name: "Code", url: "https://github.com/Edward-Sun/RECITE"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.01296'}
+  - {name: "Code", url: 'https://github.com/Edward-Sun/RECITE'}
 tags: ['RAG', 'Has Code', 'Applications']
 ---
 We propose a new paradigm to help Large Language Models (LLMs) generate more

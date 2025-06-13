@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: melton2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07022"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07022'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Responsible AI', 'Pretraining Methods']
 ---
 Applications of generative Large Language Models LLMs are rapidly expanding
 across various domains, promising significant improvements in workflow

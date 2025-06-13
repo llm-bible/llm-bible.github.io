@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: white2025collaborating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17950"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17950'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Collaboration is ubiquitous and essential in day-to-day life -- from
 exchanging ideas, to delegating tasks, to generating plans together. This work

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023unbiased
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10669"}
-tags: ['Responsible AI', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10669'}
+tags: ['Ethics and Bias', 'Responsible AI']
 ---
 The recent advancements in large language models (LLMs) have sparked a
 growing apprehension regarding the potential misuse. One approach to mitigating

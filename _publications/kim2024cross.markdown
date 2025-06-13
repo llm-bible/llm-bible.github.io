@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01814"}
-  - {name: "Code", url: "https://github.com/ExplainableML/cosmos"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01814'}
+  - {name: "Code", url: 'https://github.com/ExplainableML/cosmos'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Vision-Language Models (VLMs) trained with contrastive loss have achieved
 significant advancements in various vision and language tasks. However, the

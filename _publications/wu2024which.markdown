@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10917"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10917'}
 tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 Inquisitive questions -- open-ended, curiosity-driven questions people ask as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: raj2023k
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17748"}
-tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17748'}
+tags: ['Agentic', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Personalizing conversational agents can enhance the quality of conversations
 and increase user engagement. However, they often lack external knowledge to

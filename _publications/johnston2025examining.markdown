@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: johnston2025examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03490"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03490'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prior work has found that transformers have an inconsistent ability to learn
 to answer latent two-hop questions -- questions of the form "Who is Bob's

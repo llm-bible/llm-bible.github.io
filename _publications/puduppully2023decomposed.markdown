@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: puduppully2023decomposed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13085"}
-tags: ['Applications', 'RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13085'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 This study investigates machine translation between related languages i.e.,
 languages within the same family that share linguistic characteristics such as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kian2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17937"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17937'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Cognitive behavioral therapy (CBT) is a widely used therapeutic method for
 guiding individuals toward restructuring their thinking patterns as a means of

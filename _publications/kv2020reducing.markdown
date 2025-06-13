@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: kv2020reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.06198"}
-tags: ['Applications', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.06198'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Applications']
 ---
 Recent studies have shown that current VQA models are heavily biased on the
 language priors in the train set to answer the question, irrespective of the

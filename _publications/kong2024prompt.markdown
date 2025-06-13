@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kong2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08189"}
-tags: ['Agentic', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08189'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic', 'Applications']
 ---
 Prompt engineering is critical for the development of LLM-based applications.
 However, it is usually done manually in a "trial and error" fashion that can be

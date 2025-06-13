@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13148"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13148'}
+tags: ['Agentic', 'RAG', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) demonstrate remarkable capabilities across
 diverse applications. However, concerns regarding their security, particularly

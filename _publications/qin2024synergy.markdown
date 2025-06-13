@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024synergy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08583"}
-  - {name: "Code", url: "https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md"}
-tags: ['Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08583'}
+  - {name: "Code", url: 'https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md'}
+tags: ['Attention Mechanism', 'Has Code', 'Tools', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 The rapid development of large language models (LLMs) has been witnessed in
 recent years. Based on the powerful LLMs, multi-modal LLMs (MLLMs) extend the

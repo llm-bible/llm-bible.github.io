@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hinck2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01331"}
-tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01331'}
+tags: ['Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We train a suite of multimodal foundation models (MMFM) using the popular
 LLaVA framework with the recently released Gemma family of large language

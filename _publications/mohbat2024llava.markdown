@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohbat2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16889"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16889'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 In the rapidly evolving landscape of online recipe sharing within a
 globalized context, there has been a notable surge in research towards

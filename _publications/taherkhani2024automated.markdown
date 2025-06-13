@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: taherkhani2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08254"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08254'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated significant potential in
 automating software testing, specifically in generating unit test cases.

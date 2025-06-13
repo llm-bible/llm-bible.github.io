@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gilson2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03740"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03740'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are poised to revolutionize healthcare.
 Ophthalmology-specific LLMs remain scarce and underexplored. We introduced an

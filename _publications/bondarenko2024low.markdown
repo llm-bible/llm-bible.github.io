@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bondarenko2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06385"}
-  - {name: "Code", url: "https://github.com/qualcomm-ai-research/LR-QAT"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06385'}
+  - {name: "Code", url: 'https://github.com/qualcomm-ai-research/LR-QAT'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are omnipresent, however their practical
 deployment is challenging due to their ever increasing computational and memory

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02602"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02602'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 This paper analyzes the performance of Small Language Models (SLMs) and
 Vision Language Models (VLMs) and evaluates the trade-off between model

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rooein2023know
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02065"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02065'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) offer a range of new possibilities, including
 adapting the text to different audiences and their reading needs. But how well

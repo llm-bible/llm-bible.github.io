@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024picture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06018"}
-tags: ['RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06018'}
+tags: ['RAG', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs), with demonstrated reasoning abilities across
 multiple domains, are largely underexplored for time-series reasoning (TsR),

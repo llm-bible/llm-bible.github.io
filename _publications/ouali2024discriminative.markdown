@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ouali2024discriminative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04378"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04378'}
+tags: ['Efficiency and Optimization', 'GPT', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Contrastively-trained Vision-Language Models (VLMs) like CLIP have become the de facto approach for discriminative vision-language representation learning. However, these models have limited language understanding, often exhibiting a "bag of words" behavior. At the same time, Large Vision-Language Models (LVLMs), which combine vision encoders with LLMs, have been shown to be capable of detailed vision-language reasoning, yet their autoregressive nature renders them less suitable for discriminative tasks.
   In this work, we propose to combine "the best of both worlds": a new training approach for discriminative fine-tuning of LVLMs that results in strong discriminative and compositional capabilities. Essentially, our approach converts a generative LVLM into a discriminative one, unlocking its capability for powerful image-text discrimination combined with enhanced language understanding.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yi2024method
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15785"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15785'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper introduces a novel approach, the Bounded-Cache Transformer (BCT),
 for building large language models with a predefined Key-Value (KV) cache

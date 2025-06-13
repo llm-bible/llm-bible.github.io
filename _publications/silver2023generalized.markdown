@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: silver2023generalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11014"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11014'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT']
 ---
 Recent work has considered whether large language models (LLMs) can function
 as planners: given a task, generate a plan. We investigate whether LLMs can

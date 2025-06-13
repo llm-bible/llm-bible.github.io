@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ziabari2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12470"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12470'}
 tags: ['Efficiency and Optimization']
 ---
 Large Language Models (LLMs) exhibit impressive reasoning abilities, yet

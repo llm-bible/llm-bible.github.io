@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhang2019consistent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1903.05759"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1903.05759'}
 tags: ['Agentic', 'Training Techniques']
 ---
 Generating responses that are consistent with the dialogue context is one of

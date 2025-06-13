@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shorinwa2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05563"}
-tags: ['Survey Paper', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05563'}
+tags: ['Prompting', 'Applications', 'Survey Paper']
 ---
 The remarkable performance of large language models (LLMs) in content
 generation, coding, and common-sense reasoning has spurred widespread

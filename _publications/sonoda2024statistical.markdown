@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sonoda2024statistical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16640"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16640'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Large language models (LLMs) such as ChatGPT, GPT-4, Claude-3, and Llama are
 being integrated across a variety of industries. Despite this rapid

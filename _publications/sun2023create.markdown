@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023create
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04430"}
-  - {name: "Code", url: "https://wenqiliang.github.io/"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04430'}
+  - {name: "Code", url: 'https://wenqiliang.github.io/'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Text-to-image generative models can produce diverse high-quality images of
 concepts with a text prompt, which have demonstrated excellent ability in image

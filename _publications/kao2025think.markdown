@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kao2025think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07503"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07503'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Reasoning segmentation is a challenging vision-language task that aims to
 output the segmentation mask with respect to a complex, implicit, and even

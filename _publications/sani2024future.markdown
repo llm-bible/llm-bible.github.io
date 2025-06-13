@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sani2024future
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10853"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10853'}
+tags: ['Large-Scale Training', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Pre-Training']
 ---
 Generative pre-trained large language models (LLMs) have demonstrated
 impressive performance over a wide range of tasks, thanks to the unprecedented

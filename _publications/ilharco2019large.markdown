@@ -6,8 +6,8 @@ conference: "The SIGNLL Conference on Computational Natural Language Learning (C
 year: 2019
 bibkey: ilharco2019large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.08782"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.08782'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Systems that can associate images with their spoken audio captions are an
 important step towards visually grounded language learning. We describe a

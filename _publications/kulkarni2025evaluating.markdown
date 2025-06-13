@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kulkarni2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18114"}
-tags: ['GPT', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18114'}
+tags: ['ACL', 'RAG', 'Security', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'TACL']
 ---
 Hallucinations pose a significant obstacle to the reliability and widespread
 adoption of language models, yet their accurate measurement remains a

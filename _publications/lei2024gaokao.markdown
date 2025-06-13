@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lei2024gaokao
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10056"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10056'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) are commonly evaluated using human-crafted

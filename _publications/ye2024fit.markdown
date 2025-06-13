@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024fit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10197"}
-  - {name: "Code", url: "https://github.com/ywh187/FitPrune"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10197'}
+  - {name: "Code", url: 'https://github.com/ywh187/FitPrune'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Multimodal Models']
 ---
 Recent progress in Multimodal Large Language Models(MLLMs) often use large
 image tokens to compensate the visual shortcoming of MLLMs, which not only

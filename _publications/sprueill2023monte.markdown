@@ -6,8 +6,8 @@ conference: "In Proceedings of the 2023 Conference on Empirical Methods in Natur
 year: 2023
 bibkey: sprueill2023monte
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14420"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14420'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Discovering novel catalysts requires complex reasoning involving multiple
 chemical properties and resultant trade-offs, leading to a combinatorial growth

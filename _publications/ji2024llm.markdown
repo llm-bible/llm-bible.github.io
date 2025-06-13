@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03282"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03282'}
 tags: ['RAG', 'Training Techniques']
 ---
 The hallucination problem of Large Language Models (LLMs) significantly

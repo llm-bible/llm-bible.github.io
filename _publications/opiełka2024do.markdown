@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: opiełka2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09734"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09734'}
 tags: ['Uncategorized']
 ---
 The Abstraction Reasoning Corpus (ARC) is a visual analogical reasoning test

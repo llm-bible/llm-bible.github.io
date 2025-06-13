@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: schioppa2023cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11778"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11778'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Pre-Training']
 ---
 The recent rapid progress in pre-training Large Language Models has relied on
 using self-supervised language modeling objectives like next token prediction

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vaugrante2024looming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20303"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20303'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 In an era where large language models (LLMs) are increasingly integrated into
 a wide range of everyday applications, research into these models' behavior has

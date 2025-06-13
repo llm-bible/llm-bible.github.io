@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023elegant
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.02443v1"}
-  - {name: "Code", url: "https://github.com/HestiaSky/E4SRec/"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'RecSys', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.02443v1'}
+  - {name: "Code", url: 'https://github.com/HestiaSky/E4SRec/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'RecSys', 'Reinforcement Learning']
 ---
 The recent advancements in Large Language Models (LLMs) have sparked interest
 in harnessing their potential within recommender systems. Since LLMs are

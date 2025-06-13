@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cao2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01713"}
-tags: ['RAG', 'Merging', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01713'}
+tags: ['RAG', 'Merging', 'Prompting', 'Multimodal Models', 'In-Context Learning']
 ---
 Long-term action anticipation (LTA) aims to predict future actions over an
 extended period. Previous approaches primarily focus on learning exclusively

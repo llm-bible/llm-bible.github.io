@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024subtle
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14555"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14555'}
 tags: ['Ethics and Bias']
 ---
 Research on Large Language Models (LLMs) has often neglected subtle biases

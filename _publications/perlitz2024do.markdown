@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: perlitz2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13696"}
-tags: ['Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13696'}
+tags: ['Reinforcement Learning', 'Security']
 ---
 Recent advancements in Language Models (LMs) have catalyzed the creation of
 multiple benchmarks, designed to assess these models' general capabilities. A

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13633"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13633'}
 tags: ['Prompting', 'Applications']
 ---
 By simply composing prompts, developers can prototype novel generative

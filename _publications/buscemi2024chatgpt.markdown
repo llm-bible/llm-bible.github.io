@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: buscemi2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01715"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01715'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Automated sentiment analysis using Large Language Model (LLM)-based models
 like ChatGPT, Gemini or LLaMA2 is becoming widespread, both in academic

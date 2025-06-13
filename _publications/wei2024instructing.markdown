@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024instructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13629"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13629'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Retrieval-augmented generation (RAG) has shown promising potential to enhance
 the accuracy and factuality of language models (LMs). However, imperfect

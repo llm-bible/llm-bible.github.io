@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: balažević2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01667"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01667'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning\\(\unicode\{x2013\}\\)the ability to configure a model's
 behavior with different prompts\\(\unicode\{x2013\}\\)has revolutionized the field of

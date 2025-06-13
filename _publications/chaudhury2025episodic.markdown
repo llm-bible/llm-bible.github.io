@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chaudhury2025episodic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14280"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14280'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools']
 ---
 Recent advances in Large Language Models (LLMs) have yielded impressive
 successes on many language tasks. However, efficient processing of long

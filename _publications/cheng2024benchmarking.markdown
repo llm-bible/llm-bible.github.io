@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23090"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23090'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) has become a powerful paradigm for
 enhancing large language models (LLMs) through external knowledge retrieval.

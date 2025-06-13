@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024equipping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13216"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13216'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Long-context modeling presents a significant challenge for transformer-based
 large language models (LLMs) due to the quadratic complexity of the

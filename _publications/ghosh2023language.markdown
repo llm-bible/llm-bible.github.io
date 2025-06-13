@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ghosh2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10103"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10103'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Neural image classifiers can often learn to make predictions by overly
 relying on non-predictive features that are spuriously correlated with the

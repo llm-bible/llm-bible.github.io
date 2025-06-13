@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: oh2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00352"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00352'}
 tags: ['Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown remarkable progress, but their

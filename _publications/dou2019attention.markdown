@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: dou2019attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.12289"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.12289'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Auto-regressive sequence-to-sequence models with attention mechanism have
 achieved state-of-the-art performance in many tasks such as machine translation

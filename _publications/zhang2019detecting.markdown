@@ -6,8 +6,8 @@ conference: "ACL2019"
 year: 2019
 bibkey: zhang2019detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1907.05339"}
-tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1907.05339'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Ethics and Bias']
 ---
 In multi-turn dialogue generation, response is usually related with only a
 few contexts. Therefore, an ideal model should be able to detect these relevant

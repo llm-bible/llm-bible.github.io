@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fujii2024continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.17790"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.17790'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 Cross-lingual continual pre-training of large language models (LLMs)
 initially trained on English corpus allows us to leverage the vast amount of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: figueras2025truth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09387"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09387'}
 tags: ['Applications']
 ---
 We introduce a professionally translated extension of the TruthfulQA

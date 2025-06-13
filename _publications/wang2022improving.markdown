@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.11386"}
-tags: ['RecSys', 'Attention Mechanism', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.11386'}
+tags: ['Attention Mechanism', 'RecSys', 'Model Architecture', 'Merging']
 ---
 Conversational Recommender Systems (CRS) has become an emerging research
 topic seeking to perform recommendations through interactive conversations,

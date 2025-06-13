@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: petryshyn2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15729"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15729'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) and their utilization in
 code generation tasks have significantly reshaped the field of software

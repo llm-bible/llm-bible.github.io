@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00585"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00585'}
+tags: ['RAG', 'Fairness', 'Applications', 'Tools', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have become foundational in modern
 language-driven applications, profoundly influencing daily life. A critical

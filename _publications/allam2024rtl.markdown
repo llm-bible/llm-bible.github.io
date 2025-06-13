@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: allam2024rtl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17378"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17378'}
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated potential in assisting with
 Register Transfer Level (RTL) design tasks. Nevertheless, there remains to be a

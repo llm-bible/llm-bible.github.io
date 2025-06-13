@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kohler2021using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.14720"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.14720'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In the summer of 2020 OpenAI released its GPT-3 autoregressive language model
 to much fanfare. While the model has shown promise on tasks in several areas,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gat2023faithful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00603"}
-tags: ['Responsible AI', 'Training Techniques', 'Prompting', 'Interpretability and Explainability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00603'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Responsible AI', 'Training Techniques']
 ---
 Causal explanations of the predictions of NLP systems are essential to ensure
 safety and establish trust. Yet, existing methods often fall short of

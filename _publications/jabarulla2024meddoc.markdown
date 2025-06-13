@@ -6,9 +6,9 @@ conference: "2024"
 year: 2024
 bibkey: jabarulla2024meddoc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03359"}
-  - {name: "Code", url: "https://github.com/yaseen28/MedDoc-Bot"}
-tags: ['RAG', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03359'}
+  - {name: "Code", url: 'https://github.com/yaseen28/MedDoc-Bot'}
+tags: ['RAG', 'Has Code', 'Tools']
 ---
 This research focuses on evaluating the non-commercial open-source large
 language models (LLMs) Meditron, MedAlpaca, Mistral, and Llama-2 for their

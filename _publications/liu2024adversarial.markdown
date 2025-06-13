@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15399"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15399'}
+tags: ['Security', 'Model Architecture', 'Applications', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 With the development of large language models (LLMs) like ChatGPT, both their
 vast applications and potential vulnerabilities have come to the forefront.

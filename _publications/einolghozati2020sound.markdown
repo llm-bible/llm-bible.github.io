@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: einolghozati2020sound
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.01993"}
-tags: ['Transformer', 'Model Architecture', 'Masked Language Model', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.01993'}
+tags: ['Masked Language Model', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 We introduce a new task of rephrasing for a more natural virtual assistant.
 Currently, virtual assistants work in the paradigm of intent slot tagging and

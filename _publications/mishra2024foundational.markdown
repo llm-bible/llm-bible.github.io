@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mishra2024foundational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09560"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09560'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Materials discovery and development are critical for addressing global
 challenges. Yet, the exponential growth in materials science literature

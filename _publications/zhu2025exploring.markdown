@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10479"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10479'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 We introduce InternVL3, a significant advancement in the InternVL series
 featuring a native multimodal pre-training paradigm. Rather than adapting a

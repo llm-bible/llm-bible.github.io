@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13343"}
-tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13343'}
+tags: ['Prompting', 'GPT', 'In-Context Learning', 'Model Architecture']
 ---
 Using large language models, this paper presents techniques to improve
 extremely low-resourced indigenous language translations. Our approaches are

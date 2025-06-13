@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18497"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18497'}
 tags: ['RAG', 'Training Techniques']
 ---
 In this paper, we explore the foundational mechanisms of memorization and

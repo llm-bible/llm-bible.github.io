@@ -6,8 +6,8 @@ conference: "Published as oral presentation paper atthe 2024 IEEE International 
 year: 2024
 bibkey: duan2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04869"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04869'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The utilization of Large Language Models (LLMs) within the realm of
 reinforcement learning, particularly as planners, has garnered a significant

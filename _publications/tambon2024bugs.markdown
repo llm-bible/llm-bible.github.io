@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tambon2024bugs
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08937"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08937'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Survey Paper', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) for code have gained significant attention
 recently. They can generate code in different programming languages based on

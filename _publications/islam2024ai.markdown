@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: islam2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11411"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11411'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are computational models capable of performing
 complex natural language processing tasks. Leveraging these capabilities, LLMs

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: velasco2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18989"}
-tags: ['Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18989'}
+tags: ['Reinforcement Learning', 'Applications', 'Merging']
 ---
 Large Language Models (LLMs) have shown significant potential in automating
 software engineering tasks, particularly in code generation. However, current

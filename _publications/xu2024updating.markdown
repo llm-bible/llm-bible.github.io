@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024updating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05787"}
-tags: ['Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05787'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Pretraining Methods']
 ---
 Generating long sequences of tokens given a long-context input is a very
 compute-intensive inference scenario for large language models (LLMs). One

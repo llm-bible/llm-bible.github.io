@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: kale2020text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.10433"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.10433'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 We study the pre-train + fine-tune strategy for data-to-text tasks. Our
 experiments indicate that text-to-text pre-training in the form of T5, enables

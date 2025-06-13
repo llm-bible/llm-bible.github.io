@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dhole2025retrieve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09292"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09292'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Retrieval-Augmented Generation equips large language models with the
 capability to retrieve external knowledge, thereby mitigating hallucinations by

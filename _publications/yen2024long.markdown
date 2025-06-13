@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yen2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16617"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16617'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Extending large language models (LLMs) to process longer inputs is crucial
 for a wide range of applications. However, the substantial computational cost

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: herserant2025seval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02235"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02235'}
+tags: ['Interpretability and Explainability', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Applications', 'Interpretability']
 ---
 Evaluating text summarization quality remains a critical challenge in Natural
 Language Processing. Current approaches face a trade-off between performance

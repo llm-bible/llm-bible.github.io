@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: weston2023system
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11829"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11829'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 Soft attention in Transformer-based Large Language Models (LLMs) is
 susceptible to incorporating irrelevant information from the context into its

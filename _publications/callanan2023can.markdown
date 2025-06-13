@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: callanan2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08678"}
-tags: ['RAG', 'GPT', 'Few-Shot', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08678'}
+tags: ['Few-Shot', 'GPT', 'RAG', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance on a
 wide range of Natural Language Processing (NLP) tasks, often matching or even

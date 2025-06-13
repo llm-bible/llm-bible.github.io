@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chaudhry2024finetuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12180"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12180'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly employed in information-seeking

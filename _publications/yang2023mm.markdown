@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023mm
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.11381v1"}
-  - {name: "Code", url: "https://multimodal-react.github.io/"}
-tags: ['GPT', 'Model Architecture', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.11381v1'}
+  - {name: "Code", url: 'https://multimodal-react.github.io/'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 We propose MM-REACT, a system paradigm that integrates ChatGPT with a pool of
 vision experts to achieve multimodal reasoning and action. In this paper, we

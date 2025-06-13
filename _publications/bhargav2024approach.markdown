@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhargav2024approach
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08848"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08848'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We present an approach to build Large Language Model (LLM) based slot-filling
 system to perform Dialogue State Tracking in conversational assistants serving

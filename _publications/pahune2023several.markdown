@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pahune2023several
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10188"}
-tags: ['Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10188'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Survey Paper', 'Pretraining Methods']
 ---
 Large Language Models(LLMs)have become effective tools for natural language
 processing and have been used in many different fields. This essay offers a

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: duan2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10602"}
-  - {name: "Code", url: "https://github.com/jinhaoduan/TruthPrInt"}
-tags: ['Fine-Tuning', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10602'}
+  - {name: "Code", url: 'https://github.com/jinhaoduan/TruthPrInt'}
+tags: ['Fine-Tuning', 'Has Code', 'Multimodal Models']
 ---
 Object Hallucination (OH) has been acknowledged as one of the major
 trustworthy challenges in Large Vision-Language Models (LVLMs). Recent

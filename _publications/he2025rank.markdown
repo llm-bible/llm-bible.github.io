@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025rank
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12576"}
-  - {name: "Code", url: "https://github.com/zwhe99/RaSA"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12576'}
+  - {name: "Code", url: 'https://github.com/zwhe99/RaSA'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Low-rank adaptation (LoRA) has been prominently employed for
 parameter-efficient fine-tuning of large language models (LLMs). However, the

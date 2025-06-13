@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gope2024highly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00032"}
-  - {name: "Code", url: "https://github.com/ggerganov/llama.cpp"}
-tags: ['Efficiency and Optimization', 'GPT', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00032'}
+  - {name: "Code", url: 'https://github.com/ggerganov/llama.cpp'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Quantization', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have transformed the way we think about language
 understanding and generation, enthralling both researchers and developers.

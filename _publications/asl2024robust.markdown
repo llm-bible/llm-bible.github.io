@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: asl2024robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11082"}
-tags: ['Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11082'}
+tags: ['Security', 'Training Techniques', 'BERT', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Pre-trained language models (PLMs) have consistently demonstrated outstanding
 performance across a diverse spectrum of natural language processing tasks.

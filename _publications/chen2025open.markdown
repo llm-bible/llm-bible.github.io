@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04103"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04103'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Tools']
 ---
 The rapid evolution of large language models (LLMs) has transformed
 human-computer interaction (HCI), but the interaction with LLMs is currently

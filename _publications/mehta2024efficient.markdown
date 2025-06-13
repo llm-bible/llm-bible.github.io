@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: mehta2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14619"}
-  - {name: "Code", url: "https://github.com/apple/corenet"}
-  - {name: "Code", url: "https://huggingface.co/apple/OpenELM"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14619'}
+  - {name: "Code", url: 'https://github.com/apple/corenet'}
+  - {name: "Code", url: 'https://huggingface.co/apple/OpenELM'}
+tags: ['Has Code', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Interpretability', 'Pretraining Methods']
 ---
 The reproducibility and transparency of large language models are crucial for
 advancing open research, ensuring the trustworthiness of results, and enabling

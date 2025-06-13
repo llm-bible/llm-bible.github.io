@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18996"}
-  - {name: "Code", url: "https://github.com/ZuyiZhou/Awesome-Cross-modal-Reasoning-with-LLMs"}
-tags: ['Multimodal Models', 'Has Code', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18996'}
+  - {name: "Code", url: 'https://github.com/ZuyiZhou/Awesome-Cross-modal-Reasoning-with-LLMs'}
+tags: ['Has Code', 'Multimodal Models', 'Survey Paper']
 ---
 Cross-modal reasoning (CMR), the intricate process of synthesizing and
 drawing inferences across divergent sensory modalities, is increasingly

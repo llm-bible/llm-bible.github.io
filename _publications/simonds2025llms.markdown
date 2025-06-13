@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: simonds2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19394"}
-tags: ['Tools', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19394'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Large Language Models (LLMs) have transformed software engineering, but their
 application to physical engineering domains remains underexplored. This paper

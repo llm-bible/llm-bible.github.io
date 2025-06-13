@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025fact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05849"}
-  - {name: "Code", url: "https://github.com/uclanlp/Fact-or-Fair"}
-tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05849'}
+  - {name: "Code", url: 'https://github.com/uclanlp/Fact-or-Fair'}
+tags: ['Has Code', 'Fairness', 'GPT', 'Model Architecture', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The generation of incorrect images, such as depictions of people of color in
 Nazi-era uniforms by Gemini, frustrated users and harmed Google's reputation,

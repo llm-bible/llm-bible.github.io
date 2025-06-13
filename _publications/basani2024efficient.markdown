@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: basani2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14133"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'RAG', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14133'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Prompting', 'Responsible AI']
 ---
 Large Language Models (LLMs) have shown impressive proficiency across a range
 of natural language processing tasks yet remain vulnerable to adversarial

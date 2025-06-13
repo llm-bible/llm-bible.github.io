@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fawi2024stable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.14572"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.14572'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper introduces CURLoRA, a novel approach to fine-tuning large language
 models (LLMs) that leverages CUR matrix decomposition in the context of

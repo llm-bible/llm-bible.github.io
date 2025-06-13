@@ -6,8 +6,8 @@ conference: "Espejel J. L. Alassan M. S. Y. Dahhane W. Ettifouri E. H. (2023). J
 year: 2023
 bibkey: espejel2023pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.12869"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.12869'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pretrained transformer-based models have shown high performance in natural
 language generation task. However, a new wave of interest has surged: automatic

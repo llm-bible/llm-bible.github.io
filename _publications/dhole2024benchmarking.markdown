@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dhole2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05206"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05206'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Computational argumentation, which involves generating answers or summaries
 for controversial topics like abortion bans and vaccination, has become

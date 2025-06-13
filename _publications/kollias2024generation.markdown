@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kollias2024generation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16908"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16908'}
 tags: ['Training Techniques']
 ---
 Addressing the issue of hallucinations in large language models (LLMs) is a

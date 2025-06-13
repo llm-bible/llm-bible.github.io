@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02126"}
-  - {name: "Code", url: "https://github.com/DsaltYfish/PILL"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02126'}
+  - {name: "Code", url: 'https://github.com/DsaltYfish/PILL'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Due to the remarkable capabilities of powerful Large Language Models (LLMs)
 in effectively following instructions, there has been a growing number of

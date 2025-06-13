@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sajadi2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14202"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14202'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 The widespread adoption of conversational LLMs for software development has
 raised new security concerns regarding the safety of LLM-generated content. Our

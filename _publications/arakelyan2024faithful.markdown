@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: arakelyan2024faithful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11900"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11900'}
 tags: ['Fine-Tuning', 'Prompting', 'Applications']
 ---
 Modern Question Answering (QA) and Reasoning approaches based on Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024listwise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13516"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13516'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recently, tremendous strides have been made to align the generation of Large
 Language Models (LLMs) with human values to mitigate toxic or unhelpful

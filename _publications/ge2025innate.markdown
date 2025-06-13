@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ge2025innate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19602"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19602'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recent advances in Large Language Models (LLMs) have introduced Reasoning
 Large Language Models (RLLMs), which employ extended thinking processes with

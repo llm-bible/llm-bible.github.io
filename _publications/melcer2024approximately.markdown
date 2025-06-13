@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: melcer2024approximately
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01103"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01103'}
 tags: ['Efficiency and Optimization']
 ---
 It is common to reject undesired outputs of Large Language Models (LLMs);

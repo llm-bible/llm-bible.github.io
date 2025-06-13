@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023generic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10240"}
-tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10240'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Applications', 'Multimodal Models', 'Interpretability', 'Pretraining Methods']
 ---
 Attention-based transformer models have achieved remarkable progress in
 multi-modal tasks, such as visual question answering. The explainability of

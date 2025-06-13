@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04099"}
-tags: ['Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04099'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Vision-Language Models have demonstrated remarkable performance across
 various tasks; however, the challenge of hallucinations constrains their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: giorgi2023wanglab
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02220"}
-tags: ['GPT', 'Model Architecture', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02220'}
+tags: ['Few-Shot', 'GPT', 'BERT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 This paper describes our submission to the MEDIQA-Chat 2023 shared task for
 automatic clinical note generation from doctor-patient conversations. We report

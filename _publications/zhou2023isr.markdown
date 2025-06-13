@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023isr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13724"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13724'}
 tags: ['Tools']
 ---
 Motivated by the substantial achievements observed in Large Language Models

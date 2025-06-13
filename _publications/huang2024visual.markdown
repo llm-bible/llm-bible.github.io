@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14683"}
-  - {name: "Code", url: "https://github.com/wenhuang2000/VHTest"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14683'}
+  - {name: "Code", url: 'https://github.com/wenhuang2000/VHTest'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Visual hallucination (VH) means that a multi-modal LLM (MLLM) imagines
 incorrect details about an image in visual question answering. Existing studies

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ogundare2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.02468"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.02468'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Interest in Large Language Models (LLMs) has increased drastically since the
 emergence of ChatGPT and the outstanding positive societal response to the ease

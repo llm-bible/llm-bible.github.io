@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16185"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16185'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated significant potential in
 various tasks, including those requiring human-level intelligence, such as

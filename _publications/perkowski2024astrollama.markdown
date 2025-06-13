@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: perkowski2024astrollama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.01916"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.01916'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 We explore the potential of enhancing LLM performance in astronomy-focused
 question-answering through targeted, continual pre-training. By employing a

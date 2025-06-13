@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14899"}
-tags: ['Agentic', 'Multimodal Models', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14899'}
+tags: ['Attention Mechanism', 'Agentic', 'Multimodal Models', 'Model Architecture']
 ---
 Surprising videos, such as funny clips, creative performances, or visual
 illusions, attract significant attention. Enjoyment of these videos is not

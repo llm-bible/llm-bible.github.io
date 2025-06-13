@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wang2019improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1912.07491"}
-  - {name: "Code", url: "https://github.com/siat-nlp/TransDG"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1912.07491'}
+  - {name: "Code", url: 'https://github.com/siat-nlp/TransDG'}
 tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Neural network models usually suffer from the challenge of incorporating

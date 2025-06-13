@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024ignitioninnovators
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17636"}
-  - {name: "Code", url: "https://github.com/antangrocket1312/Discharge_LLM"}
-tags: ['Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17636'}
+  - {name: "Code", url: 'https://github.com/antangrocket1312/Discharge_LLM'}
+tags: ['Prompting', 'Has Code', 'Tools']
 ---
 This paper presents our proposed approach to the Discharge Me! shared task,
 collocated with the 23th Workshop on Biomedical Natural Language Processing

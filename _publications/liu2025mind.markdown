@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00003"}
-tags: ['Transformer', 'Pre-Training', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00003'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Pre-Training']
 ---
 Psychological insights have long shaped pivotal NLP breakthroughs, including
 the cognitive underpinnings of attention mechanisms, formative reinforcement

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16611"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16611'}
 tags: ['Reinforcement Learning']
 ---
 As large language models (LLMs) become more advanced and impactful, it is

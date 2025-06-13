@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nguyen2023black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05501"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05501'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The evolution of Generative Pre-trained Transformer (GPT) models has led to
 significant advancements in various natural language processing applications,

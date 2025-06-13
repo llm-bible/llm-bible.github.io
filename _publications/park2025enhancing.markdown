@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: park2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06352"}
-  - {name: "Code", url: "https://github.com/jadohu/LANTERN"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06352'}
+  - {name: "Code", url: 'https://github.com/jadohu/LANTERN'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Speculative decoding has been widely used to accelerate auto-regressive (AR)
 text generation. However, its effectiveness for visual AR models remains

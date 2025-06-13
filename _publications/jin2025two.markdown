@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09772"}
-  - {name: "Code", url: "https://github.com/jincan333/MAS-TTS"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09772'}
+  - {name: "Code", url: 'https://github.com/jincan333/MAS-TTS'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Multi-agent systems (MAS) built on large language models (LLMs) offer a
 promising path toward solving complex, real-world tasks that single-agent

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kang2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11246"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11246'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We propose a natural language prompt-based retrieval augmented generation
 (Prompt-RAG), a novel approach to enhance the performance of generative large

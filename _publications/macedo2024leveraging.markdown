@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: macedo2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01063"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01063'}
 tags: ['RAG', 'Tools']
 ---
 Code translation aims to convert a program from one programming language (PL)

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13131"}
-tags: ['Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13131'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 This paper studies in-context learning by decomposing the output of large
 language models into the individual contributions of attention heads and MLPs

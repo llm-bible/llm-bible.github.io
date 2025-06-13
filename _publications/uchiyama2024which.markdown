@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: uchiyama2024which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06735"}
-tags: ['Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06735'}
+tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning']
 ---
 Recent large language models (LLMs) have demonstrated remarkable
 generalization abilities in mathematics and logical reasoning tasks. Prior

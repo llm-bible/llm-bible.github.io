@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.10464"}
-  - {name: "Code", url: "https://github.com/Eureka6174/LearnNLPlan"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.10464'}
+  - {name: "Code", url: 'https://github.com/Eureka6174/LearnNLPlan'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown remarkable performance in various
 basic natural language tasks. For completing the complex task, we still need a

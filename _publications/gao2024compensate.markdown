@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024compensate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16299"}
-tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16299'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization']
 ---
 Emergent Large Language Models (LLMs) use their extraordinary performance and
 powerful deduction capacity to discern from traditional language models.

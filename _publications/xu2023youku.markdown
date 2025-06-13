@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023youku
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04362"}
-tags: ['Responsible AI', 'Pre-Training', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04362'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Multimodal Models', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 To promote the development of Vision-Language Pre-training (VLP) and
 multimodal Large Language Model (LLM) in the Chinese community, we firstly

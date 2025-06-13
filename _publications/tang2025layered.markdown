@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025layered
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13951"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13951'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Long-form mental health assessments pose unique challenges for large language
 models (LLMs), which often exhibit hallucinations or inconsistent reasoning

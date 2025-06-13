@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bumgardner2023local
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01727"}
-tags: ['BERT', 'Training Techniques', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01727'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture']
 ---
 This paper introduces an approach that combines the language reasoning
 capabilities of large language models (LLMs) with the benefits of local

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hebenstreit2023automatically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02897"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02897'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Interpretability']
 ---
 Emergent chain-of-thought (CoT) reasoning capabilities promise to improve
 performance and explainability of large language models (LLMs). However,

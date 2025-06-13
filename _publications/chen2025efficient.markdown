@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10481"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10481'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 With the release of the o1 model by OpenAI, reasoning models adopting slow

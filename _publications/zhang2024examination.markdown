@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024examination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05359"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05359'}
 tags: ['Prompting', 'Applications']
 ---
 Foundation models, such as Large language Models (LLMs), have attracted

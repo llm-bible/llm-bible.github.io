@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04093"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04093'}
 tags: ['Tools']
 ---
 In the rapidly evolving field of natural language processing, dialogue

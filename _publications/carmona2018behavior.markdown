@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: carmona2018behavior
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.04212"}
-tags: ['Security', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.04212'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Security', 'Model Architecture']
 ---
 Natural Language Inference is a challenging task that has received
 substantial attention, and state-of-the-art models now achieve impressive test

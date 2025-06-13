@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023schema
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.12568"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.12568'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Ensuring that generated utterances are faithful to dialogue actions is
 crucial for Task-Oriented Dialogue Response Generation. Slot Error Rate (SER)

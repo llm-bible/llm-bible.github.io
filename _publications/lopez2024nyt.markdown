@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lopez2024nyt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01621"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01621'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) have shown impressive performance on various
 benchmarks, yet their ability to engage in deliberate reasoning remains

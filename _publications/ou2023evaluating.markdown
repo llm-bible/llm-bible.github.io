@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ou2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01677"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01677'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Large language models (LLMs) have achieved remarkable breakthroughs in new
 dialogue capabilities by leveraging instruction tuning, which refreshes human

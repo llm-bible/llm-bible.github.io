@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cisnerosvelarde2025bypassing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06577"}
-tags: ['Responsible AI', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06577'}
+tags: ['Prompting', 'Responsible AI']
 ---
 In this paper, we show it is possible to bypass the safety guardrails of
 large language models (LLMs) through a humorous prompt including the unsafe

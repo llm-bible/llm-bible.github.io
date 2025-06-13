@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramprasad2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03487"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03487'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have considerably
 advanced the capabilities of summarization systems. However, they continue to

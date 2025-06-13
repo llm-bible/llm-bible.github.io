@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vazhentsev2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14427"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14427'}
 tags: ['Language Modeling', 'Applications']
 ---
 Uncertainty quantification (UQ) is a prominent approach for eliciting

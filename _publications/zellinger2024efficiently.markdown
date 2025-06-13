@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zellinger2024efficiently
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02173"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02173'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Deploying large language models in production requires simultaneous attention
 to efficiency and risk control. Prior work has shown the possibility to cut

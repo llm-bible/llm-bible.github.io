@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025fm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08823"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08823'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 How to adapt a pre-trained model continuously for sequential tasks with
 different prediction class labels and domains and finally learn a generalizable

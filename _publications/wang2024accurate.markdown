@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024accurate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12846"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12846'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Question answering on free-form tables (a.k.a. TableQA) is a challenging task
 because of the flexible structure and complex schema of tables. Recent studies

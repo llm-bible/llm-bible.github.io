@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10630"}
-  - {name: "Code", url: "https://github.com/awslabs/HLAT)"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Large-Scale Training', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10630'}
+  - {name: "Code", url: 'https://github.com/awslabs/HLAT)'}
+tags: ['Large-Scale Training', 'Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Pre-Training']
 ---
 Getting large language models (LLMs) to perform well on the downstream tasks
 requires pre-training over trillions of tokens. This typically demands a large

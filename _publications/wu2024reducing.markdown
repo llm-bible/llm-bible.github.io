@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05928"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05928'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly

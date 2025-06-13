@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: antico2024unimib
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19554"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19554'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Merging', 'Prompting']
 ---
 Natural language processing skills of Large Language Models (LLMs) are
 unprecedented, having wide diffusion and application in different tasks. This

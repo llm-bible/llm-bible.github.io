@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01886"}
-  - {name: "Code", url: "https://github.com/xunguangwang/InstructTA"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01886'}
+  - {name: "Code", url: 'https://github.com/xunguangwang/InstructTA'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large vision-language models (LVLMs) have demonstrated their incredible
 capability in image understanding and response generation. However, this rich

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09835"}
-  - {name: "Code", url: "https://github.com/CLAIRE-Labo/StructuredFFN/tree/main"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09835'}
+  - {name: "Code", url: 'https://github.com/CLAIRE-Labo/StructuredFFN/tree/main'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 State-of-the-art LLMs often rely on scale with high computational costs,
 which has sparked a research agenda to reduce parameter counts and costs

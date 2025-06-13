@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liu2022pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.04413"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.04413'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Few-shot abstractive summarization has become a challenging task in natural
 language generation. To support it, we designed a novel soft prompts

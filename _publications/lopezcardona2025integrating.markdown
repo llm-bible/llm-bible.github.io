@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lopezcardona2025integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06843"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06843'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Merging', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Recently, the integration of cognitive neuroscience in Natural Language
 Processing (NLP) has gained significant attention. This article provides a

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025effects
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14255"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14255'}
 tags: ['Attention Mechanism', 'Prompting', 'Applications', 'Model Architecture']
 ---
 In recent years, Large Language Models have garnered significant attention

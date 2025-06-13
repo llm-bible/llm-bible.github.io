@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21193"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21193'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 We introduce UGen, a unified autoregressive multimodal model that
 demonstrates strong performance across text processing, image understanding,

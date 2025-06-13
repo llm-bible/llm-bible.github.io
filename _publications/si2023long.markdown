@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: si2023long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00378"}
-  - {name: "Code", url: "https://behavior-in-the-wild.github.io/memorability"}
-tags: ['RAG', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00378'}
+  - {name: "Code", url: 'https://behavior-in-the-wild.github.io/memorability'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Multimodal Models']
 ---
 Despite the importance of long-term memory in marketing and brand building,
 until now, there has been no large-scale study on the memorability of ads. All

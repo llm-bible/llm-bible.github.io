@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023pushing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00280"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00280'}
+tags: ['Large-Scale Training', 'Agentic', 'Agent', 'Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are evolving at an unprecedented pace and have
 exhibited considerable capability in the realm of natural language processing

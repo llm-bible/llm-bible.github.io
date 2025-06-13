@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: kim2020highly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.13382"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.13382'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 Transformer-based models are the state-of-the-art for Natural Language
 Understanding (NLU) applications. Models are getting bigger and better on

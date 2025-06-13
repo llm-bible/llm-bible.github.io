@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07257"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07257'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture']
 ---
 In Sequential Recommenders (SR), encoding and utilizing modalities in an
 end-to-end manner is costly in terms of modality encoder sizes. Two-stage

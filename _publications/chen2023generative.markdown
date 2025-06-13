@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04901"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability', 'Training Techniques', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04901'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Multimodal Models', 'Ethics and Bias', 'Interpretability']
 ---
 Recent works have shown that Large Language Models (LLMs) could empower
 traditional neuro-symbolic models via programming capabilities to translate

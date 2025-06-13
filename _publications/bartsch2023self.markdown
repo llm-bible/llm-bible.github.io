@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bartsch2023self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13439"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13439'}
 tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) that do not give consistent answers across

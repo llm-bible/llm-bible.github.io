@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ribar2023sparq
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04985"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04985'}
+tags: ['Attention Mechanism', 'ACL', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'TACL', 'Pretraining Methods']
 ---
 The computational difficulties of large language model (LLM) inference remain
 a significant obstacle to their widespread deployment. The need for many

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sato2024implementation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01575"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01575'}
 tags: ['Agentic']
 ---
 Werewolf is an incomplete information game, which has several challenges when

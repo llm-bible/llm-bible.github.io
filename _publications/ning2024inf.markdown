@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ning2024inf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09086"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09086'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Multimodal Large Language Models (MLLMs) are distinguished by their
 multimodal comprehensive ability and widely used in many real-world

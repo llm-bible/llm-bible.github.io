@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: lisa2021prefix
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2101.00190v1"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2101.00190v1'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Fine-tuning is the de facto way to leverage large pretrained language models
 to perform downstream tasks. However, it modifies all the language model

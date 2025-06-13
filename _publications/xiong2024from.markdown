@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19292"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19292'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recent studies have shown that Large Language Models (LLMs) struggle to
 accurately retrieve information and maintain reasoning capabilities when

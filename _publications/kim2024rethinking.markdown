@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03469"}
-  - {name: "Code", url: "https://github.com/naver-ai/rethinking-proxy-reward"}
-tags: ['Agentic', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03469'}
+  - {name: "Code", url: 'https://github.com/naver-ai/rethinking-proxy-reward'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Training Techniques']
 ---
 Learning from human feedback via proxy reward modeling has been studied to
 align Large Language Models (LLMs) with human values. However, achieving

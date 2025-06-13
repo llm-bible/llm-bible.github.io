@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: lewis2020retrieval
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2005.11401v4"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Vector Indexing']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2005.11401v4'}
+tags: ['RAG', 'Vector Indexing', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large pre-trained language models have been shown to store factual knowledge
 in their parameters, and achieve state-of-the-art results when fine-tuned on

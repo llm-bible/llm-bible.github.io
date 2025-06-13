@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nakanishi2025analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01947"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01947'}
+tags: ['Tools', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 In recent years, Large Language Models have attracted growing interest for
 their significant potential, though concerns have rapidly emerged regarding

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: arkhangelskaia2019whatcha
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.06431"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.06431'}
+tags: ['Attention Mechanism', 'RAG', 'BERT', 'Applications', 'Model Architecture']
 ---
 There has been great success recently in tackling challenging NLP tasks by
 neural networks which have been pre-trained and fine-tuned on large amounts of

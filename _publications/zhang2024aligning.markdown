@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13948"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13948'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In natural human-to-human conversations, participants often receive feedback
 signals from one another based on their follow-up reactions. These reactions

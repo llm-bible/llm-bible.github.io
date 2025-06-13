@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: asgarian2025multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18371"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18371'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 In the competitive landscape of advertising, success hinges on effectively
 navigating and leveraging complex interactions among consumers, advertisers,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.03856"}
-  - {name: "Code", url: "https://github.com/Infini-AI-Lab/Sirius.git"}
-tags: ['Has Code', 'Training Techniques', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.03856'}
+  - {name: "Code", url: 'https://github.com/Infini-AI-Lab/Sirius.git'}
+tags: ['Prompting', 'Has Code', 'Efficiency and Optimization', 'Training Techniques']
 ---
 With the blossom of large language models (LLMs), inference efficiency
 becomes increasingly important. Various approximation methods are proposed to

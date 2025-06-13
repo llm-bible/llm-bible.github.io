@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10631"}
-  - {name: "Code", url: "https://github.com/DD-DuDa/BitDistiller"}
-tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10631'}
+  - {name: "Code", url: 'https://github.com/DD-DuDa/BitDistiller'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Training Techniques', 'Quantization']
 ---
 The upscaling of Large Language Models (LLMs) has yielded impressive advances
 in natural language processing, yet it also poses significant deployment

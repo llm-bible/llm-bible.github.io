@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024realizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07163"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07163'}
+tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Educational scholars have analyzed various image data acquired from teaching
 and learning situations, such as photos that shows classroom dynamics,

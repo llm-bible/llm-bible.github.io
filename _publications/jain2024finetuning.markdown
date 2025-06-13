@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024finetuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12513"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12513'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Auto-regressive Large Language Models (LLMs) demonstrate remarkable
 performance across different domains such as vision and language processing.

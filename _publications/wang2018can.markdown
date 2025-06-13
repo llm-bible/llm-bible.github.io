@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: wang2018can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1812.10860"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1812.10860'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Natural language understanding has recently seen a surge of progress with the
 use of sentence encoders like ELMo (Peters et al., 2018a) and BERT (Devlin et

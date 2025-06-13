@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ta2024utilize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06124"}
-tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06124'}
+tags: ['RAG', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 On Wikipedia, articles are categorized to aid readers in navigating content
 efficiently. The manual creation of new categories can be laborious and

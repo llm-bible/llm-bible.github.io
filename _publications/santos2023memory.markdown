@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: santos2023memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10768"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10768'}
 tags: ['Uncategorized']
 ---
 Scaling up the number of parameters of language models has proven to be an

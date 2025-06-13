@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: weber2023mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13486"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13486'}
 tags: ['Prompting']
 ---
 Finding the best way of adapting pre-trained language models to a task is a

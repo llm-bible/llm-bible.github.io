@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09684"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09684'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Prompting']
 ---
 This study examines the effect of prompt engineering on the performance of
 Large Language Models (LLMs) in clinical note generation. We introduce an

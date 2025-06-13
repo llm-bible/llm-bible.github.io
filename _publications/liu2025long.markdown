@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13963"}
-tags: ['Applications', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13963'}
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) frequently show distracted attention due to
 irrelevant information in the input, which severely impairs their long-context

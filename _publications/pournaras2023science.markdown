@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pournaras2023science
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15299"}
-tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15299'}
+tags: ['GPT', 'Model Architecture', 'Merging', 'Survey Paper', 'Ethics and Bias', 'Responsible AI']
 ---
 Large language models of artificial intelligence (AI), such as ChatGPT, find
 remarkable but controversial applicability in science and research. This paper

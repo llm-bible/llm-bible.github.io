@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: son2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.01505"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.01505'}
+tags: ['GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs), consisting of 100 billion or more parameters,
 have demonstrated remarkable ability in complex multi-step reasoning tasks.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025selecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16860"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16860'}
+tags: ['Attention Mechanism', 'Arxiv', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques']
 ---
 With the development of large language models (LLMs), there has been an
 increasing need for significant advancements in handling long contexts. To

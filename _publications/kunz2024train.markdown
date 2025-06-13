@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kunz2024train
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12674"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12674'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Smaller LLMs still face significant challenges even in medium-resourced
 languages, particularly when it comes to language-specific knowledge -- a

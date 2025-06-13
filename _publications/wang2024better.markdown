@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00126"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00126'}
 tags: ['Tools']
 ---
 Large language models (LLMs) are primarily evaluated by overall performance

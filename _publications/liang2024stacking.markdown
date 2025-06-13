@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024stacking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15570"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15570'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances show that large language models (LLMs) generalize strong
 performance across different natural language benchmarks. However, the large

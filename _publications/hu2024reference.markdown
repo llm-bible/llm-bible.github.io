@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024reference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18365"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18365'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture']
 ---
 The evaluation of natural language generation (NLG) tasks is a significant
 and longstanding research area. With the recent emergence of powerful large

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: qiu2019generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.03401"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.03401'}
 tags: ['Reinforcement Learning']
 ---
 The neural seq2seq based question generation (QG) is prone to generating

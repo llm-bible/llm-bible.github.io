@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tu2025robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18365"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18365'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval-augmented generation (RAG) enhances large language models (LLMs) by
 integrating external knowledge retrieved from a knowledge base. However, its

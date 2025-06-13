@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025gradient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05911"}
-  - {name: "Code", url: "https://github.com/opendatalab/GRAIT"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05911'}
+  - {name: "Code", url: 'https://github.com/opendatalab/GRAIT'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Refusal-Aware Instruction Tuning (RAIT) aims to enhance Large Language Models
 (LLMs) by improving their ability to refuse responses to questions beyond their

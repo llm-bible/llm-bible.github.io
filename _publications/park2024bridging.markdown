@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09632"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09632'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 This paper introduces VLAP, a novel approach that bridges pretrained vision
 models and large language models (LLMs) to make frozen LLMs understand the

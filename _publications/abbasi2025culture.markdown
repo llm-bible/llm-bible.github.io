@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: abbasi2025culture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05982"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05982'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 This paper presents HamRaz, a novel Persian-language mental health dataset
 designed for Person-Centered Therapy (PCT) using Large Language Models (LLMs).

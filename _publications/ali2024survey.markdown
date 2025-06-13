@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ali2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15040"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15040'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Survey Paper', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have gained significant attention due to their
 high performance on a wide range of natural language tasks since the release of

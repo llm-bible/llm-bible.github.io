@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: robino2025conversation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11613"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11613'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Applications', 'Tools', 'Prompting']
 ---
 This study introduces Conversation Routines (CR), a structured prompt
 engineering framework for developing task-oriented dialog systems using Large

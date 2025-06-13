@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: amani2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14415"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14415'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Survey Paper']
 ---
 ChatGPT is a natural language processing tool that can engage in human-like
 conversations and generate coherent and contextually relevant responses to

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: regan2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04232"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04232'}
 tags: ['Agentic', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated a number of human-like

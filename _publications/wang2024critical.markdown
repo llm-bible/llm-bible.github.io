@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024critical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08642"}
-tags: ['Training Techniques', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08642'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Post-training, particularly reinforcement learning (RL) using
 self-play-generated data, has become a new learning paradigm for large language

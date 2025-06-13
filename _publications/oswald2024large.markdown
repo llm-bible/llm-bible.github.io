@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: oswald2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06650"}
-  - {name: "Code", url: "https://github.com/IBM/NL2PDDL"}
-tags: ['Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06650'}
+  - {name: "Code", url: 'https://github.com/IBM/NL2PDDL'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools']
 ---
 Developing domain models is one of the few remaining places that require
 manual human labor in AI planning. Thus, in order to make planning more

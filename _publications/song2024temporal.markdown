@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024temporal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00152"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00152'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools']
 ---
 This paper explores whether enhancing temporal reasoning capabilities in
 Large Language Models (LLMs) can improve the quality of timeline summarisation,

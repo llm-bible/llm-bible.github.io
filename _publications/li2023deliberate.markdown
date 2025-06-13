@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023deliberate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19835"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19835'}
+tags: ['Language Modeling', 'RAG', 'Tools', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown remarkable success across a wide
 range of natural language generation tasks, where proper prompt designs make

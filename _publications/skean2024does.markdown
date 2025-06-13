@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: skean2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09563"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09563'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Understanding what defines a good representation in large language models
 (LLMs) is fundamental to both theoretical understanding and practical

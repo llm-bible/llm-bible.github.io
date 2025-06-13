@@ -6,8 +6,8 @@ conference: "Proceedings of the 48th International ACM SIGIR Conference on Resea
 year: 2025
 bibkey: mozafari2025wrong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16358"}
-tags: ['Security', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16358'}
+tags: ['Reinforcement Learning', 'Security', 'Applications']
 ---
 Large Language Models (LLMs) are revolutionizing information retrieval, with
 chatbots becoming an important source for answering user queries. As by their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dietz2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19076"}
-tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19076'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Tools']
 ---
 Large Language Models (LLMs) are increasingly used to evaluate information
 retrieval (IR) systems, generating relevance judgments traditionally made by

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: xu2022concept
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.00872"}
-tags: ['Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.00872'}
+tags: ['Attention Mechanism', 'Tools', 'Model Architecture']
 ---
 Maintaining a consistent persona is essential for building a human-like
 conversational model. However, the lack of attention to the partner makes the

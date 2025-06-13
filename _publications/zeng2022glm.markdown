@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: zeng2022glm
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2210.02414v2"}
-  - {name: "Code", url: "https://github.com/THUDM/GLM-130B/"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2210.02414v2'}
+  - {name: "Code", url: 'https://github.com/THUDM/GLM-130B/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language
 model with 130 billion parameters. It is an attempt to open-source a 100B-scale

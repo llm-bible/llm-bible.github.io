@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: friedman2024bottom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05040"}
-tags: ['Responsible AI', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05040'}
+tags: ['Prompting', 'Responsible AI', 'Training Techniques']
 ---
 Large language models (LLMs) generate diverse, situated, persuasive texts
 from a plurality of potential perspectives, influenced heavily by their prompts

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lei2023creating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.07686"}
-  - {name: "Code", url: "https://github.com/bin123apple/Fortran-CPP-HPC-code-translation-dataset}{OpenMP-Fortran-CPP-Translation"}
-tags: ['Training Techniques', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.07686'}
+  - {name: "Code", url: 'https://github.com/bin123apple/Fortran-CPP-HPC-code-translation-dataset}{OpenMP-Fortran-CPP-Translation'}
+tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'GPT']
 ---
 In this study, we present a novel dataset for training machine learning
 models translating between OpenMP Fortran and C++ code. To ensure reliability

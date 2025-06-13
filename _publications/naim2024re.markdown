@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: naim2024re
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11465"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11465'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) has emerged as a powerful paradigm for easily
 adapting Large Language Models (LLMs) to various tasks. However, our

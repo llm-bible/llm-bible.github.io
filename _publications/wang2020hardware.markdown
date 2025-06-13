@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: wang2020hardware
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.14187"}
-  - {name: "Code", url: "https://github.com/mit-han-lab/hardware-aware-transformers.git"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.14187'}
+  - {name: "Code", url: 'https://github.com/mit-han-lab/hardware-aware-transformers.git'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'WMT', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 Transformers are ubiquitous in Natural Language Processing (NLP) tasks, but
 they are difficult to be deployed on hardware due to the intensive computation.

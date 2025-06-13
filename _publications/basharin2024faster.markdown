@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: basharin2024faster
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17765"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17765'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We propose a new model for multi-token prediction in transformers, aiming to
 enhance sampling efficiency without compromising accuracy. Motivated by recent

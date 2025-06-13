@@ -6,9 +6,9 @@ conference: "Nat Mach Intell 7 6-17 (2025)"
 year: 2023
 bibkey: zheng2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08184"}
-  - {name: "Code", url: "https://github.com/ruthless-man/Awesome-Learn-from-Model"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08184'}
+  - {name: "Code", url: 'https://github.com/ruthless-man/Awesome-Learn-from-Model'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 Foundation models (FM) have demonstrated remarkable performance across a wide
 range of tasks (especially in the fields of natural language processing and

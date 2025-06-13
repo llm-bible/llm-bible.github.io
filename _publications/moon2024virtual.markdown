@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: moon2024virtual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06576"}
-  - {name: "Code", url: "https://github.com/CannyLab/anthology"}
-tags: ['Survey Paper', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06576'}
+  - {name: "Code", url: 'https://github.com/CannyLab/anthology'}
+tags: ['Has Code', 'Survey Paper']
 ---
 Large language models (LLMs) are trained from vast repositories of text
 authored by millions of distinct authors, reflecting an enormous diversity of

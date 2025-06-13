@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024ml
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19832"}
-tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19832'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) have attracted much attention for
 their multifunctionality. However, traditional Transformer architectures incur

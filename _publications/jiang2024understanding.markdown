@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12329"}
-tags: ['RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12329'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models', 'Tools']
 ---
 The rapid advancement of Multimodal Large Language Models (MLLMs) has been
 accompanied by the development of various benchmarks to evaluate their

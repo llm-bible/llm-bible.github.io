@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tariq2025bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03179"}
-tags: ['Interpretability and Explainability', 'Security', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03179'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability', 'Security']
 ---
 This study investigates whether large language models (LLMs) can function as
 intelligent collaborators to bridge expertise gaps in cybersecurity

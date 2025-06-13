@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: burg2025aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04997"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04997'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly used as automated judges to
 evaluate recommendation systems, search engines, and other subjective tasks,

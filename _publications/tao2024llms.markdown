@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12591"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'BERT', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12591'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'BERT', 'GPT', 'Prompting', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 by achieving state-of-the-art performance across various tasks. Recently, their

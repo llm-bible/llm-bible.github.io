@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024sgd
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05270"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05270'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large language models (LLMs) are notoriously memory-intensive during
 training, particularly with the popular AdamW optimizer. This memory burden

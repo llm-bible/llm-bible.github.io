@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nguyen2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04221"}
-tags: ['Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04221'}
+tags: ['Prompting', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have remarkably progressed in
 analyzing and understanding images. Despite these advancements, accurately

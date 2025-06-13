@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03747"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03747'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recently, leveraging pre-trained Large Language Models (LLMs) for time series
 (TS) tasks has gained increasing attention, which involves activating and

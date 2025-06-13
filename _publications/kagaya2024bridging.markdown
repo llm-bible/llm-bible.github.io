@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kagaya2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16919"}
-tags: ['Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16919'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Security', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated high
 reasoning capabilities, drawing attention for their applications as agents in

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chitale2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12097"}
-  - {name: "Code", url: "https://github.com/PranjalChitale/in-context-mt-analysis"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12097'}
+  - {name: "Code", url: 'https://github.com/PranjalChitale/in-context-mt-analysis'}
+tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 Recent interest has surged in employing Large Language Models (LLMs) for
 machine translation (MT) via in-context learning (ICL) (Vilar et al., 2023).

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lin2022task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.04073"}
-tags: ['Pre-Training', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.04073'}
+tags: ['Masked Language Model', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent advancements in dialogue response selection (DRS) are based on the
 \textit\{task-adaptive pre-training (TAP)\} approach, by first initializing their

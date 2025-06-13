@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024gold
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02408"}
-  - {name: "Code", url: "https://github.com/thunderous77/GLaPE"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02408'}
+  - {name: "Code", url: 'https://github.com/thunderous77/GLaPE'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Prompting']
 ---
 Despite the rapid progress of large language models (LLMs), their task
 performance remains sensitive to prompt design. Recent studies have explored

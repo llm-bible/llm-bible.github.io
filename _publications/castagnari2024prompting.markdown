@@ -6,8 +6,8 @@ conference: "LLMs4MI 2024 @FLLM 2024 IEEE Nov 2024 Dubai United Arab Emirates"
 year: 2024
 bibkey: castagnari2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15377"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15377'}
+tags: ['Transformer', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In practice, clinicians achieve a diagnosis by following a sequence of steps,
 such as laboratory exams, observations, or imaging. The pathways to reach

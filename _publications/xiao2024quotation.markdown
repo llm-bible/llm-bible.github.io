@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024quotation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03675"}
-  - {name: "Code", url: "https://github.com/GraceXiaoo/QUILL"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03675'}
+  - {name: "Code", url: 'https://github.com/GraceXiaoo/QUILL'}
 tags: ['Has Code', 'Uncategorized']
 ---
 While Large language models (LLMs) have become excellent writing assistants,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gavin2024challenging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17588"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17588'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 The long-context capabilities of large language models (LLMs) have been a hot
 topic in recent years. To evaluate the performance of LLMs in different

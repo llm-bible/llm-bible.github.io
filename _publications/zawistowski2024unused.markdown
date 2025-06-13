@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zawistowski2024unused
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10267"}
-tags: ['GPT', 'Prompting', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10267'}
+tags: ['Ethics and Bias', 'GPT', 'Prompting', 'Model Architecture']
 ---
 LLM text decoding is key component for perceived LLM quality. We demonstrate
 two experiments showing that decoding methods could be improved by manipulation

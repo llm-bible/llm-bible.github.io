@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18185"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/TextMatch-F55C/"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18185'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/TextMatch-F55C/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Multimodal Models', 'In-Context Learning']
 ---
 Text-to-image generative models excel in creating images from text but
 struggle with ensuring alignment and consistency between outputs and prompts.

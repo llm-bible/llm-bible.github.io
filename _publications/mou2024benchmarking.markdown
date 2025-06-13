@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: mou2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19346"}
-  - {name: "Code", url: "https://github.com/ljcleo/agent_sense"}
-tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19346'}
+  - {name: "Code", url: 'https://github.com/ljcleo/agent_sense'}
+tags: ['Agentic', 'Has Code', 'RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly leveraged to empower autonomous
 agents to simulate human beings in various fields of behavioral research.

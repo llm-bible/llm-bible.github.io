@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024st
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00308"}
-  - {name: "Code", url: "https://github.com/TencentARC/ST-LLM"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00308'}
+  - {name: "Code", url: 'https://github.com/TencentARC/ST-LLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have showcased impressive capabilities in text
 comprehension and generation, prompting research efforts towards video LLMs to

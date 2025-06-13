@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: newman2021p
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.07280"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.07280'}
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent work (e.g. LAMA (Petroni et al., 2019)) has found that the quality of
 the factual information extracted from Large Language Models (LLMs) depends on

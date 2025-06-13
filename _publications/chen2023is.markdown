@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04333"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04333'}
 tags: ['Reinforcement Learning']
 ---
 This paper presents an in-depth analysis of Large Language Models (LLMs),

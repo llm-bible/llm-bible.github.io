@@ -6,7 +6,7 @@ conference: "In Proceedings of the CHI Conference on Human Factors in Computing 
 year: 2024
 bibkey: jo2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11353"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11353'}
 tags: ['Reinforcement Learning']
 ---
 Recent large language models (LLMs) offer the potential to support public

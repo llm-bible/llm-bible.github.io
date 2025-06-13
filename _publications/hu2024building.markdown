@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08751"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08751'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Recently, procedural content generation has exhibited considerable
 advancements in the domain of 2D game level generation such as Super Mario

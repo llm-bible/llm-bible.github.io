@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024reverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09817"}
-tags: ['Training Techniques', 'Ethics and Bias', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09817'}
+tags: ['Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
 ---
 Humans are accustomed to reading and writing in a forward manner, and this
 natural bias extends to text understanding in auto-regressive large language

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: fujisawa2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03117"}
-  - {name: "Code", url: "https://huggingface.co/datasets/ifujisawa/procbench"}
-  - {name: "Code", url: "https://github.com/ifujisawa/proc-bench"}
-tags: ['Fine-Tuning', 'Security', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03117'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/ifujisawa/procbench'}
+  - {name: "Code", url: 'https://github.com/ifujisawa/proc-bench'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Has Code', 'Security']
 ---
 Reasoning is central to a wide range of intellectual activities, and while
 the capabilities of large language models (LLMs) continue to advance, their

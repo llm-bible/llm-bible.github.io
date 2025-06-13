@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chung2024selection
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11786"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11786'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in a
 wide range of natural language processing tasks when leveraging in-context

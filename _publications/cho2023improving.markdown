@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cho2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17490"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17490'}
+tags: ['Applications', 'Training Techniques']
 ---
 Large language models (LLMs) enable zero-shot approaches in open-domain
 question answering (ODQA), yet with limited advancements as the reader is

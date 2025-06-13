@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023supervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15918"}
-  - {name: "Code", url: "https://github.com/YangLinyi/Supervised-Knowledge-Makes-Large-Language-Models-Better-In-context-Learners"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15918'}
+  - {name: "Code", url: 'https://github.com/YangLinyi/Supervised-Knowledge-Makes-Large-Language-Models-Better-In-context-Learners'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) exhibit emerging in-context learning abilities
 through prompt engineering. The recent progress in large-scale generative

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021joint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.05187"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.05187'}
+tags: ['Attention Mechanism', 'GPT', 'BERT', 'Tools', 'Model Architecture']
 ---
 A multi-turn dialogue always follows a specific topic thread, and topic shift
 at the discourse level occurs naturally as the conversation progresses,

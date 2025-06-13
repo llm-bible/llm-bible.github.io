@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17395"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17395'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Despite recent progress achieved by code large language models (LLMs), their
 remarkable abilities are largely dependent on fine-tuning on the high-quality

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: renz2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09594"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09594'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability']
 ---
 Integrating large language models (LLMs) into autonomous driving has
 attracted significant attention with the hope of improving generalization and

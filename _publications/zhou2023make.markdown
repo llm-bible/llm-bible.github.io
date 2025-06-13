@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023make
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01964"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01964'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Pre-Training']
 ---
 Large language models~(LLMs) have greatly advanced the frontiers of
 artificial intelligence, attaining remarkable improvement in model capacity. To

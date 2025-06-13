@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jain2023lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.06857"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.06857'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) can exhibit considerable variation in the

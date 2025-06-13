@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: dou2022coarse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.07643"}
-  - {name: "Code", url: "https://github.com/microsoft/FIBER"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.07643'}
+  - {name: "Code", url: 'https://github.com/microsoft/FIBER'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Vision-language (VL) pre-training has recently received considerable
 attention. However, most existing end-to-end pre-training approaches either

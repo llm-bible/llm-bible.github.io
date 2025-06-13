@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02129"}
-  - {name: "Code", url: "https://github.com/zjunlp/PitfallsKnowledgeEditing"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02129'}
+  - {name: "Code", url: 'https://github.com/zjunlp/PitfallsKnowledgeEditing'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As the cost associated with fine-tuning Large Language Models (LLMs)
 continues to rise, recent research efforts have pivoted towards developing

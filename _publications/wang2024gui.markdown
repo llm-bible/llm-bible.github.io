@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024gui
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04890"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04890'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Recent advances in foundation models, particularly Large Language Models
 (LLMs) and Multimodal Large Language Models (MLLMs), have facilitated the

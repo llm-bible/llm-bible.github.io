@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05628"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05628'}
+tags: ['RAG', 'Tools', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Applications', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have significantly
 improved their ability to generate natural and contextually relevant text,

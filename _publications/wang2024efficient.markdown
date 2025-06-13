@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08184"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08184'}
 tags: ['Agentic']
 ---
 Large language model (LLM)-based mobile agents are increasingly popular due

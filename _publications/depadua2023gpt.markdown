@@ -6,8 +6,8 @@ conference: "CS IT Conference Proceedings (2023) volume 13 number 12 pages 183-1
 year: 2023
 bibkey: depadua2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.13617"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.13617'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Financial analysis is an important tool for evaluating company performance.
 Practitioners work to answer financial questions to make profitable investment

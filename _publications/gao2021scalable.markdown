@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gao2021scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.02242"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.02242'}
+tags: ['Transformer', 'WMT', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Applications', 'Pretraining Methods']
 ---
 Transformer has been widely adopted in Neural Machine Translation (NMT)
 because of its large capacity and parallel training of sequence generation.

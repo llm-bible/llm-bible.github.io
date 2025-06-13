@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13963"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13963'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 The development of open-source, multilingual medical language models can
 benefit a wide, linguistically diverse audience from different regions. To

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: singha2025federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20860"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20860'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Textual prompt tuning adapts Vision-Language Models (e.g., CLIP) in federated
 learning by tuning lightweight input tokens (or prompts) on local client data,

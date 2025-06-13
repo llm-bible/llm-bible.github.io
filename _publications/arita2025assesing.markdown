@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: arita2025assesing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12805"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12805'}
+tags: ['Prompting', 'Tools']
 ---
 This study explored how large language models (LLMs) perform in two areas
 related to art: writing critiques of artworks and reasoning about mental states

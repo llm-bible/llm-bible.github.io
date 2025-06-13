@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chai2025android
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01149"}
-tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01149'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Tools']
 ---
 AI agents have become increasingly prevalent in recent years, driven by
 significant advancements in the field of large language models (LLMs). Mobile

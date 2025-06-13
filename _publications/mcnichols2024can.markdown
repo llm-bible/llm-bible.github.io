@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mcnichols2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06414"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06414'}
 tags: ['Training Techniques']
 ---
 Intelligent Tutoring Systems (ITSs) often contain an automated feedback

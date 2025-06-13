@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023induction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18397"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18397'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 Retrieval-Augmented Generation (RAG), by incorporating external knowledge
 with parametric memory of language models, has become the state-of-the-art

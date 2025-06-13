@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: pallagani2022generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.08681"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.08681'}
+tags: ['Agentic', 'Language Modeling', 'Transformer', 'BERT', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have been the subject of active research,
 significantly advancing the field of Natural Language Processing (NLP). From

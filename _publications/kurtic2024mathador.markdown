@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kurtic2024mathador
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12572"}
-  - {name: "Code", url: "https://github.com/IST-DASLab/Mathador-LM}{github.com/IST-DASLab/Mathador-LM"}
-tags: ['RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12572'}
+  - {name: "Code", url: 'https://github.com/IST-DASLab/Mathador-LM}{github.com/IST-DASLab/Mathador-LM'}
+tags: ['RAG', 'Has Code', 'Training Techniques']
 ---
 We introduce Mathador-LM, a new benchmark for evaluating the mathematical
 reasoning on large language models (LLMs), combining ruleset interpretation,

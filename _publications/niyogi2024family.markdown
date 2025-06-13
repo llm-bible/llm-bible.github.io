@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: niyogi2024family
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.18034"}
-tags: ['Fine-Tuning', 'Applications', 'Tokenization', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.18034'}
+tags: ['Fine-Tuning', 'Language Modeling', 'Tokenization', 'Applications']
 ---
 We present "Paramanu", a family of novel language models (LM) for Indian
 languages, consisting of auto-regressive monolingual, bilingual, and

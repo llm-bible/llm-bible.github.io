@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: quan2024automatically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16579"}
-  - {name: "Code", url: "https://github.com/quanshr/AugCon"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16579'}
+  - {name: "Code", url: 'https://github.com/quanshr/AugCon'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Constructing high-quality query-response pairs from custom corpus is crucial
 for supervised fine-tuning (SFT) large language models (LLMs) in many

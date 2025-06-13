@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18649"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18649'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Few-Shot', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In the domain of code generation, self-debugging is crucial. It allows LLMs
 to refine their generated code based on execution feedback. This is

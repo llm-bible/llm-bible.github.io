@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mcilroyyoung2024order
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06581"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06581'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 The development of generative language models that can create long and
 coherent textual outputs via autoregression has lead to a proliferation of uses

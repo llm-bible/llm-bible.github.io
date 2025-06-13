@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023gaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10477"}
-tags: ['Responsible AI', 'RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10477'}
+tags: ['Reinforcement Learning', 'RAG', 'Responsible AI', 'Tools']
 ---
 The rapid development of large language models (LLMs) has not only provided
 numerous opportunities but also presented significant challenges. This becomes

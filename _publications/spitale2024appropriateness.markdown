@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: spitale2024appropriateness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.14935"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.14935'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 Robotic coaches have been recently investigated to promote mental well-being
 in various contexts such as workplaces and homes. With the widespread use of

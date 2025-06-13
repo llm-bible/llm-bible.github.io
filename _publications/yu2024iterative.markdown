@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16667"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16667'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 By compressing diverse narratives, LLMs go beyond memorization, achieving
 intelligence by capturing generalizable causal relationships. However, they

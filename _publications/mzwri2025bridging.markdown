@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mzwri2025bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03966"}
-tags: ['Tools', 'Survey Paper', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03966'}
+tags: ['Prompting', 'Tools', 'Survey Paper']
 ---
 The integration of Large Language Models (LLMs) with Learning Management
 Systems (LMSs) has the potential to enhance task automation and accessibility

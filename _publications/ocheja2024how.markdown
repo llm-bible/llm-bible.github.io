@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ocheja2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03856"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03856'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 E-learning environments are increasingly harnessing large language models
 (LLMs) like GPT-3.5 and GPT-4 for tailored educational support. This study

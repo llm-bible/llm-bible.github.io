@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20153"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20153'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 various tasks. However, their suitability for domain-specific tasks, is limited

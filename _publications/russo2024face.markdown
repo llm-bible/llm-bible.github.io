@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: russo2024face
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15189"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15189'}
 tags: ['RAG']
 ---
 Natural Language Processing and Generation systems have recently shown the

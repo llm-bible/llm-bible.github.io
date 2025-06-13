@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kenton2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04622"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04622'}
 tags: ['Agentic', 'Multimodal Models', 'Applications']
 ---
 Scalable oversight protocols aim to enable humans to accurately supervise

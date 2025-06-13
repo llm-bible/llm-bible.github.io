@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11328"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11328'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 Recent advancements in Large Language Models (LLMs) have demonstrated their
 potential in delivering accurate answers to questions about world knowledge.

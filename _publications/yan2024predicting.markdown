@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17287"}
-  - {name: "Code", url: "https://github.com/kuri-leo/BigFive-LLM-Predictor},"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17287'}
+  - {name: "Code", url: 'https://github.com/kuri-leo/BigFive-LLM-Predictor},'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Accurate assessment of personality traits is crucial for effective
 psycho-counseling, yet traditional methods like self-report questionnaires are

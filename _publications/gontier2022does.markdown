@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: gontier2022does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.01787"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.01787'}
+tags: ['Transformer', 'RAG', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 We study the utility of incorporating entity type abstractions into
 pre-trained Transformers and test these methods on four NLP tasks requiring

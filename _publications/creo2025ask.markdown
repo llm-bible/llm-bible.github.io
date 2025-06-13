@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: creo2025ask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2506.03357"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2506.03357'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Model Architecture']
 ---
 Hallucinations in large language models (LLMs) - instances where models generate plausible but factually incorrect information - present a significant challenge for AI.
   We introduce "Ask a Local", a novel hallucination detection method exploiting the intuition that specialized models exhibit greater surprise when encountering domain-specific inaccuracies. Our approach computes divergence between perplexity distributions of language-specialized models to identify potentially hallucinated spans. Our method is particularly well-suited for a multilingual context, as it naturally scales to multiple languages without the need for adaptation, relying on external data sources, or performing training. Moreover, we select computationally efficient models, providing a scalable solution that can be applied to a wide range of languages and domains.

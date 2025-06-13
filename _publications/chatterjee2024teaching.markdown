@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chatterjee2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18690"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18690'}
+tags: ['Attention Mechanism', 'Agentic', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We introduce AgreeMate, a framework for training Large Language Models (LLMs)
 to perform strategic price negotiations through natural language. We apply

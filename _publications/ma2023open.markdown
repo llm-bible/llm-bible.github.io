@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04372"}
-  - {name: "Code", url: "https://github.com/PurdueDigitalTwin/LaMPilot"}
-tags: ['RAG', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04372'}
+  - {name: "Code", url: 'https://github.com/PurdueDigitalTwin/LaMPilot'}
+tags: ['RAG', 'Has Code', 'Tools']
 ---
 Autonomous driving (AD) has made significant strides in recent years.
 However, existing frameworks struggle to interpret and execute spontaneous user

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barke2024solving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11734"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11734'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) are rapidly replacing help forums like
 StackOverflow, and are especially helpful for non-professional programmers and

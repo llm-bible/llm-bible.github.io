@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14922"}
-  - {name: "Code", url: "https://github.com/zhijie-group/SIFT"}
-tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14922'}
+  - {name: "Code", url: 'https://github.com/zhijie-group/SIFT'}
+tags: ['RAG', 'Has Code', 'Efficiency and Optimization', 'Training Techniques']
 ---
 This paper identifies the misinterpretation of the context can be a
 significant issue during the reasoning process of large language models,

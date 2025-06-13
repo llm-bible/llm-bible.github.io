@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pu2025assistance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18658"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18658'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 AI programming tools enable powerful code generation, and recent prototypes
 attempt to reduce user effort with proactive AI agents, but their impact on

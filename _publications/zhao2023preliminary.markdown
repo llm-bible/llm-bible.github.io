@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023preliminary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.05696"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.05696'}
 tags: ['Training Techniques']
 ---
 Training large language models (LLMs) with open-domain instruction data has

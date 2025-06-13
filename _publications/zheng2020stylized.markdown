@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zheng2020stylized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.12719"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.12719'}
+tags: ['Applications', 'Training Techniques']
 ---
 Generating stylized responses is essential to build intelligent and engaging
 dialogue systems. However, this task is far from well-explored due to the

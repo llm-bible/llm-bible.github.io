@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: musat2024mechanism
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12118"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12118'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 In this paper, I introduce the retrieval problem, a simple yet common
 reasoning task that can be solved only by transformers with a minimum number of

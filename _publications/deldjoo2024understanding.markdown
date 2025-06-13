@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: deldjoo2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10545"}
-  - {name: "Code", url: "https://github.com/yasdel/Benchmark_RecLLM_Fairness"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Has Code', 'Few-Shot', 'Fairness', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10545'}
+  - {name: "Code", url: 'https://github.com/yasdel/Benchmark_RecLLM_Fairness'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Fairness', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'RecSys', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 This paper explores the biases in ChatGPT-based recommender systems, focusing
 on provider fairness (item-side fairness). Through extensive experiments and

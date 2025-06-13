@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03262"}
-  - {name: "Code", url: "https://github.com/OpenRLHF/OpenRLHF"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03262'}
+  - {name: "Code", url: 'https://github.com/OpenRLHF/OpenRLHF'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Reinforcement Learning from Human Feedback (RLHF) plays a crucial role in
 aligning large language models (LLMs) with human values and preferences. While

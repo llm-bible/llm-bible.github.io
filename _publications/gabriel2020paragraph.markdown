@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: gabriel2020paragraph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.01486"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.01486'}
 tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Human understanding of narrative texts requires making commonsense inferences

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kong2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05954"}
-  - {name: "Code", url: "https://github.com/Lingkai-Kong/RE-Control"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05954'}
+  - {name: "Code", url: 'https://github.com/Lingkai-Kong/RE-Control'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) with human objectives is crucial for
 real-world applications. However, fine-tuning LLMs for alignment often suffers

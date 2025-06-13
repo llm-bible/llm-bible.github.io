@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: arora2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14235"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14235'}
 tags: ['Uncategorized']
 ---
 Reasoning and linguistic skills form the cornerstone of human intelligence,

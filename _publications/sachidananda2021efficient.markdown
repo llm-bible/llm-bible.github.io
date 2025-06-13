@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sachidananda2021efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.07460"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.07460'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Tokenization', 'Pretraining Methods']
 ---
 Contextual embedding-based language models trained on large data sets, such
 as BERT and RoBERTa, provide strong performance across a wide range of tasks

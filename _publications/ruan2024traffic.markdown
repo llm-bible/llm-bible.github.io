@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ruan2024traffic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09575"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09575'}
+tags: ['Agentic', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Text-to-scene generation typically limits environmental diversity by
 generating key scenarios along predetermined paths. To address these

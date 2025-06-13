@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024enhance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06899"}
-tags: ['Responsible AI', 'RAG', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06899'}
+tags: ['Training Techniques', 'RAG', 'Responsible AI', 'Model Architecture']
 ---
 Recent advancements in model architectures and length extrapolation
 techniques have significantly extended the context length of large language

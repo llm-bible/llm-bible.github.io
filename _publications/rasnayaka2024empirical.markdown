@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rasnayaka2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16186"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16186'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) represent a leap in artificial intelligence,
 excelling in tasks using human language(s). Although the main focus of

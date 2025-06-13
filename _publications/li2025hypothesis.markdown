@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025hypothesis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07174"}
-tags: ['RAG', 'Tools', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07174'}
+tags: ['RAG', 'Security', 'Tools']
 ---
 Large language models (LLMs) have demonstrated great potential for automating
 the evaluation of natural language generation. Previous frameworks of

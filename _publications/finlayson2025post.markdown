@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: finlayson2025post
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10596"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10596'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) often struggle with knowledge intensive NLP
 tasks, such as answering "Who won the latest World Cup?" because the knowledge

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vieira2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.03454"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.03454'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Decoder-only LLMs have shown impressive performance in MT due to their
 ability to learn from extensive datasets and generate high-quality

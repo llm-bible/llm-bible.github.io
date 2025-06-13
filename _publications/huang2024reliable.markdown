@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11886"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11886'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Employing Large Language Models (LLMs) for semantic parsing has achieved
 remarkable success. However, we find existing methods fall short in terms of

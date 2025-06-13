@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liang2023rich
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10240"}
-  - {name: "Code", url: "https://github.com/google-research/google-research/tree/master/richhf_18k"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10240'}
+  - {name: "Code", url: 'https://github.com/google-research/google-research/tree/master/richhf_18k'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent Text-to-Image (T2I) generation models such as Stable Diffusion and
 Imagen have made significant progress in generating high-resolution images

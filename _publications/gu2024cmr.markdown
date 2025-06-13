@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024cmr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17467"}
-tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17467'}
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Large Language Models (LLMs) excel in diverse tasks but often underperform in
 specialized fields due to limited domain-specific or proprietary corpus.

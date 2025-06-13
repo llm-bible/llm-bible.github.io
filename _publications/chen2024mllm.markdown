@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024mllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21439"}
-  - {name: "Code", url: "https://github.com/IDEA-FinAI/RagVL"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21439'}
+  - {name: "Code", url: 'https://github.com/IDEA-FinAI/RagVL'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) have demonstrated remarkable
 capabilities in processing and generating content across multiple data

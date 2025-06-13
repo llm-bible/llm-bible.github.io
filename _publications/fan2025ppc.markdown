@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025ppc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15857"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pruning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15857'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Pruning']
 ---
 Compressing Large Language Models (LLMs) into task-specific Small Language
 Models (SLMs) encounters two significant challenges: safeguarding

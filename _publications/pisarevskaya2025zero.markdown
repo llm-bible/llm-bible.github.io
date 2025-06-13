@@ -6,8 +6,8 @@ conference: "Proceedings of the 31st International Conference on Computational L
 year: 2025
 bibkey: pisarevskaya2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10860"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10860'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Prompting']
 ---
 The claim matching (CM) task can benefit an automated fact-checking pipeline
 by putting together claims that can be resolved with the same fact-check. In

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aponte2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02861"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02861'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been applied to a wide range of tasks,
 including text summarization, web navigation, and chatbots. They have

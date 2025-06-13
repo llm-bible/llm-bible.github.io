@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024emma
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17892"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17892'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Pre-Training']
 ---
 In this work, we introduce EMMA-500, a large-scale multilingual language
 model continue-trained on texts across 546 languages designed for enhanced

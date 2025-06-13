@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: shah2021audio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.06894"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.06894'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In previous work, we have proposed the Audio-Visual Scene-Aware Dialog (AVSD)
 task, collected an AVSD dataset, developed AVSD technologies, and hosted an

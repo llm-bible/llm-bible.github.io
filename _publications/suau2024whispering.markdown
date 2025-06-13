@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: suau2024whispering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12824"}
-tags: ['RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12824'}
+tags: ['RAG', 'Prompting', 'Security']
 ---
 An important issue with Large Language Models (LLMs) is their undesired
 ability to generate toxic language. In this work, we show that the neurons

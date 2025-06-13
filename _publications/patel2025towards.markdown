@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patel2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02144"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02144'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Soft prompts have been popularized as a cheap and easy way to improve
 task-specific LLM performance beyond few-shot prompts. Despite their origin as

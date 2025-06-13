@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: harutyunyan2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03140"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03140'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models exhibit a remarkable capacity for in-context learning,
 where they learn to solve tasks given a few examples. Recent work has shown

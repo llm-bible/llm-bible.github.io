@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04139"}
-  - {name: "Code", url: "https://github.com/dmis-lab/Monet"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04139'}
+  - {name: "Code", url: 'https://github.com/dmis-lab/Monet'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Understanding the internal computations of large language models (LLMs) is
 crucial for aligning them with human values and preventing undesirable

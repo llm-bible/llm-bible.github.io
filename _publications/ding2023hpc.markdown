@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ding2023hpc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.12833"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.12833'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), including the LLaMA model, have exhibited their
 efficacy across various general-domain natural language processing (NLP) tasks.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lou2023curating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02436"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02436'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 In the realm of large language models (LLMs), enhancing instruction-following
 capability often involves curating expansive training data. This is achieved

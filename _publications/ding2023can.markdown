@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ding2023can
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2306.00693v2"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2306.00693v2'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models']
 ---
 The recent upsurge in pre-trained large models (e.g. GPT-4) has swept across
 the entire deep learning community. Such powerful large language models (LLMs)

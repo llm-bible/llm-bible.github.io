@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: millière2024anthropocentric
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03859"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03859'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 Evaluating the cognitive capacities of large language models (LLMs) requires
 overcoming not only anthropomorphic but also anthropocentric biases. This

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tirumala2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12284"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12284'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 Over recent years, an increasing amount of compute and data has been poured
 into training large language models (LLMs), usually by doing one-pass learning

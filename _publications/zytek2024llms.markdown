@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zytek2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06064"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06064'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Training Techniques']
 ---
 In response to the demand for Explainable Artificial Intelligence (XAI), we
 investigate the use of Large Language Models (LLMs) to transform ML

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024ask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16838"}
-tags: ['Tools', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16838'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Tools']
 ---
 The rise of large language models (LLMs) offers new opportunities for
 automatic error detection in education, particularly for math word problems

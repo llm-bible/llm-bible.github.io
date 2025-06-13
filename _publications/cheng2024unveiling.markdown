@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19150"}
-  - {name: "Code", url: "https://github.com/ChaduCheng/TypoDeceptions"}
-tags: ['Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19150'}
+  - {name: "Code", url: 'https://github.com/ChaduCheng/TypoDeceptions'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large Vision-Language Models (LVLMs) rely on vision encoders and Large
 Language Models (LLMs) to exhibit remarkable capabilities on various

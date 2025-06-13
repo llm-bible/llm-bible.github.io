@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mcgregor2024err
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12104"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12104'}
 tags: ['Responsible AI']
 ---
 In August of 2024, 495 hackers generated evaluations in an open-ended bug

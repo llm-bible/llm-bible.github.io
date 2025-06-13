@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: addlesee2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15231"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15231'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 This paper evaluates the extent to which current Large Language Models (LLMs)
 can capture task-oriented multi-party conversations (MPCs). We have recorded

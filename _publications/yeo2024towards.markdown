@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yeo2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14155"}
-  - {name: "Code", url: "https://github.com/wj210/Causal-Faithfulness"}
-tags: ['Interpretability and Explainability', 'RAG', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14155'}
+  - {name: "Code", url: 'https://github.com/wj210/Causal-Faithfulness'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Interpretability and Explainability']
 ---
 Large Language Models (LLMs) are capable of generating persuasive Natural
 Language Explanations (NLEs) to justify their answers. However, the

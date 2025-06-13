@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gabashvili2023impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18086"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18086'}
+tags: ['Arxiv', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Survey Paper', 'Ethics and Bias']
 ---
 The conversational artificial-intelligence (AI) technology ChatGPT has become
 one of the most widely used natural language processing tools. With thousands

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10762"}
-  - {name: "Code", url: "https://github.com/FoundationAgents/AFlow"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10762'}
+  - {name: "Code", url: 'https://github.com/FoundationAgents/AFlow'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable potential in
 solving complex tasks across diverse domains, typically by employing agentic

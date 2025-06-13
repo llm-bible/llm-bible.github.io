@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: srivastava2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14907"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14907'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 In mental health counseling, condensing dialogues into concise and relevant
 summaries (aka counseling notes) holds pivotal significance. Large Language

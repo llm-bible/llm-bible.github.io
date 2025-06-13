@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nakka2024pii
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02943"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02943'}
+tags: ['Prompting', 'Training Techniques']
 ---
 The latest and most impactful advances in large models stem from their
 increased size. Unfortunately, this translates into an improved memorization

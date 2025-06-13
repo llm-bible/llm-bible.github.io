@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024poisoned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18122"}
-tags: ['Responsible AI', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18122'}
+tags: ['Prompting', 'RAG', 'Responsible AI', 'Security']
 ---
 With the development of natural language processing (NLP), large language
 models (LLMs) are becoming increasingly popular. LLMs are integrating more into

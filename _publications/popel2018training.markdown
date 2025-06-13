@@ -6,8 +6,8 @@ conference: "The Prague Bulletin of Mathematical Linguistics 110 April 2018 pp. 
 year: 2018
 bibkey: popel2018training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1804.00247"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1804.00247'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 This article describes our experiments in neural machine translation using
 the recent Tensor2Tensor framework and the Transformer sequence-to-sequence

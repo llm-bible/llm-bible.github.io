@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zha2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02729"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02729'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'BERT', 'Model Architecture', 'Applications']
 ---
 Large language models (LLMs), typically designed as a function of next-word
 prediction, have excelled across extensive NLP tasks. Despite the generality,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sreeram2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05956"}
-tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05956'}
+tags: ['Reinforcement Learning', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 We provide a sober look at the application of Multimodal Large Language
 Models (MLLMs) in autonomous driving, challenging common assumptions about

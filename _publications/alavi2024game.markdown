@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alavi2024game
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02714"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02714'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 We introduce GamePlot, an LLM-powered assistant that supports game designers
 in crafting immersive narratives for turn-based games, and allows them to test

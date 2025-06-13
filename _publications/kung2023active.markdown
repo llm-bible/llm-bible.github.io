@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kung2023active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00288"}
-tags: ['Training Techniques', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00288'}
+tags: ['Prompting', 'Tools', 'Training Techniques']
 ---
 Instruction tuning (IT) achieves impressive zero-shot generalization results
 by training large language models (LLMs) on a massive amount of diverse tasks

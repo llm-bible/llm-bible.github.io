@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023mplug
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.14178v3"}
-  - {name: "Code", url: "https://github.com/X-PLUG/mPLUG-Owl"}
-  - {name: "Code", url: "https://www.modelscope.cn/studios/damo/mPLUG-Owl"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.14178v3'}
+  - {name: "Code", url: 'https://github.com/X-PLUG/mPLUG-Owl'}
+  - {name: "Code", url: 'https://www.modelscope.cn/studios/damo/mPLUG-Owl'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated impressive zero-shot abilities
 on a variety of open-ended tasks, while recent research has also explored the

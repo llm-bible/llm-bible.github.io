@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: fadaee2020unreasonable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.12398"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.12398'}
 tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent works have shown that Neural Machine Translation (NMT) models achieve

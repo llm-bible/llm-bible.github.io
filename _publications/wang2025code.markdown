@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11829"}
-  - {name: "Code", url: "https://github.com/wanghanbinpanda/CodeVision"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11829'}
+  - {name: "Code", url: 'https://github.com/wanghanbinpanda/CodeVision'}
+tags: ['Has Code', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 This paper introduces Code-Vision, a benchmark designed to evaluate the
 logical understanding and code generation capabilities of Multimodal Large

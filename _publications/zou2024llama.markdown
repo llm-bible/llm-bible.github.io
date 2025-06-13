@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00913"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00913'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Existing methods to fine-tune LLMs, like Adapter, Prefix-tuning, and LoRA,
 which introduce extra modules or additional input sequences to inject new

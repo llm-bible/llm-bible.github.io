@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024bi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09758"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/BiDoRA-5D31"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09758'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/BiDoRA-5D31'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Parameter-efficient fine-tuning (PEFT) of large language models (LLMs) has
 gained considerable attention as a flexible and efficient way of adapting LLMs

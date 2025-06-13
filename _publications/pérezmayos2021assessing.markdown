@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: pérezmayos2021assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.04688"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.04688'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'BERT', 'Tools', 'Pretraining Methods']
 ---
 Multilingual Transformer-based language models, usually pretrained on more
 than 100 languages, have been shown to achieve outstanding results in a wide

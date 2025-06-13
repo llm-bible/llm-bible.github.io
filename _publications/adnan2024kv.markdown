@@ -6,8 +6,8 @@ conference: "Proceedings of the 7th Annual Conference on Machine Learning and Sy
 year: 2024
 bibkey: adnan2024kv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09054"}
-tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09054'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have emerged as the underpinning architecture for Large Language
 Models (LLMs). In generative language models, the inference process involves

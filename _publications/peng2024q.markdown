@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024q
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04522"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04522'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Parameter Efficient Fine-Tuning (PEFT) methods have been extensively utilized
 in Large Language Models (LLMs) to improve the down-streaming tasks without the

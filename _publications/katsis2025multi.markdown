@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: katsis2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03468"}
-  - {name: "Code", url: "https://github.com/ibm/mt-rag-benchmark"}
-tags: ['RAG', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03468'}
+  - {name: "Code", url: 'https://github.com/ibm/mt-rag-benchmark'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code']
 ---
 Retrieval-augmented generation (RAG) has recently become a very popular task
 for Large Language Models (LLMs). Evaluating them on multi-turn RAG

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: kant2020spatially
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.12146"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.12146'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Textual cues are essential for everyday tasks like buying groceries and using
 public transport. To develop this assistive technology, we study the TextVQA

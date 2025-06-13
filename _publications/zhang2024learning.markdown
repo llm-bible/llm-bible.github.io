@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15766"}
-  - {name: "Code", url: "https://github.com/HArmonizedSS/HASS"}
-tags: ['Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15766'}
+  - {name: "Code", url: 'https://github.com/HArmonizedSS/HASS'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques']
 ---
 Speculative sampling is a promising approach to accelerate the decoding stage
 for Large Language Models (LLMs). Recent advancements that leverage target

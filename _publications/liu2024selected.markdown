@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024selected
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14434"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14434'}
 tags: ['Ethics and Bias']
 ---
 Truthfulness stands out as an essential challenge for Large Language Models

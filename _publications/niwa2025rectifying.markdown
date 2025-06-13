@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: niwa2025rectifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20620"}
-tags: ['Interpretability and Explainability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20620'}
+tags: ['Prompting', 'Interpretability and Explainability']
 ---
 Large language models (LLMs) can exhibit advanced reasoning yet still
 generate incorrect answers. We hypothesize that such errors frequently stem

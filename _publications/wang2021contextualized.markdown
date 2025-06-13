@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021contextualized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.06318"}
-tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.06318'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Humans use natural language to compose common concepts from their environment
 into plausible, day-to-day scene descriptions. However, such generative

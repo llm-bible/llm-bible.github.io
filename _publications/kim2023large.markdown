@@ -6,8 +6,8 @@ conference: "CVPR (2024) 28306-28316"
 year: 2023
 bibkey: kim2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10404"}
-tags: ['RAG', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10404'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'RAG', 'Training Techniques']
 ---
 Weakly-Supervised Scene Graph Generation (WSSGG) research has recently
 emerged as an alternative to the fully-supervised approach that heavily relies

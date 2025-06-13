@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: leang2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10336"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10336'}
 tags: ['Prompting']
 ---
 Mathematical reasoning remains a significant challenge for large language

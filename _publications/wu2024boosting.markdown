@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13944"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13944'}
+tags: ['Security', 'Efficiency and Optimization', 'Applications', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved impressive results across numerous
 NLP tasks but still encounter difficulties in machine translation. Traditional

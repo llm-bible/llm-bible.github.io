@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fei2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12331"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12331'}
 tags: ['RAG', 'Training Techniques']
 ---
 Current Large Language Models (LLMs) face inherent limitations due to their

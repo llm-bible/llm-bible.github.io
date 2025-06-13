@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12864"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12864'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Responsible AI']
 ---
 Large Language Models (LLMs) are being adopted across a wide range of tasks,
 including decision-making processes in industries where bias in AI systems is a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: milbauer2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19585"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19585'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Transformer encoders contextualize token representations by attending to all
 other tokens at each layer, leading to quadratic increase in compute effort

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12976"}
-tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12976'}
+tags: ['Prompting', 'GPT', 'In-Context Learning', 'Model Architecture']
 ---
 In-context learning is a popular inference strategy where large language
 models solve a task using only a few labeled demonstrations without needing any

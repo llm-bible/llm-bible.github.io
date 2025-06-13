@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025fin
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16252"}
-  - {name: "Code", url: "https://github.com/SUFE-AIFLM-Lab/Fin-R1"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16252'}
+  - {name: "Code", url: 'https://github.com/SUFE-AIFLM-Lab/Fin-R1'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reasoning large language models are rapidly evolving across various domains.
 However, their capabilities in handling complex financial tasks still require

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vreš2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06898"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06898'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are a basic infrastructure for modern natural
 language processing. Many commercial and open-source LLMs exist for English,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liu2022building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.06452"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.06452'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Recently, Transformer based pretrained language models (PLMs), such as GPT2
 and T5, have been leveraged to build generative task-oriented dialog (TOD)

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.01795"}
-  - {name: "Code", url: "https://github.com/YujieLu10/MPP"}
-tags: ['Agentic', 'RAG', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.01795'}
+  - {name: "Code", url: 'https://github.com/YujieLu10/MPP'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 Embodied agents have achieved prominent performance in following human
 instructions to complete tasks. However, the potential of providing

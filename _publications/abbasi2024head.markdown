@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abbasi2024head
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16252"}
-tags: ['Transformer', 'Pre-Training', 'Interpretability and Explainability', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16252'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Pre-Training', 'Pretraining Methods']
 ---
 The Transformer architecture has emerged as the dominant choice for building
 large language models (LLMs). However, with new LLMs emerging on a frequent

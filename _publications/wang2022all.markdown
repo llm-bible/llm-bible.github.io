@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.07303"}
-  - {name: "Code", url: "https://github.com/showlab/all-in-one"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.07303'}
+  - {name: "Code", url: 'https://github.com/showlab/all-in-one'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'BERT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Mainstream Video-Language Pre-training models \cite\{actbert,clipbert,violet\}
 consist of three parts, a video encoder, a text encoder, and a video-text

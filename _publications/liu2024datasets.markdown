@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024datasets
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18041"}
-  - {name: "Code", url: "https://github.com/lmmlzn/Awesome-LLMs-Datasets"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18041'}
+  - {name: "Code", url: 'https://github.com/lmmlzn/Awesome-LLMs-Datasets'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper embarks on an exploration into the Large Language Model (LLM)
 datasets, which play a crucial role in the remarkable advancements of LLMs. The

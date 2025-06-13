@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024synthesizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14251"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14251'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Post-training is essential for enabling large language models (LLMs) to
 follow human instructions. However, its effectiveness depends on high-quality

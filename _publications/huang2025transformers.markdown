@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.21212"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.21212'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Chain of Thought (CoT) prompting has been shown to significantly improve the
 performance of large language models (LLMs), particularly in arithmetic and

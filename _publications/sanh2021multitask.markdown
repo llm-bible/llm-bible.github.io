@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2021
 bibkey: sanh2021multitask
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2110.08207v3"}
-  - {name: "Code", url: "https://github.com/bigscience-workshop/t-zero"}
-  - {name: "Code", url: "https://github.com/bigscience-workshop/promptsource"}
-tags: ['Training Techniques', 'Has Code', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2110.08207v3'}
+  - {name: "Code", url: 'https://github.com/bigscience-workshop/t-zero'}
+  - {name: "Code", url: 'https://github.com/bigscience-workshop/promptsource'}
+tags: ['Prompting', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models have recently been shown to attain reasonable zero-shot
 generalization on a diverse set of tasks (Brown et al., 2020). It has been

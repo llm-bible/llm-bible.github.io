@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025se
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01860"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01860'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Foundation models (FMs), particularly large language models (LLMs), have
 shown significant promise in various software engineering (SE) tasks, including

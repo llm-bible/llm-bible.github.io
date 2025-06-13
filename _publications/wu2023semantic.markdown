@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10520"}
-tags: ['RAG', 'Tools', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10520'}
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Tools']
 ---
 Zero-shot Dialogue State Tracking (DST) addresses the challenge of acquiring
 and annotating task-oriented dialogues, which can be time-consuming and costly.

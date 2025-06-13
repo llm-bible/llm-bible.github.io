@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024elucidating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16257"}
-  - {name: "Code", url: "https://github.com/Pepperlll/LMforImageGeneration.git"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16257'}
+  - {name: "Code", url: 'https://github.com/Pepperlll/LMforImageGeneration.git'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'GPT', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The success of autoregressive (AR) language models in text generation has
 inspired the computer vision community to adopt Large Language Models (LLMs)

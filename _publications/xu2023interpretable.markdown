@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023interpretable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01412"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01412'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal large language models (MLLMs) have emerged as a prominent area of
 interest within the research community, given their proficiency in handling and

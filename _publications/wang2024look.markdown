@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024look
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08382"}
-tags: ['Security', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08382'}
+tags: ['Ethics and Bias', 'Security']
 ---
 Multiple choice questions (MCQs) are commonly used to evaluate the
 capabilities of large language models (LLMs). One common way to evaluate the

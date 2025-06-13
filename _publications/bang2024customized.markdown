@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bang2024customized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07007"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07007'}
 tags: ['Training Techniques']
 ---
 The customization of large language models (LLMs) for user-specified tasks

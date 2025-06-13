@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: santos2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08004"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08004'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The combination of language processing and image processing keeps attracting
 increased interest given recent impressive advances that leverage the combined

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rangapur2024battle
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18344"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18344'}
 tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large language models have gained considerable interest for their impressive

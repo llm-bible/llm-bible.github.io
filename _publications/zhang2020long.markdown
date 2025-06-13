@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.09127"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.09127'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Many document-level neural machine translation (NMT) systems have explored
 the utility of context-aware architecture, usually requiring an increasing

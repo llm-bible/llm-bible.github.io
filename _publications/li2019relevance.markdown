@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: li2019relevance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.11489"}
-  - {name: "Code", url: "https://ai.tencent.com/ailab/nlp/dialogue/"}
-tags: ['Transformer', 'Tools', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.11489'}
+  - {name: "Code", url: 'https://ai.tencent.com/ailab/nlp/dialogue/'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Despite the effectiveness of sequence-to-sequence framework on the task of
 Short-Text Conversation (STC), the issue of under-exploitation of training data

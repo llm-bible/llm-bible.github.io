@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nafar2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04318"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04318'}
+tags: ['RAG', 'Security', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Generative Large Language Models (LLMs) are capable of being in-context
 learners. However, the underlying mechanism of in-context learning (ICL) is

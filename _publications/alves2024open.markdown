@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alves2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17733"}
-tags: ['Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17733'}
+tags: ['Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 While general-purpose large language models (LLMs) demonstrate proficiency on
 multiple tasks within the domain of translation, approaches based on open LLMs

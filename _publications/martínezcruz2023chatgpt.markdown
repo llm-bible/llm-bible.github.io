@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: martínezcruz2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14177"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14177'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Transformer-based language models, including ChatGPT, have demonstrated
 exceptional performance in various natural language generation tasks. However,

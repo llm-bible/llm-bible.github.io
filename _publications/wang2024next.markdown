@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024next
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18869"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18869'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While next-token prediction is considered a promising path towards artificial
 general intelligence, it has struggled to excel in multimodal tasks, which are

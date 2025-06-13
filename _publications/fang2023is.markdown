@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fang2023is
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.01746v1"}
-tags: ['GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.01746v1'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 ChatGPT, a large-scale language model based on the advanced GPT-3.5
 architecture, has shown remarkable potential in various Natural Language

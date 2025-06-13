@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: friedland2024unsupervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15320"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15320'}
 tags: ['Uncategorized']
 ---
 We propose PPLqa, an easy to compute, language independent,

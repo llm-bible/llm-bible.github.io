@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024cracking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13949"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13949'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large vision-language models (LVLMs) have made substantial progress in
 integrating large language models (LLMs) with visual inputs, enabling advanced

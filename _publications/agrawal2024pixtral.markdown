@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: agrawal2024pixtral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07073"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07073'}
 tags: ['Multimodal Models']
 ---
 We introduce Pixtral-12B, a 12--billion-parameter multimodal language model.

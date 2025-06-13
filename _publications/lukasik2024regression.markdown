@@ -6,7 +6,7 @@ conference: "EMNLP Findings 2024"
 year: 2024
 bibkey: lukasik2024regression
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04182"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04182'}
 tags: ['GPT', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown strong results on a range of

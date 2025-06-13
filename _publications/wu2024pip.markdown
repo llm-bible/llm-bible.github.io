@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024pip
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23089"}
-tags: ['Tools', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23089'}
+tags: ['Reinforcement Learning', 'Prompting', 'Multimodal Models', 'Tools']
 ---
 The Multimodal Large Language Models (MLLMs) have activated the
 capabilitiesof Large Language Models (LLMs) in solving visual-language tasks by

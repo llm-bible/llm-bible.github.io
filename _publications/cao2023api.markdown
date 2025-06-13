@@ -6,8 +6,8 @@ conference: "Proceedings of the Conference on Empirical Methods in Natural Langu
 year: 2023
 bibkey: cao2023api
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14687"}
-tags: ['Tools', 'Applications', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14687'}
+tags: ['Few-Shot', 'Applications', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 A persistent challenge to table question answering (TableQA) by generating
 executable programs has been adapting to varied table structures, typically

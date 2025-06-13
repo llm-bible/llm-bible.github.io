@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: madaan2022language
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2210.07128v3"}
-tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2210.07128v3'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture']
 ---
 We address the general task of structured commonsense reasoning: given a
 natural language input, the goal is to generate a graph such as an event -- or

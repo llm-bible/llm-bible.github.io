@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024focused
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13987"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13987'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) enables large language models (LLMs) to achieve
 rapid task adaptation by learning from demonstrations. With the increase in

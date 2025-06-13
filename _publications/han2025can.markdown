@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13222"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13222'}
+tags: ['Attention Mechanism', 'GPT', 'Reinforcement Learning', 'Model Architecture']
 ---
 Despite significant achievements in improving the instruction-following
 capabilities of large language models (LLMs), the ability to process multiple

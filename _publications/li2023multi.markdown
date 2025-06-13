@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08637"}
-tags: ['Tools', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08637'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Model Architecture', 'Tools']
 ---
 Large language models with instruction-following abilities have
 revolutionized the field of artificial intelligence. These models show

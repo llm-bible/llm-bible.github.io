@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17460"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17460'}
 tags: ['RAG', 'Training Techniques']
 ---
 Training Learning-to-Rank models for e-commerce product search ranking can be

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.09384"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.09384'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Applications', 'Tools', 'Interpretability']
 ---
 As the popularity of voice assistants continues to surge, conversational
 search has gained increased attention in Information Retrieval. However, data

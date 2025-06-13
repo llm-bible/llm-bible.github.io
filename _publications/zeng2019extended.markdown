@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zeng2019extended
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.08112"}
-tags: ['RAG', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.08112'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture']
 ---
 In this paper, we study automatic question generation, the task of creating
 questions from corresponding text passages where some certain spans of the text

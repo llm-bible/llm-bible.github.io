@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024democratizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04401"}
-tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04401'}
+tags: ['Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Personalization in large language models (LLMs) is increasingly important,
 aiming to align the LLMs' interactions, content, and recommendations with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lv2024more
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07176"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07176'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Security', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We propose a novel attention mechanism, named Cog Attention, that enables
 attention weights to be negative for enhanced expressiveness, which stems from

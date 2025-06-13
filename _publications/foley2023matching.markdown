@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: foley2023matching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.09308"}
-tags: ['Responsible AI', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.09308'}
+tags: ['Tools', 'Responsible AI', 'Applications']
 ---
 The wide applicability and adaptability of generative large language models
 (LLMs) has enabled their rapid adoption. While the pre-trained models can

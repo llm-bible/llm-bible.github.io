@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023augment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17796"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/ControlLLM"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17796'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/ControlLLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 We present ControlLLM, a novel framework that enables large language models
 (LLMs) to utilize multi-modal tools for solving complex real-world tasks.

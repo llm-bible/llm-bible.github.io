@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jang2024smart
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.06664"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.06664'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 The recent huge advance of Large Language Models (LLMs) is mainly driven by
 the increase in the number of parameters. This has led to substantial memory

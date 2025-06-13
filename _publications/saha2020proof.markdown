@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: saha2020proof
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.02830"}
-  - {name: "Code", url: "https://github.com/swarnaHub/PRover"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.02830'}
+  - {name: "Code", url: 'https://github.com/swarnaHub/PRover'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent work by Clark et al. (2020) shows that transformers can act as 'soft
 theorem provers' by answering questions over explicitly provided knowledge in

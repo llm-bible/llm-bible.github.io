@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: štefánik2022methods
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.08446"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.08446'}
 tags: ['Security', 'Training Techniques', 'Survey Paper']
 ---
 Despite their outstanding performance, large language models (LLMs) suffer

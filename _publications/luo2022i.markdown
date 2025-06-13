@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: luo2022i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.06574"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.06574'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT']
 ---
 Image Captioning is a traditional vision-and-language task that aims to
 generate the language description of an image. Recent studies focus on scaling

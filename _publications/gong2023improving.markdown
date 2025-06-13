@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gong2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19572"}
-tags: ['GPT', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19572'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'GPT', 'Merging', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) is an emerging capability of large autoregressive
 language models where a few input-label demonstrations are appended to the

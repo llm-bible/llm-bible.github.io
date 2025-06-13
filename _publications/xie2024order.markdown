@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024order
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09675"}
-  - {name: "Code", url: "https://github.com/YuxiXie/COrAL"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09675'}
+  - {name: "Code", url: 'https://github.com/YuxiXie/COrAL'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 Iterative refinement has emerged as an effective paradigm for enhancing the
 capabilities of large language models (LLMs) on complex tasks. However,

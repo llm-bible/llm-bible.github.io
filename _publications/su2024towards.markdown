@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16708"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16708'}
+tags: ['RAG', 'Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) systems have emerged as a promising
 solution to mitigate LLM hallucinations and enhance their performance in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023scaled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06759"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06759'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The increasingly Large Language Models (LLMs) demonstrate stronger language
 understanding and generation capabilities, while the memory demand and

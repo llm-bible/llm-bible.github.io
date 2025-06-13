@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: golchha2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03141"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03141'}
+tags: ['Agentic', 'Transformer', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Real-world sequential decision making is characterized by sparse rewards and
 large decision spaces, posing significant difficulty for experiential learning

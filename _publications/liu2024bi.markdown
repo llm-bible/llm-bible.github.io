@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024bi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06586"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06586'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Large Language Models (LLMs) have shown human-like reasoning abilities but
 still face challenges in solving complex logical problems. Existing

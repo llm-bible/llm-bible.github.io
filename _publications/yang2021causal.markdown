@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: yang2021causal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.03493"}
-  - {name: "Code", url: "https://github.com/yangxuntu/catt"}
-tags: ['Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.03493'}
+  - {name: "Code", url: 'https://github.com/yangxuntu/catt'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 We present a novel attention mechanism: Causal Attention (CATT), to remove
 the ever-elusive confounding effect in existing attention-based vision-language

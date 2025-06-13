@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: abrar2025performance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05070"}
-tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05070'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Consumer Health Queries (CHQs) in Bengali (Bangla), a low-resource language,
 often contain extraneous details, complicating efficient medical responses.

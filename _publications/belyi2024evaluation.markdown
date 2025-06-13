@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: belyi2024evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00975"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00975'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'BERT', 'GPT']
 ---
 Retriever Augmented Generation (RAG) systems have become pivotal in enhancing
 the capabilities of language models by incorporating external knowledge

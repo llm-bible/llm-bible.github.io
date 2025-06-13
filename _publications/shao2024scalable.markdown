@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shao2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12504"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12504'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown outstanding breakthroughs in code
 generation. Recent work improves code LLMs by training on synthetic data

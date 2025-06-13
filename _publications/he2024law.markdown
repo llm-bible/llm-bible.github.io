@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024law
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13442"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13442'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been widely employed across various
 application domains, yet their black-box nature poses significant challenges to

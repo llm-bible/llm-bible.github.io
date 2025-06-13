@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jiang2025franken
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08037"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08037'}
 tags: ['Efficiency and Optimization']
 ---
 The capabilities of Large Language Models (LLMs) in low-resource languages

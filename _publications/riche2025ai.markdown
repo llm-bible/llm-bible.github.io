@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: riche2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18736"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18736'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 Chat-based prompts respond with verbose linear-sequential texts, making it
 difficult to explore and refine ambiguous intents, back up and reinterpret, or

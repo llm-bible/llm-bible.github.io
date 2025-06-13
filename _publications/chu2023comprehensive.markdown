@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chu2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17667"}
-  - {name: "Code", url: "https://github.com/zchuz/TimeBench"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17667'}
+  - {name: "Code", url: 'https://github.com/zchuz/TimeBench'}
+tags: ['Reinforcement Learning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Grasping the concept of time is a fundamental facet of human cognition,
 indispensable for truly comprehending the intricacies of the world. Previous

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: man2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12593"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12593'}
+tags: ['RAG', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The advancements in large language models (LLMs) have propelled the
 improvement of video understanding tasks by incorporating LLMs with visual

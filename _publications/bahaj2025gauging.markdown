@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bahaj2025gauging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12098"}
-tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12098'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 Recently, overconfidence in large language models (LLMs) has garnered
 considerable attention due to its fundamental importance in quantifying the

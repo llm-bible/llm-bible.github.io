@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15819"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15819'}
+tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper introduces Chain-of-Sight, a vision-language bridge module that
 accelerates the pre-training of Multimodal Large Language Models (MLLMs). Our

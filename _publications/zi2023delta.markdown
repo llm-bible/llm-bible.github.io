@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zi2023delta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02411"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02411'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we present Delta-LoRA, which is a novel parameter-efficient
 approach to fine-tune large language models (LLMs). In contrast to LoRA and

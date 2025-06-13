@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05092"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05092'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 Information Extraction (IE) is an essential task in Natural Language
 Processing. Traditional methods have relied on coarse-grained extraction with

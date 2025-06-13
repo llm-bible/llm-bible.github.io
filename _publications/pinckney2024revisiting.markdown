@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pinckney2024revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11053"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11053'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Prompting', 'Applications', 'Reinforcement Learning', 'In-Context Learning']
 ---
 The application of large-language models (LLMs) to digital hardware code
 generation is an emerging field, with most LLMs primarily trained on natural

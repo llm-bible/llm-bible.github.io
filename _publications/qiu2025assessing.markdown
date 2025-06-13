@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiu2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09689"}
-  - {name: "Code", url: "https://github.com/1akaman/EmoAgent"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09689'}
+  - {name: "Code", url: 'https://github.com/1akaman/EmoAgent'}
+tags: ['Agentic', 'Has Code', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 The rise of LLM-driven AI characters raises safety concerns, particularly for
 vulnerable human users with psychological disorders. To address these risks, we

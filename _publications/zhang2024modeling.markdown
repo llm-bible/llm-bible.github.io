@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13788"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13788'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) must often respond to highly ambiguous user

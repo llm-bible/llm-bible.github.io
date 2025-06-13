@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xia2023multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16500"}
-tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16500'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Applications', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 In this paper, we introduce a Multimodal Large Language Model-based
 Generation Assistant (LLMGA), leveraging the vast reservoir of knowledge and

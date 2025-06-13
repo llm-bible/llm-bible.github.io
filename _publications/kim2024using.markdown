@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13166"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13166'}
 tags: ['Reinforcement Learning']
 ---
 With large language models (LLMs), conversational search engines shift how

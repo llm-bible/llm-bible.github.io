@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: morishita2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12498"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12498'}
 tags: ['Training Techniques']
 ---
 Large language models (LLMs) are capable of solving a wide range of tasks,

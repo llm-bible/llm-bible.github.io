@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06682"}
-tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06682'}
+tags: ['Transformer', 'Model Architecture', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper explores the synergy between human cognition and Large Language
 Models (LLMs), highlighting how generative AI can drive personalized learning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: geigle2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14492"}
-tags: ['Applications', 'TACL', 'ACL', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14492'}
+tags: ['ACL', 'Training Techniques', 'Applications', 'Multimodal Models', 'TACL']
 ---
 Large vision-language models (LVLMs) have recently dramatically pushed the
 state of the art in image captioning and many image understanding tasks (e.g.,

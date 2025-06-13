@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tian2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12983"}
-tags: ['GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12983'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 This study is a pioneering endeavor to investigate the capabilities of Large
 Language Models (LLMs) in addressing conceptual questions within the domain of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07910"}
-  - {name: "Code", url: "https://github.com/microsoft/promptbench"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07910'}
+  - {name: "Code", url: 'https://github.com/microsoft/promptbench'}
+tags: ['Has Code', 'Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The evaluation of large language models (LLMs) is crucial to assess their
 performance and mitigate potential security risks. In this paper, we introduce

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: łajewska2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19114"}
-tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19114'}
+tags: ['Model Architecture', 'Tools', 'BERT', 'Prompting', 'Ethics and Bias']
 ---
 Recent advancements in large language models (LLMs) have enabled their
 successful application to a broad range of tasks. However, in

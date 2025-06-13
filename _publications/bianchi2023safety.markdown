@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bianchi2023safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07875"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07875'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Training large language models to follow instructions makes them perform
 better on a wide range of tasks and generally become more helpful. However, a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lian2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05504"}
-tags: ['Tokenization', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05504'}
+tags: ['Language Modeling', 'Tokenization']
 ---
 The prevalent use of Byte Pair Encoding (BPE) in Large Language Models (LLMs)
 facilitates robust handling of subword units and avoids issues of

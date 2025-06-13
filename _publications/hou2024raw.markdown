@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024raw
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03040"}
-tags: ['Fine-Tuning', 'RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03040'}
+tags: ['RAG', 'Fine-Tuning', 'Prompting', 'Tools']
 ---
 Instruction tuning as an effective technique aligns the outputs of large
 language models (LLMs) with human preference. But how to generate the seasonal

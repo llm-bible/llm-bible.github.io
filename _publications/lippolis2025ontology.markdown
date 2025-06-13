@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lippolis2025ontology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05388"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05388'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 The ontology engineering process is complex, time-consuming, and error-prone,
 even for experienced ontology engineers. In this work, we investigate the

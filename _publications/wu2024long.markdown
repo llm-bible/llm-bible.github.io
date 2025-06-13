@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03939"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03939'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 Effectively handling instructions with extremely long context remains a
 challenge for Large Language Models (LLMs), typically necessitating

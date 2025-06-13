@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06839"}
-  - {name: "Code", url: "https://aka.ms/LongLLMLingua"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06839'}
+  - {name: "Code", url: 'https://aka.ms/LongLLMLingua'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 In long context scenarios, large language models (LLMs) face three main
 challenges: higher computational cost, performance reduction, and position

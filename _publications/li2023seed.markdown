@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023seed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17092"}
-  - {name: "Code", url: "https://github.com/AILab-CVC/SEED-Bench"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17092'}
+  - {name: "Code", url: 'https://github.com/AILab-CVC/SEED-Bench'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal large language models (MLLMs), building upon the foundation of
 powerful large language models (LLMs), have recently demonstrated exceptional

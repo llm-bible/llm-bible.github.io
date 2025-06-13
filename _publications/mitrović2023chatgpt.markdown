@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mitrović2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.13852"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.13852'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Interpretability', 'Pretraining Methods']
 ---
 ChatGPT has the ability to generate grammatically flawless and
 seemingly-human replies to different types of questions from various domains.

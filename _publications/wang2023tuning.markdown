@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.06975"}
-  - {name: "Code", url: "https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.06975'}
+  - {name: "Code", url: 'https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Large Language Models (LLMs), such as the LLaMA model, have demonstrated

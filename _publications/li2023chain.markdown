@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13269"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13269'}
 tags: ['RAG', 'Tools']
 ---
 We present chain-of-knowledge (CoK), a novel framework that augments large

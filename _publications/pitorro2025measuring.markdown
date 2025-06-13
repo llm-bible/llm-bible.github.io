@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pitorro2025measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15612"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15612'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 State space models (SSMs), such as Mamba, have emerged as an efficient
 alternative to transformers for long-context sequence modeling. However,

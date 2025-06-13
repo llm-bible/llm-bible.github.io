@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: dua2021generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08744"}
-tags: ['Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08744'}
+tags: ['Attention Mechanism', 'Security', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Compositional reasoning tasks like multi-hop question answering, require
 making latent decisions to get the final answer, given a question. However,

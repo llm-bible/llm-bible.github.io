@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gupta2021memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.06899"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.06899'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Following the success of dot-product attention in Transformers, numerous
 approximations have been recently proposed to address its quadratic complexity

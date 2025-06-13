@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023demystifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10793"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10793'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Instruction tuning significantly enhances the performance of large language
 models (LLMs) across various tasks. However, the procedure to optimizing the

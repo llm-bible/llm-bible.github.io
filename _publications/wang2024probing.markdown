@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10668"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10668'}
+tags: ['Efficiency and Optimization', 'Security', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) are implicit troublemakers. While they provide
 valuable insights and assist in problem-solving, they can also potentially

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: cho2019contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.03047"}
-tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.03047'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multi-document question generation focuses on generating a question that
 covers the common aspect of multiple documents. Such a model is useful in

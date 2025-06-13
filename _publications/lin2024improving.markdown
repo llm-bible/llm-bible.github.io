@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02586"}
-tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02586'}
+tags: ['Agentic', 'RAG', 'GPT', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Visual storytelling is an emerging field that combines images and narratives
 to create engaging and contextually rich stories. Despite its potential,

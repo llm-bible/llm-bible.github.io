@@ -6,8 +6,8 @@ conference: "iScience 25(5) 2022"
 year: 2021
 bibkey: cui2021multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.11574"}
-tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'TACL', 'Model Architecture', 'ACL', 'Interpretability', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.11574'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'ACL', 'Security', 'Model Architecture', 'Applications', 'Interpretability', 'TACL']
 ---
 Achieving human-level performance on some of the Machine Reading
 Comprehension (MRC) datasets is no longer challenging with the help of powerful

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14328"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14328'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 LLMs have marked a revolutonary shift, yet they falter when faced with
 compositional reasoning tasks. Our research embarks on a quest to uncover the

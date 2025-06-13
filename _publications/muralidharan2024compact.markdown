@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: muralidharan2024compact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14679"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14679'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pruning', 'Reinforcement Learning']
 ---
 Large language models (LLMs) targeting different deployment scales and sizes
 are currently produced by training each variant from scratch; this is extremely

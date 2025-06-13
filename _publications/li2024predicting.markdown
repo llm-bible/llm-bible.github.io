@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02446"}
-tags: ['Agentic', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02446'}
+tags: ['Agentic', 'Language Modeling', 'Interpretability and Explainability', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 RLHF-aligned LMs have shown unprecedented ability on both benchmarks and
 long-form text generation, yet they struggle with one foundational task:

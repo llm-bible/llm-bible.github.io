@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06509"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06509'}
 tags: ['Agentic', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated their ability to replicate

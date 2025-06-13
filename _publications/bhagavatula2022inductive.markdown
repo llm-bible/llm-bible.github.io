@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bhagavatula2022inductive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09246"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09246'}
+tags: ['Efficiency and Optimization', 'Distillation', 'GPT', 'Model Architecture', 'Tools']
 ---
 Commonsense capabilities of pre-trained language models dramatically improve
 with scale, leading many to believe that scale is the only winning recipe. But

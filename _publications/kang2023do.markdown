@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kang2023do
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.06474v1"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.06474v1'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated exceptional capabilities in
 generalizing to new tasks in a zero-shot or few-shot manner. However, the

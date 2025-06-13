@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: lan2020which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.02964"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.02964'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Currently, open-domain generative dialog systems have attracted considerable
 attention in academia and industry. Despite the success of single-turn dialog

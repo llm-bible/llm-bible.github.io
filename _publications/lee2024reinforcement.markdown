@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14238"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14238'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite the promise of RLHF in aligning LLMs with human preferences, it often
 leads to superficial alignment, prioritizing stylistic changes over improving

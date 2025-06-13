@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: moskvoretskii2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08681"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08681'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Although large language models (LLMs) have achieved remarkable performance
 across various tasks, they remain prone to errors. A key challenge is enabling

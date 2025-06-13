@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16125"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16125'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 This report presents a real-world case study demonstrating how prompt
 injection can attack large language model platforms such as ChatGPT according

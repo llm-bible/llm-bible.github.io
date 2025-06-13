@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12456"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12456'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 This paper introduces PowerInfer, a high-speed Large Language Model (LLM)
 inference engine on a personal computer (PC) equipped with a single

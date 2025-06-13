@@ -6,8 +6,8 @@ conference: "KDD 2024"
 year: 2024
 bibkey: cai2024factuality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13779"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13779'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) has become prevalent in
 question-answering (QA) tasks due to its ability of utilizing search engine to

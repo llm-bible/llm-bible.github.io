@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09150"}
-  - {name: "Code", url: "https://github.com/Abbey4799/CELLO"}
-tags: ['Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09150'}
+  - {name: "Code", url: 'https://github.com/Abbey4799/CELLO'}
+tags: ['Has Code', 'RAG', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) can understand human instructions, showing their
 potential for pragmatic applications beyond traditional NLP tasks. However,

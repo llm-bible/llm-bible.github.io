@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: beigi2024internalinspector
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12053"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12053'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Despite their vast capabilities, Large Language Models (LLMs) often struggle
 with generating reliable outputs, frequently producing high-confidence

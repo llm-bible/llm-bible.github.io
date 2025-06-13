@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cohen2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05643"}
-  - {name: "Code", url: "https://github.com/leor-c/REM"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05643'}
+  - {name: "Code", url: 'https://github.com/leor-c/REM'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Motivated by the success of Transformers when applied to sequences of
 discrete symbols, token-based world models (TBWMs) were recently proposed as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024eliminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15241"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15241'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Given the popularity of generative AI, Large Language Models (LLMs) often
 consume hundreds or thousands of GPUs for parallelizing and accelerating the

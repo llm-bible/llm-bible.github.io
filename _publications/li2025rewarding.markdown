@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025rewarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05188"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05188'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Chain-of-thought (CoT) prompting demonstrates varying performance under
 different reasoning tasks. Previous work attempts to evaluate it but falls

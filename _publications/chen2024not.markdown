@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12606"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/ALLO"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12606'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/ALLO'}
+tags: ['Reinforcement Learning', 'Has Code', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Large language models (LLMs) are still struggling in aligning with human
 preference in complex tasks and scenarios. They are prone to overfit into the

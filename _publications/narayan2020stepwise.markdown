@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: narayan2020stepwise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.02744"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.02744'}
+tags: ['Language Modeling', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 We propose encoder-centric stepwise models for extractive summarization using
 structured transformers -- HiBERT and Extended Transformers. We enable stepwise

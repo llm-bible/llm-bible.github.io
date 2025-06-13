@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: madaan2022dense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.09015"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.09015'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Standard inference and training with transformer based architectures scale
 quadratically with input sequence length. This is prohibitively large for a

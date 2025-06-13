@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14902"}
-  - {name: "Code", url: "https://github.com/mbzuai-nlp/M4"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14902'}
+  - {name: "Code", url: 'https://github.com/mbzuai-nlp/M4'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) have demonstrated remarkable capability to

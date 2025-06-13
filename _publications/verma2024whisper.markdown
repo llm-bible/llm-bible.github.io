@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024whisper
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11449"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11449'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 We propose WHISPER-GPT: A generative large language model (LLM) for speech
 and music that allows us to work with continuous audio representations and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lucas2023fighting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15515"}
-  - {name: "Code", url: "https://github.com/mickeymst/F3"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15515'}
+  - {name: "Code", url: 'https://github.com/mickeymst/F3'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Merging', 'Prompting']
 ---
 Recent ubiquity and disruptive impacts of large language models (LLMs) have
 raised concerns about their potential to be misused (.i.e, generating

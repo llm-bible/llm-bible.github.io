@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gabburo2024datasets
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10172"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10172'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Answer Sentence Selection (AS2) is a critical task for designing effective
 retrieval-based Question Answering (QA) systems. Most advancements in AS2 focus

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03025"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03025'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Extending the context window of large language models (LLMs) is getting
 popular recently, while the solution of augmenting LLMs with retrieval has

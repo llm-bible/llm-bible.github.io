@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20178"}
-  - {name: "Code", url: "https://github.com/JiazuoYu/PathWeave"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20178'}
+  - {name: "Code", url: 'https://github.com/JiazuoYu/PathWeave'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) have gained significant attention
 due to their impressive capabilities in multimodal understanding. However,

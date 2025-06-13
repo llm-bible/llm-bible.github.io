@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023temperature
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09325"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09325'}
 tags: ['Uncategorized']
 ---
 A wide body of evidence shows that human language processing difficulty is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: singla2023bi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16119"}
-tags: ['Tools', 'Efficiency and Optimization', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16119'}
+tags: ['Efficiency and Optimization', 'Tools', 'Merging']
 ---
 We propose an ensembling framework that uses diverse open-sourced Large
 Language Models (LLMs) to achieve high response quality while maintaining cost

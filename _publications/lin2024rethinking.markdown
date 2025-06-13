@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04681"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04681'}
+tags: ['RAG', 'Multimodal Models', 'Prompting', 'Training Techniques']
 ---
 In recent years, multimodal large language models (MLLMs) have made
 significant strides by training on vast high-quality image-text datasets,

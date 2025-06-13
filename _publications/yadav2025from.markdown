@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yadav2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07450"}
-tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07450'}
+tags: ['Transformer', 'RAG', 'BERT', 'Applications', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 The introduction of transformer architecture was a turning point in Natural
 Language Processing (NLP). Models based on the transformer architecture such as

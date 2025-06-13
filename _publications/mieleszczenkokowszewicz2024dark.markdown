@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mieleszczenkokowszewicz2024dark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06008"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06008'}
 tags: ['Prompting']
 ---
 This study explores how the Large Language Models (LLMs) adjust linguistic

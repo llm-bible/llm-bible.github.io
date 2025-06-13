@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: niklaus2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02069"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02069'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large, high-quality datasets are crucial for training Large Language Models
 (LLMs). However, so far, there are few datasets available for specialized

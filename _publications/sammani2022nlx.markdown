@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: sammani2022nlx
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.05081"}
-  - {name: "Code", url: "https://github.com/fawazsammani/nlxgpt"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.05081'}
+  - {name: "Code", url: 'https://github.com/fawazsammani/nlxgpt'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Ethics and Bias', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Multimodal Models', 'Pre-Training']
 ---
 Natural language explanation (NLE) models aim at explaining the
 decision-making process of a black box system via generating natural language

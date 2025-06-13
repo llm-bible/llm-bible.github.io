@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023bidirectional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.00360"}
-tags: ['Transformer', 'Pre-Training', 'Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.00360'}
+tags: ['Agentic', 'Language Modeling', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 BatGPT is a large-scale language model designed and trained jointly by Wuhan
 University and Shanghai Jiao Tong University. It is capable of generating

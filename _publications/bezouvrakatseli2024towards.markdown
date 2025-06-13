@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bezouvrakatseli2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18073"}
-tags: ['Interpretability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18073'}
+tags: ['Reinforcement Learning', 'Interpretability']
 ---
 We argue that enabling human-AI dialogue, purposed to support joint reasoning
 (i.e., 'inquiry'), is important for ensuring that AI decision making is aligned

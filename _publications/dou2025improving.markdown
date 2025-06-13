@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dou2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14363"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14363'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Reinforcement learning (RL) has increasingly become a pivotal technique in
 the post-training of large language models (LLMs). The effective exploration of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wood2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18164"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18164'}
+tags: ['Reinforcement Learning', 'RAG', 'Model Architecture']
 ---
 Data preparation is the first and a very important step towards any Large
 Language Model (LLM) development. This paper introduces an easy-to-use,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mckenna2025synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18760"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18760'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 A key consideration when training an LLM is whether the target language is
 more or less resourced, whether this is English compared to Welsh, or Python

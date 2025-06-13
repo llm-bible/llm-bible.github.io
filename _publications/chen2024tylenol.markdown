@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024tylenol
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20385"}
-tags: ['Fine-Tuning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20385'}
+tags: ['Fine-Tuning', 'Prompting', 'Security']
 ---
 Background: Large language models (LLMs) are trained to follow directions,
 but this introduces a vulnerability to blindly comply with user requests even

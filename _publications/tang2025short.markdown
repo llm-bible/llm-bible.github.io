@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025short
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09586"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09586'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent years have witnessed significant progress in large language models'
 (LLMs) reasoning, which is largely due to the chain-of-thought (CoT)

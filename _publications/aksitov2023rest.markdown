@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: aksitov2023rest
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10003"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10003'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Prompting', 'Reinforcement Learning']
 ---
 Answering complex natural language questions often necessitates multi-step
 reasoning and integrating external information. Several systems have combined

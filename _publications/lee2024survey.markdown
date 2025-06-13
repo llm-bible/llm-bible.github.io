@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02315"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02315'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities across a wide
 variety of Natural Language Processing (NLP) tasks and have attracted attention

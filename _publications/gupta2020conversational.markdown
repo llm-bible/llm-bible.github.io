@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gupta2020conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.00671"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.00671'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'BERT', 'Survey Paper']
 ---
 Conversational Machine Comprehension (CMC), a research track in
 conversational AI, expects the machine to understand an open-domain natural

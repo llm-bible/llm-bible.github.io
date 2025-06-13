@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: jiang2022evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.07550"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.07550'}
 tags: ['RAG', 'Prompting']
 ---
 Standardized and quantified evaluation of machine behaviors is a crux of

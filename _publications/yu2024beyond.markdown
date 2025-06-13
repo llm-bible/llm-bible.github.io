@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10903"}
-  - {name: "Code", url: "https://github.com/yuyouyu32/BeyondDialogue"}
-tags: ['Tools', 'Ethics and Bias', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10903'}
+  - {name: "Code", url: 'https://github.com/yuyouyu32/BeyondDialogue'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 The rapid advancement of large language models (LLMs) has revolutionized
 role-playing, enabling the development of general role-playing models. However,

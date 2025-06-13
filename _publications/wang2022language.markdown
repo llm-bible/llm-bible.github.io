@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.10747"}
-  - {name: "Code", url: "https://github.com/MikeWangWZHL/VidIL"}
-tags: ['INTERSPEECH', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.10747'}
+  - {name: "Code", url: 'https://github.com/MikeWangWZHL/VidIL'}
+tags: ['Has Code', 'Few-Shot', 'INTERSPEECH', 'Training Techniques', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 The goal of this work is to build flexible video-language models that can
 generalize to various video-to-text tasks from few examples, such as

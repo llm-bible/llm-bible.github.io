@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sotudeh2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00324"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00324'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study examines the potential of integrating Learning-to-Rank (LTR) with
 Query-focused Summarization (QFS) to enhance the summary relevance via content

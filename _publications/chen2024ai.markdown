@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16022"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16022'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Cognitive biases are systematic deviations in thinking that lead to
 irrational judgments and problematic decision-making, extensively studied

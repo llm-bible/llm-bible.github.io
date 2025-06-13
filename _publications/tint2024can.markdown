@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tint2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08010"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08010'}
 tags: ['RAG', 'Tools']
 ---
 While Large Language Models (LLMs) have demonstrated remarkable performance

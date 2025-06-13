@@ -6,9 +6,9 @@ conference: "2024.customnlp4u-1.7"
 year: 2024
 bibkey: fereidouni2024grounded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10887"}
-  - {name: "Code", url: "https://github.com/MultifacetedNLP/WebAgents-Unsupervised"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10887'}
+  - {name: "Code", url: 'https://github.com/MultifacetedNLP/WebAgents-Unsupervised'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 The development of agents powered by large language models (LLMs) to
 accomplish complex high-level user intents, has attracted significant attention

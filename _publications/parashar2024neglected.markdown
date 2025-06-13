@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: parashar2024neglected
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12425"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12425'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Merging', 'Prompting', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) excel in zero-shot recognition but their
 performance varies greatly across different visual concepts. For example,

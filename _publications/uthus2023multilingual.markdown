@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: uthus2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11129"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11129'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 We present our work on developing a multilingual, efficient text-to-text
 transformer that is suitable for handling long inputs. This model, called

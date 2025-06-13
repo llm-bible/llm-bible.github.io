@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025muon
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16982"}
-tags: ['Large-Scale Training', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16982'}
+tags: ['Reinforcement Learning', 'Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Recently, the Muon optimizer based on matrix orthogonalization has
 demonstrated strong results in training small-scale language models, but the

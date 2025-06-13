@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mondal2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14986"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14986'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Prompting and Multiple Choices Questions (MCQ) have become the preferred
 approach to assess the capabilities of Large Language Models (LLMs), due to

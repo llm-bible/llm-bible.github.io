@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021identifier
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.00859"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.00859'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'BERT', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained models for Natural Languages (NL) like BERT and GPT have been
 recently shown to transfer well to Programming Languages (PL) and largely

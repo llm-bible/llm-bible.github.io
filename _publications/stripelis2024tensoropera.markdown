@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: stripelis2024tensoropera
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12320"}
-tags: ['Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12320'}
+tags: ['Efficiency and Optimization', 'Tools']
 ---
 With the rapid growth of Large Language Models (LLMs) across various domains,
 numerous new LLMs have emerged, each possessing domain-specific expertise. This

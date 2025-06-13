@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: radevski2025synthesizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05317"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05317'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Question Answering (QA) accounts for a significant portion of LLM usage "in
 the wild". However, LLMs sometimes produce false or misleading responses, also

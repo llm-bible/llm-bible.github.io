@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025who
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12611"}
-tags: ['Tools', 'Bias Mitigation', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12611'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Tools', 'Bias Mitigation']
 ---
 The rise of Large Language Models (LLMs) necessitates accurate AI-generated
 text detection. However, current approaches largely overlook the influence of

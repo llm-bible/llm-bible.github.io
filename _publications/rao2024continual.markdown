@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rao2024continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18966"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18966'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 Text-to-video (T2V) generation has gained significant attention recently.
 However, the costs of training a T2V model from scratch remain persistently

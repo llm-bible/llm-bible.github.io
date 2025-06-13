@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05845"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05845'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Large language models with a transformer-based encoder/decoder architecture,
 such as T5, have become standard platforms for supervised tasks. To bring these

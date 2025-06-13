@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: raunak2022rank
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.13317"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.13317'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large sequence to sequence models for tasks such as Neural Machine
 Translation (NMT) are usually trained over hundreds of millions of samples.

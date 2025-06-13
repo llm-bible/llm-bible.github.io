@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024pooling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09317"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09317'}
 tags: ['RAG', 'Tools']
 ---
 The rapid growth of LLMs has revolutionized natural language processing and

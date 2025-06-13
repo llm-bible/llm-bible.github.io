@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: khatun2023reliability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06199"}
-  - {name: "Code", url: "https://github.com/tanny411/GPT3-Reliability-Check"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06199'}
+  - {name: "Code", url: 'https://github.com/tanny411/GPT3-Reliability-Check'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have become mainstream technology with their
 versatile use cases and impressive performance. Despite the countless

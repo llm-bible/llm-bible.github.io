@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guldimann2024compl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07959"}
-tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Security', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07959'}
+tags: ['RAG', 'Security', 'Fairness', 'Tools', 'Survey Paper', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The EU's Artificial Intelligence Act (AI Act) is a significant step towards
 responsible AI development, but lacks clear technical interpretation, making it

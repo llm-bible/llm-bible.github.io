@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.02913"}
-  - {name: "Code", url: "https://github.com/Shark-NLP/OpenICL"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.02913'}
+  - {name: "Code", url: 'https://github.com/Shark-NLP/OpenICL'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 In recent years, In-context Learning (ICL) has gained increasing attention
 and emerged as the new paradigm for large language model (LLM) evaluation.

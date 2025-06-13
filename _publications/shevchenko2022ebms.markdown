@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: shevchenko2022ebms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.14355"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.14355'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 The availability of clean and diverse labeled data is a major roadblock for
 training models on complex tasks such as visual question answering (VQA). The

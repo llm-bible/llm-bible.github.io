@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: castro2025implementation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19422"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19422'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper focuses on the piloting of CyberScholar, a Generative AI (GenAI)
 assistant tool that aims to provide feedback on writing K-12 contexts. The aim

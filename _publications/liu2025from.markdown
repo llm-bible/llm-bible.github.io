@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05801"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05801'}
 tags: ['Fine-Tuning', 'Applications', 'Merging']
 ---
 In a conversational system, dynamically generating follow-up questions based

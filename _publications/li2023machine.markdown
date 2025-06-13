@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13242"}
-  - {name: "Code", url: "https://github.com/yafuly/MAGE"}
-tags: ['Applications', 'Has Code', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13242'}
+  - {name: "Code", url: 'https://github.com/yafuly/MAGE'}
+tags: ['Has Code', 'Language Modeling', 'Applications']
 ---
 Large language models (LLMs) have achieved human-level text generation,
 emphasizing the need for effective AI-generated text detection to mitigate

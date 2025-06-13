@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lou2024quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11880"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11880'}
 tags: ['Uncategorized']
 ---
 In this study, we propose an axiomatic system to define and quantify the

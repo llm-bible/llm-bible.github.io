@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15594"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15594'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Quantization', 'Prompting', 'Reinforcement Learning']
 ---
 Large-scale pre-trained language models (LLMs) have demonstrated exceptional
 performance in various natural language processing (NLP) tasks. However, the

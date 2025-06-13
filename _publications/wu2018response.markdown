@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: wu2018response
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1806.07042"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1806.07042'}
 tags: ['RAG']
 ---
 Open domain response generation has achieved remarkable progress in recent

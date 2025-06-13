@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nahar2025catch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01153"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01153'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 While we increasingly rely on large language models (LLMs) for various tasks,
 these models are known to produce inaccurate content or `hallucinations' with

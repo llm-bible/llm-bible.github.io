@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chadalavada2024distinguishing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08680"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08680'}
 tags: ['Uncategorized']
 ---
 Users increasingly query LLM-enabled web chatbots for help with scam defense.

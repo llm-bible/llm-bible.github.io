@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kumarage2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05095"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05095'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 In recent years, there has been a rapid proliferation of AI-generated text,
 primarily driven by the release of powerful pre-trained language models (PLMs).

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohammadshahi2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13979"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13979'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 LLMs with superior response quality--particularly larger or closed-source
 models--often come with higher inference costs, making their deployment

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: negreanu2022rows
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.07014"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.07014'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Row completion is the task of augmenting a given table of text and numbers
 with additional, relevant rows. The task divides into two steps: subject

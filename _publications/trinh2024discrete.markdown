@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: trinh2024discrete
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06582"}
-tags: ['Transformer', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06582'}
+tags: ['Masked Language Model', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Tokenization', 'Pretraining Methods']
 ---
 Recent work on discrete speech tokenization has paved the way for models that
 can seamlessly perform multiple tasks across modalities, e.g., speech

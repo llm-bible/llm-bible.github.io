@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024gradient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19616"}
-  - {name: "Code", url: "https://github.com/Jhhuangkay/Gradient-Weight-normalized-Low-rank-Projection-for-Efficient-LLM-Training"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19616'}
+  - {name: "Code", url: 'https://github.com/Jhhuangkay/Gradient-Weight-normalized-Low-rank-Projection-for-Efficient-LLM-Training'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'BERT', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable performance across various
 tasks, but the escalating demands on computational resources pose significant

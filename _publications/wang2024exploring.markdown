@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00330"}
-tags: ['Tools', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00330'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications', 'Tools']
 ---
 The rapid development of multimodal large language models (MLLMs) has brought
 significant improvements to a wide range of tasks in real-world applications.

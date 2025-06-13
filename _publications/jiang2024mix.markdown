@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024mix
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10804"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10804'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training']
 ---
 Adapting general large language models (LLMs) to specialized domains presents
 great challenges due to varied data distributions. This adaptation typically

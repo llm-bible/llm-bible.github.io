@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03965"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03965'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Prompting', 'RecSys']
 ---
 Modern recommender systems increasingly leverage large language models (LLMs)
 for reranking to improve personalization. However, existing approaches face two

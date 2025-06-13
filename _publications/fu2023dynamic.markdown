@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14882"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14882'}
 tags: ['Interpretability and Explainability', 'Multimodal Models', 'Applications']
 ---
 Recent advances in multimodal large language models (LLMs) have shown extreme

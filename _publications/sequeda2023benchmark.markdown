@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sequeda2023benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07509"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07509'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 Enterprise applications of Large Language Models (LLMs) hold promise for
 question answering on enterprise SQL databases. However, the extent to which

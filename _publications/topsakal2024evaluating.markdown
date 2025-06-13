@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: topsakal2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07796"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07796'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 We introduce a novel and extensible benchmark for large language models
 (LLMs) through grid-based games such as Tic-Tac-Toe, Connect Four, and Gomoku.

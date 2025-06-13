@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qi2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05621"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05621'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Instruction fine-tuning has conventionally been employed to adapt Large
 Language Models (LLMs) to a variety of tasks. Nonetheless, this technique often

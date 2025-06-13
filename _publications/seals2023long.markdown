@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: seals2023long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04537"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04537'}
 tags: ['GPT', 'Model Architecture']
 ---
 Psycholinguistic analyses provide a means of evaluating large language model

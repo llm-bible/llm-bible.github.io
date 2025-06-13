@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025fc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.21059"}
-tags: ['Responsible AI', 'Applications', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.21059'}
+tags: ['Security', 'Applications', 'Prompting', 'Multimodal Models', 'Responsible AI']
 ---
 Large Vision-Language Models (LVLMs) have become powerful and widely adopted
 in some practical applications. However, recent research has revealed their

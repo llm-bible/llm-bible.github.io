@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: laskar2023systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18486"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18486'}
+tags: ['Attention Mechanism', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The development of large language models (LLMs) such as ChatGPT has brought a
 lot of attention recently. However, their evaluation in the benchmark academic

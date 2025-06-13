@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: echterhoff2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09435"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09435'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Reinforcement Learning', 'Model Architecture']
 ---
 Large Language Models (LLMs) are regularly updated to enhance performance,
 typically through changes in data or architecture. Within the update process,

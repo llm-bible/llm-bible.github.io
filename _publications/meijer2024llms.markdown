@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: meijer2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00962"}
-tags: ['Training Techniques', 'Survey Paper', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00962'}
+tags: ['Ethics and Bias', 'Prompting', 'Training Techniques', 'Survey Paper']
 ---
 Large language models (LLMs) have become increasingly pivotal in various
 domains due the recent advancements in their performance capabilities. However,

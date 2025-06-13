@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025almost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01208"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01208'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Even highly capable large language models (LLMs) can produce biased or unsafe
 responses, and alignment techniques, such as RLHF, aimed at mitigating this

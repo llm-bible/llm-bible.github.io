@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16539"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16539'}
+tags: ['RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'RecSys', 'Prompting', 'Reinforcement Learning']
 ---
 With the rapid development of Large Language Models (LLMs), various
 explorations have arisen to utilize LLMs capability of context understanding on

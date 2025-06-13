@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025decoupling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13677"}
-tags: ['Responsible AI', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13677'}
+tags: ['Security', 'Responsible AI', 'Training Techniques']
 ---
 Large Language Models (LLMs) commonly rely on explicit refusal prefixes for
 safety, making them vulnerable to prefix injection attacks. We introduce

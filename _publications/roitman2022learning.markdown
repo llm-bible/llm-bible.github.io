@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: roitman2022learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.02534"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.02534'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We address the product question generation task. For a given product
 description, our goal is to generate questions that reflect potential user

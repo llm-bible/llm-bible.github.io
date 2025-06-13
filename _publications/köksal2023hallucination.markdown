@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: köksal2023hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07424"}
-tags: ['Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07424'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Attribution is a key concept in large language models (LLMs) as it enables
 control over information sources and enhances the factuality of LLMs. While

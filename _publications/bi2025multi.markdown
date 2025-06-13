@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bi2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18260"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18260'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Automating structured clinical interviews could revolutionize mental
 healthcare accessibility, yet existing large language models (LLMs) approaches

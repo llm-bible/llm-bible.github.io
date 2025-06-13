@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: penha2022sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.10558"}
-  - {name: "Code", url: "https://github.com/Guzpenha/transformer_rankers/tree/full_rank_retrieval_dialogues"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.10558'}
+  - {name: "Code", url: 'https://github.com/Guzpenha/transformer_rankers/tree/full_rank_retrieval_dialogues'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Ranking responses for a given dialogue context is a popular benchmark in
 which the setup is to re-rank the ground-truth response over a limited set of

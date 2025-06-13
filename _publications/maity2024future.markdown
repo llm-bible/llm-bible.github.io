@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maity2024future
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09576"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09576'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, large language models (LLMs) and generative AI have
 revolutionized natural language processing (NLP), offering unprecedented

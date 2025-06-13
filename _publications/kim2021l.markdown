@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kim2021l
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.11133"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Security', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.11133'}
+tags: ['Transformer', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Multimodal Models', 'Pretraining Methods']
 ---
 Far beyond learning long-range interactions of natural language, transformers
 are becoming the de-facto standard for many vision tasks with their power and

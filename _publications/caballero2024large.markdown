@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: caballero2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03453"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03453'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 The overwhelming success of GPT-4 in early 2023 highlighted the
 transformative potential of large language models (LLMs) across various

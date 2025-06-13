@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18406"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18406'}
+tags: ['Applications', 'Training Techniques']
 ---
 Stimulated by the sophisticated reasoning capabilities of recent Large
 Language Models (LLMs), a variety of strategies for bridging video modality

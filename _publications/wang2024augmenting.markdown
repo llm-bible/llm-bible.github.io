@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14908"}
-  - {name: "Code", url: "https://youtu.be/4BT7fnw9ehs"}
-  - {name: "Code", url: "https://github.com/WZX0Swarm0Robotics/KARMA/tree/master"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14908'}
+  - {name: "Code", url: 'https://youtu.be/4BT7fnw9ehs'}
+  - {name: "Code", url: 'https://github.com/WZX0Swarm0Robotics/KARMA/tree/master'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Embodied AI agents responsible for executing interconnected, long-sequence
 household tasks often face difficulties with in-context memory, leading to

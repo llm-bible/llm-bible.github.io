@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14721"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14721'}
 tags: ['RAG', 'Tools']
 ---
 Molecule discovery is a pivotal research field, impacting everything from the

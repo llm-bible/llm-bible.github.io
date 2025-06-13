@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13964"}
-  - {name: "Code", url: "https://github.com/aiming-lab/MDocAgent"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13964'}
+  - {name: "Code", url: 'https://github.com/aiming-lab/MDocAgent'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Document Question Answering (DocQA) is a very common task. Existing methods
 using Large Language Models (LLMs) or Large Vision Language Models (LVLMs) and

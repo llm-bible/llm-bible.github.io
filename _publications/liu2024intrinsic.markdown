@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024intrinsic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02378"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02378'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) are able to improve their responses when
 instructed to do so, a capability known as self-correction. When instructions

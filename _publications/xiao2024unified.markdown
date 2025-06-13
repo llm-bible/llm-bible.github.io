@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11340"}
-  - {name: "Code", url: "https://github.com/VectorSpaceLab/OmniGen"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11340'}
+  - {name: "Code", url: 'https://github.com/VectorSpaceLab/OmniGen'}
+tags: ['Has Code', 'Model Architecture', 'Applications', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 The emergence of Large Language Models (LLMs) has unified language generation
 tasks and revolutionized human-machine interaction. However, in the realm of

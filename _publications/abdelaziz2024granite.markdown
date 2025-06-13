@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdelaziz2024granite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00121"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00121'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 Large language models (LLMs) have recently shown tremendous promise in
 serving as the backbone to agentic systems, as demonstrated by their

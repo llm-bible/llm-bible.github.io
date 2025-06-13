@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025scientific
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13753"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13753'}
 tags: ['RAG', 'ICLR']
 ---
 Evaluating large language models' (LLMs) long-context understanding

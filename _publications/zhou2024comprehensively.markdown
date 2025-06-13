@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024comprehensively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09893"}
-  - {name: "Code", url: "https://github.com/Zhou-Zoey/RMB-Reward-Model-Benchmark"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09893'}
+  - {name: "Code", url: 'https://github.com/Zhou-Zoey/RMB-Reward-Model-Benchmark'}
+tags: ['Reinforcement Learning', 'Has Code', 'Efficiency and Optimization']
 ---
 Reward models (RMs) guide the alignment of large language models (LLMs),
 steering them toward behaviors preferred by humans. Evaluating RMs is the key

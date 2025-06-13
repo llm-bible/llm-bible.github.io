@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ogg2024turing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00577"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00577'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 As we consider entrusting Large Language Models (LLMs) with key societal and
 decision-making roles, measuring their alignment with human cognition becomes

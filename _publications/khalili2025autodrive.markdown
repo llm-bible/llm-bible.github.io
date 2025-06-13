@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: khalili2025autodrive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15778"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15778'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Ethics and Bias']
 ---
 In autonomous driving, open-ended question answering often suffers from
 unreliable evaluations because freeform responses require either complex

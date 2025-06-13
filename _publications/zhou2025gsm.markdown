@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025gsm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05252"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05252'}
 tags: ['Applications']
 ---
 Long-context large language models (LLMs) have recently shown strong

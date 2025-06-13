@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hwang2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14929"}
-tags: ['Survey Paper', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14929'}
+tags: ['Prompting', 'Survey Paper']
 ---
 An important aspect of developing LLMs that interact with humans is to align
 models' behavior to their users. It is possible to prompt an LLM into behaving

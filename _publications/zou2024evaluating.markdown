@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10972"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10972'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 In the realm of vision models, the primary mode of representation is using
 pixels to rasterize the visual world. Yet this is not always the best or unique

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: doostmohammadi2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10770"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10770'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Work on instruction-tuned Large Language Models (LLMs) has used automatic
 methods based on text overlap and LLM judgments as cost-effective alternatives

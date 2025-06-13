@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: goldstein2023decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16411"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16411'}
 tags: ['GPT', 'Model Architecture']
 ---
 This paper investigates the problem-solving capabilities of Large Language

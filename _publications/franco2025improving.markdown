@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: franco2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17513"}
-tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17513'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Pruning']
 ---
 The size of a model has been a strong predictor of its quality, as well as
 its cost. As such, the trade-off between model cost and quality has been

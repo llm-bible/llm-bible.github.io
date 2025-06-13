@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024explainable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02588"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02588'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Recommendation Systems have become integral to modern user experiences, but
 lack transparency in their decision-making processes. Existing explainable

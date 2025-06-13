@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15718"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15718'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 RAGMan is an LLM-powered tutoring system that can support a variety of
 course-specific and homework-specific AI tutors. RAGMan leverages Retrieval

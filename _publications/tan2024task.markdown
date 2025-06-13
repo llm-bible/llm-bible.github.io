@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15734"}
-tags: ['Agentic', 'Tools', 'TACL', 'Reinforcement Learning', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15734'}
+tags: ['Agentic', 'ACL', 'Tools', 'Reinforcement Learning', 'TACL']
 ---
 TaskGen is an open-sourced agentic framework which uses an Agent to solve an
 arbitrary task by breaking them down into subtasks. Each subtask is mapped to

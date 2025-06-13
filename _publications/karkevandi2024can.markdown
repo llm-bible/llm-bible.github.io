@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: karkevandi2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02651"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02651'}
+tags: ['Agentic', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'BERT', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 natural language tasks, but their safety and morality remain contentious due to

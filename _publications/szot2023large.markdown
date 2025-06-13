@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: szot2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17722"}
-tags: ['Agentic', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17722'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques', 'Applications']
 ---
 We show that large language models (LLMs) can be adapted to be generalizable
 policies for embodied visual tasks. Our approach, called Large LAnguage model

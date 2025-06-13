@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024speculative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15077"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15077'}
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Autoregressive decoding makes the inference of Large Language Models (LLMs)
 time-consuming. In this paper, we reconsider speculative sampling and derive

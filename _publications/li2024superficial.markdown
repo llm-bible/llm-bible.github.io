@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024superficial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10862"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10862'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 As large language models (LLMs) are overwhelmingly more and more integrated
 into various applications, ensuring they generate safe and aligned responses is

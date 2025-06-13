@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abrar2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00208"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00208'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 This study evaluates the performance of several Large Language Models (LLMs)
 on MedRedQA, a dataset of consumer-based medical questions and answers by

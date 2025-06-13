@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11460"}
-  - {name: "Code", url: "https://github.com)"}
-tags: ['Pre-Training', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11460'}
+  - {name: "Code", url: 'https://github.com)'}
+tags: ['Has Code', 'RAG', 'Pre-Training', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 various tasks, yet code generation remains a major challenge. Current

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: peng2025patch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06666"}
-  - {name: "Code", url: "https://github.com/GeWu-Lab/Patch-Matters"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06666'}
+  - {name: "Code", url: 'https://github.com/GeWu-Lab/Patch-Matters'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Applications', 'GPT', 'Training Techniques', 'Multimodal Models']
 ---
 High-quality image captions play a crucial role in improving the performance
 of cross-modal applications such as text-to-image generation, text-to-video

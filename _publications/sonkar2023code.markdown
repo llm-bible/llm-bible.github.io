@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sonkar2023code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12161"}
-  - {name: "Code", url: "https://github.com/luffycodes/Tutorbot-Spock-Phys"}
-tags: ['Has Code', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12161'}
+  - {name: "Code", url: 'https://github.com/luffycodes/Tutorbot-Spock-Phys'}
+tags: ['Prompting', 'GPT', 'Has Code', 'Model Architecture']
 ---
 High-quality conversational datasets are crucial for the successful
 development of Intelligent Tutoring Systems (ITS) that utilize a Large Language

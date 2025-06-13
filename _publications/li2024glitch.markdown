@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024glitch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09894"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09894'}
 tags: ['Tokenization', 'Survey Paper']
 ---
 With the expanding application of Large Language Models (LLMs) in various

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20609"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20609'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Classical Chinese, as the core carrier of Chinese culture, plays a crucial
 role in the inheritance and study of ancient literature. However, existing

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: melis2019mogrifier
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.01792"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.01792'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Many advances in Natural Language Processing have been based upon more

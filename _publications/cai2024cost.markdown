@@ -6,8 +6,8 @@ conference: "Proceedings of the 2024 Conference of the North American Chapter of
 year: 2024
 bibkey: cai2024cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05588"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05588'}
+tags: ['Language Modeling', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are powerful models for generation tasks, but
 they may not generate good quality outputs in their first attempt. Apart from

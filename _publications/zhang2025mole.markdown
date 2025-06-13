@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025mole
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20384"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20384'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Pruning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) excel in understanding complex
 language and visual data, enabling generalist robotic systems to interpret

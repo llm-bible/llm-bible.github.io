@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lohr2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04185"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04185'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Background: Over the past few decades, the process and methodology of

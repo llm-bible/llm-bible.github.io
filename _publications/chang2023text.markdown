@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.00704"}
-tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.00704'}
+tags: ['Language Modeling', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 We present Muse, a text-to-image Transformer model that achieves
 state-of-the-art image generation performance while being significantly more

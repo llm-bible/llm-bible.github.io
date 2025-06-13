@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00976"}
-  - {name: "Code", url: "https://github.com/youngsheen/GPST"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00976'}
+  - {name: "Code", url: 'https://github.com/youngsheen/GPST'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 While recent advancements in speech language models have achieved significant
 progress, they face remarkable challenges in modeling the long acoustic

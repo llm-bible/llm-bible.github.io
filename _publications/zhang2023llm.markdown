@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11696"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11696'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), such as GPT3.5, have exhibited remarkable
 proficiency in comprehending and generating natural language. On the other

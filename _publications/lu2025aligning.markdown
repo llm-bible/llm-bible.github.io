@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15619"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15619'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 Preference alignment through Direct Preference Optimization (DPO) has
 demonstrated significant effectiveness in aligning multimodal large language

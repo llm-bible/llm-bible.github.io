@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gaur2023reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01906"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01906'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have revolutionized NLP by solving downstream
 tasks with little to no labeled data. Despite their versatile abilities, the

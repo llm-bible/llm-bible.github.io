@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiu2025quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04691"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04691'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Tools']
 ---
 Recent advancements in reasoning-enhanced large language models (LLMs), such
 as DeepSeek-R1 and OpenAI-o3, have demonstrated significant progress. However,

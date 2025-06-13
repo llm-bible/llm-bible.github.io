@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: junczysdowmunt2017exploration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1706.04138"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'WMT', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1706.04138'}
+tags: ['Attention Mechanism', 'WMT', 'Applications', 'Model Architecture', 'Fine-Tuning']
 ---
 In this work, we explore multiple neural architectures adapted for the task
 of automatic post-editing of machine translation output. We focus on neural

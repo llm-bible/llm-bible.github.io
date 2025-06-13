@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saadfalcon2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13091"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13091'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 As language models become integral to critical workflows, assessing their
 behavior remains a fundamental challenge -- human evaluation is costly and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025isolating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19149"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/PseudocodeACL25-7B74"}
-tags: ['ACL', 'Has Code', 'EACL', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19149'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/PseudocodeACL25-7B74'}
+tags: ['Applications', 'Has Code', 'EACL', 'ACL']
 ---
 Existing code generation benchmarks for Large Language Models (LLMs) such as
 HumanEval and MBPP are designed to study LLMs' end-to-end performance, where

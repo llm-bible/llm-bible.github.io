@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13121"}
-tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13121'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Tools']
 ---
 Long-context language models (LCLMs) have the potential to revolutionize our
 approach to tasks traditionally reliant on external tools like retrieval

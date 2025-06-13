@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: goldie2025synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04736"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04736'}
+tags: ['Agentic', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Reinforcement learning has been shown to improve the performance of large
 language models. However, traditional approaches like RLHF or RLAIF treat the

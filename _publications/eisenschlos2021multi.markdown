@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: eisenschlos2021multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.04312"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.04312'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 This work presents a sparse-attention Transformer architecture for modeling
 documents that contain large tables. Tables are ubiquitous on the web, and are

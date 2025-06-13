@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08504"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08504'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Vision Transformer (ViT) based Vision-Language Pre-training (VLP) models have
 demonstrated impressive performance in various tasks. However, the lengthy

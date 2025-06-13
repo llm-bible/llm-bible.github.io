@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: miyaoka2024cbf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15625"}
-  - {name: "Code", url: "https://github.com/Mya-Mya/CBF-LLM"}
-tags: ['Responsible AI', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15625'}
+  - {name: "Code", url: 'https://github.com/Mya-Mya/CBF-LLM'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Model Architecture', 'Tools', 'BERT', 'Applications', 'Responsible AI']
 ---
 This paper proposes a control-based framework for aligning large language
 models (LLMs) by leveraging a control barrier function (CBF) to ensure

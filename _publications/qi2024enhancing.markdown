@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08048"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08048'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recent advancements in test time compute, particularly through the use of
 verifier models, have significantly enhanced the reasoning capabilities of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dunay2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04141"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04141'}
 tags: ['Efficiency and Optimization']
 ---
 CodeCompose is an AI-assisted code authoring tool powered by large language

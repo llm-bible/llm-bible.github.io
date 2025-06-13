@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17238"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17238'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Cognitive Restructuring (CR) is a psychotherapeutic process aimed at
 identifying and restructuring an individual's negative thoughts, arising from

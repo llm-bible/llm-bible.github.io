@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024gated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06464"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06464'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Linear Transformers have gained attention as efficient alternatives to
 standard Transformers, but their performance in retrieval and long-context

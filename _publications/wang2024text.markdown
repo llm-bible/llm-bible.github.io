@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04014"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04014'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 The recent advancements in Generative AI have significantly advanced the
 field of text-to-image generation. The state-of-the-art text-to-image model,

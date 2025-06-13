@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: xie2019multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.07816"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.07816'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Open-domain dialog systems (also known as chatbots) have increasingly drawn

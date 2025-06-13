@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhou2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.00416"}
-tags: ['Pre-Training', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.00416'}
+tags: ['Masked Language Model', 'BERT', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 In this paper, we generalize text infilling (e.g., masked language models) by
 proposing Sequence Span Rewriting (SSR) as a self-supervised

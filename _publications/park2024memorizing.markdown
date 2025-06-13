@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024memorizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15996"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15996'}
 tags: ['Training Techniques', 'Model Architecture']
 ---
 Training data plays a pivotal role in AI models. Large language models (LLMs)

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pochinkov2024extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06328"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06328'}
 tags: ['RAG']
 ---
 Generative large language models (LLMs) excel in natural language processing

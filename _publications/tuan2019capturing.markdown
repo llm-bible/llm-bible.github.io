@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: tuan2019capturing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.10274"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.10274'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Automatic question generation can benefit many applications ranging from

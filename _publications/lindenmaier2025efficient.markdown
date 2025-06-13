@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lindenmaier2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00617"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00617'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Transformer-based language models have recently been at the forefront of
 active research in text generation. However, these models' advances come at the

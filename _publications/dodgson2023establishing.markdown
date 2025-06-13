@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dodgson2023establishing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05903"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05903'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Research into methods for improving the performance of large language models
 (LLMs) through fine-tuning, retrieval-augmented generation (RAG) and

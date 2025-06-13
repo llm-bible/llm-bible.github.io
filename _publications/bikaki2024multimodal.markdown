@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bikaki2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06189"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06189'}
 tags: ['Agentic', 'Multimodal Models', 'Applications']
 ---
 In recent years, large language models (LLMs) have demonstrated remarkable

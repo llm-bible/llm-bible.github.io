@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sung2025human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12651"}
-tags: ['Responsible AI', 'Agentic', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12651'}
+tags: ['Agentic', 'Responsible AI', 'Tools']
 ---
 AI practitioners increasingly use large language model (LLM) agents in
 compound AI systems to solve complex reasoning tasks, these agent executions

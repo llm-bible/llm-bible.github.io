@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024hit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18583"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18583'}
 tags: ['RAG', 'Security', 'Merging']
 ---
 Ensembling various LLMs to unlock their complementary potential and leverage

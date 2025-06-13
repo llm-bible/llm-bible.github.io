@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05021"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05021'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are vulnerable to jailbreak attacks that exploit
 weaknesses in traditional safety alignment, which often relies on rigid refusal

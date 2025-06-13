@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024modular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06003"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Interpretability', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06003'}
+tags: ['Efficiency and Optimization', 'Fairness', 'Tools', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 The rapid development of large language model (LLM) evaluation methodologies
 and datasets has led to a profound challenge: integrating state-of-the-art

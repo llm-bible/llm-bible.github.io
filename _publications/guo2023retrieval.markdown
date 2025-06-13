@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02962"}
-tags: ['Tools', 'Applications', 'RAG', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02962'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Information Extraction (IE) aims to extract structural knowledge (e.g.,
 entities, relations, events) from natural language texts, which brings

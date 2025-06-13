@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mussa2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16220"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16220'}
+tags: ['RAG', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Despite the recent broad adoption of Large Language Models (LLMs) across
 various domains, their potential for enriching information systems in

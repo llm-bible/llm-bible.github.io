@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15151"}
-  - {name: "Code", url: "https://github.com/Control-derek/LANCE"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15151'}
+  - {name: "Code", url: 'https://github.com/Control-derek/LANCE'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities on
 various tasks, while the further evolvement is limited to the lack of

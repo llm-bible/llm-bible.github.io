@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024intention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06561"}
-tags: ['Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06561'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Aligning large language models (LLMs) with human values, particularly when
 facing complex and stealthy jailbreak attacks, presents a formidable challenge.

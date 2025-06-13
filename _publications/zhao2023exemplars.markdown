@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023exemplars
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03498"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03498'}
 tags: ['Training Techniques', 'Prompting', 'In-Context Learning', 'Tools']
 ---
 Recently, large language models (LLMs) have made remarkable progress in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kadosh2023domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13322"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13322'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 With easier access to powerful compute resources, there is a growing trend in
 AI for software development to develop large language models (LLMs) to address

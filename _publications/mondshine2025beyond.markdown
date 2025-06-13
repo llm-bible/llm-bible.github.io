@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mondshine2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09331"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09331'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 Despite advances in the multilingual capabilities of Large Language Models

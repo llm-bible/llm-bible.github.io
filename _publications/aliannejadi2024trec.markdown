@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: aliannejadi2024trec
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02637"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02637'}
 tags: ['Agentic', 'Tools']
 ---
 Conversational information seeking has evolved rapidly in the last few years

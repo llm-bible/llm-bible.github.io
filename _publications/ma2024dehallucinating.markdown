@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024dehallucinating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14905"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14905'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Large language models (LLMs) are susceptible to generating hallucinated
 information, despite the integration of retrieval-augmented generation (RAG).

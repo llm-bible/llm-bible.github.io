@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: purohit2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03877"}
-  - {name: "Code", url: "https://github.com/kiranpurohit/EXPLORA)"}
-tags: ['Fine-Tuning', 'Security', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03877'}
+  - {name: "Code", url: 'https://github.com/kiranpurohit/EXPLORA)'}
+tags: ['Has Code', 'Security', 'Prompting', 'Fine-Tuning', 'In-Context Learning']
 ---
 Answering reasoning-based complex questions over text and hybrid sources,
 including tables, is a challenging task. Recent advances in large language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wilson2025contextualizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15009"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15009'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Conversational query rewriting is crucial for effective conversational
 search, yet traditional supervised methods require substantial labeled data,

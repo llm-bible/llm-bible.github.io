@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023watermarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11237"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11237'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Quantization', 'Pretraining Methods']
 ---
 Abuse of large language models reveals high risks as large language models
 are being deployed at an astonishing speed. It is important to protect the

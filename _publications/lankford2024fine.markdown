@@ -6,8 +6,8 @@ conference: "Information 2023 14(12) 638"
 year: 2024
 bibkey: lankford2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02370"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02370'}
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 The advent of Multilingual Language Models (MLLMs) and Large Language Models
 has spawned innovation in many areas of natural language processing. Despite

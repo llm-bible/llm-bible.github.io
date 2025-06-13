@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04360"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04360'}
+tags: ['Attention Mechanism', 'Security', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Previous research has shown that LLMs have potential in multilingual NLG
 evaluation tasks. However, existing research has not fully explored the

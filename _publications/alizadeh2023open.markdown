@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: alizadeh2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02179"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02179'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 This paper studies the performance of open-source Large Language Models
 (LLMs) in text classification tasks typical for political science research. By

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lyu2023facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17294"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17294'}
+tags: ['Agentic', 'Agent', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 While Large Language Models (LLMs) like ChatGPT and GPT-4 have demonstrated
 exceptional proficiency in natural language processing, their efficacy in

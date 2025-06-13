@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: carbune2024chart
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12596"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12596'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Vision-language models (VLMs) are achieving increasingly strong performance
 on multimodal tasks. However, reasoning capabilities remain limited

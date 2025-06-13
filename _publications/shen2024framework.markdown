@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09586"}
-tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09586'}
+tags: ['Security', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 As AI systems become more advanced, ensuring their alignment with a diverse
 range of individuals and societal values becomes increasingly critical. But how

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: athiwaratkun2024bifurcated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08845"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08845'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study introduces bifurcated attention, a method designed to enhance
 language model inference in shared-context batch decoding scenarios. Our

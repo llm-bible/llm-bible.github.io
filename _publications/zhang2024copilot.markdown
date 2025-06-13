@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024copilot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.14176"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.14176'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'Tools', 'Prompting']
 ---
 As one of the most popular dynamic languages, Python experiences a decrease
 in readability and maintainability when code smells are present. Recent

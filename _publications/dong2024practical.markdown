@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11076"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11076'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Previous text-to-SQL datasets and systems have primarily focused on user
 questions with clear intentions that can be answered. However, real user

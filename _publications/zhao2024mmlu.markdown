@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024mmlu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15194"}
-  - {name: "Code", url: "https://github.com/microsoft/MMLU-CF"}
-  - {name: "Code", url: "https://huggingface.co/datasets/microsoft/MMLU-CF"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15194'}
+  - {name: "Code", url: 'https://github.com/microsoft/MMLU-CF'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/microsoft/MMLU-CF'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Multiple-choice question (MCQ) datasets like Massive Multitask Language
 Understanding (MMLU) are widely used to evaluate the commonsense,

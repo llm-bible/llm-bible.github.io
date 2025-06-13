@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: pu2024customized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15353"}
-  - {name: "Code", url: "https://github.com/lesliepy99/RAG-EDA"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15353'}
+  - {name: "Code", url: 'https://github.com/lesliepy99/RAG-EDA'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Retrieval augmented generation (RAG) enhances the accuracy and reliability of
 generative AI models by sourcing factual information from external databases,

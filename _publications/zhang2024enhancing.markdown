@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14556"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14556'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 In this paper, we propose CitaLaw, the first benchmark designed to evaluate
 LLMs' ability to produce legally sound responses with appropriate citations.

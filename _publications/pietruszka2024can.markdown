@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pietruszka2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23331"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23331'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 We present a benchmark for large language models designed to tackle one of
 the most knowledge-intensive tasks in data science: writing feature engineering

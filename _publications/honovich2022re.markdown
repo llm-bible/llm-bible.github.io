@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: honovich2022re
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.04991"}
-tags: ['Survey Paper', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.04991'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Training Techniques', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 Grounded text generation systems often generate text that contains factual
 inconsistencies, hindering their real-world applicability. Automatic factual

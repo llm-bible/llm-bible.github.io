@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023this
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14610"}
-  - {name: "Code", url: "https://github.com/manestay/borderlines"}
-tags: ['Has Code', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14610'}
+  - {name: "Code", url: 'https://github.com/manestay/borderlines'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Prompting']
 ---
 Do the Spratly Islands belong to China, the Philippines, or Vietnam? A
 pretrained large language model (LLM) may answer differently if asked in the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00817"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00817'}
 tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 This paper investigates the utilization of Large Language Models (LLMs) for

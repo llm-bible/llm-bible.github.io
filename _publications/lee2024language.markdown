@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11349"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11349'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Tools']
 ---
 We argue that language-only models don't learn the physical manifestation of
 language. We present an empirical investigation of visual-auditory properties

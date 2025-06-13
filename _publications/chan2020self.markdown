@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chan2020self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.03535"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.03535'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Pretrained Transformer-based language models (LMs) display remarkable natural
 language generation capabilities. With their immense potential, controlling

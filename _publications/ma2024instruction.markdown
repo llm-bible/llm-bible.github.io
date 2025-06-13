@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01131"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/LLaMoCo-722A"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01131'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/LLaMoCo-722A'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Recent research explores optimization using large language models (LLMs) by
 either iteratively seeking next-step solutions from LLMs or directly prompting

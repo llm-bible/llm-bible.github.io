@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13237"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13237'}
+tags: ['RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recently, generative pre-trained models have made significant strides,
 particularly highlighted by the release of ChatGPT and GPT-4, which exhibit

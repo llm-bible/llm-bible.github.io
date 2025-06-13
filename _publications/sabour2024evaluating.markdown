@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sabour2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12071"}
-  - {name: "Code", url: "https://github.com/Sahandfer/EmoBench"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12071'}
+  - {name: "Code", url: 'https://github.com/Sahandfer/EmoBench'}
 tags: ['RAG', 'Has Code']
 ---
 Recent advances in Large Language Models (LLMs) have highlighted the need for

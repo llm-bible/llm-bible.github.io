@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chu2023data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17784"}
-tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17784'}
+tags: ['Reinforcement Learning', 'Prompting', 'Training Techniques']
 ---
 Large language models (LLMs) show promise for natural language tasks but
 struggle when applied directly to complex domains like finance. LLMs have

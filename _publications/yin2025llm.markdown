@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yin2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16673"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16673'}
+tags: ['Agentic', 'Agent', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have reshaped natural language processing,
 powering applications from multi-hop retrieval and question answering to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghosh2024online
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05993"}
-tags: ['Responsible AI', 'Security', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05993'}
+tags: ['Security', 'Responsible AI', 'Tools']
 ---
 As Large Language Models (LLMs) and generative AI become more widespread, the
 content safety risks associated with their use also increase. We find a notable

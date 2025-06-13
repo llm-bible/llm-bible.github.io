@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024rec
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2402.08670v1"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2402.08670v1'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 The development of large vision-language models (LVLMs) offers the potential
 to address challenges faced by traditional multimodal recommendations thanks to

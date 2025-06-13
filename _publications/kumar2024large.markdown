@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13067"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13067'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Although engagement in self-directed wellness exercises typically declines
 over time, integrating social support such as coaching can sustain it. However,

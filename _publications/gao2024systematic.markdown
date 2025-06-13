@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.18333"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.18333'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recently, the use of large language models (LLMs) for software code
 generation, e.g., C/C++ and Python, has proven a great success. However, LLMs

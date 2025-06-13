@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10730"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10730'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 The remarkable capabilities and intricate nature of Artificial Intelligence
 (AI) have dramatically escalated the imperative for specialized AI

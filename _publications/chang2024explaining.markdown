@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024explaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01610"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01610'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Contrastive decoding (CD) (Li et al., 2023) improves the next-token
 distribution of a large expert language model (LM) using a small amateur LM.

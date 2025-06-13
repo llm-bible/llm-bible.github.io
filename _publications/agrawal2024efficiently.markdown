@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: agrawal2024efficiently
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17264"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17264'}
 tags: ['RAG', 'Training Techniques']
 ---
 As large language models (LLMs) handle increasingly longer contexts, serving long inference requests of millions of tokens presents unique challenges. We show that existing work for long context inference is largely based on techniques from long context training, and does not handle the high variability in input lengths during inference. This leads to inefficient resource utilization, server fragmentation, and head-of-line (HOL) blocking.

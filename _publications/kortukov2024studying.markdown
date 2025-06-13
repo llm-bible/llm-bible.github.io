@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kortukov2024studying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16032"}
-  - {name: "Code", url: "https://github.com/kortukov/realistic_knowledge_conflicts/"}
-tags: ['RAG', 'Tools', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16032'}
+  - {name: "Code", url: 'https://github.com/kortukov/realistic_knowledge_conflicts/'}
+tags: ['Ethics and Bias', 'Has Code', 'RAG', 'Tools']
 ---
 Retrieval-augmented generation (RAG) mitigates many problems of fully
 parametric language models, such as temporal degradation, hallucinations, and

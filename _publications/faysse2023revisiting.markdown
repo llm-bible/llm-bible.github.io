@@ -6,8 +6,8 @@ conference: "2023.emnlp-main.559"
 year: 2023
 bibkey: faysse2023revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14103"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14103'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Instruction Fine-Tuning (IFT) is a powerful paradigm that strengthens the
 zero-shot capabilities of Large Language Models (LLMs), but in doing so induces

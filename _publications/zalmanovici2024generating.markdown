@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zalmanovici2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19772"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19772'}
 tags: ['Training Techniques']
 ---
 Large Language Models (LLMs) are used for many tasks, including those related

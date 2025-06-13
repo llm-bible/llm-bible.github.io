@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lam2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16917"}
-  - {name: "Code", url: "https://github.com/zkx06111/llm_priming"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16917'}
+  - {name: "Code", url: 'https://github.com/zkx06111/llm_priming'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 While a large body of literature suggests that large language models (LLMs)
 acquire rich linguistic representations, little is known about whether they

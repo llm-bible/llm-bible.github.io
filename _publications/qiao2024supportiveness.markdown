@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024supportiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08116"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08116'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning']
 ---
 Retrieval-augmented language models (RALMs) have recently shown great
 potential in mitigating the limitations of implicit knowledge in LLMs, such as

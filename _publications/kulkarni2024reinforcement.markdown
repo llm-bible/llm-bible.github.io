@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kulkarni2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06800"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06800'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'BERT', 'GPT', 'Reinforcement Learning']
 ---
 With the advent of Large Language Models (LLM), conversational assistants
 have become prevalent for domain use cases. LLMs acquire the ability to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10463"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10463'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Interpretability']
 ---
 News recommendations heavily rely on Natural Language Processing (NLP)
 methods to analyze, understand, and categorize content, enabling personalized

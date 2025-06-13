@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03092"}
-  - {name: "Code", url: "https://github.com/Peiyance/REVOLVE"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03092'}
+  - {name: "Code", url: 'https://github.com/Peiyance/REVOLVE'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced the ability of LLM-based systems to perform complex tasks through

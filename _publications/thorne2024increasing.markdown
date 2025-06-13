@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thorne2024increasing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08289"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08289'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic']
 ---
 As the cultural heritage sector increasingly adopts technologies like
 Retrieval-Augmented Generation (RAG) to provide more personalised search

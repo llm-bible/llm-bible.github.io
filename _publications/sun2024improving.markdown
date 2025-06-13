@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13733"}
-  - {name: "Code", url: "https://arcana-project-page.github.io"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13733'}
+  - {name: "Code", url: 'https://arcana-project-page.github.io'}
+tags: ['Has Code', 'RAG', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We focus on improving the visual understanding capability for boosting the
 vision-language models. We propose \textbf\{Arcana\}, a multiModal language

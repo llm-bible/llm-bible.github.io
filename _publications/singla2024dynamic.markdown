@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singla2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08733"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08733'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Aligning Large Language Models (LLMs) traditionally relies on costly training
 and human preference annotations. Self-alignment seeks to reduce these expenses

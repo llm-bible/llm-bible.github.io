@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07571"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Applications', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07571'}
+tags: ['Agentic', 'Security', 'Applications', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Vision-Language adaptation (VL adaptation) transforms Large Language Models
 (LLMs) into Large Vision-Language Models (LVLMs) for multimodal tasks, but this

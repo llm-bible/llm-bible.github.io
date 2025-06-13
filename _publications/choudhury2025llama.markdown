@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: choudhury2025llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06011"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06011'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 Developing high-quality large language models (LLMs) for moderately resourced
 languages presents unique challenges in data availability, model adaptation,

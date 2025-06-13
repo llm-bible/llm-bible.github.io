@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023utilizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.17780"}
-tags: ['Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.17780'}
+tags: ['Prompting', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown great success in code generation.
 LLMs take as the input a prompt and output the code. A key question is how to

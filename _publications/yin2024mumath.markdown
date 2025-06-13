@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024mumath
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07551"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07551'}
 tags: ['RAG', 'Training Techniques']
 ---
 The tool-use Large Language Models (LLMs) that integrate with external Python

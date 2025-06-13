@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kim2021learned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.00910"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.00910'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 Deploying transformer models in practice is challenging due to their
 inference cost, which scales quadratically with input sequence length. To

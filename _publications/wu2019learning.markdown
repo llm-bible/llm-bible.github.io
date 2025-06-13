@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wu2019learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.07687"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.07687'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Applications', 'Model Architecture']
 ---
 In this thesis, we leverage the neural copy mechanism and memory-augmented
 neural networks (MANNs) to address existing challenge of neural task-oriented

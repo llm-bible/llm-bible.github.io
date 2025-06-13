@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghermi2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10221"}
-tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10221'}
+tags: ['Multimodal Models', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent developments in vision-language models have significantly advanced
 video understanding. Existing datasets and tasks, however, have notable

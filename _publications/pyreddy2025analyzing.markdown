@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pyreddy2025analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06597"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06597'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The widespread adoption of generative AI has generated diverse opinions, with
 individuals expressing both support and criticism of its applications. This

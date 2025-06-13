@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: chan2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11847"}
-  - {name: "Code", url: "https://youtu.be/lWN9hXBOLyQ)"}
-  - {name: "Code", url: "https://github.com/alan-turing-institute/prompto)"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11847'}
+  - {name: "Code", url: 'https://youtu.be/lWN9hXBOLyQ)'}
+  - {name: "Code", url: 'https://github.com/alan-turing-institute/prompto)'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent surge in Large Language Model (LLM) availability has opened exciting
 avenues for research. However, efficiently interacting with these models

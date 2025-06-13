@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: song2020neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.10681"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.10681'}
+tags: ['Attention Mechanism', 'Transformer', 'SLT', 'RAG', 'WMT', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Neural machine translation (NMT) generates the next target token given as
 input the previous ground truth target tokens during training while the

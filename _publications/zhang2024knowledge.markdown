@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08039"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08039'}
 tags: ['Training Techniques']
 ---
 Hallucination is often regarded as a major impediment for using large

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: yasunaga2022deep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.09338"}
-  - {name: "Code", url: "https://github.com/michiyasunaga/dragon"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Merging', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.09338'}
+  - {name: "Code", url: 'https://github.com/michiyasunaga/dragon'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'RAG', 'BERT', 'Training Techniques', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 Pretraining a language model (LM) on text has been shown to help various
 downstream NLP tasks. Recent works show that a knowledge graph (KG) can

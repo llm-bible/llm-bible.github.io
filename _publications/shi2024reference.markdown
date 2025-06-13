@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024reference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20181"}
-  - {name: "Code", url: "https://github.com/ShiLuohe/ReferenceTrustableDecoding"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20181'}
+  - {name: "Code", url: 'https://github.com/ShiLuohe/ReferenceTrustableDecoding'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have rapidly advanced and demonstrated
 impressive capabilities. In-Context Learning (ICL) and Parameter-Efficient

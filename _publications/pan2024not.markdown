@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06809"}
-tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06809'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Tools']
 ---
 The rapid development of large language models has led to the widespread
 adoption of Retrieval-Augmented Generation (RAG), which integrates external

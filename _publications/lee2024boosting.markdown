@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15042"}
-  - {name: "Code", url: "https://github.com/SqueezeAILab/LLM2LLM"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15042'}
+  - {name: "Code", url: 'https://github.com/SqueezeAILab/LLM2LLM'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pretrained large language models (LLMs) are currently state-of-the-art for
 solving the vast majority of natural language processing tasks. While many

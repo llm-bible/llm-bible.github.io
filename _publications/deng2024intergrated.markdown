@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024intergrated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06886"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06886'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The development of Long-Context Large Language Models (LLMs) has markedly
 advanced natural language processing by facilitating the process of textual

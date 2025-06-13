@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19207"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19207'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Applications']
 ---
 With the rapid development of large-scale language models,
 Retrieval-Augmented Generation (RAG) has been widely adopted. However, existing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: petrov2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14753"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14753'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Despite the widespread adoption of prompting, prompt tuning and prefix-tuning
 of transformer models, our theoretical understanding of these fine-tuning

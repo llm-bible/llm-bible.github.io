@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: tang2023science
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.07205v3"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.07205v3'}
 tags: ['Survey Paper']
 ---
 The emergence of large language models (LLMs) has resulted in the production

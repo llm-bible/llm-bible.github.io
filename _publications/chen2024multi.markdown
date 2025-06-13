@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02457"}
-tags: ['Agentic', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02457'}
+tags: ['Agentic', 'Applications', 'Training Techniques']
 ---
 The advent of large language models (LLMs) has significantly propelled the
 advancement of Role-Playing Agents (RPAs). However, current Role-Playing Agents

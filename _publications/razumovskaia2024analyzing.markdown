@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: razumovskaia2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01929"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01929'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Supervised fine-tuning (SFT), supervised instruction tuning (SIT) and
 in-context learning (ICL) are three alternative, de facto standard approaches

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jian2024linking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14992"}
-tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14992'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Understanding connections between artificial and biological intelligent
 systems can reveal fundamental principles of general intelligence. While many

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13494"}
-  - {name: "Code", url: "https://github.com/xyq7/GradSafe"}
-tags: ['Responsible AI', 'Tools', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13494'}
+  - {name: "Code", url: 'https://github.com/xyq7/GradSafe'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Prompting', 'Responsible AI']
 ---
 Large Language Models (LLMs) face threats from jailbreak prompts. Existing
 methods for detecting jailbreak prompts are primarily online moderation APIs or

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: machlab2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08865"}
-tags: ['Fine-Tuning', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08865'}
+tags: ['Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The proliferation of Large Language Models (LLMs) highlights the critical
 importance of conducting thorough evaluations to discern their comparative

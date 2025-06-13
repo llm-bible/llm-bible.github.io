@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: jiang2019improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.09191"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.09191'}
 tags: ['RAG']
 ---
 Sequence-to-Sequence (Seq2Seq) models have achieved encouraging performance

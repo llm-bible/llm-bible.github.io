@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kersting2024harmonic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19708"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19708'}
+tags: ['Interpretability and Explainability', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Interpretability']
 ---
 We introduce an intuitive method to test the robustness (stability and
 explainability) of any black-box LLM in real-time via its local deviation from

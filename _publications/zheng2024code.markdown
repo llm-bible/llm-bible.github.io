@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10286"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10286'}
 tags: ['RAG']
 ---
 In previous studies, code-based models have consistently outperformed

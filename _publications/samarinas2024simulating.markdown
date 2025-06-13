@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: samarinas2024simulating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14772"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14772'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 This paper explores SynTOD, a new synthetic data generation approach for
 developing end-to-end Task-Oriented Dialogue (TOD) Systems capable of handling

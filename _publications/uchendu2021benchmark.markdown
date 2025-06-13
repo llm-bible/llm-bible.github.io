@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: uchendu2021benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.13296"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.13296'}
+tags: ['Language Modeling', 'Transformer', 'WMT', 'Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent progress in generative language models has enabled machines to
 generate astonishingly realistic texts. While there are many legitimate

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023free
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12945"}
-  - {name: "Code", url: "https://github.com/HITsz-TMG/ExplainCPE"}
-tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12945'}
+  - {name: "Code", url: 'https://github.com/HITsz-TMG/ExplainCPE'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'In-Context Learning', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Responsible AI']
 ---
 As ChatGPT and GPT-4 spearhead the development of Large Language Models
 (LLMs), more researchers are investigating their performance across various

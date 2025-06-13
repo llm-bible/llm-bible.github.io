@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peters2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13052"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13052'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 This study investigates the capacity of Large Language Models (LLMs) to infer
 the Big Five personality traits from free-form user interactions. The results

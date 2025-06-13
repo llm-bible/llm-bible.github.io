@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shao2025training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20595"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20595'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 We present ReasonIR-8B, the first retriever specifically trained for general
 reasoning tasks. Existing retrievers have shown limited gains on reasoning

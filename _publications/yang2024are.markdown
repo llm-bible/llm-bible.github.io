@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00423"}
-tags: ['Applications', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00423'}
+tags: ['Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have shown the impressive capability of
 answering questions in a wide range of scenarios. However, when LLMs face

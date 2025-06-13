@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024aggregate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23698"}
-tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23698'}
+tags: ['Few-Shot', 'Training Techniques', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large pretrained vision-language models like CLIP have shown promising
 generalization capability, but may struggle in specialized domains (e.g.,

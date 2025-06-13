@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: karim2025lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18018"}
-  - {name: "Code", url: "https://github.com/akarim23131/Lost_in_Cultural_Translation"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18018'}
+  - {name: "Code", url: 'https://github.com/akarim23131/Lost_in_Cultural_Translation'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have significantly advanced various fields,
 particularly coding, mathematical reasoning, and logical problem solving.

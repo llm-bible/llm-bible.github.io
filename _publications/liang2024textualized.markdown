@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024textualized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12411"}
-tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Agent', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12411'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Agent', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-thought prompting significantly boosts the reasoning ability of
 large language models but still faces three issues: hallucination problem,

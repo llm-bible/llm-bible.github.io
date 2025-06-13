@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024spotting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12689"}
-  - {name: "Code", url: "https://github.com/Linzwcs/PASTED"}
-tags: ['Tools', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12689'}
+  - {name: "Code", url: 'https://github.com/Linzwcs/PASTED'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'Prompting']
 ---
 AI-generated text detection has attracted increasing attention as powerful
 language models approach human-level generation. Limited work is devoted to

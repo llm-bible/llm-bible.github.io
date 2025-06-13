@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: sinha2025prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21015"}
-  - {name: "Code", url: "https://huggingface.co/collections/chungimungi/arxiv-hard-negatives-68027bbc601ff6cc8eb1f449"}
-tags: ['Training Techniques', 'Has Code', 'Prompting', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21015'}
+  - {name: "Code", url: 'https://huggingface.co/collections/chungimungi/arxiv-hard-negatives-68027bbc601ff6cc8eb1f449'}
+tags: ['Arxiv', 'Has Code', 'Prompting', 'Training Techniques']
 ---
 Training effective dense retrieval models often relies on hard negative (HN)
 examples mined from the document corpus via methods like BM25 or cross-encoders

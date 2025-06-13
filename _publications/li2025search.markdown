@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025search
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05366"}
-  - {name: "Code", url: "https://github.com/sunnynexus/Search-o1"}
-tags: ['Tools', 'Agentic', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05366'}
+  - {name: "Code", url: 'https://github.com/sunnynexus/Search-o1'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 Large reasoning models (LRMs) like OpenAI-o1 have demonstrated impressive
 long stepwise reasoning capabilities through large-scale reinforcement

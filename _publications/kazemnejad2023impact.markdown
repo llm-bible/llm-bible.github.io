@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kazemnejad2023impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19466"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19466'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Length generalization, the ability to generalize from small training context
 sizes to larger ones, is a critical challenge in the development of

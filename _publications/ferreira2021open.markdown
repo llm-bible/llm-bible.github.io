@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ferreira2021open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.08197"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.08197'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 Open-domain conversational search assistants aim at answering user questions
 about open topics in a conversational manner. In this paper we show how the

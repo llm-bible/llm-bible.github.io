@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gong2025latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04993"}
-tags: ['Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04993'}
+tags: ['Reinforcement Learning', 'Security', 'Tools']
 ---
 Large language models (LLMs) have achieved remarkable success, yet aligning
 their generations with human preferences remains a critical challenge. Existing

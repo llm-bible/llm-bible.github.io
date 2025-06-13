@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sheng2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05441"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05441'}
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Language Modeling', 'Model Architecture']
 ---
 Recent studies empirically indicate that language models (LMs) encode rich
 world knowledge beyond mere semantics, attracting significant attention across

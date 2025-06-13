@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.19094"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.19094'}
+tags: ['Prompting', 'Tools']
 ---
 Large language models (LLMs) have demonstrated outstanding performance across
 various tasks, yet they still exhibit limitations such as hallucination,

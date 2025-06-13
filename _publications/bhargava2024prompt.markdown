@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhargava2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13697"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13697'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Two primary ways to change LLM behavior are prompting and weight updates
 (e.g., fine-tuning). Prompting LLMs is simple and effective, specifying the

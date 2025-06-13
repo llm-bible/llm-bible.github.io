@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024go
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07870"}
-  - {name: "Code", url: "https://github.com/Keytoyze/JumpCoder"}
-tags: ['Tools', 'GPT', 'Applications', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07870'}
+  - {name: "Code", url: 'https://github.com/Keytoyze/JumpCoder'}
+tags: ['Has Code', 'GPT', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 While existing code large language models (code LLMs) exhibit impressive
 capabilities in code generation, their autoregressive sequential generation

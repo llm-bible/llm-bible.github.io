@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20781"}
-tags: ['Agentic', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20781'}
+tags: ['Reinforcement Learning', 'Agentic', 'Prompting', 'Model Architecture']
 ---
 Design Rationale (DR) for software architecture decisions refers to the
 reasoning underlying architectural choices, which provides valuable insights

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023democratizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11501"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11501'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 LoRA achieves remarkable resource efficiency and comparable performance when
 adapting LLMs for specific tasks. Since ChatGPT demonstrated superior

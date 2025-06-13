@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17838"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17838'}
 tags: ['Security']
 ---
 We introduce a novel method for real-time animation control and generation on

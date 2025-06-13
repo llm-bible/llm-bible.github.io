@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17572"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17572'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 In response to the increasing mental health challenges faced by college
 students, we sought to understand their perspectives on how AI applications,

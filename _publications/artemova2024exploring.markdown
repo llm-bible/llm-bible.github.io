@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: artemova2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02078"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02078'}
+tags: ['Transformer', 'RAG', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Mainstream cross-lingual task-oriented dialogue (ToD) systems leverage the
 transfer learning paradigm by training a joint model for intent recognition and

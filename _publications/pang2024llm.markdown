@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pang2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10851"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10851'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 In this work, we present LLM Gesticulator, an LLM-based audio-driven
 co-speech gesture generation framework that synthesizes full-body animations

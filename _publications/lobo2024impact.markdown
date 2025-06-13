@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lobo2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15382"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15382'}
+tags: ['Agentic', 'RAG', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models have emerged as powerful tools for general
 intelligence, showcasing advanced natural language processing capabilities that

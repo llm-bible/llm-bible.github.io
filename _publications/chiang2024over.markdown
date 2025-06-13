@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chiang2024over
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11467"}
-  - {name: "Code", url: "https://github.com/d223302/Over-Reasoning-of-LLMs"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11467'}
+  - {name: "Code", url: 'https://github.com/d223302/Over-Reasoning-of-LLMs'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) can solve problems step-by-step. While this

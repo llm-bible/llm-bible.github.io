@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15837"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15837'}
+tags: ['Language Modeling', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Ancient Chinese text processing presents unique challenges for large language
 models (LLMs) due to its distinct linguistic features, complex structural

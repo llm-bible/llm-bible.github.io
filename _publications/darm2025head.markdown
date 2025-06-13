@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: darm2025head
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05945"}
-  - {name: "Code", url: "https://github.com/PaulDrm/targeted_intervention"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05945'}
+  - {name: "Code", url: 'https://github.com/PaulDrm/targeted_intervention'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Robust alignment guardrails for large language models are becoming
 increasingly important with their widespread application. In contrast to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ren2025few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08661"}
-tags: ['Fine-Tuning', 'Few-Shot', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08661'}
+tags: ['Few-Shot', 'Fine-Tuning', 'Tools']
 ---
 As large language models (LLMs) advance, their ability to perform in-context
 learning and few-shot language generation has improved significantly. This has

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024electrocardiogram
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14464"}
-tags: ['Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14464'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Electrocardiogram (ECG) interpretation requires specialized expertise, often
 involving synthesizing insights from ECG signals with complex clinical queries

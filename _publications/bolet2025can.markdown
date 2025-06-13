@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bolet2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03988"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03988'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Accurate determination of the performance of parallel GPU code typically
 requires execution-time profiling on target hardware -- an increasingly

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lauro2025rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13587"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13587'}
 tags: ['RAG', 'Tools']
 ---
 Retrieval-augmented generation (RAG) pipelines have become the de-facto

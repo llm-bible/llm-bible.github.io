@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: addanki2023one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14652"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14652'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Attention computation takes both the time complexity of \\(O(n^2)\\) and the
 space complexity of \\(O(n^2)\\) simultaneously, which makes deploying Large

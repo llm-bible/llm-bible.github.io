@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: harris2025should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00225"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00225'}
 tags: ['Fine-Tuning', 'Agentic']
 ---
 We evaluate the ability of the current generation of large language models

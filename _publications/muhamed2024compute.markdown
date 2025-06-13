@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: muhamed2024compute
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17660"}
-  - {name: "Code", url: "https://github.com/aashiqmuhamed/GRASS"}
-tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17660'}
+  - {name: "Code", url: 'https://github.com/aashiqmuhamed/GRASS'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Pretraining Methods']
 ---
 Large language model (LLM) training and finetuning are often bottlenecked by
 limited GPU memory. While existing projection-based optimization methods

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: nadejde2017predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1702.01147"}
-tags: ['Training Techniques', 'WMT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1702.01147'}
+tags: ['Reinforcement Learning', 'WMT', 'Applications', 'Training Techniques']
 ---
 Neural machine translation (NMT) models are able to partially learn syntactic
 information from sequential lexical information. Still, some complex syntactic

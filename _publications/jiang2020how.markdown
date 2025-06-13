@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: jiang2020how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.00955"}
-  - {name: "Code", url: "https://github.com/jzbjyb/lm-calibration"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.00955'}
+  - {name: "Code", url: 'https://github.com/jzbjyb/lm-calibration'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Recent works have shown that language models (LM) capture different types of
 knowledge regarding facts or common sense. However, because no model is

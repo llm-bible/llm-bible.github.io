@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024out
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09503"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09503'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) such as GPT-4 sometimes appear to be creative,
 solving novel tasks often with a few demonstrations in the prompt. These tasks

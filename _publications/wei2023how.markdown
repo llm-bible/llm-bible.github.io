@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wei2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02483"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02483'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large language models trained for safety and harmlessness remain susceptible
 to adversarial misuse, as evidenced by the prevalence of "jailbreak" attacks on

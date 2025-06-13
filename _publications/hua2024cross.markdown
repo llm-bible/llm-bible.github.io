@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hua2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12353"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12353'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Video summarization aims to create short, accurate, and cohesive summaries of
 longer videos. Despite the existence of various video summarization datasets, a

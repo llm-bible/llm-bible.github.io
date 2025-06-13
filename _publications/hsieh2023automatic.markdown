@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hsieh2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10117"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10117'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in

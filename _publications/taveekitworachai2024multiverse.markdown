@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: taveekitworachai2024multiverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14672"}
-tags: ['Tools', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14672'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Tools']
 ---
 This paper presents Dynamic Context Prompting/Programming (DCP/P), a novel
 framework for interacting with LLMs to generate graph-based content with a

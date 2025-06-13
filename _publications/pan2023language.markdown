@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07889"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07889'}
 tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We explore the use of language as a perceptual representation for

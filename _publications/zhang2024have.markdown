@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024have
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00244"}
-tags: ['Fine-Tuning', 'Applications', 'Prompting', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00244'}
+tags: ['Fine-Tuning', 'Language Modeling', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have demonstrated exceptional performance in
 text generation within current NLP research. However, the lack of factual

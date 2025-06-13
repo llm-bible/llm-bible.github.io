@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhan2024prefix
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16766"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16766'}
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 While supervised fine-tuning (SFT) has been a straightforward approach for
 tailoring the output of foundation large language model (LLM) to specific

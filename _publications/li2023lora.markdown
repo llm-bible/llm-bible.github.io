@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08659"}
-  - {name: "Code", url: "https://github.com/yxli2123/LoftQ"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08659'}
+  - {name: "Code", url: 'https://github.com/yxli2123/LoftQ'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Quantization is an indispensable technique for serving Large Language Models
 (LLMs) and has recently found its way into LoRA fine-tuning. In this work we

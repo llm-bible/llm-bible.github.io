@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: diandaru2024could
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13917"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13917'}
 tags: ['Training Techniques', 'Applications']
 ---
 Large Language Models (LLMs) demonstrate strong machine translation

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: atuhurra2024constructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15359"}
-tags: ['Multimodal Models', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15359'}
+tags: ['Prompting', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Large language models (LLMs) have increased interest in vision language
 models (VLMs), which process image-text pairs as input. Studies investigating

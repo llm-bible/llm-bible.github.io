@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00812"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00812'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the remarkable capabilities, large language models (LLMs) have emerged
 as essential elements in numerous NLP applications, while parameter-efficient

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hasan2023textualize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.15430"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.15430'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'BERT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Pre-trained large language models have recently achieved ground-breaking
 performance in a wide variety of language understanding tasks. However, the

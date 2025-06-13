@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fei2025path
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04620"}
-tags: ['Tools', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04620'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Tools']
 ---
 The Multimodal Large Language Model (MLLM) is currently experiencing rapid
 growth, driven by the advanced capabilities of LLMs. Unlike earlier

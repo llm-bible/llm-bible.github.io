@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.00635"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.00635'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Pretrained large language models (LLMs) are general purpose problem solvers
 applicable to a diverse set of tasks with prompts. They can be further improved

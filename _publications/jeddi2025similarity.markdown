@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jeddi2025similarity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11549"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11549'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Pruning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The computational demands of Vision Transformers (ViTs) and Vision-Language
 Models (VLMs) remain a significant challenge due to the quadratic complexity of

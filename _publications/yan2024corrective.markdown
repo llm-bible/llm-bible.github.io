@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024corrective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15884"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15884'}
 tags: ['RAG', 'Security']
 ---
 Large language models (LLMs) inevitably exhibit hallucinations since the

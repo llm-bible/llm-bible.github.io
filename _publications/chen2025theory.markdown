@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025theory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00026"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00026'}
 tags: ['Survey Paper']
 ---
 Theory of Mind (ToM)-the ability to infer and reason about others' mental

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: adamson2025replicating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12357"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12357'}
 tags: ['Ethics and Bias', 'Applications']
 ---
 Validating Large Language Models with ReLM explores the application of formal

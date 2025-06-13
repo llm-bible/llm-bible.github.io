@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02906"}
-tags: ['Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02906'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting']
 ---
 Large language models (LLMs) have made significant strides at code generation
 through improved model design, training, and chain-of-thought. However,

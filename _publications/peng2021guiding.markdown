@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: peng2021guiding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08596"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08596'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Automated storytelling has long captured the attention of researchers for the
 ubiquity of narratives in everyday life. However, it is challenging to maintain

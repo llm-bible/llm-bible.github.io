@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024group
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15027"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15027'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 While large language models (LLMs) have revolutionized natural language
 processing with their task-agnostic capabilities, visual generation tasks such

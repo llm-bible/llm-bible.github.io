@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: njifenjou2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18460"}
-tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18460'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recently, various methods have been proposed to create open-domain
 conversational agents with Large Language Models (LLMs). These models are able

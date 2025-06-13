@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024mqm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14335"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14335'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) have shown significant potential as judges for
 Machine Translation (MT) quality assessment, providing both scores and

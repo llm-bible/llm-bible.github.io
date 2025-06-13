@@ -6,8 +6,8 @@ conference: "NAACL 2025"
 year: 2024
 bibkey: yu2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16646"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16646'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reward modeling is crucial for aligning large language models (LLMs) with
 human preferences, especially in reinforcement learning from human feedback

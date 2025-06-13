@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00353"}
-tags: ['Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00353'}
+tags: ['Prompting', 'Security']
 ---
 Chain-of-thought (CoT) prompting has significantly enhanced the capability of
 large language models (LLMs) by structuring their reasoning processes. However,

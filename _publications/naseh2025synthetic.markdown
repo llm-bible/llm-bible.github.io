@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: naseh2025synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11786"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11786'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 Recent work shows membership inference attacks (MIAs) on large language
 models (LLMs) produce inconclusive results, partly due to difficulties in

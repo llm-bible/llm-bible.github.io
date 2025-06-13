@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: choksi2023whose
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.02839"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'TACL', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.02839'}
+tags: ['ACL', 'Tools', 'TACL', 'Ethics and Bias', 'Responsible AI']
 ---
 Intelligent or generative writing tools rely on large language models that
 recognize, summarize, translate, and predict content. This position paper

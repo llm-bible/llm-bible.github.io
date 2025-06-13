@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chang2021neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.03556"}
-tags: ['GPT', 'Applications', 'TACL', 'Language Modeling', 'Model Architecture', 'ACL', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.03556'}
+tags: ['Language Modeling', 'ACL', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'TACL']
 ---
 For many new application domains for data-to-text generation, the main
 obstacle in training neural models consists of a lack of training data. While

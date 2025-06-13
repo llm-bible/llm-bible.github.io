@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ju2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07715"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07715'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In 2022, with the release of ChatGPT, large-scale language models gained
 widespread attention. ChatGPT not only surpassed previous models in terms of

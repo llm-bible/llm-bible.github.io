@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: he2022prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.00759"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.00759'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Prompt-Tuning is a new paradigm for finetuning pre-trained language models in
 a parameter-efficient way. Here, we explore the use of HyperNetworks to

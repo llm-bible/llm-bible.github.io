@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: su2025distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10538"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10538'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Session-based recommendation (SBR) predicts the next item based on anonymous
 sessions. Traditional SBR explores user intents based on ID collaborations or

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08475"}
-  - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
-tags: ['Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08475'}
+  - {name: "Code", url: 'https://github.com/zjunlp/EasyEdit'}
+tags: ['Has Code', 'Multimodal Models']
 ---
 In this paper, we focus on editing Multimodal Large Language Models (MLLMs).
 Compared to editing single-modal LLMs, multimodal model editing is more

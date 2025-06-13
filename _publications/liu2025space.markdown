@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025space
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13423"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13423'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Tokenization', 'Pretraining Methods']
 ---
 The assumption across nearly all language model (LM) tokenization schemes is
 that tokens should be subwords, i.e., contained within word boundaries. While

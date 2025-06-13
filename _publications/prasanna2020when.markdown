@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: prasanna2020when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.00561"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00561'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'BERT', 'Model Architecture', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Transformer-based models were shown to be reducible to a smaller number
 of self-attention heads and layers. We consider this phenomenon from the

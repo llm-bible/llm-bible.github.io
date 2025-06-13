@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03411"}
-  - {name: "Code", url: "https://github.com/Saehyung-Lee/PlugIR"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03411'}
+  - {name: "Code", url: 'https://github.com/Saehyung-Lee/PlugIR'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we primarily address the issue of dialogue-form context query
 within the interactive text-to-image retrieval task. Our methodology, PlugIR,

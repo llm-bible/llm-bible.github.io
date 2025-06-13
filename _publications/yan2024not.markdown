@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12850"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12850'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) excel in modeling complex
 language patterns but face significant computational costs during inference,

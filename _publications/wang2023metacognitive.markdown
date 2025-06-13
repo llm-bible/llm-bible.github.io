@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023metacognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.05342"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.05342'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 In Large Language Models (LLMs), there have been consistent advancements in
 task-specific performance, largely influenced by effective prompt design.

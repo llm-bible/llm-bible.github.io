@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ding2020ernie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15688"}
-tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15688'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Transformers are not suited for processing long documents, due to their
 quadratically increasing memory and time consumption. Simply truncating a long

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sundar2023augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.12024"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.12024'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Optimizing accuracy and performance while eliminating hallucinations of

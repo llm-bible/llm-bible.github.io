@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025potential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11531"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11531'}
 tags: ['RAG', 'Survey Paper']
 ---
 The increasing amount of pressure related to water and energy shortages has

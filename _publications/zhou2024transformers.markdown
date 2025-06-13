@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05493"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05493'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models have demonstrated impressive in-context learning (ICL)
 capability. However, it is still unclear how the underlying transformers

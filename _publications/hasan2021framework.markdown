@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: hasan2021framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08301"}
-  - {name: "Code", url: "https://github.com/text2app/Text2App"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08301'}
+  - {name: "Code", url: 'https://github.com/text2app/Text2App'}
+tags: ['Has Code', 'Tools', 'Applications', 'GPT', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 We present Text2App -- a framework that allows users to create functional
 Android applications from natural language specifications. The conventional

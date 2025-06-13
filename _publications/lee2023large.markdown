@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14804"}
-  - {name: "Code", url: "https://github.com/passing2961/DribeR"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14804'}
+  - {name: "Code", url: 'https://github.com/passing2961/DribeR'}
+tags: ['Has Code', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This paper explores the image-sharing capability of Large Language Models
 (LLMs), such as GPT-4 and LLaMA 2, in a zero-shot setting. To facilitate a

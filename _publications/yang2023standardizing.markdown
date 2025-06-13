@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023standardizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14898"}
-  - {name: "Code", url: "https://intercode-benchmark.github.io"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14898'}
+  - {name: "Code", url: 'https://intercode-benchmark.github.io'}
+tags: ['Has Code', 'RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Humans write code in a fundamentally interactive manner and rely on constant
 execution feedback to correct errors, resolve ambiguities, and decompose tasks.

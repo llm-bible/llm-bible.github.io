@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: haque2025catastrophic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01241"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01241'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have significantly advanced Natural Language
 Processing (NLP), particularly in Natural Language Understanding (NLU) tasks.

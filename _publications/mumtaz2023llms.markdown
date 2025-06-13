@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mumtaz2023llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.12882"}
-tags: ['Survey Paper', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.12882'}
+tags: ['Reinforcement Learning', 'Applications', 'Survey Paper']
 ---
 We aim to present a comprehensive overview of the latest advancements in
 utilizing Large Language Models (LLMs) within the healthcare sector,

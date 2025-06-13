@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06574"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06574'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable achievements across
 various language tasks.To enhance the performance of LLMs in scientific

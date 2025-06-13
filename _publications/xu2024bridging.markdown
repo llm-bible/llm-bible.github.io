@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09492"}
-tags: ['RAG', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09492'}
+tags: ['Reinforcement Learning', 'RAG', 'Language Modeling', 'Applications']
 ---
 Ensembling different large language models (LLMs) to unleash their
 complementary potential and harness their individual strengths is highly

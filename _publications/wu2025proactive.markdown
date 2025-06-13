@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025proactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07316"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07316'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 The growing capabilities of large language models (LLMs) present a key
 challenge of maintaining effective human oversight. Weak-to-strong

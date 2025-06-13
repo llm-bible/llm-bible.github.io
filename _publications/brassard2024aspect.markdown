@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: brassard2024aspect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04818"}
-  - {name: "Code", url: "https://github.com/a-brassard/ACORN"}
-tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04818'}
+  - {name: "Code", url: 'https://github.com/a-brassard/ACORN'}
+tags: ['RAG', 'Has Code', 'Efficiency and Optimization', 'Interpretability and Explainability']
 ---
 Evaluating the quality of free-text explanations is a multifaceted,
 subjective, and labor-intensive task. Large language models (LLMs) present an

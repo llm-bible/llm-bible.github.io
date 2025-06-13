@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024turning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12281"}
-tags: ['Fine-Tuning', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12281'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The increasing use of large language models (LLMs) trained by third parties
 raises significant security concerns. In particular, malicious actors can

@@ -6,11 +6,11 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024dissecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11296"}
-  - {name: "Code", url: "https://huggingface.co/spaces/GAIR/Preference-Dissection-Visualization"}
-  - {name: "Code", url: "https://huggingface.co/datasets/GAIR/preference-dissection"}
-  - {name: "Code", url: "https://github.com/GAIR-NLP/Preference-Dissection"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11296'}
+  - {name: "Code", url: 'https://huggingface.co/spaces/GAIR/Preference-Dissection-Visualization'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/GAIR/preference-dissection'}
+  - {name: "Code", url: 'https://github.com/GAIR-NLP/Preference-Dissection'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 As a relative quality comparison of model responses, human and Large Language
 Model (LLM) preferences serve as common alignment goals in model fine-tuning

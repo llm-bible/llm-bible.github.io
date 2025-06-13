@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03085"}
-  - {name: "Code", url: "https://github.com/TingJShen/URLLM"}
-tags: ['Tools', 'Pretraining Methods', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03085'}
+  - {name: "Code", url: 'https://github.com/TingJShen/URLLM'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools', 'Pretraining Methods']
 ---
 Cross-Domain Sequential Recommendation (CDSR) aims to mine and transfer
 users' sequential preferences across different domains to alleviate the

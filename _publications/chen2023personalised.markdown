@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023personalised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18628"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18628'}
+tags: ['Efficiency and Optimization', 'Distillation', 'GPT', 'Model Architecture', 'Applications', 'Prompting']
 ---
 With the rise of powerful closed-sourced LLMs (ChatGPT, GPT-4), there are
 increasing interests in distilling the capabilies of close-sourced LLMs to

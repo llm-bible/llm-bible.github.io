@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: albert2024reproducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06932"}
-tags: ['Fine-Tuning', 'RAG', 'Agentic']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06932'}
+tags: ['RAG', 'Fine-Tuning', 'Agentic']
 ---
 In this study, we propose LLM agents as a novel approach in behavioral
 strategy research, complementing simulations and laboratory experiments to

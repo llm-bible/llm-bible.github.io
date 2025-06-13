@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: valipour2022parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.07558"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.07558'}
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 With the ever-growing size of pretrained models (PMs), fine-tuning them has
 become more expensive and resource-hungry. As a remedy, low-rank adapters

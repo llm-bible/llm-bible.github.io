@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: hupkes2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10356"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10356'}
 tags: ['RAG']
 ---
 We present MultiLoKo, a new benchmark for evaluating multilinguality in LLMs

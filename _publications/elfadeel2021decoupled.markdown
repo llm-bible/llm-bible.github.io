@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: elfadeel2021decoupled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.02765"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.02765'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'BERT', 'Pretraining Methods']
 ---
 Large transformer models, such as BERT, achieve state-of-the-art results in
 machine reading comprehension (MRC) for open-domain question answering (QA).

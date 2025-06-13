@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025ensembles
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00089"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00089'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The training and fine-tuning of large language models (LLMs) often involve
 diverse textual data from multiple sources, which poses challenges due to

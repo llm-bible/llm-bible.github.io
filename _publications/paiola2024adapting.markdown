@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: paiola2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00163"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00163'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 This study evaluates the performance of large language models (LLMs) as
 medical agents in Portuguese, aiming to develop a reliable and relevant virtual

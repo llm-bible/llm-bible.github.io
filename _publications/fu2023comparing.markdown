@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13382"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13382'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Traditionally, writing assistance systems have focused on short or even
 single-word suggestions. Recently, large language models like GPT-3 have made

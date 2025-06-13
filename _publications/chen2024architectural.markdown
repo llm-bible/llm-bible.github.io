@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024architectural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17255"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Agent', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17255'}
+tags: ['Agentic', 'Agent', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We present APT, an advanced Large Language Model (LLM)-driven framework that
 enables autonomous agents to construct complex and creative structures within

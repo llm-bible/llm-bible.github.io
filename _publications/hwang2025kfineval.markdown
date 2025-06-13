@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hwang2025kfineval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13216"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13216'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 We introduce KFinEval-Pilot, a benchmark suite specifically designed to
 evaluate large language models (LLMs) in the Korean financial domain.

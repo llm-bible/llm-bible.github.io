@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kenneweg2025benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01325"}
-tags: ['Survey Paper', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01325'}
+tags: ['Reinforcement Learning', 'Applications', 'Survey Paper']
 ---
 Understanding and resolving temporal references is essential in Natural
 Language Understanding as we often refer to the past or future in daily

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: şahinuç2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04046"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04046'}
+tags: ['Language Modeling', 'Tools', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) bring unprecedented flexibility in defining and
 executing complex, creative natural language generation (NLG) tasks. Yet, this

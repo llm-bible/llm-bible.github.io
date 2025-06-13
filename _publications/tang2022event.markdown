@@ -6,8 +6,8 @@ conference: "EMNLP 2022 Findings"
 year: 2022
 bibkey: tang2022event
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.12463"}
-tags: ['RAG', 'Attention Mechanism', 'Transformer', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.12463'}
+tags: ['Attention Mechanism', 'RAG', 'Transformer', 'Model Architecture']
 ---
 One of the key challenges of automatic story generation is how to generate a
 long narrative that can maintain fluency, relevance, and coherence. Despite

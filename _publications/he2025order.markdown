@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025order
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19907"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/Order-Centric-Data-Augmentation-822C/"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19907'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/Order-Centric-Data-Augmentation-822C/'}
+tags: ['RAG', 'Has Code', 'Tools', 'Training Techniques']
 ---
 Logical reasoning is essential for large language models (LLMs) to ensure
 accurate and coherent inference. However, LLMs struggle with reasoning order

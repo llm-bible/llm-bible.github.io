@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: johnson2024development
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02811"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02811'}
 tags: ['RAG']
 ---
 This paper presents and evaluates a new retrieval augmented generation (RAG)

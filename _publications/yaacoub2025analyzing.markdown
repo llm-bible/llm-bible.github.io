@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yaacoub2025analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21013"}
-tags: ['BERT', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21013'}
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'BERT', 'Model Architecture']
 ---
 Artificial Intelligence (AI)-generated feedback in educational settings has
 garnered considerable attention due to its potential to enhance learning

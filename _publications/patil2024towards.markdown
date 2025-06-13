@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: patil2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13269"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13269'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The paper studies how code generation by LLMs can be combined with formal
 verification to produce critical embedded software. The first contribution is a

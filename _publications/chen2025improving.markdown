@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08468"}
-  - {name: "Code", url: "https://github.com/haon-chen/mmE5"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08468'}
+  - {name: "Code", url: 'https://github.com/haon-chen/mmE5'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal embedding models have gained significant attention for their
 ability to map data from different modalities, such as text and images, into a

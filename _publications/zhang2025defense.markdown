@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025defense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07467"}
-tags: ['Responsible AI', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07467'}
+tags: ['Prompting', 'Security', 'Responsible AI']
 ---
 Large Language Models (LLMs) have emerged as a dominant approach for a wide
 range of NLP tasks, with their access to external information further enhancing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lewkowycz2022solving
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2206.14858v2"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2206.14858v2'}
+tags: ['Reinforcement Learning', 'Applications', 'Tools']
 ---
 Language models have achieved remarkable performance on a wide range of tasks
 that require natural language understanding. Nevertheless, state-of-the-art

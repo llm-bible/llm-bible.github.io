@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: dai2021knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08696"}
-  - {name: "Code", url: "https://github.com/Hunter-DDM/knowledge-neurons"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08696'}
+  - {name: "Code", url: 'https://github.com/Hunter-DDM/knowledge-neurons'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large-scale pretrained language models are surprisingly good at recalling
 factual knowledge presented in the training corpus. In this paper, we present

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: siriwardhana2021fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.11517"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.11517'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 In this paper, we illustrate how to fine-tune the entire Retrieval Augment
 Generation (RAG) architecture in an end-to-end manner. We highlighted the main

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025pushing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19898"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19898'}
+tags: ['Agentic', 'RAG', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 As a fundamental task in machine learning, text classification plays a
 crucial role in many areas. With the rapid scaling of Large Language Models

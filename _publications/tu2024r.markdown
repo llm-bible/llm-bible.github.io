@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tu2024r
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11681"}
-  - {name: "Code", url: "https://github.com/THU-KEG/R-Eval"}
-tags: ['RAG', 'Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11681'}
+  - {name: "Code", url: 'https://github.com/THU-KEG/R-Eval'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Tools']
 ---
 Large language models have achieved remarkable success on general NLP tasks,
 but they may fall short for domain-specific problems. Recently, various

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: panas2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19432"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19432'}
 tags: ['GPT', 'Model Architecture']
 ---
 Two major areas of interest in the era of Large Language Models regard

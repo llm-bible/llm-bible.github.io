@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: agrawal2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18006"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18006'}
 tags: ['GPT', 'Model Architecture']
 ---
 Recent large language models (LLMs) demonstrate impressive capabilities in

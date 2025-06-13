@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gunturu2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18620"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18620'}
+tags: ['Reinforcement Learning', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) are gaining popularity as tools for reading and
 summarization aids. However, little is known about their potential benefits

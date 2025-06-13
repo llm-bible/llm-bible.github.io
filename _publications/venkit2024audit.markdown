@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: venkit2024audit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07461"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07461'}
 tags: ['Tools', 'Survey Paper']
 ---
 We audit how hallucination in large language models (LLMs) is characterized

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024survey
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2401.08092v2"}
-tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2401.08092v2'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large foundation models, including large language models (LLMs), vision
 transformers (ViTs), diffusion, and LLM-based multimodal models, are

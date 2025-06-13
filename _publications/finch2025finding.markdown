@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: finch2025finding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03441"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03441'}
+tags: ['GPT', 'Fine-Tuning', 'Applications', 'Model Architecture']
 ---
 As chatbots become increasingly integrated into everyday tasks, designing
 systems that accommodate diverse user populations is crucial for fostering

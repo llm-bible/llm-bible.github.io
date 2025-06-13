@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: shah2020reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.00669"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.00669'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 While neural models have been shown to exhibit strong performance on
 single-turn visual question answering (VQA) tasks, extending VQA to a

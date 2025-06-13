@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025spark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01710"}
-  - {name: "Code", url: "https://github.com/SparkAudio/Spark-TTS"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01710'}
+  - {name: "Code", url: 'https://github.com/SparkAudio/Spark-TTS'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) have driven significant
 progress in zero-shot text-to-speech (TTS) synthesis. However, existing

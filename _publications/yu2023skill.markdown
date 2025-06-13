@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023skill
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17567"}
-tags: ['Training Techniques', 'Agentic', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17567'}
+tags: ['Training Techniques', 'Agentic', 'Model Architecture', 'GPT']
 ---
 With LLMs shifting their role from statistical modeling of language to
 serving as general-purpose AI agents, how should LLM evaluations change?

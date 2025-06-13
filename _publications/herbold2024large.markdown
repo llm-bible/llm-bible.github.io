@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: herbold2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12855"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12855'}
 tags: ['Uncategorized']
 ---
 Modern AI technology like Large language models (LLMs) has the potential to

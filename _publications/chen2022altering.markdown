@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022altering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.06679"}
-  - {name: "Code", url: "https://github.com/FlagAI-Open/FlagAI"}
-tags: ['Training Techniques', 'Multimodal Models', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.06679'}
+  - {name: "Code", url: 'https://github.com/FlagAI-Open/FlagAI'}
+tags: ['Has Code', 'Multimodal Models', 'Training Techniques', 'Pretraining Methods']
 ---
 In this work, we present a conceptually simple and effective method to train
 a strong bilingual/multilingual multimodal representation model. Starting from

@@ -6,8 +6,8 @@ conference: "Transactions on Machine Learning Research (2024)"
 year: 2023
 bibkey: chen2023two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14279"}
-tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14279'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have achieved widespread success on a variety of
 in-context few-shot tasks, but this success is typically evaluated via

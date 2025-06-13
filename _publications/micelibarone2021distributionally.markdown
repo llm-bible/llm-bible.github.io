@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: micelibarone2021distributionally
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.13229"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.13229'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Neural machine learning models can successfully model language that is
 similar to their training distribution, but they are highly susceptible to

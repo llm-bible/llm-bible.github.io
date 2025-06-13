@@ -6,8 +6,8 @@ conference: "Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
 year: 2019
 bibkey: sahay2019modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1912.10130"}
-tags: ['Agentic', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1912.10130'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Training Techniques', 'Model Architecture']
 ---
 Building a machine learning driven spoken dialog system for goal-oriented
 interactions involves careful design of intents and data collection along with

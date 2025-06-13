@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lv2025hardware
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00784"}
-  - {name: "Code", url: "https://github.com/KaiLv69/DuoDecoding"}
-tags: ['Tools', 'GPT', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00784'}
+  - {name: "Code", url: 'https://github.com/KaiLv69/DuoDecoding'}
+tags: ['GPT', 'Has Code', 'Tools', 'Pretraining Methods']
 ---
 Large language models (LLMs) exhibit exceptional performance across a wide
 range of tasks; however, their token-by-token autoregressive generation process

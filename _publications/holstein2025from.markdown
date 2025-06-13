@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: holstein2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02780"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02780'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Tools']
 ---
 The rise of Generative AI, and Large Language Models (LLMs) in particular, is
 fundamentally changing cognitive processes in knowledge work, raising critical

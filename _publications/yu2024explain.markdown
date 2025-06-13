@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024explain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12276"}
-tags: ['Interpretability and Explainability', 'TACL', 'ACL', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12276'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'TACL', 'ACL']
 ---
 In search settings, calibrating the scores during the ranking process to
 quantities such as click-through rates or relevance levels enhances a system's

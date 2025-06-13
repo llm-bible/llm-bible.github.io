@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023xdial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08958"}
-  - {name: "Code", url: "https://github.com/e0397123/xDial-Eval"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08958'}
+  - {name: "Code", url: 'https://github.com/e0397123/xDial-Eval'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Applications']
 ---
 Recent advancements in reference-free learned metrics for open-domain
 dialogue evaluation have been driven by the progress in pre-trained language

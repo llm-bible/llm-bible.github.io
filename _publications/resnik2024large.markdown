@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: resnik2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13138"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13138'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 This position paper's primary goal is to provoke thoughtful discussion about
 the relationship between bias and fundamental properties of large language

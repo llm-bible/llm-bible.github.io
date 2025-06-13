@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07111"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07111'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 This technical report presents our initial attempt to build a spoken large
 language model (LLM) for Taiwanese Mandarin, specifically tailored to enable

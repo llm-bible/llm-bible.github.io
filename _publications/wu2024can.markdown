@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05045"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05045'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in natural
 language processing, mathematical problem solving, and tasks related to program

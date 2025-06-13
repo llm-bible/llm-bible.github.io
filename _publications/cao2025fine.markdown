@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cao2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11090"}
-tags: ['Responsible AI', 'Security', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11090'}
+tags: ['Security', 'Responsible AI', 'Tools']
 ---
 With the rapid advancement of Large Language Models (LLMs), the safety of
 LLMs has been a critical concern requiring precise assessment. Current

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: krause2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01080"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01080'}
+tags: ['Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting']
 ---
 This paper discusses our approaches for task-oriented conversational
 modelling using subjective knowledge, with a particular emphasis on response

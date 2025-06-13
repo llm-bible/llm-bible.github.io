@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023mixed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10730"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10730'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 While large language models (LLMs) have demonstrated exceptional performance
 in recent natural language processing (NLP) tasks, their deployment poses

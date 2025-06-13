@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: radha2024iteration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12618"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12618'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 Iterative human engagement is a common and effective means of leveraging the
 advanced language processing power of large language models (LLMs). Using

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024disentangling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16570"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16570'}
 tags: ['Few-Shot', 'Applications']
 ---
 This paper studies the problem of information retrieval, to adapt to unseen

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18304"}
-  - {name: "Code", url: "https://github.com/VIROBO-15/MGCC"}
-tags: ['RAG', 'Merging', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18304'}
+  - {name: "Code", url: 'https://github.com/VIROBO-15/MGCC'}
+tags: ['Has Code', 'RAG', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In this work, we study the problem of generating novel images from complex
 multimodal prompt sequences. While existing methods achieve promising results

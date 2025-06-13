@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12869"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12869'}
 tags: ['RAG', 'Tools', 'Applications']
 ---
 Despite the remarkable success of Large Language Models (LLMs), evaluating

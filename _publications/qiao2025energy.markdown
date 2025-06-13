@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiao2025energy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16266"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16266'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Quantization', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Deploying large language models (LLMs) on edge platforms is challenged by
 their high computational and memory demands. Although recent low-bit

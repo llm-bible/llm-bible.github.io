@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: cai2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.08014"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.08014'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) such as ChatGPT and Vicuna have shown remarkable

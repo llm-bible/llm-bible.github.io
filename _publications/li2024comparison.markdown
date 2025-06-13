@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024comparison
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15489"}
-  - {name: "Code", url: "https://github.com/Helsinki-NLP/lm-vs-mt"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15489'}
+  - {name: "Code", url: 'https://github.com/Helsinki-NLP/lm-vs-mt'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pretrained language models (PLMs) display impressive performances and have
 captured the attention of the NLP community. Establishing best practices in

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: gu2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07525"}
-  - {name: "Code", url: "https://github.com/difeigu/RadAlign"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07525'}
+  - {name: "Code", url: 'https://github.com/difeigu/RadAlign'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Tools', 'Prompting', 'Multimodal Models']
 ---
 Automated chest radiographs interpretation requires both accurate disease
 classification and detailed radiology report generation, presenting a

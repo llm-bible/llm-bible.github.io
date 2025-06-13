@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: beck2023deconstructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07034"}
-  - {name: "Code", url: "https://github.com/UKPLab/arxiv2023-sociodemographic-prompting"}
-tags: ['Applications', 'Security', 'Has Code', 'Prompting', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07034'}
+  - {name: "Code", url: 'https://github.com/UKPLab/arxiv2023-sociodemographic-prompting'}
+tags: ['Arxiv', 'Has Code', 'Security', 'Applications', 'Prompting']
 ---
 Annotators' sociodemographic backgrounds (i.e., the individual compositions
 of their gender, age, educational background, etc.) have a strong impact on

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: evuru2024constrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00415"}
-  - {name: "Code", url: "https://github.com/Sreyan88/CoDa"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00415'}
+  - {name: "Code", url: 'https://github.com/Sreyan88/CoDa'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We present CoDa (Constrained Generation based Data Augmentation), a
 controllable, effective, and training-free data augmentation technique for

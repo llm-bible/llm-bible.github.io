@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: slagle2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14408"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14408'}
+tags: ['Language Modeling', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Tokenization', 'Pretraining Methods']
 ---
 Tokenization is widely used in large language models because it significantly
 improves performance. However, tokenization imposes several disadvantages, such

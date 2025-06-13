@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024struct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12522"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12522'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Prompting']
 ---
 Structured data, rich in logical and relational information, has the
 potential to enhance the reasoning abilities of large language models (LLMs).

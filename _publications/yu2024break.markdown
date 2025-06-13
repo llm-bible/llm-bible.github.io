@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024break
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18262"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18262'}
 tags: ['Fine-Tuning', 'Tools', 'Model Architecture']
 ---
 The recent breakthrough of large language models (LLMs) in natural language

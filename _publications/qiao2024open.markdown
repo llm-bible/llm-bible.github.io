@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18794"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18794'}
 tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Vision-and-Language Navigation (VLN) tasks require an agent to follow textual

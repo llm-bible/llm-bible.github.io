@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18191"}
-  - {name: "Code", url: "https://github.com/InezYu0928/in-context-learning"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18191'}
+  - {name: "Code", url: 'https://github.com/InezYu0928/in-context-learning'}
+tags: ['Has Code', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recently, the mysterious In-Context Learning (ICL) ability exhibited by
 Transformer architectures, especially in large language models (LLMs), has

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sanovar2024lean
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10480"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10480'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Transformer-based models have emerged as one of the most widely used
 architectures for natural language processing, natural language generation, and

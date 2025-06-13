@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14100"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14100'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) enhanced with external contexts, such as through
 retrieval-augmented generation (RAG), often face challenges in handling

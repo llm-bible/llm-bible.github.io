@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: alfugaha2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15810"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15810'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 This study evaluates the performance of Large Language Models (LLMs) on
 SemEval-2020 Task 4 dataset, focusing on commonsense validation and

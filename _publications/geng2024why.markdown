@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: geng2024why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13923"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Dataset', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13923'}
+tags: ['Dataset', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Responsible AI']
 ---
 The scarcity of non-English data limits the development of non-English large
 language models (LLMs). Transforming English-centric LLMs to non-English has

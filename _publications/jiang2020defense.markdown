@@ -6,8 +6,8 @@ conference: "CVPR 2020"
 year: 2020
 bibkey: jiang2020defense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2001.03615"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2001.03615'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training']
 ---
 Popularized as 'bottom-up' attention, bounding box (or region) based visual
 features have recently surpassed vanilla grid-based convolutional features as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: elsner2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09778"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'ACL', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09778'}
+tags: ['ACL', 'Model Architecture', 'BERT', 'Prompting', 'Reinforcement Learning']
 ---
 Partly automated creation of interlinear glossed text (IGT) has the potential
 to assist in linguistic documentation. We argue that LLMs can make this process

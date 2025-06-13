@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: jeblick2022chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.14882"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.14882'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting']
 ---
 The release of ChatGPT, a language model capable of generating text that
 appears human-like and authentic, has gained significant attention beyond the

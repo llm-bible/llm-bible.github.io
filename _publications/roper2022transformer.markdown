@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: roper2022transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.09246"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.09246'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in large pre-trained transformer models (GPT2/3, T5) have

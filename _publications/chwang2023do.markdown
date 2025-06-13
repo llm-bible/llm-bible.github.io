@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chwang2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17249"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17249'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We design probes trained on the internal representations of a transformer
 language model to predict its hallucinatory behavior on three grounded

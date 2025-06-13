@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ahmed2022few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.04237"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.04237'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Very large language models (LLMs), such as GPT-3 and Codex have achieved
 state-of-the-art performance on several natural-language tasks, and show great

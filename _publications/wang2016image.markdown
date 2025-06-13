@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: wang2016image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1604.00790"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1604.00790'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 This work presents an end-to-end trainable deep bidirectional LSTM
 (Long-Short Term Memory) model for image captioning. Our model builds on a deep

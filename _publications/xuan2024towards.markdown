@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xuan2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11943"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11943'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 The rise of multimodal misinformation on social platforms poses significant
 challenges for individuals and societies. Its increased credibility and broader

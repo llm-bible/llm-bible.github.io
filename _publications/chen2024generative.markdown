@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05877"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05877'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LMs) are typically adapted to improve performance on
 new contexts (\eg text prompts that define new tasks or domains) through

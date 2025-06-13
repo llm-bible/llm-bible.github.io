@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: kundu2018question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1801.08290"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1801.08290'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Neural network models recently proposed for question answering (QA) primarily

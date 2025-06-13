@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: glóriasilva2024plan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01053"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01053'}
 tags: ['Responsible AI', 'Training Techniques']
 ---
 Training Large Language Models (LLMs) to follow user instructions has been

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023wisdom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.05206"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05206'}
+tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Reinforcement learning has seen wide success in finetuning large language
 models to better align with instructions via human feedback. The so-called

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024brainstorming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06561"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06561'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated amazing capabilities in
 language generation, text comprehension, and knowledge reasoning. While a

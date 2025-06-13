@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.11523"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.11523'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Stack Overflow is one of the most popular programming communities where
 developers can seek help for their encountered problems. Nevertheless, if

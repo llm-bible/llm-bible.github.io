@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kong2024labeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02817"}
-  - {name: "Code", url: "https://github.com/InternLM/HuixiangDou/tree/main/web/tools),"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02817'}
+  - {name: "Code", url: 'https://github.com/InternLM/HuixiangDou/tree/main/web/tools),'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 This paper introduces a multi-stage manual annotation calibrated by the
 scaling law, offering a high-quality Supervised Fine-Tuning data acquisition

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leconte2024general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13155"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13155'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We introduce ReALLM, a novel approach for compression and memory-efficient
 adaptation of pre-trained language models that encompasses most of the

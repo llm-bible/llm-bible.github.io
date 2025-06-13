@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024mr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13975"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13975'}
 tags: ['Training Techniques']
 ---
 Large language models (LLMs) have shown increasing capability in

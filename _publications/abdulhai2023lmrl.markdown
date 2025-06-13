@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: abdulhai2023lmrl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18232"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18232'}
+tags: ['Agentic', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) provide excellent text-generation capabilities,
 but standard prompting and generation methods generally do not lead to

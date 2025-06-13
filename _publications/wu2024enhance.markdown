@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024enhance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02330"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02330'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 This paper presents an innovative framework that integrates Large Language
 Models (LLMs) with an external Thinker module to enhance the reasoning

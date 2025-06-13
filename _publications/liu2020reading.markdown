@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020reading
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.14560"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.14560'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Applications', 'Model Architecture']
 ---
 Reading long documents to answer open-domain questions remains challenging in
 natural language understanding. In this paper, we introduce a new model, called

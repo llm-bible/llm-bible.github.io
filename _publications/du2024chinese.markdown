@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04167"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04167'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this study, we introduce CT-LLM, a 2B large language model (LLM) that

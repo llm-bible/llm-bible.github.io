@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kampman2025conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16521"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16521'}
 tags: ['Uncategorized']
 ---
 This paper explores conversational self-play with LLMs as a scalable approach

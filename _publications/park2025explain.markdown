@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: park2025explain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03197"}
-tags: ['Interpretability and Explainability', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03197'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Multimodal Models', 'Tools']
 ---
 With the rapid advancement of mathematical reasoning capabilities in Large
 Language Models (LLMs), AI systems are increasingly being adopted in

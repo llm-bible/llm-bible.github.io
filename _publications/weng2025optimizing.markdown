@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: weng2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06148"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06148'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG), which integrates external knowledge
 into Large Language Models (LLMs), has proven effective in enabling LLMs to

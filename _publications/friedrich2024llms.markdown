@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: friedrich2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15035"}
-tags: ['Responsible AI', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15035'}
+tags: ['Prompting', 'Responsible AI']
 ---
 Building safe Large Language Models (LLMs) across multiple languages is
 essential in ensuring both safe access and linguistic diversity. To this end,

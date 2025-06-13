@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024information
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13985"}
-  - {name: "Code", url: "https://github.com/hustcxx/InfoRE"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13985'}
+  - {name: "Code", url: 'https://github.com/hustcxx/InfoRE'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Pruning', 'Reinforcement Learning']
 ---
 Improving the reasoning capabilities of large language models (LLMs) has
 attracted considerable interest. Recent approaches primarily focus on improving

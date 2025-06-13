@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024quality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13014"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13014'}
+tags: ['Security', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 The deployment of large language models (LLMs) faces considerable challenges
 concerning resource constraints and inference efficiency. Recent research has

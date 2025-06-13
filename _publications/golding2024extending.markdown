@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: golding2024extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01770"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01770'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 This study explores the use of Generative AI chatbots for transforming public
 science exhibits into virtual experiences that can extend the engagement of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05178"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05178'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Multimodal Models', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 We introduce Quantized Language-Image Pretraining (QLIP), a visual
 tokenization method that combines state-of-the-art reconstruction quality with

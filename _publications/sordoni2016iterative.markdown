@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: sordoni2016iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1606.02245"}
-tags: ['Fine-Tuning', 'Transformer', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1606.02245'}
+tags: ['Attention Mechanism', 'Fine-Tuning', 'Transformer', 'Model Architecture']
 ---
 We propose a novel neural attention architecture to tackle machine
 comprehension tasks, such as answering Cloze-style queries with respect to a

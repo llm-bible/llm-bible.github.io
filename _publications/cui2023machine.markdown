@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cui2023machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12999"}
-  - {name: "Code", url: "https://github.com/PKU-YuanGroup/Machine-Mindset"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12999'}
+  - {name: "Code", url: 'https://github.com/PKU-YuanGroup/Machine-Mindset'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present a novel approach for integrating Myers-Briggs Type Indicator
 (MBTI) personality traits into large language models (LLMs), addressing the

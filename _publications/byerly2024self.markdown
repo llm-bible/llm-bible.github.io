@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: byerly2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01101"}
-tags: ['Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01101'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting']
 ---
 Self-consistency (SC) has been demonstrated to enhance the performance of
 large language models (LLMs) across various tasks and domains involving short

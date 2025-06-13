@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11690"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11690'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Despite vision-language models' (VLMs) remarkable capabilities as versatile
 visual assistants, two substantial challenges persist within the existing VLM

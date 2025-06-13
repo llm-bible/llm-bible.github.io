@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kapoor2025prediction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20663"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20663'}
 tags: ['BERT', 'Model Architecture']
 ---
 Prediction of item difficulty based on its text content is of substantial

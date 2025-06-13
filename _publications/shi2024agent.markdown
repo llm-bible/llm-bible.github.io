@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024agent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01854"}
-  - {name: "Code", url: "https://github.com/Lightblues/AgentRE"}
-tags: ['Agentic', 'Tools', 'RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01854'}
+  - {name: "Code", url: 'https://github.com/Lightblues/AgentRE'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Tools']
 ---
 The relation extraction (RE) in complex scenarios faces challenges such as
 diverse relation types and ambiguous relations between entities within a single

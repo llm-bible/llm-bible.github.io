@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18053"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18053'}
 tags: ['Tools']
 ---
 We present a novel autonomous driving framework, DualAD, designed to imitate

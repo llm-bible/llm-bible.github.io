@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiao2023march
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10141"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10141'}
+tags: ['Prompting', 'Agentic']
 ---
 Many Vision-and-Language Navigation (VLN) tasks have been proposed in recent
 years, from room-based to object-based and indoor to outdoor. The REVERIE

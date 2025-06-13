@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00935"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00935'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning']
 ---
 Pre-trained large language models (LLMs) can be tailored to adhere to human
 instructions through instruction tuning. However, due to shifts in the

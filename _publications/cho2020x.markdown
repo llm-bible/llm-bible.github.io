@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: cho2020x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.11278"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.11278'}
+tags: ['Masked Language Model', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Mirroring the success of masked language models, vision-and-language
 counterparts like ViLBERT, LXMERT and UNITER have achieved state of the art

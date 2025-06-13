@@ -6,9 +6,9 @@ conference: "International Conference on Learning Representations (ICLR) 2024"
 year: 2023
 bibkey: wang2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01361"}
-  - {name: "Code", url: "https://liruiw.github.io/gensim)"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01361'}
+  - {name: "Code", url: 'https://liruiw.github.io/gensim)'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Reinforcement Learning']
 ---
 Collecting large amounts of real-world interaction data to train general
 robotic policies is often prohibitively expensive, thus motivating the use of

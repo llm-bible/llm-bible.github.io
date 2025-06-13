@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abonizio2024technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12049"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12049'}
 tags: ['RAG']
 ---
 This report presents Sabi\'a-3, our new flagship language model, and

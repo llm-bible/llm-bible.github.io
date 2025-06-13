@@ -6,8 +6,8 @@ conference: "Published as workshop paper in the Data-centric Machine Learning Re
 year: 2023
 bibkey: miranda2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13840"}
-tags: ['Training Techniques', 'Pre-Training', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13840'}
+tags: ['Training Techniques', 'Pre-Training', 'Model Architecture', 'GPT']
 ---
 Current trends in pre-training Large Language Models (LLMs) primarily focus
 on the scaling of model and dataset size. While the quality of pre-training

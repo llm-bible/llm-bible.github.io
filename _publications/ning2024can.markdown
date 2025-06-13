@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: ning2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14629"}
-  - {name: "Code", url: "https://github.com/imagination-research/lbt"}
-  - {name: "Code", url: "https://sites.google.com/view/llm-learning-by-teaching"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14629'}
+  - {name: "Code", url: 'https://github.com/imagination-research/lbt'}
+  - {name: "Code", url: 'https://sites.google.com/view/llm-learning-by-teaching'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Teaching to improve student models (e.g., knowledge distillation) is an
 extensively studied methodology in LLMs. However, for humans, teaching improves

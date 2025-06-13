@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kmainasi2024specialized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15308"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15308'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable success as
 general-purpose task solvers across various fields. However, their capabilities

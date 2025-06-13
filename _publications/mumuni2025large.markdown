@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mumuni2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03151"}
-tags: ['Agentic', 'Survey Paper', 'RAG', 'Merging', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03151'}
+tags: ['Agentic', 'RAG', 'Merging', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Generative artificial intelligence (AI) systems based on large-scale
 pretrained foundation models (PFMs) such as vision-language models, large

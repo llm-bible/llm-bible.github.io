@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09506"}
-tags: ['Security', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09506'}
+tags: ['Language Modeling', 'Security', 'Applications']
 ---
 We focus on a conversational question answering task which combines the
 challenges of understanding questions in context and reasoning over evidence

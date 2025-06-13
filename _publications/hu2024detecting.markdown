@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15533"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15533'}
 tags: ['RAG']
 ---
 Retrieval-Augmented Generation (RAG) has become a primary technique for

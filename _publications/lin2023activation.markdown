@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023activation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00978"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Merging', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00978'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Tools', 'Applications', 'Quantization', 'Merging']
 ---
 Large language models (LLMs) have transformed numerous AI applications.
 On-device LLM is becoming increasingly important: running LLMs locally on edge

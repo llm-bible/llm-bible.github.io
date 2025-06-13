@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00231"}
-  - {name: "Code", url: "https://github.com/XHMY/LLM-RankFusion}{https://github.com/XHMY/LLM-RankFusion"}
-tags: ['Tools', 'Applications', 'Merging', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00231'}
+  - {name: "Code", url: 'https://github.com/XHMY/LLM-RankFusion}{https://github.com/XHMY/LLM-RankFusion'}
+tags: ['Has Code', 'Applications', 'Tools', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Ranking passages by prompting a large language model (LLM) can achieve
 promising performance in modern information retrieval (IR) systems. A common

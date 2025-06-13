@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: miandoab2024argue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12997"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12997'}
 tags: ['Prompting']
 ---
 Large Language Models (LLMs), despite achieving state-of-the-art results in a

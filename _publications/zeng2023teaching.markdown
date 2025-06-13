@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.04408"}
-  - {name: "Code", url: "https://github.com/lemon0830/TIM"}
-tags: ['Fine-Tuning', 'Tools', 'WMT', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.04408'}
+  - {name: "Code", url: 'https://github.com/lemon0830/TIM'}
+tags: ['Has Code', 'WMT', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Open-sourced large language models (LLMs) have demonstrated remarkable
 efficacy in various tasks with instruction tuning. However, these models can

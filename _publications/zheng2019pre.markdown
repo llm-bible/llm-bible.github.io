@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zheng2019pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.04700"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.04700'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training']
 ---
 Endowing dialogue systems with personas is essential to deliver more
 human-like conversations. However, this problem is still far from well explored

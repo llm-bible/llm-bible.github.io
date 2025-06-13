@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sah2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07801"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'RecSys', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07801'}
+tags: ['Security', 'Fairness', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'RecSys', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent advances in Large Language Models (LLMs) have enabled their
 application to recommender systems (RecLLMs), yet concerns remain regarding

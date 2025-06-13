@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wen2019adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.05604"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.05604'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 Objectives: To adapt and evaluate a deep learning language model for
 answering why-questions based on patient-specific clinical text. Materials and

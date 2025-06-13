@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025continuous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11896"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11896'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Reinforcement learning (RL) in continuous action spaces encounters persistent
 challenges, such as inefficient exploration and convergence to suboptimal

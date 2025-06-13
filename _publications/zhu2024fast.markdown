@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16069"}
-  - {name: "Code", url: "https://github.com/IAAR-Shanghai/FastMem"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16069'}
+  - {name: "Code", url: 'https://github.com/IAAR-Shanghai/FastMem'}
+tags: ['Prompting', 'Has Code', 'Efficiency and Optimization', 'Applications']
 ---
 Large language models (LLMs) excel in generating coherent text, but they
 often struggle with context awareness, leading to inaccuracies in tasks

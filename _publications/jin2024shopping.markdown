@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024shopping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20745"}
-  - {name: "Code", url: "https://github.com/KL4805/ShoppingMMLU"}
-tags: ['Few-Shot', 'Has Code', 'KDD', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20745'}
+  - {name: "Code", url: 'https://github.com/KL4805/ShoppingMMLU'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Has Code', 'KDD']
 ---
 Online shopping is a complex multi-task, few-shot learning problem with a
 wide and evolving range of entities, relations, and tasks. However, existing

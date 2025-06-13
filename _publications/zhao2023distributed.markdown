@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023distributed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.00388"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.00388'}
 tags: ['Efficiency and Optimization']
 ---
 Deploying Large Language Models (LLMs) locally on mobile devices presents a

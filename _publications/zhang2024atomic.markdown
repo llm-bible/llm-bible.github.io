@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024atomic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13246"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13246'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large language models (LLMs) often suffer from hallucinations, posing
 significant challenges for real-world applications. Confidence calibration,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024monitoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07183"}
-tags: ['GPT', 'Survey Paper', 'ICLR', 'RAG', 'NeurIPS', 'Model Architecture', 'Reinforcement Learning', 'EMNLP']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07183'}
+tags: ['NeurIPS', 'RAG', 'Model Architecture', 'GPT', 'EMNLP', 'Survey Paper', 'Reinforcement Learning', 'ICLR']
 ---
 We present an approach for estimating the fraction of text in a large corpus
 which is likely to be substantially modified or produced by a large language

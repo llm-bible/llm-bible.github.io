@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fröhling2024personas
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11745"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11745'}
 tags: ['Prompting']
 ---
 We present a novel approach for enhancing diversity and control in data

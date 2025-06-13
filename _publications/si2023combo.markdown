@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: si2023combo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.06407"}
-  - {name: "Code", url: "https://github.com/PhoebusSi/Thinking-while-Observing"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.06407'}
+  - {name: "Code", url: 'https://github.com/PhoebusSi/Thinking-while-Observing'}
+tags: ['Has Code', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Outside-knowledge visual question answering is a challenging task that
 requires both the acquisition and the use of open-ended real-world knowledge.

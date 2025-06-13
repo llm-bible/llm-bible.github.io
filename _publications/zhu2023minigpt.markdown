@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023minigpt
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.10592v2"}
-  - {name: "Code", url: "https://minigpt-4.github.io/"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.10592v2'}
+  - {name: "Code", url: 'https://minigpt-4.github.io/'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The recent GPT-4 has demonstrated extraordinary multi-modal abilities, such
 as directly generating websites from handwritten text and identifying humorous

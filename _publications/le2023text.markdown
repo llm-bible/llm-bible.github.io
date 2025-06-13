@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: le2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.15687"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.15687'}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large-scale generative models such as GPT and DALL-E have revolutionized the
 research community. These models not only generate high fidelity outputs, but

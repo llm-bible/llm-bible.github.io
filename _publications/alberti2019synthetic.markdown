@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: alberti2019synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.05416"}
-tags: ['Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.05416'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 We introduce a novel method of generating synthetic question answering
 corpora by combining models of question generation and answer extraction, and

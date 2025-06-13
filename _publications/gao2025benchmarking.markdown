@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gao2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06606"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06606'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in reward signal usage for Large Language Models (LLMs)
 are remarkable. However, significant challenges exist when transitioning reward

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09602"}
-  - {name: "Code", url: "https://github.com/YYgroup/AutoCFD"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09602'}
+  - {name: "Code", url: 'https://github.com/YYgroup/AutoCFD'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Configuring computational fluid dynamics (CFD) simulations typically demands
 extensive domain expertise, limiting broader access. Although large language

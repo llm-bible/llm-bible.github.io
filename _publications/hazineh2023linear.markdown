@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hazineh2023linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07582"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07582'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Foundation models exhibit significant capabilities in decision-making and

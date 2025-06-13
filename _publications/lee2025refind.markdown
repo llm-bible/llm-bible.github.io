@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025refind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13622"}
-  - {name: "Code", url: "https://github.com/oneonlee/REFIND"}
-tags: ['Tools', 'Applications', 'RAG', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13622'}
+  - {name: "Code", url: 'https://github.com/oneonlee/REFIND'}
+tags: ['Has Code', 'RAG', 'Security', 'Applications', 'Tools']
 ---
 Hallucinations in large language model (LLM) outputs severely limit their
 reliability in knowledge-intensive tasks such as question answering. To address

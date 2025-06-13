@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13440"}
-  - {name: "Code", url: "http://github.com/hustvl/MaTVLM"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13440'}
+  - {name: "Code", url: 'http://github.com/hustvl/MaTVLM'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 With the advancement of RNN models with linear complexity, the quadratic
 complexity challenge of transformers has the potential to be overcome. Notably,

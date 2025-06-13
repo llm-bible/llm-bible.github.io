@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: meng2021coco
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.08473"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.08473'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 We present a self-supervised learning framework, COCO-LM, that pretrains
 Language Models by COrrecting and COntrasting corrupted text sequences.

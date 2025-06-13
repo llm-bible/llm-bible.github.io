@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lv2024ensembling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07380"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07380'}
 tags: ['Training Techniques', 'RAG', 'Tools', 'Merging']
 ---
 Ensembles of generative large language models (LLMs) can integrate the

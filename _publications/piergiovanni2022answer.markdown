@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: piergiovanni2022answer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.00949"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.00949'}
+tags: ['Security', 'Model Architecture', 'Applications', 'Training Techniques', 'Tools', 'Multimodal Models', 'Pre-Training']
 ---
 We present Answer-Me, a task-aware multi-task framework which unifies a
 variety of question answering tasks, such as, visual question answering, visual

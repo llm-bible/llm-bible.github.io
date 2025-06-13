@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: salemi2025plan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07794"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07794'}
+tags: ['RAG', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 This paper studies the limitations of (retrieval-augmented) large language
 models (LLMs) in generating diverse and comprehensive responses, and introduces

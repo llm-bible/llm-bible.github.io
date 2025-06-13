@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04350"}
-  - {name: "Code", url: "https://huggingface.co/datasets/causalNLP/cladder,"}
-  - {name: "Code", url: "https://github.com/causalNLP/cladder"}
-tags: ['ACL', 'Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04350'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/causalNLP/cladder,'}
+  - {name: "Code", url: 'https://github.com/causalNLP/cladder'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code', 'ACL']
 ---
 The ability to perform causal reasoning is widely considered a core feature
 of intelligence. In this work, we investigate whether large language models

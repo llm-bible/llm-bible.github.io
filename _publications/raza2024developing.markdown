@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: raza2024developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01399"}
-  - {name: "Code", url: "https://github.com/shainarazavi/Safe-Responsible-LLM}{SR-LLM"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01399'}
+  - {name: "Code", url: 'https://github.com/shainarazavi/Safe-Responsible-LLM}{SR-LLM'}
+tags: ['Has Code', 'Language Modeling', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have advanced various Natural Language
 Processing (NLP) tasks, such as text generation and translation, among others.

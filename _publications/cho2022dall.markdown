@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: cho2022dall
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.04053"}
-  - {name: "Code", url: "https://github.com/j-min/DallEval"}
-tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.04053'}
+  - {name: "Code", url: 'https://github.com/j-min/DallEval'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Merging', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recently, DALL-E, a multimodal transformer language model, and its variants,
 including diffusion models, have shown high-quality text-to-image generation

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04107"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04107'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Quantization']
 ---
 In large-language models, memory constraints in the Key-Value Cache (KVC)
 pose a challenge during inference. In this work, we propose ZACK, the first KV

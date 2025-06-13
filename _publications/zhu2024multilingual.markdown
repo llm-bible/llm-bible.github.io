@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11072"}
-  - {name: "Code", url: "https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers"}
-tags: ['Responsible AI', 'Pre-Training', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11072'}
+  - {name: "Code", url: 'https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI']
 ---
 This paper provides a comprehensive survey of the latest research on
 multilingual large language models (MLLMs). MLLMs not only are able to

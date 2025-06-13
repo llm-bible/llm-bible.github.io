@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: xie2022fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.03297"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.03297'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Paraphrase generation, a.k.a. paraphrasing, is a common and important task in
 natural language processing. Emotional paraphrasing, which changes the emotion

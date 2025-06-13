@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: garetto2025information
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20610"}
-tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20610'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Tools']
 ---
 The advent of Large Language Models (LLMs) and generative AI is fundamentally
 transforming information retrieval and processing on the Internet, bringing

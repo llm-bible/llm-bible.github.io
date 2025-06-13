@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023divide
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.11556"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11556'}
 tags: ['RAG', 'Prompting']
 ---
 Chain-of-thought (CoT) prompting combined with large language models (LLMs)

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mikula2023think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.06841"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.06841'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 While the Large Language Models (LLMs) dominate a majority of language
 understanding tasks, previous work shows that some of these results are

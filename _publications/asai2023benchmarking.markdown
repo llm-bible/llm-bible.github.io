@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: asai2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14857"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14857'}
+tags: ['Few-Shot', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Despite remarkable advancements in few-shot generalization in natural
 language processing, most models are developed and evaluated primarily in

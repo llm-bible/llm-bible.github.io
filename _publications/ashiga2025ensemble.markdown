@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ashiga2025ensemble
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13505"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13505'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Training Techniques', 'GPT', 'Merging', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Generative pretrained transformers (GPT) are the common large language models
 (LLMs) used for generating text from natural language inputs. However, the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023beyond
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.07289v1"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.07289v1'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 Large language models (LLMs) outperform information retrieval techniques for
 downstream knowledge-intensive tasks when being prompted to generate world

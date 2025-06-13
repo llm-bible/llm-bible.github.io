@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024reformatted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12219"}
-  - {name: "Code", url: "https://github.com/GAIR-NLP/ReAlign"}
-tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12219'}
+  - {name: "Code", url: 'https://github.com/GAIR-NLP/ReAlign'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Reinforcement Learning']
 ---
 The quality of finetuning data is crucial for aligning large language models
 (LLMs) with human values. Current methods to improve data quality are either

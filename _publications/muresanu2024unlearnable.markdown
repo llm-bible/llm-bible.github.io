@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: muresanu2024unlearnable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00751"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00751'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Machine unlearning is a desirable operation as models get increasingly
 deployed on data with unknown provenance. However, achieving exact unlearning

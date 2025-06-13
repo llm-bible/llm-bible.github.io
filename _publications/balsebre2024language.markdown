@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: balsebre2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09059"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09059'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are poised to play an increasingly important
 role in our lives, providing assistance across a wide array of tasks. In the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hendy2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.09210"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.09210'}
+tags: ['Transformer', 'Security', 'GPT', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 Generative Pre-trained Transformer (GPT) models have shown remarkable
 capabilities for natural language generation, but their performance for machine

@@ -6,8 +6,8 @@ conference: "NeurIPS 2024 ENLSP Workshop"
 year: 2024
 bibkey: vincenti2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18952"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18952'}
+tags: ['Reinforcement Learning', 'Pruning', 'Efficiency and Optimization']
 ---
 Increasing the size of large language models (LLMs) has been shown to lead to
 better performance. However, this comes at the cost of slower and more

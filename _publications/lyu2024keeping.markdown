@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024keeping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18540"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18540'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Public LLMs such as the Llama 2-Chat underwent alignment training and were
 considered safe. Recently Qi et al. [2024] reported that even benign

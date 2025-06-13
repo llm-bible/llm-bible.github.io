@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: pan2025memorization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21239"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21239'}
 tags: ['RAG', 'Tools']
 ---
 Large Language Models (LLMs) currently struggle to sequentially add new

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23822"}
-tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23822'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) inherit the superior text
 understanding capabilities of LLMs and extend these capabilities to multimodal

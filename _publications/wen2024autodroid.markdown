@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wen2024autodroid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18116"}
-  - {name: "Code", url: "https://github.com/MobileLLM/AutoDroid-V2"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18116'}
+  - {name: "Code", url: 'https://github.com/MobileLLM/AutoDroid-V2'}
 tags: ['Agentic', 'Has Code', 'Applications', 'Tools']
 ---
 Large language models (LLMs) have brought exciting new advances to mobile UI

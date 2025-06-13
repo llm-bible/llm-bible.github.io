@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nguyen2025effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06303"}
-tags: ['Ethics and Bias', 'RAG', 'Bias Mitigation', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06303'}
+tags: ['RAG', 'Fairness', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Understanding and mitigating biases is critical for the adoption of large
 language models (LLMs) in high-stakes decision-making. We introduce Admissions

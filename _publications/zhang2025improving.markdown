@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02384"}
-  - {name: "Code", url: "https://github.com/thu-ml/STAIR"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02384'}
+  - {name: "Code", url: 'https://github.com/thu-ml/STAIR'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Applications', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Ensuring the safety and harmlessness of Large Language Models (LLMs) has
 become equally critical as their performance in applications. However, existing

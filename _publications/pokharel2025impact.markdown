@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pokharel2025impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05629"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05629'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Tools', 'Scaling Laws', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The rapid advancement of Large Language Models (LLMs), particularly those
 trained on multilingual corpora, has intensified the need for a deeper

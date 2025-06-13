@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05499"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05499'}
+tags: ['RAG', 'Security', 'Applications', 'Fine-Tuning', 'Prompting']
 ---
 Large Language Models (LLMs), renowned for their superior proficiency in
 language comprehension and generation, stimulate a vibrant ecosystem of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yu2021leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.13479"}
-tags: ['BERT', 'RAG', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.13479'}
+tags: ['RAG', 'BERT', 'Applications', 'Model Architecture']
 ---
 Retrieval-based dialogue systems select the best response from many
 candidates. Although many state-of-the-art models have shown promising

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arif2024grain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12499"}
-tags: ['Bias Mitigation', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12499'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Bias Mitigation']
 ---
 This paper presents a systematic analysis of biases in open-source Large
 Language Models (LLMs), across gender, religion, and race. Our study evaluates

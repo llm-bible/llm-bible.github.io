@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025process
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19326"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19326'}
 tags: ['Fine-Tuning', 'Security', 'Prompting', 'Applications']
 ---
 Recent reasoning large language models (LLMs) have demonstrated remarkable

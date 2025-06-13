@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17041"}
-  - {name: "Code", url: "https://github.com/yukw777/EILEV"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17041'}
+  - {name: "Code", url: 'https://github.com/yukw777/EILEV'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 A major reason behind the recent success of large language models (LLMs) is
 their \textit\{in-context learning\} capability, which makes it possible to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shin2023attentive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10325"}
-  - {name: "Code", url: "https://github.com/yehjin-shin/BSARec"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10325'}
+  - {name: "Code", url: 'https://github.com/yehjin-shin/BSARec'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Sequential recommendation (SR) models based on Transformers have achieved
 remarkable successes. The self-attention mechanism of Transformers for computer

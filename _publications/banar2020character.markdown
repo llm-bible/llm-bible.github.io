@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: banar2020character
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.11239"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.11239'}
+tags: ['Transformer', 'WMT', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Neural machine translation (NMT) is nowadays commonly applied at the subword
 level, using byte-pair encoding. A promising alternative approach focuses on

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09773"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09773'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have been found to produce hallucinations when

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: matta2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06550"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06550'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT']
 ---
 Recent studies have demonstrated that few-shot learning allows LLMs to
 generate training data for supervised models at a low cost. However, the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: magdy2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18163"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18163'}
+tags: ['ACL', 'Training Techniques', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Writing has long been considered a hallmark of human intelligence and remains
 a pinnacle task for artificial intelligence (AI) due to the intricate cognitive

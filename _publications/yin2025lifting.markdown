@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yin2025lifting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13108"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13108'}
+tags: ['Pruning', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) improve performance on
 vision-language tasks by integrating visual features from pre-trained vision

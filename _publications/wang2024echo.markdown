@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024echo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09136"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09136'}
 tags: ['Applications']
 ---
 Code Large Language Models (Code LLMs) have demonstrated outstanding

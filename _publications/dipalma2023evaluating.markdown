@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dipalma2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03613"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'RecSys', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03613'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'RecSys', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have recently shown impressive abilities in
 handling various natural language-related tasks. Among different LLMs, current

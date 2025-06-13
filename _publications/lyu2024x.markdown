@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15172"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15172'}
+tags: ['Efficiency and Optimization', 'Security', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) and Large Multimodal Models (LMMs) have been
 shown to enhance the effectiveness of enriching item descriptions, thereby

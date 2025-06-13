@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024seed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08683"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08683'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the remarkable advancements in image generation and open-form text
 generation, the creation of interleaved image-text content has become an

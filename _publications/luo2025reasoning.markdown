@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.17571"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.17571'}
 tags: ['Tools', 'Applications']
 ---
 Personalization is a critical task in modern intelligent systems, with applications spanning diverse domains, including interactions with large language models (LLMs). Recent advances in reasoning capabilities have significantly enhanced LLMs, enabling unprecedented performance in tasks such as mathematics and coding. However, their potential for personalization tasks remains underexplored.

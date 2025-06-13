@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: spiegel2024kinit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13671"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13671'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 SemEval-2024 Task 8 is focused on multigenerator, multidomain, and

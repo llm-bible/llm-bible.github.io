@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024mixed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11746"}
-tags: ['Transformer', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11746'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Pruning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have made significant strides in complex tasks,
 yet their widespread adoption is impeded by substantial computational demands.

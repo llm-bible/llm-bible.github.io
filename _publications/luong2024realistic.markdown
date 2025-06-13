@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luong2024realistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10659"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10659'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Large language models (LLMs) have become integral to our professional
 workflows and daily lives. Nevertheless, these machine companions of ours have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024figuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11008"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11008'}
+tags: ['Attention Mechanism', 'Model Architecture', 'BERT', 'Training Techniques', 'GPT']
 ---
 Figures are essential channels for densely communicating complex ideas in
 scientific papers. Previous work in automatically generating figure captions

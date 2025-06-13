@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: patel2024storytelling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03483"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03483'}
 tags: ['GPT', 'Model Architecture']
 ---
 Automated long-form story generation typically employs long-context large

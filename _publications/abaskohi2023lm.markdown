@@ -6,8 +6,8 @@ conference: "https://aclanthology.org/2023.acl-short"
 year: 2023
 bibkey: abaskohi2023lm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18169"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18169'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 In recent years, there has been significant progress in developing
 pre-trained language models for NLP. However, these models often struggle when

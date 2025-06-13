@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yin2025knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14271"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14271'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Survey Paper']
 ---
 In the paper, we introduce a paper reading assistant, PaperHelper, a potent
 tool designed to enhance the capabilities of researchers in efficiently

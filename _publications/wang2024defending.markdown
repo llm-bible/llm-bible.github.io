@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16459"}
-  - {name: "Code", url: "https://github.com/YihanWang617/llm-jailbreaking-defense},"}
-  - {name: "Code", url: "https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16459'}
+  - {name: "Code", url: 'https://github.com/YihanWang617/llm-jailbreaking-defense},'}
+  - {name: "Code", url: 'https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Although many large language models (LLMs) have been trained to refuse
 harmful requests, they are still vulnerable to jailbreaking attacks which

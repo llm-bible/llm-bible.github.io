@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024many
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09798"}
-  - {name: "Code", url: "https://github.com/stanfordmlgroup/ManyICL"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09798'}
+  - {name: "Code", url: 'https://github.com/stanfordmlgroup/ManyICL'}
+tags: ['Has Code', 'Few-Shot', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models are effective at few-shot in-context learning (ICL).
 Recent advancements in multimodal foundation models have enabled

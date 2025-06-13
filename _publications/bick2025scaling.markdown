@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bick2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14458"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14458'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 We introduce Llamba, a family of efficient recurrent language models
 distilled from Llama-3.x into the Mamba architecture. The series includes

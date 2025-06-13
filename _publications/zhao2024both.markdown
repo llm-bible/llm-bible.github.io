@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024both
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10073"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10073'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Emotional Intelligence (EI), consisting of emotion perception, emotion
 cognition and emotion expression, plays the critical roles in improving user

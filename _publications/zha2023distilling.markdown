@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zha2023distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10678"}
-  - {name: "Code", url: "https://sites.google.com/stanford.edu/droc"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10678'}
+  - {name: "Code", url: 'https://sites.google.com/stanford.edu/droc'}
+tags: ['Prompting', 'Has Code', 'Efficiency and Optimization', 'Distillation']
 ---
 Today's robot policies exhibit subpar performance when faced with the
 challenge of generalizing to novel environments. Human corrective feedback is a

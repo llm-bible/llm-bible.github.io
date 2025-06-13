@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14277"}
-  - {name: "Code", url: "https://github.com/kmswin1/QPaug"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14277'}
+  - {name: "Code", url: 'https://github.com/kmswin1/QPaug'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) has received much attention for
 Open-domain question-answering (ODQA) tasks as a means to compensate for the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: borchmann2024case
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17758"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17758'}
 tags: ['Reinforcement Learning']
 ---
 ARC Challenge appears more difficult than ARC Easy for modern LLMs primarily

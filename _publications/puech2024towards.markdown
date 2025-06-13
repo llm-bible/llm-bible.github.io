@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: puech2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03781"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03781'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 One-to-one tutoring is one of the most efficient methods of teaching. With
 the growing popularity of Large Language Models (LLMs), there have been efforts

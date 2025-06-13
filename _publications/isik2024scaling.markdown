@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: isik2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04177"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04177'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Scaling laws provide important insights that can guide the design of large
 language models (LLMs). Existing work has primarily focused on studying scaling

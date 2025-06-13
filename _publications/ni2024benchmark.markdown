@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05446"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05446'}
 tags: ['RAG', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across

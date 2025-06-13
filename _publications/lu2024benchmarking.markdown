@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09007"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09007'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture']
 ---
 As LLMs become increasingly prevalent, it is interesting to consider how
 ``creative'' these models can be. From cognitive science, creativity consists

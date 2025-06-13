@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024humaneval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16694"}
-  - {name: "Code", url: "https://github.com/FloatAI/humaneval-xl"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16694'}
+  - {name: "Code", url: 'https://github.com/FloatAI/humaneval-xl'}
+tags: ['Has Code', 'RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have made significant progress in generating
 codes from textual prompts. However, existing benchmarks have mainly

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025mm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13383"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13383'}
 tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 According to the Test-Time Scaling, the integration of External Slow-Thinking

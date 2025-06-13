@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: das2025lawflow
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18942"}
-  - {name: "Code", url: "https://minnesotanlp.github.io/LawFlow-website/)"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18942'}
+  - {name: "Code", url: 'https://minnesotanlp.github.io/LawFlow-website/)'}
+tags: ['Reinforcement Learning', 'Has Code', 'Efficiency and Optimization']
 ---
 Legal practitioners, particularly those early in their careers, face complex,
 high-stakes tasks that require adaptive, context-sensitive reasoning. While AI

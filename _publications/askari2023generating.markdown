@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: askari2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02320"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02320'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 We investigate the usefulness of generative Large Language Models (LLMs) in
 generating training data for cross-encoder re-rankers in a novel direction:

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yu2022generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.01061"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.01061'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 XAI with natural language processing aims to produce human-readable
 explanations as evidence for AI decision-making, which addresses explainability

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: willette2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17808"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17808'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The transformer's context window is vital for tasks such as few-shot learning
 and conditional generation as it preserves previous tokens for active memory.

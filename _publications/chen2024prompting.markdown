@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16674"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'RecSys', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16674'}
+tags: ['RAG', 'GPT', 'BERT', 'Tools', 'Model Architecture', 'RecSys', 'Prompting']
 ---
 In recent years, Recommender Systems (RS) have witnessed a transformative
 shift with the advent of Large Language Models (LLMs) in the field of Natural

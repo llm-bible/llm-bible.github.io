@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: siblini2019multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.04659"}
-tags: ['Agentic', 'Applications', 'Model Architecture', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.04659'}
+tags: ['Agentic', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture']
 ---
 Recent advances with language models (e.g. BERT, XLNet, ...), have allowed
 surpassing human performance on complex NLP tasks such as Reading

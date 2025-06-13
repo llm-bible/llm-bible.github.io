@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bentham2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14897"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14897'}
 tags: ['Ethics and Bias']
 ---
 Understanding the extent to which Chain-of-Thought (CoT) generations align

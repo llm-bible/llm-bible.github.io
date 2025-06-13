@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025opencsg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08197"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08197'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities, but
 their success heavily relies on the quality of pretraining corpora. For Chinese

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wen2025thinkpatterns
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12918"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12918'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated enhanced performance through
 the \textit\{Thinking then Responding\} paradigm, where models generate internal

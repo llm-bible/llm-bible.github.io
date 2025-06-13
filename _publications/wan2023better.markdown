@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wan2023better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14106"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14106'}
 tags: ['Few-Shot', 'Prompting']
 ---
 Modern large language models (LLMs) have demonstrated impressive capabilities

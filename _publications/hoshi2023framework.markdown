@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: hoshi2023framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10633"}
-  - {name: "Code", url: "https://github.com/yhoshi3/RaLLe"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Interpretability', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10633'}
+  - {name: "Code", url: 'https://github.com/yhoshi3/RaLLe'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 Retrieval-augmented large language models (R-LLMs) combine pre-trained large
 language models (LLMs) with information retrieval systems to improve the

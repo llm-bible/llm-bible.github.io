@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cegin2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12947"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12947'}
+tags: ['Language Modeling', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 The emergence of generative large language models (LLMs) raises the question:
 what will be its impact on crowdsourcing? Traditionally, crowdsourcing has been

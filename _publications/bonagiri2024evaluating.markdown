@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bonagiri2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13709"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13709'}
 tags: ['Uncategorized']
 ---
 Despite recent advancements showcasing the impressive capabilities of Large

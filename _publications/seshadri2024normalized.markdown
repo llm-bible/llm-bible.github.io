@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: seshadri2024normalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14091"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14091'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the size and cost of large transformer-based language models growing,

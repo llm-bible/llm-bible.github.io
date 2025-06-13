@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wangni2025gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07513"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07513'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Modern large language foundation models (LLM) have now entered the daily
 lives of millions of users. We ask a natural question whether it is possible to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ong2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12315"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12315'}
+tags: ['Few-Shot', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Guiding large language models with a selected set of human-authored
 demonstrations is a common practice for improving LLM applications. However,

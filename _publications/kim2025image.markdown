@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06238"}
-tags: ['RAG', 'Efficiency and Optimization', 'RecSys', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06238'}
+tags: ['Reinforcement Learning', 'RAG', 'RecSys', 'Efficiency and Optimization']
 ---
 Large Language Models (LLMs) have recently emerged as a powerful backbone for
 recommender systems. Existing LLM-based recommender systems take two different

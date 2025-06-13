@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sileo2025logic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17169"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17169'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large language models demonstrate promising long context processing
 capabilities, with recent models touting context windows close to one million

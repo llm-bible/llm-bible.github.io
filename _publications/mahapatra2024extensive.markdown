@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mahapatra2024extensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19203"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19203'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have shown exceptional performance across

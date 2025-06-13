@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: marks2023interpreting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08164"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08164'}
+tags: ['Agentic', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Reinforcement learning from human feedback (RLHF) is widely used to train
 large language models (LLMs). However, it is unclear whether LLMs accurately

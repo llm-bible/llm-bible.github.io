@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hajimolahoseini2024single
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19995"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19995'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 This paper introduces a novel method of Progressive Low Rank Decomposition
 (PLRD) tailored for the compression of large language models. Our approach

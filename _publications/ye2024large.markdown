@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01145"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01145'}
 tags: ['RAG', 'Efficiency and Optimization', 'Merging']
 ---
 The omnipresence of NP-hard combinatorial optimization problems (COPs)

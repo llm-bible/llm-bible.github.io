@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zuo2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.08136"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.08136'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer models have achieved superior performance in various natural
 language processing tasks. However, the quadratic computational cost of the

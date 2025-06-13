@@ -6,8 +6,8 @@ conference: "The Thirteenth International Conference on Learning Representations
 year: 2025
 bibkey: zhao2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01009"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01009'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Planning is essential for artificial intelligence systems to look ahead and
 proactively determine a course of actions to reach objectives in the virtual

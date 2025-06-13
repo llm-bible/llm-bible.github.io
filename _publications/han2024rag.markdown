@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13998"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13998'}
+tags: ['RAG', 'Security', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Question answering based on retrieval augmented generation (RAG-QA) is an
 important research topic in NLP and has a wide range of real-world

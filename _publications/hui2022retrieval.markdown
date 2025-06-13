@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: hui2022retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.05145"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.05145'}
 tags: ['Uncategorized']
 ---
 Retrieval augmentation has shown promising improvements in different tasks.

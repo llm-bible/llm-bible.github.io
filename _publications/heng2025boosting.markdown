@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: heng2025boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07596"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07596'}
+tags: ['Agentic', 'RAG', 'Applications', 'Merging', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are emerging as promising tools for automated
 reinforcement learning (RL) reward design, owing to their robust capabilities

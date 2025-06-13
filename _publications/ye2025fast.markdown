@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ye2025fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08242"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08242'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Generative large language models (LLMs) have garnered significant attention
 due to their exceptional capabilities in various AI tasks. Traditionally

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: çöplü2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14012"}
-  - {name: "Code", url: "https://github.com/HaltiaAI/paper-PTODSKC"}
-tags: ['Has Code', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14012'}
+  - {name: "Code", url: 'https://github.com/HaltiaAI/paper-PTODSKC'}
+tags: ['Prompting', 'Has Code', 'Applications']
 ---
 In applications such as personal assistants, large language models (LLMs)
 must consider the user's personal information and preferences. However, LLMs

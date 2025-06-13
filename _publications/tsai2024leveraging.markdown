@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tsai2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00802"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00802'}
+tags: ['RAG', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning']
 ---
 Recent advancements have showcased the potential of Large Language Models
 (LLMs) in executing reasoning tasks, particularly facilitated by

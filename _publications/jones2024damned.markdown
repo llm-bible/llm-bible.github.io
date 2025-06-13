@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jones2024damned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17128"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17128'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) can generate content that is as persuasive as
 human-written text and appear capable of selectively producing deceptive

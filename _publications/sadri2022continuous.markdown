@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sadri2022continuous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.06955"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.06955'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Pre-trained and fine-tuned transformer models like BERT and T5 have improved
 the state of the art in ad-hoc retrieval and question-answering, but not as yet

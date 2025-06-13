@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17263"}
-  - {name: "Code", url: "https://github.com/lapisrocks/rpo"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17263'}
+  - {name: "Code", url: 'https://github.com/lapisrocks/rpo'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Despite advances in AI alignment, large language models (LLMs) remain
 vulnerable to adversarial attacks or jailbreaking, in which adversaries can

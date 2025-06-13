@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: verma2023reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15576"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15576'}
 tags: ['RAG']
 ---
 Reducing and detecting hallucinations in large language models is an open

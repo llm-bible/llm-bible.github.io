@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kao2025safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00669"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00669'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Merging', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are increasingly adopted in high-stakes
 scenarios, yet their safety mechanisms often remain fragile. Simple jailbreak

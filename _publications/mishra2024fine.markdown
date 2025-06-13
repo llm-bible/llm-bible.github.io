@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mishra2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00900"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00900'}
 tags: ['Security', 'Training Techniques', 'Tools']
 ---
 Mathematical problem solving is an important skill for Large Language Models

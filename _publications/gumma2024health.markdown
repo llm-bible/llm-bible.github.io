@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gumma2024health
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13671"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13671'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Assessing the capabilities and limitations of large language models (LLMs)
 has garnered significant interest, yet the evaluation of multiple models in

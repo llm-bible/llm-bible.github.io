@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14393"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14393'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 The widespread adoption of large language models (LLMs) has raised concerns
 about their safety and reliability, particularly regarding their vulnerability

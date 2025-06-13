@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15572"}
-tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15572'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Tools']
 ---
 In an era where cultural preservation is increasingly intertwined with
 technological innovation, this study introduces a groundbreaking approach to

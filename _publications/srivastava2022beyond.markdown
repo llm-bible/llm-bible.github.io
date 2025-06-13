@@ -6,8 +6,8 @@ conference: "Transactions on Machine Learning Research May/2022 https://openrevi
 year: 2022
 bibkey: srivastava2022beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.04615"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.04615'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Language models demonstrate both quantitative improvement and new qualitative
 capabilities with increasing scale. Despite their potentially transformative

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: black2022gpt
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2204.06745v1"}
-  - {name: "Code", url: "https://github.com/EleutherAI/gpt-neox"}
-tags: ['GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2204.06745v1'}
+  - {name: "Code", url: 'https://github.com/EleutherAI/gpt-neox'}
+tags: ['Has Code', 'Language Modeling', 'Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language
 model trained on the Pile, whose weights will be made freely and openly

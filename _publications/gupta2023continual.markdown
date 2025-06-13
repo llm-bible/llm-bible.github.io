@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04014"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04014'}
 tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Large language models (LLMs) are routinely pre-trained on billions of tokens,

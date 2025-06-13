@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: higuchi2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10524"}
-tags: ['INTERSPEECH', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10524'}
+tags: ['Attention Mechanism', 'Language Modeling', 'INTERSPEECH', 'Model Architecture', 'Applications', 'Prompting']
 ---
 We propose to utilize an instruction-tuned large language model (LLM) for
 guiding the text generation process in automatic speech recognition (ASR).

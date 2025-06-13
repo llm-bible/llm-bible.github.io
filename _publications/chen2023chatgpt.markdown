@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.01863"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.01863'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Learning new programming skills requires tailored guidance. With the
 emergence of advanced Natural Language Generation models like the ChatGPT API,

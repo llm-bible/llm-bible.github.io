@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: blakeney2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03476"}
-tags: ['RAG', 'Training Techniques', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03476'}
+tags: ['RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Pretraining datasets for large language models (LLMs) have grown to trillions
 of tokens composed of large amounts of CommonCrawl (CC) web scrape along with

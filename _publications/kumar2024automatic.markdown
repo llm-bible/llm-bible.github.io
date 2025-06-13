@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01382"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01382'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Pretrained Large Language Models (LLMs) have gained significant attention for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dai2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03713"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03713'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 While current large language models (LLMs) demonstrate remarkable linguistic
 capabilities through training on massive unstructured text corpora, they remain

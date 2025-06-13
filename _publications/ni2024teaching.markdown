@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14662"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14662'}
 tags: ['Training Techniques']
 ---
 A fundamental skill among human developers is the ability to understand and

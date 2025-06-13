@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: nunes2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.17003"}
-  - {name: "Code", url: "https://github.com/piresramon/gpt-4-enem"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.17003'}
+  - {name: "Code", url: 'https://github.com/piresramon/gpt-4-enem'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 The present study aims to explore the capabilities of Language Models (LMs)
 in tackling high-stakes multiple-choice tests, represented here by the Exame

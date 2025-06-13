@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: patel2024automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06835"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06835'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Ethics and Bias']
 ---
 This paper explores the possibilities of the current generation of Large
 Language Models for incorporating Machine Learning Operations (MLOps)

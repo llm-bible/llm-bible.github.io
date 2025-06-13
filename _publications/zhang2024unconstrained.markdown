@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024unconstrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13699"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13699'}
+tags: ['Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Pretraining Methods']
 ---
 Recent advancements in building domain-specific large language models (LLMs)
 have shown remarkable success, especially in tasks requiring reasoning

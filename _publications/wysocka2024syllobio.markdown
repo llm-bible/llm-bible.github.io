@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wysocka2024syllobio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14399"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14399'}
+tags: ['Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning']
 ---
 Syllogistic reasoning is crucial for Natural Language Inference (NLI). This
 capability is particularly significant in specialized domains such as

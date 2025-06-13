@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ye2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01005"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01005'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Transformers, driven by attention mechanisms, form the foundation of large
 language models (LLMs). As these models scale up, efficient GPU attention

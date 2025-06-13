@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: gao2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.15863"}
-  - {name: "Code", url: "https://github.com/Hertin/WavPrompt"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.15863'}
+  - {name: "Code", url: 'https://github.com/Hertin/WavPrompt'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large-scale auto-regressive language models pretrained on massive text have
 demonstrated their impressive ability to perform new natural language tasks

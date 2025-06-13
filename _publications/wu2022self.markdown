@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022self
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2212.10375v2"}
-  - {name: "Code", url: "https://github.com/Shark-NLP/self-adaptive-ICL"}
-tags: ['Tools', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2212.10375v2'}
+  - {name: "Code", url: 'https://github.com/Shark-NLP/self-adaptive-ICL'}
+tags: ['Has Code', 'Few-Shot', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Despite the surprising few-shot performance of in-context learning (ICL), it
 is still a common practice to randomly sample examples to serve as context.

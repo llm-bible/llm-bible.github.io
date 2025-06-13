@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: woźniak2024personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09269"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09269'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) have significantly advanced Natural Language
 Processing (NLP) tasks in recent years. However, their universal nature poses

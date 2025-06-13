@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05376"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05376'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse tasks and exhibited impressive reasoning abilities by applying

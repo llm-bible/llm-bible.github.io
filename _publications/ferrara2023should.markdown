@@ -6,8 +6,8 @@ conference: "First Monday Volume 28 Number 11 - 6 November 2023"
 year: 2023
 bibkey: ferrara2023should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.03738"}
-tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.03738'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 As the capabilities of generative language models continue to advance, the
 implications of biases ingrained within these models have garnered increasing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chung2023increasing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04140"}
-tags: ['Applications', 'Language Modeling', 'ACL', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04140'}
+tags: ['Language Modeling', 'ACL', 'Few-Shot', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) can be used to generate text data for training
 and evaluating other models. However, creating high-quality datasets with LLMs

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tang2023customer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09773"}
-tags: ['Pre-Training', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09773'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 The dialogue systems in customer services have been developed with neural
 models to provide users with precise answers and round-the-clock support in

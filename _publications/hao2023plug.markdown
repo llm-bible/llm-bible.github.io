@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: hao2023plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00971"}
-  - {name: "Code", url: "https://github.com/haoosz/ViCo"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00971'}
+  - {name: "Code", url: 'https://github.com/haoosz/ViCo'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Personalized text-to-image generation using diffusion models has recently
 emerged and garnered significant interest. This task learns a novel concept

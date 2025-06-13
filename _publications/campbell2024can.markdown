@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: campbell2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03945"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03945'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) is a phenomenon where task learning occurs through
 a prompt sequence without the necessity of parameter updates. ICL in

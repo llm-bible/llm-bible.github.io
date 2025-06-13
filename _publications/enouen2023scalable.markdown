@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: enouen2023scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01279"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01279'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'GPT', 'Applications', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Large language models (LLMs) have attracted huge interest in practical
 applications given their increasingly accurate responses and coherent reasoning

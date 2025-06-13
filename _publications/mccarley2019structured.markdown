@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: mccarley2019structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.06360"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.06360'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Quantization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The recent trend in industry-setting Natural Language Processing (NLP)
 research has been to operate large %scale pretrained language models like BERT

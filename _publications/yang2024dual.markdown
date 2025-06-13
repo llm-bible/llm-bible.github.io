@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13443"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13443'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Gradient-free prompt optimization methods have made significant strides in

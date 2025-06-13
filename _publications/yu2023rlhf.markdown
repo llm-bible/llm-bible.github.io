@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023rlhf
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.00849v2"}
-  - {name: "Code", url: "https://github.com/RLHF-V/RLHF-V"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.00849v2'}
+  - {name: "Code", url: 'https://github.com/RLHF-V/RLHF-V'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) have recently demonstrated
 impressive capabilities in multimodal understanding, reasoning, and

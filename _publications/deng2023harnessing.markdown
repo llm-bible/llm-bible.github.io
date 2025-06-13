@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: deng2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07130"}
-  - {name: "Code", url: "https://github.com/researchcode003/DACA)"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07130'}
+  - {name: "Code", url: 'https://github.com/researchcode003/DACA)'}
+tags: ['Agentic', 'Has Code', 'Security', 'Prompting', 'Responsible AI']
 ---
 To prevent Text-to-Image (T2I) models from generating unethical images,
 people deploy safety filters to block inappropriate drawing prompts. Previous

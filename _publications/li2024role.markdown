@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16367"}
-tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16367'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Retrieval augmented generation (RAG) exhibits outstanding performance in
 promoting the knowledge capabilities of large language models (LLMs) with

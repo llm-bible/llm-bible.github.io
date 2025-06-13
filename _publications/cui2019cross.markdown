@@ -6,9 +6,9 @@ conference: "EMNLP 2019 1586-1595"
 year: 2019
 bibkey: cui2019cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00361"}
-  - {name: "Code", url: "https://github.com/ymcui/Cross-Lingual-MRC"}
-tags: ['Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00361'}
+  - {name: "Code", url: 'https://github.com/ymcui/Cross-Lingual-MRC'}
+tags: ['Large-Scale Training', 'Has Code', 'Training Techniques', 'BERT', 'Model Architecture']
 ---
 Though the community has made great progress on Machine Reading Comprehension
 (MRC) task, most of the previous works are solving English-based MRC problems,

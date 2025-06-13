@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: thaker2024guardrail
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03329"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03329'}
 tags: ['Prompting']
 ---
 Recent work has demonstrated that finetuning is a promising approach to

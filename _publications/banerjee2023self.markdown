@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: banerjee2023self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.10165"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.10165'}
+tags: ['Training Techniques', 'RAG', 'Applications', 'Pretraining Methods']
 ---
 Humans can learn to operate the user interface (UI) of an application by
 reading an instruction manual or how-to guide. Along with text, these resources

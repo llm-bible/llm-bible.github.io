@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shaer2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14978"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14978'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 The growing availability of generative AI technologies such as large language
 models (LLMs) has significant implications for creative work. This paper

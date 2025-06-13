@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12311"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12311'}
+tags: ['Interpretability and Explainability', 'Applications', 'Training Techniques']
 ---
 Open domain question answering systems frequently rely on information
 retrieved from large collections of text (such as the Web) to answer questions.

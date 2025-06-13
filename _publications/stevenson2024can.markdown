@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: stevenson2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02348"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02348'}
 tags: ['Uncategorized']
 ---
 When we solve an analogy we transfer information from a known context to a

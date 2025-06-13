@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rajesh2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16395"}
-tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16395'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 In recent times there has been a surge of multi-modal architectures based on
 Large Language Models, which leverage the zero shot generation capabilities of

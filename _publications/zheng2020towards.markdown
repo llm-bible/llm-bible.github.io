@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zheng2020towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.07982"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.07982'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Document-level machine translation manages to outperform sentence level
 models by a small margin, but have failed to be widely adopted. We argue that

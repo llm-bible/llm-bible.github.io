@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13906"}
-  - {name: "Code", url: "https://github.com/YuXiangLin1234/Copywriting-Generation"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13906'}
+  - {name: "Code", url: 'https://github.com/YuXiangLin1234/Copywriting-Generation'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 The goal of product copywriting is to capture the interest of potential
 buyers by emphasizing the features of products through text descriptions. As

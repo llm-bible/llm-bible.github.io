@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tu2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10557"}
-tags: ['Efficiency and Optimization', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10557'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Multimodal Models']
 ---
 We present a novel instruction tuning recipe to improve the zero-shot task
 generalization of multimodal large language models. In contrast to existing

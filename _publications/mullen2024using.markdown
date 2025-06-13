@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mullen2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13198"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13198'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Large language models (LLMs) showcase many desirable traits for intelligent
 and helpful robots. However, they are also known to hallucinate predictions.

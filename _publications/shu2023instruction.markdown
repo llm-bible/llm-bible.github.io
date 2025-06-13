@@ -6,9 +6,9 @@ conference: "AAAI 2024"
 year: 2023
 bibkey: shu2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15685"}
-  - {name: "Code", url: "https://github.com/google-research/google-research/tree/master/rewritelm)"}
-tags: ['Agentic', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15685'}
+  - {name: "Code", url: 'https://github.com/google-research/google-research/tree/master/rewritelm)'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 creative tasks such as storytelling and E-mail generation. However, as LLMs are

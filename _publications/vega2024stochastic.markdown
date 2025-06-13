@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: vega2024stochastic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02785"}
-  - {name: "Code", url: "https://github.com/uiuc-focal-lab/stochastic-monkeys/"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02785'}
+  - {name: "Code", url: 'https://github.com/uiuc-focal-lab/stochastic-monkeys/'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Safety alignment of Large Language Models (LLMs) has recently become a
 critical objective of model developers. In response, a growing body of work has

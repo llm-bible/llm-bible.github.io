@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: storhaug2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02462"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02462'}
+tags: ['Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The advent of large language models (LLMs) like GitHub Copilot has
 significantly enhanced programmers' productivity, particularly in code

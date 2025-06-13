@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13136"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13136'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 As the influence of large language models (LLMs) spans across global
 communities, their safety challenges in multilingual settings become paramount

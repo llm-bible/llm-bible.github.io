@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhu2022predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.07352"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.07352'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large NLP models have recently shown impressive performance in language
 understanding tasks, typically evaluated by their fine-tuned performance.

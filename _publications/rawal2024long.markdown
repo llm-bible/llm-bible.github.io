@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rawal2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08813"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08813'}
+tags: ['Applications', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Current datasets for long-form video understanding often fall short of
 providing genuine long-form comprehension challenges, as many tasks derived

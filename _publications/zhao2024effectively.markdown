@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024effectively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14484"}
-  - {name: "Code", url: "https://github.com/zhaominyiz/PACU"}
-tags: ['Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14484'}
+  - {name: "Code", url: 'https://github.com/zhaominyiz/PACU'}
+tags: ['Prompting', 'Has Code', 'Tools']
 ---
 Recent studies have shown that Vision Language Large Models (VLLMs) may
 output content not relevant to the input images. This problem, called the

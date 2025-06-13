@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01317"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01317'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 The newly released OpenAI-o1 and DeepSeek-R1 have demonstrated that test-time
 scaling can significantly improve model performance, especially in complex

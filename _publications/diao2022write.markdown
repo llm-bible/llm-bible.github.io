@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: diao2022write
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.07699"}
-  - {name: "Code", url: "https://github.com/shizhediao/DaVinci"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.07699'}
+  - {name: "Code", url: 'https://github.com/shizhediao/DaVinci'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models', 'Pre-Training']
 ---
 Recent advances in vision-language pre-training have pushed the
 state-of-the-art on various vision-language tasks, making machines more capable

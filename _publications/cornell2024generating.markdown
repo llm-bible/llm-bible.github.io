@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cornell2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09215"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09215'}
+tags: ['RAG', 'INTERSPEECH', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Currently, a common approach in many speech processing tasks is to leverage
 large scale pre-trained models by fine-tuning them on in-domain data for a

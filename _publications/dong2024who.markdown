@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024who
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15311"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15311'}
+tags: ['Agentic', 'RAG', 'Fairness', 'Tools', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are pivotal AI agents in complex tasks but still
 face challenges in open decision-making problems within complex scenarios. To

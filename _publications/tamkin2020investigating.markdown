@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: tamkin2020investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.14975"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.14975'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 How does language model pretraining help transfer learning? We consider a
 simple ablation technique for determining the impact of each pretrained layer

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.12967"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.12967'}
+tags: ['Transformer', 'WMT', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Applications', 'Pretraining Methods']
 ---
 Neural Machine Translation (NMT) models achieve state-of-the-art performance
 on many translation benchmarks. As an active research field in NMT, knowledge

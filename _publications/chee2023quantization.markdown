@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chee2023quantization
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2307.13304v2"}
-  - {name: "Code", url: "https://github.com/Cornell-RelaxML/QuIP"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2307.13304v2'}
+  - {name: "Code", url: 'https://github.com/Cornell-RelaxML/QuIP'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Quantization']
 ---
 This work studies post-training parameter quantization in large language
 models (LLMs). We introduce quantization with incoherence processing (QuIP), a

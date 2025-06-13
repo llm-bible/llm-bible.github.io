@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: j2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10779"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10779'}
 tags: ['RAG']
 ---
 There is a compelling necessity from enterprises for fine tuning LLMs (Large

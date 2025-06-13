@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lan2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13764"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13764'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Critique ability, i.e., the capability of Large Language Models (LLMs) to

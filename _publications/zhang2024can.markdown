@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15992"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15992'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) demonstrate great potential for problems with
 implicit graphical structures, while recent works seek to enhance the graph

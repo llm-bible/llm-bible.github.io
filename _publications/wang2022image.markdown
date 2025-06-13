@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.10442"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.10442'}
+tags: ['Transformer', 'Training Techniques', 'Merging', 'Model Architecture', 'Scaling Laws', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 A big convergence of language, vision, and multimodal pretraining is
 emerging. In this work, we introduce a general-purpose multimodal foundation

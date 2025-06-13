@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024openai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06198"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06198'}
+tags: ['Prompting', 'Training Techniques']
 ---
 The Orion-1 model by OpenAI is claimed to have more robust logical reasoning
 capabilities than previous large language models. However, some suggest the

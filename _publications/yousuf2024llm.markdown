@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yousuf2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16116"}
-tags: ['Model Architecture', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16116'}
+tags: ['Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 Building on their demonstrated ability to perform a variety of tasks, we
 investigate the application of large language models (LLMs) to enhance in-depth

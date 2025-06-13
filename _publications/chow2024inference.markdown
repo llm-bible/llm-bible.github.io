@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chow2024inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15287"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15287'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent studies have indicated that effectively utilizing inference-time
 compute is crucial for attaining better performance from large language models

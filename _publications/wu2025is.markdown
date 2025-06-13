@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10858"}
-  - {name: "Code", url: "https://github.com/zongqianwu/breadth"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10858'}
+  - {name: "Code", url: 'https://github.com/zongqianwu/breadth'}
 tags: ['Fine-Tuning', 'Has Code']
 ---
 Deep iterative chain-of-thought (CoT) reasoning enables LLMs to tackle

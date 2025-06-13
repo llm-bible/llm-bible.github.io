@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024serial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15981"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15981'}
+tags: ['Ethics and Bias', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in zero-shot
 learning applications, generating responses to queries using only pre-training

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11891"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11891'}
+tags: ['Language Modeling', 'RAG', 'Applications', 'Tools', 'Prompting']
 ---
 Prompts play a crucial role in guiding the responses of Large Language Models
 (LLMs). However, the intricate role of individual tokens in prompts, known as

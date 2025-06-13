@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: pawar2025presumed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11995"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11995'}
 tags: ['Ethics and Bias']
 ---
 Names are deeply tied to human identity. They can serve as markers of

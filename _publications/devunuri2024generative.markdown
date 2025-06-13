@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: devunuri2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06831"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06831'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 This paper introduces a framework that leverages Large Language Models (LLMs)
 to answer natural language queries about General Transit Feed Specification

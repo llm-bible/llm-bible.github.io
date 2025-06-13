@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.21040"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.21040'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement Learning from Human Feedback (RLHF) has been commonly used to
 align the behaviors of Large Language Models (LLMs) with human preferences.

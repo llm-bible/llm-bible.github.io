@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.00589"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.00589'}
+tags: ['Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Humans possess the remarkable ability to foresee the future to a certain
 extent based on present observations, a skill we term as foresight minds.

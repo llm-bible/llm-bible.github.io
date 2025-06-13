@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024noise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17264"}
-  - {name: "Code", url: "https://github.com/ml-stat-Sustech/Local-Perplexity-Ranking"}
-tags: ['Applications', 'Language Modeling', 'Security', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17264'}
+  - {name: "Code", url: 'https://github.com/ml-stat-Sustech/Local-Perplexity-Ranking'}
+tags: ['Has Code', 'Language Modeling', 'Security', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown impressive performance on downstream
 tasks by in-context learning (ICL), which heavily relies on the quality of

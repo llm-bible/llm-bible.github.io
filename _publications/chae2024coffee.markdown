@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chae2024coffee
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19715"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19715'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 This paper presents Coffee-Gym, a comprehensive RL environment for training
 models that provide feedback on code editing. Coffee-Gym includes two major

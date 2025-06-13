@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: alexandrov2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08699"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08699'}
 tags: ['Training Techniques', 'Pretraining Methods', 'Model Architecture', 'Merging']
 ---
 As open-weight large language models (LLMs) achieve ever more impressive

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jing2025bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18320"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18320'}
 tags: ['RAG']
 ---
 In the realm of Large Multi-modal Models (LMMs), the instruction quality

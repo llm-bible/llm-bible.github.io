@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06990"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06990'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In this paper, we introduce a learning analytics framework to analyze the
 in-context learning (ICL) behavior of large language models (LLMs) through the

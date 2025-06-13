@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: santacroce2023what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.03773"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Pruning', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.03773'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Pruning']
 ---
 Auto-regressive large language models such as GPT-3 require enormous
 computational resources to use. Traditionally, structured pruning methods are

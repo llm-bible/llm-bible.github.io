@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07486"}
-tags: ['Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07486'}
+tags: ['Interpretability and Explainability', 'Applications', 'Prompting', 'Reinforcement Learning', 'Interpretability']
 ---
 Cross-lingual Machine Translation (MT) quality estimation plays a crucial
 role in evaluating translation performance. GEMBA, the first MT quality

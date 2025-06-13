@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024humaneval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.21199"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.21199'}
 tags: ['Applications']
 ---
 We introduce self-invoking code generation, a new task designed to evaluate

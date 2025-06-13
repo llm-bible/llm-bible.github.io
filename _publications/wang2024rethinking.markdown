@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024rethinking
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2402.09543v1"}
-tags: ['Efficiency and Optimization', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2402.09543v1'}
+tags: ['ACL', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'TACL']
 ---
 Recently, sequential recommendation has been adapted to the LLM paradigm to
 enjoy the power of LLMs. LLM-based methods usually formulate recommendation

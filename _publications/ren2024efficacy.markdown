@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024efficacy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06262"}
-  - {name: "Code", url: "https://github.com/DRSY/EasyKV"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06262'}
+  - {name: "Code", url: 'https://github.com/DRSY/EasyKV'}
+tags: ['Attention Mechanism', 'Has Code', 'Security', 'Model Architecture', 'Reinforcement Learning']
 ---
 Despite the recent success associated with Large Language Models (LLMs), they
 are notably cost-prohibitive to deploy in resource-constrained environments due

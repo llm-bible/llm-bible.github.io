@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024fbi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07093"}
-  - {name: "Code", url: "https://github.com/LiqunMa/FBI-LLM"}
-  - {name: "Code", url: "https://huggingface.co/LiqunMa/)"}
-tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07093'}
+  - {name: "Code", url: 'https://github.com/LiqunMa/FBI-LLM'}
+  - {name: "Code", url: 'https://huggingface.co/LiqunMa/)'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This work presents a Fully BInarized Large Language Model (FBI-LLM),
 demonstrating for the first time how to train a large-scale binary language

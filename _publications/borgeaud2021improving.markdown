@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: borgeaud2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.04426"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.04426'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'BERT', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 We enhance auto-regressive language models by conditioning on document chunks
 retrieved from a large corpus, based on local similarity with preceding tokens.

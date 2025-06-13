@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chiang2021why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.07137"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.07137'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The huge size of the widely used BERT family models has led to recent efforts
 about model distillation. The main goal of distillation is to create a

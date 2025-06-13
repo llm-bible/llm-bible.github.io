@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeinalipour2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16936"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16936'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 In this work, we unveil a novel tool for generating Italian crossword puzzles
 from text, utilizing advanced language models such as GPT-4o,

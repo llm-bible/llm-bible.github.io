@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chia2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10858"}
-  - {name: "Code", url: "https://reasoning-paths.github.io"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10858'}
+  - {name: "Code", url: 'https://reasoning-paths.github.io'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Advanced models such as OpenAI o1 exhibit impressive problem-solving
 capabilities through step-by-step reasoning. However, they may still falter on

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15200"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15200'}
 tags: ['Prompting', 'Applications']
 ---
 Generally, the decoder-only large language models (LLMs) are adapted to

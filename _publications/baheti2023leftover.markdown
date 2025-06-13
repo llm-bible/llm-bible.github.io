@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: baheti2023leftover
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14718"}
-  - {name: "Code", url: "https://github.com/abaheti95/LoL-RL"}
-tags: ['Agentic', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14718'}
+  - {name: "Code", url: 'https://github.com/abaheti95/LoL-RL'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Training Techniques']
 ---
 Reinforcement Learning with Human Feedback (RLHF) is the most prominent
 method for Language Model (LM) alignment. However, RLHF is an unstable and

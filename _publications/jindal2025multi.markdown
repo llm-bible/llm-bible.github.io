@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jindal2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04673"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04673'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Vision Large Language Models (VLLMs) represent a significant advancement in
 artificial intelligence by integrating image-processing capabilities with

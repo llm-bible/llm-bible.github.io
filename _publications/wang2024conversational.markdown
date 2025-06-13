@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10552"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10552'}
+tags: ['Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Simultaneous machine translation (SimulMT) presents a challenging trade-off
 between translation quality and latency. Recent studies have shown that LLMs

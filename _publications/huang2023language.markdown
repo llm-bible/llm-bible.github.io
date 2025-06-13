@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023language
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2302.14045v2"}
-tags: ['Applications', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2302.14045v2'}
+tags: ['Few-Shot', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 A big convergence of language, multimodal perception, action, and world
 modeling is a key step toward artificial general intelligence. In this work, we

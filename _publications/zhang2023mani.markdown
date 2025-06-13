@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023mani
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01555"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01555'}
+tags: ['Transformer', 'RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In real-world scenarios, human dialogues are multi-round and diverse.
 Furthermore, human instructions can be unclear and human responses are

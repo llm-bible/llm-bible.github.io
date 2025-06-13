@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.01763"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.01763'}
+tags: ['Agentic', 'Transformer', 'Model Architecture', 'RecSys', 'Pretraining Methods']
 ---
 User simulation has been a cost-effective technique for evaluating
 conversational recommender systems. However, building a human-like simulator is

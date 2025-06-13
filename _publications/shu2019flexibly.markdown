@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: shu2019flexibly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.02402"}
-  - {name: "Code", url: "https://github.com/uber-research/FSDM"}
-tags: ['Model Architecture', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.02402'}
+  - {name: "Code", url: 'https://github.com/uber-research/FSDM'}
+tags: ['Reinforcement Learning', 'Has Code', 'Applications', 'Model Architecture']
 ---
 This paper proposes a novel end-to-end architecture for task-oriented
 dialogue systems. It is based on a simple and practical yet very effective

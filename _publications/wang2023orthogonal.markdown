@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023orthogonal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14152"}
-tags: ['Fine-Tuning', 'RAG']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14152'}
+tags: ['RAG', 'Fine-Tuning']
 ---
 Benefiting from massive corpora and advanced hardware, large language models
 (LLMs) exhibit remarkable capabilities in language understanding and

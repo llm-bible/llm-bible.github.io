@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: salman2025spallm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04985"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04985'}
+tags: ['Few-Shot', 'Security', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The increasing threat of SMS spam, driven by evolving adversarial techniques
 and concept drift, calls for more robust and adaptive detection methods. In

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hagemann2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05610"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05610'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture']
 ---
 Efficiently training large language models requires parallelizing across
 hundreds of hardware accelerators and invoking various compute and memory

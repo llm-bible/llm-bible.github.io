@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rodriguez2024few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10670"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10670'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In today's digitally driven world, dialogue systems play a pivotal role in
 enhancing user interactions, from customer service to virtual assistants. In

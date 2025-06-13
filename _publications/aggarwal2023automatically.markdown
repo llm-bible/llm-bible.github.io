@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: aggarwal2023automatically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12963"}
-tags: ['Training Techniques', 'RAG', 'Tools', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12963'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) are now available from cloud API providers in
 various sizes and configurations. While this diversity offers a broad spectrum

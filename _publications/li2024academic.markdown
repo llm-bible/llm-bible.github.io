@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024academic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05232"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05232'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable performance across various
 tasks, yet their ability to handle long-context reading remains challenging.

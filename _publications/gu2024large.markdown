@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10478"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10478'}
 tags: ['Efficiency and Optimization', 'Survey Paper']
 ---
 Building effective machine learning (ML) workflows to address complex tasks

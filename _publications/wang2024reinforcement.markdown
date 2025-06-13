@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10400"}
-  - {name: "Code", url: "https://github.com/ShuheWang1998/Reinforcement-Learning-Enhanced-LLMs-A-Survey"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10400'}
+  - {name: "Code", url: 'https://github.com/ShuheWang1998/Reinforcement-Learning-Enhanced-LLMs-A-Survey'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Reinforcement learning (RL) enhanced large language models (LLMs),
 particularly exemplified by DeepSeek-R1, have exhibited outstanding

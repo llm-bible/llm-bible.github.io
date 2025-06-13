@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: setzler2022recursive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.11766"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.11766'}
 tags: ['Training Techniques']
 ---
 Compositional generalization is a troubling blind spot for neural language

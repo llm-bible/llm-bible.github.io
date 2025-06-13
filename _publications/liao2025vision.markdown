@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liao2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20504"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20504'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 Multimodal large language models (MLLMs) have demonstrated significant
 potential in medical Visual Question Answering (VQA). Yet, they remain prone to

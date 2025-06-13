@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yano2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00623"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00623'}
 tags: ['Training Techniques']
 ---
 As Large Language Models (LLMs) gain widespread practical application,

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2025
 bibkey: yueyu2025yet
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03289"}
-  - {name: "Code", url: "https://github.com/yynil/RWKVTTS,"}
-  - {name: "Code", url: "https://huggingface.co/spaces/RWKV-Red-Team"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03289'}
+  - {name: "Code", url: 'https://github.com/yynil/RWKVTTS,'}
+  - {name: "Code", url: 'https://huggingface.co/spaces/RWKV-Red-Team'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Human-AI interaction thrives on intuitive and efficient interfaces, among
 which voice stands out as a particularly natural and accessible modality.

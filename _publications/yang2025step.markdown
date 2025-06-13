@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04404"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04404'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The integration of slow-thinking mechanisms into large language models (LLMs)
 offers a promising way toward achieving Level 2 AGI Reasoners, as exemplified

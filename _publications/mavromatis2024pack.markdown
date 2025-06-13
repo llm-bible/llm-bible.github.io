@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mavromatis2024pack
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11531"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11531'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Merging']
 ---
 Fusing knowledge from multiple Large Language Models (LLMs) can combine their

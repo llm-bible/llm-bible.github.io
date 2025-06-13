@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10308"}
-  - {name: "Code", url: "https://github.com/alinlab/HOMER"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10308'}
+  - {name: "Code", url: 'https://github.com/alinlab/HOMER'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable performance in various
 natural language processing tasks. However, a primary constraint they face is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuang2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20105"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20105'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pruning', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) enhance their perceptual
 capabilities by integrating visual and textual information. However, processing

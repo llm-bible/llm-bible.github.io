@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022towards
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2206.09363v1"}
-tags: ['RecSys', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2206.09363v1'}
+tags: ['Prompting', 'RecSys', 'Model Architecture']
 ---
 Conversational recommender systems (CRS) aim to proactively elicit user
 preference and recommend high-quality items through natural language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sengupta2023top
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16995"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16995'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'GPT', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 We study extractive question-answering in the medical domain (Medical-EQA).
 This problem has two main challenges: (i) domain specificity, as most AI models

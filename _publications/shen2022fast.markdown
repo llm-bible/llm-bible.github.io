@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: shen2022fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.07715"}
-  - {name: "Code", url: "https://github.com/intel/intel-extension-for-transformers"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.07715'}
+  - {name: "Code", url: 'https://github.com/intel/intel-extension-for-transformers'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'BERT', 'Model Architecture', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Transformer-based language models have become the standard approach to
 solving natural language processing tasks. However, industry adoption usually

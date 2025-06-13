@@ -6,8 +6,8 @@ conference: "The Twelfth International Conference on Learning Representations 20
 year: 2023
 bibkey: belouadi2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00367"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00367'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture', 'Multimodal Models']
 ---
 Generating bitmap graphics from text has gained considerable attention, yet
 for scientific figures, vector graphics are often preferred. Given that vector

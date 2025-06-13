@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: zan2022bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.07834"}
-  - {name: "Code", url: "https://github.com/zanchangtong/CSR4mBART"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.07834'}
+  - {name: "Code", url: 'https://github.com/zanchangtong/CSR4mBART'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 For multilingual sequence-to-sequence pretrained language models
 (multilingual Seq2Seq PLMs), e.g. mBART, the self-supervised pretraining task

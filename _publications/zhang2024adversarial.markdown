@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13752"}
-  - {name: "Code", url: "https://github.com/Zhang-Yihao/Adversarial-Representation-Engineering"}
-tags: ['Tools', 'RAG', 'ACL', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13752'}
+  - {name: "Code", url: 'https://github.com/Zhang-Yihao/Adversarial-Representation-Engineering'}
+tags: ['Has Code', 'ACL', 'RAG', 'Security', 'Tools']
 ---
 Since the rapid development of Large Language Models (LLMs) has achieved
 remarkable success, understanding and rectifying their internal complex

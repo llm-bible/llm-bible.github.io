@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025overview
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17814"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Interpretability', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17814'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Fairness', 'Model Architecture', 'Applications', 'Tools', 'Merging', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLMs) have emerged as transformative tools in
 artificial intelligence (AI), exhibiting remarkable capabilities across diverse

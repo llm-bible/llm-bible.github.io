@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.00692"}
-  - {name: "Code", url: "https://github.com/dvlab-research/LISA"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00692'}
+  - {name: "Code", url: 'https://github.com/dvlab-research/LISA'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Although perception systems have made remarkable advancements in recent
 years, they still rely on explicit human instruction or pre-defined categories

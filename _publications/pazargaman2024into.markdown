@@ -6,7 +6,7 @@ conference: "ACL 2024 Findings"
 year: 2024
 bibkey: pazargaman2024into
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19967"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19967'}
 tags: ['Training Techniques']
 ---
 Similar to vision-and-language navigation (VLN) tasks that focus on bridging

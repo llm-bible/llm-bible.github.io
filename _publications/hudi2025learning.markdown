@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: hudi2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18431"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18431'}
 tags: ['RAG']
 ---
 Reasoning is a fundamental capability of large language models (LLMs),

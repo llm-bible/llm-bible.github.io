@@ -6,8 +6,8 @@ conference: "Neural Information Processing Systems (NeurIPS) 2020"
 year: 2020
 bibkey: zaheer2020big
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.14062"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.14062'}
+tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformers-based models, such as BERT, have been one of the most successful
 deep learning models for NLP. Unfortunately, one of their core limitations is

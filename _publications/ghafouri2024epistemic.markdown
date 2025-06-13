@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghafouri2024epistemic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06528"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06528'}
 tags: ['Tools']
 ---
 Large language models are increasingly relied upon as sources of information,

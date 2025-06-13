@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: korrel2019transcoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.01234"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.01234'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 While sequence-to-sequence models have shown remarkable generalization power
 across several natural language tasks, their construct of solutions are argued

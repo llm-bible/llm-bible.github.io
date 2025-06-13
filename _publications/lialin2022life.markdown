@@ -6,8 +6,8 @@ conference: "Proceedings of the 60th Annual Meeting of the Association for Compu
 year: 2022
 bibkey: lialin2022life
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.10696"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.10696'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Existing pre-trained transformer analysis works usually focus only on one or
 two model families at a time, overlooking the variability of the architecture

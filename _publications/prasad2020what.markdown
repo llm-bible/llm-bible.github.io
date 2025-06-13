@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: prasad2020what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.13354"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.13354'}
+tags: ['Interpretability and Explainability', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Given the increasingly prominent role NLP models (will) play in our lives, it
 is important for human expectations of model behavior to align with actual

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01822"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01822'}
 tags: ['Applications']
 ---
 As Large Language Models (LLMs) become more integrated into our daily lives,

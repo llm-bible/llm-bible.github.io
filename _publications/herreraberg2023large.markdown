@@ -6,8 +6,8 @@ conference: "https://aclanthology.org/2023.emnlp-main.599"
 year: 2023
 bibkey: herreraberg2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14422"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14422'}
+tags: ['Agentic', 'Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent advancements in natural language processing by large language models
 (LLMs), such as GPT-4, have been suggested to approach Artificial General

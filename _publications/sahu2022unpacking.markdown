@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: sahu2022unpacking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.15093"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.15093'}
 tags: ['Prompting']
 ---
 If a Large Language Model (LLM) answers "yes" to the question "Are mountains

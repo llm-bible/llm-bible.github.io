@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023accurate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03788"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03788'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown remarkable capabilities in various
 tasks. However their huge model size and the consequent demand for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: delbrouck2017multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1703.08084"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1703.08084'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 In state-of-the-art Neural Machine Translation, an attention mechanism is
 used during decoding to enhance the translation. At every step, the decoder

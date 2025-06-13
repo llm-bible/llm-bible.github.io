@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024profiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12541"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12541'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'BERT', 'Tools']
 ---
 Alzheimer's disease (AD) stands as the predominant cause of dementia,
 characterized by a gradual decline in speech and language capabilities. Recent

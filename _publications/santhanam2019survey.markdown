@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: santhanam2019survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.00500"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.00500'}
+tags: ['Reinforcement Learning', 'Applications', 'Model Architecture', 'Survey Paper']
 ---
 One of the hardest problems in the area of Natural Language Processing and
 Artificial Intelligence is automatically generating language that is coherent

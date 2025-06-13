@@ -6,8 +6,8 @@ conference: "IEEE International Conference on Data Mining 2024"
 year: 2024
 bibkey: zhang2024goal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07234"}
-tags: ['Security', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07234'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security']
 ---
 Current large language models (LLMs) provide a strong foundation for
 large-scale user-oriented natural language tasks. A large number of users can

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18760"}
-tags: ['Agentic', 'Agent', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18760'}
+tags: ['Agentic', 'Tools', 'Agent']
 ---
 In recent years, the remarkable progress of large language models (LLMs) has
 sparked interest in task automation, which involves decomposing complex tasks

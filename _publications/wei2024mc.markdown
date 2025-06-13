@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024mc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04521"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04521'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 In recent advancements, multimodal large language models (MLLMs) have been
 fine-tuned on specific medical image datasets to address medical visual

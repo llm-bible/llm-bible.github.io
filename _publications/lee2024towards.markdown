@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19898"}
-  - {name: "Code", url: "https://github.com/DISL-Lab/UniSumEval-v1.0"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19898'}
+  - {name: "Code", url: 'https://github.com/DISL-Lab/UniSumEval-v1.0'}
 tags: ['Has Code', 'Applications']
 ---
 Existing benchmarks for summarization quality evaluation often lack diverse

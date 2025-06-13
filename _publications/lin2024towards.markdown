@@ -6,8 +6,8 @@ conference: "The ACM Web Conference 2024"
 year: 2024
 bibkey: lin2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13298"}
-tags: ['Applications', 'Interpretability and Explainability', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13298'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The age of social media is flooded with Internet memes, necessitating a clear
 grasp and effective identification of harmful ones. This task presents a

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: markowitz2025kg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07087"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07087'}
 tags: ['Applications']
 ---
 Knowledge graphs have emerged as a popular method for injecting up-to-date,

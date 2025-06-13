@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06805"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06805'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The emergence of Large Language Models (LLMs) has significantly advanced
 natural language processing, but these models often generate factually

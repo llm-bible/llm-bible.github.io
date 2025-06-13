@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11273"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11273'}
 tags: ['Prompting', 'Applications']
 ---
 Recent large language models (LLMs) have demonstrated a remarkable ability to

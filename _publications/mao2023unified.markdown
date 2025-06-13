@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: mao2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15756"}
-  - {name: "Code", url: "https://github.com/Veason-silverbullet/UniTRec"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15756'}
+  - {name: "Code", url: 'https://github.com/Veason-silverbullet/UniTRec'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Prior study has shown that pretrained language models (PLM) can boost the
 performance of text-based recommendation. In contrast to previous works that

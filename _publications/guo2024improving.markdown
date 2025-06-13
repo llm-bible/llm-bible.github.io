@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19032"}
-  - {name: "Code", url: "http://github.com/Irenehere/ReliableAlignment"}
-tags: ['Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19032'}
+  - {name: "Code", url: 'http://github.com/Irenehere/ReliableAlignment'}
+tags: ['Has Code', 'Tools']
 ---
 Large language models (LLMs) are now rapidly advancing and surpassing human
 abilities on many natural language tasks. However, aligning these super-human

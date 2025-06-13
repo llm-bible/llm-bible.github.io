@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ognibene2025use
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02532"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02532'}
+tags: ['Few-Shot', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 The use of large language model (LLM)-powered chatbots, such as ChatGPT, has
 become popular across various domains, supporting a range of tasks and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: fang2020contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.12766"}
-  - {name: "Code", url: "https://github.com/UCSD-AI4H/CERT"}
-tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.12766'}
+  - {name: "Code", url: 'https://github.com/UCSD-AI4H/CERT'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 Pretrained language models such as BERT, GPT have shown great effectiveness
 in language understanding. The auxiliary predictive tasks in existing

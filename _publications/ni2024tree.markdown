@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15305"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15305'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Solving complex reasoning tasks is a key real-world application of agents.
 Thanks to the pretraining of Large Language Models (LLMs) on code data, recent

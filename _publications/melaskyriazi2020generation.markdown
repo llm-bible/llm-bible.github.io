@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: melaskyriazi2020generation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.00733"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.00733'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications']
 ---
 Over the past year, the emergence of transfer learning with large-scale
 language models (LM) has led to dramatic performance improvements across a

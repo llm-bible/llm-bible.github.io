@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kyrychenko2025human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16480"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16480'}
 tags: ['RAG', 'Training Techniques']
 ---
 As large language models (LLMs) enter the mainstream, aligning them to foster

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hodel2023emergent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16118"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16118'}
 tags: ['GPT', 'Model Architecture']
 ---
 In their recent Nature Human Behaviour paper, "Emergent analogical reasoning

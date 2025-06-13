@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023radiology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08666"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08666'}
 tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 We introduce Radiology-GPT, a large language model for radiology. Using an

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: du2023manually
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01861"}
-  - {name: "Code", url: "https://github.com/FudanSELab/ClassEval"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01861'}
+  - {name: "Code", url: 'https://github.com/FudanSELab/ClassEval'}
 tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In this work, we make the first attempt to evaluate LLMs in a more

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024glm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02612"}
-  - {name: "Code", url: "https://github.com/THUDM/GLM-4-Voice"}
-  - {name: "Code", url: "https://huggingface.co/THUDM/glm-4-voice-9b"}
-tags: ['INTERSPEECH', 'Pre-Training', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02612'}
+  - {name: "Code", url: 'https://github.com/THUDM/GLM-4-Voice'}
+  - {name: "Code", url: 'https://huggingface.co/THUDM/glm-4-voice-9b'}
+tags: ['Has Code', 'Language Modeling', 'INTERSPEECH', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 We introduce GLM-4-Voice, an intelligent and human-like end-to-end spoken
 chatbot. It supports both Chinese and English, engages in real-time voice

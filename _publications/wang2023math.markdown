@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023math
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08935"}
-tags: ['Training Techniques', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08935'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Training Techniques']
 ---
 In this paper, we present an innovative process-oriented math process reward
 model called \textbf\{Math-Shepherd\}, which assigns a reward score to each step

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sakib2024mitigations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04643"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Language Modeling', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04643'}
+tags: ['Language Modeling', 'Fairness', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Survey Paper', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Recent advancements in Large Language Models (LLMs), such as ChatGPT and
 LLaMA, have significantly transformed Natural Language Processing (NLP) with

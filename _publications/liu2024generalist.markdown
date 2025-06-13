@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024generalist
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12644"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12644'}
+tags: ['Training Techniques', 'RAG', 'Tools']
 ---
 Despite the success of text retrieval in many NLP tasks, code retrieval
 remains a largely underexplored area. Most text retrieval systems are tailored

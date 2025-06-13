@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02935"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02935'}
 tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Merging']
 ---
 This paper introduces KnowHalu, a novel approach for detecting hallucinations

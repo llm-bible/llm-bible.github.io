@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhatia2024family
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10986"}
-  - {name: "Code", url: "https://github.com/UBC-NLP/fintral"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10986'}
+  - {name: "Code", url: 'https://github.com/UBC-NLP/fintral'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce FinTral, a suite of state-of-the-art multimodal large language
 models (LLMs) built upon the Mistral-7b model and tailored for financial

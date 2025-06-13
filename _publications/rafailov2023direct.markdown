@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rafailov2023direct
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.18290v3"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.18290v3'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While large-scale unsupervised language models (LMs) learn broad world
 knowledge and some reasoning skills, achieving precise control of their

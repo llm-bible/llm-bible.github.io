@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lv2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09281"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09281'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 We examine the pre-training dynamics of language models, focusing on their
 ability to copy text from preceding context--a fundamental skill for various

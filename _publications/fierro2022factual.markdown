@@ -6,7 +6,7 @@ conference: "Findings of the Association for Computational Linguistics ACL 2022 
 year: 2022
 bibkey: fierro2022factual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.11552"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.11552'}
 tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 Pretrained language models can be queried for factual knowledge, with

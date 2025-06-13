@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aubry2024transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07810"}
-tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07810'}
+tags: ['Training Techniques', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have made significant strides in natural
 language processing, and a precise understanding of the internal mechanisms

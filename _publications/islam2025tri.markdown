@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: islam2025tri
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18735"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18735'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 We propose TLoRA, a novel tri-matrix low-rank adaptation method that

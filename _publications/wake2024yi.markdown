@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wake2024yi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01253"}
-  - {name: "Code", url: "https://platform.lingyiwanwu.com"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01253'}
+  - {name: "Code", url: 'https://platform.lingyiwanwu.com'}
+tags: ['Has Code', 'Ethics and Bias', 'RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 This technical report presents Yi-Lightning, our latest flagship large
 language model (LLM). It achieves exceptional performance, ranking 6th overall

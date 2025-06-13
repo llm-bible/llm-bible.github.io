@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023genspectrum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13821"}
-  - {name: "Code", url: "https://cov-spectrum.org/chat)"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13821'}
+  - {name: "Code", url: 'https://cov-spectrum.org/chat)'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Introduction: The COVID-19 pandemic highlighted the importance of making
 epidemiological data and scientific insights easily accessible and explorable

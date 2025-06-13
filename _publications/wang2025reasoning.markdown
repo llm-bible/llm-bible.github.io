@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04150"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04150'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 The Needle In A Haystack (NIAH) task has been widely used to evaluate the
 long-context question-answering capabilities of Large Language Models (LLMs).

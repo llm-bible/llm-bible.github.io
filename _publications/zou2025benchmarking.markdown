@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zou2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11186"}
-tags: ['BERT', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11186'}
+tags: ['RAG', 'BERT', 'Model Architecture']
 ---
 Recent advances in reasoning-focused large language models (LLMs) mark a
 shift from general LLMs toward models designed for complex decision-making, a

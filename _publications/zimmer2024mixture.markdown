@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zimmer2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03804"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03804'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture']
 ---
 The growth in the number of parameters of Large Language Models (LLMs) has
 led to a significant surge in computational requirements, making them

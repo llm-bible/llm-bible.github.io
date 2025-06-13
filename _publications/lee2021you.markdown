@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: lee2021you
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.07381"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.07381'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent approaches to Open-domain Question Answering refer to an external
 knowledge base using a retriever model, optionally rerank passages with a

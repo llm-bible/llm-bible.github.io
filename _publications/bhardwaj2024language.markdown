@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhardwaj2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11746"}
-  - {name: "Code", url: "https://github.com/declare-lab/resta"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11746'}
+  - {name: "Code", url: 'https://github.com/declare-lab/resta'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Aligned language models face a significant limitation as their fine-tuning
 often results in compromised safety. To tackle this, we propose a simple method

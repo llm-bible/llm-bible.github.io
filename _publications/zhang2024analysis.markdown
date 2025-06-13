@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20566"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20566'}
+tags: ['Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 We present MM1.5, a new family of multimodal large language models (MLLMs)
 designed to enhance capabilities in text-rich image understanding, visual

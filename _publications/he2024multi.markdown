@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17032"}
-  - {name: "Code", url: "https://github.com/probe2/multi-hop/"}
-tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17032'}
+  - {name: "Code", url: 'https://github.com/probe2/multi-hop/'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 various reasoning tasks but face significant challenges with complex,

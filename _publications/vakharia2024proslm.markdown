@@ -6,8 +6,8 @@ conference: "Springer Lecture Notes on Computer Science (LNAIvolume 14980) 2024"
 year: 2024
 bibkey: vakharia2024proslm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11589"}
-tags: ['Security', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11589'}
+tags: ['Security', 'Applications', 'Tools']
 ---
 Neurosymbolic approaches can add robustness to opaque neural systems by
 incorporating explainable symbolic representations. However, previous

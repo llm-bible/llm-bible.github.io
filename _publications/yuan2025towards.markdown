@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02458"}
-  - {name: "Code", url: "https://github.com/icip-cas/SAISA"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02458'}
+  - {name: "Code", url: 'https://github.com/icip-cas/SAISA'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) mainly fall into two architectures,
 each involving a trade-off between training and inference efficiency: embedding

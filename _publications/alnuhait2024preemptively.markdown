@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alnuhait2024preemptively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02899"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02899'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Language models (LMs) hallucinate. We inquire: Can we detect and mitigate
 hallucinations before they happen? This work answers this research question in

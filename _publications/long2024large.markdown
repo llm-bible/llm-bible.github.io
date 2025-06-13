@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: long2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.07505"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.07505'}
+tags: ['Agentic', 'Few-Shot', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In-context learning (ICL) has proven to be a significant capability with the
 advancement of Large Language models (LLMs). By instructing LLMs using few-shot

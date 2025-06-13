@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: gonen2022demystifying
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2212.04037v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2212.04037v2'}
 tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Language models can be prompted to perform a wide variety of zero- and

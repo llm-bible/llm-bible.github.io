@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: long2025vita
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03739"}
-tags: ['INTERSPEECH', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03739'}
+tags: ['Attention Mechanism', 'INTERSPEECH', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 With the growing requirement for natural human-computer interaction,
 speech-based systems receive increasing attention as speech is one of the most

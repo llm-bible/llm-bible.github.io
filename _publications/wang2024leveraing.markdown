@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024leveraing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08208"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08208'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Sequential Recommenders generate recommendations based on users' historical
 interaction sequences. However, in practice, these collected sequences are

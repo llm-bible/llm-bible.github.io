@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2308.14296v3"}
-tags: ['RAG', 'Agentic', 'Few-Shot', 'Tools']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2308.14296v3'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Tools']
 ---
 While the recommendation system (RS) has advanced significantly through deep
 learning, current RS approaches usually train and fine-tune models on

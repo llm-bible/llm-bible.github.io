@@ -6,8 +6,8 @@ conference: "Proc. 62nd ACL Vol. 1 Long Papers Bangkok Thailand pp. 1451-1466 20
 year: 2024
 bibkey: li2024citation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16063"}
-tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16063'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) exhibit powerful general intelligence across
 diverse scenarios, including their integration into chatbots. However, a vital

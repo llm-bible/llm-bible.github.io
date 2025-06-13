@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14705"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14705'}
 tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Model Architecture']
 ---
 Sparse Mixture-of-Experts (MoE) is a neural architecture design that can be

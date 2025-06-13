@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023enhance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18609"}
-  - {name: "Code", url: "https://github.com/eteced/arithmetic_finetuning_v1"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18609'}
+  - {name: "Code", url: 'https://github.com/eteced/arithmetic_finetuning_v1'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning']
 ---
 With the great success of ChatGPT, the research of large language models has
 become increasingly popular. However, the models have several limitations, such

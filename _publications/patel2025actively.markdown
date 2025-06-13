@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patel2025actively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04040"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04040'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 Assistive agents should be able to perform under-specified long-horizon tasks
 while respecting user preferences. We introduce Actively Discovering and

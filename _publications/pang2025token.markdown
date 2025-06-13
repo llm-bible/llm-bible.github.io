@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pang2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01968"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01968'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent studies show that in supervised fine-tuning (SFT) of large language
 models (LLMs), data quality matters more than quantity. While most data

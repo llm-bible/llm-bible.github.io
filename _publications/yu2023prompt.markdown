@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13660"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13660'}
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Planning for goal-oriented dialogue often requires simulating future dialogue
 interactions and estimating task progress. Many approaches thus consider

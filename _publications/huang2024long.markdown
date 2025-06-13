@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01691"}
-  - {name: "Code", url: "https://github.com/MiuLab/FactAlign"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01691'}
+  - {name: "Code", url: 'https://github.com/MiuLab/FactAlign'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models have demonstrated significant potential as the
 next-generation information access engines. However, their reliability is

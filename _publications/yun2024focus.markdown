@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yun2024focus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01283"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01283'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'BERT', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 Transformer-based models have achieved dominant performance in numerous NLP
 tasks. Despite their remarkable successes, pre-trained transformers such as

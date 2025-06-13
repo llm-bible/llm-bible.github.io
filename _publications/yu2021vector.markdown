@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yu2021vector
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.04627"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.04627'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pretraining language models with next-token prediction on massive text
 corpora has delivered phenomenal zero-shot, few-shot, transfer learning and

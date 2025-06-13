@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: çoban2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04615"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04615'}
 tags: ['RAG', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have demonstrated remarkable reasoning

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: parashar2025inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12521"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12521'}
 tags: ['Training Techniques']
 ---
 We examine the reasoning and planning capabilities of large language models

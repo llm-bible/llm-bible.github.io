@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11366"}
-tags: ['RAG', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11366'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture']
 ---
 Recent research on query generation has focused on using Large Language
 Models (LLMs), which despite bringing state-of-the-art performance, also

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025targeted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03225"}
-tags: ['Tools', 'Efficiency and Optimization', 'Distillation', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03225'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 This paper presents a compact model that achieves strong sentiment analysis
 capabilities through targeted distillation from advanced large language models

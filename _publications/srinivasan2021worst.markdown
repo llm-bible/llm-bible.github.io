@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: srinivasan2021worst
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08666"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08666'}
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Numerous works have analyzed biases in vision and pre-trained language models
 individually - however, less attention has been paid to how these biases

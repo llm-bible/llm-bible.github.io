@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12874"}
-tags: ['Transformer', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12874'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Applications', 'Model Architecture', 'Survey Paper', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Explainability for Large Language Models (LLMs) is a critical yet challenging
 aspect of natural language processing. As LLMs are increasingly integral to

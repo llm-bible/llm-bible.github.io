@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: costarelli2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06613"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06613'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Large language models have demonstrated remarkable few-shot performance on
 many natural language understanding tasks. Despite several demonstrations of

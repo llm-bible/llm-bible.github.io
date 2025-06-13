@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: murphy2025fundamental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10934"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10934'}
 tags: ['Tools']
 ---
 A core component of a successful artificial general intelligence would be the

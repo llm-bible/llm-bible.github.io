@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: punjwani2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16533"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16533'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 As virtual agents become increasingly prevalent in human-computer
 interaction, generating realistic and contextually appropriate gestures in

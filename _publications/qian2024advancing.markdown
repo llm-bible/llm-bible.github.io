@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12623"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12623'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) are the cornerstones of modern artificial
 intelligence systems. This paper introduces Juhaina, a Arabic-English bilingual

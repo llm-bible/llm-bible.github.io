@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15574"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15574'}
 tags: ['RAG']
 ---
 Story understanding and generation have long been a challenging task in

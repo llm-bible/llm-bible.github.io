@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024compressing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17052"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17052'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Long prompt leads to huge hardware costs when using transformer-based Large
 Language Models (LLMs). Unfortunately, many tasks, such as summarization,

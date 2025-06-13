@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jie2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12030"}
-tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12030'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'GPT', 'Model Architecture', 'Applications', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) like ChatGPT and GPT-4 have attracted great
 attention given their surprising performance on a wide range of NLP tasks.

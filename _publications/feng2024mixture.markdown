@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03432"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03432'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Model Architecture']
 ---
 Instruction Tuning has the potential to stimulate or enhance specific
 capabilities of large language models (LLMs). However, achieving the right

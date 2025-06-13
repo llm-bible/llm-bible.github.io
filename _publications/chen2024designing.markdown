@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024designing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07882"}
-tags: ['Interpretability and Explainability', 'Interpretability', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07882'}
+tags: ['Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
 ---
 Conversational LLMs function as black box systems, leaving users guessing
 about why they see the output they do. This lack of transparency is potentially

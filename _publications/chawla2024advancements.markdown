@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chawla2024advancements
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08773"}
-tags: ['RAG', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08773'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models', 'Applications']
 ---
 Lately, researchers in artificial intelligence have been really interested in
 how language and vision come together, giving rise to the development of

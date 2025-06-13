@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: schimanski2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08277"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08277'}
 tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Advances towards more faithful and traceable answers of Large Language Models

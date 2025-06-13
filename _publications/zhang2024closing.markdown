@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024closing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00588"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00588'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Large language models (LLMs) hold great promise in summarizing medical
 evidence. Most recent studies focus on the application of proprietary LLMs.

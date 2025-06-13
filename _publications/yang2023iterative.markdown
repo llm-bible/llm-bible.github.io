@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13016"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13016'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Despite the advancements in in-context learning (ICL) for large language
 models (LLMs), current research centers on specific prompt engineering, such as

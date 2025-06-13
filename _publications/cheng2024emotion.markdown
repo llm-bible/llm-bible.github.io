@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024emotion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11161"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11161'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 Accurate emotion perception is crucial for various applications, including
 human-computer interaction, education, and counseling. However, traditional

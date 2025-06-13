@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: shen2017empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1711.03230"}
-tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1711.03230'}
+tags: ['Reinforcement Learning', 'Agentic', 'Attention Mechanism', 'Model Architecture']
 ---
 Reading comprehension (RC) is a challenging task that requires synthesis of
 information across sentences and multiple turns of reasoning. Using a

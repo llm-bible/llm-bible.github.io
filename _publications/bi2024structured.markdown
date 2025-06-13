@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bi2024structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10132"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10132'}
 tags: ['Prompting', 'Applications']
 ---
 As the modern tool of choice for question answering, large language models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08664"}
-tags: ['Tools', 'Applications', 'RAG', 'TACL', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08664'}
+tags: ['ACL', 'RAG', 'Tools', 'Applications', 'TACL']
 ---
 Online education platforms, leveraging the internet to distribute education
 resources, seek to provide convenient education but often fall short in

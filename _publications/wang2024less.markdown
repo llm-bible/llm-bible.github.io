@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06579"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06579'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Assessing the factual consistency of automatically generated texts in
 relation to source context is crucial for developing reliable natural language

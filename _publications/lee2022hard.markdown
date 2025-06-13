@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lee2022hard
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.12427"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.12427'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture']
 ---
 In knowledge distillation, a student model is trained with supervisions from
 both knowledge from a teacher and observations drawn from a training data

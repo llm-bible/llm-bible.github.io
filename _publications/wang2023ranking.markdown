@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023ranking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09136"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09136'}
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Customizing LLMs for a specific task involves separating high-quality
 responses from lower-quality ones. This skill can be developed using supervised

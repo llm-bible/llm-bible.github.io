@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14215"}
-  - {name: "Code", url: "https://github.com/HKUST-KnowComp/LiveSum"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14215'}
+  - {name: "Code", url: 'https://github.com/HKUST-KnowComp/LiveSum'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The task of condensing large chunks of textual information into concise and
 structured tables has gained attention recently due to the emergence of Large

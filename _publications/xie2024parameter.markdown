@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17834"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17834'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Due to their substantial sizes, large language models (LLMs) are typically
 deployed within a single-backbone multi-tenant framework. In this setup, a

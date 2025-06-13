@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023generalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04889"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04889'}
+tags: ['Agentic', 'Agent', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Driven by curiosity, humans have continually sought to explore and understand
 the world around them, leading to the invention of various tools to satiate

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patnaik2025small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10665"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10665'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'GPT', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The emergence of small vision-language models (sVLMs) marks a critical
 advancement in multimodal AI, enabling efficient processing of visual and

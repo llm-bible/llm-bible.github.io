@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: abdaljalil2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07833"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07833'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) are increasingly used in various contexts, yet

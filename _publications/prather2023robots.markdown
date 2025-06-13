@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: prather2023robots
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00658"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00658'}
+tags: ['RAG', 'Tools', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Recent advancements in artificial intelligence (AI) are fundamentally
 reshaping computing, with large language models (LLMs) now effectively being

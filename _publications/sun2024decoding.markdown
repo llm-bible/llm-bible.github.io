@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15208"}
-  - {name: "Code", url: "https://github.com/tjunlp-lab/Lexical-Unit-Decoding-LUD-"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15208'}
+  - {name: "Code", url: 'https://github.com/tjunlp-lab/Lexical-Unit-Decoding-LUD-'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 Large language models have demonstrated exceptional capability in natural
 language understanding and generation. However, their generation speed is

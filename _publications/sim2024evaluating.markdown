@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sim2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07664"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07664'}
 tags: ['Uncategorized']
 ---
 Understanding spatial relations is a crucial cognitive ability for both

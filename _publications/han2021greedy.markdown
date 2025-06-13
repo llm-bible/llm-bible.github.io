@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: han2021greedy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.12651"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.12651'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Applications', 'Tools', 'Ethics and Bias']
 ---
 Language bias is a critical issue in Visual Question Answering (VQA), where
 models often exploit dataset biases for the final decision without considering

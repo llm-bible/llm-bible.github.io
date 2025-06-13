@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liang2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08395"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08395'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 The task of Question Generation over Knowledge Bases (KBQG) aims to convert a
 logical form into a natural language question. For the sake of expensive cost

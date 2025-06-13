@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05875"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05875'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Direct Preference Optimization (DPO) and its variants have become the de
 facto standards for aligning large language models (LLMs) with human

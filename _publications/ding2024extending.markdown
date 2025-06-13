@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ding2024extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13753"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13753'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large context window is a desirable feature in large language models (LLMs).
 However, due to high fine-tuning costs, scarcity of long texts, and

@@ -6,8 +6,8 @@ conference: "Transactions on Machine Learning Research (2025) ISSN 2835-8856"
 year: 2024
 bibkey: liang2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04996"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04996'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Merging', 'Pretraining Methods']
 ---
 The development of large language models (LLMs) has expanded to multi-modal
 systems capable of processing text, images, and speech within a unified

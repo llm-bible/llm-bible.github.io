@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16202"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16202'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Online education platforms have significantly transformed the dissemination
 of educational resources by providing a dynamic and digital infrastructure.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: puchert2023llmmaps
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.00457"}
-  - {name: "Code", url: "https://github.com/viscom-ulm/LLMMaps"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.00457'}
+  - {name: "Code", url: 'https://github.com/viscom-ulm/LLMMaps'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing
 and demonstrated impressive capabilities in various tasks. Unfortunately, they

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gupta2025evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07747"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07747'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We present a novel data set, WhoDunIt, to assess the deductive reasoning
 capabilities of large language models (LLM) within narrative contexts.

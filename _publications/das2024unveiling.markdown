@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: das2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10825"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10825'}
+tags: ['RAG', 'Fairness', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 excel in delivering comprehensive suggestions by deeply analyzing content and
 user behavior. However, they often inherit biases from skewed training data,

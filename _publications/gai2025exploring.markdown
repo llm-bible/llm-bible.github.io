@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gai2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13921"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13921'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advances in code generation have illuminated the potential of
 employing large language models (LLMs) for general-purpose programming

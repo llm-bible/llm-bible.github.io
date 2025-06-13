@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08206"}
-  - {name: "Code", url: "https://github.com/KTH-RPL/DriveCmd_LLM"}
-tags: ['RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08206'}
+  - {name: "Code", url: 'https://github.com/KTH-RPL/DriveCmd_LLM'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Prompting', 'Reinforcement Learning']
 ---
 The evolution of autonomous driving has made remarkable advancements in
 recent years, evolving into a tangible reality. However, a human-centric

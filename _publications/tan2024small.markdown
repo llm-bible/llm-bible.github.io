@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12052"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12052'}
 tags: ['RAG']
 ---
 The integration of large language models (LLMs) and search engines represents

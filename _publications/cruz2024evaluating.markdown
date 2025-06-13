@@ -6,8 +6,8 @@ conference: "NeurIPS 2024"
 year: 2024
 bibkey: cruz2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14614"}
-tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14614'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Tools']
 ---
 Current question-answering benchmarks predominantly focus on accuracy in
 realizable prediction tasks. Conditioned on a question and answer-key, does the

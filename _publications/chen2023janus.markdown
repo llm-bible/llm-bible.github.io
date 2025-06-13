@@ -6,8 +6,8 @@ conference: "ACM CCS 2024"
 year: 2023
 bibkey: chen2023janus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15469"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15469'}
+tags: ['Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 The rapid advancements of large language models (LLMs) have raised public
 concerns about the privacy leakage of personally identifiable information (PII)

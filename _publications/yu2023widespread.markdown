@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023widespread
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14187"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14187'}
 tags: ['Applications']
 ---
 Recent work demonstrates that, after instruction tuning, Code Large Language

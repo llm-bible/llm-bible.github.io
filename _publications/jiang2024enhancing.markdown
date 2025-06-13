@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11694"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11694'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recently, test-time scaling has garnered significant attention from the
 research community, largely due to the substantial advancements of the o1 model

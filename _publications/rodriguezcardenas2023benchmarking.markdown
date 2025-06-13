@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rodriguezcardenas2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12415"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12415'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 One of the most common solutions adopted by software researchers to address
 code generation is by training Large Language Models (LLMs) on massive amounts

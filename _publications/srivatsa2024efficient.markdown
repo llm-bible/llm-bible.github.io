@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: srivatsa2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00023"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00023'}
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Tools']
 ---
 Prompts to large language models (LLMs) have evolved beyond simple user
 questions. For LLMs to solve complex problems, today's practices are to include

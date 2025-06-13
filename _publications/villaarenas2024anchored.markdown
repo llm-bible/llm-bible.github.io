@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: villaarenas2024anchored
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13216"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13216'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this work, we introduce a methodology for alignment designed to enhance
 the ability of large language models (LLMs) to articulate their reasoning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025bridge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12446"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12446'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Encoder-free multimodal large language models(MLLMs) eliminate the need for a
 well-trained vision encoder by directly processing image tokens before the

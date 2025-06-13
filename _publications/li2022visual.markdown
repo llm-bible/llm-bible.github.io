@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.00100"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.00100'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Designing better machine translation systems by considering auxiliary inputs
 such as images has attracted much attention in recent years. While existing

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: juraska2021attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.07043"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.07043'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Ever since neural models were adopted in data-to-text language generation,

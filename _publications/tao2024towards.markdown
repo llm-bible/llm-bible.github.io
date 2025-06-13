@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09056"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09056'}
+tags: ['Language Modeling', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 The increasing prevalence of large language models (LLMs) has significantly
 advanced text generation, but the human-like quality of LLM outputs presents

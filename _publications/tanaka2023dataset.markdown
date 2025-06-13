@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: tanaka2023dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.04883"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.04883'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Visual question answering on document images that contain textual, visual,

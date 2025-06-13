@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024dataframe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15463"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15463'}
+tags: ['Security', 'Training Techniques', 'Applications', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 This paper introduces DataFrame question answering (QA), a novel task that
 utilizes large language models (LLMs) to generate Pandas queries for

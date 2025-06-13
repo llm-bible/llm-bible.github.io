@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: razdaibiedina2023progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.12314"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.12314'}
 tags: ['RAG', 'Prompting']
 ---
 We introduce Progressive Prompts - a simple and efficient approach for

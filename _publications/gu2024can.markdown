@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12641"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12641'}
 tags: ['RAG', 'Prompting']
 ---
 Detecting evidence within the context is a key step in the process of

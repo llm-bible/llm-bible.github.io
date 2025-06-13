@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gesi2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16790"}
-tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16790'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Transformer-based models have demonstrated considerable potential for source
 code modeling tasks in software engineering. However, they are limited by their

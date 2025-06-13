@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13941"}
-tags: ['Agentic', 'Reinforcement Learning', 'Merging', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13941'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools', 'Merging']
 ---
 Reproducing buggy code is the first and crucially important step in issue
 resolving, as it aids in identifying the underlying problems and validating

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gupta2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17720"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17720'}
 tags: ['Training Techniques', 'Ethics and Bias', 'Applications']
 ---
 Large language models (LLMs) are increasingly being adopted in educational

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: mittal2021distantly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.02947"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.02947'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 We propose a practical instant question answering (QA) system on product
 pages of ecommerce services, where for each user query, relevant community

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goel2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00858"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00858'}
+tags: ['Agentic', 'Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'GPT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Text generation with Large Language Models (LLMs) is known to be memory bound
 due to the combination of their auto-regressive nature, huge parameter counts,

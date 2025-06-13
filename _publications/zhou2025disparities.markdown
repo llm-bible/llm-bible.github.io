@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025disparities
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04099"}
-  - {name: "Code", url: "https://github.com/Runtaozhou/dialect_bias_eval"}
-tags: ['Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04099'}
+  - {name: "Code", url: 'https://github.com/Runtaozhou/dialect_bias_eval'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 reasoning tasks, leading to their widespread deployment. However, recent

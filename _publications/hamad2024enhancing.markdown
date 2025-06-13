@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hamad2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16194"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16194'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Effective feature representations play a critical role in enhancing the
 performance of text generation models that rely on deep neural networks.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023llm
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.11627v3"}
-  - {name: "Code", url: "https://github.com/horseee/LLM-Pruner"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.11627v3'}
+  - {name: "Code", url: 'https://github.com/horseee/LLM-Pruner'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Pruning']
 ---
 Large language models (LLMs) have shown remarkable capabilities in language
 understanding and generation. However, such impressive capability typically

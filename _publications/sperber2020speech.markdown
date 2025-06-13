@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: sperber2020speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.06358"}
-tags: ['INTERSPEECH', 'Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.06358'}
+tags: ['Attention Mechanism', 'INTERSPEECH', 'Training Techniques', 'Applications', 'Model Architecture', 'Survey Paper']
 ---
 Over its three decade history, speech translation has experienced several
 shifts in its primary research themes; moving from loosely coupled cascades of

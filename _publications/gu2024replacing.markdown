@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024replacing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04335"}
-tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04335'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Tokenizer is an essential component for large language models (LLMs), and a
 tokenizer with a high compression rate can improve the model's representation

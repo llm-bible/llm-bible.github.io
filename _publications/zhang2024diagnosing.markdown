@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024diagnosing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16597"}
-  - {name: "Code", url: "https://github.com/Stevetich/EventHallusion"}
-tags: ['Multimodal Models', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16597'}
+  - {name: "Code", url: 'https://github.com/Stevetich/EventHallusion'}
+tags: ['Ethics and Bias', 'Has Code', 'Multimodal Models']
 ---
 Recently, Multimodal Large Language Models (MLLMs) have made significant
 progress in the video comprehension field. Despite remarkable content reasoning

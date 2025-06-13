@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: simmering2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18025"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18025'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) offer unprecedented text completion
 capabilities. As general models, they can fulfill a wide range of roles,

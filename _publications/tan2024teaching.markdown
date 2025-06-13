@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08068"}
-  - {name: "Code", url: "https://github.com/SallyTan13/Teaching-Inspired-Prompting"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08068'}
+  - {name: "Code", url: 'https://github.com/SallyTan13/Teaching-Inspired-Prompting'}
+tags: ['Has Code', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit impressive performance across various
 domains but still struggle with arithmetic reasoning tasks. Recent work shows

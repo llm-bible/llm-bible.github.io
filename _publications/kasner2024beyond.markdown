@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kasner2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10186"}
-tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10186'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
 ---
 We analyze the behaviors of open large language models (LLMs) on the task of
 data-to-text (D2T) generation, i.e., generating coherent and relevant text from

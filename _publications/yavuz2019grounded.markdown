@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: yavuz2019grounded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.10731"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.10731'}
 tags: ['Applications']
 ---
 Recent advances in neural sequence-to-sequence models have led to promising

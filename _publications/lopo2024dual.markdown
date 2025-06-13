@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lopo2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08805"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'BERT', 'CIKM', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08805'}
+tags: ['CIKM', 'RAG', 'BERT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 In this study, we introduce CIKMar, an efficient approach to educational
 dialogue systems powered by the Gemma Language model. By leveraging a

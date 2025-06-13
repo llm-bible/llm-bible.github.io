@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023less
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.11206v1"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.11206v1'}
+tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models are trained in two stages: (1) unsupervised pretraining
 from raw text, to learn general-purpose representations, and (2) large scale

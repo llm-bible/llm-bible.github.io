@@ -6,9 +6,9 @@ conference: "Advances in Neural Information Processing Systems (2024) vol. 37 pa
 year: 2024
 bibkey: li2024nearest
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19325"}
-  - {name: "Code", url: "https://github.com/facebookresearch/NEST/tree/main"}
-tags: ['Has Code', 'Prompting', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19325'}
+  - {name: "Code", url: 'https://github.com/facebookresearch/NEST/tree/main'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code', 'Language Modeling']
 ---
 Large language models (LLMs) often hallucinate and lack the ability to
 provide attribution for their generations. Semi-parametric LMs, such as kNN-LM,

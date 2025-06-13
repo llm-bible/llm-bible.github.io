@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.09582"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09582'}
 tags: ['GPT', 'Model Architecture']
 ---
 This report presents a study on the emotional dialogue capability of ChatGPT,

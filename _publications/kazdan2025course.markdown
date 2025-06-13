@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kazdan2025course
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19537"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19537'}
+tags: ['RAG', 'Security', 'Applications', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Responsible AI', 'Pretraining Methods']
 ---
 Leading language model (LM) providers like OpenAI and Google offer
 fine-tuning APIs that allow customers to adapt LMs for specific use cases. To

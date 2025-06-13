@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cho2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06947"}
-  - {name: "Code", url: "https://github.com/caap-agent/caap-agent"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06947'}
+  - {name: "Code", url: 'https://github.com/caap-agent/caap-agent'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Software robots have long been used in Robotic Process Automation (RPA) to
 automate mundane and repetitive computer tasks. With the advent of Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ganz2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16805"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16805'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 Perceptually Aligned Gradients (PAG) refer to an intriguing property observed
 in robust image classification models, wherein their input gradients align with

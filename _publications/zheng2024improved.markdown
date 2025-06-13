@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01288"}
-  - {name: "Code", url: "https://github.com/sail-sg/I-FSJ"}
-tags: ['Few-Shot', 'Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01288'}
+  - {name: "Code", url: 'https://github.com/sail-sg/I-FSJ'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Has Code', 'Prompting']
 ---
 Recently, Anil et al. (2024) show that many-shot (up to hundreds of)
 demonstrations can jailbreak state-of-the-art LLMs by exploiting their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mithun2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09651"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09651'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 We present AI-VERDE, a unified LLM-as-a-platform service designed to
 facilitate seamless integration of commercial, cloud-hosted, and on-premise

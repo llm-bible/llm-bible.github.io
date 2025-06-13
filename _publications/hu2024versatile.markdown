@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024versatile
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15211"}
-tags: ['GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15211'}
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Merging', 'Reinforcement Learning']
 ---
 We propose LightLLM, a model that fine tunes pre-trained large language
 models (LLMs) for light-based sensing tasks. It integrates a sensor data

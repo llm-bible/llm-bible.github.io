@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024see
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19676"}
-  - {name: "Code", url: "https://github.com/Chauncey-Jheng/PCRL-MRG"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19676'}
+  - {name: "Code", url: 'https://github.com/Chauncey-Jheng/PCRL-MRG'}
+tags: ['Has Code', 'Language Modeling', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Brain CT report generation is significant to aid physicians in diagnosing
 cranial diseases. Recent studies concentrate on handling the consistency

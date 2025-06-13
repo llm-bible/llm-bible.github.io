@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08639"}
-  - {name: "Code", url: "https://github.com/junkangwu/beta-DPO"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08639'}
+  - {name: "Code", url: 'https://github.com/junkangwu/beta-DPO'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Direct Preference Optimization (DPO) has emerged as a compelling approach for
 training Large Language Models (LLMs) to adhere to human preferences. However,

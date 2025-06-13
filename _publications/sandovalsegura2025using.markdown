@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sandovalsegura2025using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03889"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03889'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multi-head attention is foundational to large language models (LLMs),
 enabling different heads to have diverse focus on relevant input tokens.

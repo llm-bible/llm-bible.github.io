@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04155"}
-  - {name: "Code", url: "https://github.com/thu-coai/BPO"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04155'}
+  - {name: "Code", url: 'https://github.com/thu-coai/BPO'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown impressive success in various
 applications. However, these models are often not well aligned with human

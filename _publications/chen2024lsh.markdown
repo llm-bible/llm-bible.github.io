@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024lsh
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16179"}
-  - {name: "Code", url: "https://github.com/Infini-AI-Lab/MagicPIG"}
-tags: ['RAG', 'Attention Mechanism', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16179'}
+  - {name: "Code", url: 'https://github.com/Infini-AI-Lab/MagicPIG'}
+tags: ['Attention Mechanism', 'RAG', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) with long context windows have gained
 significant attention. However, the KV cache, stored to avoid re-computation,

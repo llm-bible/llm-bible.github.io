@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024renaissance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17441"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17441'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have helped programmers increase efficiency

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14069"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14069'}
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Detecting factual errors in summaries has been an important and challenging
 subject in summarization research. Inspired by the emergent ability of large

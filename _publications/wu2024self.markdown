@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05700"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05700'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in open-source code large language models (LLMs) have

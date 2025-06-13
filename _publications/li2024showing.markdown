@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024showing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03234"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03234'}
 tags: ['Security', 'Applications']
 ---
 Large Language Models (LLMs) have shown impressive abilities in code

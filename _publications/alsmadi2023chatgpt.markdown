@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: alsmadi2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.15198"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.15198'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Merging', 'Survey Paper', 'Reinforcement Learning']
 ---
 The wide adoption and usage of generative artificial intelligence (AI)
 models, particularly ChatGPT, has sparked a surge in research exploring their

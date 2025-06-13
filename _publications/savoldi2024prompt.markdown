@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: savoldi2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06041"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06041'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Gender-neutral translation (GNT) that avoids biased and undue binary
 assumptions is a pivotal challenge for the creation of more inclusive

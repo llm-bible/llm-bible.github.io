@@ -6,8 +6,8 @@ conference: "WSDM 2025"
 year: 2024
 bibkey: rau2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09252"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09252'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Retrieval-Augmented Generation (RAG) allows overcoming the limited knowledge
 of LLMs by extending the input with external information. As a consequence, the

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhong2023hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.06018"}
-  - {name: "Code", url: "https://thoughtp0lice.github.io/hnps_web/"}
-tags: ['RAG', 'Agentic', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.06018'}
+  - {name: "Code", url: 'https://thoughtp0lice.github.io/hnps_web/'}
+tags: ['RAG', 'Has Code', 'Agentic', 'Tools']
 ---
 Program synthesis aims to automatically construct human-readable programs
 that satisfy given task specifications, such as input/output pairs or

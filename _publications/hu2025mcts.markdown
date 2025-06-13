@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025mcts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20757"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20757'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 We introduce MCTS-RAG, a novel approach that enhances the reasoning
 capabilities of small language models on knowledge-intensive tasks by

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: yeh2022multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.07441"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.07441'}
 tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 Generating engaging content has drawn much recent attention in the NLP

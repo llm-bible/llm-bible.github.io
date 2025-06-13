@@ -6,8 +6,8 @@ conference: "Proceedings of the 1st Regulatory NLP Workshop RegNLP 2025 Abu Dhab
 year: 2025
 bibkey: rayo2025hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16767"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16767'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Regulatory texts are inherently long and complex, presenting significant
 challenges for information retrieval systems in supporting regulatory officers

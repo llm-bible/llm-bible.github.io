@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025multiple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16952"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16952'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 A Retrieval-Augmented Generation (RAG) model powered by a large language
 model (LLM) provides a faster and more cost-effective solution for adapting to

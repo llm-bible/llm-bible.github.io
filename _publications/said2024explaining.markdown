@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: said2024explaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19576"}
-tags: ['GPT', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19576'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'RecSys', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 The rise of Large Language Models (LLMs), such as LLaMA and ChatGPT, has
 opened new opportunities for enhancing recommender systems through improved

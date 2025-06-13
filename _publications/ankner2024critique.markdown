@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ankner2024critique
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11791"}
-tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11791'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Tools']
 ---
 Traditionally, reward models used for reinforcement learning from human
 feedback (RLHF) are trained to directly predict preference scores without

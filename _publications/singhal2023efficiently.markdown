@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: singhal2023efficiently
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00947"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00947'}
+tags: ['Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Standard decoding approaches for conditional text generation tasks typically
 search for an output hypothesis with high model probability, but this may not

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023lidar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14074"}
-  - {name: "Code", url: "https://sites.google.com/view/lidar-llm"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14074'}
+  - {name: "Code", url: 'https://sites.google.com/view/lidar-llm'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recently, Large Language Models (LLMs) and Multimodal Large Language Models
 (MLLMs) have shown promise in instruction following and 2D image understanding.

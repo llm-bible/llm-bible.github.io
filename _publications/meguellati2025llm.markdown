@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: meguellati2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15548"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15548'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability', 'Training Techniques']
 ---
 Recent advances in large language models (LLMs) have demonstrated strong
 performance on simple text classification tasks, frequently under zero-shot

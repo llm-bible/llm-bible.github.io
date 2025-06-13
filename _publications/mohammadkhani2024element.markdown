@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohammadkhani2024element
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06454"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06454'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Generative approaches have significantly influenced Aspect-Based Sentiment
 Analysis (ABSA), garnering considerable attention. However, existing studies

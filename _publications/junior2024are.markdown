@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: junior2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06596"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06596'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 A Language Model is a term that encompasses various types of models designed

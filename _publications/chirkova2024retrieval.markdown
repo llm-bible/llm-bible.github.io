@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chirkova2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01463"}
-  - {name: "Code", url: "https://github.com/naver/bergen"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01463'}
+  - {name: "Code", url: 'https://github.com/naver/bergen'}
 tags: ['RAG', 'Has Code', 'Prompting']
 ---
 Retrieval-augmented generation (RAG) has recently emerged as a promising

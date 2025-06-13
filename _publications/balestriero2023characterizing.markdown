@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: balestriero2023characterizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01648"}
-  - {name: "Code", url: "https://github.com/RandallBalestriero/SplineLLM"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01648'}
+  - {name: "Code", url: 'https://github.com/RandallBalestriero/SplineLLM'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) drive current AI breakthroughs despite very
 little being known about their internal representations. In this work, we

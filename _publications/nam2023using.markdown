@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nam2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08177"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08177'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Understanding code is challenging, especially when working in new and complex
 development environments. Code comments and documentation can help, but are

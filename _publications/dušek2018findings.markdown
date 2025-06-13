@@ -6,7 +6,7 @@ conference: "Proceedings of the 11th International Conference on Natural Languag
 year: 2018
 bibkey: dušek2018findings
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1810.01170"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1810.01170'}
 tags: ['Model Architecture']
 ---
 This paper summarises the experimental setup and results of the first shared

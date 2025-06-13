@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025optimus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19902"}
-  - {name: "Code", url: "https://cybertronagent.github.io/Optimus-2.github.io/"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19902'}
+  - {name: "Code", url: 'https://cybertronagent.github.io/Optimus-2.github.io/'}
+tags: ['Agentic', 'Has Code', 'BERT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Building an agent that can mimic human behavior patterns to accomplish
 various open-world tasks is a long-term goal. To enable agents to effectively

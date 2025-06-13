@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jindal2025generic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19674"}
-tags: ['Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19674'}
+tags: ['Security', 'Applications', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Safety evaluation of Large Language Models (LLMs) has made progress and
 attracted academic interest, but it remains challenging to keep pace with the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kaptur2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20276"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20276'}
 tags: ['GPT', 'Model Architecture', 'Survey Paper']
 ---
 This research delved into GPT-4 and Kimi, two Large Language Models (LLMs),

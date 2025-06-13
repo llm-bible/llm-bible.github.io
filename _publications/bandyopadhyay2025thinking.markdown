@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bandyopadhyay2025thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10814"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10814'}
 tags: ['Security', 'Survey Paper']
 ---
 Large Language Models (LLMs) are highly proficient in language-based tasks.

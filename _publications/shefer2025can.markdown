@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: shefer2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14183"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14183'}
 tags: ['Applications']
 ---
 Although formal methods are capable of producing reliable software, they have

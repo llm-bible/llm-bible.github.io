@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07802"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07802'}
 tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 In this paper, we present Language Model as Visual Explainer LVX, a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vente2024inroads
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07190"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07190'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This work finds limited evidence supporting the theory that using multiple
 tasks with sequence-to-sequence transformer language models can improve

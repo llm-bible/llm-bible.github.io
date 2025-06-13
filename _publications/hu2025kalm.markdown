@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025kalm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01028"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01028'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 As retrieval-augmented generation prevails in large language models,
 embedding models are becoming increasingly crucial. Despite the growing number

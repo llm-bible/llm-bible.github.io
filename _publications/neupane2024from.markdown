@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: neupane2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08120"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08120'}
 tags: ['RAG', 'Tools', 'Survey Paper']
 ---
 This paper presents BARKPLUG V.2, a Large Language Model (LLM)-based chatbot

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mustafa2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08040"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08040'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Clinical document classification is essential for converting unstructured
 medical texts into standardised ICD-10 diagnoses, yet it faces challenges due

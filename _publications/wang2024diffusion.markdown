@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024diffusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20171"}
-  - {name: "Code", url: "https://github.com/baaivision/DIVA"}
-tags: ['Pre-Training', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20171'}
+  - {name: "Code", url: 'https://github.com/baaivision/DIVA'}
+tags: ['Has Code', 'Ethics and Bias', 'RAG', 'Tools', 'Merging', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Contrastive Language-Image Pre-training (CLIP), which excels at abstracting
 open-world representations across domains and modalities, has become a

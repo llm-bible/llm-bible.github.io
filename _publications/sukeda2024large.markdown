@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sukeda2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14882"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14882'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Since the rise of large language models (LLMs), the domain adaptation has
 been one of the hot topics in various domains. Many medical LLMs trained with

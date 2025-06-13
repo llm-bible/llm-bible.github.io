@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024more
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12706"}
-  - {name: "Code", url: "https://github.com/zhzihao/QPruningKV"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Has Code', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12706'}
+  - {name: "Code", url: 'https://github.com/zhzihao/QPruningKV'}
+tags: ['Has Code', 'Pruning', 'Efficiency and Optimization', 'Quantization']
 ---
 As large language models (LLMs) process increasing context windows, the
 memory usage of KV cache has become a critical bottleneck during inference. The

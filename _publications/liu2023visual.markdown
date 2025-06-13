@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023visual
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.08485v2"}
-tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.08485v2'}
+tags: ['Reinforcement Learning', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Instruction tuning large language models (LLMs) using machine-generated
 instruction-following data has improved zero-shot capabilities on new tasks,

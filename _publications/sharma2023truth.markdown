@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sharma2023truth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13558"}
-tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13558'}
+tags: ['Training Techniques', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) have become a fixture in
 modern machine learning. Correspondingly, significant resources are allocated

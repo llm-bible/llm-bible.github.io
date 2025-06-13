@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shabalin2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19097"}
-  - {name: "Code", url: "https://github.com/M0RJIQUE/tencdm"}
-tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19097'}
+  - {name: "Code", url: 'https://github.com/M0RJIQUE/tencdm'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 This paper presents the Text Encoding Diffusion Model (TEncDM), a novel
 approach to diffusion modeling that operates in the space of pre-trained

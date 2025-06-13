@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: miriyala2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04135"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04135'}
 tags: ['Prompting']
 ---
 We explore the use of Chain-of-Thought (CoT) prompting with large language

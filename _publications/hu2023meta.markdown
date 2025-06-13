@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15076"}
-tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15076'}
+tags: ['Language Modeling', 'GPT', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models encode impressively broad world knowledge in their
 parameters. However, the knowledge in static language models falls out of date,

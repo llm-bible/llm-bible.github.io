@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02805"}
-  - {name: "Code", url: "https://github.com/fangru-lin/graph-llm-asynchow-plan"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Agent', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02805'}
+  - {name: "Code", url: 'https://github.com/fangru-lin/graph-llm-asynchow-plan'}
+tags: ['Agentic', 'Has Code', 'Agent', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Planning is a fundamental property of human intelligence. Reasoning about
 asynchronous plans is challenging since it requires sequential and parallel

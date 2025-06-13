@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024flexible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15309"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15309'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools']
 ---
 Large Language Models (LLMs) are widely used across various domains,
 processing millions of daily requests. This surge in demand poses significant

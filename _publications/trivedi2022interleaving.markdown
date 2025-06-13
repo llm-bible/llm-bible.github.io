@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: trivedi2022interleaving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10509"}
-  - {name: "Code", url: "https://github.com/stonybrooknlp/ircot"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10509'}
+  - {name: "Code", url: 'https://github.com/stonybrooknlp/ircot'}
+tags: ['Has Code', 'Model Architecture', 'Applications', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning']
 ---
 Prompting-based large language models (LLMs) are surprisingly powerful at
 generating natural language reasoning steps or Chains-of-Thoughts (CoT) for

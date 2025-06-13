@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16352"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16352'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have exhibited great potential in mathematical

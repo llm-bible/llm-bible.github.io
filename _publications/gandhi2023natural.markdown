@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gandhi2023natural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03460"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03460'}
+tags: ['RAG', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 We present Semantic Interpreter, a natural language-friendly AI system for
 productivity software such as Microsoft Office that leverages large language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: pallaprolu2020challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.03773"}
-tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.03773'}
+tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 State-of-the-art attention based models, mostly centered around the
 transformer architecture, solve the problem of sequence-to-sequence translation

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lyu2023paradigm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.01181"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.01181'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Machine Translation (MT) has greatly advanced over the years due to the
 developments in deep neural networks. However, the emergence of Large Language

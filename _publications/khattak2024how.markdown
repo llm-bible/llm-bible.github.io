@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: khattak2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03690"}
-  - {name: "Code", url: "https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/"}
-tags: ['Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03690'}
+  - {name: "Code", url: 'https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have led to the
 development of Video Large Multi-modal Models (Video-LMMs) that can handle a

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: schwöbel2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12872"}
-  - {name: "Code", url: "https://github.com/aws/fmeval"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12872'}
+  - {name: "Code", url: 'https://github.com/aws/fmeval'}
+tags: ['Has Code', 'RAG', 'Tools', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 fmeval is an open source library to evaluate large language models (LLMs) in
 a range of tasks. It helps practitioners evaluate their model for task

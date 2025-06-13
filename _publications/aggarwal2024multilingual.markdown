@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: aggarwal2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07598"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07598'}
 tags: ['Uncategorized']
 ---
 Parameter Efficient Finetuning (PEFT) has emerged as a viable solution for

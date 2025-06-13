@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: srivastava2025revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07357"}
-tags: ['Efficiency and Optimization', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07357'}
+tags: ['Prompting', 'GPT', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Large Reasoning Models (LRMs) such as DeepSeek-R1 and OpenAI o1 have
 demonstrated remarkable capabilities in various reasoning tasks. Their strong

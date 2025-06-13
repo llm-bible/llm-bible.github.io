@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ekstedt2020transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.10874"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.10874'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Syntactic and pragmatic completeness is known to be important for turn-taking
 prediction, but so far machine learning models of turn-taking have used such

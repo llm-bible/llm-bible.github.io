@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zayed2023fairness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15398"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15398'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Fairness', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pruning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The increasing size of large language models (LLMs) has introduced challenges
 in their training and inference. Removing model components is perceived as a

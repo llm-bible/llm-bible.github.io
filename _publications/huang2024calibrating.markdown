@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024calibrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00468"}
-tags: ['RAG', 'Efficiency and Optimization', 'Multimodal Models', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00468'}
+tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Multimodal Models', 'RAG']
 ---
 Large Multimodal Models (LMMs) exhibit impressive cross-modal understanding
 and reasoning abilities, often assessed through multiple-choice questions

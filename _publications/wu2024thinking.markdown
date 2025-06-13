@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10654"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10654'}
 tags: ['RAG', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in

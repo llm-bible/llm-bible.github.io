@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11167"}
-tags: ['Security', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11167'}
+tags: ['Language Modeling', 'Security', 'Applications']
 ---
 The robustness of AI-content detection models against sophisticated
 adversarial strategies, such as paraphrasing or word switching, is a rising

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ferraretto2023explanation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.10521"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.10521'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture']
 ---
 Recent work has shown that inducing a large language model (LLM) to generate
 explanations prior to outputting an answer is an effective strategy to improve

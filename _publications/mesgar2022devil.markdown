@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: mesgar2022devil
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.06440"}
-tags: ['TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.06440'}
+tags: ['Attention Mechanism', 'ACL', 'Few-Shot', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'TACL']
 ---
 Few-shot Intent Classification (FSIC) is one of the key challenges in modular
 task-oriented dialog systems. While advanced FSIC methods are similar in using

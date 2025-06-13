@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023enhanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10253"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10253'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models', 'Ethics and Bias']
 ---
 The remarkable multimodal capabilities demonstrated by OpenAI's GPT-4 have
 sparked significant interest in the development of multimodal Large Language

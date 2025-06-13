@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pink2025episodic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06975"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06975'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 As Large Language Models (LLMs) evolve from text-completion tools into fully
 fledged agents operating in dynamic environments, they must address the

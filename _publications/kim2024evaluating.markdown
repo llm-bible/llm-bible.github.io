@@ -6,7 +6,7 @@ conference: "1st Conference on Language Modeling (COLM 2024)"
 year: 2024
 bibkey: kim2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01261"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01261'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 While long-context large language models (LLMs) can technically summarize

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17019"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17019'}
 tags: ['RAG']
 ---
 Making legal knowledge accessible to non-experts is crucial for enhancing

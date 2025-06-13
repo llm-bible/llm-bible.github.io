@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gong2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10715"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10715'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent work on Transformer-based large language models (LLMs) has revealed
 striking limits in their working memory capacity, similar to what has been

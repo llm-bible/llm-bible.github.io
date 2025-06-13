@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: eldan2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07759"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07759'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 Language models (LMs) are powerful tools for natural language processing, but
 they often struggle to produce coherent and fluent text when they are small.

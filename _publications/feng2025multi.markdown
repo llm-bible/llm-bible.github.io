@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: feng2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02404"}
-  - {name: "Code", url: "https://github.com/MiliLab/AnesBench"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02404'}
+  - {name: "Code", url: 'https://github.com/MiliLab/AnesBench'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 The application of large language models (LLMs) in the medical field has
 gained significant attention, yet their reasoning capabilities in more

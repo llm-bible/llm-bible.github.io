@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gao2025could
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11833"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11833'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 Previous work indicates that large language models exhibit a significant
 "English bias", i.e. they often perform better when tasks are presented in

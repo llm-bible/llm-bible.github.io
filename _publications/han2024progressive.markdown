@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16719"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16719'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 Despite the impressive text-to-image (T2I) synthesis capabilities of
 diffusion models, they often struggle to understand compositional relationships

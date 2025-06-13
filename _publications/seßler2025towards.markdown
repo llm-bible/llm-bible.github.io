@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: seßler2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12842"}
-tags: ['RAG', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12842'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'RAG']
 ---
 Effective feedback is essential for fostering students' success in scientific
 inquiry. With advancements in artificial intelligence, large language models

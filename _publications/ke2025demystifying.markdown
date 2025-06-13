@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ke2025demystifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04961"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04961'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training']
 ---
 Domain-adaptive post-training of large language models (LLMs) has emerged as
 a promising approach for specialized domains such as medicine and finance.

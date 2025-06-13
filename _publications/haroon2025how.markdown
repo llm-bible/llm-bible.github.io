@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: haroon2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04372"}
-tags: ['Training Techniques', 'Survey Paper', 'Tokenization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04372'}
+tags: ['Reinforcement Learning', 'Tokenization', 'Training Techniques', 'Survey Paper']
 ---
 Large Language Models (LLMs) are increasingly used in post-development tasks
 such as code repair and testing. A key factor in these tasks' success is the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: domhan2025same
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01761"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01761'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Accurately evaluating machine-translated text remains a long-standing
 challenge, particularly for long documents. Recent work has shown that large

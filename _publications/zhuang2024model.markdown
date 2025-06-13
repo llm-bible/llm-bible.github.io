@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuang2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02888"}
-  - {name: "Code", url: "https://github.com/night-chen/HYDRA"}
-tags: ['Tools', 'RAG', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02888'}
+  - {name: "Code", url: 'https://github.com/night-chen/HYDRA'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Tools', 'Prompting']
 ---
 Personalization has emerged as a critical research area in modern intelligent
 systems, focusing on mining users' behavioral history and adapting to their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tong2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17640"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17640'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Long text summarization, gradually being essential for efficiently processing
 large volumes of information, stays challenging for Large Language Models

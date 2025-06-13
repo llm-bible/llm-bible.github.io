@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: denison2024sycophancy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10162"}
-tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10162'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Agentic', 'Training Techniques']
 ---
 In reinforcement learning, specification gaming occurs when AI systems learn
 undesired behaviors that are highly rewarded due to misspecified training

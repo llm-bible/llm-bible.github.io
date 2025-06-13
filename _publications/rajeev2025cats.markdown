@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: rajeev2025cats
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01781"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01781'}
 tags: ['Security']
 ---
 We investigate the robustness of reasoning models trained for step-by-step

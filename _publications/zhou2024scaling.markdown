@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17391"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17391'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Though Large Language Models (LLMs) have shown remarkable abilities in
 mathematics reasoning, they are still struggling with performing numeric

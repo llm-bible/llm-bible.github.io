@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07851"}
-tags: ['Survey Paper', 'Efficiency and Optimization', 'GPT', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07851'}
+tags: ['GPT', 'Efficiency and Optimization', 'Pretraining Methods', 'Survey Paper']
 ---
 To mitigate the high inference latency stemming from autoregressive decoding
 in Large Language Models (LLMs), Speculative Decoding has emerged as a novel

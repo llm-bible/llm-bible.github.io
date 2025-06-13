@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03777"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03777'}
+tags: ['Large-Scale Training', 'RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Scaling Laws', 'Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 The scaling laws have become the de facto guidelines for designing large
 language models (LLMs), but they were studied under the assumption of unlimited

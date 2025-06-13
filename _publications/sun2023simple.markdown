@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11695"}
-  - {name: "Code", url: "https://github.com/locuslab/wanda"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11695'}
+  - {name: "Code", url: 'https://github.com/locuslab/wanda'}
+tags: ['Has Code', 'Pruning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 As their size increases, Large Languages Models (LLMs) are natural candidates
 for network pruning methods: approaches that drop a subset of network weights

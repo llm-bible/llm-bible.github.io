@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fronsdal2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03904"}
-  - {name: "Code", url: "https://github.com/kaifronsdal/Self-Reasoning-Evals"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03904'}
+  - {name: "Code", url: 'https://github.com/kaifronsdal/Self-Reasoning-Evals'}
 tags: ['Agentic', 'Has Code']
 ---
 We propose a suite of tasks to evaluate the instrumental self-reasoning

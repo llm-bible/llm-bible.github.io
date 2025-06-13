@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: doughty2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03173"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03173'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 There is a constant need for educators to develop and maintain effective
 up-to-date assessments. While there is a growing body of research in computing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: carolan2024review
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01322"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01322'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Prompting', 'Survey Paper', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have recently emerged as a focal point of
 research and application, driven by their unprecedented ability to understand

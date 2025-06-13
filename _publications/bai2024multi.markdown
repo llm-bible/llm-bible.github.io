@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08102"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08102'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Efficient data selection is crucial to accelerate the pretraining of large
 language models (LLMs). While various methods have been proposed to enhance

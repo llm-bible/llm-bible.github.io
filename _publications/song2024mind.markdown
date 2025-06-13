@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02674"}
-tags: ['Training Techniques', 'Pre-Training', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02674'}
+tags: ['Pre-Training', 'Tools', 'Training Techniques']
 ---
 Self-improvement is a mechanism in Large Language Model (LLM) pre-training,
 post-training and test-time inference. We explore a framework where the model

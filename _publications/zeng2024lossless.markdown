@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024lossless
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15758"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15758'}
+tags: ['RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 various tasks. However, their widespread application is hindered by the

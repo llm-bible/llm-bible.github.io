@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: baradari2025neuroadaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07599"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07599'}
 tags: ['Uncategorized']
 ---
 Generative AI is transforming education by enabling personalized, on-demand

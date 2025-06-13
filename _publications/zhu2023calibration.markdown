@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023calibration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13240"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13240'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 As large language models attract increasing attention and find widespread
 application, concurrent challenges of reliability also arise at the same time.

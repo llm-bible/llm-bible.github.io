@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramos2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13323"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13323'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) have become integral to various software
 engineering tasks, including code generation, bug detection, and repair. To

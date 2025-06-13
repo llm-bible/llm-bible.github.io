@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xia2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13512"}
-  - {name: "Code", url: "https://github.com/zeaver/MultiFactor"}
-tags: ['Transformer', 'Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13512'}
+  - {name: "Code", url: 'https://github.com/zeaver/MultiFactor'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper addresses the problem of generating questions from a given context
 and an answer, specifically focusing on questions that require multi-hop

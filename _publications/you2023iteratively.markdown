@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: you2023iteratively
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.14985v1"}
-  - {name: "Code", url: "https://github.com/Hxyou/IdealGPT"}
-tags: ['Tools', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.14985v1'}
+  - {name: "Code", url: 'https://github.com/Hxyou/IdealGPT'}
+tags: ['GPT', 'Has Code', 'Tools', 'Model Architecture']
 ---
 The field of vision-and-language (VL) understanding has made unprecedented
 progress with end-to-end large pre-trained VL models (VLMs). However, they

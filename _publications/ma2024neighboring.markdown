@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024neighboring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17623"}
-  - {name: "Code", url: "https://github.com/mjy1111/PEAK"}
-tags: ['Training Techniques', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17623'}
+  - {name: "Code", url: 'https://github.com/mjy1111/PEAK'}
+tags: ['Has Code', 'Tools', 'Training Techniques']
 ---
 Despite their exceptional capabilities, large language models (LLMs) are
 prone to generating unintended text due to false or outdated knowledge. Given

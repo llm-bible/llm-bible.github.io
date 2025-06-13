@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kyaw2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00946"}
-tags: ['INTERSPEECH', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00946'}
+tags: ['INTERSPEECH', 'Tools', 'Training Techniques']
 ---
 In this paper, we introduce ConversaSynth, a framework designed to generate
 synthetic conversation audio using large language models (LLMs) with multiple

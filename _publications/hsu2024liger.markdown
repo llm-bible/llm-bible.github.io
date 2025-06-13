@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hsu2024liger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10989"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10989'}
 tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Training Large Language Models (LLMs) efficiently at scale presents a

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2017
 bibkey: liu2017table
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1711.09724"}
-  - {name: "Code", url: "https://github.com/tyliupku/wiki2bio"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1711.09724'}
+  - {name: "Code", url: 'https://github.com/tyliupku/wiki2bio'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Interpretability']
 ---
 Table-to-text generation aims to generate a description for a factual table
 which can be viewed as a set of field-value records. To encode both the content

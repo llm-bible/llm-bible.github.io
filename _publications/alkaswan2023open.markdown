@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: alkaswan2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13681"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13681'}
 tags: ['Security', 'Applications']
 ---
 In recent years, Large Language Models (LLMs) have gained significant

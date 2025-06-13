@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nafar2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13179"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13179'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In this paper, we evaluate the capability of transformer-based language
 models in making inferences over uncertain text that includes uncertain rules

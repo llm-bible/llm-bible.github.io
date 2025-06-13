@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: collini2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12721"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12721'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Tools', 'Fine-Tuning']
 ---
 Recent Large Language Models (LLMs) such as OpenAI o3-mini and DeepSeek-R1
 use enhanced reasoning through Chain-of-Thought (CoT). Their potential in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023personalization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07622"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'RecSys', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07622'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'RecSys']
 ---
 Large language models (LLMs) have recently received significant attention for
 their exceptional capabilities. Despite extensive efforts in developing

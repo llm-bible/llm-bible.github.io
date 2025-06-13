@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: simonsen2025faroese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07642"}
-tags: ['BERT', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07642'}
+tags: ['GPT', 'BERT', 'Model Architecture']
 ---
 We present FoQA, a Faroese extractive question-answering (QA) dataset with
 2,000 samples, created using a semi-automated approach combining Large Language

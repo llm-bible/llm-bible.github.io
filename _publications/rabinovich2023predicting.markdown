@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: rabinovich2023predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01152"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01152'}
 tags: ['RAG', 'Tools']
 ---
 Semantic consistency of a language model is broadly defined as the model's

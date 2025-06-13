@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03778"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03778'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative large language models(LLMs) are proficient in solving general
 problems but often struggle to handle domain-specific tasks. This is because

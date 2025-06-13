@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: wang2018learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.04843"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.04843'}
 tags: ['Uncategorized']
 ---
 Asking good questions in large-scale, open-domain conversational systems is

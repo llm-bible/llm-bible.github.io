@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cabello2024medical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03883"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03883'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 Question answering is a natural language understanding task that involves
 reasoning over both explicit context, and unstated relevant domain knowledge.

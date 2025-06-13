@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mou2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09420"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09420'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Current safety alignment techniques for large language models (LLMs) face two
 key challenges: (1) under-generalization, which leaves models vulnerable to

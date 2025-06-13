@@ -6,7 +6,7 @@ conference: "ACL 2024 Findings"
 year: 2024
 bibkey: soubki2024views
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02451"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02451'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Evaluating the theory of mind (ToM) capabilities of language models (LMs) has

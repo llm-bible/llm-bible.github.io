@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: radha2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13833"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13833'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Tools']
 ---
 Recent advances in Large Language Models (LLMs) have intensified the debate
 surrounding the fundamental nature of their reasoning capabilities. While

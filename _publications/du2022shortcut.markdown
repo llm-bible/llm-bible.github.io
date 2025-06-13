@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: du2022shortcut
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.11857"}
-tags: ['Security', 'Survey Paper', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.11857'}
+tags: ['Ethics and Bias', 'Security', 'Applications', 'Survey Paper']
 ---
 Large language models (LLMs) have achieved state-of-the-art performance on a
 series of natural language understanding tasks. However, these LLMs might rely

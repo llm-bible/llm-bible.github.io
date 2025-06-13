@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: galib2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13611"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13611'}
 tags: ['Multimodal Models', 'Applications']
 ---
 Smaller vision-language models (VLMs) are becoming increasingly important for

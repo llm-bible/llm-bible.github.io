@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.05110"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.05110'}
+tags: ['Security', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have led to a series of breakthroughs in natural
 language processing (NLP), owing to their excellent understanding and

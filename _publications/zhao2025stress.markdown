@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025stress
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12459"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12459'}
+tags: ['ACL', 'RAG', 'Model Architecture', 'GPT', 'Ethics and Bias']
 ---
 This paper investigates the fragility of Large Language Models (LLMs) in
 generalizing to novel inputs, specifically focusing on minor perturbations in

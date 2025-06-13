@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07393"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07393'}
 tags: ['Security', 'Training Techniques', 'Tools']
 ---
 Large Language Models (LLMs) need to adapt to the continuous changes in data,

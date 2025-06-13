@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hanafi2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15687"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15687'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models have shown promise in various domains, including
 healthcare. In this study, we conduct a comprehensive evaluation of LLMs in the

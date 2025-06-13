@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: haxvig2024concerns
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05080"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05080'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 This position paper explores the benefits, drawbacks, and ethical
 considerations of incorporating synthetic personae in HCI research,

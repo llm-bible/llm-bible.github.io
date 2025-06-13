@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fucci2024spectrogram
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01710"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Merging', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01710'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'GPT', 'Applications', 'Merging', 'Interpretability', 'Pretraining Methods']
 ---
 Spurred by the demand for interpretable models, research on eXplainable AI
 for language technologies has experienced significant growth, with feature

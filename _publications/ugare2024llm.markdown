@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ugare2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01632"}
-  - {name: "Code", url: "https://github.com/uiuc-focal-lab/syncode"}
-tags: ['Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01632'}
+  - {name: "Code", url: 'https://github.com/uiuc-focal-lab/syncode'}
+tags: ['Has Code', 'Tools', 'Applications']
 ---
 LLMs are widely used in complex AI applications. These applications
 underscore the need for LLM outputs to adhere to a specific format, for their

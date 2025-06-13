@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: jiang2025realistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14654"}
-  - {name: "Code", url: "https://github.com/stanfordmlgroup/MedAgentBench"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14654'}
+  - {name: "Code", url: 'https://github.com/stanfordmlgroup/MedAgentBench'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Recent large language models (LLMs) have demonstrated significant
 advancements, particularly in their ability to serve as agents thereby

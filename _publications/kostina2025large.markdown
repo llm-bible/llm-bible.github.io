@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kostina2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08457"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08457'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Quantization', 'Prompting', 'Reinforcement Learning']
 ---
 Unlocking the potential of Large Language Models (LLMs) in data
 classification represents a promising frontier in natural language processing.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024fully
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16153"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16153'}
+tags: ['RAG', 'Fairness', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Despite recent advances in multimodal large language models (MLLMs), their
 development has predominantly focused on English- and western-centric datasets

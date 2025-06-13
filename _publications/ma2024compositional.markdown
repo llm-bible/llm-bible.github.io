@@ -6,8 +6,8 @@ conference: "32nd IEEE/ACM International Conference on Program Comprehension (IC
 year: 2024
 bibkey: ma2024compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19431"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19431'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Prompting']
 ---
 Large language models (LLMs) have achieved exceptional performance in code
 generation. However, the performance remains unsatisfactory in generating

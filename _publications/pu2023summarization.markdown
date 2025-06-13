@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: pu2023summarization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09558"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09558'}
 tags: ['Applications']
 ---
 How well can large language models (LLMs) generate summaries? We develop new

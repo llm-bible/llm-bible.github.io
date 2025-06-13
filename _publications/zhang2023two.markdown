@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16720"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16720'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Text ranking is a critical task in information retrieval. Recent advances in
 pre-trained language models (PLMs), especially large language models (LLMs),

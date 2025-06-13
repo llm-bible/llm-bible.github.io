@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tian2025eliminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09936"}
-tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09936'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Merging']
 ---
 Efficient inference of large language models (LLMs) is hindered by an
 ever-growing key-value (KV) cache, making KV cache compression a critical

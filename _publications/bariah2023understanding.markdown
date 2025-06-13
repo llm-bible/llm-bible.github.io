@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bariah2023understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07933"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07933'}
+tags: ['Agentic', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 The recent progress of artificial intelligence (AI) opens up new frontiers in
 the possibility of automating many tasks involved in Telecom networks design,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024salient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02741"}
-  - {name: "Code", url: "https://github.com/amazon-science/SigExt"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02741'}
+  - {name: "Code", url: 'https://github.com/amazon-science/SigExt'}
+tags: ['Has Code', 'RAG', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) can generate fluent summaries across domains
 using prompting techniques, reducing the need to train models for summarization

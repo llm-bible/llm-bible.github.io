@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04461"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04461'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) have recently demonstrated strong efficacy as
 visual assistants that can parse natural queries about the visual content and

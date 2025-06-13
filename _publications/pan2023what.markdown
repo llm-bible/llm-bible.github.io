@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.09731"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09731'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning']
 ---
 Large language models (LLMs) exploit in-context learning (ICL) to solve tasks
 with only a few demonstrations, but its mechanisms are not yet well-understood.

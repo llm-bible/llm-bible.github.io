@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025stepwise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15335"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15335'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Advances in Large Language Models (LLMs) have significantly improved
 multi-step reasoning through generating free-text rationales. However, recent

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025enhanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10069"}
-tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10069'}
+tags: ['Attention Mechanism', 'Agentic', 'Security', 'Model Architecture', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Vision-and-Language Navigation (VLN) in continuous environments requires
 agents to interpret natural language instructions while navigating

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xing2023simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09710"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09710'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning']
 ---
 The recent wave of AI-generated content has witnessed the great development
 and success of Text-to-Image (T2I) technologies. By contrast, Text-to-Video

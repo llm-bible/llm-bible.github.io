@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chrabąszcz2025maybe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16174"}
-tags: ['Responsible AI', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16174'}
+tags: ['Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Ensuring the safety of the Large Language Model (LLM) is critical, but
 currently used methods in most cases sacrifice the model performance to obtain

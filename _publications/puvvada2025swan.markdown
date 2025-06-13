@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: puvvada2025swan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08719"}
-tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08719'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'GPT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present a decoder-only Transformer architecture that robustly generalizes
 to sequence lengths substantially longer than those seen during training. Our

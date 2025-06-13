@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nie2024compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08246"}
-tags: ['RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08246'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Existing text-to-image models struggle to follow complex text prompts,
 raising the need for extra grounding inputs for better controllability. In this

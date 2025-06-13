@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16779"}
-  - {name: "Code", url: "https://github.com/fairyshine/Chain-of-Tools"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16779'}
+  - {name: "Code", url: 'https://github.com/fairyshine/Chain-of-Tools'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Interpretability']
 ---
 Tool learning can further broaden the usage scenarios of large language
 models (LLMs). However most of the existing methods either need to finetune

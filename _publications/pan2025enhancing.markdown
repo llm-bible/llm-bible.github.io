@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: pan2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12773"}
-  - {name: "Code", url: "https://github.com/ycpNotFound/GeoGen"}
-tags: ['RAG', 'Tools', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12773'}
+  - {name: "Code", url: 'https://github.com/ycpNotFound/GeoGen'}
+tags: ['RAG', 'Has Code', 'Multimodal Models', 'Tools']
 ---
 Recent advances in Multimodal Large Language Models (MLLMs) have achieved
 remarkable progress in general domains and demonstrated promise in multimodal

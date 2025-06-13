@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06713"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06713'}
+tags: ['Security', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'Multimodal Models', 'Responsible AI']
 ---
 The strategic significance of Large Language Models (LLMs) in economic
 expansion, innovation, societal development, and national security has been

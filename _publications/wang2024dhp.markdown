@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024dhp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13704"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13704'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) are increasingly serving as evaluators in
 Natural Language Generation (NLG) tasks; this is often referred to as

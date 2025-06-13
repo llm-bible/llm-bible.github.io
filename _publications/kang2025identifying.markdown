@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kang2025identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15365"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15365'}
 tags: ['Survey Paper']
 ---
 This study quantitively examines which features of AI-generated text lead

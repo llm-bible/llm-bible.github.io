@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: demijolla2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05967"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05967'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prompting and fine-tuning have emerged as two competing paradigms for
 augmenting language models with new capabilities, such as the use of tools.

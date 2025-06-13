@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gong2020recurrent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.08056"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.08056'}
+tags: ['Agentic', 'Transformer', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper, we study machine reading comprehension (MRC) on long texts,
 where a model takes as inputs a lengthy document and a question and then

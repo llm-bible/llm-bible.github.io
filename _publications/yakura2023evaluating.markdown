@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yakura2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10744"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10744'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Metaphors and sarcasm are precious fruits of our highly evolved social
 communication skills. However, children with the condition then known as

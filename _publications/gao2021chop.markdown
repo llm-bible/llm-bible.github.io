@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gao2021chop
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.14741"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.14741'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Vision-and-Language (VL) pre-training has shown great potential on many
 related downstream tasks, such as Visual Question Answering (VQA), one of the

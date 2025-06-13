@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: balog2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19092"}
-tags: ['Applications', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19092'}
+tags: ['Ethics and Bias', 'Applications']
 ---
 Large language models (LLMs) are increasingly integral to information
 retrieval (IR), powering ranking, evaluation, and AI-assisted content creation.

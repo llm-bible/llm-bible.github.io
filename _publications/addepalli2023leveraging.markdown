@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: addepalli2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08255"}
-tags: ['Efficiency and Optimization', 'RAG', 'Training Techniques', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08255'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) such as CLIP are trained on large amounts of
 image-text pairs, resulting in remarkable generalization across several data

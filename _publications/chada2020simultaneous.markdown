@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chada2020simultaneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.05570"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.05570'}
+tags: ['Transformer', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper describes the third place submission to the shared task on
 simultaneous translation and paraphrasing for language education at the 4th

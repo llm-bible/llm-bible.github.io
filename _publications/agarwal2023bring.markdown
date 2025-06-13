@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: agarwal2023bring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07850"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07850'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 We present BYOKG, a universal question-answering (QA) system that can operate
 on any knowledge graph (KG), requires no human-annotated training data, and can

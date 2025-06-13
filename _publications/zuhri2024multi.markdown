@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zuhri2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09297"}
-  - {name: "Code", url: "https://github.com/zaydzuhri/pythia-mlkv"}
-tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09297'}
+  - {name: "Code", url: 'https://github.com/zaydzuhri/pythia-mlkv'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Auto-regressive inference of transformers benefit greatly from Key-Value (KV)
 caching, but can lead to major memory bottlenecks as model size, batch size,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: khatibi2025cdf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12560"}
-  - {name: "Code", url: "https://github.com/"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12560'}
+  - {name: "Code", url: 'https://github.com/'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Tools', 'Interpretability']
 ---
 Retrieval-Augmented Generation (RAG) has significantly enhanced large
 language models (LLMs) in knowledge-intensive tasks by incorporating external

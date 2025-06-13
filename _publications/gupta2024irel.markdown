@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024irel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16129"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16129'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 This paper describes our approach for SemEval-2024 Task 9: BRAINTEASER: A

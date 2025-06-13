@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.02357"}
-  - {name: "Code", url: "https://github.com/zjunlp/MKGformer"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.02357'}
+  - {name: "Code", url: 'https://github.com/zjunlp/MKGformer'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multimodal Knowledge Graphs (MKGs), which organize visual-text factual
 knowledge, have recently been successfully applied to tasks such as information

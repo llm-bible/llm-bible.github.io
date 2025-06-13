@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: thrush2024i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05300"}
-  - {name: "Code", url: "https://github.com/TristanThrush/i-am-a-strange-dataset"}
-tags: ['Tools', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05300'}
+  - {name: "Code", url: 'https://github.com/TristanThrush/i-am-a-strange-dataset'}
+tags: ['GPT', 'Has Code', 'Tools', 'Model Architecture']
 ---
 Statements involving metalinguistic self-reference ("This paper has six
 sections.") are prevalent in many domains. Can current large language models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ichmoukhamedov2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10220"}
-tags: ['Interpretability and Explainability', 'Tools', 'Survey Paper', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10220'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Tools', 'Survey Paper']
 ---
 A rapidly developing application of LLMs in XAI is to convert quantitative
 explanations such as SHAP into user-friendly narratives to explain the

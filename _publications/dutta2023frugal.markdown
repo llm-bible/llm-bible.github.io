@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dutta2023frugal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05571"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05571'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLM) exhibit zero-shot mathematical reasoning capacity

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cho2024speechworthy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14672"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14672'}
 tags: ['RAG', 'Prompting']
 ---
 Current instruction-tuned language models are exclusively trained with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lian2024breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07171"}
-tags: ['RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07171'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Recently, Large language models (LLMs) have revolutionized Natural Language
 Processing (NLP). Pretrained LLMs, due to limited training context size,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: santos2025diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14367"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14367'}
 tags: ['Prompting']
 ---
 Prompt engineering is essential for optimizing large language models (LLMs),

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramos2024transparent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05810"}
-tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05810'}
+tags: ['RAG', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Recent state-of-the-art recommender systems predominantly rely on either
 implicit or explicit feedback from users to suggest new items. While effective

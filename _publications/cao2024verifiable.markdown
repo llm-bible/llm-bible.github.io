@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024verifiable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06125"}
-tags: ['Interpretability', 'RAG', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06125'}
+tags: ['Reinforcement Learning', 'RAG', 'Interpretability', 'Ethics and Bias']
 ---
 Verifiable generation requires large language models (LLMs) to cite source
 documents supporting their outputs, thereby improve output transparency and

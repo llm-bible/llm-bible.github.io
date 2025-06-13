@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kuo2024rad
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12558"}
-  - {name: "Code", url: "https://github.com/mtkresearch/RAD-Bench"}
-tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12558'}
+  - {name: "Code", url: 'https://github.com/mtkresearch/RAD-Bench'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
 ---
 In real-world applications with Large Language Models (LLMs), external
 retrieval mechanisms - such as Search-Augmented Generation (SAG), tool

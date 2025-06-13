@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024ada
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06480"}
-  - {name: "Code", url: "https://github.com/open-compass/Ada-LEval"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06480'}
+  - {name: "Code", url: 'https://github.com/open-compass/Ada-LEval'}
+tags: ['Has Code', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Recently, the large language model (LLM) community has shown increasing
 interest in enhancing LLMs' capability to handle extremely long documents. As

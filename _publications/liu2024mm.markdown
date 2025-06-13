@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024mm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19736"}
-  - {name: "Code", url: "https://github.com/jihaonew/MM-Instruct"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19736'}
+  - {name: "Code", url: 'https://github.com/jihaonew/MM-Instruct'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Multimodal Models']
 ---
 This paper introduces MM-Instruct, a large-scale dataset of diverse and
 high-quality visual instruction data designed to enhance the

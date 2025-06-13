@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025implicit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.24190"}
-tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.24190'}
+tags: ['Prompting', 'GPT', 'In-Context Learning', 'Model Architecture']
 ---
 Humans acquire language through implicit learning, absorbing complex patterns
 without explicit awareness. While LLMs demonstrate impressive linguistic

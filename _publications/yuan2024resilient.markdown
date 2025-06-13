@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024resilient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13031"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13031'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Merging', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent advancements in Large Language Models (LLMs) have showcased remarkable
 capabilities across various tasks in different domains. However, the emergence

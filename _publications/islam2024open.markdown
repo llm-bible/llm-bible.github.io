@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: islam2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01782"}
-  - {name: "Code", url: "https://openragmoe.github.io/"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01782'}
+  - {name: "Code", url: 'https://openragmoe.github.io/'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) has been shown to enhance the factual
 accuracy of Large Language Models (LLMs), but existing methods often suffer

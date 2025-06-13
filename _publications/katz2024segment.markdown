@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: katz2024segment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18487"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18487'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Modern Language Models (LMs) owe much of their success to masked causal
 attention, the backbone of Generative Pre-Trained Transformer (GPT) models.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20504"}
-  - {name: "Code", url: "https://github.com/SCZwangxiao/video-ReTaKe"}
-tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20504'}
+  - {name: "Code", url: 'https://github.com/SCZwangxiao/video-ReTaKe'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Reinforcement Learning']
 ---
 Video Large Language Models (VideoLLMs) have made significant strides in
 video understanding but struggle with long videos due to the limitations of

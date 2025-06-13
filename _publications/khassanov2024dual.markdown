@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khassanov2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07842"}
-tags: ['Fine-Tuning', 'Training Techniques', 'INTERSPEECH', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07842'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'INTERSPEECH', 'Training Techniques']
 ---
 This paper addresses challenges in integrating new languages into a
 pre-trained multilingual automatic speech recognition (mASR) system,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11474"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11474'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent studies have demonstrated that In-Context Learning (ICL), through the
 use of specific demonstrations, can align Large Language Models (LLMs) with

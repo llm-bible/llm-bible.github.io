@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: potertì2025designing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12055"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12055'}
 tags: ['Prompting']
 ---
 The influence of personas on Large Language Models (LLMs) has been widely

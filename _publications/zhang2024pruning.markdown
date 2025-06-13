@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024pruning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06275"}
-  - {name: "Code", url: "https://github.com/psunlpgroup/D-Pruner"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06275'}
+  - {name: "Code", url: 'https://github.com/psunlpgroup/D-Pruner'}
+tags: ['Has Code', 'Pruning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Large Language Models (LLMs) have exhibited remarkable proficiency across a
 wide array of NLP tasks. However, the escalation in model size also engenders

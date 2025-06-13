@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024process
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12583"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12583'}
 tags: ['Reinforcement Learning']
 ---
 Process-supervised reward models (PRMs), which verify large language model

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11523"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11523'}
 tags: ['Efficiency and Optimization', 'Pretraining Methods']
 ---
 Click-Through Rate (CTR) prediction is crucial for Recommendation System(RS),

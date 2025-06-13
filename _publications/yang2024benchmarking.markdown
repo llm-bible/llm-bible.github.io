@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22153"}
-tags: ['Responsible AI', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22153'}
+tags: ['Prompting', 'Security', 'Responsible AI']
 ---
 With the ubiquity of Large Language Models (LLMs), guardrails have become
 crucial to detect and defend against toxic content. However, with the

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: buldu2024cuify
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04671"}
-  - {name: "Code", url: "https://gitlab.lrz.de/hctl/cuify"}
-tags: ['Agentic', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04671'}
+  - {name: "Code", url: 'https://gitlab.lrz.de/hctl/cuify'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Training Techniques']
 ---
 Recent developments in computer graphics, machine learning, and sensor
 technologies enable numerous opportunities for extended reality (XR) setups for

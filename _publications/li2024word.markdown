@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024word
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14828"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14828'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Applications', 'Training Techniques']
 ---
 Domain adaptation aims to enable Large Language Models (LLMs) to generalize
 domain datasets unseen effectively during the training phase. However, factors

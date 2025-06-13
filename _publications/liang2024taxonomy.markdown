@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024taxonomy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14043"}
-  - {name: "Code", url: "https://github.com/yueqingliang1/TaxRec"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'RecSys', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14043'}
+  - {name: "Code", url: 'https://github.com/yueqingliang1/TaxRec'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'RecSys', 'Prompting', 'Pretraining Methods']
 ---
 With the emergence of large language models (LLMs) and their ability to
 perform a variety of tasks, their application in recommender systems (RecSys)

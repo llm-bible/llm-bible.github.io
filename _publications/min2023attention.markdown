@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: min2023attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.00340"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.00340'}
+tags: ['Attention Mechanism', 'Transformer', 'SLT', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Transformers have achieved great success in machine translation, but
 transformer-based NMT models often require millions of bilingual parallel

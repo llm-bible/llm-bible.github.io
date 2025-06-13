@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023tell
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02262"}
-  - {name: "Code", url: "https://github.com/QingruZhang/PASTA"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02262'}
+  - {name: "Code", url: 'https://github.com/QingruZhang/PASTA'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 In human-written articles, we often leverage the subtleties of text style,
 such as bold and italics, to guide the attention of readers. These textual

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023composing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03354"}
-tags: ['Tools', 'Multimodal Models', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03354'}
+tags: ['Multimodal Models', 'Applications', 'Tools']
 ---
 A remarkable ability of human beings resides in compositional reasoning,
 i.e., the capacity to make "infinite use of finite means". However, current

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gozalobrizuela2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.04655"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.04655'}
 tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 During the last two years there has been a plethora of large generative

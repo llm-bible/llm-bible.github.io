@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tekin2024honest
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17792"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17792'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Alignment of pretrained LLMs using instruction-based datasets is critical for
 creating fine-tuned models that reflect human preference. A growing number of

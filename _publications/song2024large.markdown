@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13334"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13334'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques']
 ---
 This research's primary motivation of this study is to address the high
 hardware and computational demands typically associated with LLMs.Therefore,our

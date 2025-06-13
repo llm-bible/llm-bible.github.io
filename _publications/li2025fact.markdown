@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025fact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14275"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14275'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Large language models (LLMs) have been widely adopted in various downstream
 task domains. However, their ability to directly recall and apply factual

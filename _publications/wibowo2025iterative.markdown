@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wibowo2025iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06291"}
-tags: ['RAG', 'Efficiency and Optimization', 'Quantization', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06291'}
+tags: ['RAG', 'Pruning', 'Efficiency and Optimization', 'Quantization']
 ---
 Large Language Models (LLMs) have grown increasingly expensive to deploy,
 driving the need for effective model compression techniques. While block

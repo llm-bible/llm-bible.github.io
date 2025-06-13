@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024information
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09857"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09857'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pretrained Large Language Models (LLM) such as ChatGPT, Claude, etc. have
 demonstrated strong capabilities in various fields of natural language

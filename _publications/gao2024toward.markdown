@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00380"}
-tags: ['Fine-Tuning', 'Applications', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00380'}
+tags: ['Training Techniques', 'Applications', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved remarkable success across various
 industries due to their exceptional generative capabilities. However, for safe

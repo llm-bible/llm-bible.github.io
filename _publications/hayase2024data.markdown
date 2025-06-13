@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hayase2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16607"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16607'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The pretraining data of today's strongest language models is opaque; in
 particular, little is known about the proportions of various domains or

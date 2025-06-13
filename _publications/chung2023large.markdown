@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chung2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08885"}
-  - {name: "Code", url: "https://github.com/WillyHC22/InstructTODS/"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08885'}
+  - {name: "Code", url: 'https://github.com/WillyHC22/InstructTODS/'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been used for diverse tasks in natural
 language processing (NLP), yet remain under-explored for task-oriented dialogue

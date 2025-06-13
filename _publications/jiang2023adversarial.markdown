@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12870"}
-  - {name: "Code", url: "https://github.com/YJiangcm/Lion"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12870'}
+  - {name: "Code", url: 'https://github.com/YJiangcm/Lion'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Distillation', 'Prompting', 'Reinforcement Learning']
 ---
 The practice of transferring knowledge from a sophisticated, proprietary
 large language model (LLM) to a compact, open-source LLM has garnered

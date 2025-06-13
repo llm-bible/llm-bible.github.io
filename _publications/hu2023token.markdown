@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11509"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11509'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 In recent years, Large Language Models (LLM) have emerged as pivotal tools in
 various applications. However, these models are susceptible to adversarial

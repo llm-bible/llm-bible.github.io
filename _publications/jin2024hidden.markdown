@@ -6,8 +6,8 @@ conference: "npj Digital Medicine 2024"
 year: 2024
 bibkey: jin2024hidden
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08396"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08396'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recent studies indicate that Generative Pre-trained Transformer 4 with Vision
 (GPT-4V) outperforms human physicians in medical challenge tasks. However,

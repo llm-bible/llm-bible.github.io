@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01466"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01466'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Efficiency and Optimization', 'Applications', 'Tools', 'Training Techniques', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 Large language models (LLMs) offer substantial promise for text
 classification in political science, yet their effectiveness often depends on

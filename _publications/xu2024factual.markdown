@@ -6,8 +6,8 @@ conference: "KDD 2024 (oral)"
 year: 2024
 bibkey: xu2024factual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01080"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01080'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 The prevailing issue of factual inconsistency errors in conventional
 Retrieval Augmented Generation (RAG) motivates the study of Factual Consistency

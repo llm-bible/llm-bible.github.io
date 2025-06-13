@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wulfmeier2024imitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01369"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01369'}
+tags: ['Agentic', 'GPT', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The majority of language model training builds on imitation learning. It
 covers pretraining, supervised fine-tuning, and affects the starting conditions

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: so2021searching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.08668"}
-tags: ['Transformer', 'Tools', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.08668'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'GPT', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Large Transformer models have been central to recent advances in natural
 language processing. The training and inference costs of these models, however,

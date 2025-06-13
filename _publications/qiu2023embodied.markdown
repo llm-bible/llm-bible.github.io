@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiu2023embodied
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05696"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05696'}
+tags: ['Agentic', 'ACL', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language models (LLMs) have shown remarkable success in assisting robot
 learning tasks, i.e., complex household planning. However, the performance of

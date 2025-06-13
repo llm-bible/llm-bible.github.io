@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiao2023panda
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.03025"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.03025'}
 tags: ['Fine-Tuning', 'Training Techniques']
 ---
 This project focuses on enhancing open-source large language models through

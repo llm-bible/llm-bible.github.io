@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sánchez2023gender
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03175"}
-tags: ['RAG', 'Prompting', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03175'}
+tags: ['Ethics and Bias', 'RAG', 'Prompting', 'Applications']
 ---
 While machine translation (MT) systems have seen significant improvements, it
 is still common for translations to reflect societal biases, such as gender

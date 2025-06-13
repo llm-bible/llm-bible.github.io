@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bose2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.09251"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.09251'}
 tags: ['RAG', 'Prompting']
 ---
 Large-scale foundation models, such as CLIP, have demonstrated impressive

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiong2025mcts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13428"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13428'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study explores how to enhance the reasoning capabilities of large
 language models (LLMs) in knowledge base question answering (KBQA) by

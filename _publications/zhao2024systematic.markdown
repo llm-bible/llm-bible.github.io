@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02302"}
-  - {name: "Code", url: "https://www.youtube.com/watch?v=GYT-65HZwus"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02302'}
+  - {name: "Code", url: 'https://www.youtube.com/watch?v=GYT-65HZwus'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have become powerful tools for advancing natural
 language processing applications in the financial industry. However, existing

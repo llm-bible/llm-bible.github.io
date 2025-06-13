@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: delaiglesia2024ranking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20565"}
-tags: ['Security', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20565'}
+tags: ['Ethics and Bias', 'Security']
 ---
 Evaluating LLM-generated text has become a key challenge, especially in
 domain-specific contexts like the medical field. This work introduces a novel

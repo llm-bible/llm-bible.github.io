@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yeo2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11863"}
-  - {name: "Code", url: "https://github.com/SenticNet/CoT_interpretability"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11863'}
+  - {name: "Code", url: 'https://github.com/SenticNet/CoT_interpretability'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Security', 'Model Architecture', 'Prompting']
 ---
 Prompt Engineering has garnered significant attention for enhancing the
 performance of large language models across a multitude of tasks. Techniques

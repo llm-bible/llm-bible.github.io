@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19839"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19839'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Merging', 'Multimodal Models']
 ---
 Currently, instruction-based image editing methods have made significant
 progress by leveraging the powerful cross-modal understanding capabilities of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: guan2021long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.08963"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.08963'}
+tags: ['Language Modeling', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generating long and coherent text is an important but challenging task,
 particularly for open-ended language generation tasks such as story generation.

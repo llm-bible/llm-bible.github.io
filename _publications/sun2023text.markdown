@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02883"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02883'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Text-to-SQL aims to automate the process of generating SQL queries on a

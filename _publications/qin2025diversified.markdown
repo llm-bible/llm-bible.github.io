@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: qin2025diversified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00747"}
-  - {name: "Code", url: "https://github.com/qinyiwei/DIVE"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00747'}
+  - {name: "Code", url: 'https://github.com/qinyiwei/DIVE'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recent advances in large language models (LLMs) have demonstrated the
 effectiveness of Iterative Self-Improvement (ISI) techniques. However,

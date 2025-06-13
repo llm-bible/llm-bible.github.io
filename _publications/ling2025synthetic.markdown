@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ling2025synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15089"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15089'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable progress in

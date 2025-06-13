@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: diao2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11832"}
-  - {name: "Code", url: "https://github.com/baaivision/EVE"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11832'}
+  - {name: "Code", url: 'https://github.com/baaivision/EVE'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Ethics and Bias']
 ---
 Existing vision-language models (VLMs) mostly rely on vision encoders to
 extract visual features followed by large language models (LLMs) for

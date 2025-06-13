@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: shikhar2025autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04724"}
-  - {name: "Code", url: "https://mbzuai-oryx.github.io/LLMVoX"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04724'}
+  - {name: "Code", url: 'https://mbzuai-oryx.github.io/LLMVoX'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in speech-to-speech dialogue systems leverage LLMs for
 multimodal interactions, yet they remain hindered by fine-tuning requirements,

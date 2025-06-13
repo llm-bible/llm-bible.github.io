@@ -6,8 +6,8 @@ conference: "https://fllm-conference.org/2023/"
 year: 2023
 bibkey: islam2023pushing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00127"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00127'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 \\( \\)The synergy of language and vision models has given rise to Large Language
 and Vision Assistant models (LLVAs), designed to engage users in rich

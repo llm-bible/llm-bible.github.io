@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kamalloo2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.06984"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.06984'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Lexical matching remains the de facto evaluation method for open-domain
 question answering (QA). Unfortunately, lexical matching fails completely when

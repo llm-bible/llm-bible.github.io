@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07280"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07280'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 One of the key factors in language productivity and human cognition is the
 ability of systematic compositionality, which refers to understanding composed

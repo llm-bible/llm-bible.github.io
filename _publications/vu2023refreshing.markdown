@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: vu2023refreshing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03214"}
-tags: ['RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03214'}
+tags: ['Few-Shot', 'RAG', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Most large language models (LLMs) are trained once and never updated; thus,
 they lack the ability to dynamically adapt to our ever-changing world. In this

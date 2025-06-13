@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: halloran2024mamba
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00209"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00209'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Mamba state-space models (SSMs) were recently shown to outperform
 state-of-the-art (SOTA) Transformer large language models (LLMs) across various

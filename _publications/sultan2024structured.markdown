@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sultan2024structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11770"}
-tags: ['Agentic', 'Tools', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11770'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Training Techniques', 'Tools', 'Prompting']
 ---
 We introduce a structured chain-of-thought (SCoT) prompting approach to
 generating content-grounded multi-turn question-answer conversations using a

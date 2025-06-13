@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gevers2025parallel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23779"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23779'}
 tags: ['Training Techniques']
 ---
 In this study, we take a closer look at how Winograd schema challenges can be

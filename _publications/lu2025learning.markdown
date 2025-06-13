@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18878"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18878'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 This study investigates the structured generation capabilities of large
 language models (LLMs), focusing on producing valid JSON outputs against a

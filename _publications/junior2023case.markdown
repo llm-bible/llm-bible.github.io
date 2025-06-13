@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: junior2023case
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12598"}
-tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12598'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability']
 ---
 This paper presents a detailed case study examining the application of Large
 Language Models (LLMs) in the construction of test cases within the context of

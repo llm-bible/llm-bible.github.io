@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tran2024preserving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00334"}
-tags: ['RAG', 'Few-Shot', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00334'}
+tags: ['Few-Shot', 'RAG', 'Merging']
 ---
 Few-shot Continual Relations Extraction (FCRE) is an emerging and dynamic
 area of study where models can sequentially integrate knowledge from new

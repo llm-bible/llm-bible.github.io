@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03635"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03635'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 a wide range of tasks requiring complex reasoning. However, the effects of

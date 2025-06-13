@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024linguistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12435"}
-  - {name: "Code", url: "https://github.com/ChenDelong1999/Linguistic-Similarity"}
-tags: ['RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12435'}
+  - {name: "Code", url: 'https://github.com/ChenDelong1999/Linguistic-Similarity'}
+tags: ['RAG', 'Has Code', 'Training Techniques']
 ---
 We introduce a novel analysis that leverages linguistic minimal pairs to
 probe the internal linguistic representations of Large Language Models (LLMs).

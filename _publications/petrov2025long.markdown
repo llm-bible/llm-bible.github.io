@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: petrov2025long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08934"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08934'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Long context processing is critical for the adoption of LLMs, but existing
 methods often introduce architectural complexity that hinders their practical

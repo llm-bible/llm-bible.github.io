@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09153"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09153'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The questionable responses caused by knowledge hallucination may lead to
 LLMs' unstable ability in decision-making. However, it has never been

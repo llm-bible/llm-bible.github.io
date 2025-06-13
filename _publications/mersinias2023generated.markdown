@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mersinias2023generated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.08577"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.08577'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We explore incorporating natural language inference (NLI) into the text
 generative pipeline by using a pre-trained NLI model to assess whether a

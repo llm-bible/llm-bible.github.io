@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: alkhateeb2023position
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13017"}
-tags: ['Applications', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13017'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Applications', 'Model Architecture']
 ---
 Linear position interpolation helps pre-trained models using rotary position
 embeddings (RoPE) to extrapolate to longer sequence lengths. We propose using

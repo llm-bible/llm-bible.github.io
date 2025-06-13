@@ -6,8 +6,8 @@ conference: "Computer Speech Language 93 (2025) 101785"
 year: 2024
 bibkey: cao2024evaluate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14973"}
-tags: ['Tools', 'Training Techniques', 'Multimodal Models', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14973'}
+tags: ['Multimodal Models', 'Tools', 'Training Techniques', 'Merging']
 ---
 Multimodal Large Language Models (MLLMs) are typically assessed using
 expensive annotated multimodal benchmarks, which often lag behind the rapidly

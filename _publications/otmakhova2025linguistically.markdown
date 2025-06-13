@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: otmakhova2025linguistically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17311"}
-tags: ['RAG', 'Tools', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17311'}
+tags: ['RAG', 'Security', 'Tools']
 ---
 We present FLUKE (Framework for LingUistically-driven and tasK-agnostic
 robustness Evaluation), a task-agnostic framework for assessing model

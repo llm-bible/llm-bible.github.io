@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: safaya2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02486"}
-  - {name: "Code", url: "https://github.com/alisafaya/neurocache"}
-tags: ['Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02486'}
+  - {name: "Code", url: 'https://github.com/alisafaya/neurocache'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Few-Shot', 'Model Architecture']
 ---
 This paper introduces Neurocache, an approach to extend the effective context
 size of large language models (LLMs) using an external vector cache to store

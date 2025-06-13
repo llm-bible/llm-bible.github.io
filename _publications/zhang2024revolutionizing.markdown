@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024revolutionizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16803"}
-tags: ['Tools', 'Multimodal Models', 'Prompting', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16803'}
+tags: ['Prompting', 'Multimodal Models', 'Tools', 'Merging']
 ---
 As the field of image generation rapidly advances, traditional diffusion
 models and those integrated with multimodal large language models (LLMs) still

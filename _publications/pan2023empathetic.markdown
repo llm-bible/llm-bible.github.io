@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023empathetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09271"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09271'}
 tags: ['Reinforcement Learning']
 ---
 This paper explores the intersection of Otome Culture and artificial

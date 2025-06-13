@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024guiding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03997"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03997'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture']
 ---
 Pre-trained Large Language Models (LLMs) are beginning to dominate the
 discourse around automatic code generation with natural language

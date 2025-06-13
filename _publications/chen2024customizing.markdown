@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024customizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12844"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12844'}
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Automatic generation of graphical layouts is crucial for many real-world
 applications, including designing posters, flyers, advertisements, and

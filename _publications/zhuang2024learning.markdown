@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuang2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02223"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02223'}
 tags: ['Tools', 'Applications']
 ---
 With hundreds of thousands of language models available on Huggingface today,

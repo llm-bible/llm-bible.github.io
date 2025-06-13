@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024claim
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12558"}
-  - {name: "Code", url: "https://github.com/FBzzh/CACDD"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Has Code', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12558'}
+  - {name: "Code", url: 'https://github.com/FBzzh/CACDD'}
+tags: ['Has Code', 'Few-Shot', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The advancement of LLMs has significantly boosted the performance of complex
 long-form question answering tasks. However, one prominent issue of LLMs is the

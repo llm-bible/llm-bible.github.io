@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: narayan2021planning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.07606"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.07606'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 We introduce a simple but flexible mechanism to learn an intermediate plan to
 ground the generation of abstractive summaries. Specifically, we prepend (or

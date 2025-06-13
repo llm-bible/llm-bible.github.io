@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fishman2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12517"}
-  - {name: "Code", url: "https://github.com/Anonymous1252022/Megatron-DeepSpeed"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12517'}
+  - {name: "Code", url: 'https://github.com/Anonymous1252022/Megatron-DeepSpeed'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 We train, for the first time, large language models using FP8 precision on
 datasets up to 2 trillion tokens -- a 20-fold increase over previous limits.

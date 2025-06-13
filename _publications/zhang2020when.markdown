@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.04946"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.04946'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 NLP is currently dominated by general-purpose pretrained language models like
 RoBERTa, which achieve strong performance on NLU tasks through pretraining on

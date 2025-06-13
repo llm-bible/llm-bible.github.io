@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: phang2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16817"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16817'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Gisting (Mu et al., 2023) is a simple method for training models to compress
 information into fewer token representations using a modified attention mask,

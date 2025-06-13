@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bayat2025steering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00177"}
-tags: ['Interpretability and Explainability', 'RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00177'}
+tags: ['Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Prompting']
 ---
 A key challenge in AI alignment is guiding large language models (LLMs) to
 follow desired behaviors at test time. Activation steering, which modifies

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.11477"}
-  - {name: "Code", url: "https://github.com/Cranial-XIX/llm-pddl.git"}
-tags: ['RAG', 'Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11477'}
+  - {name: "Code", url: 'https://github.com/Cranial-XIX/llm-pddl.git'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Tools']
 ---
 Large language models (LLMs) have demonstrated remarkable zero-shot
 generalization abilities: state-of-the-art chatbots can provide plausible

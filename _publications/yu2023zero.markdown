@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10703"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10703'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Pretraining Methods']
 ---
 With the development of large language models (LLMs), zero-shot learning has
 attracted much attention for various NLP tasks. Different from prior works that

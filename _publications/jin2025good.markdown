@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025good
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01065"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01065'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 code-related tasks, raising concerns about their potential for automated

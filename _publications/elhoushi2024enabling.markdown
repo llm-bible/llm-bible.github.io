@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: elhoushi2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16710"}
-  - {name: "Code", url: "https://github.com/facebookresearch/LayerSkip"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16710'}
+  - {name: "Code", url: 'https://github.com/facebookresearch/LayerSkip'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present LayerSkip, an end-to-end solution to speed-up inference of large
 language models (LLMs). First, during training we apply layer dropout, with low

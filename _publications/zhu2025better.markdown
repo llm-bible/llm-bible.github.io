@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15450"}
-  - {name: "Code", url: "https://github.com/sail-sg/SkyLadder"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15450'}
+  - {name: "Code", url: 'https://github.com/sail-sg/SkyLadder'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in LLM pretraining have featured ever-expanding context
 windows to process longer sequences. However, our pilot study reveals that

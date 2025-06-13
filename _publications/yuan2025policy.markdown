@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025policy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07054"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07054'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'GPT']
 ---
 Based on their superior comprehension and reasoning capabilities, Large
 Language Model (LLM) driven agent frameworks have achieved significant success

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: whitehouse2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14288"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14288'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 This paper explores the potential of leveraging Large Language Models (LLMs)
 for data augmentation in multilingual commonsense reasoning datasets where the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: glukhov2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10719"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10719'}
 tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have exhibited impressive capabilities in

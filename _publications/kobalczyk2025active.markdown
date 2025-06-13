@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kobalczyk2025active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04485"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04485'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Despite the impressive performance of large language models (LLMs) across
 various benchmarks, their ability to address ambiguously specified

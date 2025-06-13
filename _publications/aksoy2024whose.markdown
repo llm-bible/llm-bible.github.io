@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aksoy2024whose
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18863"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18863'}
+tags: ['Fairness', 'GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have become integral tools in diverse domains,
 yet their moral reasoning capabilities across cultural and linguistic contexts

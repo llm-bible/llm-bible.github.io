@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liong2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16470"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16470'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pre-trained language models (PLMs) are shown to be vulnerable to minor word
 changes, which poses a big threat to real-world systems. While previous studies

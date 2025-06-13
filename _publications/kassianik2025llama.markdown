@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kassianik2025llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21039"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21039'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 As transformer-based large language models (LLMs) increasingly permeate
 society, they have revolutionized domains such as software engineering,

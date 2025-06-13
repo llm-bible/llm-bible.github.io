@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chowdhury2025test
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23219"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23219'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in reasoning optimization have greatly enhanced the
 performance of large language models (LLMs). However, existing work fails to

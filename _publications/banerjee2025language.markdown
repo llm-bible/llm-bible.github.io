@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: banerjee2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11244"}
-tags: ['Responsible AI', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11244'}
+tags: ['Reinforcement Learning', 'Responsible AI']
 ---
 Ensuring consistent safety across multiple languages remains a significant
 challenge for large language models (LLMs). We introduce Soteria, a lightweight

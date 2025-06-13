@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024scaffolding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07387"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07387'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Programmers frequently engage with machine learning tutorials in
 computational notebooks and have been adopting code generation technologies

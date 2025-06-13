@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: taylor2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22597"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22597'}
 tags: ['Prompting']
 ---
 We seek to address a core challenge facing current Large Language Models

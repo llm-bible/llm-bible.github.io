@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11042"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11042'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, Large Language Models (LLMs) have achieved amazing zero-shot
 learning performance over a variety of Natural Language Processing (NLP) tasks,

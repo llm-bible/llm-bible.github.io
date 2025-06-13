@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sabouri2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00886"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00886'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Accurately modeling user preferences is vital not only for improving
 recommendation performance but also for enhancing transparency in recommender

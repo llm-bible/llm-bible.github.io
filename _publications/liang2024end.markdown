@@ -6,8 +6,8 @@ conference: "NeurIPS Workshop on Socially Responsible Language Modelling Researc
 year: 2024
 bibkey: liang2024end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11353"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11353'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 Hallucination, the generation of factually incorrect content, is a growing
 challenge in Large Language Models (LLMs). Existing detection and mitigation

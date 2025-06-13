@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023medical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16035"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16035'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), although powerful in general domains, often
 perform poorly on domain-specific tasks such as medical question answering

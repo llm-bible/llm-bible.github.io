@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mavi2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16285"}
-tags: ['Agentic', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16285'}
+tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 The current paper presents the development and validation of SelfScore, a
 novel benchmark designed to assess the performance of automated Large Language

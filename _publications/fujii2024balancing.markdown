@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fujii2024balancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08719"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08719'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have attracted significant attention due to
 their human-like language understanding and generation capabilities, as well as

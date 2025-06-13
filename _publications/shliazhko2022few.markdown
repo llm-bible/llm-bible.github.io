@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: shliazhko2022few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.07580"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.07580'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Tokenization', 'Pretraining Methods']
 ---
 Recent studies report that autoregressive language models can successfully
 solve many NLP tasks via zero- and few-shot learning paradigms, which opens up

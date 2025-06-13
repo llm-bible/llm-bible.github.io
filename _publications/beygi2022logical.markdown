@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: beygi2022logical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.04161"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.04161'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 In recent years, large pretrained models have been used in dialogue systems
 to improve successful task completion rates. However, lack of reasoning

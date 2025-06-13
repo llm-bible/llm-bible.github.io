@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03548"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03548'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Instruction tuning improves the reasoning abilities of large language models
 (LLMs), with data quality and scalability being the crucial factors. Most

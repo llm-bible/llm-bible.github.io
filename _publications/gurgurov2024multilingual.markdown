@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gurgurov2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10602"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10602'}
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Tokenization']
 ---
 Multilingual Large Language Models (LLMs) have gained large popularity among
 Natural Language Processing (NLP) researchers and practitioners. These models,

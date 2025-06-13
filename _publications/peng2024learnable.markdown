@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024learnable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13185"}
-  - {name: "Code", url: "https://github.com/ForJadeForest/LIVE-Learnable-In-Context-Vector"}
-tags: ['Applications', 'Merging', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13185'}
+  - {name: "Code", url: 'https://github.com/ForJadeForest/LIVE-Learnable-In-Context-Vector'}
+tags: ['Has Code', 'Applications', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 As language models continue to scale, Large Language Models (LLMs) have
 exhibited emerging capabilities in In-Context Learning (ICL), enabling them to

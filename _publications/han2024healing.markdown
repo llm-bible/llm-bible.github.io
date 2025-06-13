@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024healing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14459"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14459'}
+tags: ['Security', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Language models like BERT excel at sentence classification tasks due to
 extensive pre-training on general data, but their robustness to parameter

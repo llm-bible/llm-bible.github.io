@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: anjum2025when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03786"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03786'}
 tags: ['Agentic', 'Tools']
 ---
 Large Language Models (LLM) with reasoning capabilities offer a promising

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhou2019sequence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.09601"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.09601'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 The encoder-decoder framework has achieved promising process for many
 sequence generation tasks, such as neural machine translation and text

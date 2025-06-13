@@ -6,8 +6,8 @@ conference: "Transactions on Machine Learning Research January 2025"
 year: 2024
 bibkey: boizard2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12030"}
-tags: ['Distillation', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12030'}
+tags: ['Applications', 'Efficiency and Optimization', 'Distillation', 'Model Architecture']
 ---
 Deploying large language models (LLMs) of several billion parameters can be
 impractical in most industrial use cases due to constraints such as cost,

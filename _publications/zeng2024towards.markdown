@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10859"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10859'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) embed extensive knowledge and utilize it to
 perform exceptionally well across various tasks. Nevertheless, outdated

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13248"}
-  - {name: "Code", url: "https://github.com/lichao-sun/Mora"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13248'}
+  - {name: "Code", url: 'https://github.com/lichao-sun/Mora'}
+tags: ['Agentic', 'Has Code', 'Agent', 'RAG', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Text-to-video generation has made significant strides, but replicating the
 capabilities of advanced systems like OpenAI Sora remains challenging due to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07018"}
-  - {name: "Code", url: "https://newtonreasoning.github.io"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07018'}
+  - {name: "Code", url: 'https://newtonreasoning.github.io'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'GPT', 'Fine-Tuning']
 ---
 Large Language Models (LLMs), through their contextualized representations,
 have been empirically proven to encapsulate syntactic, semantic, word sense,

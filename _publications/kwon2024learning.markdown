@@ -6,8 +6,8 @@ conference: "EMNLP 2024"
 year: 2024
 bibkey: kwon2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15096"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15096'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 A critical component of the current generation of language models is
 preference alignment, which aims to precisely control the model's behavior to

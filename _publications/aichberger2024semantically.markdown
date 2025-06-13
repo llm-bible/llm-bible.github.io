@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: aichberger2024semantically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04306"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04306'}
 tags: ['GPT', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) can suffer from hallucinations when generating

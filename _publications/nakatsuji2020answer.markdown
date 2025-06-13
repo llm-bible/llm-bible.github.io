@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: nakatsuji2020answer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.13829"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.13829'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Machine reading comprehension methods that generate answers by referring to

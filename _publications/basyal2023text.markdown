@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: basyal2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10449"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10449'}
+tags: ['Transformer', 'RAG', 'BERT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Text summarization is a critical Natural Language Processing (NLP) task with
 applications ranging from information retrieval to content generation.

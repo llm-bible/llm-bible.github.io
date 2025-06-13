@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qian2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08594"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08594'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large language models (LLMs) acquire extensive knowledge during pre-training,
 known as their parametric knowledge. However, in order to remain up-to-date and

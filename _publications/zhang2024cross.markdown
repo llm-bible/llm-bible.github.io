@@ -6,9 +6,9 @@ conference: "CVPR2025"
 year: 2024
 bibkey: zhang2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18620"}
-  - {name: "Code", url: "https://github.com/FightingFighting/cross-modal-information-flow-in-MLLM.git"}
-tags: ['Multimodal Models', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18620'}
+  - {name: "Code", url: 'https://github.com/FightingFighting/cross-modal-information-flow-in-MLLM.git'}
+tags: ['Has Code', 'Multimodal Models', 'Applications']
 ---
 The recent advancements in auto-regressive multimodal large language models
 (MLLMs) have demonstrated promising progress for vision-language tasks. While

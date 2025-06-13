@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: du2022contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.03895"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.03895'}
+tags: ['Transformer', 'Model Architecture', 'BERT', 'Tools', 'Pretraining Methods']
 ---
 Contrastive learning with Transformer-based sequence encoder has gained
 predominance for sequential recommendation. It maximizes the agreements between

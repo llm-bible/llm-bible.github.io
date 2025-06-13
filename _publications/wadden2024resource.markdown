@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wadden2024resource
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07835"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07835'}
 tags: ['Applications']
 ---
 We present SciRIFF (Scientific Resource for Instruction-Following and

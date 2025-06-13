@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.01110"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'COLING']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.01110'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Model Architecture', 'Applications', 'COLING', 'Survey Paper', 'Reinforcement Learning']
 ---
 Recently, retrieval-augmented text generation attracted increasing attention
 of the computational linguistics community. Compared with conventional

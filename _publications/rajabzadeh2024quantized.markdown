@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rajabzadeh2024quantized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10462"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10462'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Finetuning large language models requires huge GPU memory, restricting the
 choice to acquire Larger models. While the quantized version of the Low-Rank

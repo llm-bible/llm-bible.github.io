@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14283"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14283'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) play powerful, black-box readers in the
 retrieve-then-read pipeline, making remarkable progress in knowledge-intensive

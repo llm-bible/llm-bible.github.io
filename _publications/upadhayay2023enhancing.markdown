@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: upadhayay2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10797"}
-  - {name: "Code", url: "https://github.com/UNHSAILLab/TaCo"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10797'}
+  - {name: "Code", url: 'https://github.com/UNHSAILLab/TaCo'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Creating multilingual LLMs poses a significant challenge. Pretraining or
 fine-tuning LLMs to adopt new languages is evidently very costly. Furthermore,

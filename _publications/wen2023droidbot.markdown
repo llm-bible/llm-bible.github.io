@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wen2023droidbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.07061"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.07061'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 This paper introduces DroidBot-GPT, a tool that utilizes GPT-like large
 language models (LLMs) to automate the interactions with Android mobile

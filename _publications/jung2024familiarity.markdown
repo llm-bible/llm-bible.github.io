@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jung2024familiarity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12468"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12468'}
 tags: ['RAG', 'Training Techniques']
 ---
 Retrieval-augmented generation (RAG) improves large language models (LMs) by

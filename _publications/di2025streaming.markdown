@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: di2025streaming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00540"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00540'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Prompting']
 ---
 We propose ReKV, a novel training-free approach that enables efficient
 streaming video question-answering (StreamingVQA), by seamlessly integrating

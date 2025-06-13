@@ -6,8 +6,8 @@ conference: "Findings of the Association for Computational Linguistics EMNLP 202
 year: 2023
 bibkey: mullappilly2023arabic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.09366"}
-  - {name: "Code", url: "https://github.com/mbzuai-oryx/ClimateGPT"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.09366'}
+  - {name: "Code", url: 'https://github.com/mbzuai-oryx/ClimateGPT'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Climate change is one of the most significant challenges we face together as

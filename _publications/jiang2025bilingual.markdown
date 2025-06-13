@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: jiang2025bilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19209"}
-  - {name: "Code", url: "https://github.com/OpenSPG/KAG"}
-tags: ['RAG', 'Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19209'}
+  - {name: "Code", url: 'https://github.com/OpenSPG/KAG'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) effectively reduces hallucinations in
 Large Language Models (LLMs) but can still produce inconsistent or unsupported

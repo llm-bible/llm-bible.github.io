@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05678"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05678'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 AI intent alignment, ensuring that AI produces outcomes as intended by users,
 is a critical challenge in human-AI interaction. The emergence of generative

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12664"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12664'}
+tags: ['Prompting', 'GPT', 'Tools', 'Model Architecture']
 ---
 The emergence of Large Language Models (LLMs), such as ChatGPT, has
 revolutionized general natural language preprocessing (NLP) tasks. However,

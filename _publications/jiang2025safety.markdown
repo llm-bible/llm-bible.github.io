@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jiang2025safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12025"}
-tags: ['Responsible AI', 'RAG', 'Merging', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12025'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Merging', 'Reinforcement Learning', 'Responsible AI']
 ---
 Emerging large reasoning models (LRMs), such as DeepSeek-R1 models, leverage
 long chain-of-thought (CoT) reasoning to generate structured intermediate

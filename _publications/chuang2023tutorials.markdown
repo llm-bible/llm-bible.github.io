@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chuang2023tutorials
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15331"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15331'}
+tags: ['Transformer', 'Few-Shot', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Merging', 'Prompting', 'Tokenization', 'Pretraining Methods']
 ---
 This paper presents two self-contained tutorials on stance detection in
 Twitter data using BERT fine-tuning and prompting large language models (LLMs).

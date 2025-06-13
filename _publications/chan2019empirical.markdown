@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: chan2019empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.13437"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'ACL', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.13437'}
+tags: ['Transformer', 'ACL', 'WMT', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this work, we present an empirical study of generation order for machine
 translation. Building on recent advances in insertion-based modeling, we first

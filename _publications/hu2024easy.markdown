@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024easy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11143"}
-  - {name: "Code", url: "https://github.com/OpenRLHF/OpenRLHF"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11143'}
+  - {name: "Code", url: 'https://github.com/OpenRLHF/OpenRLHF'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Scaling Laws', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 As large language models (LLMs) continue to grow by scaling laws,
 reinforcement learning from human feedback (RLHF) has gained significant

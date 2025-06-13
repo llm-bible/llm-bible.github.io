@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: radhakrishnan2023question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11768"}
-tags: ['Responsible AI', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11768'}
+tags: ['Prompting', 'Responsible AI']
 ---
 As large language models (LLMs) perform more difficult tasks, it becomes
 harder to verify the correctness and safety of their behavior. One approach to

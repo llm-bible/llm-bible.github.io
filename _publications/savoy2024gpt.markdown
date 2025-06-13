@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: savoy2024gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18365"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18365'}
 tags: ['GPT', 'Model Architecture']
 ---
 Recently several large language models (LLMs) have demonstrated their

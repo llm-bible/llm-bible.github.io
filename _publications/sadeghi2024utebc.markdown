@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sadeghi2024utebc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02474"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02474'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Inspired by human cognition, Jiang et al.(2023c) create a benchmark for
 assessing LLMs' lateral thinking-thinking outside the box. Building upon this

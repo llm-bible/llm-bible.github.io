@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mireshghallah2024trust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11438"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11438'}
 tags: ['GPT', 'Model Architecture']
 ---
 Measuring personal disclosures made in human-chatbot interactions can provide

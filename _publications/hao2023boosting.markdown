@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hao2023boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00246"}
-tags: ['Fine-Tuning', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00246'}
+tags: ['RAG', 'Fine-Tuning', 'Prompting']
 ---
 Large language models (LLMs) have made significant advancements in natural
 language processing and are concurrently extending the language ability to

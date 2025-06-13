@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: finkelstein2023mbr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10966"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10966'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Training Techniques']
 ---
 Recent research in decoding methods for Natural Language Generation (NLG)
 tasks has shown that MAP decoding is not optimal, because model probabilities

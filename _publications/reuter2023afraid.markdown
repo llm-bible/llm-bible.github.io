@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: reuter2023afraid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03423"}
-  - {name: "Code", url: "https://github.com/maxwellreuter/chatgpt-refusals"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03423'}
+  - {name: "Code", url: 'https://github.com/maxwellreuter/chatgpt-refusals'}
+tags: ['Attention Mechanism', 'Has Code', 'Pre-Training', 'Security', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Since the release of OpenAI's ChatGPT, generative language models have
 attracted extensive public attention. The increased usage has highlighted

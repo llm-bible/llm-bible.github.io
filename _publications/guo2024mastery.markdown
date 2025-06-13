@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024mastery
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07526"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07526'}
 tags: ['Applications']
 ---
 Large language models (LLMs) have significantly advanced performance across a

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12526"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12526'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Long-context language models exhibit impressive performance but remain

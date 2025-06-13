@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liao2025improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00883"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00883'}
+tags: ['Attention Mechanism', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Increasing attention has been placed on improving the reasoning capacities of
 multi-modal large language models (MLLMs). As the cornerstone for AI agents

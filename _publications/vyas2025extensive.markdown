@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vyas2025extensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20175"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20175'}
 tags: ['Applications']
 ---
 In recent advancements, large language models (LLMs) have exhibited

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: martins2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16235"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Large-Scale Training', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16235'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Scaling Laws', 'Pre-Training']
 ---
 The quality of open-weight LLMs has seen significant improvement, yet they
 remain predominantly focused on English. In this paper, we introduce the

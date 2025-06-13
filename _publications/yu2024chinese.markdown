@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.03512"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.03512'}
 tags: ['GPT', 'Model Architecture']
 ---
 Automatic Chinese classical poetry generation has attracted much research

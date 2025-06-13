@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rahimi2021explaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.01314"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.01314'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present GenEx, a generative model to explain search results to users
 beyond just showing matches between query and document words. Adding GenEx

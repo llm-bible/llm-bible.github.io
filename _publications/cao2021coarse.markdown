@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: cao2021coarse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.05988"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.05988'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Recent advances regarding question answering and reading comprehension have

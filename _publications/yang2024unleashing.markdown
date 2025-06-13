@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20208"}
-tags: ['Large-Scale Training', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20208'}
+tags: ['Large-Scale Training', 'Few-Shot', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 In the domain of data science, the predictive tasks of classification,
 regression, and imputation of missing values are commonly encountered

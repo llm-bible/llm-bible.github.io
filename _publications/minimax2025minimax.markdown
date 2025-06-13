@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: minimax2025minimax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08313"}
-  - {name: "Code", url: "https://github.com/MiniMax-AI"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08313'}
+  - {name: "Code", url: 'https://github.com/MiniMax-AI'}
+tags: ['Attention Mechanism', 'Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We introduce MiniMax-01 series, including MiniMax-Text-01 and MiniMax-VL-01,
 which are comparable to top-tier models while offering superior capabilities in

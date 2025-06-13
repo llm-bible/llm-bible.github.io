@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chakrabarty2023i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14724"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14724'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Merging']
 ---
 Visual metaphors are powerful rhetorical devices used to persuade or
 communicate creative ideas through images. Similar to linguistic metaphors,

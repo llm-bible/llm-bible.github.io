@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kalpakchi2023swectrl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.13994"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.13994'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present SweCTRL-Mini, a large Swedish language model that can be used for
 inference and fine-tuning on a single consumer-grade GPU. The model is based on

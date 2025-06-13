@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kabongo2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04383"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04383'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 The rapid advancements in Large Language Models (LLMs) have opened new
 avenues for automating complex tasks in AI research. This paper investigates

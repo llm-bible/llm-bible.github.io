@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024extremely
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16032"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Agent', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16032'}
+tags: ['Agentic', 'Agent', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'BERT', 'Fine-Tuning', 'RecSys', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have enabled
 understanding webpage contexts, product details, and human instructions.

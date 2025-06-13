@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023steve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13255"}
-tags: ['Agentic', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13255'}
+tags: ['Reinforcement Learning', 'Agentic', 'Multimodal Models']
 ---
 Recent studies have presented compelling evidence that large language models
 (LLMs) can equip embodied agents with the self-driven capability to interact

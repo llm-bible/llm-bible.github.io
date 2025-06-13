@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hui2024smaller
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11231"}
-  - {name: "Code", url: "https://github.com/HypherX/Evolution-Analysis}{https://github.com/HypherX/Evolution-Analysis"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11231'}
+  - {name: "Code", url: 'https://github.com/HypherX/Evolution-Analysis}{https://github.com/HypherX/Evolution-Analysis'}
 tags: ['Fine-Tuning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Instruction tuning has been widely used to unleash the complete potential of

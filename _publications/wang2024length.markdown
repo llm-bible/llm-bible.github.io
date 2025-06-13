@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024length
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12224"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12224'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generalizing to longer sentences is important for recent Transformer-based
 language models. Besides algorithms manipulating explicit position features,

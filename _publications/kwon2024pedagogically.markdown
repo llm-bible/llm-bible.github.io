@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kwon2024pedagogically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03486"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03486'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) have a great potential to serve as readily
 available and cost-efficient Conversational Intelligent Tutoring Systems (CITS)

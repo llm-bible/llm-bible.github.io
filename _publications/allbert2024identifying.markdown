@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: allbert2024identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10427"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10427'}
+tags: ['Arxiv', 'Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The field of large language models (LLMs) has grown rapidly in recent years,
 driven by the desire for better efficiency, interpretability, and safe use.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16153"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16153'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Pre-Training']
 ---
 While Large Language Models (LLMs) demonstrate impressive capabilities in
 text generation, we find that their ability has yet to be generalized to music,

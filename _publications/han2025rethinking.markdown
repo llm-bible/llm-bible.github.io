@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11889"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11889'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Existing large language model LLM-based recommendation methods face several
 challenges, including inefficiency in handling large candidate pools,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024mlkd
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02775"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02775'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'BERT', 'Tools', 'Quantization', 'Applications']
 ---
 Knowledge distillation is an effective technique for pre-trained language
 model compression. Although existing knowledge distillation methods perform

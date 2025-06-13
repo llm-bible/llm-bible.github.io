@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15188"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15188'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Effective patient-provider communication is crucial in clinical care,
 directly impacting patient outcomes and quality of life. Traditional evaluation

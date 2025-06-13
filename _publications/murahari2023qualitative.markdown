@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: murahari2023qualitative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02807"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02807'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Quantitative evaluation metrics have traditionally been pivotal in gauging
 the advancements of artificial intelligence systems, including large language

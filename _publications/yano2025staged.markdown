@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yano2025staged
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04151"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04151'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 Pre-training large language models (LLMs) faces significant memory challenges
 due to the large size of model parameters. We introduce STaged

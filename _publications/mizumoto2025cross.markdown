@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mizumoto2025cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04792"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04792'}
 tags: ['Reinforcement Learning']
 ---
 Multilingual large language models (LLMs) face an often-overlooked challenge

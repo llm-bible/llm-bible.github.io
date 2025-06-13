@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bedmutha2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04152"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04152'}
 tags: ['Prompting', 'Model Architecture']
 ---
 Effective communication between providers and their patients influences

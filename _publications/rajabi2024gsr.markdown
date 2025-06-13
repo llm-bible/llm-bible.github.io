@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rajabi2024gsr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13246"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13246'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 The ability to understand and reason about spatial relationships between
 objects in images is an important component of visual reasoning. This skill

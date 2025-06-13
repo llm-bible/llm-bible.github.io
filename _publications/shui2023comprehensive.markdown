@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shui2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11761"}
-  - {name: "Code", url: "https://github.com/srhthu/LM-CompEval-Legal"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11761'}
+  - {name: "Code", url: 'https://github.com/srhthu/LM-CompEval-Legal'}
+tags: ['Has Code', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated great potential for
 domain-specific applications, such as the law domain. However, recent disputes

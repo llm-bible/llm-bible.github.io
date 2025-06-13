@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chow2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11376"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11376'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Multi-modal large language models (MLLMs) have enabled numerous advances in

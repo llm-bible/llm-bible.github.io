@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04481"}
-  - {name: "Code", url: "https://github.com/SJY8460/SLM"}
-tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04481'}
+  - {name: "Code", url: 'https://github.com/SJY8460/SLM'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
 ---
 This research signifies a considerable breakthrough in leveraging Large
 Language Models (LLMs) for multi-intent spoken language understanding (SLU).

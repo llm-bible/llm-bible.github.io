@@ -6,8 +6,8 @@ conference: "Interspeech 2023"
 year: 2023
 bibkey: yang2023quantization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01076"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01076'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Quantization', 'Applications', 'Pretraining Methods']
 ---
 Fine-tuned transformer models have shown superior performances in many
 natural language tasks. However, the large model size prohibits deploying

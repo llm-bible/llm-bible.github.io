@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chandrasegaran2024video
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04998"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04998'}
+tags: ['Model Architecture', 'Applications', 'GPT', 'Prompting', 'Multimodal Models']
 ---
 We present HourVideo, a benchmark dataset for hour-long video-language
 understanding. Our dataset consists of a novel task suite comprising

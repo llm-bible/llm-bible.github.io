@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21333"}
-tags: ['GPT', 'Multimodal Models', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21333'}
+tags: ['Prompting', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Chain-of-thought (CoT) prompting has become a widely used strategy for
 working with large language and multimodal models. While CoT has been shown to

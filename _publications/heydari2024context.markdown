@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: heydari2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16133"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16133'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Retrieval Augmented Generation (RAG) has emerged as a widely adopted approach
 to mitigate the limitations of large language models (LLMs) in answering

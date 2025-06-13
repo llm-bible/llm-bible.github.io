@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xue2024moe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.14361"}
-  - {name: "Code", url: "https://github.com/EfficientMoE/MoE-Infinity"}
-tags: ['Fine-Tuning', 'RAG', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.14361'}
+  - {name: "Code", url: 'https://github.com/EfficientMoE/MoE-Infinity'}
+tags: ['RAG', 'Fine-Tuning', 'Has Code']
 ---
 This paper presents MoE-Infinity, an efficient MoE inference system designed
 for personal machines with limited GPU memory capacity. The key idea for

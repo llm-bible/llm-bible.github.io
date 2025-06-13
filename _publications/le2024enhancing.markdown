@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: le2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06777"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06777'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) with their strong task-handling capabilities
 have shown remarkable advancements across a spectrum of fields, moving beyond

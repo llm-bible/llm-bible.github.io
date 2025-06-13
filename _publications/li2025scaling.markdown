@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23383"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23383'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce ToRL (Tool-Integrated Reinforcement Learning), a framework for
 training large language models (LLMs) to autonomously use computational tools

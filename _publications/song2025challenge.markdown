@@ -6,8 +6,8 @@ conference: "The 29th International Conference on Evaluation and Assessment in S
 year: 2025
 bibkey: song2025challenge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05255"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05255'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 API-driven chatbot systems are increasingly integral to software engineering
 applications, yet their effectiveness hinges on accurately generating and

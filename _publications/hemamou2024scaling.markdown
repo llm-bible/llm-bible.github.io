@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hemamou2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15801"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15801'}
+tags: ['Attention Mechanism', 'Arxiv', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 In an era where digital text is proliferating at an unprecedented rate,
 efficient summarization tools are becoming indispensable. While Large Language

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mozannar2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02806"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02806'}
 tags: ['Reinforcement Learning']
 ---
 Evaluation of large language models for code has primarily relied on static

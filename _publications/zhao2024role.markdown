@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13979"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13979'}
 tags: ['Ethics and Bias']
 ---
 Role-play in large language models (LLMs) enhances their ability to generate

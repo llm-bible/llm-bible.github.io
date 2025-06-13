@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: du2025planning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16858"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/DiffTOD"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Merging', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16858'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/DiffTOD'}
+tags: ['Has Code', 'RAG', 'Applications', 'Tools', 'Merging', 'Fine-Tuning']
 ---
 Target-Oriented Dialogue (TOD) remains a significant challenge in the LLM
 era, where strategic dialogue planning is crucial for directing conversations

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roth2024pairing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01344"}
-tags: ['RAG', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01344'}
+tags: ['Few-Shot', 'RAG']
 ---
 Large language models struggle to synthesize disparate pieces of information
 into a coherent plan when approaching a complex procedural task. In this work,

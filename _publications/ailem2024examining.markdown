@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ailem2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16966"}
-tags: ['RAG', 'Security', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16966'}
+tags: ['Reinforcement Learning', 'RAG', 'Security', 'Prompting']
 ---
 Benchmarks have emerged as the central approach for evaluating Large Language
 Models (LLMs). The research community often relies on a model's average

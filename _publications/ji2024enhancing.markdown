@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03446"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03446'}
 tags: ['Security', 'Tools']
 ---
 To address the increasing complexity and frequency of cybersecurity incidents

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ai2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.17991"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.17991'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Machine Reading Comprehension (MRC) poses a significant challenge in the
 field of Natural Language Processing (NLP). While mainstream MRC methods

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01332"}
-tags: ['Tools', 'Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01332'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic', 'Tools']
 ---
 Understanding how large language models (LLMs) acquire, retain, and apply
 knowledge remains an open challenge. This paper introduces a novel framework,

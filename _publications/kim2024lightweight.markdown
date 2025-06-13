@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08261"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08261'}
+tags: ['GPT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper introduces mhGPT, a lightweight generative pre-trained transformer
 trained on mental health-related social media and PubMed articles. Fine-tuned

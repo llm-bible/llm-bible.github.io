@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: mai2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03343"}
-  - {name: "Code", url: "https://github.com/mailong25/peft_diversity"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03343'}
+  - {name: "Code", url: 'https://github.com/mailong25/peft_diversity'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) have made significant strides in
 replicating human-like abilities, there are concerns about a reduction in the

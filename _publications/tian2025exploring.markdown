@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tian2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02142"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02142'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Despite significant advances in long-context reasoning by large language
 models (LLMs), primarily through Online Reinforcement Learning (RL) methods,

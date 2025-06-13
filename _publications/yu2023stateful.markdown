@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023stateful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05516"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05516'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 Large Language Models (LLMs) are wildly popular today and it is important to
 serve them efficiently. Existing LLM serving systems are stateless across

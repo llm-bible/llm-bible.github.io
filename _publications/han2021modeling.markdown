@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: han2021modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.12093"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.12093'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Answer Sentence Selection (AS2) is an efficient approach for the design of
 open-domain Question Answering (QA) systems. In order to achieve low latency,

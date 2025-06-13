@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09522"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09522'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Pruning', 'Reinforcement Learning']
 ---
 Large language models learn and continually learn through the accumulation of
 gradient-based updates, but how individual pieces of new information affect

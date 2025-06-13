@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025box
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03308"}
-  - {name: "Code", url: "https://github.com/tjunlp-lab/CommonMT"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03308'}
+  - {name: "Code", url: 'https://github.com/tjunlp-lab/CommonMT'}
+tags: ['Has Code', 'GPT', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Does neural machine translation yield translations that are congenial with
 common sense? In this paper, we present a test suite to evaluate the

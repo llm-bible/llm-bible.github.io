@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06689"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06689'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt engineering can significantly improve the performance of large
 language models (LLMs), with automated prompt optimization (APO) gaining

@@ -6,8 +6,8 @@ conference: "ACL 2024"
 year: 2023
 bibkey: solano2023few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13235"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13235'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Models that generate natural language explanations (NLEs) for their
 predictions have recently gained increasing interest. However, this approach

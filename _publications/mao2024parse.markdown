@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mao2024parse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15395"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15395'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Offering rich contexts to Large Language Models (LLMs) has shown to boost the
 performance in various tasks, but the resulting longer prompt would increase

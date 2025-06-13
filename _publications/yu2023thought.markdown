@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023thought
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03965"}
-tags: ['RAG', 'Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03965'}
+tags: ['RAG', 'Prompting', 'Agentic']
 ---
 Large Language Models (LLMs) have achieved remarkable success in reasoning
 tasks with the development of prompting methods. However, existing prompting

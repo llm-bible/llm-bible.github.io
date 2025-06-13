@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024refining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04779"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04779'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The decoder-only Transformer architecture with causal masking and relative
 position encoding (RPE) has become the de facto choice in language modeling.

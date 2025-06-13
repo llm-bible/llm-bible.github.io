@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ram2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19390"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19390'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Given a small number of images of a subject, personalized image generation
 techniques can fine-tune large pre-trained text-to-image diffusion models to

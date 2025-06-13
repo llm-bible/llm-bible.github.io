@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheung2024reality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10249"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10249'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have achieved remarkable performance in language
 understanding and generation tasks by leveraging vast amounts of online texts.

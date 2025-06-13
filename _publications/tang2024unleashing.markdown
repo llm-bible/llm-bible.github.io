@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17564"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/GPO"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17564'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/GPO'}
+tags: ['Prompting', 'Has Code', 'Efficiency and Optimization']
 ---
 Automatic prompt optimization is an important approach to improving the
 performance of large language models (LLMs). Recent research demonstrates the

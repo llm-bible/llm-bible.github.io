@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ziems2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.03514"}
-tags: ['Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.03514'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are capable of successfully performing many
 language processing tasks zero-shot (without training data). If zero-shot LLMs

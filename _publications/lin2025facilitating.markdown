@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13127"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13127'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Applications']
 ---
 Recent advances in Large Language Models (LLMs) have enabled them to process
 increasingly longer sequences, ranging from 2K to 2M tokens and even beyond.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025climbing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11741"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11741'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent supervised fine-tuning (SFT) approaches have significantly improved
 language models' performance on mathematical reasoning tasks, even when models

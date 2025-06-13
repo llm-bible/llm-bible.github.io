@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2403.18715v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2403.18715v2'}
 tags: ['Multimodal Models', 'Merging']
 ---
 Large Vision-Language Models (LVLMs) are increasingly adept at generating

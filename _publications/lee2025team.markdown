@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025team
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20451"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20451'}
 tags: ['Applications']
 ---
 Translating knowledge-intensive and entity-rich text between English and

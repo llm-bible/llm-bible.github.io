@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06852"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06852'}
+tags: ['Few-Shot', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), which bridge the gap between human language
 understanding and complex problem-solving, achieve state-of-the-art performance

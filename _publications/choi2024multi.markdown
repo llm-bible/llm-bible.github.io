@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02581"}
-tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02581'}
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Pruning']
 ---
 In Open-domain Question Answering (ODQA), it is essential to discern relevant
 contexts as evidence and avoid spurious ones among retrieved results. The model

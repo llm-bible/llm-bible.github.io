@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07870"}
-tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07870'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting']
 ---
 Text-conditioned image generation has gained significant attention in recent
 years and are processing increasingly longer and comprehensive text prompt. In

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: michaelov2022rarely
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.08700"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.08700'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 How well do language models deal with quantification? In this study, we focus

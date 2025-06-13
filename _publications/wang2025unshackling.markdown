@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025unshackling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14477"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14477'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Handling long-context sequences efficiently remains a significant challenge

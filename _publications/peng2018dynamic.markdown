@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: peng2018dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1812.05252"}
-tags: ['Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1812.05252'}
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture', 'Merging', 'Multimodal Models']
 ---
 Learning effective fusion of multi-modality features is at the heart of
 visual question answering. We propose a novel method of dynamically fusing

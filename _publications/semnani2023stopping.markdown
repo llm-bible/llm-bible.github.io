@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: semnani2023stopping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14292"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14292'}
 tags: ['Few-Shot', 'GPT', 'Model Architecture']
 ---
 This paper presents the first few-shot LLM-based chatbot that almost never

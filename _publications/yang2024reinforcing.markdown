@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024reinforcing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01457"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01457'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) exhibit great potential in complex multi-step
 reasoning through inference-time thinking but still struggle with deciding when

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tran2024vietnamese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07922"}
-  - {name: "Code", url: "https://github.com/baochi0212/LaVy"}
-tags: ['Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07922'}
+  - {name: "Code", url: 'https://github.com/baochi0212/LaVy'}
+tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Large Language Models (LLMs) and Multimodal Large language models (MLLMs)
 have taken the world by storm with impressive abilities in complex reasoning

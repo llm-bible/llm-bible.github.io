@@ -6,8 +6,8 @@ conference: "IEEE.ACCESS 10 (2022) 72092-72106"
 year: 2021
 bibkey: dey2021generalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.09717"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.09717'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Tools', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The open-ended question answering task of Text-VQA often requires reading and
 reasoning about rarely seen or completely unseen scene-text content of an

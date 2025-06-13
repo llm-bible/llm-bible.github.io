@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024best
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04539"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04539'}
+tags: ['Training Techniques', 'GPT', 'BERT', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent studies have highlighted the significant potential of Large Language
 Models (LLMs) as zero-shot relevance rankers. These methods predominantly

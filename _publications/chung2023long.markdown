@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chung2023long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01233"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01233'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large language models such as GPT-3 have demonstrated an impressive
 capability to adapt to new tasks without requiring task-specific training data.

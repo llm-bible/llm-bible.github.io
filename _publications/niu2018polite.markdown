@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: niu2018polite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.03162"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.03162'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Stylistic dialogue response generation, with valuable applications in
 personality-based conversational agents, is a challenging task because the

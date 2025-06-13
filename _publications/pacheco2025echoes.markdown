@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pacheco2025echoes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16679"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16679'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have emerged as powerful tools for generating
 human-like text, transforming human-machine interactions. However, their

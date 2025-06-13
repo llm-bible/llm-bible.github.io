@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: abdallah2025hallusearch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10168"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10168'}
 tags: ['RAG']
 ---
 In this paper, we present HalluSearch, a multilingual pipeline designed to

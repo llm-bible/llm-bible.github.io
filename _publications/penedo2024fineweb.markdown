@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: penedo2024fineweb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17557"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17557'}
 tags: ['Training Techniques', 'Pretraining Methods']
 ---
 The performance of a large language model (LLM) depends heavily on the

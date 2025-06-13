@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024predictive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13820"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13820'}
 tags: ['Uncategorized']
 ---
 Large language models are revolutionizing every aspect of human life.

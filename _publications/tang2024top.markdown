@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024top
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07641"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07641'}
 tags: ['RAG']
 ---
 Large language models (LLMs) typically employ greedy decoding or

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00896"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00896'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Since large language models (LLMs) achieve significant success in recent
 years, the hallucination issue remains a challenge, numerous benchmarks are

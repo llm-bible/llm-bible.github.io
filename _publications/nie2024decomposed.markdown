@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nie2024decomposed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18397"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18397'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 Despite the predominance of English in their training data, English-centric
 Large Language Models (LLMs) like GPT-3 and LLaMA display a remarkable ability

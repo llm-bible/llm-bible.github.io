@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: xu2019review
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.00821"}
-  - {name: "Code", url: "https://github.com/howardhsu/RCRC"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.00821'}
+  - {name: "Code", url: 'https://github.com/howardhsu/RCRC'}
+tags: ['Agentic', 'Has Code', 'RAG', 'BERT', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Inspired by conversational reading comprehension (CRC), this paper studies a
 novel task of leveraging reviews as a source to build an agent that can answer

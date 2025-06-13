@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08813"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08813'}
 tags: ['Tools']
 ---
 The burgeoning capabilities of large language models (LLMs) have underscored

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: pirozelli2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11720"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11720'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Logical reasoning is central to complex human activities, such as thinking,

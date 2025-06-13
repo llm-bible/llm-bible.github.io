@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: tao2021building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.00159"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.00159'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'BERT', 'Applications', 'Reinforcement Learning']
 ---
 Establishing retrieval-based dialogue systems that can select appropriate
 responses from the pre-built index has gained increasing attention from

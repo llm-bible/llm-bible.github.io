@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13325"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13325'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'RecSys', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) have been changing the
 paradigm of Recommender Systems (RS). However, when items in the recommendation

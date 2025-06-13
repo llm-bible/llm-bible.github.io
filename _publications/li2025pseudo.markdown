@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025pseudo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14887"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14887'}
 tags: ['RAG', 'Prompting']
 ---
 Pseudo-relevance feedback (PRF) refines queries by leveraging initially

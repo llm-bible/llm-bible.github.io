@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hao2024adem
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17779"}
-  - {name: "Code", url: "https://github.com/Hao840/ADEM-VL"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17779'}
+  - {name: "Code", url: 'https://github.com/Hao840/ADEM-VL'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Merging', 'Multimodal Models']
 ---
 Recent advancements in multimodal fusion have witnessed the remarkable
 success of vision-language (VL) models, which excel in various multimodal

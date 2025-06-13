@@ -6,8 +6,8 @@ conference: "Journal of Applied Learning and Teaching 2023"
 year: 2023
 bibkey: khademi2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.05372"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'ACL', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.05372'}
+tags: ['ACL', 'GPT', 'Model Architecture', 'Tools', 'Applications', 'Prompting']
 ---
 ChatGPT and Bard are AI chatbots based on Large Language Models (LLM) that
 are slated to promise different applications in diverse areas. In education,

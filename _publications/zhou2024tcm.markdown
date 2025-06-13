@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024tcm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10510"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10510'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Traditional Chinese medicine (TCM) has relied on specific combinations of
 herbs in prescriptions to treat various symptoms and signs for thousands of

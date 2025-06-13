@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: baek2023crafting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08985"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08985'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Text-to-image generation model is able to generate images across a diverse
 range of subjects and styles based on a single prompt. Recent works have

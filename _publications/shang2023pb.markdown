@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shang2023pb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00034"}
-  - {name: "Code", url: "https://github.com/hahnyuan/BinaryLLM"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00034'}
+  - {name: "Code", url: 'https://github.com/hahnyuan/BinaryLLM'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Quantization']
 ---
 This paper explores network binarization, a radical form of quantization,
 compressing model weights to a single bit, specifically for Large Language

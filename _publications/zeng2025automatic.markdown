@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01890"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01890'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) have demonstrated exceptional
 capabilities in sequence modeling and text generation, with improvements

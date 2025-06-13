@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: piot2025personalisation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02252"}
-tags: ['Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02252'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting']
 ---
 Commercial Large Language Models (LLMs) have recently incorporated memory
 features to deliver personalised responses. This memory retains details such as

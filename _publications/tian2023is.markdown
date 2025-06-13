@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tian2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.11938"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11938'}
+tags: ['Attention Mechanism', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 Recently, the ChatGPT LLM has received great attention: it can be used as a
 bot for discussing source code, prompting it to suggest changes, provide

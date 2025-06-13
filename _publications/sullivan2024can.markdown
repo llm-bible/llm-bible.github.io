@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sullivan2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21490"}
-tags: ['Interpretability and Explainability', 'Interpretability', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21490'}
+tags: ['Reinforcement Learning', 'Interpretability', 'Interpretability and Explainability', 'Survey Paper']
 ---
 The performance of Large language models (LLMs) across a broad range of
 domains has been impressive but have been critiqued as not being able to reason

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: song2025alignment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04789"}
-tags: ['RAG', 'Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04789'}
+tags: ['Reinforcement Learning', 'RAG', 'Security']
 ---
 Retrieval-augmented generation (RAG) enhances LLMs by integrating external
 knowledge, but generation remains fragile due to the uncertain placement of

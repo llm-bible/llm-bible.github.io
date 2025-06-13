@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.13269"}
-  - {name: "Code", url: "https://github.com/sail-sg/lorahub,"}
-  - {name: "Code", url: "https://huggingface.co/lorahub"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.13269'}
+  - {name: "Code", url: 'https://github.com/sail-sg/lorahub,'}
+  - {name: "Code", url: 'https://huggingface.co/lorahub'}
+tags: ['Has Code', 'Few-Shot', 'Efficiency and Optimization', 'Tools', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 Low-rank adaptations (LoRA) are often employed to fine-tune large language
 models (LLMs) for new tasks. This paper investigates LoRA composability for

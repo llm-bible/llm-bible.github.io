@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023diversified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07401"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07401'}
 tags: ['Reinforcement Learning']
 ---
 Aligning large language models (LLMs) with human preferences has been

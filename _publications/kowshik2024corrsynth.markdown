@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kowshik2024corrsynth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08553"}
-tags: ['In-Context Learning', 'Few-Shot', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08553'}
+tags: ['Ethics and Bias', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable performance in
 diverse tasks using zero-shot and few-shot prompting. Even though their

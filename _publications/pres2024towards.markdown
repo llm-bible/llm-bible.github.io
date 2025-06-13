@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pres2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17245"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17245'}
 tags: ['Uncategorized']
 ---
 Representation engineering methods have recently shown promise for enabling

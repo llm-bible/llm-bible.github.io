@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024exposing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10834"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10834'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have been applied to Math Word Problems (MWPs)
 with transformative impacts, revolutionizing how these complex problems are

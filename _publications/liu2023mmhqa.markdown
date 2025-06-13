@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023mmhqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04790"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04790'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In the real world, knowledge often exists in a multimodal and heterogeneous
 form. Addressing the task of question answering with hybrid data types,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16713"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16713'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown great potential to solve varieties of

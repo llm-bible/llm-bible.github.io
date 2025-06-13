@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024decoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03878"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03878'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Simultaneous Machine Translation (SiMT) generates translation while reading
 source tokens, essentially producing the target prefix based on the source

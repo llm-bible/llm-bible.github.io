@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06387"}
-tags: ['Training Techniques', 'RAG', 'Tools', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06387'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Tools']
 ---
 Self-training approach for large language models (LLMs) improves reasoning
 abilities by training the models on their self-generated rationales. Previous

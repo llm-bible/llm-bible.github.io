@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kreutzer2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11829"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11829'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Generation capabilities and language coverage of multilingual large language
 models (mLLMs) are advancing rapidly. However, evaluation practices for

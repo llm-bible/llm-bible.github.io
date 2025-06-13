@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: reddy2022entity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.11373"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.11373'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 We show that supervised neural information retrieval (IR) models are prone to
 learning sparse attention patterns over passage tokens, which can result in key

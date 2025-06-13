@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.15621"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.15621'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The performance of text summarization has been greatly boosted by pre-trained
 language models. A main concern of existing methods is that most generated

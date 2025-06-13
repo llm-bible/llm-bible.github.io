@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024evolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12317"}
-  - {name: "Code", url: "https://arks-codegen.github.io"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12317'}
+  - {name: "Code", url: 'https://arks-codegen.github.io'}
 tags: ['RAG', 'Has Code', 'Prompting', 'Applications']
 ---
 Recently the retrieval-augmented generation (RAG) has been successfully

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: niszczota2023judgments
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11873"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11873'}
 tags: ['GPT', 'Model Architecture']
 ---
 The introduction of ChatGPT has fuelled a public debate on the use of

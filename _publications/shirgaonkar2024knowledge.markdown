@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shirgaonkar2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18588"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18588'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Leading open-source large language models (LLMs) such as
 Llama-3.1-Instruct-405B are extremely capable at generating text, answering

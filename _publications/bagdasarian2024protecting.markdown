@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bagdasarian2024protecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05175"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05175'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Tools']
 ---
 The growing use of large language model (LLM)-based conversational agents to
 manage sensitive user data raises significant privacy concerns. While these

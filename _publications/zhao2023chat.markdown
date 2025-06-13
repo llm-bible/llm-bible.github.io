@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023chat
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.08268"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.08268'}
+tags: ['Agentic', 'Few-Shot', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Programming robot behavior in a complex world faces challenges on multiple
 levels, from dextrous low-level skills to high-level planning and reasoning.

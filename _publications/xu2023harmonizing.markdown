@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023harmonizing
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.06830v2"}
-  - {name: "Code", url: "https://github.com/OpenLemur/Lemur"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.06830v2'}
+  - {name: "Code", url: 'https://github.com/OpenLemur/Lemur'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 We introduce Lemur and Lemur-Chat, openly accessible language models
 optimized for both natural language and coding capabilities to serve as the

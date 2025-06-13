@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025steerable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07986"}
-  - {name: "Code", url: "https://github.com/VITA-Group/SEAL"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07986'}
+  - {name: "Code", url: 'https://github.com/VITA-Group/SEAL'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture']
 ---
 Large Language Models (LLMs), such as OpenAI's o1-series have demonstrated
 compelling capabilities for complex reasoning tasks via the extended

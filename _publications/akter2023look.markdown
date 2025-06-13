@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: akter2023look
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11444"}
-  - {name: "Code", url: "https://github.com/neulab/gemini-benchmark"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11444'}
+  - {name: "Code", url: 'https://github.com/neulab/gemini-benchmark'}
+tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Fine-Tuning']
 ---
 The recently released Google Gemini class of models are the first to
 comprehensively report results that rival the OpenAI GPT series across a wide

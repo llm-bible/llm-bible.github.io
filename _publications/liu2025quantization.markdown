@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025quantization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04823"}
-  - {name: "Code", url: "https://github.com/ruikangliu/Quantized-Reasoning-Models"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04823'}
+  - {name: "Code", url: 'https://github.com/ruikangliu/Quantized-Reasoning-Models'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Quantization']
 ---
 Recent advancements in reasoning language models have demonstrated remarkable
 performance in complex tasks, but their extended chain-of-thought reasoning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024clr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20564"}
-tags: ['Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20564'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Training Techniques']
 ---
 While large language models (LLMs) have demonstrated impressive capabilities
 across various natural language processing tasks by acquiring rich factual

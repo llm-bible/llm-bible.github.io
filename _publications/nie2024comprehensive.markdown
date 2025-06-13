@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nie2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02301"}
-  - {name: "Code", url: "https://cfinbench.github.io/"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02301'}
+  - {name: "Code", url: 'https://cfinbench.github.io/'}
 tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) have achieved remarkable performance on various

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13705"}
-tags: ['Applications', 'RAG', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13705'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Applications', 'Prompting']
 ---
 Large language models (LLMs) have exhibited outstanding performance in
 natural language processing tasks. However, these models remain susceptible to

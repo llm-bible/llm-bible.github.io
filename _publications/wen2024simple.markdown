@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wen2024simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11896"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11896'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning all parameters of large language models (LLMs) necessitates
 substantial computational power and extended time. Latest advancements in

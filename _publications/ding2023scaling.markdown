@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ding2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02486"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02486'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods']
 ---
 Scaling sequence length has become a critical demand in the era of large
 language models. However, existing methods struggle with either computational

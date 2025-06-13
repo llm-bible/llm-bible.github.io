@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: safavinaini2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00084"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00084'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Quantization', 'Prompting', 'Multimodal Models']
 ---
 Background and Aims: This study evaluates the medical reasoning performance
 of large language models (LLMs) and vision language models (VLMs) in

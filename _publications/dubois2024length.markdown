@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dubois2024length
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04475"}
-tags: ['Security', 'Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04475'}
+tags: ['Ethics and Bias', 'Security', 'Tools']
 ---
 LLM-based auto-annotators have become a key component of the LLM development
 process due to their cost-effectiveness and scalability compared to human-based

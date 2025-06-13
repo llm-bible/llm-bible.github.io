@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shrestha2025mathematical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08680"}
-tags: ['Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08680'}
+tags: ['Reinforcement Learning', 'Security']
 ---
 Mathematical reasoning in Large Language Models (LLMs) is often evaluated
 using benchmarks with limited numerical ranges, failing to reflect real-world

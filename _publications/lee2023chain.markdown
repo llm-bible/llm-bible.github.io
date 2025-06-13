@@ -6,7 +6,7 @@ conference: "Korean Journal of Cognitive Science. 2024 Vol. 35 Issue 1 p23-48. 2
 year: 2023
 bibkey: lee2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04915"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04915'}
 tags: ['Fine-Tuning', 'Prompting']
 ---
 We present a novel method, the Chain of Empathy (CoE) prompting, that

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maestre2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10554"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10554'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Survey Paper']
 ---
 Generative Artificial Intelligence has grown exponentially as a result of
 Large Language Models (LLMs). This has been possible because of the impressive

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023glancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06179"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06179'}
+tags: ['Applications', 'Training Techniques']
 ---
 Simultaneous machine translation (SiMT) outputs translation while reading the
 source sentence. Unlike conventional sequence-to-sequence (seq2seq) training,

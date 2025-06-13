@@ -6,8 +6,8 @@ conference: "Proceedings of the 2024 Joint International Conference on Computati
 year: 2023
 bibkey: labrak2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.12114"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.12114'}
+tags: ['Few-Shot', 'GPT', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 We evaluate four state-of-the-art instruction-tuned large language models
 (LLMs) -- ChatGPT, Flan-T5 UL2, Tk-Instruct, and Alpaca -- on a set of 13

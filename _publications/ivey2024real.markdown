@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ivey2024real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08330"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08330'}
 tags: ['Reinforcement Learning']
 ---
 Studying and building datasets for dialogue tasks is both expensive and

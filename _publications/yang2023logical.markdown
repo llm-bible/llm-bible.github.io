@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023logical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.12023"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.12023'}
 tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Pretraining Methods']
 ---
 Logical reasoning is central to human cognition and intelligence. It includes

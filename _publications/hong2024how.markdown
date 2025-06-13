@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04105"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04105'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown amazing performance on tasks that
 require planning and reasoning. Motivated by this, we investigate the internal

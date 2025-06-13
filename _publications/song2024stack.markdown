@@ -6,8 +6,8 @@ conference: "ACM Trans. Inf. Syst. 41 3 Article 68 (July 2023)"
 year: 2024
 bibkey: song2024stack
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20174"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20174'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 With the resurgent interest in building open-domain dialogue systems, the
 dialogue generation task has attracted increasing attention over the past few

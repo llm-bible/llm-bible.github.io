@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: søltoft2024synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11395"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11395'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 This paper introduces "Synthetic Interlocutors" for ethnographic research.
 Synthetic Interlocutors are chatbots ingested with ethnographic textual

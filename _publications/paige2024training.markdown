@@ -6,8 +6,8 @@ conference: "SIGDIAL 2024"
 year: 2024
 bibkey: paige2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03319"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03319'}
+tags: ['Few-Shot', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Hedges allow speakers to mark utterances as provisional, whether to signal
 non-prototypicality or "fuzziness", to indicate a lack of commitment to an

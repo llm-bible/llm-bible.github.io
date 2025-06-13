@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: koraş2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17571"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17571'}
+tags: ['Language Modeling', 'ACL', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Deploying natural language generation systems in clinical settings remains
 challenging despite advances in Large Language Models (LLMs), which continue to

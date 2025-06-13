@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024purifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14845"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14845'}
 tags: ['Training Techniques', 'Merging']
 ---
 The emerging success of large language models (LLMs) heavily relies on

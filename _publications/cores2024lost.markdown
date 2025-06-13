@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cores2024lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07752"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07752'}
 tags: ['Reinforcement Learning']
 ---
 Large language models have demonstrated impressive performance when

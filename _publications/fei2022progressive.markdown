@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: fei2022progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.02291"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.02291'}
 tags: ['GPT', 'Pretraining Methods']
 ---
 Recently, Vector Quantized AutoRegressive (VQ-AR) models have shown

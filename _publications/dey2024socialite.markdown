@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dey2024socialite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01980"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01980'}
 tags: ['RAG', 'Training Techniques']
 ---
 Social science NLP tasks, such as emotion or humor detection, are required to

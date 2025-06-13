@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: piergentili2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11934"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11934'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Gender-neutral translation (GNT) aims to avoid expressing the gender of human
 referents when the source text lacks explicit cues about the gender of those

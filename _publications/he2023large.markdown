@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2308.10053v1"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2308.10053v1'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper, we present empirical studies on conversational recommendation
 tasks using representative large language models in a zero-shot setting with

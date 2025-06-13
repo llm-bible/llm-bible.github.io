@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: maurya2025trajectory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12755"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12755'}
 tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 Adapting robot trajectories based on human instructions as per new situations

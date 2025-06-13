@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11109"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11109'}
+tags: ['RAG', 'Security', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are increasingly capable, aiding in tasks such
 as content generation, yet they also pose risks, particularly in generating

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03642"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03642'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As large language models (LLMs) demonstrate increasingly advanced
 capabilities, aligning their behaviors with human values and preferences

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024bug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15325"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15325'}
 tags: ['Uncategorized']
 ---
 Recent research in Needle-in-a-Haystack (NIAH) benchmarks has explored the

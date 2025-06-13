@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07944"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07944'}
 tags: ['RAG']
 ---
 Large Language Models (LLMs) have been applied in the speech domain, often

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sheng2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11964"}
-tags: ['Tools', 'Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11964'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic', 'Tools']
 ---
 We develop a simple and straightforward methodology to create AI computer
 agents that can carry out diverse computer tasks and self-improve by developing

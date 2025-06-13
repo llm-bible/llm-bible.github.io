@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: antognini2021fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.00774"}
-tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.00774'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'RecSys', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent studies have shown that providing personalized explanations alongside
 recommendations increases trust and perceived quality. Furthermore, it gives

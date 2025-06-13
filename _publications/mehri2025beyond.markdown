@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mehri2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04511"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04511'}
 tags: ['Fine-Tuning', 'Tools', 'Model Architecture']
 ---
 LLMs demonstrate remarkable capabilities in following natural language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11534"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11534'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Pretraining Methods']
 ---
 With the commercialization of large language models (LLMs), weight-activation
 quantization has emerged to compress and accelerate LLMs, achieving high

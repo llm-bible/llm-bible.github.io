@@ -6,8 +6,8 @@ conference: "Information Fusion 117 (2025) 102888"
 year: 2024
 bibkey: xiao2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08603"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08603'}
+tags: ['Attention Mechanism', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Survey Paper']
 ---
 Since the release of ChatGPT and GPT-4, large language models (LLMs) and
 multimodal large language models (MLLMs) have attracted widespread attention

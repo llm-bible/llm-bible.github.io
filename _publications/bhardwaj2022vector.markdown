@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bhardwaj2022vector
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11024"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11024'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Quantization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt Tuning has been largely successful as a parameter-efficient method of
 conditioning large-scale pre-trained language models to perform downstream

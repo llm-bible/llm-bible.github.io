@@ -6,8 +6,8 @@ conference: "Transactions of the Association for Computational Linguistics (2024
 year: 2023
 bibkey: chrysostomou2023investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09335"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09335'}
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Responsible AI']
 ---
 Despite the remarkable performance of generative large language models (LLMs)
 on abstractive summarization, they face two significant challenges: their

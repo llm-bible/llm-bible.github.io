@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15020"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15020'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown the potential to be integrated into
 human daily lives. Therefore, user preference is the most critical criterion

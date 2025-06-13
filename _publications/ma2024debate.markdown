@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024debate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.03155"}
-  - {name: "Code", url: "https://github.com/reml-group/DoG"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.03155'}
+  - {name: "Code", url: 'https://github.com/reml-group/DoG'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) may suffer from hallucinations in real-world
 applications due to the lack of relevant knowledge. In contrast, knowledge

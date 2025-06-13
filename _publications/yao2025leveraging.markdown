@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08178"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08178'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools']
 ---
 While Retrieval-Augmented Generation (RAG) systems enhance Large Language
 Models (LLMs) by incorporating external knowledge, they still face persistent

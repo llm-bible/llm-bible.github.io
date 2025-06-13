@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: marchisio2022mini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10503"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10503'}
+tags: ['Masked Language Model', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Prior work shows that it is possible to expand pretrained Masked Language
 Models (MLMs) to new languages by learning a new set of embeddings, while

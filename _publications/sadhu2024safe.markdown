@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sadhu2024safe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11021"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Agent', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11021'}
+tags: ['Agentic', 'Agent', 'RAG', 'Tools', 'Responsible AI', 'Pretraining Methods']
 ---
 Due to emergent capabilities, large language models (LLMs) have been utilized
 as language-based agents to perform a variety of tasks and make decisions with

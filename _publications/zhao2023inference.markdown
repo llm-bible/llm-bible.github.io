@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12728"}
-  - {name: "Code", url: "https://github.com/alipay/PainlessInferenceAcceleration"}
-tags: ['Tools', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12728'}
+  - {name: "Code", url: 'https://github.com/alipay/PainlessInferenceAcceleration'}
+tags: ['Reinforcement Learning', 'Has Code', 'Applications', 'Tools']
 ---
 As Large Language Models (LLMs) have made significant advancements across
 various tasks, such as question answering, translation, text summarization, and

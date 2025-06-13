@@ -6,8 +6,8 @@ conference: "Proceedings of the 2023 ACM SIGPLAN International Symposium on New 
 year: 2023
 bibkey: sarkar2023will
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00382"}
-tags: ['Attention Mechanism', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00382'}
+tags: ['Attention Mechanism', 'Prompting', 'Reinforcement Learning', 'Model Architecture']
 ---
 The research field of end-user programming has largely been concerned with
 helping non-experts learn to code sufficiently well in order to achieve their

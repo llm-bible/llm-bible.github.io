@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dahary2024be
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16990"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16990'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Prompting']
 ---
 Text-to-image diffusion models have an unprecedented ability to generate
 diverse and high-quality images. However, they often struggle to faithfully

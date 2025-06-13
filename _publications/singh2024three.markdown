@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024three
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17377"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17377'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Low-resource languages, by its very definition, tend to be under represented
 in the pre-training corpora of Large Language Models. In this work, we

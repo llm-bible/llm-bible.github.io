@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xing2024comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14654"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14654'}
+tags: ['Transformer', 'Efficiency and Optimization', 'BERT', 'Applications', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing
 (NLP) by delivering state-of-the-art performance across a variety of tasks.

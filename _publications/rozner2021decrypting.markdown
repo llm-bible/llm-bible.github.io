@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rozner2021decrypting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08620"}
-tags: ['Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08620'}
+tags: ['Reinforcement Learning', 'Security']
 ---
 Cryptic crosswords, the dominant crossword variety in the UK, are a promising
 target for advancing NLP systems that seek to process semantically complex,

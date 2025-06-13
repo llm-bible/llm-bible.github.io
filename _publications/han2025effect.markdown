@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025effect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06926"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06926'}
 tags: ['Fine-Tuning', 'Prompting']
 ---
 This paper investigates a critical aspect of large language model (LLM)

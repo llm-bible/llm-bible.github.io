@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2016
 bibkey: fukui2016multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1606.01847"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1606.01847'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Applications', 'Model Architecture']
 ---
 Modeling textual or visual information with vector representations trained

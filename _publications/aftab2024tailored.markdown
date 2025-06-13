@@ -6,8 +6,8 @@ conference: "https://www.ecai2024.eu"
 year: 2024
 bibkey: aftab2024tailored
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19185"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19185'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pruning', 'Pretraining Methods']
 ---
 Large language models demonstrate impressive proficiency in language
 understanding and generation. Nonetheless, training these models from scratch,

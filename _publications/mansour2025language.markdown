@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mansour2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05478"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05478'}
 tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) such as GPT-4, trained on huge amount of

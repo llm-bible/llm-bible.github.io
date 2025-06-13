@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shahriar2023have
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13817"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13817'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The emergence of an AI-powered chatbot that can generate human-like sentences
 and write coherent essays has caught the world's attention. This paper

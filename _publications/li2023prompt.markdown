@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.07862"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.07862'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Online news platforms often use personalized news recommendation methods to
 help users discover articles that align with their interests. These methods

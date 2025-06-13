@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11087"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11087'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Tools', 'Prompting', 'Multimodal Models', 'Pre-Training']
 ---
 Composed Image Retrieval (CIR) aims to retrieve target images from candidate
 set using a hybrid-modality query consisting of a reference image and a

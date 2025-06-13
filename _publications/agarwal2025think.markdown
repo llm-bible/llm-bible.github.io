@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: agarwal2025think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14905"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14905'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper, we address the challenge of enforcing strict schema adherence
 in large language model (LLM) generation by leveraging LLM reasoning

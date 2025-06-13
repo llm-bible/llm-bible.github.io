@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bekbayev2023poison
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13449"}
-tags: ['Fine-Tuning', 'Responsible AI', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13449'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 From the perspective of content safety issues, alignment has shown to limit
 large language models' (LLMs) harmful content generation. This intentional

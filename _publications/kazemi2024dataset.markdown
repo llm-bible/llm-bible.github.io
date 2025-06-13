@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kazemi2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09175"}
-  - {name: "Code", url: "https://huggingface.co/datasets/mehrankazemi/ReMI"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09175'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/mehrankazemi/ReMI'}
 tags: ['Has Code', 'Merging']
 ---
 With the continuous advancement of large language models (LLMs), it is

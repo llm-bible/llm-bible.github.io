@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18400"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18400'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have the capacity to store and recall facts.
 Through experimentation with open-source models, we observe that this ability

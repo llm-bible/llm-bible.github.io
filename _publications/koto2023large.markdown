@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: koto2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04928"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04928'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Although large language models (LLMs) are often pre-trained on large-scale
 multilingual texts, their reasoning abilities and real-world knowledge are

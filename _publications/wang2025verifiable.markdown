@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025verifiable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04498"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04498'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent Large Language Models (LLMs) have demonstrated satisfying general
 instruction following ability. However, small LLMs with about 7B parameters

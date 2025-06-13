@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wan2022unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.13346"}
-  - {name: "Code", url: "https://github.com/NLP2CT/UniTE"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.13346'}
+  - {name: "Code", url: 'https://github.com/NLP2CT/UniTE'}
+tags: ['Attention Mechanism', 'Has Code', 'WMT', 'Model Architecture', 'Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Translation quality evaluation plays a crucial role in machine translation.
 According to the input format, it is mainly separated into three tasks, i.e.,

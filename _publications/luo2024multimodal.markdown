@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18176"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/Molar-8B06/"}
-tags: ['Tools', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18176'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/Molar-8B06/'}
+tags: ['Has Code', 'Multimodal Models', 'Tools']
 ---
 Sequential recommendation (SR) systems have evolved significantly over the
 past decade, transitioning from traditional collaborative filtering to deep

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hudeček2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.06556"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.06556'}
 tags: ['Uncategorized']
 ---
 Instructions-tuned Large Language Models (LLMs) gained recently huge

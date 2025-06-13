@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023advances
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00530"}
-  - {name: "Code", url: "https://github.com/Rongtao-Xu/Awesome-LLM-EN"}
-tags: ['Transformer', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00530'}
+  - {name: "Code", url: 'https://github.com/Rongtao-Xu/Awesome-LLM-EN'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In recent years, the rapid advancement of Large Language Models (LLMs) such
 as the Generative Pre-trained Transformer (GPT) has attracted increasing

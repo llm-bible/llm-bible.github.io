@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: thakur2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.00708"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00708'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 In this study, we explore the capability of Large Language Models (LLMs) to

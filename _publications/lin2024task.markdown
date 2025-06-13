@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15715"}
-tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15715'}
+tags: ['Efficiency and Optimization', 'Applications', 'Quantization', 'Prompting', 'Pruning']
 ---
 Large language models~(LLMs) are known for their high demand on computing
 resources and memory due to their substantial model size, which leads to

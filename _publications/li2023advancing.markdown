@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14459"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14459'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 Existing works on outline-conditioned text generation typically aim to
 generate text using provided outlines as rough sketches, such as keywords and

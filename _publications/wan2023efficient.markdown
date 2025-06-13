@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wan2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03863"}
-  - {name: "Code", url: "https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey"}
-tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03863'}
+  - {name: "Code", url: 'https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Applications', 'Tools', 'Survey Paper']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 important tasks such as natural language understanding and language generation,

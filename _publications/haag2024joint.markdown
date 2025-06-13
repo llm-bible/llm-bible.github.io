@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: haag2024joint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20684"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20684'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have achieved impressive performance in text
 understanding and have become an essential tool for building smart assistants.

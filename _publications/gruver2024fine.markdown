@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gruver2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04379"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04379'}
+tags: ['Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We propose fine-tuning large language models for generation of stable
 materials. While unorthodox, fine-tuning large language models on text-encoded

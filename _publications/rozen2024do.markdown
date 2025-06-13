@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rozen2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12878"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12878'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLM) technology is constantly improving towards
 human-like dialogue. Values are a basic driving force underlying human

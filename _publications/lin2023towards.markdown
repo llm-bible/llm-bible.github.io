@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15808"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15808'}
 tags: ['Prompting', 'Applications']
 ---
 Generating and editing a 3D scene guided by natural language poses a

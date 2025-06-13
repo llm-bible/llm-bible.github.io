@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: heineman2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15343"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15343'}
 tags: ['Prompting']
 ---
 While instruction fine-tuned LLMs are effective text generators, sensitivity

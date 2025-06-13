@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024economic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01643"}
-tags: ['Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01643'}
+tags: ['Prompting', 'Agentic', 'Tools']
 ---
 Recent advancements have enabled Large Language Models (LLMs) to function as
 agents that can perform actions using external tools. This requires

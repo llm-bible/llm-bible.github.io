@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15924"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15924'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Continual instruction tuning enables large language models (LLMs) to learn
 incrementally while retaining past knowledge, whereas existing methods

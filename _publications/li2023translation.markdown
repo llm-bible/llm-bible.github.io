@@ -6,8 +6,8 @@ conference: "Proceedings of the 61st Annual Meeting of the Association for Compu
 year: 2023
 bibkey: li2023translation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19216"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19216'}
+tags: ['Applications', 'Tools']
 ---
 Research on text-to-image generation (TTI) still predominantly focuses on the
 English language due to the lack of annotated image-caption data in other

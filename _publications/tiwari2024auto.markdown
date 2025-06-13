@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tiwari2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12612"}
-tags: ['Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12612'}
+tags: ['Tools', 'Training Techniques']
 ---
 Graph databases like Neo4j are gaining popularity for handling complex,
 interconnected data, over traditional relational databases in modeling and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shridhar2023modular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13075"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13075'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'GPT']
 ---
 Large language models (LLMs) can improve their accuracy on various tasks
 through iteratively refining and revising their output based on feedback. We

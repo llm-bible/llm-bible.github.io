@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: farzi2024exam
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00309"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00309'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Current IR evaluation is based on relevance judgments, created either
 manually or automatically, with decisions outsourced to Large Language Models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18993"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18993'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning']
 ---
 Multi-entity question answering (MEQA) represents significant challenges for
 large language models (LLM) and retrieval-augmented generation (RAG) systems,

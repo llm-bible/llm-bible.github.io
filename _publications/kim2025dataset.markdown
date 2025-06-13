@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05651"}
-tags: ['Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05651'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Prompting']
 ---
 The increasing demand for mental health services has led to the rise of
 AI-driven mental health chatbots, though challenges related to privacy, data

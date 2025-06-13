@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bexley2025intrinsic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18957"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18957'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Context propagation remains a central challenge in language model
 architectures, particularly in tasks requiring the retention of long-range

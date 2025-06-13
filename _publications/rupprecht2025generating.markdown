@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: rupprecht2025generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17004"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17004'}
 tags: ['GPT', 'Model Architecture']
 ---
 As large language models have shown remarkable capabilities in conversing via

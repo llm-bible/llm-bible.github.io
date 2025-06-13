@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hong2025eager
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14735"}
-tags: ['RAG', 'Tools', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14735'}
+tags: ['RAG', 'RecSys', 'Tools']
 ---
 Large language models (LLMs) are increasingly leveraged as foundational
 backbones in the development of advanced recommender systems, offering enhanced

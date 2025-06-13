@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07298"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07298'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 From image to video understanding, the capabilities of Multi-modal LLMs
 (MLLMs) are increasingly powerful. However, most existing video understanding

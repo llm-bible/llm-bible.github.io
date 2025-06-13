@@ -6,8 +6,8 @@ conference: "Journal of the Association for Information Science and Technology (
 year: 2023
 bibkey: lund2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.13367"}
-tags: ['Responsible AI', 'Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.13367'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 This paper discusses OpenAIs ChatGPT, a generative pre-trained transformer,
 which uses natural language processing to fulfill text-based user requests

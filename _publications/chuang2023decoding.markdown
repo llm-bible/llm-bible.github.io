@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chuang2023decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03883"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03883'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite their impressive capabilities, large language models (LLMs) are prone
 to hallucinations, i.e., generating content that deviates from facts seen

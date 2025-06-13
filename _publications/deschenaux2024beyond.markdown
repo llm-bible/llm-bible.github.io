@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deschenaux2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21035"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Merging', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21035'}
+tags: ['Efficiency and Optimization', 'Distillation', 'GPT', 'Applications', 'Merging', 'Pretraining Methods']
 ---
 Autoregressive (AR) Large Language Models (LLMs) have demonstrated
 significant success across numerous tasks. However, the AR modeling paradigm

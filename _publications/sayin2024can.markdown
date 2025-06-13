@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sayin2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20288"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20288'}
 tags: ['Prompting']
 ---
 We explore the potential of Large Language Models (LLMs) to assist and

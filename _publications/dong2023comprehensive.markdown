@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: dong2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13345"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/BAMBOO"}
-tags: ['Applications', 'Has Code', 'Prompting', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13345'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/BAMBOO'}
+tags: ['Prompting', 'Has Code', 'Language Modeling', 'Applications']
 ---
 Large language models (LLMs) have achieved dramatic proficiency over NLP
 tasks with normal length. Recently, multiple studies have committed to

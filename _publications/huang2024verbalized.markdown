@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024verbalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05516"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05516'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Human cognition excels at transcending sensory input and forming latent
 representations that structure our understanding of the world. Although Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024say
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16369"}
-tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16369'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Responsible AI', 'Security']
 ---
 Ensuring the safety alignment of Large Language Models (LLMs) is crucial to
 generating responses consistent with human values. Despite their ability to

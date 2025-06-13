@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: balachandran2025inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00294"}
-tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00294'}
+tags: ['Training Techniques', 'RAG', 'Model Architecture', 'GPT']
 ---
 Inference-time scaling can enhance the reasoning capabilities of large
 language models (LLMs) on complex problems that benefit from step-by-step

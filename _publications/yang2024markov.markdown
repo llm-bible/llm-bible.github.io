@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024markov
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17635"}
-  - {name: "Code", url: "https://github.com/james-yw/Markov-Chain-of-Thought"}
-tags: ['Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17635'}
+  - {name: "Code", url: 'https://github.com/james-yw/Markov-Chain-of-Thought'}
+tags: ['Has Code', 'Efficiency and Optimization']
 ---
 Chain of Thought (CoT) of multi-step benefits from the logical structure of
 the reasoning steps and task-specific actions, significantly enhancing the

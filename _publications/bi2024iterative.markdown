@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bi2024iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16792"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16792'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have shown remarkable progress in automated code
 generation. Yet, LLM-generated code may contain errors in API usage, class,

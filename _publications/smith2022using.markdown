@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: smith2022using
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2201.11990v3"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2201.11990v3'}
+tags: ['Large-Scale Training', 'Transformer', 'Few-Shot', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pretrained general-purpose language models can achieve state-of-the-art
 accuracies in various natural language processing domains by adapting to

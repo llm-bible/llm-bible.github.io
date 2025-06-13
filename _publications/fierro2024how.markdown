@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fierro2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14387"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14387'}
 tags: ['Training Techniques', 'Pre-Training', 'Model Architecture']
 ---
 Large Language Models (LLMs) store and retrieve vast amounts of factual

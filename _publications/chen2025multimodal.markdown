@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06282"}
-  - {name: "Code", url: "https://funaudiollm.github.io/minmo,"}
-tags: ['Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06282'}
+  - {name: "Code", url: 'https://funaudiollm.github.io/minmo,'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Recent advancements in large language models (LLMs) and multimodal
 speech-text models have laid the groundwork for seamless voice interactions,

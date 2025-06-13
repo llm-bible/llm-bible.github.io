@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02469"}
-tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02469'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models', 'Survey Paper']
 ---
 Recent advancements in Large Language Models (LLMs) such as GPT4 have
 displayed exceptional multi-modal capabilities in following open-ended

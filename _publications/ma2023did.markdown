@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023did
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02626"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02626'}
+tags: ['ACL', 'GPT', 'Model Architecture', 'Tools', 'Applications', 'Ethics and Bias', 'Responsible AI']
 ---
 As the popularity of large language models (LLMs) soars across various
 applications, ensuring their alignment with human values has become a paramount

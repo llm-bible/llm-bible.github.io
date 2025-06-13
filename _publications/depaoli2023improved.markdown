@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: depaoli2023improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06391"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06391'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This draft paper presents a workflow for creating User Personas with Large
 Language Models, using the results of a Thematic Analysis of qualitative

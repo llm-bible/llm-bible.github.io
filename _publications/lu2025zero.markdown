@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00179"}
-tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00179'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Prompting']
 ---
 Clarification need prediction (CNP) is a key task in conversational search,
 aiming to predict whether to ask a clarifying question or give an answer to the

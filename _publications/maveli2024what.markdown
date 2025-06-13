@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: maveli2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11081"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11081'}
 tags: ['RAG']
 ---
 Code-LLMs, LLMs pre-trained on large code corpora, have shown great progress

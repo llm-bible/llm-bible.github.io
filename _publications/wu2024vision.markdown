@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14818"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14818'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, mobile AI agents based on VLMs have been gaining increasing
 attention. These works typically utilize VLM as a foundation, fine-tuning it

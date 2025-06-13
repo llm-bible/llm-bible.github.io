@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022user
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.09263"}
-tags: ['Training Techniques', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.09263'}
+tags: ['RecSys', 'Training Techniques']
 ---
 Conversational recommender systems (CRS) aim to provide highquality
 recommendations in conversations. However, most conventional CRS models mainly

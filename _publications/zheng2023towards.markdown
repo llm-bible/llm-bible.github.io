@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14103"}
-tags: ['Tools', 'Multimodal Models', 'Efficiency and Optimization', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14103'}
+tags: ['Efficiency and Optimization', 'Multimodal Models', 'Model Architecture', 'Tools']
 ---
 In this paper, we present a simple, flexible and effective vision-language
 (VL) tracking pipeline, termed \textbf\{MMTrack\}, which casts VL tracking as a

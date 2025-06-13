@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025imagine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23033"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23033'}
 tags: ['RAG', 'Tools']
 ---
 Existing dense retrieval models struggle with reasoning-intensive retrieval

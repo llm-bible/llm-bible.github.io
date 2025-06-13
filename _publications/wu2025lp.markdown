@@ -6,7 +6,7 @@ conference: "EPTCS 416 2025 pp. 69-77"
 year: 2025
 bibkey: wu2025lp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09212"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09212'}
 tags: ['RAG', 'Applications']
 ---
 Large language models (LLMs) are able to generate human-like responses to

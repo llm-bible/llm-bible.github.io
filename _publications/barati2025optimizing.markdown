@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: barati2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06286"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06286'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 In recent years, the use of large language models (LLMs) has significantly
 increased, and these models have demonstrated remarkable performance in a

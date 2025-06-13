@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09233"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09233'}
+tags: ['Agentic', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning']
 ---
 Recently, there has been an emergence of employing LLM-powered agents as
 believable human proxies, based on their remarkable decision-making capability.

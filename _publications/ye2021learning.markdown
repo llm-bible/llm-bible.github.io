@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ye2021learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.00420"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.00420'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pre-trained text-to-text transformers such as BART have achieved impressive
 performance across a range of NLP tasks. Recent study further shows that they

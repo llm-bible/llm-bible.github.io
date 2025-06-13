@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huntsman2025neurosymbolic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13953"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13953'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 We devise an algorithm to generate sets of propositions that objectively
 instantiate graphs that support coherence-driven inference. We then benchmark

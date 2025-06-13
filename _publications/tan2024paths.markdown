@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024paths
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14211"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Pruning', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14211'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'BERT', 'GPT', 'Fine-Tuning', 'Prompting', 'Pruning', 'Applications']
 ---
 Large Language Models (LLMs) have achieved impressive results in various
 tasks but struggle with hallucination problems and lack of relevant knowledge,

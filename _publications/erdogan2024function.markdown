@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: erdogan2024function
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00608"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00608'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Quantization', 'Prompting']
 ---
 Recent large language models (LLMs) have enabled the development of advanced
 agentic systems that can integrate various tools and APIs to fulfill user

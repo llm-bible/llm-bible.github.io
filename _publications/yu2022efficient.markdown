@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yu2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.06850"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.06850'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 All-MLP architectures have attracted increasing interest as an alternative to
 attention-based models. In NLP, recent work like gMLP shows that all-MLPs can

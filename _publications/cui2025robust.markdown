@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04036"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04036'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Data watermarking in language models injects traceable signals, such as
 specific token sequences or stylistic patterns, into copyrighted text, allowing

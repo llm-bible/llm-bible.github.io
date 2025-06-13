@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: aher2022using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.10264"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.10264'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 We introduce a new type of test, called a Turing Experiment (TE), for

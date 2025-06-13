@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11030"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11030'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 Food is a rich and varied dimension of cultural heritage, crucial to both
 individuals and social groups. To bridge the gap in the literature on the

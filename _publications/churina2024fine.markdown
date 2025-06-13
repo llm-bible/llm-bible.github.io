@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: churina2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16813"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16813'}
+tags: ['Language Modeling', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 The incivility in social media discourse complicates the deployment of
 automated text generation models for politically sensitive content. Fine-tuning

@@ -6,8 +6,8 @@ conference: "in IEEE Access vol. 12 pp. 185401-185410 2024"
 year: 2025
 bibkey: saha2025quim
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02702"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02702'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'BERT']
 ---
 This work presents a novel architecture for building Retrieval-Augmented
 Generation (RAG) systems to improve Question Answering (QA) tasks from a target

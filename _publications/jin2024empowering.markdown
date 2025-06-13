@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00878"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00878'}
+tags: ['RAG', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We introduces Crimson, a system that enhances the strategic reasoning
 capabilities of Large Language Models (LLMs) within the realm of cybersecurity.

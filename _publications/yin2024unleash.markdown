@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024unleash
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09253"}
-tags: ['RAG', 'Tools', 'RecSys', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09253'}
+tags: ['RAG', 'RecSys', 'Tools', 'Merging']
 ---
 Owing to the unprecedented capability in semantic understanding and logical
 reasoning, the pre-trained large language models (LLMs) have shown fantastic

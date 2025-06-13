@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: badger2024masked
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01482"}
-tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01482'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Attention mechanisms that confer selective focus on a strict subset of input
 elements are nearly ubiquitous in language models today. We posit there to be

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09424"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09424'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Pre-Training']
 ---
 Large Language Models (LLMs) have the potential to revolutionize the Sixth
 Generation (6G) communication networks. However, current mainstream LLMs

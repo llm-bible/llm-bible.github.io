@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024vilco
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13123"}
-  - {name: "Code", url: "https://github.com/cruiseresearchgroup/ViLCo"}
-tags: ['Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13123'}
+  - {name: "Code", url: 'https://github.com/cruiseresearchgroup/ViLCo'}
+tags: ['Training Techniques', 'Has Code', 'Tools', 'Pretraining Methods']
 ---
 Video language continual learning involves continuously adapting to
 information from video and text inputs, enhancing a model's ability to handle

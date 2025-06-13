@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03501"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03501'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 In this paper, we present a new form of backdoor attack against Large
 Language Models (LLMs): lingual-backdoor attacks. The key novelty of

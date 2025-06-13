@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: zhou2018visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.08266"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.08266'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We introduce a novel multimodal machine translation model that utilizes
 parallel visual and textual information. Our model jointly optimizes the

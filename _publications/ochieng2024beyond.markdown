@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ochieng2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00343"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00343'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 The deployment of Large Language Models (LLMs) in real-world applications
 presents both opportunities and challenges, particularly in multilingual and

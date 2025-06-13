@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024read
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04154"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04154'}
+tags: ['Agentic', 'Transformer', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Developing a generalist agent is a longstanding objective in artificial
 intelligence. Previous efforts utilizing extensive offline datasets from

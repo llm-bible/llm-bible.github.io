@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024shaping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16491"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16491'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this work, we tackle the challenge of embedding realistic human
 personality traits into LLMs. Previous approaches have primarily focused on

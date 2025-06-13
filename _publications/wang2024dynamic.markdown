@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16986"}
-  - {name: "Code", url: "https://github.com/harrytea/AdaptVision"}
-tags: ['Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16986'}
+  - {name: "Code", url: 'https://github.com/harrytea/AdaptVision'}
+tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Over the past few years, the advancement of Multimodal Large Language Models
 (MLLMs) has captured the wide interest of researchers, leading to numerous

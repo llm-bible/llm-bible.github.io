@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: liu2022win
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.05211"}
-  - {name: "Code", url: "https://github.com/llyx97/sparse-and-robust-PLM"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.05211'}
+  - {name: "Code", url: 'https://github.com/llyx97/sparse-and-robust-PLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Despite the remarkable success of pre-trained language models (PLMs), they
 still face two challenges: First, large-scale PLMs are inefficient in terms of

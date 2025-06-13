@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023search
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07237"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07237'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 To effectively use large language models (LLMs) for real-world queries, it is
 imperative that they generalize to the long-tail distribution, i.e. rare

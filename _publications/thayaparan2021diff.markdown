@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: thayaparan2021diff
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.03417"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.03417'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper presents Diff-Explainer, the first hybrid framework for
 explainable multi-hop inference that integrates explicit constraints with

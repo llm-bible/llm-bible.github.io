@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nirman2024fool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11625"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11625'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 While Large Language Models (LLMs) have become central tools in various
 fields, they often provide inaccurate or false information. This study examines

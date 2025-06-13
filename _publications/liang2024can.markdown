@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21647"}
-  - {name: "Code", url: "https://github.com/lt-asset/REPOCOD"}
-tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21647'}
+  - {name: "Code", url: 'https://github.com/lt-asset/REPOCOD'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
 ---
 Large language models (LLMs) have achieved high accuracy, i.e., more than 90%
 pass@1, in solving Python coding problems in HumanEval and MBPP. Thus, a

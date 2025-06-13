@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024gradual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12292"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12292'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Truthfulness is paramount for large language models (LLMs) as they are
 increasingly deployed in real-world applications. However, existing LLMs still

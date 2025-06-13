@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023bias
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14345"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Few-Shot', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14345'}
+tags: ['Few-Shot', 'Fairness', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 As the adoption of LLMs becomes more widespread in software coding
 ecosystems, a pressing issue has emerged: does the generated code contain

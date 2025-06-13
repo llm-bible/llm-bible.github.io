@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xue2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12478"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12478'}
 tags: ['Prompting']
 ---
 The tendency of Large Language Models (LLMs) to generate hallucinations

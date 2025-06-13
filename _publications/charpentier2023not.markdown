@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: charpentier2023not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02265"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02265'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper introduces a novel modification of the transformer architecture,
 tailored for the data-efficient pretraining of language models. This aspect is

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhatia2023plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07536"}
-  - {name: "Code", url: "https://github.com/HazyResearch/TART"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07536'}
+  - {name: "Code", url: 'https://github.com/HazyResearch/TART'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) exhibit in-context learning abilities which
 enable the same model to perform several tasks without any task-specific

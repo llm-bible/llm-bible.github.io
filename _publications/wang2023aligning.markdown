@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023aligning
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2307.12966v1"}
-  - {name: "Code", url: "https://github.com/GaryYufei/AlignLLMHumanSurvey"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2307.12966v1'}
+  - {name: "Code", url: 'https://github.com/GaryYufei/AlignLLMHumanSurvey'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) trained on extensive textual corpora have
 emerged as leading solutions for a broad array of Natural Language Processing

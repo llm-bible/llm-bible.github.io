@@ -6,8 +6,8 @@ conference: "ACL 2021 (1299-1311)"
 year: 2021
 bibkey: donato2021diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.03717"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.03717'}
+tags: ['Transformer', 'SLT', 'WMT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We propose a new architecture for adapting a sentence-level
 sequence-to-sequence transformer by incorporating multiple pretrained document

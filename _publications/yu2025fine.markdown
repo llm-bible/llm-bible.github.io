@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05370"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05370'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have gained immense success in revolutionizing
 various applications, including content generation, search and recommendation,

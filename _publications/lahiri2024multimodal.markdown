@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lahiri2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16701"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16701'}
 tags: ['RAG', 'Multimodal Models', 'Applications', 'Merging']
 ---
 Recent advancements in generative AI have flourished the development of

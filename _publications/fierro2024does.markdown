@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fierro2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15206"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15206'}
 tags: ['Uncategorized']
 ---
 The purpose of instruction tuning is enabling zero-shot performance, but

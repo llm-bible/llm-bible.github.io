@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03283"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03283'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 code generation tasks. However, repository-level code generation presents

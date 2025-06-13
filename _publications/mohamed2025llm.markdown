@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mohamed2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20258"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20258'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 As large language models are increasingly responsible for online content,
 concerns arise about the impact of repeatedly processing their own outputs.

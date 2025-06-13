@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02501"}
-  - {name: "Code", url: "https://github.com/deeplearning-wisc/picle"}
-tags: ['Tools', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02501'}
+  - {name: "Code", url: 'https://github.com/deeplearning-wisc/picle'}
+tags: ['Prompting', 'Has Code', 'In-Context Learning', 'Tools']
 ---
 Large Language Models (LLMs) are trained on massive text corpora, which are
 encoded with diverse personality traits. This triggers an interesting goal of

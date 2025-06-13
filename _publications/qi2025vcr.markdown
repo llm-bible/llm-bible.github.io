@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qi2025vcr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07956"}
-tags: ['Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07956'}
+tags: ['Multimodal Models', 'Tools']
 ---
 The advancement of Chain-of-Thought (CoT) reasoning has significantly
 enhanced the capabilities of large language models (LLMs) and large

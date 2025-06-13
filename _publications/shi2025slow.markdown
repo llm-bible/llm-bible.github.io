@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025slow
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01328"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01328'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Fine-Tuning']
 ---
 Balancing temporal resolution and spatial detail under limited compute budget
 remains a key challenge for video-based multi-modal large language models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: yang2019making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.09326"}
-tags: ['Agentic', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.09326'}
+tags: ['Attention Mechanism', 'Agentic', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We study the multi-round response generation in visual dialog, where a
 response is generated according to a visually grounded conversational history.

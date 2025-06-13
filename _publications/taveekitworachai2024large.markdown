@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: taveekitworachai2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08273"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08273'}
 tags: ['Prompting']
 ---
 This paper presents null-shot prompting. Null-shot prompting exploits

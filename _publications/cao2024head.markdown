@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024head
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11819"}
-tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11819'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture']
 ---
 Large Language Models (LLMs) suffer from huge number of parameters, which
 restricts their deployment on edge devices. Weight sharing is one promising

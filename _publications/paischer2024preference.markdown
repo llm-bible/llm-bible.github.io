@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: paischer2024preference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08604"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08604'}
 tags: ['Training Techniques']
 ---
 Sequential recommendation systems aim to provide personalized recommendations

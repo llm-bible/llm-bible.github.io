@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06224"}
-tags: ['Tools', 'Reinforcement Learning', 'Masked Language Model', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06224'}
+tags: ['Masked Language Model', 'BERT', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Dictionary example sentences play an important role in illustrating word
 definitions and usage, but manually creating quality sentences is challenging.

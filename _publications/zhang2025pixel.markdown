@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025pixel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10465"}
-  - {name: "Code", url: "https://github.com/magic-research/Sa2VA"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Pretraining Methods', 'Scaling Laws', 'Multimodal Models', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10465'}
+  - {name: "Code", url: 'https://github.com/magic-research/Sa2VA'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Merging', 'Scaling Laws', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) achieve remarkable performance for
 fine-grained pixel-level understanding tasks. However, all the works rely

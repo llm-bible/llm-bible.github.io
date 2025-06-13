@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15685"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15685'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Distillation']
 ---
 Large language models (LLMs) provide a promising way for accurate
 session-based recommendation (SBR), but they demand substantial computational

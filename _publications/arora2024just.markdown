@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arora2024just
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05483"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05483'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Merging', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recurrent large language models that compete with Transformers in language
 modeling perplexity are emerging at a rapid rate (e.g., Mamba, RWKV).

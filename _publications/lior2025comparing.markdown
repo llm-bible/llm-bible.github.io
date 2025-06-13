@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lior2025comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17091"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17091'}
 tags: ['Reinforcement Learning']
 ---
 Humans are influenced by how information is presented, a phenomenon known as

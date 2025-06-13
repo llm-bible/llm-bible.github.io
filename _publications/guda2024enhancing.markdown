@@ -6,8 +6,8 @@ conference: "IEEE Globecom Workshop 2024"
 year: 2024
 bibkey: guda2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14175"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'TACL', 'Model Architecture', 'ACL', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14175'}
+tags: ['ACL', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'TACL']
 ---
 Large Language models (LLMs) have brought about substantial advancements in
 the field of Question Answering (QA) systems. These models do remarkably well

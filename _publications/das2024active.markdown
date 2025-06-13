@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: das2024active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10500"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10500'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Reinforcement Learning from Human Feedback (RLHF) is pivotal in aligning
 Large Language Models (LLMs) with human preferences. Although aligned

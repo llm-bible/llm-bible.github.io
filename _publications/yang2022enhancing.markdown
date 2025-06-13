@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: yang2022enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.08632"}
-  - {name: "Code", url: "https://github.com/HITsz-TMG/SKURG"}
-tags: ['Multimodal Models', 'Has Code', 'Applications', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.08632'}
+  - {name: "Code", url: 'https://github.com/HITsz-TMG/SKURG'}
+tags: ['Has Code', 'Multimodal Models', 'Applications', 'Merging']
 ---
 Multi-modal multi-hop question answering involves answering a question by
 reasoning over multiple input sources from different modalities. Existing

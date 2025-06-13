@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chu2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13244"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13244'}
+tags: ['RAG', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exhibit impressive problem-solving skills across
 many tasks, but they still underperform compared to humans in various

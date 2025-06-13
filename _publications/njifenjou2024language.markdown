@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: njifenjou2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01315"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01315'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper we propose a study of linguistic portability strategies of
 large pre-trained language models (PLMs) used for open-domain dialogue systems

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.03381"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.03381'}
+tags: ['Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models like GPT-4 exhibit emergent capabilities across
 general-purpose tasks, such as basic arithmetic, when trained on extensive text

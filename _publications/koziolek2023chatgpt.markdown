@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: koziolek2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15809"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15809'}
+tags: ['GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) providing generative AI have become popular to
 support software engineers in creating, summarizing, optimizing, and

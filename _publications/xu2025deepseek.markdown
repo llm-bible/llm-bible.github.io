@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025deepseek
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17947"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17947'}
 tags: ['Reinforcement Learning']
 ---
 Purpose: To evaluate the accuracy and reasoning ability of DeepSeek-R1 and

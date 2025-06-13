@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024factuality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00377"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00377'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Prompt-based "diversity interventions" are commonly adopted to improve the
 diversity of Text-to-Image (T2I) models depicting individuals with various

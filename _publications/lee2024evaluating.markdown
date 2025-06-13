@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00543"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00543'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs) have shown potential as general evaluators along

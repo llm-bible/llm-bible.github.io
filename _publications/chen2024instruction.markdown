@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16029"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16029'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have achieved impressive success across several
 fields, but their proficiency in understanding and resolving complex graph

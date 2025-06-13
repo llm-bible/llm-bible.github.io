@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09858"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09858'}
 tags: ['RAG', 'Prompting']
 ---
 Recent LLMs have significantly improved reasoning capabilities, primarily by

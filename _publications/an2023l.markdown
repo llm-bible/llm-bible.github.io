@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: an2023l
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11088"}
-tags: ['Survey Paper', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11088'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Recently, there has been growing interest in extending the context length of
 large language models (LLMs), aiming to effectively process long inputs of one

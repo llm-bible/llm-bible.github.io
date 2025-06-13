@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08072"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/I-SHEEP"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08072'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/I-SHEEP'}
 tags: ['RAG', 'Has Code', 'Applications']
 ---
 Large Language Models (LLMs) have achieved significant advancements, however,

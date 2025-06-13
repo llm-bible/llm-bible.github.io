@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024thinner
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21018"}
-  - {name: "Code", url: "https://github.com/SalesforceAIResearch/ThinK"}
-tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21018'}
+  - {name: "Code", url: 'https://github.com/SalesforceAIResearch/ThinK'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Quantization', 'Pruning', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have revolutionized the field of natural
 language processing, achieving unprecedented performance across a variety of

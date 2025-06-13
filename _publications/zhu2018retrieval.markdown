@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: zhu2018retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.04276"}
-tags: ['Tools', 'Applications', 'RAG', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.04276'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Applications', 'Tools']
 ---
 Dialogue systems are usually built on either generation-based or
 retrieval-based approaches, yet they do not benefit from the advantages of

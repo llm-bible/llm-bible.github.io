@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024executable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01030"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01030'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Model (LLM) agents, capable of performing a broad range of
 actions, such as invoking tools and controlling robots, show great potential in

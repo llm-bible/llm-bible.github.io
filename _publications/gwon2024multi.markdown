@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gwon2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07812"}
-tags: ['Training Techniques', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07812'}
+tags: ['Efficiency and Optimization', 'Training Techniques']
 ---
 Recent advancements in Large Language Models (LLMs) have been remarkable,
 with new models consistently surpassing their predecessors. These advancements

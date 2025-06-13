@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05730"}
-tags: ['Training Techniques', 'RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05730'}
+tags: ['Training Techniques', 'RAG', 'Prompting', 'Tools']
 ---
 Modern commercial platforms typically offer both search and recommendation
 functionalities to serve diverse user needs, making joint modeling of these

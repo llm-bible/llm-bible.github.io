@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21712"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21712'}
 tags: ['RAG']
 ---
 Despite the success of integrating large language models into the development

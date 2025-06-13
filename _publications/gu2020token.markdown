@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gu2020token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.04380"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.04380'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 There exists a token imbalance phenomenon in natural language as different
 tokens appear with different frequencies, which leads to different learning

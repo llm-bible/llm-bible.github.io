@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: nitze2023future
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06160"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06160'}
 tags: ['Efficiency and Optimization']
 ---
 This study explores the impact of Large Language Models (LLMs) in higher

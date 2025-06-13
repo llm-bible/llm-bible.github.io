@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025baichuan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17239"}
-  - {name: "Code", url: "https://github.com/baichuan-inc/Baichuan-Audio"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17239'}
+  - {name: "Code", url: 'https://github.com/baichuan-inc/Baichuan-Audio'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pre-Training']
 ---
 We introduce Baichuan-Audio, an end-to-end audio large language model that
 seamlessly integrates audio understanding and generation. It features a

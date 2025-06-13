@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14855"}
-tags: ['Interpretability', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14855'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Applications']
 ---
 Recognizing the imperative to address the reliability and transparency issues
 of Large Language Models (LLM), this work proposes an LLM maturity model

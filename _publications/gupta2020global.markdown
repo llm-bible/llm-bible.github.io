@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gupta2020global
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.03274"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.03274'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based models have become ubiquitous in natural language
 processing thanks to their large capacity, innate parallelism and high

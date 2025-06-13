@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05374"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05374'}
+tags: ['Language Modeling', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have shown impressive capabilities across
 various natural language tasks. However, evaluating their alignment with human

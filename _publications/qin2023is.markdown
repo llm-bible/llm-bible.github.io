@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: qin2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.06476"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.06476'}
 tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 Spurred by advancements in scale, large language models (LLMs) have

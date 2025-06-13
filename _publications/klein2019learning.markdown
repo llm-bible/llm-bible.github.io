@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: klein2019learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.02365"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.02365'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'BERT', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Automatic question generation aims at the generation of questions from a
 context, with the corresponding answers being sub-spans of the given passage.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09843"}
-tags: ['Responsible AI', 'INTERSPEECH', 'Applications', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09843'}
+tags: ['INTERSPEECH', 'Applications', 'Training Techniques', 'Prompting', 'Responsible AI']
 ---
 Conventional end-to-end Automatic Speech Recognition (ASR) models primarily
 focus on exact transcription tasks, lacking flexibility for nuanced user

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gu2023llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10677"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10677'}
 tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 With the recent rise of widely successful deep learning models, there is

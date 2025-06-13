@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024coordinated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20454"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20454'}
 tags: ['Efficiency and Optimization', 'Multimodal Models']
 ---
 Instruction tuning in multimodal large language models (MLLMs) aims to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023layout
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00908"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00908'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Enterprise documents such as forms, invoices, receipts, reports, contracts,
 and other similar records, often carry rich semantics at the intersection of

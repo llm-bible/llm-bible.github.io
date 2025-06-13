@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chiang2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.01937"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.01937'}
 tags: ['Security']
 ---
 Human evaluation is indispensable and inevitable for assessing the quality of

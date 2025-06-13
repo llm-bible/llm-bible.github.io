@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16264"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16264'}
 tags: ['Fine-Tuning']
 ---
 Fact-checking techniques can mitigate hallucinations in Large Language Models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05727"}
-tags: ['Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05727'}
+tags: ['Tools', 'Training Techniques']
 ---
 Despite their remarkable performance, the development of Large Language
 Models (LLMs) faces a critical challenge in scalable oversight: providing

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: street2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18870"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18870'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This paper examines the extent to which large language models (LLMs) have

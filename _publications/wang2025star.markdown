@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025star
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01903"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01903'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 This paper introduces STAR-1, a high-quality, just-1k-scale safety dataset
 specifically designed for large reasoning models (LRMs) like DeepSeek-R1. Built

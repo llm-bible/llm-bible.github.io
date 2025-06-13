@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roberson2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12379"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12379'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This study investigates various approaches to using Large Language Models
 (LLMs) for Text-to-SQL program synthesis, focusing on the outcomes and insights

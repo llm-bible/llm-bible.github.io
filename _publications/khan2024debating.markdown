@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: khan2024debating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06782"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06782'}
 tags: ['RAG']
 ---
 Common methods for aligning large language models (LLMs) with desired

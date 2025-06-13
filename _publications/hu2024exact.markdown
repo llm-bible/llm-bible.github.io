@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024exact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10327"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10327'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The evolving paradigm of Large Language Model-based Recommendation (LLMRec)
 customizes Large Language Models (LLMs) through parameter-efficient fine-tuning

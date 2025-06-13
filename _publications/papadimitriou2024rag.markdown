@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: papadimitriou2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12322"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12322'}
+tags: ['RAG', 'Prompting', 'Agentic', 'Tools']
 ---
 We present RAG Playground, an open-source framework for systematic evaluation
 of Retrieval-Augmented Generation (RAG) systems. The framework implements and

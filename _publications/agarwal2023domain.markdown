@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: agarwal2023domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03638"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03638'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large language models (LLMs) have demonstrated remarkable performance in a
 wide range of natural language tasks. However, as these models continue to grow

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: retkowski2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00233"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00233'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) struggle with precise length control,
 particularly in zero-shot settings. We conduct a comprehensive study evaluating

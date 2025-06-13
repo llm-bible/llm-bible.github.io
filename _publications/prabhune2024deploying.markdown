@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prabhune2024deploying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11895"}
-tags: ['Responsible AI', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11895'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Merging', 'Reinforcement Learning', 'Responsible AI']
 ---
 Knowing that the generative capabilities of large language models (LLM) are
 sometimes hampered by tendencies to hallucinate or create non-factual

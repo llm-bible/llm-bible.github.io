@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: manik2025chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18467"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18467'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Background: AI-powered code generation, fueled by Large Language Models
 (LLMs), is revolutionizing software development. Models like OpenAI's Codex and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: miyazawa2020language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.07093"}
-tags: ['Transformer', 'Pre-Training', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.07093'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, the bidirectional encoder representations from transformers (BERT)
 model has attracted much attention in the field of natural language processing,

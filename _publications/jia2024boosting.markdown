@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11909"}
-  - {name: "Code", url: "https://github.com/APiaoG/SymDPO"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11909'}
+  - {name: "Code", url: 'https://github.com/APiaoG/SymDPO'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 As language models continue to scale, Large Language Models (LLMs) have
 exhibited emerging capabilities in In-Context Learning (ICL), enabling them to

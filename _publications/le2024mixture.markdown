@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: le2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14124"}
-  - {name: "Code", url: "https://github.com/Minhchuyentoancbn/MoE_PromptCL"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14124'}
+  - {name: "Code", url: 'https://github.com/Minhchuyentoancbn/MoE_PromptCL'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Exploiting the power of pre-trained models, prompt-based approaches stand out
 compared to other continual learning solutions in effectively preventing

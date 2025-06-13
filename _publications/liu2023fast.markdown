@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12018"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12018'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'GPT', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Energy-based models (EBMs) have gained popularity for controlled text
 generation due to their high applicability to a wide range of constraints.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025bring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05464"}
-tags: ['Training Techniques', 'Multimodal Models', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05464'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Training Techniques', 'Merging']
 ---
 Vision-Language Models (VLMs) combine visual perception with the general
 capabilities, such as reasoning, of Large Language Models (LLMs). However, the

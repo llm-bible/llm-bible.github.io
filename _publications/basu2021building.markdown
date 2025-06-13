@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: basu2021building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.05744"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.05744'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This project attempts to build a Question- Answering system in the News
 Domain, where Passages will be News articles, and anyone can ask a Question

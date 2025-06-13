@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peixoto2024effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12405"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12405'}
+tags: ['Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Model Architecture']
 ---
 Background: Manual testing is vital for detecting issues missed by automated
 tests, but specifying accurate verifications is challenging. Aims: This study

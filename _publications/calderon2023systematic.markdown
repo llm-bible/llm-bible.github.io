@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: calderon2023systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02031"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02031'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Modern Natural Language Generation (NLG) models come with massive
 computational and storage requirements. In this work, we study the potential of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: niyogi2024paramanu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14395"}
-  - {name: "Code", url: "https://huggingface.co/gyanai/paramanu-ganita-208M-hf"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14395'}
+  - {name: "Code", url: 'https://huggingface.co/gyanai/paramanu-ganita-208M-hf'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we study whether domain specific pretraining of small
 generative language models (SLM) from scratch with domain specialized tokenizer

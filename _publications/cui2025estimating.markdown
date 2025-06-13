@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025estimating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13464"}
-tags: ['Training Techniques', 'Pre-Training', 'Multimodal Models', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13464'}
+tags: ['Pre-Training', 'Multimodal Models', 'Training Techniques', 'Tools']
 ---
 Commonsense plausibility estimation is critical for evaluating language
 models (LMs), yet existing generative approaches--reliant on likelihoods or

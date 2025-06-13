@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mavi2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14435"}
-tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14435'}
+tags: ['Interpretability and Explainability', 'RAG', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 Applying existing question answering (QA) systems to specialized domains like
 law and finance presents challenges that necessitate domain expertise. Although

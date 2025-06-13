@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chemmengath2021topic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.07377"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.07377'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'BERT', 'GPT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Weakly-supervised table question-answering(TableQA) models have achieved
 state-of-art performance by using pre-trained BERT transformer to jointly

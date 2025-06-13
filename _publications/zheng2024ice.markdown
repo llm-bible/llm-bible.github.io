@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024ice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02072"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02072'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The emergence of Large Language Models (LLMs) such as ChatGPT and LLaMA
 encounter limitations in domain-specific tasks, with these models often lacking

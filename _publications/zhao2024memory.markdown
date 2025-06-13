@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03507"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03507'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Training Large Language Models (LLMs) presents significant memory challenges,
 predominantly due to the growing size of weights and optimizer states. Common

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alabbasi2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02617"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'ACL', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02617'}
+tags: ['ACL', 'RAG', 'Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The telecommunications industry's rapid evolution demands intelligent systems
 capable of managing complex networks and adapting to emerging technologies.

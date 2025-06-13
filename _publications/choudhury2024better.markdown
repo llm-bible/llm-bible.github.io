@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: choudhury2024better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05434"}
-  - {name: "Code", url: "https://leap-llm.github.io"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05434'}
+  - {name: "Code", url: 'https://leap-llm.github.io'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While large language models (LLMs) show impressive decision-making abilities,
 current methods lack a mechanism for automatic self-improvement from errors

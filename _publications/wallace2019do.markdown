@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: wallace2019do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.07940"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.07940'}
 tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 The ability to understand and work with numbers (numeracy) is critical for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024int
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16997"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16997'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Quantization']
 ---
 As the foundation of large language models (LLMs), self-attention module
 faces the challenge of quadratic time and memory complexity with respect to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hong2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.15868"}
-tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.15868'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Large-scale pretrained transformers have created milestones in text (GPT-3)
 and text-to-image (DALL-E and CogView) generation. Its application to video

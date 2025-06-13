@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: benmalek2019keeping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.05275"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.05275'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 We introduce the Scratchpad Mechanism, a novel addition to the

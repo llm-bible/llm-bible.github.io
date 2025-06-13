@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: ye2025mas
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03686"}
-  - {name: "Code", url: "https://github.com/rui-ye/MAS-GPT"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03686'}
+  - {name: "Code", url: 'https://github.com/rui-ye/MAS-GPT'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture']
 ---
 LLM-based multi-agent systems (MAS) have shown significant potential in
 tackling diverse tasks. However, to design effective MAS, existing approaches

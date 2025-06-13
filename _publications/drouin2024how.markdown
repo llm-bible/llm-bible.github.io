@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: drouin2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07718"}
-tags: ['Fine-Tuning', 'Agentic', 'Multimodal Models', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07718'}
+tags: ['Fine-Tuning', 'Multimodal Models', 'Agentic', 'Tools']
 ---
 We study the use of large language model-based agents for interacting with
 software via web browsers. Unlike prior work, we focus on measuring the agents'

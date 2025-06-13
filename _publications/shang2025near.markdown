@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: shang2025near
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20082"}
-  - {name: "Code", url: "https://github.com/microsoft/LongRoPE"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20082'}
+  - {name: "Code", url: 'https://github.com/microsoft/LongRoPE'}
+tags: ['Has Code', 'Training Techniques']
 ---
 LongRoPE2 is a novel approach that extends the effective context window of
 pre-trained large language models (LLMs) to the target length, while preserving

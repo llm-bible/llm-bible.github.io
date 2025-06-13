@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: soudani2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01432"}
-  - {name: "Code", url: "https://github.com/informagi/RAGvsFT"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01432'}
+  - {name: "Code", url: 'https://github.com/informagi/RAGvsFT'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language Models (LMs) memorize a vast amount of factual knowledge, exhibiting
 strong performance across diverse tasks and domains. However, it has been

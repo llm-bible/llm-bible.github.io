@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: spurlock2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.03605"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.03605'}
+tags: ['Model Architecture', 'GPT', 'Prompting', 'RecSys', 'Ethics and Bias']
 ---
 Recommendation algorithms have been pivotal in handling the overwhelming
 volume of online content. However, these algorithms seldom consider direct user

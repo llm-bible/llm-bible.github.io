@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: maniparambil2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11661"}
-  - {name: "Code", url: "https://github.com/mayug/VDT-Adapter"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11661'}
+  - {name: "Code", url: 'https://github.com/mayug/VDT-Adapter'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Multimodal Models']
 ---
 Contrastive pretrained large Vision-Language Models (VLMs) like CLIP have
 revolutionized visual representation learning by providing good performance on

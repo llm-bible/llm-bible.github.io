@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chia2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04757"}
-  - {name: "Code", url: "https://github.com/declare-lab/instruct-eval"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04757'}
+  - {name: "Code", url: 'https://github.com/declare-lab/instruct-eval'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Instruction-tuned large language models have revolutionized natural language
 processing and have shown great potential in applications such as

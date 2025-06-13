@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19543"}
-  - {name: "Code", url: "https://github.com/2471023025/RALM_Survey"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19543'}
+  - {name: "Code", url: 'https://github.com/2471023025/RALM_Survey'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Applications', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have catalyzed significant advancements in
 Natural Language Processing (NLP), yet they encounter challenges such as

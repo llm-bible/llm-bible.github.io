@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024look
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03577"}
-  - {name: "Code", url: "https://github.com/1zhou-Wang/MemVR"}
-tags: ['Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03577'}
+  - {name: "Code", url: 'https://github.com/1zhou-Wang/MemVR'}
+tags: ['Has Code', 'Multimodal Models']
 ---
 Despite their impressive capabilities, multimodal large language models
 (MLLMs) are prone to hallucinations, i.e., the generated content that is

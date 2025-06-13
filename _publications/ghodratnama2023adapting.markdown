@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ghodratnama2023adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.12287"}
-tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.12287'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Applications']
 ---
 The advent of Large Language Models (LLMs) heralds a pivotal shift in online
 user interactions with information. Traditional Information Retrieval (IR)

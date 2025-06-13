@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024ola
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09585"}
-  - {name: "Code", url: "https://github.com/SHI-Labs/OLA-VLM"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09585'}
+  - {name: "Code", url: 'https://github.com/SHI-Labs/OLA-VLM'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The standard practice for developing contemporary MLLMs is to feed features
 from vision encoder(s) into the LLM and train with natural language

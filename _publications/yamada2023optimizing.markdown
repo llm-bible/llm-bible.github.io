@@ -6,8 +6,8 @@ conference: "Proceedings of Machine Translation Summit XIX Vol. 2 Users Track pa
 year: 2023
 bibkey: yamada2023optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01391"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01391'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper explores the influence of integrating the purpose of the
 translation and the target audience into prompts on the quality of translations

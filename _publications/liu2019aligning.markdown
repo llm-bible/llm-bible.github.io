@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: liu2019aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.06139"}
-  - {name: "Code", url: "https://github.com/fenglinliu98/MIA)"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.06139'}
+  - {name: "Code", url: 'https://github.com/fenglinliu98/MIA)'}
 tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In vision-and-language grounding problems, fine-grained representations of

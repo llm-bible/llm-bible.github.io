@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: espejel2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12477"}
-tags: ['Efficiency and Optimization', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12477'}
+tags: ['GPT', 'Efficiency and Optimization', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) have exhibited remarkable performance on various
 Natural Language Processing (NLP) tasks. However, there is a current hot debate

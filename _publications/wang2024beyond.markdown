@@ -6,8 +6,8 @@ conference: "LREC-COLING 2024"
 year: 2024
 bibkey: wang2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17256"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17256'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Out-of-domain (OOD) intent detection aims to examine whether the user's query
 falls outside the predefined domain of the system, which is crucial for the

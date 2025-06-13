@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yan2021el
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.04779"}
-tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.04779'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'GPT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Transformer model with multi-head attention requires caching intermediate
 results for efficient inference in generation tasks. However, cache brings new

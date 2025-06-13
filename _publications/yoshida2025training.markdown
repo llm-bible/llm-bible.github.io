@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yoshida2025training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12698"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12698'}
+tags: ['Attention Mechanism', 'Agentic', 'Few-Shot', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 To improve user engagement during conversations with dialogue systems, we
 must improve individual dialogue responses and dialogue impressions such as

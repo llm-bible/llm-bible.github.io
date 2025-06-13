@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10347"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10347'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformer and its variants are a powerful class of architectures for
 sequential recommendation, owing to their ability of capturing a user's dynamic

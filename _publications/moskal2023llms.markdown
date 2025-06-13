@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: moskal2023llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06936"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06936'}
+tags: ['Agentic', 'Security', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 In this paper, we explore the potential of Large Language Models (LLMs) to
 reason about threats, generate information about tools, and automate cyber

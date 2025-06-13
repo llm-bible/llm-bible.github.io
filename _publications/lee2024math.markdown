@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024math
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00864"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00864'}
 tags: ['Efficiency and Optimization']
 ---
 Multiple choice questions (MCQs) are a popular method for evaluating

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: long2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08385"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08385'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Reasoning and predicting human opinions with large language models (LLMs) is
 essential yet challenging. Current methods employ role-playing with personae

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024compound
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10163"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10163'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) demonstrate remarkable performance across
 various tasks, prompting researchers to develop diverse evaluation benchmarks.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03061"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03061'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Visual document understanding (VDU) is a challenging task that involves
 understanding documents across various modalities (text and image) and layouts

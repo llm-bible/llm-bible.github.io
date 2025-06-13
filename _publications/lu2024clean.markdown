@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024clean
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07030"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07030'}
 tags: ['Training Techniques']
 ---
 How to evaluate large language models (LLMs) cleanly has been established as

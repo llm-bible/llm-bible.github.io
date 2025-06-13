@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: atassi2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00344"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00344'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent music generation methods based on transformers have a context window

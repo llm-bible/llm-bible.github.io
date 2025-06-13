@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02907"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02907'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have already revolutionized code generation,
 after being pretrained on publicly available code data. However, while various

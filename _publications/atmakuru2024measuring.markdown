@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: atmakuru2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04197"}
-  - {name: "Code", url: "https://github.com/anirudhlakkaraju/cs4_benchmark"}
-tags: ['Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04197'}
+  - {name: "Code", url: 'https://github.com/anirudhlakkaraju/cs4_benchmark'}
+tags: ['Prompting', 'Has Code', 'Training Techniques']
 ---
 Evaluating the creativity of large language models (LLMs) in story writing is
 difficult because LLM-generated stories could seemingly look creative but be

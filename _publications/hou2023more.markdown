@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hou2023more
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04926"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04926'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The advent of large language models is reshaping computing education. Recent
 research has demonstrated that these models can produce better explanations

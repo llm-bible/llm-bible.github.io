@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rojas2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08955"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08955'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Cross-lingual in-context learning (XICL) has emerged as a transformative
 paradigm for leveraging large language models (LLMs) to tackle multilingual

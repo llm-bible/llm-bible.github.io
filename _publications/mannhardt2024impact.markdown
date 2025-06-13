@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mannhardt2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09637"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09637'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have immense potential to make information more

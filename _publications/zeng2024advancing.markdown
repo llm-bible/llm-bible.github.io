@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20174"}
-  - {name: "Code", url: "https://github.com/zengxingchen/ChartQA-MLLM"}
-tags: ['Applications', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20174'}
+  - {name: "Code", url: 'https://github.com/zengxingchen/ChartQA-MLLM'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Merging', 'Multimodal Models']
 ---
 Emerging multimodal large language models (MLLMs) exhibit great potential for
 chart question answering (CQA). Recent efforts primarily focus on scaling up

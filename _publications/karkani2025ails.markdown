@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: karkani2025ails
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02442"}
-tags: ['RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02442'}
+tags: ['RAG', 'Prompting', 'Training Techniques']
 ---
 Multilingual hallucination detection stands as an underexplored challenge,
 which the Mu-SHROOM shared task seeks to address. In this work, we propose an

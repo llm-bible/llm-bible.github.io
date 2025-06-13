@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pu2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08922"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08922'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 With the rapid development of artificial intelligence (AI), large language
 models (LLMs) such as GPT-4 have garnered significant attention in the

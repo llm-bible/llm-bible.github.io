@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ouyang2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17691"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17691'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Scaling Laws', 'Model Architecture', 'Pre-Training']
 ---
 We reveal that low-bit quantization favors undertrained large language models
 (LLMs) by observing that models with larger sizes or fewer training tokens

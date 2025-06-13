@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03051"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03051'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI']
 ---
 Accurate medical symptom coding from unstructured clinical text, such as
 vaccine safety reports, is a critical task with applications in

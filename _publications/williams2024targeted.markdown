@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: williams2024targeted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02306"}
-tags: ['Responsible AI', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02306'}
+tags: ['Reinforcement Learning', 'RAG', 'Responsible AI', 'Training Techniques']
 ---
 As LLMs become more widely deployed, there is increasing interest in directly
 optimizing for feedback from end users (e.g. thumbs up) in addition to feedback

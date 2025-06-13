@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mollick2023assigning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10052"}
-tags: ['Tools', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10052'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Tools']
 ---
 This paper examines the transformative role of Large Language Models (LLMs)
 in education and their potential as learning tools, despite their inherent

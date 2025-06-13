@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: vafa2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01382"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01382'}
 tags: ['GPT', 'Model Architecture']
 ---
 What makes large language models (LLMs) impressive is also what makes them

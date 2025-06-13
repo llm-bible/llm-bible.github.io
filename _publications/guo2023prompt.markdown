@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17653"}
-  - {name: "Code", url: "https://github.com/THUNLP-MT/PGRA"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17653'}
+  - {name: "Code", url: 'https://github.com/THUNLP-MT/PGRA'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval-augmented methods have received increasing attention to support
 downstream tasks by leveraging useful information from external resources.

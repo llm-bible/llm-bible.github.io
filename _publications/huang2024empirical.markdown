@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14047"}
-  - {name: "Code", url: "https://github.com/Macaronlin/LLaMA3-Quantization"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14047'}
+  - {name: "Code", url: 'https://github.com/Macaronlin/LLaMA3-Quantization'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The LLaMA family, a collection of foundation language models ranging from 7B
 to 65B parameters, has become one of the most powerful open-source large

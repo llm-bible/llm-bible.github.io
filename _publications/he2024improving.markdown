@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07076"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07076'}
 tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Existing large vision-language models (LVLMs) are largely limited to

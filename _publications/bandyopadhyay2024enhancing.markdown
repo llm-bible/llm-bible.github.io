@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bandyopadhyay2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06556"}
-tags: ['Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06556'}
+tags: ['Prompting', 'Multimodal Models']
 ---
 Generating presentation slides from a long document with multimodal elements
 such as text and images is an important task. This is time consuming and needs

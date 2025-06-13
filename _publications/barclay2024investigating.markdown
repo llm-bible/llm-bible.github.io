@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barclay2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11896"}
-tags: ['Applications', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11896'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Tools']
 ---
 Implicit gender bias in Large Language Models (LLMs) is a well-documented
 problem, and implications of gender introduced into automatic translations can

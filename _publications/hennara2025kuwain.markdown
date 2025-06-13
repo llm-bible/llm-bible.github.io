@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: hennara2025kuwain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15120"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15120'}
 tags: ['RAG', 'Training Techniques']
 ---
 Enhancing existing models with new knowledge is a crucial aspect of AI

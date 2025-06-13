@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yin2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18153"}
-tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18153'}
+tags: ['Prompting', 'GPT', 'In-Context Learning', 'Model Architecture']
 ---
 Large language models (LLMs) have a wealth of knowledge that allows them to
 excel in various Natural Language Processing (NLP) tasks. Current research

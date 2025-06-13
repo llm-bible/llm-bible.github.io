@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024behavioral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15256"}
-  - {name: "Code", url: "https://github.com/mydcxiao/vlm_behavioral_fin"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15256'}
+  - {name: "Code", url: 'https://github.com/mydcxiao/vlm_behavioral_fin'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Ethics and Bias']
 ---
 Large Vision-Language Models (LVLMs) evolve rapidly as Large Language Models
 (LLMs) was equipped with vision modules to create more human-like models.

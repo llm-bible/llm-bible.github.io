@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023synergized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.17061"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.17061'}
+tags: ['Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 In this paper, we introduce SCALE, a collaborative framework that connects
 compact Specialized Translation Models (STMs) and general-purpose Large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mao2024fit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14374"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14374'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Due to the extraordinarily large number of parameters, fine-tuning Large
 Language Models (LLMs) to update long-tail or out-of-date knowledge is

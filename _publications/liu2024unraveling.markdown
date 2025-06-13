@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09047"}
-tags: ['Responsible AI', 'Training Techniques', 'Multimodal Models', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09047'}
+tags: ['Multimodal Models', 'Responsible AI', 'Training Techniques', 'Tools']
 ---
 The safety alignment ability of Vision-Language Models (VLMs) is prone to be
 degraded by the integration of the vision module compared to its LLM backbone.

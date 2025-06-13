@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: vatsal2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18682"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18682'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) have shown remarkable performance on many tasks

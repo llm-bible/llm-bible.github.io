@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12532"}
-tags: ['RAG', 'Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12532'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools']
 ---
 Large Language Model (LLM)-driven interactive systems currently show
 potential promise in healthcare domains. Despite their remarkable capabilities,

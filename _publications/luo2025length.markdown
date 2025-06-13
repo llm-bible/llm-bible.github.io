@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025length
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12570"}
-  - {name: "Code", url: "https://github.com/StarDewXXX/O1-Pruner"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12570'}
+  - {name: "Code", url: 'https://github.com/StarDewXXX/O1-Pruner'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, long-thought reasoning LLMs, such as OpenAI's O1, adopt extended
 reasoning processes similar to how humans ponder over complex problems. This

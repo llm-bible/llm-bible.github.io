@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fazili2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10582"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10582'}
 tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) are very proficient text generators. We leverage

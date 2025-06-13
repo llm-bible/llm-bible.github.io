@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: papicchio2025reinforce
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15077"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15077'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown impressive capabilities in
 transforming natural language questions about relational databases into SQL

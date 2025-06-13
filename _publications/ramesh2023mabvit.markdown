@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ramesh2023mabvit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01324"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01324'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent studies have demonstrated the effectiveness of Gated Linear Units
 (GLU) in enhancing transformer models, particularly in Large Language Models

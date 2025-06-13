@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ayoobi2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14285"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14285'}
 tags: ['Security']
 ---
 While large language models (LLMs) exhibit significant utility across various

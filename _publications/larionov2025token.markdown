@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: larionov2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02756"}
-  - {name: "Code", url: "https://github.com/NL2G/batchgemba"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02756'}
+  - {name: "Code", url: 'https://github.com/NL2G/batchgemba'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Model (LLM)-based Natural Language
 Generation evaluation have largely focused on single-example prompting,

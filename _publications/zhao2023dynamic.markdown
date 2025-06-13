@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00385"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00385'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is a new paradigm for natural language processing

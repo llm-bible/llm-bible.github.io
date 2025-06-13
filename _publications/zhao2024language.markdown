@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08598"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08598'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 As Large Language Models (LLMs) continue to evolve, evaluating them remains a
 persistent challenge. Many recent evaluations use LLMs as judges to score

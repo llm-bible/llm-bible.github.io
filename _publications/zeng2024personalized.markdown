@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11736"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11736'}
+tags: ['Reinforcement Learning', 'Model Architecture', 'Pretraining Methods']
 ---
 Existing work on large language model (LLM) personalization assigned
 different responding roles to LLM, but overlooked the diversity of questioners.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024relayattention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14808"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14808'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting']
 ---
 A practical large language model (LLM) service may involve a long system
 prompt, which specifies the instructions, examples, and knowledge documents of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gani2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10640"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10640'}
 tags: ['RAG', 'Prompting', 'Merging']
 ---
 Diffusion-based generative models have significantly advanced text-to-image

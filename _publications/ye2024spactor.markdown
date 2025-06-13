@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024spactor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13160"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13160'}
 tags: ['Training Techniques', 'Pre-Training', 'Model Architecture']
 ---
 Pre-training large language models is known to be extremely resource

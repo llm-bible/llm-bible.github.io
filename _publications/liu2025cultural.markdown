@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025cultural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02953"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02953'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Adapting large language models (LLMs) to diverse cultural values is a
 challenging task, as existing LLMs often reflect the values of specific groups

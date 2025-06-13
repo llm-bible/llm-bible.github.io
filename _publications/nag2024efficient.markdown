@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nag2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10244"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10244'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 Open-source Large Language models (OsLLMs) propel the democratization of
 natural language research by giving the flexibility to augment or update model

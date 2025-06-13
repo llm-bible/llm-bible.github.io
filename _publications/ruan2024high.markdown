@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ruan2024high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15803"}
-  - {name: "Code", url: "https://github.com/mlc-ai/web-llm"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15803'}
+  - {name: "Code", url: 'https://github.com/mlc-ai/web-llm'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Advancements in large language models (LLMs) have unlocked remarkable
 capabilities. While deploying these models typically requires server-grade GPUs

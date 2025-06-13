@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: nguyen2018phrase
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1810.03444"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1810.03444'}
+tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Most state-of-the-art neural machine translation systems, despite being
 different in architectural skeletons (e.g. recurrence, convolutional), share an

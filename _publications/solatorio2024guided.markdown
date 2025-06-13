@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: solatorio2024guided
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16829"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16829'}
+tags: ['RAG', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Embedding models are integral to AI applications like semantic search,
 personalized recommendations, and retrieval augmented generation for LLMs,

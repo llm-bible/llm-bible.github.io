@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024interweaving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17383"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17383'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Parameter-efficient fine-tuning (PEFT) methods optimize large language models
 (LLMs) by modifying or introducing a small number of parameters to enhance

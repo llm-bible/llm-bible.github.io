@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhu2021instance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.03457"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.03457'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 With sequentially stacked self-attention, (optional) encoder-decoder
 attention, and feed-forward layers, Transformer achieves big success in natural

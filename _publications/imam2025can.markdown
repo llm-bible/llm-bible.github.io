@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: imam2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10674"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10674'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) have achieved significant
 advancements in tasks like Visual Question Answering (VQA) by leveraging

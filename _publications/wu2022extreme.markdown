@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022extreme
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.01859"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.01859'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Quantization', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Extreme compression, particularly ultra-low bit precision (binary/ternary)
 quantization, has been proposed to fit large NLP models on resource-constraint

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shah2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16633"}
-tags: ['BERT', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16633'}
+tags: ['GPT', 'BERT', 'Model Architecture']
 ---
 Recently large language models (LLMs) like ChatGPT have shown impressive
 performance on many natural language processing tasks with zero-shot. In this

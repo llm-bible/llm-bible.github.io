@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020know
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.03770"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.03770'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Deep pre-trained Transformer models have achieved state-of-the-art results
 over a variety of natural language processing (NLP) tasks. By learning rich

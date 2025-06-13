@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07706"}
-tags: ['Fine-Tuning', 'Agentic', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07706'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Fine-tuning on agent-environment interaction trajectory data holds
 significant promise for surfacing generalized agent capabilities in open-source

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sel2023algorithm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10379"}
-  - {name: "Code", url: "https://algorithm-of-thoughts.github.io"}
-tags: ['Fine-Tuning', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10379'}
+  - {name: "Code", url: 'https://algorithm-of-thoughts.github.io'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Has Code']
 ---
 Current literature, aiming to surpass the "Chain-of-Thought" approach, often
 resorts to external modi operandi involving halting, modifying, and then

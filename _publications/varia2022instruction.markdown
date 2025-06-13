@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: varia2022instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.06629"}
-tags: ['Few-Shot', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.06629'}
+tags: ['Few-Shot', 'Prompting', 'Tools']
 ---
 Aspect-based Sentiment Analysis (ABSA) is a fine-grained sentiment analysis
 task which involves four elements from user-generated texts: aspect term,

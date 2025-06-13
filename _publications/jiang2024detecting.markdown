@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03147"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03147'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have gained prominence in various applications,
 including security. This paper explores the utility of LLMs in scam detection,

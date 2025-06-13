@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15074"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Security', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15074'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Distillation', 'Merging', 'Applications', 'Fine-Tuning', 'Multimodal Models']
 ---
 Multimodal Large Language Model (MLLM) has recently garnered attention as a
 prominent research focus. By harnessing powerful LLM, it facilitates a

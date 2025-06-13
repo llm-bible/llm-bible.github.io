@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: tiedemann2018measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.06826"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.06826'}
 tags: ['Reinforcement Learning']
 ---
 In this paper, we investigate whether multilingual neural translation models

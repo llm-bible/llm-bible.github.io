@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kotonya2023little
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00686"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00686'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 This paper describes and analyzes our participation in the 2023 Eval4NLP
 shared task, which focuses on assessing the effectiveness of prompt-based

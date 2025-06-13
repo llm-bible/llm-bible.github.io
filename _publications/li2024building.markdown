@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16229"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16229'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 Pretrained language models have shown strong effectiveness in code-related

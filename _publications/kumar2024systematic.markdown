@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumar2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20788"}
-tags: ['Security', 'Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20788'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Security', 'Tools']
 ---
 Prompt optimization is essential for effective utilization of large language
 models (LLMs) across diverse tasks. While existing optimization methods are

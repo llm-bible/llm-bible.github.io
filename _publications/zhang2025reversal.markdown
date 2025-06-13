@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025reversal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18435"}
-tags: ['Training Techniques', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18435'}
+tags: ['Ethics and Bias', 'GPT', 'Training Techniques', 'Pretraining Methods']
 ---
 Language models usually use left-to-right (L2R) autoregressive factorization.
 However, L2R factorization may not always be the best inductive bias.

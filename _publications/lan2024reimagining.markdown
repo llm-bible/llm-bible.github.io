@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lan2024reimagining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09855"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09855'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) have shown exceptional capabilities
 in vision-language tasks; however, effectively integrating image segmentation

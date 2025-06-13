@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025taking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07002"}
-tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07002'}
+tags: ['Reinforcement Learning', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Multimodal large language models (MLLMs), built on large-scale pre-trained
 vision towers and language models, have shown great capabilities in multimodal

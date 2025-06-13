@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: quevedo2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19648"}
-  - {name: "Code", url: "https://github.com/Baylor-AI/HalluDetect"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19648'}
+  - {name: "Code", url: 'https://github.com/Baylor-AI/HalluDetect'}
 tags: ['Has Code', 'Applications']
 ---
 Concerns regarding the propensity of Large Language Models (LLMs) to produce

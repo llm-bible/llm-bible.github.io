@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01714"}
-tags: ['RAG', 'Agentic', 'Agent', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01714'}
+tags: ['RAG', 'Agentic', 'Tools', 'Agent']
 ---
 The rise of Agent AI and Large Language Model-powered Multi-Agent Systems
 (LLM-MAS) has underscored the need for responsible and dependable system

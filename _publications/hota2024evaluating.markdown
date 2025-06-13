@@ -6,8 +6,8 @@ conference: "ACM Transactions on Intelligent Systems and Technology 2024"
 year: 2024
 bibkey: hota2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01133"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01133'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Traditional human-in-the-loop-based annotation for time-series data like
 inertial data often requires access to alternate modalities like video or audio

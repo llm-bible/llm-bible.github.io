@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hsieh2024found
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16008"}
-tags: ['RAG', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16008'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'RAG', 'Model Architecture']
 ---
 Large language models (LLMs), even when specifically trained to process long
 input contexts, struggle to capture relevant information located in the middle

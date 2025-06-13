@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lamprou2025customizable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05541"}
-tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05541'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Tools']
 ---
 The rapid advancement of Artificial Intelligence has resulted in the advent
 of Large Language Models (LLMs) with the capacity to produce text that closely

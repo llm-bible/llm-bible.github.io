@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: giovannotti2024calibrated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01122"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01122'}
 tags: ['Interpretability and Explainability', 'Applications']
 ---
 Quantifying the uncertainty of predictions made by large language models

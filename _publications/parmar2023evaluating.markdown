@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: parmar2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09564"}
-  - {name: "Code", url: "https://github.com/Mihir3009/LongBoX"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09564'}
+  - {name: "Code", url: 'https://github.com/Mihir3009/LongBoX'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Many large language models (LLMs) for medicine have largely been evaluated on
 short texts, and their ability to handle longer sequences such as a complete

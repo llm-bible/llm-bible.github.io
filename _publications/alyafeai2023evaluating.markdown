@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: alyafeai2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16322"}
-  - {name: "Code", url: "https://github.com/ARBML/Taqyim"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16322'}
+  - {name: "Code", url: 'https://github.com/ARBML/Taqyim'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated impressive performance on
 various downstream tasks without requiring fine-tuning, including ChatGPT, a

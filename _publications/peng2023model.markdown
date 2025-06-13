@@ -6,8 +6,8 @@ conference: "Journal of Biomedical Informatics. Volume 153 May 2024 104630"
 year: 2023
 bibkey: peng2023model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06239"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06239'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Objective To develop soft prompt-based learning algorithms for large language
 models (LLMs), examine the shape of prompts, prompt-tuning using

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: adarsh2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18574"}
-  - {name: "Code", url: "https://github.com/kumar-shridhar/SIKeD"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18574'}
+  - {name: "Code", url: 'https://github.com/kumar-shridhar/SIKeD'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) can transfer their reasoning skills to smaller
 models by teaching them to generate the intermediate reasoning process required

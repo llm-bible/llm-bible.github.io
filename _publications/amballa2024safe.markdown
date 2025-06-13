@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amballa2024safe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00074"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00074'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 complex reasoning and text generation. However, these models can inadvertently

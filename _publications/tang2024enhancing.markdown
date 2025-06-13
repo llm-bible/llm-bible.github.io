@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12859"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12859'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have a quadratic scaling of computational complexity with input
 size, which limits the input context window size of large language models

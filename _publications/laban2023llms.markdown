@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: laban2023llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14540"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14540'}
 tags: ['GPT', 'Model Architecture']
 ---
 With the recent appearance of LLMs in practical settings, having methods that

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: leviathan2022fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.17192"}
-tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.17192'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Inference from large autoregressive models like Transformers is slow -
 decoding K tokens takes K serial runs of the model. In this work we introduce

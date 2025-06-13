@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: verma2025hidden
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02708"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02708'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Alignment tuning has enabled large language models to excel in reasoning,
 instruction-following, and minimizing harmful generations. However, despite

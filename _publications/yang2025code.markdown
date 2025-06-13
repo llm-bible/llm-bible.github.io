@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19411"}
-tags: ['Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19411'}
+tags: ['Reinforcement Learning', 'Survey Paper']
 ---
 In large language models (LLMs), code and reasoning reinforce each other:
 code offers an abstract, modular, and logic-driven structure that supports

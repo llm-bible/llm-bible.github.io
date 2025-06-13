@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024confidence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19513"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19513'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) can correct their self-generated responses, but
 a decline in accuracy after self-correction is also witnessed. To have a deeper

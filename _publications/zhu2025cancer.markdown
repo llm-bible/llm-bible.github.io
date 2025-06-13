@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025cancer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11373"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11373'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Cancer patients are increasingly turning to large language models (LLMs) as a
 new form of internet search for medical information, making it critical to

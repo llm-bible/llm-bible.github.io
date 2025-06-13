@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thorat2024which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14875"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14875'}
+tags: ['Training Techniques', 'Tools', 'Model Architecture']
 ---
 As LLMs increase in accessibility, LLM-generated texts have proliferated
 across several fields, such as scientific, academic, and creative writing.

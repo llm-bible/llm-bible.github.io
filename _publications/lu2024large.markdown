@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02120"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02120'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs) have shown impressive capabilities in adapting

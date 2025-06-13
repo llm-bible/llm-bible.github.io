@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: mehrjardi2019self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.05246"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.05246'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Self-attentional models are a new paradigm for sequence modelling tasks which
 differ from common sequence modelling methods, such as recurrence-based and

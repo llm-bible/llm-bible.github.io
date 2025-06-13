@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: yuan2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.14031"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.14031'}
 tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning', 'Tools']
 ---
 Most sequential recommendation models capture the features of consecutive

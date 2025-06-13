@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.24225"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.24225'}
 tags: ['Training Techniques', 'Prompting', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable progress across domains, yet their ability to perform inductive reasoning - inferring latent rules from sparse examples - remains limited. It is often assumed that chain-of-thought (CoT) prompting, as used in Large Reasoning Models (LRMs), enhances such reasoning. We investigate this assumption with creating four controlled, diagnostic game-based tasks - chess, Texas Hold'em, dice games, and blackjack - with hidden human-defined rules. We find that CoT reasoning can degrade inductive performance, with LRMs often underperforming their non-reasoning counterparts.

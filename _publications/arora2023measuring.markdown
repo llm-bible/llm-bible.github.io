@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: arora2023measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04927"}
-  - {name: "Code", url: "https://github.com/HazyResearch/zoology"}
-tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04927'}
+  - {name: "Code", url: 'https://github.com/HazyResearch/zoology'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Attention-free language models that combine gating and convolutions are
 growing in popularity due to their efficiency and increasingly competitive

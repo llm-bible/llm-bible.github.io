@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: koncelkedziorski2023quantitative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06602"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06602'}
 tags: ['Uncategorized']
 ---
 Answering questions within business and finance requires reasoning,

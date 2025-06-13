@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tikhonov2023post
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02049"}
-tags: ['Tools', 'Bias Mitigation', 'Ethics and Bias', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02049'}
+tags: ['Ethics and Bias', 'Fairness', 'Tools', 'Bias Mitigation']
 ---
 In the rapidly evolving landscape of Large Language Models (LLMs),
 introduction of well-defined and standardized evaluation methodologies remains

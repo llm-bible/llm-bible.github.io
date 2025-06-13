@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kwon2023reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.00001"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.00001'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Reward design in reinforcement learning (RL) is challenging since specifying
 human notions of desired behavior may be difficult via reward functions or

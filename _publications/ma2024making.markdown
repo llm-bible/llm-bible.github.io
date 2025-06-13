@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15713"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15713'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Continual Few-shot Relation Extraction (CFRE) is a practical problem that
 requires the model to continuously learn novel relations while avoiding

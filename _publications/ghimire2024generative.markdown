@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghimire2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15586"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15586'}
 tags: ['Tools', 'Survey Paper']
 ---
 The rapid advancement of artificial intelligence (AI) and the expanding

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023trajectory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07863"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07863'}
+tags: ['Agentic', 'RAG', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Building agents with large language models (LLMs) for computer control is a
 burgeoning research area, where the agent receives computer states and performs

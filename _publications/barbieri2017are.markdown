@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: barbieri2017are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1702.07285"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1702.07285'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 Emojis are ideograms which are naturally combined with plain text to visually
 complement or condense the meaning of a message. Despite being widely used in

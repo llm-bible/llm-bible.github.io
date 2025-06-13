@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: baeumel2025lookahead
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19981"}
-tags: ['Tokenization', 'GPT', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19981'}
+tags: ['Reinforcement Learning', 'Tokenization', 'GPT', 'Pretraining Methods']
 ---
 Autoregressive large language models (LLMs) exhibit impressive performance
 across various tasks but struggle with simple arithmetic, such as addition of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gemmateam2025gemma
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19786"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19786'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 We introduce Gemma 3, a multimodal addition to the Gemma family of
 lightweight open models, ranging in scale from 1 to 27 billion parameters. This

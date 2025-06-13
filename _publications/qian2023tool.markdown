@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qian2023tool
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.14318v3"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.14318v3'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Large Language Models (LLMs) have made significant progress in utilizing
 tools, but their ability is limited by API availability and the instability of

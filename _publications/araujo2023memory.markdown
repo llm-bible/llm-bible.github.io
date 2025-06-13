@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: araujo2023memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07565"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07565'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Existing question answering methods often assume that the input content
 (e.g., documents or videos) is always accessible to solve the task.

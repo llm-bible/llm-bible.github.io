@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: suozzi2025developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09481"}
-tags: ['Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09481'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Training Techniques', 'Tools']
 ---
 This paper presents BAMBI (BAby language Models Boostrapped for Italian), a
 series of Baby Language Models (BabyLMs) trained on data that mimic the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11538"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11538'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Tools', 'Prompting']
 ---
 In the rapidly evolving landscape of artificial intelligence, ChatGPT has
 been widely used in various applications. The new feature - customization of

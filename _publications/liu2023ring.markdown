@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023ring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01889"}
-tags: ['Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01889'}
+tags: ['Attention Mechanism', 'Agentic', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have emerged as the architecture of choice for many
 state-of-the-art AI models, showcasing exceptional performance across a wide

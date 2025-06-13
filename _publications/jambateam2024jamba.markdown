@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jambateam2024jamba
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12570"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12570'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present Jamba-1.5, new instruction-tuned large language models based on
 our Jamba architecture. Jamba is a hybrid Transformer-Mamba mixture of experts

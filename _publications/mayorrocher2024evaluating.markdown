@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mayorrocher2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15334"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15334'}
 tags: ['RAG']
 ---
 Large Language Models (LLMs) have been profusely evaluated on their ability

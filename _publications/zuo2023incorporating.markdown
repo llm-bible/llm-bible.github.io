@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zuo2023incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17133"}
-  - {name: "Code", url: "https://github.com/libeineu/MMT-VQA"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17133'}
+  - {name: "Code", url: 'https://github.com/libeineu/MMT-VQA'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This paper presents an in-depth study of multimodal machine translation
 (MMT), examining the prevailing understanding that MMT systems exhibit

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024calibrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13904"}
-tags: ['Fine-Tuning', 'Scaling Laws', 'Interpretability and Explainability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13904'}
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Scaling Laws']
 ---
 Accurately gauging the confidence level of Large Language Models' (LLMs)
 predictions is pivotal for their reliable application. However, LLMs are often

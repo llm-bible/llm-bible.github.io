@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00412"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00412'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) demonstrate promising capabilities in solving
 simple scientific problems but, even with domain-specific fine-tuning, often

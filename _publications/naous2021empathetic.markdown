@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: naous2021empathetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.04353"}
-tags: ['Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.04353'}
+tags: ['Agentic', 'Transformer', 'RAG', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Enabling empathetic behavior in Arabic dialogue agents is an important aspect
 of building human-like conversational models. While Arabic Natural Language

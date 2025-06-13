@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024precise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11745"}
-  - {name: "Code", url: "https://github.com/leezythu/FocusLLM"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11745'}
+  - {name: "Code", url: 'https://github.com/leezythu/FocusLLM'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Empowering LLMs with the ability to precisely understand long contexts is
 crucial for many downstream applications. However, handling long contexts with

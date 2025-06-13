@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: reganova2024testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14465"}
-tags: ['RAG', 'Agentic', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14465'}
+tags: ['RAG', 'GPT', 'Agentic', 'Model Architecture']
 ---
 Large Language Models (LLMs) have gained significant popularity in recent
 years for their ability to answer questions in various fields. However, these

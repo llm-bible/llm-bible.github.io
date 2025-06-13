@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04568"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04568'}
+tags: ['RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Despite the impressive performance on information-seeking tasks, large
 language models (LLMs) still struggle with hallucinations. Attributed LLMs,

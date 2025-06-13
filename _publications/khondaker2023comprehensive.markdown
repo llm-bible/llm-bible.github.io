@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: khondaker2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14976"}
-tags: ['Survey Paper', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14976'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 ChatGPT's emergence heralds a transformative phase in NLP, particularly
 demonstrated through its excellent performance on many English benchmarks.

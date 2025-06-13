@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sagirova2023uncertainty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18151"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18151'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have become the gold standard for many natural language
 processing tasks and, in particular, for multi-hop question answering (MHQA).

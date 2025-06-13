@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: biswas2025mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09532"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09532'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Recent advances in generative AI have precipitated a proliferation of novel
 writing assistants. These systems typically rely on multilingual large language

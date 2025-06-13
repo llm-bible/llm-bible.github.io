@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: youssef2025editing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02958"}
-tags: ['Responsible AI', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02958'}
+tags: ['Reinforcement Learning', 'Responsible AI', 'Applications']
 ---
 Large Language Models (LLMs) contain large amounts of facts about the world.
 These facts can become outdated over time, which has led to the development of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024scenario
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01262"}
-  - {name: "Code", url: "https://github.com/OpenBMB/RAGEval"}
-tags: ['Responsible AI', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01262'}
+  - {name: "Code", url: 'https://github.com/OpenBMB/RAGEval'}
+tags: ['Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Retrieval-Augmented Generation (RAG) is a powerful approach that enables
 large language models (LLMs) to incorporate external knowledge. However,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: niu2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00142"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00142'}
 tags: ['RAG', 'Agentic', 'Applications']
 ---
 Accurate document retrieval is crucial for the success of retrieval-augmented

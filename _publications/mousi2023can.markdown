@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mousi2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13386"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13386'}
+tags: ['Fine-Tuning', 'Model Architecture', 'Tools', 'GPT']
 ---
 Work done to uncover the knowledge encoded within pre-trained language models
 rely on annotated corpora or human-in-the-loop methods. However, these

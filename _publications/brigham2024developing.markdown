@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: brigham2024developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13706"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13706'}
 tags: ['Prompting']
 ---
 Journalists are among the many users of large language models (LLMs). To

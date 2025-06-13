@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hwang2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15021"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15021'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large language models (LLMs) often struggle with processing extensive input
 contexts, which can lead to redundant, inaccurate, or incoherent summaries.

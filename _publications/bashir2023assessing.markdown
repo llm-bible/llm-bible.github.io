@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bashir2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06979"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06979'}
 tags: ['Interpretability and Explainability']
 ---
 Although the synthesis of programs encoding policies often carries the

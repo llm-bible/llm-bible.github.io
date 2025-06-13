@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: brach2025effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02650"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02650'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning', 'Pretraining Methods']
 ---
 The exponential growth of unstructured text data presents a fundamental
 challenge in modern data management and information retrieval. While Large

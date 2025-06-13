@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15120"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15120'}
+tags: ['ACL', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Contrastive language-image pre-training (CLIP) models have demonstrated
 considerable success across various vision-language tasks, such as

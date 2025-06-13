@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020train
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.11794"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.11794'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Since hardware resources are limited, the objective of training deep learning
 models is typically to maximize accuracy subject to the time and memory

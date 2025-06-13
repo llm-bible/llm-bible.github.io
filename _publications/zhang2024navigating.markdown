@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13560"}
-tags: ['GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'RecSys', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13560'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'GPT', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Conversational recommender systems (CRS) enable users to articulate their
 preferences and provide feedback through natural language. With the advent of

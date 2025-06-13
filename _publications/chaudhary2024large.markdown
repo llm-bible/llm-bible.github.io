@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chaudhary2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03813"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03813'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Large language models (LLMs) can reproduce a wide variety of rhetorical
 styles and generate text that expresses a broad spectrum of sentiments. This

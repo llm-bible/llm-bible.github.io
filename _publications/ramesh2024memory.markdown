@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramesh2024memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17296"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17296'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Training large language models (LLMs) for pretraining or adapting to new
 tasks and domains has become increasingly critical as their applications

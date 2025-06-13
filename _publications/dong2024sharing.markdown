@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024sharing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15079"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15079'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 The general capabilities of Large Language Models (LLM) highly rely on the
 composition and selection on extensive pretraining datasets, treated as

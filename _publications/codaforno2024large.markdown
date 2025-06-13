@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: codaforno2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18225"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18225'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have significantly advanced the field of
 artificial intelligence. Yet, evaluating them comprehensively remains

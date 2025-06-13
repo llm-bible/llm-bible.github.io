@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14165"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14165'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved remarkable success across various
 natural language processing (NLP) tasks. However, recent studies suggest that

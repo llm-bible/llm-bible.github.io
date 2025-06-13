@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lins2023comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03741"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03741'}
 tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Business processes are commonly represented by modelling languages, such as

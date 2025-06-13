@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: oozeer2025activation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04429"}
-tags: ['Responsible AI', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04429'}
+tags: ['Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 The study of representation universality in AI models reveals growing
 convergence across domains, modalities, and architectures. However, the

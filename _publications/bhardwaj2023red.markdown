@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhardwaj2023red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09662"}
-tags: ['Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09662'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Larger language models (LLMs) have taken the world by storm with their
 massive multi-tasking capabilities simply by optimizing over a next-word

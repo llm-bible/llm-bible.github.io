@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ren2023representation
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.15950v4"}
-  - {name: "Code", url: "https://github.com/HKUDS/RLMRec"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'RecSys', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.15950v4'}
+  - {name: "Code", url: 'https://github.com/HKUDS/RLMRec'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recommender systems have seen significant advancements with the influence of
 deep learning and graph neural networks, particularly in capturing complex

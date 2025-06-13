@@ -6,9 +6,9 @@ conference: "ICASSP 2025-2025 IEEE International Conference on Acoustics Speech 
 year: 2024
 bibkey: chochlakis2024larger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06173"}
-  - {name: "Code", url: "https://github.com/gchochla/cot-priors"}
-tags: ['Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06173'}
+  - {name: "Code", url: 'https://github.com/gchochla/cot-priors'}
+tags: ['Prompting', 'Has Code', 'In-Context Learning']
 ---
 In-Context Learning (ICL) in Large Language Models (LLM) has emerged as the
 dominant technique for performing natural language tasks, as it does not

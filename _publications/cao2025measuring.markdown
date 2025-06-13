@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: cao2025measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02177"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02177'}
 tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Multilingual understanding is crucial for the cross-cultural applicability of

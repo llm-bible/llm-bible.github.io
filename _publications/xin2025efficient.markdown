@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xin2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20047"}
-  - {name: "Code", url: "https://github.com/mirthAI/Med3DVLM"}
-tags: ['Multimodal Models', 'Has Code', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20047'}
+  - {name: "Code", url: 'https://github.com/mirthAI/Med3DVLM'}
+tags: ['Has Code', 'Multimodal Models', 'Applications', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) have shown promise in 2D medical image
 analysis, but extending them to 3D remains challenging due to the high

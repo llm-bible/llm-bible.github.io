@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04709"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04709'}
+tags: ['GPT', 'Model Architecture', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 In recent years, there have been significant breakthroughs in the field of
 natural language processing, particularly with the development of large

@@ -6,8 +6,8 @@ conference: "EMNLP 2021"
 year: 2021
 bibkey: lei2021when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.12459"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.12459'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models have become increasingly difficult to train because of
 the growing computation time and cost. In this work, we present SRU++, a

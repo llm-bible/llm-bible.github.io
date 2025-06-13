@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16670"}
-  - {name: "Code", url: "https://github.com/uclaml/COPS}{{https://github.com/uclaml/COPS"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16670'}
+  - {name: "Code", url: 'https://github.com/uclaml/COPS}{{https://github.com/uclaml/COPS'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Sequential reasoning in agent systems has been significantly advanced by
 large language models (LLMs), yet existing approaches face limitations.

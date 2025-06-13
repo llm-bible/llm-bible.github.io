@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: mo2024fight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06255"}
-  - {name: "Code", url: "https://github.com/PKU-ML/PAT"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06255'}
+  - {name: "Code", url: 'https://github.com/PKU-ML/PAT'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) have achieved tremendous success in
 various applications, they are also susceptible to jailbreaking attacks.

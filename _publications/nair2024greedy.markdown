@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nair2024greedy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17542"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17542'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization']
 ---
 Large language models (LLMs) have recently demonstrated remarkable
 performance across diverse language tasks. But their deployment is often

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: minder2025testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15052"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15052'}
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 This study investigates the capabilities of large language models (LLMs),
 specifically ChatGPT, in annotating MT outputs based on an error typology. In

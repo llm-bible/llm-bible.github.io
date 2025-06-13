@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tejaswi2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20088"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20088'}
 tags: ['Model Architecture']
 ---
 We investigate whether in-context examples, widely used in decoder-only

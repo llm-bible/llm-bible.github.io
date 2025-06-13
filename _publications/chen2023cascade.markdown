@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023cascade
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11462"}
-  - {name: "Code", url: "https://github.com/lfsszd/CS-Drafting"}
-tags: ['Efficiency and Optimization', 'GPT', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11462'}
+  - {name: "Code", url: 'https://github.com/lfsszd/CS-Drafting'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Pretraining Methods']
 ---
 Introduced to enhance the efficiency of large language model (LLM) inference,
 speculative decoding operates by having a smaller model generate a draft. A

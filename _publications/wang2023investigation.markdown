@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023investigation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.07944"}
-tags: ['Training Techniques', 'GPT', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.07944'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques', 'GPT']
 ---
 Conversational search has seen increased recent attention in both the IR and
 NLP communities. It seeks to clarify and solve users' search needs through

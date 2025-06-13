@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bao2024diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13210"}
-  - {name: "Code", url: "https://github.com/vectara/FaithBench"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13210'}
+  - {name: "Code", url: 'https://github.com/vectara/FaithBench'}
+tags: ['Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Summarization is one of the most common tasks performed by large language
 models (LLMs), especially in applications like Retrieval-Augmented Generation

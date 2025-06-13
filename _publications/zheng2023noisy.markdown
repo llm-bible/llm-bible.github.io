@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023noisy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00258"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00258'}
 tags: ['Few-Shot', 'Security', 'Prompting', 'In-Context Learning']
 ---
 Recent advances in prompt engineering enable large language models (LLMs) to

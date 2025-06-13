@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023thread
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08734"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08734'}
 tags: ['Prompting']
 ---
 Large Language Models (LLMs) have ushered in a transformative era in the

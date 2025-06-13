@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ateia2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13511"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13511'}
+tags: ['Few-Shot', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Commercial large language models (LLMs), like OpenAI's GPT-4 powering ChatGPT
 and Anthropic's Claude 3 Opus, have dominated natural language processing (NLP)

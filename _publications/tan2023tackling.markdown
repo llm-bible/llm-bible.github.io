@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023tackling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15487"}
-tags: ['Few-Shot', 'Training Techniques', 'Multimodal Models', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15487'}
+tags: ['Few-Shot', 'Multimodal Models', 'Applications', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved state-of-the-art results in many
 natural language processing tasks. They have also demonstrated ability to adapt

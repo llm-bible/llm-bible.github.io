@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03780"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03780'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper, we introduce Reward-RAG, a novel approach designed to enhance
 the Retrieval-Augmented Generation (RAG) model through Reward-Driven

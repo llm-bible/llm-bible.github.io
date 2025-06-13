@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08211"}
-  - {name: "Code", url: "https://github.com/yao8839836/cp"}
-tags: ['GPT', 'Model Architecture', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08211'}
+  - {name: "Code", url: 'https://github.com/yao8839836/cp'}
+tags: ['Has Code', 'Few-Shot', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Prompting methods play a crucial role in enhancing the capabilities of
 pre-trained large language models (LLMs). We explore how contrastive prompting

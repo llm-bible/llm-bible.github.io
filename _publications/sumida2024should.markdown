@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sumida2024should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12524"}
-  - {name: "Code", url: "https://github.com/ryuichi-sumida/LUFY"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12524'}
+  - {name: "Code", url: 'https://github.com/ryuichi-sumida/LUFY'}
 tags: ['RAG', 'Has Code']
 ---
 While Retrieval-Augmented Generation (RAG) has shown promise in enhancing

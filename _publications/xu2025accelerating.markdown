@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08850"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08850'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Reinforcement Learning']
 ---
 Early exiting has recently emerged as a promising technique for accelerating
 large language models (LLMs) by effectively reducing the hardware computation

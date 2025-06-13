@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guerreiro2023hallucinations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.16104"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.16104'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large-scale multilingual machine translation systems have demonstrated
 remarkable ability to translate directly between numerous languages, making

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mendonça2024soda
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10902"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10902'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'RAG', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Although human evaluation remains the gold standard for open-domain dialogue
 evaluation, the growing popularity of automated evaluation using Large Language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ogawa2024applying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18972"}
-tags: ['Fine-Tuning', 'Transformer', 'INTERSPEECH', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18972'}
+tags: ['Transformer', 'INTERSPEECH', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been successfully applied for rescoring
 automatic speech recognition (ASR) hypotheses. However, their ability to

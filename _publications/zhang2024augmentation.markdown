@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024augmentation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03061"}
-tags: ['Security', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03061'}
+tags: ['Efficiency and Optimization', 'Security', 'Tools']
 ---
 While extensive research has explored the use of large language models (LLMs)
 for table-based reasoning, most approaches struggle with scalability when

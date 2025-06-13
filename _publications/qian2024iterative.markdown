@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04219"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04219'}
+tags: ['Agentic', 'Agent', 'RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Autonomous agents powered by large language models (LLMs) show significant
 potential for achieving high autonomy in various scenarios such as software

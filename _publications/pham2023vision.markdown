@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pham2023vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07760"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07760'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models']
 ---
 Large pre-trained vision-language models such as CLIP have demonstrated great
 potential in zero-shot transferability to downstream tasks. However, to attain

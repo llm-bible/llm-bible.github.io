@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: himakunthala2023think
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.13903v3"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.13903v3'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Multimodal Models']
 ---
 Despite exciting recent results showing vision-language systems' capacity to
 reason about images using natural language, their capacity for video reasoning

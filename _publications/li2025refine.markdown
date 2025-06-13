@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025refine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07184"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07184'}
 tags: ['Pretraining Methods']
 ---
 How to alleviate the hallucinations of Large Language Models (LLMs) has

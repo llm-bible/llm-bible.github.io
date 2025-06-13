@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vera2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00025"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00025'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability']
 ---
 This study presents a comparative evaluation of 22 large language models LLMs
 on the Spanish Medical Intern Resident MIR examinations for 2024 and 2025 with

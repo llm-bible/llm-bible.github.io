@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: haviv2022understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.03588"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.03588'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 To produce accurate predictions, language models (LMs) must balance between
 generalization and memorization. Yet, little is known about the mechanism by

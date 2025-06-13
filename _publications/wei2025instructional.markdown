@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025instructional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05040"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05040'}
+tags: ['Reinforcement Learning', 'GPT', 'Tools', 'Model Architecture']
 ---
 Despite progress in video large language models (Video-LLMs), research on
 instructional video understanding, crucial for enhancing access to

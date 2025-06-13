@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dong2023statistical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10519"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10519'}
 tags: ['Prompting', 'Model Architecture']
 ---
 Given varying prompts regarding a factoid question, can a large language

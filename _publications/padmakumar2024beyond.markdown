@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: padmakumar2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03822"}
-tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03822'}
+tags: ['Reinforcement Learning', 'Prompting', 'Training Techniques']
 ---
 Large language models (LLMs) are increasingly deployed via public-facing
 interfaces to interact with millions of users, each with diverse preferences.

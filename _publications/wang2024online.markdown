@@ -6,9 +6,9 @@ conference: "Published as a conference paper at ICLR 2025"
 year: 2024
 bibkey: wang2024online
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08143"}
-  - {name: "Code", url: "https://github.com/YutongWang1216/DocMTAgent"}
-tags: ['RAG', 'Agentic', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08143'}
+  - {name: "Code", url: 'https://github.com/YutongWang1216/DocMTAgent'}
+tags: ['RAG', 'Has Code', 'Agentic', 'Applications']
 ---
 Large language models (LLMs) have achieved reasonable quality improvements in
 machine translation (MT). However, most current research on MT-LLMs still faces

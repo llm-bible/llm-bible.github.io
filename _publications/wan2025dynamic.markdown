@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wan2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17599"}
-  - {name: "Code", url: "https://github.com/AIoT-MLSys-Lab/MEDA"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17599'}
+  - {name: "Code", url: 'https://github.com/AIoT-MLSys-Lab/MEDA'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Multimodal Models']
 ---
 Long-context Multimodal Large Language Models (MLLMs) that incorporate long
 text-image and text-video modalities, demand substantial resources as their

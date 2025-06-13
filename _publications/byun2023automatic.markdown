@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: byun2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18215"}
-tags: ['Training Techniques', 'Security', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18215'}
+tags: ['Training Techniques', 'Security', 'Applications', 'Tools']
 ---
 Caution: this paper may include material that could be offensive or
 distressing.

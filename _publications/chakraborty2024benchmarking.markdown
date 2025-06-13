@@ -6,8 +6,8 @@ conference: "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discover
 year: 2024
 bibkey: chakraborty2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06072"}
-tags: ['Fine-Tuning', 'RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06072'}
+tags: ['Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language processing tasks. However, their practical application in

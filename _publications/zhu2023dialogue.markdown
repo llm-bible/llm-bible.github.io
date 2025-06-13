@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01974"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01974'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 AI-driven medical history-taking is an important component in symptom
 checking, automated patient intake, triage, and other AI virtual care

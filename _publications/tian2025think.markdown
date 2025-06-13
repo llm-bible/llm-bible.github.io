@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tian2025think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19855"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19855'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advances in large language models (LLMs), such as OpenAI-o1 and
 DeepSeek-R1, have demonstrated the effectiveness of test-time scaling, where

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09442"}
-  - {name: "Code", url: "https://github.com/PharMolix/OpenBioMed"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09442'}
+  - {name: "Code", url: 'https://github.com/PharMolix/OpenBioMed'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Foundation models (FMs) have exhibited remarkable performance across a wide
 range of downstream tasks in many domains. Nevertheless, general-purpose FMs

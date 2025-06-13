@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fang2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18365"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18365'}
+tags: ['RAG', 'Model Architecture', 'BERT', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Machine learning-based automatic scoring faces challenges with unbalanced
 student responses across scoring categories. To address this, we introduce a

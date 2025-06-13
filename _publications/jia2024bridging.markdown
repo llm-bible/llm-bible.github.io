@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08519"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08519'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 The reranker and generator are two critical components in the
 Retrieval-Augmented Generation (i.e., RAG) pipeline, responsible for ranking

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: doyle2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05778"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05778'}
+tags: ['Prompting', 'GPT', 'Tools', 'Model Architecture']
 ---
 We introduce "Method Actors" as a mental model for guiding LLM prompt
 engineering and prompt architecture. Under this mental model, LLMs should be

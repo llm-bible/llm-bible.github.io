@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rahimi2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01700"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01700'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Tools', 'Multimodal Models', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Personalization in social robotics is critical for fostering effective
 human-robot interactions, yet systems often face the cold start problem, where

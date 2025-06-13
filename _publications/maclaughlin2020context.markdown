@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: maclaughlin2020context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.08319"}
-tags: ['BERT', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.08319'}
+tags: ['RAG', 'BERT', 'Model Architecture']
 ---
 While composing a new document, anything from a news article to an email or
 essay, authors often utilize direct quotes from a variety of sources. Although

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023trickle
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16155"}
-tags: ['Agentic', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16155'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Standard practice within Reinforcement Learning from Human Feedback (RLHF)
 involves optimizing against a Reward Model (RM), which itself is trained to

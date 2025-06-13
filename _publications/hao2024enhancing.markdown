@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hao2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13202"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13202'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Tool learning enables the Large Language Models (LLMs) to interact with the
 external environment by invoking tools, enriching the accuracy and capability

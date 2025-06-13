@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chai2022ernie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.06742"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.06742'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Software engineers working with the same programming language (PL) may speak
 different natural languages (NLs) and vice versa, erecting huge barriers to

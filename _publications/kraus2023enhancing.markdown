@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kraus2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.00116"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.00116'}
 tags: ['RAG', 'Agentic']
 ---
 Large language models (LLMs) have significantly transformed the landscape of

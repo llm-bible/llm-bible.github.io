@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025interpersonal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05150"}
-  - {name: "Code", url: "https://github.com/FrontierLabs/MapDia"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05150'}
+  - {name: "Code", url: 'https://github.com/FrontierLabs/MapDia'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Proactive dialogue systems aim to empower chatbots with the capability of
 leading conversations towards specific targets, thereby enhancing user

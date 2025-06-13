@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dash2023optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12705"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12705'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable success as
 foundational models, benefiting various downstream applications through

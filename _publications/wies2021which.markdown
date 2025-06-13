@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wies2021which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.03928"}
-tags: ['Transformer', 'Tools', 'TACL', 'Model Architecture', 'ACL', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.03928'}
+tags: ['Attention Mechanism', 'Transformer', 'ACL', 'Model Architecture', 'Tools', 'BERT', 'TACL', 'Pretraining Methods']
 ---
 After their successful debut in natural language processing, Transformer
 architectures are now becoming the de-facto standard in many domains. An

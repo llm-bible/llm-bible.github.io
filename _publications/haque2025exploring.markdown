@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: haque2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18468"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18468'}
+tags: ['Security', 'Model Architecture', 'Applications', 'GPT', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The integration of Large Language Models (LLMs) such as GitHub Copilot,
 ChatGPT, Cursor AI, and Codeium AI into software development has revolutionized

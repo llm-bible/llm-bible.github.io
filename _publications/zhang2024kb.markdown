@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024kb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01619"}
-  - {name: "Code", url: "https://github.com/THU-KEG/KB-Plugin"}
-tags: ['Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01619'}
+  - {name: "Code", url: 'https://github.com/THU-KEG/KB-Plugin'}
+tags: ['Training Techniques', 'Has Code', 'Tools', 'Pretraining Methods']
 ---
 Program induction (PI) has become a promising paradigm for using knowledge
 bases (KBs) to help large language models (LLMs) answer complex

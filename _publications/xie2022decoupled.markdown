@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: xie2022decoupled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.11046"}
-  - {name: "Code", url: "https://github.com/AIM-SE/DIF-SR"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.11046'}
+  - {name: "Code", url: 'https://github.com/AIM-SE/DIF-SR'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 Side information fusion for sequential recommendation (SR) aims to
 effectively leverage various side information to enhance the performance of

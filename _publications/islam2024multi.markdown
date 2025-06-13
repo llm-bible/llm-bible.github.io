@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: islam2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11403"}
-  - {name: "Code", url: "https://github.com/Md-Ashraful-Pramanik/MapCoder"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11403'}
+  - {name: "Code", url: 'https://github.com/Md-Ashraful-Pramanik/MapCoder'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Tools', 'Prompting']
 ---
 Code synthesis, which requires a deep understanding of complex natural
 language problem descriptions, generation of code instructions for complex

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ferreira2023grounded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11271"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11271'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Following complex instructions in conversational assistants can be quite
 daunting due to the shorter attention and memory spans when compared to reading

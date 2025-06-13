@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuo2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12405"}
-  - {name: "Code", url: "https://github.com/open-compass/ProSA"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12405'}
+  - {name: "Code", url: 'https://github.com/open-compass/ProSA'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Security', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities across
 various tasks, but their performance is highly sensitive to the prompts

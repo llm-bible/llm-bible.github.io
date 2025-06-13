@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08508"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08508'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
 ---
 In recent years, lightweight large language models (LLMs) have garnered
 significant attention in the robotics field due to their low computational

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: knappe2024semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07839"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07839'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 While large language models (LLMs) have rapidly improved their performance on
 a broad number of tasks, they still often fall short on reasoning tasks. As

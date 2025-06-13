@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rios2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16440"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16440'}
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown promising results on machine
 translation for high resource language pairs and domains. However, in

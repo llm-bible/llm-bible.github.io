@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rouzrokh2024conformal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04287"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04287'}
+tags: ['Training Techniques', 'RAG', 'Tools']
 ---
 Retrieval-augmented generation (RAG) frameworks enable large language models
 (LLMs) to retrieve relevant information from a knowledge base and incorporate

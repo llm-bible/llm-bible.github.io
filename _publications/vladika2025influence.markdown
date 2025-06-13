@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vladika2025influence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14759"}
-tags: ['Fine-Tuning', 'RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14759'}
+tags: ['Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
 ---
 Retrieval-augmented generation (RAG) has emerged as an approach to augment
 large language models (LLMs) by reducing their reliance on static knowledge and

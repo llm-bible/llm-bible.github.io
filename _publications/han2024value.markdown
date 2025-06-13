@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024value
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06639"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06639'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Aligning Large Language Models (LLMs) to cater to different human
 preferences, learning new skills, and unlearning harmful behavior is an

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: nye2021show
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.00114"}
-tags: ['Model Architecture', 'Few-Shot', 'Transformer', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.00114'}
+tags: ['Few-Shot', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large pre-trained language models perform remarkably well on tasks that can
 be done "in one pass", such as generating realistic text or synthesizing

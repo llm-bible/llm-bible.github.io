@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02392"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02392'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent studies have shown that large language models' (LLMs) mathematical
 problem-solving capabilities can be enhanced by integrating external tools,

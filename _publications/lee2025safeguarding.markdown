@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025safeguarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18492"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18492'}
+tags: ['Reinforcement Learning', 'Agentic', 'GPT', 'Model Architecture']
 ---
 Large Foundation Models (LFMs) have unlocked new possibilities in
 human-computer interaction, particularly with the rise of mobile Graphical User

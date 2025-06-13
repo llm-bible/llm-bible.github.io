@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: orlicki2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.21030"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.21030'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools']
 ---
 Recent advances in large language models (LLMs) have popularized the
 chain-of-thought (CoT) paradigm, in which models produce explicit reasoning

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05518"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05518'}
 tags: ['Reinforcement Learning']
 ---
 We assess how the code reasoning abilities of large language models (LLMs)

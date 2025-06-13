@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024illuminate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13909"}
-tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13909'}
+tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal large language models (MLLMs) are closing the gap to human visual
 perception capability rapidly, while, still lag behind on attending to subtle

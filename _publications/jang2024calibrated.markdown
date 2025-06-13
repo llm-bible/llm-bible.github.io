@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jang2024calibrated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08891"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08891'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Recently, large language models (LLMs) have been increasingly used to support
 various decision-making tasks, assisting humans in making informed decisions.

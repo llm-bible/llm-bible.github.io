@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: schwartz2017high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1711.04323"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1711.04323'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 The quest for algorithms that enable cognitive abilities is an important part
 of machine learning. A common trait in many recently investigated

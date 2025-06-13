@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12801"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12801'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The development of Large Vision-Language Models (LVLMs) is striving to catch
 up with the success of Large Language Models (LLMs), yet it faces more

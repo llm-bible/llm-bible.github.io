@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.08747"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Ethics and Bias', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.08747'}
+tags: ['Ethics and Bias', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Catastrophic forgetting (CF) is a phenomenon that occurs in machine learning
 when a model forgets previously learned information while acquiring new

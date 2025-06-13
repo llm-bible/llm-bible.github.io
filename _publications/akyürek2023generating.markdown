@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: akyürek2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.08844"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.08844'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite their unprecedented success, even the largest language models make
 mistakes. Similar to how humans learn and improve using feedback, previous work

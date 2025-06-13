@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gonzálezsantamarta2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14844"}
-tags: ['Responsible AI', 'Transformer', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14844'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Tools', 'Responsible AI', 'Pretraining Methods']
 ---
 The deployment of autonomous robots in various domains has raised significant
 concerns about their trustworthiness and accountability. This study explores

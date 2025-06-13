@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yin2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09804"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09804'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Security', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Distillation', 'Prompting', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Chain-of-Thought (CoT) reasoning in smaller language models is a challenging
 natural language process problem yet highly desirable in many real-life

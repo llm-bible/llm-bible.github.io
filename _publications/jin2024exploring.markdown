@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07066"}
-  - {name: "Code", url: "https://github.com/Luckfort/CD"}
-tags: ['Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07066'}
+  - {name: "Code", url: 'https://github.com/Luckfort/CD'}
+tags: ['Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) have shown remarkable performances across a wide
 range of tasks. However, the mechanisms by which these models encode tasks of

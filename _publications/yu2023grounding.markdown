@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023grounding
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2301.13823v4"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2301.13823v4'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 We propose an efficient method to ground pretrained text-only language models
 to the visual domain, enabling them to process arbitrarily interleaved

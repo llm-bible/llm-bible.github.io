@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: upadhyay2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18762"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18762'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are powerful but often require extensive
 fine-tuning and large datasets for specialized domains like law.

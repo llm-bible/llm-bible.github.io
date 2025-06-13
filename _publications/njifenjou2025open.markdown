@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: njifenjou2025open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03462"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03462'}
+tags: ['Agentic', 'RAG', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The prevailing paradigm in the domain of Open-Domain Dialogue agents
 predominantly focuses on the English language, encompassing both models and

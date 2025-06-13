@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023reta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05212"}
-  - {name: "Code", url: "https://github.com/RUC-GSAI/YuLan-IR/tree/main/RETA-LLM"}
-tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05212'}
+  - {name: "Code", url: 'https://github.com/RUC-GSAI/YuLan-IR/tree/main/RETA-LLM'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
 ---
 Although Large Language Models (LLMs) have demonstrated extraordinary
 capabilities in many domains, they still have a tendency to hallucinate and

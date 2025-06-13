@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sinha2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11402"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11402'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Merging', 'Prompting']
 ---
 The rapid rise of Language Models (LMs) has expanded their use in several
 applications. Yet, due to constraints of model size, associated cost, or

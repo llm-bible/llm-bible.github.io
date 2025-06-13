@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nichani2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06538"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06538'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models have demonstrated an impressive ability to perform
 factual recall. Prior work has found that transformers trained on factual

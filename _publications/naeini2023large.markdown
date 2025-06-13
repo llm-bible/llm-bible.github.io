@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: naeini2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11167"}
-  - {name: "Code", url: "https://github.com/TaatiTeam/OCW"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11167'}
+  - {name: "Code", url: 'https://github.com/TaatiTeam/OCW'}
 tags: ['RAG', 'Has Code', 'Merging']
 ---
 The quest for human imitative AI has been an enduring topic in AI research

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06208"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06208'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 In the realm of large language models (LLMs), the ability of models to
 accurately follow instructions is paramount as more agents and applications

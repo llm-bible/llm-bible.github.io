@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024sparsity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16057"}
-  - {name: "Code", url: "https://github.com/Lucky-Lance/SPP"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16057'}
+  - {name: "Code", url: 'https://github.com/Lucky-Lance/SPP'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have become pivotal in advancing the field of
 artificial intelligence, yet their immense sizes pose significant challenges

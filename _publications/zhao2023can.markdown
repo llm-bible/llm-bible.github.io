@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16681"}
-  - {name: "Code", url: "https://github.com/Zephyr1022/BabyStories-UTSA"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16681'}
+  - {name: "Code", url: 'https://github.com/Zephyr1022/BabyStories-UTSA'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language models have seen significant growth in the size of their corpus,
 leading to notable performance improvements. Yet, there has been limited

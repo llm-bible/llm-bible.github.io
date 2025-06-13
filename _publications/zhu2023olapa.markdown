@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023olapa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17535"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17535'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 CoT (Chain-of-Thought) is a way to solve reasoning problems for LLMs .
 Recently, many researches appear for improving the CoT capability of LLMs. In

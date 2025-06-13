@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: marchisio2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03211"}
-tags: ['RAG', 'Efficiency and Optimization', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03211'}
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Quantization']
 ---
 Quantization techniques are widely used to improve inference speed and
 deployment of large language models. While a wide body of work examines the

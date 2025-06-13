@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05008"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05008'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Efficiency and Optimization']
 ---
 Large language models (LLMs) usually fall short on information extraction
 (IE) tasks and struggle to follow the complex instructions of IE tasks. This

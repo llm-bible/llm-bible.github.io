@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024prefix
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19379"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19379'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
 ---
 Hybrid models that combine the language modeling capabilities of Attention
 layers with the efficiency of Recurrent layers (e.g., State Space Models) have

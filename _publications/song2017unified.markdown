@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: song2017unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1709.01058"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1709.01058'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Applications', 'Ethics and Bias']
 ---
 We propose a query-based generative model for solving both tasks of question
 generation (QG) and question an- swering (QA). The model follows the classic

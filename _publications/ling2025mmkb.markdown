@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ling2025mmkb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10074"}
-tags: ['RAG', 'Tools', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10074'}
+tags: ['RAG', 'Security', 'Tools']
 ---
 Recent advancements in large language models (LLMs) and multi-modal LLMs have
 been remarkable. However, these models still rely solely on their parametric

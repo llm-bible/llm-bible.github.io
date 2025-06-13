@@ -6,8 +6,8 @@ conference: "Information Fusion 101861 (2023)"
 year: 2023
 bibkey: kocoń2023jack
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.10724"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.10724'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Applications', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 OpenAI has released the Chat Generative Pre-trained Transformer (ChatGPT) and
 revolutionized the approach in artificial intelligence to human-model

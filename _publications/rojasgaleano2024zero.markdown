@@ -6,8 +6,8 @@ conference: "Applied Computer Sciences in Engineering. WEA 2024. Communications 
 year: 2024
 bibkey: rojasgaleano2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15936"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15936'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This paper investigates the application of pre-trained large language models
 (LLMs) for spam email classification using zero-shot prompting. We evaluate the

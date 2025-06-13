@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: puniani2025impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08140"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08140'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Modern deep-learning architectures need large amounts of data to produce
 state-of-the-art results. Annotating such huge datasets is time-consuming,

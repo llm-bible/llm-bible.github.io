@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04871"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04871'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Specializing LLMs in various domain-specific tasks has emerged as a critical
 step towards achieving high performance. However, the construction and

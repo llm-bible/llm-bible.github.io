@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wenyi2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00289"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00289'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 The release of top-performing open-weight LLMs has cemented China's role as a
 leading force in AI development. Do these models support languages spoken in

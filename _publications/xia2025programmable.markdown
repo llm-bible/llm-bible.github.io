@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xia2025programmable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03358"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03358'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 How effectively can LLM-based AI assistants utilize their memory (context) to
 perform various tasks? Traditional data benchmarks, which are often manually

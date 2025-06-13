@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: moell2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11578"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11578'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have made significant strides in natural

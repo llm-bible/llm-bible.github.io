@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: su2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.04198"}
-tags: ['Pre-Training', 'Applications', 'RAG', 'TACL', 'Model Architecture', 'ACL', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.04198'}
+tags: ['Masked Language Model', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Pre-Training', 'TACL', 'Pretraining Methods']
 ---
 Masked language models (MLMs) such as BERT and RoBERTa have revolutionized
 the field of Natural Language Understanding in the past few years. However,

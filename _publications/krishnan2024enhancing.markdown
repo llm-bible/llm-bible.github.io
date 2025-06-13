@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: krishnan2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02904"}
-tags: ['Fine-Tuning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02904'}
+tags: ['Language Modeling', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized the field of natural
 language processing with their impressive reasoning and question-answering

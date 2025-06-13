@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023elevating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15960"}
-  - {name: "Code", url: "https://github.com/dvlab-research/MoTCoder"}
-tags: ['Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15960'}
+  - {name: "Code", url: 'https://github.com/dvlab-research/MoTCoder'}
+tags: ['Has Code', 'Tools']
 ---
 Large Language Models (LLMs) have showcased impressive capabilities in
 handling straightforward programming tasks. However, their performance tends to

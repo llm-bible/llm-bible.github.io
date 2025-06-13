@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dogan2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12498"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12498'}
+tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 The linguistic capabilities of Multimodal Large Language Models (MLLMs) are
 critical for their effective application across diverse tasks. This study aims

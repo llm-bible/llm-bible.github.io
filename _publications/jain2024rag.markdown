@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12294"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12294'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have recently emerged as promising tools for
 solving challenging robotic tasks, even in the presence of action and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023localized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14636"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14636'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Despite the tremendous success in text-to-image generative models, localized
 text-to-image generation (that is, generating objects or features at specific

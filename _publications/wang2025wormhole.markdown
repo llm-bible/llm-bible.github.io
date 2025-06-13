@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025wormhole
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14846"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14846'}
+tags: ['GPT', 'Efficiency and Optimization', 'Model Architecture', 'Tools']
 ---
 In view of the gap in the current large language model in sharing memory
 across dialogues, this research proposes a wormhole memory module (WMM) to

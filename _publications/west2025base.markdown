@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: west2025base
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00047"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00047'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Alignment has quickly become a default ingredient in LLM development, with
 techniques such as reinforcement learning from human feedback making models act

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maniparambil2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19425"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19425'}
+tags: ['Model Architecture', 'BERT', 'Tools', 'Applications', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent contrastive multimodal vision-language models like CLIP have
 demonstrated robust open-world semantic understanding, becoming the standard

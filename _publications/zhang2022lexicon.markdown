@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022lexicon
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.13661"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.13661'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Distillation']
 ---
 Retrieval models based on dense representations in semantic space have become
 an indispensable branch for first-stage retrieval. These retrievers benefit

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08618"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08618'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper introduces a novel approach to enhance the capabilities of Large
 Language Models (LLMs) in processing and understanding extensive text

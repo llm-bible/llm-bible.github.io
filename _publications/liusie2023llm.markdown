@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liusie2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.07889"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.07889'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Current developments in large language models (LLMs) have enabled impressive
 zero-shot capabilities across various natural language tasks. An interesting

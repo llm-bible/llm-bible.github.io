@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: su2020diversifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.04346"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.04346'}
 tags: ['RAG', 'Training Techniques']
 ---
 Neural network-based sequence-to-sequence (seq2seq) models strongly suffer

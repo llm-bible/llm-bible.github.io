@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: schumann2023verbalization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.06082"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.06082'}
+tags: ['Agentic', 'Applications', 'Prompting', 'Reinforcement Learning', 'Interpretability']
 ---
 Incremental decision making in real-world environments is one of the most
 challenging tasks in embodied artificial intelligence. One particularly

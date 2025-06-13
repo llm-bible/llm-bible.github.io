@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02330"}
-  - {name: "Code", url: "https://github.com/HKUDS/GFormer"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'RecSys', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02330'}
+  - {name: "Code", url: 'https://github.com/HKUDS/GFormer'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'RecSys', 'Pretraining Methods']
 ---
 This paper presents a novel approach to representation learning in
 recommender systems by integrating generative self-supervised learning with

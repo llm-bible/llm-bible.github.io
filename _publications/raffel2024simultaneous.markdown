@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: raffel2024simultaneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10443"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Prompting', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10443'}
+tags: ['Attention Mechanism', 'SLT', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved state-of-the-art performance in
 various language processing tasks, motivating their adoption in simultaneous

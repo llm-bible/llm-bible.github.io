@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gandhi2023strategic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19165"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19165'}
+tags: ['Agentic', 'Few-Shot', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Strategic reasoning enables agents to cooperate, communicate, and compete
 with other agents in diverse situations. Existing approaches to solving

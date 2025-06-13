@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nananukul2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20382"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20382'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Role-playing games (RPGs) provide players with a rich, interactive world to
 explore. Dialogue serves as the primary means of communication between

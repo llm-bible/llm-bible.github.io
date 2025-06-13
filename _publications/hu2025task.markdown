@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03718"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03718'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable success in various
 tasks, such as decision-making, reasoning, and question answering. They have

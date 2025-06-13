@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: khlaut2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14654"}
-  - {name: "Code", url: "https://github.com/raidium-med/MQG"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14654'}
+  - {name: "Code", url: 'https://github.com/raidium-med/MQG'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT']
 ---
 In the expanding field of language model applications, medical knowledge
 representation remains a significant challenge due to the specialized nature of

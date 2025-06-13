@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18439"}
-  - {name: "Code", url: "https://github.com/thunlp/AutoForm"}
-tags: ['Pre-Training', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18439'}
+  - {name: "Code", url: 'https://github.com/thunlp/AutoForm'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 Natural language (NL) has long been the predominant format for human
 cognition and communication, and by extension, has been similarly pivotal in

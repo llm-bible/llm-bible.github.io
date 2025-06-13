@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tong2023privacy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12214"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Security', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12214'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Distillation', 'Prompting', 'Applications']
 ---
 Large language models (LLMs), like ChatGPT, have greatly simplified text
 generation tasks. However, they have also raised concerns about privacy risks

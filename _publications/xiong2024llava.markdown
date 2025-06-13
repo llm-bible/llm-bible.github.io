@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02712"}
-tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02712'}
+tags: ['Reinforcement Learning', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 We introduce LLaVA-Critic, the first open-source large multimodal model (LMM)
 designed as a generalist evaluator to assess performance across a wide range of

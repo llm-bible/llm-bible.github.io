@@ -6,8 +6,8 @@ conference: "Proceedings of the 16th International Conference on Computer Suppor
 year: 2023
 bibkey: schneider2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11508"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11508'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 Grading exams is an important, labor-intensive, subjective, repetitive, and
 frequently challenging task. The feasibility of autograding textual responses

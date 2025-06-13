@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: jeretic2020are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.03066"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.03066'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Natural language inference (NLI) is an increasingly important task for
 natural language understanding, which requires one to infer whether a sentence

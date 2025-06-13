@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07306"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07306'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Text-rich VQA, namely Visual Question Answering based on text recognition in
 the images, is a cross-modal task that requires both image comprehension and

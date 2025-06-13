@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08316"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08316'}
 tags: ['Few-Shot', 'Training Techniques', 'Pretraining Methods']
 ---
 Programming-by-Examples (PBE) aims to generate an algorithm from input-output

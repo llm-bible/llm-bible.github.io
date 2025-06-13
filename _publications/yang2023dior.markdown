@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023dior
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15025"}
-  - {name: "Code", url: "https://github.com/UKPLab/dior-cvae"}
-tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15025'}
+  - {name: "Code", url: 'https://github.com/UKPLab/dior-cvae'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Pre-Training']
 ---
 Current variational dialog models have employed pre-trained language models
 (PLMs) to parameterize the likelihood and posterior distributions. However, the

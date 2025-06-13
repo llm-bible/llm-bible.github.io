@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024activating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12785"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12785'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Vision-Language Models (LVLMs) typically learn visual capacity through
 visual instruction tuning, involving updates to both a projector and their LLM

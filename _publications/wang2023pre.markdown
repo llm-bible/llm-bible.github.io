@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11175"}
-  - {name: "Code", url: "https://github.com/gimpong/MM23-MISSRec"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11175'}
+  - {name: "Code", url: 'https://github.com/gimpong/MM23-MISSRec'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The goal of sequential recommendation (SR) is to predict a user's potential
 interested items based on her/his historical interaction sequences. Most

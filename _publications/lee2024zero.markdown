@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19382"}
-tags: ['Tools', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19382'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) have significantly impacted
 the domain of multi-hop question answering (MHQA), where systems are required

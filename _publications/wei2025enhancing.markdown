@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15659"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15659'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) have sparked growing interest
 in applying them to Electronic Design Automation (EDA) tasks, particularly

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: fu2022unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09278"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09278'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Conversational text-to-SQL is designed to translate multi-turn natural
 language questions into their corresponding SQL queries. Most state-of-the-art

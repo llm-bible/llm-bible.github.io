@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: es2023automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15217"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15217'}
 tags: ['RAG', 'Tools', 'Model Architecture']
 ---
 We introduce Ragas (Retrieval Augmented Generation Assessment), a framework

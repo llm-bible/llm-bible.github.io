@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zamai2024show
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01272"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01272'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, several specialized instruction-tuned Large Language Models (LLMs)
 for Named Entity Recognition (NER) have emerged. Compared to traditional NER

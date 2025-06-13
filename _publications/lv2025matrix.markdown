@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lv2025matrix
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12455"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12455'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Reinforcement Learning']
 ---
 As large language models continue to scale, computational costs and resource
 consumption have emerged as significant challenges. While existing

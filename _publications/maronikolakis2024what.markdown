@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: maronikolakis2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08907"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08907'}
 tags: ['Agentic', 'Tools']
 ---
 Large language models (LLMs) are poised to revolutionize the domain of online

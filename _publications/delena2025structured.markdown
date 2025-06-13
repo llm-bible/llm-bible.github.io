@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: delena2025structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03102"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03102'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools']
 ---
 Memory retention mechanisms play a central role in determining the efficiency
 of computational architectures designed for processing extended sequences.

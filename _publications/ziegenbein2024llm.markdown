@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ziegenbein2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03363"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03363'}
+tags: ['Agentic', 'Few-Shot', 'Tools', 'Prompting', 'Survey Paper', 'Reinforcement Learning']
 ---
 Ensuring that online discussions are civil and productive is a major
 challenge for social media platforms. Such platforms usually rely both on users

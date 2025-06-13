@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: clay2023cognitively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05450"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05450'}
 tags: ['Agentic', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Current conversational agents (CA) have seen improvement in conversational

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dong2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10088"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10088'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Agentic']
 ---
 Large language models (LLMs) have showcased remarkable potential across
 various tasks by conditioning on prompts. However, the quality of different

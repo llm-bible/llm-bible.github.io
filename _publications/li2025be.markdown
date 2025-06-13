@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025be
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16109"}
-tags: ['Responsible AI', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16109'}
+tags: ['Attention Mechanism', 'In-Context Learning', 'Security', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) have gained increasing attention for their
 remarkable capacity, alongside concerns about safety arising from their

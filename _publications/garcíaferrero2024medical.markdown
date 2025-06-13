@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: garcíaferrero2024medical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07613"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07613'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques', 'Applications']
 ---
 Research on language technology for the development of medical applications
 is currently a hot topic in Natural Language Understanding and Generation.

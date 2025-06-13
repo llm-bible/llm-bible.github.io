@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ostapenko2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11157"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11157'}
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques']
 ---
 The growing number of parameter-efficient adaptations of a base large
 language model (LLM) calls for studying whether we can reuse such trained

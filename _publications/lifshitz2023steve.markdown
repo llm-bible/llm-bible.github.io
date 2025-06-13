@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lifshitz2023steve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00937"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00937'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Constructing AI models that respond to text instructions is challenging,
 especially for sequential decision-making tasks. This work introduces a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pham2024graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13594"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13594'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 In this paper, we focus on task-specific question answering (QA). To this
 end, we introduce a method for generating exhaustive and high-quality training

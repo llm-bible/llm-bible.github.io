@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024towards
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2408.05211v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2408.05211v2'}
 tags: ['GPT', 'Multimodal Models', 'Applications', 'Model Architecture']
 ---
 The remarkable multimodal capabilities and interactive experience of GPT-4o

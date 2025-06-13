@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025search
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09516"}
-  - {name: "Code", url: "https://github.com/PeterGriffinJin/Search-R1"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09516'}
+  - {name: "Code", url: 'https://github.com/PeterGriffinJin/Search-R1'}
+tags: ['Masked Language Model', 'Agentic', 'Language Modeling', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Efficiently acquiring external knowledge and up-to-date information is
 essential for effective reasoning and text generation in large language models

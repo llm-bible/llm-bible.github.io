@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: lin2019task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.11287"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.11287'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 How to incorporate external knowledge into a neural dialogue model is
 critically important for dialogue systems to behave like real humans. To handle

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025round
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15294"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15294'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Transformer', 'Model Architecture']
 ---
 The increasing context window size in large language models (LLMs) has
 improved their ability to handle complex, long-text tasks. However, as the

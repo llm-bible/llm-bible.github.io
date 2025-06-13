@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: saha2023branch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15123"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15123'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are frequently used for multi-faceted language
 generation and evaluation tasks that involve satisfying intricate user

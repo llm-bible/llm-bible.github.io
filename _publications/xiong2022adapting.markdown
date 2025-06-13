@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: xiong2022adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.10052"}
-  - {name: "Code", url: "https://github.com/facebookresearch/bart_ls"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.10052'}
+  - {name: "Code", url: 'https://github.com/facebookresearch/bart_ls'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Survey Paper', 'Pretraining Methods']
 ---
 We present an empirical study of adapting an existing pretrained text-to-text
 model for long-sequence inputs. Through a comprehensive study along three axes

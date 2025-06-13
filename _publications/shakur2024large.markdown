@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shakur2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12858"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12858'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 Grading Objective Structured Clinical Examinations (OSCEs) is a
 time-consuming and expensive process, traditionally requiring extensive manual

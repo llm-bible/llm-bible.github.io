@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: poli2023hyena
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.10866"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.10866'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in deep learning have relied heavily on the use of large
 Transformers due to their ability to learn at scale. However, the core building

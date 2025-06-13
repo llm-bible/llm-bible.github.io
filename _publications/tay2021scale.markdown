@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: tay2021scale
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.10686"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.10686'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 There remain many open questions pertaining to the scaling behaviour of
 Transformer architectures. These scaling decisions and findings can be

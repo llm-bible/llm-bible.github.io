@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024seallms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19672"}
-tags: ['Responsible AI', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19672'}
+tags: ['Reinforcement Learning', 'RAG', 'Responsible AI', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown remarkable abilities across various
 tasks, yet their development has predominantly centered on high-resource

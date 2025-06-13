@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: agarwalla2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07838"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07838'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs), such as GPT-4V and Llama 3.2 vision, have
 garnered significant research attention for their ability to leverage Large

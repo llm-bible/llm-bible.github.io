@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12952"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12952'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) have exhibited significant potential in
 performing diverse tasks, including the ability to call functions or use

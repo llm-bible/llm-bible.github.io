@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: naik2023diversity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07088"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07088'}
 tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) are documented to struggle in settings that

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pan2023retrieving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11732"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11732'}
+tags: ['Model Architecture', 'BERT', 'Tools', 'Fine-Tuning', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Video Question Answering (VideoQA) has been significantly advanced from the
 scaling of recent Large Language Models (LLMs). The key idea is to convert the

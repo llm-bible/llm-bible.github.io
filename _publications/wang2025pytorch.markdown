@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025pytorch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02573"}
-  - {name: "Code", url: "https://github.com/Computational-Machine-Intelligence/LeetDecoding}{this"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02573'}
+  - {name: "Code", url: 'https://github.com/Computational-Machine-Intelligence/LeetDecoding}{this'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The machine learning and data science community has made significant while
 dispersive progress in accelerating transformer-based large language models

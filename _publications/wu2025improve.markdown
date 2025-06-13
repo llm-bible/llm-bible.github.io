@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025improve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03199"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03199'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques']
 ---
 Despite their impressive capacities, Large language models (LLMs) often
 struggle with the hallucination issue of generating inaccurate or fabricated

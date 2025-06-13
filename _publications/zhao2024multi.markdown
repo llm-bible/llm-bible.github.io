@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07822"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07822'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications']
 ---
 The automatic generation of RTL code (e.g., Verilog) through natural language
 instructions has emerged as a promising direction with the advancement of large

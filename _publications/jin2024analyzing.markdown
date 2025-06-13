@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01502"}
-  - {name: "Code", url: "https://github.com/causalNLP/amr_llm"}
-tags: ['Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01502'}
+  - {name: "Code", url: 'https://github.com/causalNLP/amr_llm'}
+tags: ['Prompting', 'Has Code']
 ---
 Traditionally, natural language processing (NLP) models often use a rich set
 of features created by linguistic expertise, such as semantic representations.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: vania2021comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.00840"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.00840'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent years have seen numerous NLP datasets introduced to evaluate the
 performance of fine-tuned models on natural language understanding tasks.

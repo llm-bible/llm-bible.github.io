@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: jedema2022dp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.09598"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.09598'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 While transformers demonstrate impressive performance on many knowledge
 intensive (KI) tasks, their ability to serve as implicit knowledge bases (KBs)

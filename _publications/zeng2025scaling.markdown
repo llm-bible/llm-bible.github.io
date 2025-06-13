@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15526"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15526'}
+tags: ['Security', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Scaling large language models (LLMs) has shown great potential for improving
 retrieval model performance; however, previous studies have mainly focused on

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ishikawa2021target
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.00811"}
-tags: ['Transformer', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.00811'}
+tags: ['Multimodal Models', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Currently, domestic service robots have an insufficient ability to interact
 naturally through language. This is because understanding human instructions is

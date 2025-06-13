@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lin2022vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.15509"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.15509'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Vision-Language Navigation (VLN) is a challenging task that requires an
 embodied agent to perform action-level modality alignment, i.e., make

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fatemi2024comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02476"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02476'}
+tags: ['Merging', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities across
 diverse Natural Language Processing (NLP) tasks, including language

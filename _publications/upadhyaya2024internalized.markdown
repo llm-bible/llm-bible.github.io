@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: upadhyaya2024internalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16653"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16653'}
 tags: ['Training Techniques']
 ---
 In this article, we introduce 'Internalized Self-Correction' (InSeC) for

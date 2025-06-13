@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023democratizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10485"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10485'}
+tags: ['Agentic', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in
 understanding and generating human-like texts, which may potentially

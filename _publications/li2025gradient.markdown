@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025gradient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23777"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23777'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Tools']
 ---
 Naive joint training of large language models (LLMs) for multilingual
 preference alignment can suffer from negative interference. This is a known

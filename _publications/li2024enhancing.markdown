@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17254"}
-tags: ['Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17254'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Despite the considerable progress achieved in the long video generation
 problem, there is still significant room to improve the consistency of the

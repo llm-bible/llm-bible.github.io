@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: dabre2021yet
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.11126"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.11126'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Quantization', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 In this paper we present our open-source neural machine translation (NMT)
 toolkit called "Yet Another Neural Machine Translation Toolkit" abbreviated as

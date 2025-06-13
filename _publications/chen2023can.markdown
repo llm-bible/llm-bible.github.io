@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18021"}
-  - {name: "Code", url: "https://chenxshuo.github.io/m-icl/"}
-tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18021'}
+  - {name: "Code", url: 'https://chenxshuo.github.io/m-icl/'}
+tags: ['Has Code', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) with in-context learning (ICL) ability can
 quickly adapt to a specific context given a few demonstrations (demos).

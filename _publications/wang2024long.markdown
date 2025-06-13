@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01071"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01071'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Recent advancements in large-scale video-language models have shown
 significant potential for real-time planning and detailed interactions.

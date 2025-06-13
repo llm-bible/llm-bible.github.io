@@ -6,9 +6,9 @@ conference: "COLING 2025"
 year: 2025
 bibkey: allawati2025semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03166"}
-  - {name: "Code", url: "https://github.com/aliwister/ast-icl"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03166'}
+  - {name: "Code", url: 'https://github.com/aliwister/ast-icl'}
+tags: ['Attention Mechanism', 'Has Code', 'Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance in
 various NLP tasks, including semantic parsing, which translates natural

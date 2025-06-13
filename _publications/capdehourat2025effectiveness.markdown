@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: capdehourat2025effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18072"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18072'}
 tags: ['Ethics and Bias', 'Prompting', 'Applications']
 ---
 Grading is a time-consuming and laborious task that educators must face. It

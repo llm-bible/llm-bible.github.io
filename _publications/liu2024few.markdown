@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09857"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09857'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Few-Shot Class-Incremental Learning (FSCIL) models aim to incrementally learn
 new classes with scarce samples while preserving knowledge of old ones.

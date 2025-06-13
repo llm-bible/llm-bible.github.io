@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: montalan2025filipino
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14911"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14911'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) have demonstrated remarkable
 capabilities on widely benchmarked high-resource languages; however, linguistic

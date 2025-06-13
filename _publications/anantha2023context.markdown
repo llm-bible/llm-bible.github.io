@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: anantha2023context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05708"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05708'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Merging']
 ---
 Large language models (LLMs) have the remarkable ability to solve new tasks
 with just a few examples, but they need access to the right tools. Retrieval

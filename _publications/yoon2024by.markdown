@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yoon2024by
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10385"}
-  - {name: "Code", url: "https://github.com/diamond264/ByMyEyes"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10385'}
+  - {name: "Code", url: 'https://github.com/diamond264/ByMyEyes'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Prompting', 'Multimodal Models']
 ---
 Large language models (LLMs) have demonstrated exceptional abilities across
 various domains. However, utilizing LLMs for ubiquitous sensing applications

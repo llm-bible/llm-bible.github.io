@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wan2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.04992"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.04992'}
+tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Multiple-choice Machine Reading Comprehension (MRC) is an important and
 challenging Natural Language Understanding (NLU) task, in which a machine must

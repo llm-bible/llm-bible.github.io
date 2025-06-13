@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zandie2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.02958"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.02958'}
+tags: ['GPT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Understanding emotions and responding accordingly is one of the biggest
 challenges of dialog systems. This paper presents EmpTransfo, a multi-head

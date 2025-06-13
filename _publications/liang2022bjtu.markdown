@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liang2022bjtu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.15009"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.15009'}
+tags: ['Transformer', 'WMT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Distillation', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper introduces the joint submission of the Beijing Jiaotong University
 and WeChat AI to the WMT'22 chat translation task for English-German. Based on

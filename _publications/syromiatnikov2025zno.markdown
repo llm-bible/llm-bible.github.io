@@ -6,8 +6,8 @@ conference: "X International conference Informatics. Culture. Technology. (2024)
 year: 2025
 bibkey: syromiatnikov2025zno
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06715"}
-tags: ['Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06715'}
+tags: ['Reinforcement Learning', 'GPT', 'Security', 'Model Architecture']
 ---
 As the usage of large language models for problems outside of simple text
 understanding or generation increases, assessing their abilities and

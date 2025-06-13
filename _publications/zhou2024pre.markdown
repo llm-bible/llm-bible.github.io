@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03445"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03445'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained large language models (LLMs) exhibit impressive mathematical
 reasoning capabilities, yet how they compute basic arithmetic, such as

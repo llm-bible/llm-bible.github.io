@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01204"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01204'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Uncovering early-stage metrics that reflect final model performance is one
 core principle for large-scale pretraining. The existing scaling law

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12163"}
-  - {name: "Code", url: "https://github.com/dropreg/Fennec"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12163'}
+  - {name: "Code", url: 'https://github.com/dropreg/Fennec'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 The rapid advancement of large language models has given rise to a plethora
 of applications across a myriad of real-world tasks, mainly centered on

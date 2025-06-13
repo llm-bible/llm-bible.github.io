@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16702"}
-tags: ['Security', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16702'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security']
 ---
 Large Language Models (LLMs) have shown to be capable of various tasks, yet
 their capability in interpreting and reasoning over tabular data remains an

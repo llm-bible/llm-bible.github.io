@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maharana2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17753"}
-tags: ['RAG', 'Agentic', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17753'}
+tags: ['Applications', 'RAG', 'Agentic', 'Model Architecture']
 ---
 Existing works on long-term open-domain dialogues focus on evaluating model
 responses within contexts spanning no more than five chat sessions. Despite

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023overview
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17522"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17522'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 This paper presents an overview of the PromptCBLUE shared task

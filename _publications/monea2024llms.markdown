@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: monea2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05362"}
-tags: ['Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05362'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) excel at in-context learning (ICL), a supervised
 learning technique that relies on adding annotated examples to the model

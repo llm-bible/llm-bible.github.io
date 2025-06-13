@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hamidi2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02549"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02549'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This paper investigates the use of artificial intelligence chatbots for

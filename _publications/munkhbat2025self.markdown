@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: munkhbat2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20122"}
-  - {name: "Code", url: "https://github.com/TergelMunkhbat/concise-reasoning"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20122'}
+  - {name: "Code", url: 'https://github.com/TergelMunkhbat/concise-reasoning'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Chain-of-thought (CoT) reasoning has enabled large language models (LLMs) to
 utilize additional computation through intermediate tokens to solve complex

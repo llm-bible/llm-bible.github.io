@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01084"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01084'}
 tags: ['RAG', 'Security', 'Applications']
 ---
 When using large language models (LLMs) in knowledge-intensive tasks, such as

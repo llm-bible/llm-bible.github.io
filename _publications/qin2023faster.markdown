@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qin2023faster
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14995"}
-  - {name: "Code", url: "https://github.com/OpenNLPLab/TransnormerLLM"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14995'}
+  - {name: "Code", url: 'https://github.com/OpenNLPLab/TransnormerLLM'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present TransNormerLLM, the first linear attention-based Large Language
 Model (LLM) that outperforms conventional softmax attention-based models in

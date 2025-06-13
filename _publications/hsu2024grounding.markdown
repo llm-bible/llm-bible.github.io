@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hsu2024grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23214"}
-tags: ['Tools', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23214'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 The hallucinations of large language models (LLMs) are increasingly mitigated
 by allowing LLMs to search for information and to ground their answers in real

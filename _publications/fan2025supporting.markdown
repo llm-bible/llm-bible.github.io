@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025supporting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16097"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16097'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Teaching literature under interdisciplinary contexts (e.g., science, art)
 that connect reading materials has become popular in elementary schools.

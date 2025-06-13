@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: liu2021token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08704"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08704'}
+tags: ['Language Modeling', 'ACL', 'GPT', 'Model Architecture', 'Applications']
 ---
 Large pretrained generative models like GPT-3 often suffer from hallucinating
 non-existent or incorrect content, which undermines their potential merits in

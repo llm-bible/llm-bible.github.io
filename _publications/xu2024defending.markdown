@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08983"}
-tags: ['Responsible AI', 'Security', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08983'}
+tags: ['Reinforcement Learning', 'Security', 'Responsible AI', 'Applications']
 ---
 As large language models (LLMs) become increasingly integrated into
 real-world applications such as code generation and chatbot assistance,

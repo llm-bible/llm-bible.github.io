@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13195"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13195'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Artificial intelligence has made significant progress in natural language

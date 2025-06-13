@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: krishna2023post
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11426"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11426'}
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 performing complex tasks. Moreover, recent research has shown that

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15006"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15006'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 This study critically evaluates the efficacy of prompting methods in
 enhancing the mathematical reasoning capability of large language models

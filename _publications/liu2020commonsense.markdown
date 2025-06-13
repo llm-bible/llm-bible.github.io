@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020commonsense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.05240"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.05240'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Human tackle reading comprehension not only based on the given context itself
 but often rely on the commonsense beyond. To empower the machine with

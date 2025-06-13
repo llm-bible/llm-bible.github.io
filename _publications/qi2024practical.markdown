@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11799"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11799'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 In an enterprise Virtual Assistant (VA) system, intent classification is the
 crucial component that determines how a user input is handled based on what the

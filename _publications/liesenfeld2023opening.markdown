@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liesenfeld2023opening
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.05532"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.05532'}
+tags: ['Agentic', 'Language Modeling', 'Fairness', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Applications', 'Survey Paper', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models that exhibit instruction-following behaviour represent
 one of the biggest recent upheavals in conversational interfaces, a trend in

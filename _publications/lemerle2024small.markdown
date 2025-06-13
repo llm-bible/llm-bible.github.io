@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lemerle2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04467"}
-  - {name: "Code", url: "https://github.com/theodorblackbird/lina-speech"}
-tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04467'}
+  - {name: "Code", url: 'https://github.com/theodorblackbird/lina-speech'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recent advancements in text-to-speech (TTS) powered by language models have
 showcased remarkable capabilities in achieving naturalness and zero-shot voice

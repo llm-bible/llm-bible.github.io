@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: gangadharaiah2018achieving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1804.03799"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1804.03799'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 We consider real world task-oriented dialog settings, where agents need to
 generate both fluent natural language responses and correct external actions

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bao2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11506"}
-  - {name: "Code", url: "https://github.com/baoguangsheng/glimpse"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11506'}
+  - {name: "Code", url: 'https://github.com/baoguangsheng/glimpse'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT']
 ---
 Advanced large language models (LLMs) can generate text almost
 indistinguishable from human-written text, highlighting the importance of

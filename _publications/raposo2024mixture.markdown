@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: raposo2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02258"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02258'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based language models spread FLOPs uniformly across input
 sequences. In this work we demonstrate that transformers can instead learn to

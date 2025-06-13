@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025humanizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00049"}
-tags: ['Agentic', 'Survey Paper', 'Tools', 'Applications', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00049'}
+tags: ['Agentic', 'Applications', 'Tools', 'Prompting', 'Survey Paper']
 ---
 As large language models (LLMs) are increasingly used in human-centered
 tasks, assessing their psychological traits is crucial for understanding their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20540"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20540'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning']
 ---
 Multi-modal Large Langue Models (MLLMs) often process thousands of visual
 tokens, which consume a significant portion of the context window and impose a

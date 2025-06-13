@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahn2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11017"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11017'}
 tags: ['RAG', 'Prompting']
 ---
 Mainstream LLM research has primarily focused on enhancing their generative

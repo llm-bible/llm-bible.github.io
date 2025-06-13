@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01625"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01625'}
 tags: ['Prompting']
 ---
 Despite the recent success of Large Language Models (LLMs), it remains

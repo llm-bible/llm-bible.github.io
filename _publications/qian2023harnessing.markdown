@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qian2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05140"}
-tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05140'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Empathetic dialogue is an indispensable part of building harmonious social
 relationships and contributes to the development of a helpful AI. Previous

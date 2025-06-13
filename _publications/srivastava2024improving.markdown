@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: srivastava2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19925"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19925'}
 tags: ['Security', 'Multimodal Models', 'Applications']
 ---
 Generative large language models (LLMs) exhibit impressive capabilities,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10176"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10176'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 The tasks of out-of-domain (OOD) intent discovery and generalized intent
 discovery (GID) aim to extend a closed intent classifier to open-world intent

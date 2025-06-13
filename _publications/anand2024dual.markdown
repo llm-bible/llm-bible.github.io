@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: anand2024dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00053"}
-tags: ['GPT', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00053'}
+tags: ['Masked Language Model', 'GPT', 'BERT', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Language models have the ability to perform in-context learning (ICL),
 allowing them to flexibly adapt their behavior based on context. This contrasts

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025knowing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01025"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01025'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) process entire input contexts indiscriminately,
 which is inefficient in cases where the information required to answer a query

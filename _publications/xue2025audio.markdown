@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xue2025audio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16584"}
-tags: ['Fine-Tuning', 'TACL', 'ACL', 'Tokenization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16584'}
+tags: ['TACL', 'Fine-Tuning', 'Tokenization', 'ACL']
 ---
 Recent advancements in audio tokenization have significantly enhanced the
 integration of audio capabilities into large language models (LLMs). However,

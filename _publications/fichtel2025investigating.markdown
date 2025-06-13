@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: fichtel2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18483"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18483'}
 tags: ['Interpretability and Explainability']
 ---
 The ability to generate explanations that are understood by explainees is the

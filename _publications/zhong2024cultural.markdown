@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024cultural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16891"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16891'}
 tags: ['Prompting']
 ---
 Our study aims to identify behavior patterns in cultural values exhibited by

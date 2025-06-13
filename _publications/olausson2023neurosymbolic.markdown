@@ -6,9 +6,9 @@ conference: "Proceedings of the 2023 Conference on Empirical Methods in Natural 
 year: 2023
 bibkey: olausson2023neurosymbolic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15164"}
-  - {name: "Code", url: "https://github.com/benlipkin/linc"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15164'}
+  - {name: "Code", url: 'https://github.com/benlipkin/linc'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Logical reasoning, i.e., deductively inferring the truth value of a
 conclusion from a set of premises, is an important task for artificial

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shu2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05613"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05613'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 yet their internal mechanisms remain largely opaque. Recently, mechanistic

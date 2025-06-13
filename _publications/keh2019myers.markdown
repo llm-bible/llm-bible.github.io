@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: keh2019myers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1907.06333"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1907.06333'}
 tags: ['BERT', 'Model Architecture']
 ---
 The Myers-Briggs Type Indicator (MBTI) is a popular personality metric that

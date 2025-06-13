@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: satvaty2024undesirable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02650"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02650'}
+tags: ['Agentic', 'RAG', 'Security', 'Training Techniques', 'Tools', 'Merging', 'Survey Paper', 'Reinforcement Learning']
 ---
 While recent research increasingly showcases the remarkable capabilities of
 Large Language Models (LLMs), it is equally crucial to examine their associated

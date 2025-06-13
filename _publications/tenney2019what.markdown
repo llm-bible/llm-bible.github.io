@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: tenney2019what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.06316"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.06316'}
 tags: ['BERT', 'Language Modeling', 'Model Architecture']
 ---
 Contextualized representation models such as ELMo (Peters et al., 2018a) and

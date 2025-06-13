@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15777"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15777'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Pre-Training']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various natural language tasks, marking significant strides towards general

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15260"}
-tags: ['RAG', 'Tools', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15260'}
+tags: ['Few-Shot', 'RAG', 'Tools']
 ---
 Low back pain (LBP) is a leading cause of disability globally. Following the
 onset of LBP and subsequent treatment, adequate patient education is crucial

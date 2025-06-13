@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024attribution
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09916"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09916'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Model editing aims to correct outdated or erroneous knowledge in large models
 without costly retraining. Recent research discovered that the mid-layer

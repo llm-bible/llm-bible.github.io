@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024lifelong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14713"}
-tags: ['RAG', 'RecSys', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14713'}
+tags: ['Reinforcement Learning', 'RAG', 'RecSys', 'Merging']
 ---
 CTR prediction plays a vital role in recommender systems. Recently, large
 language models (LLMs) have been applied in recommender systems due to their

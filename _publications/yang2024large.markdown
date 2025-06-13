@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09785"}
-tags: ['INTERSPEECH', 'Agentic', 'Language Modeling', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09785'}
+tags: ['Agentic', 'Language Modeling', 'INTERSPEECH', 'Tools']
 ---
 Given recent advances in generative AI technology, a key question is how
 large language models (LLMs) can enhance acoustic modeling tasks using text

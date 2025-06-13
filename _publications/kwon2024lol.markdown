@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kwon2024lol
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20166"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20166'}
 tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 The expansion of large language models (LLMs) with hundreds of billions of

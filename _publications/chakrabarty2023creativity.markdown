@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chakrabarty2023creativity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12570"}
-tags: ['Tools', 'Survey Paper', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12570'}
+tags: ['Reinforcement Learning', 'Survey Paper', 'Tools', 'Merging']
 ---
 The development of large language models (LLMs) capable of following
 instructions and engaging in conversational interactions sparked increased

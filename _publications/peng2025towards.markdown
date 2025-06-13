@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: peng2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13413"}
-  - {name: "Code", url: "https://github.com/sfasfaffa/DLPO"}
-tags: ['Tools', 'Efficiency and Optimization', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13413'}
+  - {name: "Code", url: 'https://github.com/sfasfaffa/DLPO'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) have achieved remarkable success across diverse
 tasks, largely driven by well-designed prompts. However, crafting and selecting

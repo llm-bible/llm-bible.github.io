@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09698"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09698'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Merging', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) have demonstrated significant
 potential in the field of Recommendation Systems (RSs). Most existing studies

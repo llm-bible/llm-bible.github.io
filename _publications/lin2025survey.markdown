@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17516"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17516'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Survey Paper']
 ---
 The rise of foundation models has transformed machine learning research,
 prompting efforts to uncover their inner workings and develop more efficient

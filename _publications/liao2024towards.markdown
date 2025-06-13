@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17657"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17657'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown promising potential in the medical
 domain, assisting with tasks like clinical note generation and patient

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025evolutionary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07780"}
-  - {name: "Code", url: "https://github.com/IST-DASLab/DarwinLM"}
-tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07780'}
+  - {name: "Code", url: 'https://github.com/IST-DASLab/DarwinLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Quantization', 'Pruning', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have achieved significant success across various
 NLP tasks. However, their massive computational costs limit their widespread

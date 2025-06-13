@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.05976"}
-  - {name: "Code", url: "https://github.com/ATP-1010/FederatedLLM"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.05976'}
+  - {name: "Code", url: 'https://github.com/ATP-1010/FederatedLLM'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The rapid development of Large Language Models (LLMs) has been pivotal in
 advancing AI, with pre-trained LLMs being adaptable to diverse downstream tasks

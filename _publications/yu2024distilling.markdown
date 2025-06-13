@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20340"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Distillation', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20340'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Survey Paper']
 ---
 There has been a growing interest in using Large Language Models (LLMs) for
 code review thanks to their proven proficiency in code comprehension. The

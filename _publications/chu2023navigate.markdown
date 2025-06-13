@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chu2023navigate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15402"}
-  - {name: "Code", url: "https://github.com/zchuz/CoT-Reasoning-Survey"}
-tags: ['Survey Paper', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15402'}
+  - {name: "Code", url: 'https://github.com/zchuz/CoT-Reasoning-Survey'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting', 'Survey Paper']
 ---
 Reasoning, a fundamental cognitive process integral to human intelligence,
 has garnered substantial interest within artificial intelligence. Notably,

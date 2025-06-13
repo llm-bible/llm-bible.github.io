@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cherkassky2024perspective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06598"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06598'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) are known for their remarkable ability to

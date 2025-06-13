@@ -6,7 +6,7 @@ conference: "ACL 2024 Main Conference 7841-7863"
 year: 2023
 bibkey: kong2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11534"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11534'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 The unparalleled performance of closed-sourced ChatGPT has sparked efforts

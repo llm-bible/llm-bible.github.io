@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024doubly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08108"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08108'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Model Architecture', 'Multimodal Models']
 ---
 Large Vision-Language Models (VLMs) have demonstrated remarkable performance
 across multimodal tasks by integrating vision encoders with large language

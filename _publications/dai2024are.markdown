@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08324"}
-tags: ['ACL', 'Training Techniques', 'RAG', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08324'}
+tags: ['Training Techniques', 'RAG', 'ACL', 'Pre-Training']
 ---
 Many existing evaluation benchmarks for Large Language Models (LLMs) quickly
 become outdated due to the emergence of new models and training data. These

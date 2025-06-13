@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023generative
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.10108v2"}
-  - {name: "Code", url: "https://github.com/LehengTHU/Agent4Rec"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'RecSys', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.10108v2'}
+  - {name: "Code", url: 'https://github.com/LehengTHU/Agent4Rec'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Tools', 'RecSys', 'Reinforcement Learning']
 ---
 Recommender systems are the cornerstone of today's information dissemination,
 yet a disconnect between offline metrics and online performance greatly hinders

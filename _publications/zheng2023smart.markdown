@@ -6,8 +6,8 @@ conference: "Machine Learning for Health (ML4H 2023)"
 year: 2023
 bibkey: zheng2023smart
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14730"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14730'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the rise of Large Language Models (LLMs), notably characterized by GPT
 frameworks, there emerges a catalyst for novel healthcare applications. Earlier

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vladika2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05845"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05845'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Pre-Training']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated an impressive
 ability to encode knowledge during pre-training on large text corpora. They can

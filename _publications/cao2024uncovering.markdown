@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01800"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01800'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Recent advancements in video-based large language models (Video LLMs) have
 witnessed the emergence of diverse capabilities to reason and interpret dynamic

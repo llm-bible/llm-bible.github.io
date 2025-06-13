@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024cbt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13218"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13218'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 There is a significant gap between patient needs and available mental health
 support today. In this paper, we aim to thoroughly examine the potential of

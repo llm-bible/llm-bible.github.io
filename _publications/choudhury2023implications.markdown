@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: choudhury2023implications
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13856"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13856'}
 tags: ['Ethics and Bias']
 ---
 Edge probing tests are classification tasks that test for grammatical

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12265"}
-tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Ethics and Bias', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12265'}
+tags: ['Efficiency and Optimization', 'Tools', 'Prompting', 'Survey Paper', 'Ethics and Bias']
 ---
 With the rapid development of large language models (LLMs), how to
 efficiently evaluate them has become an important research question. Existing

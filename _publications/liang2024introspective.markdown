@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024introspective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06529"}
-  - {name: "Code", url: "https://introplan.github.io"}
-tags: ['Responsible AI', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06529'}
+  - {name: "Code", url: 'https://introplan.github.io'}
+tags: ['Has Code', 'Responsible AI']
 ---
 Large language models (LLMs) exhibit advanced reasoning skills, enabling
 robots to comprehend natural language instructions and strategically plan

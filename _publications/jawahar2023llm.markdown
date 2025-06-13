@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jawahar2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16712"}
-  - {name: "Code", url: "https://github.com/UBC-NLP/llmas"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16712'}
+  - {name: "Code", url: 'https://github.com/UBC-NLP/llmas'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 In this work, we utilize Large Language Models (LLMs) for a novel use case:
 constructing Performance Predictors (PP) that estimate the performance of

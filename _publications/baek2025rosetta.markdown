@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: baek2025rosetta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00001"}
-tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00001'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Large Language Models (LLMs) are primarily trained on high-resource natural
 languages, limiting their effectiveness in low-resource settings and in tasks

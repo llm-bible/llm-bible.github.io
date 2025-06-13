@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01396"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01396'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Learning is a key motivator behind information search behavior. With the
 emergence of LLM-based chatbots, students are increasingly turning to these

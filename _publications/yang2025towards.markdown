@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18080"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18080'}
 tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Distillation']
 ---
 Recent studies have shown that making a model spend more time thinking

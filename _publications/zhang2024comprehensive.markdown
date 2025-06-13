@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06287"}
-  - {name: "Code", url: "https://github.com/ACMISLab/PediaBench"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06287'}
+  - {name: "Code", url: 'https://github.com/ACMISLab/PediaBench'}
 tags: ['Has Code', 'Uncategorized']
 ---
 The emergence of Large Language Models (LLMs) in the medical domain has

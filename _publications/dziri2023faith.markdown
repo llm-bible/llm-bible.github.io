@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dziri2023faith
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18654"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18654'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Transformer large language models (LLMs) have sparked admiration for their
 exceptional performance on tasks that demand intricate multi-step reasoning.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nawrot2025sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17768"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pruning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17768'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Scaling Laws', 'Pruning', 'Pre-Training', 'Pretraining Methods']
 ---
 Sparse attention offers a promising strategy to extend long-context
 capabilities in Transformer LLMs, yet its viability, its efficiency-accuracy

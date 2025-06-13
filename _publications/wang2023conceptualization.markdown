@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023conceptualization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14869"}
-  - {name: "Code", url: "https://github.com/HKUST-KnowComp/CAR"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14869'}
+  - {name: "Code", url: 'https://github.com/HKUST-KnowComp/CAR'}
+tags: ['Has Code', 'RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The task of zero-shot commonsense question answering evaluates models on
 their capacity to reason about general scenarios beyond those presented in

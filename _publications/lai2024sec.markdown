@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lai2024sec
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14394"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14394'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The financial domain frequently deals with large numbers of long documents
 that are essential for daily operations. Significant effort is put towards

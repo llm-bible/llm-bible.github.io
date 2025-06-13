@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024explainable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22916"}
-tags: ['Interpretability and Explainability', 'Agentic', 'Applications', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22916'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Applications', 'Merging']
 ---
 Autonomous mobile app interaction has become increasingly important with
 growing complexity of mobile applications. Developing intelligent agents that

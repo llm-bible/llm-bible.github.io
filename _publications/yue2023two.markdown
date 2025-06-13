@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yue2023two
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.02089v1"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.02089v1'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Tools', 'Prompting', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have exhibited significant progress in
 language understanding and generation. By leveraging textual features,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08922"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08922'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Aligning Large Language Models (LLMs) with human preferences is crucial for
 their deployment in real-world applications. Recent advancements in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jindal2024balancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10739"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10739'}
+tags: ['Pre-Training', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) for public use require continuous pre-training
 to remain up-to-date with the latest data. The models also need to be

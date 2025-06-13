@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sharifzadeh2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07750"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07750'}
+tags: ['RAG', 'Multimodal Models', 'Training Techniques']
 ---
 The creation of high-quality human-labeled image-caption datasets presents a
 significant bottleneck in the development of Visual-Language Models (VLMs). In

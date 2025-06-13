@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024biology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19191"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19191'}
+tags: ['Pre-Training', 'Fine-Tuning', 'Training Techniques']
 ---
 Large language models have already demonstrated their formidable capabilities
 in general domains, ushering in a revolutionary transformation. However,

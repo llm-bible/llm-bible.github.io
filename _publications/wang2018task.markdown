@@ -6,8 +6,8 @@ conference: "Association for the Advancement of Artificial Intelligence (AAAI) 2
 year: 2018
 bibkey: wang2018task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1811.00119"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1811.00119'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Paraphrasing is rooted in semantics. We show the effectiveness of
 transformers (Vaswani et al. 2017) for paraphrase generation and further

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zinjad2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06221"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06221'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Crafting the ideal, job-specific resume is a challenging task for many job
 applicants, especially for early-career applicants. While it is highly

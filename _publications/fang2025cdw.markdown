@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025cdw
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12226"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12226'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Large Language Models (LLMs) have recently achieved impressive results in

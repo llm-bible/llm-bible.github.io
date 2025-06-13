@@ -6,7 +6,7 @@ conference: "(GenAICHI 2023) CHI 2023 Workshop on Generative AI and HCI Apr 28 2
 year: 2023
 bibkey: rosenberg2023manipulation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11748"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11748'}
 tags: ['Agentic', 'GPT', 'Model Architecture', 'Merging']
 ---
 The technology of Conversational AI has made significant advancements over

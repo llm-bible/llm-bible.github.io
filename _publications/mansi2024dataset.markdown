@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mansi2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20427"}
-tags: ['RAG', 'Tools', 'LREC', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20427'}
+tags: ['Ethics and Bias', 'RAG', 'Tools', 'LREC']
 ---
 Existing datasets for relation classification and extraction often exhibit
 limitations such as restricted relation types and domain-specific biases. This

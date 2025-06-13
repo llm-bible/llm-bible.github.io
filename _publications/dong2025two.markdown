@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05614"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05614'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent research has shown that large language models (LLMs) can enhance

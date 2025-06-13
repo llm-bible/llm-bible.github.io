@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08825"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08825'}
 tags: ['Applications', 'Merging']
 ---
 Multi-modal Large Language Models (MLLMs) have made significant strides in

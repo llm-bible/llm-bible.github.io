@@ -6,8 +6,8 @@ conference: "AAAI 2025"
 year: 2024
 bibkey: li2024retention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17544"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17544'}
+tags: ['Security', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'Multimodal Models', 'Responsible AI']
 ---
 The emergence of Vision-Language Models (VLMs) is a significant advancement
 in integrating computer vision with Large Language Models (LLMs) to enhance

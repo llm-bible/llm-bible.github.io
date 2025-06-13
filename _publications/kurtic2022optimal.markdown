@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: kurtic2022optimal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.07259"}
-  - {name: "Code", url: "https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.07259'}
+  - {name: "Code", url: 'https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Quantization', 'Pruning', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformer-based language models have become a key building block for
 natural language processing. While these models are extremely accurate, they

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abkenar2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05639"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05639'}
 tags: ['Few-Shot']
 ---
 We explore the capability of four open-sourcelarge language models (LLMs) in

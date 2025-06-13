@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07004"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07004'}
 tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) demonstrate impressive multilingual capability,

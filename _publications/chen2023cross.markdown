@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02663"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02663'}
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Cross-modal medical image translation is an essential task for synthesizing
 missing modality data for clinical diagnosis. However, current learning-based

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025local
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11007"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11007'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Agentic']
 ---
 Compared to traditional machine learning models, recent large language models
 (LLMs) can exhibit multi-task-solving capabilities through multiple dialogues

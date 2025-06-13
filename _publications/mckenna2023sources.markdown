@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mckenna2023sources
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14552"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14552'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are claimed to be capable of Natural Language
 Inference (NLI), necessary for applied tasks like question answering and

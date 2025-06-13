@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vacareanu2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07544"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07544'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 We analyze how well pre-trained large language models (e.g., Llama2, GPT-4,
 Claude 3, etc) can do linear and non-linear regression when given in-context

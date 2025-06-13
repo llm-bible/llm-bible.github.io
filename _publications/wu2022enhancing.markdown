@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.04179"}
-tags: ['Transformer', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.04179'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Transformer', 'Model Architecture']
 ---
 Today the pre-trained language models achieve great success for question
 generation (QG) task and significantly outperform traditional

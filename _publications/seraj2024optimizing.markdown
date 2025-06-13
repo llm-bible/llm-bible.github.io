@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: seraj2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07429"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07429'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Automatic evaluation by large language models (LLMs) is a prominent topic
 today; however, judgment and evaluation tasks are often subjective and

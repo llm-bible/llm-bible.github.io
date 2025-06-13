@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17675"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17675'}
+tags: ['Reinforcement Learning', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated exceptional task-solving
 capabilities, increasingly adopting roles akin to human-like assistants. The

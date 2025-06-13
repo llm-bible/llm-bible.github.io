@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024grokked
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15071"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15071'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 We study whether transformers can learn to implicitly reason over parametric
 knowledge, a skill that even the most capable language models struggle with.

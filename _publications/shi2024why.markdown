@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19592"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19592'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLM) have emerged as a powerful tool for AI, with the
 key ability of in-context learning (ICL), where they can perform well on unseen

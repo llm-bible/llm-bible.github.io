@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08360"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08360'}
 tags: ['Multimodal Models', 'Applications', 'Model Architecture']
 ---
 Having revolutionized natural language processing (NLP) applications, large

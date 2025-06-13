@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: spataru2024know
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05411"}
-tags: ['Applications', 'Tools', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05411'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications', 'Tools']
 ---
 In this work, we explicitly show that modern LLMs tend to generate correct
 facts first, then "drift away" and generate incorrect facts later: this was

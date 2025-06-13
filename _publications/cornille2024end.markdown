@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cornille2024end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12492"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12492'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Through end-to-end training to predict the next token, LLMs have become
 valuable tools for various tasks. Enhancing their core training in language

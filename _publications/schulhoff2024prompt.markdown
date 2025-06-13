@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schulhoff2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06608"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06608'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Survey Paper']
 ---
 Generative Artificial Intelligence (GenAI) systems are increasingly being
 deployed across diverse industries and research domains. Developers and

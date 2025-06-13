@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rabin2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00018"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00018'}
+tags: ['Reinforcement Learning', 'Security', 'Responsible AI', 'Tools']
 ---
 While large language models (LLMs) are powerful assistants in programming
 tasks, they may also produce malicious code. Testing LLM-generated code

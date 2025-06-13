@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08147"}
-tags: ['Security', 'Efficiency and Optimization', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08147'}
+tags: ['Security', 'Language Modeling', 'Efficiency and Optimization', 'Applications']
 ---
 LLMs and AI chatbots have improved people's efficiency in various fields.
 However, the necessary knowledge for answering the question may be beyond the

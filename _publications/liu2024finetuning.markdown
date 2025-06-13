@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024finetuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16127"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16127'}
+tags: ['Applications', 'Tools']
 ---
 Traditional knowledge graph (KG) completion models learn embeddings to
 predict missing facts. Recent works attempt to complete KGs in a

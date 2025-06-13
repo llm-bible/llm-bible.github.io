@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pradeep2024spinning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05948"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05948'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 The rapid advancement of Large Language Models (LLMs) and conversational

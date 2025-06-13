@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bacciu2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19749"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19749'}
 tags: ['RAG', 'Prompting', 'Model Architecture']
 ---
 Query recommendation systems are ubiquitous in modern search engines,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: milano2025comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12080"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12080'}
 tags: ['Training Techniques']
 ---
 In this article we explore the application of Large Language Models (LLMs) in

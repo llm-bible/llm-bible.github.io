@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05025"}
-tags: ['RAG', 'Tools', 'Fairness', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05025'}
+tags: ['RAG', 'Fairness', 'Tools', 'Survey Paper']
 ---
 The rise of large language models (LLMs) has led many researchers to consider
 their usage for scientific work. Some have found benefits using LLMs to augment

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cho2025building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17753"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17753'}
+tags: ['Reinforcement Learning', 'Agentic', 'Model Architecture']
 ---
 Language agents powered by large language models (LLMs) face significant
 deployment challenges in resource-constrained environments, particularly for

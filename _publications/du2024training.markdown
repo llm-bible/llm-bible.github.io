@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14203"}
-  - {name: "Code", url: "https://github.com/FreedomIntelligence/BlenderLLM"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14203'}
+  - {name: "Code", url: 'https://github.com/FreedomIntelligence/BlenderLLM'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The application of Large Language Models (LLMs) in Computer-Aided Design
 (CAD) remains an underexplored area, despite their remarkable advancements in

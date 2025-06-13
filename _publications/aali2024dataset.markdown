@@ -6,8 +6,8 @@ conference: "JAMIA 2024"
 year: 2024
 bibkey: aali2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05720"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05720'}
+tags: ['Security', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Brief hospital course (BHC) summaries are clinical documents that summarize a
 patient's hospital stay. While large language models (LLMs) depict remarkable

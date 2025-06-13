@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: young2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15446"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15446'}
+tags: ['Transformer', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Modern language models paradoxically combine unprecedented capability with
 persistent vulnerability in that they can draft poetry yet cannot reliably

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lim2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08269"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08269'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The increasing availability of multimodal data across text, tables, and
 images presents new challenges for developing models capable of complex

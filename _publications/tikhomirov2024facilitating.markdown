@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tikhomirov2024facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.21140"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.21140'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Applications', 'Pre-Training']
 ---
 Rapid advancements of large language model (LLM) technologies led to the
 introduction of powerful open-source instruction-tuned LLMs that have the same

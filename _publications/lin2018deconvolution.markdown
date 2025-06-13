@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: lin2018deconvolution
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1806.03692"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1806.03692'}
 tags: ['Applications']
 ---
 A great proportion of sequence-to-sequence (Seq2Seq) models for Neural

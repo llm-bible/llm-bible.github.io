@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hazra2025have
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03930"}
-tags: ['GPT', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03930'}
+tags: ['Reinforcement Learning', 'GPT', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have been touted as AI models possessing
 advanced reasoning abilities. In theory, autoregressive LLMs with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: madaan2022text
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2209.07686v2"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2209.07686v2'}
+tags: ['Language Modeling', 'Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 The past decade has witnessed dramatic gains in natural language processing
 and an unprecedented scaling of large language models. These developments have

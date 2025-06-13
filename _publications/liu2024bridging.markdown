@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01671"}
-  - {name: "Code", url: "https://github.com/OceannTwT/LQCA"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01671'}
+  - {name: "Code", url: 'https://github.com/OceannTwT/LQCA'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Large language models (LLMs) have shown remarkable capabilities in natural
 language processing; however, they still face difficulties when tasked with

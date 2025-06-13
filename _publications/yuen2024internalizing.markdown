@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuen2024internalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17353"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17353'}
 tags: ['Uncategorized']
 ---
 Current speech-based LLMs are predominantly trained on extensive ASR and TTS

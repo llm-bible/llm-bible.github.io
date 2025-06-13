@@ -6,8 +6,8 @@ conference: "ICLR 2024 (Spotlight)"
 year: 2023
 bibkey: sprague2023testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16049"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16049'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 While large language models (LLMs) equipped with techniques like
 chain-of-thought prompting have demonstrated impressive capabilities, they

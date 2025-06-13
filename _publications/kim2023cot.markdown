@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023cot
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.14045v2"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.14045v2'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language models (LMs) with less than 100B parameters are known to perform
 poorly on chain-of-thought (CoT) reasoning in contrast to large LMs when

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.14576"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.14576'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Creating multiple-choice questions to assess reading comprehension of a given
 article involves generating question-answer pairs (QAPs) and adequate

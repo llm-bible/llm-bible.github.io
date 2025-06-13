@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cheng2025multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13059"}
-tags: ['Applications', 'Multimodal Models', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13059'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Multimodal Models', 'Applications']
 ---
 The increasing application of multi-modal large language models (MLLMs)
 across various sectors have spotlighted the essence of their output reliability

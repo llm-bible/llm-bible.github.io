@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023mm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17600"}
-  - {name: "Code", url: "https://github.com/isXinLiu/MM-SafetyBench"}
-tags: ['Responsible AI', 'Tools', 'Security', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17600'}
+  - {name: "Code", url: 'https://github.com/isXinLiu/MM-SafetyBench'}
+tags: ['Has Code', 'Security', 'Tools', 'Prompting', 'Multimodal Models', 'Responsible AI']
 ---
 The security concerns surrounding Large Language Models (LLMs) have been
 extensively explored, yet the safety of Multimodal Large Language Models

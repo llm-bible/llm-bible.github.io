@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024arithmetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17893"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17893'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Instructing large language models (LLMs) to solve elementary school math
 problems has shown great success using Chain of Thought (CoT). However, the CoT

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024ferret
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07973"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07973'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 While Ferret seamlessly integrates regional understanding into the Large
 Language Model (LLM) to facilitate its referring and grounding capability, it

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: malik2024lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19012"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19012'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 In this thesis, I evaluate the performance of Large Language Models (LLMs) on
 the Law School Admissions Test (LSAT), specifically the Logic Games section of

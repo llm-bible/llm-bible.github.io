@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12344"}
-  - {name: "Code", url: "https://github.com/joeyy5588/LACMA"}
-tags: ['Transformer', 'Agentic', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12344'}
+  - {name: "Code", url: 'https://github.com/joeyy5588/LACMA'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'ACL', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'Pretraining Methods']
 ---
 End-to-end Transformers have demonstrated an impressive success rate for
 Embodied Instruction Following when the environment has been seen in training.

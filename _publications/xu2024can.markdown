@@ -6,8 +6,8 @@ conference: "International Conference on Learning Representations (ICLR 2025)"
 year: 2024
 bibkey: xu2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14804"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14804'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Math Word Problems (MWPs) play a vital role in assessing the capabilities of
 Large Language Models (LLMs), yet current research primarily focuses on

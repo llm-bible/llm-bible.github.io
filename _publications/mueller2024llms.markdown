@@ -6,9 +6,9 @@ conference: "Proceedings of the AAAI/ACM Conference on AI Ethics and Society 7(1
 year: 2024
 bibkey: mueller2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18492"}
-  - {name: "Code", url: "https://github.com/felixbmuller/llms-memorization-copyright"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18492'}
+  - {name: "Code", url: 'https://github.com/felixbmuller/llms-memorization-copyright'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 Memorization in large language models (LLMs) is a growing concern. LLMs have
 been shown to easily reproduce parts of their training data, including

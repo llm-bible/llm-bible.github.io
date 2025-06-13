@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03824"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03824'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated significant potential in
 solving recommendation tasks. With proven capabilities in understanding user

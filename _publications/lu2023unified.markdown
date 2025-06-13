@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17172"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17172'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 We present Unified-IO 2, the first autoregressive multimodal model that is
 capable of understanding and generating image, text, audio, and action. To

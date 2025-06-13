@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13019"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13019'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 Retrieval-Augmented Generation (RAG) aims to augment the capabilities of
 Large Language Models (LLMs) by retrieving and incorporate external documents

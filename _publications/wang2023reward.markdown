@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09641"}
-tags: ['Responsible AI', 'Security', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09641'}
+tags: ['Reinforcement Learning', 'Agentic', 'Security', 'Responsible AI']
 ---
 Reinforcement Learning with Human Feedback (RLHF) is a methodology designed
 to align Large Language Models (LLMs) with human preferences, playing an

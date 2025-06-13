@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024crafting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00997"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00997'}
 tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated significant

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024monolingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10441"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10441'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 For many low-resource languages, the only available language models are large
 multilingual models trained on many languages simultaneously. However, using

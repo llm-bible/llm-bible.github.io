@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ki2025planning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11571"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11571'}
 tags: ['Agentic', 'Tools']
 ---
 Large Language Model (LLM)-powered agents have unlocked new possibilities for

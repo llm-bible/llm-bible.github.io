@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jayasuriya2025subspace
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02909"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02909'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We propose SPARC, a lightweight continual learning framework for large
 language models (LLMs) that enables efficient task adaptation through prompt

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mukherjee2023skill
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03268"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03268'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Recent advancements in AI have sparked a trend in constructing large,
 generalist language models that handle a multitude of tasks, including many

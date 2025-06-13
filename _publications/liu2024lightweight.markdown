@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15538"}
-  - {name: "Code", url: "https://github.com/SalesforceAIResearch/AgentLite"}
-tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Agent', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15538'}
+  - {name: "Code", url: 'https://github.com/SalesforceAIResearch/AgentLite'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The booming success of LLMs initiates rapid development in LLM agents. Though
 the foundation of an LLM agent is the generative model, it is critical to

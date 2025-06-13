@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023policy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04407"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04407'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Interpretability']
 ---
 Text retrieval plays a crucial role in incorporating factual knowledge for
 decision making into language processing pipelines, ranging from chat-based web

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023mental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14385"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14385'}
+tags: ['Few-Shot', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Advances in large language models (LLMs) have empowered a variety of
 applications. However, there is still a significant gap in research when it

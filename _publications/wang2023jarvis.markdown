@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023jarvis
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.05997v3"}
-tags: ['Agentic', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.05997v3'}
+tags: ['Reinforcement Learning', 'Agentic', 'Multimodal Models']
 ---
 Achieving human-like planning and control with multimodal observations in an
 open world is a key milestone for more functional generalist agents. Existing

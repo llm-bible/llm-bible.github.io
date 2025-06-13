@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwalla2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03594"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03594'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Quantization', 'Pruning', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized Natural Language Processing
 (NLP), but their size creates computational bottlenecks. We introduce a novel

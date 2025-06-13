@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024transferable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05328"}
-tags: ['ACL', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05328'}
+tags: ['Efficiency and Optimization', 'ACL']
 ---
 Despite advancements in large language models (LLMs), non-factual responses
 remain prevalent. Unlike extensive studies on post-hoc detection of such

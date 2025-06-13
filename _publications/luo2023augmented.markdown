@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023augmented
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.04757"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.04757'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have significantly advanced natural language
 processing (NLP) with their impressive language understanding and generation

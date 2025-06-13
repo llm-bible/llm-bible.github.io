@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.04349"}
-  - {name: "Code", url: "https://github.com/Zyq-scut/RLTF"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.04349'}
+  - {name: "Code", url: 'https://github.com/Zyq-scut/RLTF'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The goal of program synthesis, or code generation, is to generate executable
 code based on given descriptions. Recently, there has been an increasing number

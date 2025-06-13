@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024theory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05302"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05302'}
+tags: ['Prompting', 'Agentic']
 ---
 Large Language Models have shown exceptional generative abilities in various
 natural language and generation tasks. However, possible anthropomorphization

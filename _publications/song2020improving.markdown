@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: song2020improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.06018"}
-tags: ['Ethics and Bias', 'Applications', 'Bias Mitigation', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.06018'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Auto-regressive sequence generative models trained by Maximum Likelihood
 Estimation suffer the exposure bias problem in practical finite sample

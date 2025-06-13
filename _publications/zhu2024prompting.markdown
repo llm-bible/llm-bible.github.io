@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01713"}
-  - {name: "Code", url: "https://github.com/yhzhu99/llm4healthcare"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01713'}
+  - {name: "Code", url: 'https://github.com/yhzhu99/llm4healthcare'}
+tags: ['Has Code', 'Few-Shot', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 The inherent complexity of structured longitudinal Electronic Health Records
 (EHR) data poses a significant challenge when integrated with Large Language

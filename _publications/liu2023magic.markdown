@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023magic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19213"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19213'}
 tags: ['Prompting']
 ---
 Causal reasoning, the ability to identify cause-and-effect relationship, is

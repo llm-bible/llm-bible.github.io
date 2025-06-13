@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: khamesian2025personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20601"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20601'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Maintaining a balanced diet is essential for overall health, yet many
 individuals struggle with meal planning due to nutritional complexity, time

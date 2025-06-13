@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zoph2022st
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.08906"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.08906'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Scale has opened new frontiers in natural language processing -- but at a
 high cost. In response, Mixture-of-Experts (MoE) and Switch Transformers have

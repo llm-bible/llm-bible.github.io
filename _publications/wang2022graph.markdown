@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.09730"}
-tags: ['Survey Paper', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.09730'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Survey Paper']
 ---
 Explanations in a recommender system assist users in making informed
 decisions among a set of recommended items. Great research attention has been

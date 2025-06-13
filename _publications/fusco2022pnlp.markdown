@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: fusco2022pnlp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.04350"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.04350'}
+tags: ['Transformer', 'Efficiency and Optimization', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Large pre-trained language models based on transformer architecture have
 drastically changed the natural language processing (NLP) landscape. However,

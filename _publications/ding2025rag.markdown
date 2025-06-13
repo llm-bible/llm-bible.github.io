@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ding2025rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08256"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08256'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Recent advances in large language models (LLMs) provide new opportunities for
 context understanding in virtual reality (VR). However, VR contexts are often

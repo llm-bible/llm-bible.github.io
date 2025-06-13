@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiong2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01097"}
-  - {name: "Code", url: "https://github.com/xionghonglin/DoctorGLM"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01097'}
+  - {name: "Code", url: 'https://github.com/xionghonglin/DoctorGLM'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The recent progress of large language models (LLMs), including ChatGPT and
 GPT-4, in comprehending and responding to human instructions has been

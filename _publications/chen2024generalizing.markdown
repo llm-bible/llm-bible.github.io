@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024generalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07092"}
-  - {name: "Code", url: "https://github.com/haon-chen/ConvAug"}
-tags: ['Tools', 'Pretraining Methods', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07092'}
+  - {name: "Code", url: 'https://github.com/haon-chen/ConvAug'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools', 'Pretraining Methods']
 ---
 Conversational search utilizes muli-turn natural language contexts to
 retrieve relevant passages. Existing conversational dense retrieval models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: muhamed2025collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01883"}
-tags: ['RAG', 'Tools', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01883'}
+tags: ['Few-Shot', 'RAG', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) models excel in knowledge-intensive
 tasks, especially under few-shot learning constraints. We introduce CoRAG, a

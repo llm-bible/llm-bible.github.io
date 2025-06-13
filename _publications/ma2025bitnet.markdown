@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025bitnet
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12285"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12285'}
 tags: ['Efficiency and Optimization', 'Model Architecture']
 ---
 We introduce BitNet b1.58 2B4T, the first open-source, native 1-bit Large

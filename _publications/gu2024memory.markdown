@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11844"}
-tags: ['Training Techniques', 'Security', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11844'}
+tags: ['Training Techniques', 'Reinforcement Learning', 'Efficiency and Optimization', 'Security']
 ---
 Large Language Models (LLMs) can memorize sensitive information, raising
 concerns about potential misuse. LLM Unlearning, a post-hoc approach to remove

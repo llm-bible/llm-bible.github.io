@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: miao2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.00436"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00436'}
 tags: ['Prompting']
 ---
 The recent progress in large language models (LLMs), especially the invention

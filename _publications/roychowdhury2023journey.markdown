@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: roychowdhury2023journey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10961"}
-tags: ['Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10961'}
+tags: ['Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Generative AI has significantly reduced the entry barrier to the domain of AI
 owing to the ease of use and core capabilities of automation, translation, and

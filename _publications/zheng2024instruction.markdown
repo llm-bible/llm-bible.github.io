@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19783"}
-  - {name: "Code", url: "https://github.com/2toinf/IVM"}
-tags: ['Training Techniques', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19783'}
+  - {name: "Code", url: 'https://github.com/2toinf/IVM'}
+tags: ['Has Code', 'Multimodal Models', 'Training Techniques']
 ---
 Instruction following is crucial in contemporary LLM. However, when extended
 to multimodal setting, it often suffers from misalignment between specific

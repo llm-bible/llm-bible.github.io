@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wang2019convolutional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.00249"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.00249'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Image paragraph generation is the task of producing a coherent story (usually
 a paragraph) that describes the visual content of an image. The problem

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02503"}
-  - {name: "Code", url: "https://github.com/Upper9527/GeReA"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02503'}
+  - {name: "Code", url: 'https://github.com/Upper9527/GeReA'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Knowledge-based visual question answering (VQA) requires world knowledge
 beyond the image for accurate answer. Recently, instead of extra knowledge

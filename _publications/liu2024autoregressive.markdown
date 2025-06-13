@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02370"}
-  - {name: "Code", url: "https://github.com/thuml/AutoTimes"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02370'}
+  - {name: "Code", url: 'https://github.com/thuml/AutoTimes'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Foundation models of time series have not been fully developed due to the
 limited availability of time series corpora and the underexploration of

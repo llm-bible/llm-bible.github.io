@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ravi2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18113"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18113'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Distillation']
 ---
 The emergence of Large Language Models (LLMs) has brought to light promising
 language generation capabilities, particularly in performing tasks like complex

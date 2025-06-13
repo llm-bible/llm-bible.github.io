@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chaves2024tx
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06316"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06316'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Developing therapeutics is a lengthy and expensive process that requires the
 satisfaction of many different criteria, and AI models capable of expediting

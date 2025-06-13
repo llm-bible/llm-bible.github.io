@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ishida2024facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17728"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17728'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Workshop courses designed to foster creativity are gaining popularity.
 However, even experienced faculty teams find it challenging to realize a

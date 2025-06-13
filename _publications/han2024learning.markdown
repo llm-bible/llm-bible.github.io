@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15454"}
-tags: ['Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15454'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in artificial intelligence have led to the creation of
 highly capable large language models (LLMs) that can perform tasks in a

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: doddapaneni2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13394"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13394'}
 tags: ['Tools']
 ---
 Evaluating machine-generated text remains a significant challenge in NLP,

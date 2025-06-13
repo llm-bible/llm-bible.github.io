@@ -6,7 +6,7 @@ conference: "2024 Annual Conference of the North American Chapter of the Associa
 year: 2023
 bibkey: deng2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08730"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08730'}
 tags: ['Multimodal Models', 'Applications']
 ---
 Large Language Models (LLMs) have shown immense potential in multimodal

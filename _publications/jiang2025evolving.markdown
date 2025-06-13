@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jiang2025evolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02268"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02268'}
 tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Recent advancements in Large Language Models (LLMs) have led to the

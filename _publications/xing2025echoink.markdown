@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xing2025echoink
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04623"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04623'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multimodal large language models (MLLMs) have advanced perception across
 text, vision, and audio, yet they often struggle with structured cross-modal

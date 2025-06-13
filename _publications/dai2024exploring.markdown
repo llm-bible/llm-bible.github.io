@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11430"}
-  - {name: "Code", url: "https://github.com/SparksofAGI/MHPP"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11430'}
+  - {name: "Code", url: 'https://github.com/SparksofAGI/MHPP'}
 tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) have greatly improved

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shiri2023lifelong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06493"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06493'}
+tags: ['Efficiency and Optimization', 'Tools', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained foundational language models (FLM) for specific tasks
 is often impractical, especially for resource-constrained devices. This

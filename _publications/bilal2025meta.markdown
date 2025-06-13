@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bilal2025meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14520"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14520'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Distillation', 'Prompting', 'Survey Paper', 'Reinforcement Learning']
 ---
 This survey explores the development of meta-thinking capabilities in Large
 Language Models (LLMs) from a Multi-Agent Reinforcement Learning (MARL)

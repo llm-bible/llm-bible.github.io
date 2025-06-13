@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: merx2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03182"}
-tags: ['Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03182'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 We present a study of LLMs' performance in generating and rating example
 sentences for bilingual dictionaries across languages with varying resource

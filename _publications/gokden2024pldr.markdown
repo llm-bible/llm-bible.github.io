@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gokden2024pldr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16703"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16703'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 We present the Large Language Model from Power Law Decoder Representations
 (PLDR-LLM), a language model that leverages non-linear and linear

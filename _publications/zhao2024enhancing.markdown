@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06985"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06985'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, the pre-training of decision transformers (DT) using a different
 domain, such as natural language text, has generated significant attention in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: muhammed2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01812"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01812'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Detecting hallucinations in Large Language Models (LLMs) remains a critical
 challenge for their reliable deployment in real-world applications. To address

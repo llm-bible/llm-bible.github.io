@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vallaeys2024improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13499"}
-tags: ['Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13499'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 The abilities of large language models (LLMs) have recently progressed to
 unprecedented levels, paving the way to novel applications in a wide variety of

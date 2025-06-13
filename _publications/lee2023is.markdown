@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08049"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08049'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 What is the relationship between model architecture and the ability to
 perform in-context learning? In this empirical study, we take the first steps

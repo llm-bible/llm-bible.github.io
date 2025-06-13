@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11971"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11971'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The success of AI assistants based on language models (LLMs) hinges crucially
 on Reinforcement Learning from Human Feedback (RLHF), which enables the

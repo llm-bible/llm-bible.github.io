@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rahmani2024report
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05388"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05388'}
 tags: ['SIGIR', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 The first edition of the workshop on Large Language Model for Evaluation in

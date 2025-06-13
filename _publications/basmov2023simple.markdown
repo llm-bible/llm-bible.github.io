@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: basmov2023simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14785"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14785'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 We evaluate LLMs' language understanding capacities on simple inference tasks
 that most humans find trivial. Specifically, we target (i)

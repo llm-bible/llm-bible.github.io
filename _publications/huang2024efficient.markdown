@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17773"}
-tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17773'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture']
 ---
 The development of Multi-modal Large Language Models (MLLMs) enhances Large
 Language Models (LLMs) with the ability to perceive data formats beyond text,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sahu2023class
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14192"}
-  - {name: "Code", url: "https://github.com/ServiceNow/PromptMix-EMNLP-2023"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'EMNLP', 'Has Code', 'BERT', 'Few-Shot', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14192'}
+  - {name: "Code", url: 'https://github.com/ServiceNow/PromptMix-EMNLP-2023'}
+tags: ['Has Code', 'Few-Shot', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Training Techniques', 'EMNLP', 'BERT', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Data augmentation is a widely used technique to address the problem of text
 classification when there is a limited amount of training data. Recent work

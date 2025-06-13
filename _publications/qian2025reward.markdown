@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qian2025reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13958"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13958'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Current Large Language Models (LLMs) often undergo supervised fine-tuning
 (SFT) to acquire tool use capabilities. However, SFT struggles to generalize to

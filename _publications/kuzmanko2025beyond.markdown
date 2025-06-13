@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kuzmanko2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16556"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16556'}
 tags: ['Reinforcement Learning']
 ---
 This study examines how Large Language Models (LLMs) perform when tackling

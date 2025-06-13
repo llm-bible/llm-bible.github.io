@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: recchia2021teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.02102"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.02102'}
+tags: ['Arxiv', 'Transformer', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper demonstrates that by fine-tuning an autoregressive language model
 (GPT-Neo) on appropriately structured step-by-step demonstrations, it is

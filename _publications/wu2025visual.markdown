@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16636"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16636'}
 tags: ['RAG', 'Multimodal Models', 'Applications']
 ---
 Retrieval-Augmented Generation (RAG) is a popular approach for enhancing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sordoni2023joint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.12509"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.12509'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 Large language models (LLMs) can be seen as atomic units of computation
 mapping sequences to a distribution over sequences. Thus, they can be seen as

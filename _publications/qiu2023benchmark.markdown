@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiu2023benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16457"}
-  - {name: "Code", url: "https://github.com/qiuhuachuan/DialogueSafety"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16457'}
+  - {name: "Code", url: 'https://github.com/qiuhuachuan/DialogueSafety'}
+tags: ['Agentic', 'Has Code', 'Few-Shot', 'BERT', 'Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Responsible AI']
 ---
 Dialogue safety remains a pervasive challenge in open-domain human-machine
 interaction. Existing approaches propose distinctive dialogue safety taxonomies

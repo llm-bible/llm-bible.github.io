@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: cao2023learn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01041"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01041'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated impressive language

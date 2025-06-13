@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07324"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07324'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Model (LLM) agents significantly extend the capabilities of
 standalone LLMs, empowering them to interact with external tools (e.g., APIs,

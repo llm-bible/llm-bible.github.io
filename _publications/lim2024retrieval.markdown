@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lim2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.17006"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.17006'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Visual Question Answering with Natural Language Explanation (VQA-NLE) task is
 challenging due to its high demand for reasoning-based inference. Recent

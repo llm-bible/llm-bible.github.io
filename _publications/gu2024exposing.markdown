@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024exposing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13648"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13648'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 While prior work has explored whether large language models (LLMs) possess a
 "theory of mind" (ToM) - the ability to attribute mental states to oneself and

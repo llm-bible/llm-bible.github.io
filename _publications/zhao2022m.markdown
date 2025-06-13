@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhao2022m
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.00952"}
-  - {name: "Code", url: "https://github.com/mingzi151/w2v2-st."}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.00952'}
+  - {name: "Code", url: 'https://github.com/mingzi151/w2v2-st.'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 End-to-end speech-to-text translation models are often initialized with
 pre-trained speech encoder and pre-trained text decoder. This leads to a

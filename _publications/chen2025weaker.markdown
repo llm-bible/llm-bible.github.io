@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025weaker
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19622"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19622'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) have raised interest in their
 formal reasoning capabilities, particularly in mathematics. While closed LLMs

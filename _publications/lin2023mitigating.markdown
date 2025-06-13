@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06256"}
-  - {name: "Code", url: "https://github.com/avalonstrel/Mitigating-the-Alignment-Tax-of-RLHF.git"}
-tags: ['Transformer', 'Pre-Training', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06256'}
+  - {name: "Code", url: 'https://github.com/avalonstrel/Mitigating-the-Alignment-Tax-of-RLHF.git'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 LLMs acquire a wide range of abilities during pre-training, but aligning LLMs
 under Reinforcement Learning with Human Feedback (RLHF) can lead to forgetting

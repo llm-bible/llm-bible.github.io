@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chilkuri2021language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.02402"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.02402'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent studies have demonstrated that the performance of transformers on the
 task of language modeling obeys a power-law relationship with model size over

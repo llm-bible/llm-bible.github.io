@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: buess2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09242"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09242'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Tools', 'Merging', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Interpretability']
 ---
 Generative artificial intelligence (AI) models, such as diffusion models and
 OpenAI's ChatGPT, are transforming medicine by enhancing diagnostic accuracy

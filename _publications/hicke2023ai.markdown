@@ -6,8 +6,8 @@ conference: "NeurIPS Workshop on Generative AI for Education (GAIED) 2023"
 year: 2023
 bibkey: hicke2023ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02775"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02775'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Responding to the thousands of student questions on online QA platforms each
 semester has a considerable human cost, particularly in computing courses with

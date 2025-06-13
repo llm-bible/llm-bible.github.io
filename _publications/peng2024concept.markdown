@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024concept
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01079"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01079'}
 tags: ['Prompting']
 ---
 Multilingual large language models (LLMs) seem to generalize somewhat across

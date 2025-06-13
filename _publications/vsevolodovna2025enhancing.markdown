@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vsevolodovna2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07640"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07640'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) demonstrate impressive capabilities in natural

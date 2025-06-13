@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: khatry2023target
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17228"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17228'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Target similarity tuning (TST) is a method of selecting relevant examples in
 natural language (NL) to code generation through large language models (LLMs)

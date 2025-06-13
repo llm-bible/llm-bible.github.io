@@ -6,8 +6,8 @@ conference: "Proceedings of the 2024 IEEE International Japan-Africa Conference 
 year: 2025
 bibkey: almorsi2025guided
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06625"}
-tags: ['RAG', 'Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06625'}
+tags: ['Applications', 'RAG', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in code
 generation tasks, yet they face significant limitations in handling complex,

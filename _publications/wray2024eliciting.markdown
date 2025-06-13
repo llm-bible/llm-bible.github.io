@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wray2024eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12147"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12147'}
+tags: ['Prompting', 'Agentic']
 ---
 Cognitive systems generally require a human to translate a problem definition
 into some specification that the cognitive system can use to attempt to solve

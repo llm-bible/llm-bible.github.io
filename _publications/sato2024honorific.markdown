@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sato2024honorific
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13787"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13787'}
+tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture', 'Tools']
 ---
 This study investigates the influence of Japanese honorifics on the responses
 of large language models (LLMs) when explaining the law of conservation of

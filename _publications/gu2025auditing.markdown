@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gu2025auditing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07776"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07776'}
+tags: ['Transformer', 'Security', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Prompt caching in large language models (LLMs) results in data-dependent
 timing variations: cached prompts are processed faster than non-cached prompts.

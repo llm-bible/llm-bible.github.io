@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024ot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09498"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09498'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Vision Transformers (ViTs) have demonstrated remarkable capabilities in
 learning representations, but their performance is compromised when applied to

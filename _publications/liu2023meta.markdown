@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01448"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01448'}
 tags: ['RAG', 'Training Techniques']
 ---
 Do large language models (LLMs) genuinely understand the semantics of the

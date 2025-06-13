@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00426"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00426'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) have exhibited remarkable performance on various
 natural language processing (NLP) tasks, especially for question answering.

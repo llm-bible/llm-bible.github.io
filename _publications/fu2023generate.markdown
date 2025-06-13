@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023generate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18842"}
-  - {name: "Code", url: "http://cogcomp.org/page/publication_view/1010"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18842'}
+  - {name: "Code", url: 'http://cogcomp.org/page/publication_view/1010'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The open-ended Visual Question Answering (VQA) task requires AI models to
 jointly reason over visual and natural language inputs using world knowledge.

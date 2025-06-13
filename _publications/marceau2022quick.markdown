@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: marceau2022quick
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.02546"}
-tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.02546'}
+tags: ['Agentic', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Acquiring training data to improve the robustness of dialog systems can be a
 painstakingly long process. In this work, we propose a method to reduce the

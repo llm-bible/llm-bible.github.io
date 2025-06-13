@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14177"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14177'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Online AI Feedback (OAIF) presents a promising alternative to Reinforcement
 Learning from Human Feedback (RLHF) by utilizing online AI preference in

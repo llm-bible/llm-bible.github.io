@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lawley2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01627"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01627'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 Machine learning often requires millions of examples to produce static,
 black-box models. In contrast, interactive task learning (ITL) emphasizes

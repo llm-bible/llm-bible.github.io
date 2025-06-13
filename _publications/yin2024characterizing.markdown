@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024characterizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18048"}
-  - {name: "Paper", url: "https://info.arxiv.org/help/prep#abstractsf"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18048'}
+  - {name: "Paper", url: 'https://info.arxiv.org/help/prep#abstractsf'}
+tags: ['Arxiv', 'Language Modeling', 'GPT', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 We study how to characterize and predict the truthfulness of texts generated
 from large language models (LLMs), which serves as a crucial step in building
@@ -19,7 +19,7 @@ when applied in generative tasks with LLMs. In this paper, we suggest
 investigating internal activations and quantifying LLM's truthfulness using the
 local intrinsic dimension (LID) of model activations. Through experiments on
 four question answering (QA) datasets, we demonstrate the effectiveness
-ohttps://info.arxiv.org/help/prep#abstractsf our proposed method. Additionally,
+ohttps://info.arxiv.org/help/prep%23abstractsf our proposed method. Additionally,
 we study intrinsic dimensions in LLMs and their relations with model layers,
 autoregressive language modeling, and the training of LLMs, revealing that
 intrinsic dimensions can be a powerful approach to understanding LLMs.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024interpreting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16502"}
-tags: ['Interpretability and Explainability', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16502'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability', 'Tools']
 ---
 Reward models (RMs) are a crucial component in the alignment of large
 language models' (LLMs) outputs with human values. RMs approximate human

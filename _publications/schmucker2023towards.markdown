@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: schmucker2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01420"}
-tags: ['Agentic', 'Survey Paper', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01420'}
+tags: ['Agentic', 'ACL', 'RAG', 'Survey Paper', 'Reinforcement Learning', 'TACL']
 ---
 Conversational tutoring systems (CTSs) offer learning experiences driven by
 natural language interaction. They are known to promote high levels of

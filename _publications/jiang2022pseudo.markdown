@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: jiang2022pseudo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.08481"}
-  - {name: "Code", url: "https://github.com/LeapLabTHU/Pseudo-Q"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.08481'}
+  - {name: "Code", url: 'https://github.com/LeapLabTHU/Pseudo-Q'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Visual grounding, i.e., localizing objects in images according to natural
 language queries, is an important topic in visual language understanding. The

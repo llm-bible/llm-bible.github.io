@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024pruner
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02924"}
-  - {name: "Code", url: "https://github.com/pprp/Pruner-Zero"}
-tags: ['Tools', 'Efficiency and Optimization', 'Language Modeling', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02924'}
+  - {name: "Code", url: 'https://github.com/pprp/Pruner-Zero'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pruning', 'Reinforcement Learning']
 ---
 Despite the remarkable capabilities, Large Language Models (LLMs) face
 deployment challenges due to their extensive size. Pruning methods drop a

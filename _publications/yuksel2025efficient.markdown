@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuksel2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12755"}
-tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12755'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 This paper introduces an advanced methodology for machine translation (MT)
 corpus generation, integrating semi-automated, human-in-the-loop post-editing

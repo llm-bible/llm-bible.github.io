@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: garipov2025judge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20039"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20039'}
 tags: ['Tools']
 ---
 We introduce AutoJudge, a framework that accelerates large language model

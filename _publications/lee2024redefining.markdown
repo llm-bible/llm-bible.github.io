@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024redefining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15297"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15297'}
+tags: ['Prompting', 'Agentic']
 ---
 Information-Seeking Dialogue (ISD) agents aim to provide accurate responses
 to user queries. While proficient in directly addressing user queries, these

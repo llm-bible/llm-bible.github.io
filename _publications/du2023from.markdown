@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: du2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14248"}
-  - {name: "Code", url: "https://github.com/Elfsong/DynaMind"}
-tags: ['Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14248'}
+  - {name: "Code", url: 'https://github.com/Elfsong/DynaMind'}
+tags: ['Has Code', 'Tools']
 ---
 The vast number of parameters in large language models (LLMs) endows them
 with remarkable capabilities, allowing them to excel in a variety of natural

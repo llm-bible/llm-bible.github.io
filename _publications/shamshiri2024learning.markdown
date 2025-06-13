@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shamshiri2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11265"}
-tags: ['GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11265'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have achieved impressive results across various
 tasks. However, they still struggle with long-context documents. This study

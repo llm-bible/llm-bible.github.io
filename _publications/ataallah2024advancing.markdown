@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ataallah2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03413"}
-  - {name: "Code", url: "https://vision-cair.github.io/MiniGPT4-video/"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03413'}
+  - {name: "Code", url: 'https://vision-cair.github.io/MiniGPT4-video/'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This paper introduces MiniGPT4-Video, a multimodal Large Language Model (LLM)
 designed specifically for video understanding. The model is capable of

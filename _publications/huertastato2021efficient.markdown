@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: huertastato2021efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.09635"}
-  - {name: "Code", url: "https://github.com/jahuerta92/siamese-inter-lingual-transformer"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.09635'}
+  - {name: "Code", url: 'https://github.com/jahuerta92/siamese-inter-lingual-transformer'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The ability of transformers to perform precision tasks such as question
 answering, Natural Language Inference (NLI) or summarising, have enabled them

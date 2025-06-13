@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20574"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20574'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 This paper introduces the Open Ko-LLM Leaderboard and the Ko-H5 Benchmark as
 vital tools for evaluating Large Language Models (LLMs) in Korean.

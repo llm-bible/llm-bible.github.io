@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gero2024supporting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13726"}
-tags: ['Fine-Tuning', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13726'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting']
 ---
 Large language models (LLMs) are capable of generating multiple responses to
 a single prompt, yet little effort has been expended to help end-users or

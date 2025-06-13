@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024demonstration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10878"}
-tags: ['Fine-Tuning', 'Applications', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10878'}
+tags: ['Fine-Tuning', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Large language models (LLMs) benefit greatly from prompt engineering, with
 in-context learning standing as a pivital technique. While former approaches

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: parcalabescu2023measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07466"}
-  - {name: "Code", url: "https://github.com/Heidelberg-NLP/CC-SHAP"}
-tags: ['Interpretability and Explainability', 'Interpretability', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07466'}
+  - {name: "Code", url: 'https://github.com/Heidelberg-NLP/CC-SHAP'}
+tags: ['Reinforcement Learning', 'Has Code', 'Interpretability', 'Interpretability and Explainability']
 ---
 Large language models (LLMs) can explain their predictions through post-hoc
 or Chain-of-Thought (CoT) explanations. But an LLM could make up reasonably

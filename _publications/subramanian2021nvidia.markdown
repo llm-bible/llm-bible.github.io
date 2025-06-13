@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: subramanian2021nvidia
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.08634"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Merging', 'Pretraining Methods', 'Scaling Laws', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.08634'}
+tags: ['Transformer', 'RAG', 'WMT', 'Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Merging', 'Scaling Laws', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 This paper provides an overview of NVIDIA NeMo's neural machine translation
 systems for the constrained data track of the WMT21 News and Biomedical Shared

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10567"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10567'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We introduce Scaffold Prompt Tuning (ScaPT), a novel prompt-based framework
 for adapting large-scale functional magnetic resonance imaging (fMRI)

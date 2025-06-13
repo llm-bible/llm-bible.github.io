@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13261"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13261'}
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Recent progress in text-based Large Language Models (LLMs) and their extended
 ability to process multi-modal sensory data have led us to explore their

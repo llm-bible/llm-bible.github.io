@@ -6,8 +6,8 @@ conference: "IEEE Virtual Reality Conference 2025"
 year: 2024
 bibkey: bovo2024embodied
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08158"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08158'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Tools', 'Prompting']
 ---
 XR devices running chat-bots powered by Large Language Models (LLMs) have the
 to become always-on agents that enable much better productivity scenarios.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: raj2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15924"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15924'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Consistency is a fundamental dimension of trustworthiness in Large Language
 Models (LLMs). For humans to be able to trust LLM-based applications, their

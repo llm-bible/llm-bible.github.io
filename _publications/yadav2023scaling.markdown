@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yadav2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01006"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01006'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper presents a comprehensive exploration of leveraging Large Language
 Models (LLMs), specifically GPT-4, in the field of instructional design. With a

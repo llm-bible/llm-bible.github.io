@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01303"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01303'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Personalized large language models (LLMs) aim to tailor their outputs to user
 preferences. Recent advances in parameter-efficient fine-tuning (PEFT) methods

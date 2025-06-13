@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: yamagishi2019improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00531"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00531'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 In recent years, several studies on neural machine translation (NMT) have
 attempted to use document-level context by using a multi-encoder and two

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024perfect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20370"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20370'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement learning from human feedback (RLHF) has become the leading
 approach for fine-tuning large language models (LLM). However, RLHF has

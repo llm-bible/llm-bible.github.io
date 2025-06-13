@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sam2025predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01558"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01558'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Prompting']
 ---
 As large language models (LLMs) are increasingly relied on in AI systems,
 predicting when they make mistakes is crucial. While a great deal of work in

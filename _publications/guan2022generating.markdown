@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: guan2022generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.03985"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.03985'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Despite advances in generating fluent texts, existing pretraining models tend
 to attach incoherent event sequences to involved entities when generating

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024utilize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06913"}
-  - {name: "Code", url: "https://github.com/opendatalab/CRaFT"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06913'}
+  - {name: "Code", url: 'https://github.com/opendatalab/CRaFT'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Refusal-Aware Instruction Tuning (RAIT) enables Large Language Models (LLMs)
 to refuse to answer unknown questions. By modifying responses of unknown

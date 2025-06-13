@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024expanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12444"}
-tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12444'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Service chatbots play an important role in enhancing customer support by
 delivering timely responses to diverse queries. Traditionally, these chatbots

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kim2021what
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2109.04650v2"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2109.04650v2'}
+tags: ['Transformer', 'In-Context Learning', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Prompting', 'Tokenization', 'Pretraining Methods']
 ---
 GPT-3 shows remarkable in-context learning ability of large-scale language
 models (LMs) trained on hundreds of billion scale data. Here we address some

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: metel2024batch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05693"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05693'}
 tags: ['Prompting']
 ---
 Several works have developed eviction policies to remove key-value (KV) pairs

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: xia2020cg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.01881"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.01881'}
+tags: ['Language Modeling', 'Few-Shot', 'RAG', 'BERT', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 In this paper, we formulate a more realistic and difficult problem setup for
 the intent detection task in natural language understanding, namely Generalized

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024hardware
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18628"}
-  - {name: "Code", url: "https://github.com/hmarkc/parallel-prompt-decoding"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18628'}
+  - {name: "Code", url: 'https://github.com/hmarkc/parallel-prompt-decoding'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting']
 ---
 The auto-regressive decoding of Large Language Models (LLMs) results in
 significant overheads in their hardware performance. While recent research has

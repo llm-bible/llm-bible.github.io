@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024insights
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14673"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14673'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exhibit positional bias, struggling to utilize
 information from the middle or end of long contexts. Our study explores LLMs'

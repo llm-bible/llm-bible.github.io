@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: blevins2022prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.07830"}
-tags: ['GPT', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.07830'}
+tags: ['Few-Shot', 'GPT', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Although pretrained language models (PLMs) can be prompted to perform a wide
 range of language tasks, it remains an open question how much this ability

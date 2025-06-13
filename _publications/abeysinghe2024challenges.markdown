@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abeysinghe2024challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03339"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03339'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Chatbots have been an interesting application of natural language generation
 since its inception. With novel transformer based Generative AI methods,

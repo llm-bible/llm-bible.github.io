@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024fostering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09330"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09330'}
 tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Benefiting from diverse instruction datasets, contemporary Large Language

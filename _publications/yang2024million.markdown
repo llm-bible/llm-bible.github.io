@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024million
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05132"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05132'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 The integration of language and 3D perception is crucial for embodied agents
 and robots that comprehend and interact with the physical world. While large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gilabert2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09140"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09140'}
+tags: ['Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated exceptional
 proficiency across a broad spectrum of Natural Language Processing (NLP) tasks,

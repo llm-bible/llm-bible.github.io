@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021entailment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.14690"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.14690'}
 tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Large pre-trained language models (LMs) have demonstrated remarkable ability

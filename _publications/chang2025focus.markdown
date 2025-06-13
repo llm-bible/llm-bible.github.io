@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025focus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.18503"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.18503'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Medical Large Vision-Language Models (Med-LVLMs) often exhibit suboptimal attention distribution on visual inputs, leading to hallucinated or inaccurate outputs. Existing mitigation methods primarily rely on inference-time interventions, which are limited in attention adaptation or require additional supervision. To address this, we propose A\\(^3\\)Tune, a novel fine-tuning framework for Automatic Attention Alignment Tuning. A\\(^3\\)Tune leverages zero-shot weak labels from SAM, refines them into prompt-aware labels using BioMedCLIP, and then selectively modifies visually-critical attention heads to improve alignment while minimizing interference. Additionally, we introduce a A\\(^3\\)MoE module, enabling adaptive parameter selection for attention tuning across diverse prompts and images. Extensive experiments on medical VQA and report generation benchmarks show that A\\(^3\\)Tune outperforms state-of-the-art baselines, achieving enhanced attention distributions and performance in Med-LVLMs.

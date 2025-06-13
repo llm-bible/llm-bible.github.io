@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23895"}
-  - {name: "Code", url: "https://github.com/Trae1ounG/DyPRAG"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23895'}
+  - {name: "Code", url: 'https://github.com/Trae1ounG/DyPRAG'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) enhances large language models (LLMs) by
 retrieving relevant documents from external sources and incorporating them into

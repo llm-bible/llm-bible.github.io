@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024diversity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10841"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'WMT', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10841'}
+tags: ['Language Modeling', 'RAG', 'WMT', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Although instruction tuning is widely used to adjust behavior in Large
 Language Models (LLMs), extensive empirical evidence and research indicates

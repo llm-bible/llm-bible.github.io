@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07445"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07445'}
+tags: ['Applications', 'Tools']
 ---
 The emergence of large language models (LLMs) further improves the
 capabilities of open-domain dialogue systems and can generate fluent, coherent,

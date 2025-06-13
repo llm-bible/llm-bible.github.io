@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leroux2024analog
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19315"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19315'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 Transformer networks, driven by self-attention, are central to Large Language
 Models. In generative Transformers, self-attention uses cache memory to store

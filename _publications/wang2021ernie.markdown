@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021ernie
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2112.12731v1"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Language Modeling', 'Security', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2112.12731v1'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Distillation', 'Pre-Training']
 ---
 Pre-trained language models have achieved state-of-the-art results in various
 Natural Language Processing (NLP) tasks. GPT-3 has shown that scaling up

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14089"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14089'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning']
 ---
 Large language models (LLMs) have achieved remarkable multi-step reasoning
 capabilities across various domains. However, LLMs still face distinct

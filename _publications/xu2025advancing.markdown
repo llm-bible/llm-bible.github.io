@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01911"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01911'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Tools', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLMs) are playing an expanding role in physics
 research by enhancing reasoning, symbolic manipulation, and numerical

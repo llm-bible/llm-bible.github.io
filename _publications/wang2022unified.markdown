@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.13235"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.13235'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The task of visual dialog requires a multimodal chatbot to answer sequential
 questions from humans about image content. Prior work performs the standard

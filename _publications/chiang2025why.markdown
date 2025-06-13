@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chiang2025why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20383"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'Merging', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20383'}
+tags: ['Agentic', 'Security', 'Tools', 'Merging', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recent advancements in Web AI agents have demonstrated remarkable
 capabilities in addressing complex web navigation tasks. However, emerging

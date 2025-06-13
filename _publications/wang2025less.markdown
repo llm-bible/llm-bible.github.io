@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19410"}
-tags: ['Interpretability and Explainability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19410'}
+tags: ['Prompting', 'Interpretability and Explainability']
 ---
 Large Language Models (LLMs) have shown remarkable potential in recommending
 everyday actions as personal AI assistants, while Explainable AI (XAI)

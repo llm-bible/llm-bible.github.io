@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16511"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16511'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Merging', 'Applications', 'Multimodal Models', 'Responsible AI']
 ---
 While the recent advances in Multimodal Large Language Models (MLLMs)
 constitute a significant leap forward in the field, these models are

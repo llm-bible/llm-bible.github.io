@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024reference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12545"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12545'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities across
 various domains, prompting a surge in their practical applications. However,

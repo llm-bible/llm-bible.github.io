@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sclar2023quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11324"}
-tags: ['Few-Shot', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11324'}
+tags: ['Few-Shot', 'Prompting', 'Tools']
 ---
 As large language models (LLMs) are adopted as a fundamental component of
 language technologies, it is crucial to accurately characterize their

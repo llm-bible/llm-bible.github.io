@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vir2025dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14738"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14738'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting']
 ---
 Large language models (LLMs) are increasingly deployed in specialized
 production data processing pipelines across diverse domains -- such as finance,

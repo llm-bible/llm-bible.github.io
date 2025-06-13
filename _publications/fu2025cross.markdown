@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: fu2025cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16629"}
-  - {name: "Code", url: "https://github.com/LVUGAI/CHiP"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16629'}
+  - {name: "Code", url: 'https://github.com/LVUGAI/CHiP'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) still struggle with hallucinations
 despite their impressive capabilities. Recent studies have attempted to

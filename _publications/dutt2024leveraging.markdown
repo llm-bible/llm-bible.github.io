@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dutt2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19545"}
-tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19545'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'RAG', 'Prompting', 'Reinforcement Learning']
 ---
 We present a generalizable classification approach that leverages Large
 Language Models (LLMs) to facilitate the detection of implicitly encoded social

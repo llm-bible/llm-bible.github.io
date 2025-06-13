@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08762"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08762'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Merging', 'Reinforcement Learning']
 ---
 Chain-of-thought (CoT) reasoning has exhibited impressive performance in
 language models for solving complex tasks and answering questions. However,

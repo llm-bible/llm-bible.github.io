@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: materzok2025curiosity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17104"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17104'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 We present COS(M+O)S, a System 2-inspired framework for open-ended plot
 development that systematically explores the vast space of possible story

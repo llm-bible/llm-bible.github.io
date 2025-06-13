@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10706"}
-  - {name: "Code", url: "https://huggingface.co/openBA"}
-  - {name: "Code", url: "https://github.com/OpenNLG/openBA.git"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10706'}
+  - {name: "Code", url: 'https://huggingface.co/openBA'}
+  - {name: "Code", url: 'https://github.com/OpenNLG/openBA.git'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) with billions of parameters have demonstrated
 outstanding performance on various natural language processing tasks. This

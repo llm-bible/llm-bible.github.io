@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: balakrishnan2019constrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.07220"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.07220'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Generating fluent natural language responses from structured semantic
 representations is a critical step in task-oriented conversational systems.

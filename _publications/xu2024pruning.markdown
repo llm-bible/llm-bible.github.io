@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024pruning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16880"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/LLMPrune-BESA"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Pruning', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16880'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/LLMPrune-BESA'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated outstanding performance in
 various tasks, such as text summarization, text question-answering, and etc.

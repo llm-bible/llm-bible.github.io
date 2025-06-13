@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: meng2024physical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11802"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11802'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Text-to-image (T2I) models have made substantial progress in generating
 images from textual prompts. However, they frequently fail to produce images

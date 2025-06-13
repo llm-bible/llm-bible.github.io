@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ivison2022hypernetwork
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10315"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10315'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent NLP models have shown the remarkable ability to effectively generalise
 `zero-shot' to new tasks using only natural language instructions as guidance.

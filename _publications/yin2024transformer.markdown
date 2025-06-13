@@ -6,8 +6,8 @@ conference: "EMNLP2024"
 year: 2024
 bibkey: yin2024transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11143"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11143'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Next-token prediction serves as the dominant component in current neural
 language models. During the training phase, the model employs teacher forcing,

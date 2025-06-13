@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhaumik2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04906"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04906'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated impressive performance in
 mathematical and commonsense reasoning tasks using chain-of-thought (CoT)

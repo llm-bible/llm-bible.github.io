@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: qi2025does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00163"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00163'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Cognitive Reframing, a core element of Cognitive Behavioral Therapy (CBT),

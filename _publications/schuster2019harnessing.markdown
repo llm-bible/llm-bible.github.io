@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: schuster2019harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.14254"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.14254'}
 tags: ['RAG', 'Model Architecture']
 ---
 Pragmatic inferences often subtly depend on the presence or absence of

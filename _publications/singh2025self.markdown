@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: singh2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04813"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04813'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have significantly improved their reasoning
 capabilities; however, they still struggle with complex multi-step mathematical

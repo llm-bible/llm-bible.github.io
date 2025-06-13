@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: borchers2025augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09126"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09126'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) like GPT-4o can help automate text
 classification tasks at low cost and scale. However, there are major concerns

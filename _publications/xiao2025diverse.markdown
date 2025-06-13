@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiao2025diverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19936"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19936'}
 tags: ['Multimodal Models', 'Model Architecture']
 ---
 This paper introduces VisualQuest, a novel image dataset designed to assess

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024deep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01414"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01414'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have led to their
 widespread application in automated code generation. However, these models can

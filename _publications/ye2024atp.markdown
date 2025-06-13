@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024atp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00447"}
-  - {name: "Code", url: "https://yxxxb.github.io/ATP-LLaVA-page/"}
-tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00447'}
+  - {name: "Code", url: 'https://yxxxb.github.io/ATP-LLaVA-page/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Prompting', 'Pruning']
 ---
 Large Vision Language Models (LVLMs) have achieved significant success across
 multi-modal tasks. However, the computational cost of processing long visual

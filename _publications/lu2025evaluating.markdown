@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16971"}
-  - {name: "Code", url: "https://github.com/thu-coai/LongSafety"}
-tags: ['Responsible AI', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16971'}
+  - {name: "Code", url: 'https://github.com/thu-coai/LongSafety'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Responsible AI']
 ---
 As Large Language Models (LLMs) continue to advance in understanding and
 generating long sequences, new safety concerns have been introduced through the

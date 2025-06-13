@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12561"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12561'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Usability testing is a fundamental yet challenging (e.g., inflexible to
 iterate the study design flaws and hard to recruit study participants) research

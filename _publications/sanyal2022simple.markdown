@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sanyal2022simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09282"}
-tags: ['Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09282'}
+tags: ['Masked Language Model', 'Language Modeling', 'BERT', 'Training Techniques', 'Pretraining Methods']
 ---
 Logical reasoning of text is an important ability that requires understanding
 the information present in the text, their interconnections, and then reasoning

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025rehearse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00449"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00449'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 Personalized opinion summarization is crucial as it considers individual user

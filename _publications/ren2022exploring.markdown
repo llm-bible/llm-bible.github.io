@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ren2022exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.10036"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.10036'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent work explored the potential of large-scale Transformer-based
 pre-trained models, especially Pre-trained Language Models (PLMs) in natural

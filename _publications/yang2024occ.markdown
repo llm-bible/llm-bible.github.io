@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024occ
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01861"}
-tags: ['Tools', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01861'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 There is a gap in the understanding of occluded objects in existing
 large-scale visual language multi-modal models. Current state-of-the-art

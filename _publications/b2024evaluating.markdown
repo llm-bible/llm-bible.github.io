@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: b2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11424"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11424'}
+tags: ['RAG', 'Efficiency and Optimization', 'Tools']
 ---
 This paper presents an analysis of open-source large language models (LLMs)
 and their application in Retrieval-Augmented Generation (RAG) tasks, specific

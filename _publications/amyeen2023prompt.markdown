@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: amyeen2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18867"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18867'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'BERT', 'Prompting', 'Pretraining Methods']
 ---
 Question generation has numerous applications in the educational context.
 Question generation can prove helpful for students when reviewing content and

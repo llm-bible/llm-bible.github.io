@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yilmaz2025evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00043"}
-tags: ['GPT', 'Multimodal Models', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00043'}
+tags: ['Prompting', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Multimodal Large Language Models (MLLMs) have become a powerful tool for
 integrating visual and textual information. Despite their exceptional

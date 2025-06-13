@@ -6,8 +6,8 @@ conference: "Journal of Mathematical Computer Applications 3 (2024) E121"
 year: 2024
 bibkey: vadlapati2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19271"}
-tags: ['Responsible AI', 'RAG', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19271'}
+tags: ['RAG', 'Responsible AI', 'Applications']
 ---
 Up-to-date and reliable language models are consistently sought after and are
 essential in various applications. Typically, models are trained on a fixed

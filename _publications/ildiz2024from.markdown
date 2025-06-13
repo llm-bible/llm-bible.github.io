@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ildiz2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13512"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13512'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 Modern language models rely on the transformer architecture and attention
 mechanism to perform language understanding and text generation. In this work,

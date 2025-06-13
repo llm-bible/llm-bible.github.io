@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: fulay2025empty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13812"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13812'}
 tags: ['Reinforcement Learning']
 ---
 Deliberation is essential to well-functioning democracies, yet physical,

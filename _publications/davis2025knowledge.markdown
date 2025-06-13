@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: davis2025knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01711"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01711'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Automated interpretation of chest X-rays (CXR) is a critical task with the
 potential to significantly improve clinical workflow and patient care. While

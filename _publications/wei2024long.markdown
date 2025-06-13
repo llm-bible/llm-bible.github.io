@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18802"}
-  - {name: "Code", url: "https://github.com/google-deepmind/long-form-factuality"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18802'}
+  - {name: "Code", url: 'https://github.com/google-deepmind/long-form-factuality'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) often generate content that contains factual
 errors when responding to fact-seeking prompts on open-ended topics. To

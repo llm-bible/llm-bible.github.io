@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02233"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02233'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 Multimodal Retrieval Augmented Generation (MMRAG) is a powerful approach to
 question-answering over multimodal documents. A key challenge with evaluating

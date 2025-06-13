@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024give
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04573"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04573'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Clinical Question Answering (QA) systems enable doctors to quickly access
 patient information from electronic health records (EHRs). However, training

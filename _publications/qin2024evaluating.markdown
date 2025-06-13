@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05722"}
-tags: ['Merging', 'Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05722'}
+tags: ['Agentic', 'Prompting', 'Tools', 'Merging']
 ---
 Contemporary Text-to-Image (T2I) models frequently depend on qualitative
 human evaluations to assess the consistency between synthesized images and the

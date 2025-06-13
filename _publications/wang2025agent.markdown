@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025agent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13472"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/CodeVisionary"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13472'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/CodeVisionary'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated strong capabilities in code
 generation, underscoring the critical need for rigorous and comprehensive

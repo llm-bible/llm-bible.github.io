@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: alkhamissi2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01830"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01830'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) exhibit remarkable similarity to neural activity
 in the human language network. However, the key properties of language shaping

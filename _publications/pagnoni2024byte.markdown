@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pagnoni2024byte
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09871"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09871'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
 ---
 We introduce the Byte Latent Transformer (BLT), a new byte-level LLM
 architecture that, for the first time, matches tokenization-based LLM

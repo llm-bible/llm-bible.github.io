@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zolkepli2024mmmmodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11297"}
-  - {name: "Code", url: "https://huggingface.co/collections/mesolitica/multimodal-malaysian-llm-65c6f893e03f78fa9e5c8859"}
-tags: ['RAG', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11297'}
+  - {name: "Code", url: 'https://huggingface.co/collections/mesolitica/multimodal-malaysian-llm-65c6f893e03f78fa9e5c8859'}
+tags: ['RAG', 'Has Code', 'Multimodal Models']
 ---
 Our contribution introduces a groundbreaking multimodal large language model
 designed to comprehend multi-images, multi-audio, and multi-images-multi-audio

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023deceptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09702"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09702'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Despite the recent advancement in large language models (LLMs) and their high
 performances across numerous benchmarks, recent research has unveiled that LLMs

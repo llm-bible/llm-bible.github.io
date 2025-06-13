@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lai2024any
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09439"}
-  - {name: "Code", url: "https://github.com/Layjins/Spider"}
-tags: ['Tools', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09439'}
+  - {name: "Code", url: 'https://github.com/Layjins/Spider'}
+tags: ['Has Code', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal LLMs (MLLMs) have emerged as an extension of Large Language Models
 (LLMs), enabling the integration of various modalities. However, Any-to-Any

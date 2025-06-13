@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: anantaprayoon2025intent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06011"}
-tags: ['Bias Mitigation', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06011'}
+tags: ['Ethics and Bias', 'Prompting', 'Bias Mitigation']
 ---
 Self-Correction based on feedback improves the output quality of Large
 Language Models (LLMs). Moreover, as Self-Correction functions like the slow

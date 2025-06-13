@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: basit2025pioneering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02497"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02497'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) offer remarkable capabilities in code
 generation, natural language processing, and domain-specific reasoning.

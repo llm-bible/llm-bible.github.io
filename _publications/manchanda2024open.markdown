@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: manchanda2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12004"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12004'}
+tags: ['Language Modeling', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'GPT', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large language models (LLMs) have rapidly advanced natural language
 processing, driving significant breakthroughs in tasks such as text generation,

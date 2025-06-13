@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bhushan2025systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08356"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08356'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) has emerged as a prominent method for
 incorporating domain knowledge into Large Language Models (LLMs). While RAG

@@ -6,8 +6,8 @@ conference: "In proceedings of the First NLPL Workshop on Deep Learning for Natu
 year: 2019
 bibkey: rönnqvist2019is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.03806"}
-tags: ['BERT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.03806'}
+tags: ['Reinforcement Learning', 'BERT', 'Model Architecture']
 ---
 The multilingual BERT model is trained on 104 languages and meant to serve as
 a universal language model and tool for encoding sentences. We explore how well

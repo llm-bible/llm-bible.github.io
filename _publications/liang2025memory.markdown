@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liang2025memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19271"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19271'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Large language models (LLMs) have made significant advances in the field of

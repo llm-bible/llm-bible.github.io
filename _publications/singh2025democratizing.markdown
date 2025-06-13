@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: singh2025democratizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08145"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08145'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Training and fine-tuning large language models (LLMs) with hundreds of
 billions to trillions of parameters requires tens of thousands of GPUs, and a

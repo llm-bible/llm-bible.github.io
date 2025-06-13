@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liguori2024power
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12893"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12893'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 As the Windows OS stands out as one of the most targeted systems, the
 PowerShell language has become a key tool for malicious actors and

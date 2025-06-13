@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00088"}
-  - {name: "Code", url: "https://github.com/NexaAI/Awesome-LLMs-on-device"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'Pruning', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00088'}
+  - {name: "Code", url: 'https://github.com/NexaAI/Awesome-LLMs-on-device'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Model Architecture', 'Quantization', 'Pruning', 'Survey Paper', 'Reinforcement Learning']
 ---
 The advent of large language models (LLMs) revolutionized natural language
 processing applications, and running LLMs on edge devices has become

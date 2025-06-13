@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tian2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03856"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03856'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 The increasing capability of large language models (LLMs) to generate fluent
 long-form texts is presenting new challenges in distinguishing

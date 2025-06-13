@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12975"}
-  - {name: "Code", url: "https://github.com/xz-liu/SHIELD"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12975'}
+  - {name: "Code", url: 'https://github.com/xz-liu/SHIELD'}
+tags: ['Has Code', 'Language Modeling', 'Security', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have transformed machine learning but raised
 significant legal concerns due to their potential to produce text that

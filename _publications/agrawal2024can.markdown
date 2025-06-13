@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agrawal2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04571"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04571'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 How can we harness the collective capabilities of multiple Large Language
 Models (LLMs) to create an even more powerful model? This question forms the

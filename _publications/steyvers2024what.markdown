@@ -6,10 +6,10 @@ conference: "Nat Mach Intell (2025)"
 year: 2024
 bibkey: steyvers2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13835"}
-  - {name: "Code", url: "https://osf.io/y7pr6/"}
-  - {name: "Code", url: "https://www.nature.com/articles/s42256-024-00976-7"}
-tags: ['Interpretability and Explainability', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13835'}
+  - {name: "Code", url: 'https://osf.io/y7pr6/'}
+  - {name: "Code", url: 'https://www.nature.com/articles/s42256-024-00976-7'}
+tags: ['Reinforcement Learning', 'Has Code', 'Interpretability and Explainability']
 ---
 As artificial intelligence (AI) systems, particularly large language models
 (LLMs), become increasingly integrated into decision-making processes, the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: deshmukh2025small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08540"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08540'}
 tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Pretraining Methods']
 ---
 Multimodal Audio-Language Models (ALMs) can understand and reason over both

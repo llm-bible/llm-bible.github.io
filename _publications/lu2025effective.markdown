@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18857"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18857'}
+tags: ['Attention Mechanism', 'GPT', 'Training Techniques', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) often struggle to process and generate coherent
 context when the number of input tokens exceeds the pre-trained length. Recent

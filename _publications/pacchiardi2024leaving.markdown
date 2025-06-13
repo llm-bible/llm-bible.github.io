@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pacchiardi2024leaving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11672"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11672'}
 tags: ['Uncategorized']
 ---
 The integrity of AI benchmarks is fundamental to accurately assess the

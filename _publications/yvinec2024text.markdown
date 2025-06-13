@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yvinec2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20505"}
-tags: ['Security', 'Training Techniques', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20505'}
+tags: ['Training Techniques', 'Security', 'Applications', 'Model Architecture']
 ---
 The wide acceptance of large language models (LLMs) has unlocked new
 applications and social risks. Popular countermeasures aim at detecting

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11430"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11430'}
+tags: ['RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper presents a study on strategies to enhance the translation
 capabilities of large language models (LLMs) in the context of machine

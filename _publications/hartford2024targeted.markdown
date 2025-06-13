@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hartford2024targeted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06623"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06623'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Efficiently post-training large language models remains a challenging task
 due to the vast computational resources required. We present Spectrum, a method

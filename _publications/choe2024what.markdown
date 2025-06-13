@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: choe2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13954"}
-tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13954'}
+tags: ['Training Techniques', 'RAG', 'Model Architecture', 'GPT']
 ---
 Large language models (LLMs) are trained on a vast amount of human-written
 data, but data providers often remain uncredited. In response to this issue,

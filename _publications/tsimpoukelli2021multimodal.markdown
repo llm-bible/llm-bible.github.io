@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: tsimpoukelli2021multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.13884"}
-tags: ['Tools', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.13884'}
+tags: ['Few-Shot', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 When trained at sufficient scale, auto-regressive language models exhibit the
 notable ability to learn a new language task after being prompted with just a

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: oh2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15640"}
-  - {name: "Code", url: "https://huggingface.co/kifai/GECKO-7B"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15640'}
+  - {name: "Code", url: 'https://huggingface.co/kifai/GECKO-7B'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Model Architecture']
 ---
 We introduce GECKO, a bilingual large language model (LLM) optimized for
 Korean and English, along with programming languages. GECKO is pretrained on

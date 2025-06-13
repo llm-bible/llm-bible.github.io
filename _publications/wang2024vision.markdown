@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10241"}
-  - {name: "Code", url: "https://github.com/CrystalSixone/VLN-GOAT"}
-tags: ['Transformer', 'Pre-Training', 'Agentic', 'Ethics and Bias', 'Model Architecture', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10241'}
+  - {name: "Code", url: 'https://github.com/CrystalSixone/VLN-GOAT'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'ACL', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 In the pursuit of robust and generalizable environment perception and
 language understanding, the ubiquitous challenge of dataset bias continues to

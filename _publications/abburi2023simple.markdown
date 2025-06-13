@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: abburi2023simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03084"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03084'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 Recent Large Language Models (LLMs) have demonstrated remarkable capabilities
 in generating text that closely resembles human writing across wide range of

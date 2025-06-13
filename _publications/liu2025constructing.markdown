@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025constructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22473"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22473'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Workflows play a crucial role in enhancing enterprise efficiency by
 orchestrating complex processes with multiple tools or components. However,

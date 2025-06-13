@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024unlearning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13356"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13356'}
 tags: ['Security', 'Training Techniques']
 ---
 Machine unlearning is a promising approach to mitigate undesirable

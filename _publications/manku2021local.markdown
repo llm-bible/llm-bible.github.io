@@ -6,8 +6,8 @@ conference: "Knowledge-Based Systems Volume 243 May 2022 108453"
 year: 2021
 bibkey: manku2021local
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.04291"}
-tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.04291'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Sentence Ordering refers to the task of rearranging a set of sentences into
 the appropriate coherent order. For this task, most previous approaches have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: namikoshi2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23371"}
-tags: ['RAG', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23371'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Merging']
 ---
 Behavior change interventions are important to coordinate societal action
 across a wide array of important applications, including the adoption of

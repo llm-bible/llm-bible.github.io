@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15461"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15461'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This paper presents ChatCounselor, a large language model (LLM) solution
 designed to provide mental health support. Unlike generic chatbots,

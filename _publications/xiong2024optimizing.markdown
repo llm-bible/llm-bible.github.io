@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00428"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00428'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 The expanding context windows in large language models (LLMs) have greatly
 enhanced their capabilities in various applications, but they also introduce

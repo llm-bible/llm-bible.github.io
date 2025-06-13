@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023rethinking
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.13112v2"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/iEvaLM-CRS"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'RecSys', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.13112v2'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/iEvaLM-CRS'}
+tags: ['Has Code', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Tools', 'RecSys', 'Interpretability']
 ---
 The recent success of large language models (LLMs) has shown great potential
 to develop more powerful conversational recommender systems (CRSs), which rely

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: salemi2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04167"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04167'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Personalized text generation requires a unique ability of large language
 models (LLMs) to learn from context that they often do not encounter during

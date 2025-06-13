@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kao2021optimized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.06419"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.06419'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Attention mechanisms, primarily designed to capture pairwise correlations
 between words, have become the backbone of machine learning, expanding beyond

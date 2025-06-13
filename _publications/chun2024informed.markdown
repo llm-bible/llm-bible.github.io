@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chun2024informed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01651"}
-  - {name: "Code", url: "https://github.com/jonchun/llm-sota-chatbots-ethics-based-audit"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01651'}
+  - {name: "Code", url: 'https://github.com/jonchun/llm-sota-chatbots-ethics-based-audit'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 With the rise of individual and collaborative networks of autonomous agents,
 AI is deployed in more key reasoning and decision-making roles. For this

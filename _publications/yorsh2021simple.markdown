@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yorsh2021simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.15588"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.15588'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 In this paper, we propose that the dot product pairwise matching attention
 layer, which is widely used in Transformer-based models, is redundant for the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mo2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15645"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15645'}
 tags: ['Tools', 'Training Techniques', 'Merging']
 ---
 In conversational search, the user's real search intent for the current turn

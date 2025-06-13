@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: momcilovic2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09078"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09078'}
+tags: ['Reinforcement Learning', 'Security', 'Model Architecture']
 ---
 The EU AI Act (EUAIA) introduces requirements for AI systems which intersect
 with the processes required to establish adversarial robustness. However, given

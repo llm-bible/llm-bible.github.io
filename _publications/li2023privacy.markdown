@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023privacy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10383"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10383'}
 tags: ['Fine-Tuning', 'Security', 'Responsible AI']
 ---
 The advancement of large language models (LLMs) has significantly enhanced

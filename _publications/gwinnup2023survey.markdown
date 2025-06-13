@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gwinnup2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07198"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07198'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Multimodal Models', 'Applications', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models such as BERT and the GPT series started a paradigm
 shift that calls for building general-purpose models via pre-training on large

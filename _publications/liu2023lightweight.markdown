@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19208"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19208'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 A model is considered well-calibrated when its probability estimate aligns
 with the actual likelihood of the output being correct. Calibrating language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19470"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19470'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in reasoning,
 exemplified by the success of OpenAI-o1 and DeepSeek-R1. However, integrating

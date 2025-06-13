@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: grand2024loose
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19471"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19471'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Questions combine our mastery of language with our remarkable facility for
 reasoning about uncertainty. How do people navigate vast hypothesis spaces to

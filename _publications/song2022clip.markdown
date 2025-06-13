@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: song2022clip
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.07190"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.07190'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 CLIP has shown a remarkable zero-shot capability on a wide range of vision
 tasks. Previously, CLIP is only regarded as a powerful visual encoder. However,

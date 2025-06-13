@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.08155"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.08155'}
 tags: ['Agentic', 'Applications', 'Tools']
 ---
 AutoGen is an open-source framework that allows developers to build LLM

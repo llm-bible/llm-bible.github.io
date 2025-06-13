@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: orbach2020controlling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.04332"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.04332'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Recent advancements in self-attention neural network architectures have
 raised the bar for open-ended text generation. Yet, while current methods are

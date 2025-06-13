@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hassan2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13657"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13657'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 The rise of big data has amplified the need for efficient, user-friendly

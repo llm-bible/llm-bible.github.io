@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: kim2018snu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.07049"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.07049'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning']
 ---
 We present a novel neural architecture for the Argument Reasoning
 Comprehension task of SemEval 2018. It is a simple neural network consisting of

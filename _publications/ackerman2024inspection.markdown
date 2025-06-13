@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ackerman2024inspection
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02064"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02064'}
 tags: ['Responsible AI', 'Training Techniques']
 ---
 It has been reported that LLMs can recognize their own writing. As this has

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: si2023measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13299"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13299'}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 In-context learning (ICL) is an important paradigm for adapting large
 language models (LLMs) to new tasks, but the generalization behavior of ICL

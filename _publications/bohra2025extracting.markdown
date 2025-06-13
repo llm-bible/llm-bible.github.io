@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bohra2025extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12682"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12682'}
 tags: ['Agentic', 'Tools']
 ---
 Most recent web agent research has focused on navigation and transaction

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13857"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13857'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Despite the remarkable success of Transformer-based Large Language Models
 (LLMs) across various domains, understanding and enhancing their mathematical

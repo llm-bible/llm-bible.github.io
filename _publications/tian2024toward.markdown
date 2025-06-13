@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tian2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12253"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12253'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite the impressive capabilities of Large Language Models (LLMs) on
 various tasks, they still struggle with scenarios that involves complex

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023solving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.05662"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/InternGPT"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.05662'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/InternGPT'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Multimodal Models']
 ---
 We present an interactive visual framework named InternGPT, or iGPT for
 short. The framework integrates chatbots that have planning and reasoning

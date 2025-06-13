@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: peng2025rewarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00845"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00845'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization']
 ---
 Despite significant advancements in Large Language Models (LLMs), developing
 advanced reasoning capabilities in LLMs remains a key challenge. Process Reward

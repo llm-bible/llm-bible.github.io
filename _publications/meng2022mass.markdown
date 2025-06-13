@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: meng2022mass
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.07229"}
-  - {name: "Code", url: "https://memit.baulab.info"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.07229'}
+  - {name: "Code", url: 'https://memit.baulab.info'}
+tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent work has shown exciting promise in updating large language models with
 new memories, so as to replace obsolete information or add specialized

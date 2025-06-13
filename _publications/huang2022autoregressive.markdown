@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: huang2022autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.08708"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.08708'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Task-oriented dialog (TOD) systems often require interaction with an external
 knowledge base to retrieve necessary entity (e.g., restaurant) information to

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2016
 bibkey: stahlberg2016syntactically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1605.04569"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1605.04569'}
 tags: ['Applications']
 ---
 We investigate the use of hierarchical phrase-based SMT lattices in

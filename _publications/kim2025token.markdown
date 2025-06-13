@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08939"}
-  - {name: "Code", url: "https://github.com/KyungsuKim42/tokensynth"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08939'}
+  - {name: "Code", url: 'https://github.com/KyungsuKim42/tokensynth'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent advancements in neural audio codecs have enabled the use of tokenized
 audio representations in various audio generation tasks, such as

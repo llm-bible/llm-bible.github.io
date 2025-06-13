@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: balepur2024artifacts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12483"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12483'}
 tags: ['Prompting', 'Applications']
 ---
 Multiple-choice question answering (MCQA) is often used to evaluate large

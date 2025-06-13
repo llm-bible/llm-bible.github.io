@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024interpretable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12386"}
-tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12386'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Applications']
 ---
 Interpretability for Table Question Answering (Table QA) is critical,
 particularly in high-stakes industries like finance or healthcare. Although

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liao2025interpreting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19404"}
-tags: ['Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19404'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent years have witnessed remarkable advances in Large Vision-Language
 Models (LVLMs), which have achieved human-level performance across various

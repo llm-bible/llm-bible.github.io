@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: delatorre2023real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12276"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12276'}
+tags: ['RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We present Large Language Model for Mixed Reality (LLMR), a framework for the
 real-time creation and modification of interactive Mixed Reality experiences

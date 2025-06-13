@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024grade
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07453"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07453'}
 tags: ['Agentic', 'Tools']
 ---
 Interactive feedback, where feedback flows in both directions between teacher

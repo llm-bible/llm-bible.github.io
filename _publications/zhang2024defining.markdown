@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024defining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05873"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05873'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable performance in various
 tasks but often fail to handle queries that exceed their knowledge and

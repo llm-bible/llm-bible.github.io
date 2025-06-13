@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024fairmt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19317"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19317'}
+tags: ['RAG', 'Security', 'Fairness', 'Model Architecture', 'GPT', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The growing use of large language model (LLM)-based chatbots has raised
 concerns about fairness. Fairness issues in LLMs can lead to severe

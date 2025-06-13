@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vázquez2025semeval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11975"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11975'}
 tags: ['Uncategorized']
 ---
 We present the Mu-SHROOM shared task which is focused on detecting

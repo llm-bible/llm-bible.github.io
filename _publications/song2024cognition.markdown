@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024cognition
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05343"}
-tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05343'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Multimodal Models', 'Model Architecture']
 ---
 As recent multi-modality large language models (MLLMs) have shown formidable
 proficiency on various complex tasks, there has been increasing attention on

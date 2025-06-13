@@ -6,8 +6,8 @@ conference: "NeurIPS 2023"
 year: 2023
 bibkey: portes2023bidirectional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17482"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17482'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Although BERT-style encoder models are heavily used in NLP research, many
 researchers do not pretrain their own BERTs from scratch due to the high cost

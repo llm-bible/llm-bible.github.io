@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: du2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02904"}
-tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02904'}
+tags: ['RAG', 'Interpretability and Explainability', 'Training Techniques']
 ---
 Post-training is essential for the success of large language models (LLMs),
 transforming pre-trained base models into more useful and aligned post-trained

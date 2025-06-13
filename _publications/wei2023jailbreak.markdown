@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wei2023jailbreak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06387"}
-tags: ['Responsible AI', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06387'}
+tags: ['Prompting', 'Security', 'Responsible AI', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have shown remarkable success in various tasks,
 yet their safety and the risk of generating harmful content remain pressing

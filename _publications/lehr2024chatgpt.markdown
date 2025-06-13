@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lehr2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14765"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14765'}
+tags: ['RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Ethics and Bias']
 ---
 How good a research scientist is ChatGPT? We systematically probed the
 capabilities of GPT-3.5 and GPT-4 across four central components of the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: hieber2017toolkit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1712.05690"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1712.05690'}
+tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Model Architecture', 'Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We describe Sockeye (version 1.12), an open-source sequence-to-sequence
 toolkit for Neural Machine Translation (NMT). Sockeye is a production-ready

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023commonsense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.02388"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02388'}
+tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Tools']
 ---
 Despite serving as the foundation models for a wide range of NLP benchmarks,
 pre-trained language models have shown limited capabilities of acquiring

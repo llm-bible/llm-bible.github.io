@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: xiong2022mga
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.10656"}
-tags: ['Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.10656'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Learning to answer visual questions is a challenging task since the
 multi-modal inputs are within two feature spaces. Moreover, reasoning in visual

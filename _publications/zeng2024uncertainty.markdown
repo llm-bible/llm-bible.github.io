@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024uncertainty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11282"}
-  - {name: "Code", url: "https://github.com/qcznlp/uncertainty_attack"}
-tags: ['Has Code', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11282'}
+  - {name: "Code", url: 'https://github.com/qcznlp/uncertainty_attack'}
+tags: ['RAG', 'Has Code', 'Prompting', 'Security']
 ---
 Large Language Models (LLMs) are employed across various high-stakes domains,
 where the reliability of their outputs is crucial. One commonly used method to

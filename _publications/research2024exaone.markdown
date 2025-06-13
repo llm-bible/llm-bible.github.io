@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: research2024exaone
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03541"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03541'}
 tags: ['Reinforcement Learning']
 ---
 We introduce EXAONE 3.0 instruction-tuned language model, the first open

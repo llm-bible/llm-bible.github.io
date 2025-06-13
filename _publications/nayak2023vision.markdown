@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nayak2023vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16161"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16161'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 This research paper introduces an innovative AI coaching approach by
 integrating vision-encoder-decoder models. The feasibility of this method is

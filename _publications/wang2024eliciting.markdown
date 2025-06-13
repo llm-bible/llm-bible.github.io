@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15314"}
-tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15314'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Prompting']
 ---
 Prompt optimization automatically refines prompting expressions, unlocking
 the full potential of LLMs in downstream tasks. However, current prompt

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: devine2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18952"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18952'}
+tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Training Large Language Models (LLMs) with Reinforcement Learning from AI
 Feedback (RLAIF) aligns model outputs more closely with human preferences. This

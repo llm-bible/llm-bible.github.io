@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goldshmidt2024interpreting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10114"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10114'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 As large language models (LLMs) become increasingly prevalent in critical
 applications, the need for interpretable AI has grown. We introduce TokenSHAP,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19874"}
-  - {name: "Code", url: "https://github.com/tml-epfl/icl-alignment"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19874'}
+  - {name: "Code", url: 'https://github.com/tml-epfl/icl-alignment'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) allows LLMs to learn from examples without changing
 their weights: this is a particularly promising capability for long-context

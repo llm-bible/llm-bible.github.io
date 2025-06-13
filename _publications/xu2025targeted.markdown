@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025targeted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13417"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13417'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) to align with user preferences is
 challenging due to the high cost of quality human annotations in Reinforcement

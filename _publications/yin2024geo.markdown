@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024geo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06483"}
-  - {name: "Code", url: "https://github.com/PlusLabNLP/SafeWorld"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06483'}
+  - {name: "Code", url: 'https://github.com/PlusLabNLP/SafeWorld'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Reinforcement Learning', 'Responsible AI']
 ---
 In the rapidly evolving field of Large Language Models (LLMs), ensuring
 safety is a crucial and widely discussed topic. However, existing works often

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: chaabouni2021can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.01366"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.01366'}
 tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite their practical success, modern seq2seq architectures are unable to

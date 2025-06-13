@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024survey
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2402.00253v2"}
-tags: ['Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2402.00253v2'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Survey Paper']
 ---
 Recent development of Large Vision-Language Models (LVLMs) has attracted
 growing attention within the AI landscape for its practical implementation

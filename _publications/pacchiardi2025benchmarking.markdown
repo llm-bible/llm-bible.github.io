@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: pacchiardi2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14445"}
-  - {name: "Code", url: "https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard"}
-tags: ['RAG', 'Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14445'}
+  - {name: "Code", url: 'https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard'}
+tags: ['RAG', 'Has Code', 'Prompting', 'Tools']
 ---
 Despite possessing impressive skills, Large Language Models (LLMs) often fail
 unpredictably, demonstrating inconsistent success in even basic common sense

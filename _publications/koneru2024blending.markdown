@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: koneru2024blending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16777"}
-tags: ['Fine-Tuning', 'INTERSPEECH', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16777'}
+tags: ['SLT', 'RAG', 'INTERSPEECH', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are currently under exploration for various
 tasks, including Automatic Speech Recognition (ASR), Machine Translation (MT),

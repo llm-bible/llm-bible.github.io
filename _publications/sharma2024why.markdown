@@ -6,8 +6,8 @@ conference: "ICML Humans Algorithmic Decision-Making and Society Modeling Intera
 year: 2024
 bibkey: sharma2024why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02018"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02018'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 The emergence of Large Language Models (LLMs) has revealed a growing need for
 human-AI collaboration, especially in creative decision-making scenarios where

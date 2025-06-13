@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: evstafev2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02858"}
-tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02858'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) demonstrate increasing capabilities in creative
 text generation, yet systematic evaluations of their humor production remain

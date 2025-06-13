@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024entropy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17519"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17519'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 Augmenting Large Language Models (LLMs) with retrieved external knowledge has
 proven effective for improving the factual accuracy of generated responses.

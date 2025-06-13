@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023empower
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11541"}
-  - {name: "Code", url: "https://aka.ms/Microsoft_QA"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11541'}
+  - {name: "Code", url: 'https://aka.ms/Microsoft_QA'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Applications', 'Model Architecture']
 ---
 Large Language Model (LLM) has gained popularity and achieved remarkable
 results in open-domain tasks, but its performance in real industrial

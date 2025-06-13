@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025flexibly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.24067"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.24067'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Transformers are the cornerstone of modern large language models, but their
 quadratic computational complexity limits efficiency in long-sequence

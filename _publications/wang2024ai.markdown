@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13103"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13103'}
 tags: ['Agentic', 'Tools']
 ---
 In this work, we introduce the task of life-long personalization of large

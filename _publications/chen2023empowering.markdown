@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023empowering
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2309.08112v2"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2309.08112v2'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 Artificial intelligence has been applied in various aspects of online
 education to facilitate teaching and learning. However, few approaches has been

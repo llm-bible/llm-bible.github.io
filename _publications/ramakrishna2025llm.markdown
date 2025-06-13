@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ramakrishna2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15097"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15097'}
 tags: ['Training Techniques']
 ---
 Unlearning aims to remove copyrighted, sensitive, or private content from

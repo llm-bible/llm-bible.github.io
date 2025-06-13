@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023skipped
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14557"}
-  - {name: "Code", url: "https://github.com/UBC-NLP/SPARROW"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14557'}
+  - {name: "Code", url: 'https://github.com/UBC-NLP/SPARROW'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Instruction tuned large language models (LLMs), such as ChatGPT, demonstrate
 remarkable performance in a wide range of tasks. Despite numerous recent

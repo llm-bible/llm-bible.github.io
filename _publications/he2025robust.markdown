@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00618"}
-tags: ['RAG', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00618'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models', 'Prompting']
 ---
 Continual adaptation of vision-language models (VLMs) focuses on leveraging
 cross-modal pretrained knowledge to incrementally adapt for expanding

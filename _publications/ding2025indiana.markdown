@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ding2025indiana
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18628"}
-tags: ['RAG', 'Security', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18628'}
+tags: ['Reinforcement Learning', 'RAG', 'Security', 'Prompting']
 ---
 This paper introduces Indiana Jones, an innovative approach to jailbreaking
 Large Language Models (LLMs) by leveraging inter-model dialogues and

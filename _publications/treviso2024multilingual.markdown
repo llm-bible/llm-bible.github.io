@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: treviso2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19482"}
-tags: ['Interpretability and Explainability', 'RAG', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19482'}
+tags: ['RAG', 'Interpretability and Explainability', 'Applications']
 ---
 While machine translation (MT) systems are achieving increasingly strong
 performance on benchmarks, they often produce translations with errors and

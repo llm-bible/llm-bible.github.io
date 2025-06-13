@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022super
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2204.07705v3"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2204.07705v3'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 How well can NLP models generalize to a variety of unseen tasks when provided
 with task instructions? To address this question, we first introduce

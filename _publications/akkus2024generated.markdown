@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: akkus2024generated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11423"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11423'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated significant success in various
 domain-specific tasks, with their performance often improving substantially

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025lottery
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17535"}
-tags: ['Tools', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17535'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Motivated by reducing the computational and storage costs of LLMs, model
 compression and KV cache compression have attracted much attention from

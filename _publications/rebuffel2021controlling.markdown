@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rebuffel2021controlling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.02810"}
-tags: ['RAG', 'Training Techniques', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.02810'}
+tags: ['RAG', 'Language Modeling', 'Applications', 'Training Techniques']
 ---
 Data-to-Text Generation (DTG) is a subfield of Natural Language Generation
 aiming at transcribing structured data in natural language descriptions. The

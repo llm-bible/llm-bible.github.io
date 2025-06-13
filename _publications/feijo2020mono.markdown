@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: feijo2020mono
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.09757"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.09757'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 BERT (Bidirectional Encoder Representations from Transformers) and ALBERT (A
 Lite BERT) are methods for pre-training language models which can later be

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024vl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13600"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13600'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal large language models (MLLMs) have attracted widespread interest
 and have rich applications. However, the inherent attention mechanism in its

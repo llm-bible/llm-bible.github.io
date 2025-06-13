@@ -6,7 +6,7 @@ conference: "CIKM MMSR 2024"
 year: 2024
 bibkey: terragni2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19974"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19974'}
 tags: ['Multimodal Models', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated potential as effective search

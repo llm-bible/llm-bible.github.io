@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024speak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17262"}
-tags: ['Responsible AI', 'Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17262'}
+tags: ['Reinforcement Learning', 'Security', 'Responsible AI']
 ---
 Large Language Models (LLMs) have been demonstrated to generate illegal or
 unethical responses, particularly when subjected to "jailbreak." Research on

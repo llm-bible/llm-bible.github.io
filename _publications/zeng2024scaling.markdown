@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17607"}
-tags: ['Fine-Tuning', 'Pre-Training', 'INTERSPEECH', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17607'}
+tags: ['RAG', 'INTERSPEECH', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Speech language models (SpeechLMs) accept speech input and produce speech
 output, allowing for more natural human-computer interaction compared to

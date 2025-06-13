@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: papaluca2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01954"}
-tags: ['Few-Shot', 'Prompting', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01954'}
+tags: ['Few-Shot', 'Prompting', 'Applications', 'Model Architecture']
 ---
 In this work, we tested the Triplet Extraction (TE) capabilities of a variety
 of Large Language Models (LLMs) of different sizes in the Zero- and Few-Shots

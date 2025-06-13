@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: panthaplackel2020copy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.04771"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.04771'}
 tags: ['Training Techniques']
 ---
 Neural sequence-to-sequence models are finding increasing use in editing of

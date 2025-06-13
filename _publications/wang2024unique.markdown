@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024unique
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07973"}
-tags: ['Fine-Tuning', 'Agentic', 'Pre-Training', 'Tools', 'Applications', 'Survey Paper', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07973'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Security', 'Tools', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Training Techniques', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 With the rapid development of artificial intelligence, large language models
 (LLMs) have made remarkable advancements in natural language processing. These

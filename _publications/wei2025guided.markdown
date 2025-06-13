@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025guided
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08525"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08525'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Reinforcement learning with verifiable outcome rewards (RLVR) has effectively
 scaled up chain-of-thought (CoT) reasoning in large language models (LLMs).

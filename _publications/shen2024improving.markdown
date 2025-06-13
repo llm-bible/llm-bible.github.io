@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07708"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07708'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Reinforcement learning from human feedback (RLHF) is the mainstream paradigm
 used to align large language models (LLMs) with human preferences. Yet existing

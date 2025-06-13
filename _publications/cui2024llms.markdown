@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15464"}
-tags: ['Few-Shot', 'Agentic', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15464'}
+tags: ['Agentic', 'Few-Shot', 'Prompting', 'Applications']
 ---
 Electronic health records (EHRs) contain valuable patient data for
 health-related prediction tasks, such as disease prediction. Traditional

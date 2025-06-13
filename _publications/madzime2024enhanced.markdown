@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: madzime2024enhanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09628"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09628'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The development of Electronic Health Records summarization systems has
 revolutionized patient data management. Previous research advanced this field

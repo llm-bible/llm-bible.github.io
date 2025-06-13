@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pasquarelli2024comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13326"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13326'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Providing sufficient support for students requires substantial resources,
 especially considering the growing enrollment numbers. Students need help in a

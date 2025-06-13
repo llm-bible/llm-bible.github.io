@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ilaslan2024vg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11621"}
-tags: ['Agentic', 'Tools', 'RAG', 'Merging', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11621'}
+tags: ['Agentic', 'RAG', 'Tools', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 Large Language Model (LLM)-based agents have shown promise in procedural
 tasks, but the potential of multimodal instructions augmented by texts and

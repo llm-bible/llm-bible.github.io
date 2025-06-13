@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024resolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12434"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12434'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Merging']
 ---
 Natural Language Inference (NLI) is a crucial task in natural language
 processing that involves determining the relationship between two sentences,

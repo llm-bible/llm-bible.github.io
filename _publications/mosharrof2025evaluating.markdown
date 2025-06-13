@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mosharrof2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13310"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13310'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Traditional task-oriented dialog (ToD) systems rely heavily on
 labor-intensive turn-level annotations, such as dialogue states and policy

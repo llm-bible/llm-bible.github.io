@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023adaptive
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.10512v2"}
-  - {name: "Code", url: "https://github.com/QingruZhang/AdaLoRA"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.10512v2'}
+  - {name: "Code", url: 'https://github.com/QingruZhang/AdaLoRA'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning large pre-trained language models on downstream tasks has become
 an important paradigm in NLP. However, common practice fine-tunes all of the

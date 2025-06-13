@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.01055"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.01055'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 In recent times, substantial advancements have been witnessed in large
 language models (LLMs), exemplified by ChatGPT, showcasing remarkable

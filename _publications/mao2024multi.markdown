@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mao2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04883"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04883'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Tools']
 ---
 Recent advancements in large language models (LLMs) have provided a new
 avenue for chatbot development. Most existing research, however, has primarily

@@ -6,8 +6,8 @@ conference: "AAAI 2021"
 year: 2020
 bibkey: chen2020reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.07410"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.07410'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In multi-turn dialog, utterances do not always take the full form of
 sentences \cite\{Carbonell1983DiscoursePA\}, which naturally makes understanding

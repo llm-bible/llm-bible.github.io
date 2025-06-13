@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kumar2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06460"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06460'}
 tags: ['RAG', 'Applications']
 ---
 Large Language Models (LLMs) are now increasingly widely used to simulate

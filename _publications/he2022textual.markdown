@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: he2022textual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.13930"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.13930'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Reasoning about actions and change (RAC) is essential to understand and
 interact with the ever-changing environment. Previous AI research has shown the

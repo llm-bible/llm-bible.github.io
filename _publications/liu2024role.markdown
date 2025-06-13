@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13645"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13645'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) show impressive inductive reasoning
 capabilities, enabling them to generate hypotheses that could generalize

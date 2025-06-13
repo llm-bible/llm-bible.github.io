@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024policy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05541"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05541'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 In the rapidly advancing field of Large Language Models (LLMs), effectively
 leveraging existing datasets during fine-tuning to maximize the model's

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: azime2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05049"}
-  - {name: "Code", url: "https://huggingface.co/datasets/israel/ProverbEval,"}
-  - {name: "Code", url: "https://github.com/EthioNLP/EthioProverbEval"}
-tags: ['Tools', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05049'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/israel/ProverbEval,'}
+  - {name: "Code", url: 'https://github.com/EthioNLP/EthioProverbEval'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'Prompting']
 ---
 With the rapid development of evaluation datasets to assess LLMs
 understanding across a wide range of subjects and domains, identifying a

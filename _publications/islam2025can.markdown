@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: islam2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01991"}
-tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01991'}
+tags: ['Few-Shot', 'Interpretability and Explainability', 'Tools', 'RAG']
 ---
 Nowadays, social media is pivotal in shaping public discourse, especially on
 polarizing issues like vaccination, where diverse moral perspectives influence

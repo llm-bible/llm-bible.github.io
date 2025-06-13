@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022finding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.07349"}
-  - {name: "Code", url: "https://github.com/THU-KEG/Skill-Neuron"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.07349'}
+  - {name: "Code", url: 'https://github.com/THU-KEG/Skill-Neuron'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pruning', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformer-based pre-trained language models have demonstrated superior
 performance on various natural language processing tasks. However, it remains

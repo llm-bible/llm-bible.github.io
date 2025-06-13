@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.06546"}
-  - {name: "Code", url: "https://github.com/lyy1994/reformer"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Scaling Laws', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.06546'}
+  - {name: "Code", url: 'https://github.com/lyy1994/reformer'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'SLT', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Scaling Laws', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Though early successes of Statistical Machine Translation (SMT) systems are
 attributed in part to the explicit modelling of the interaction between any two

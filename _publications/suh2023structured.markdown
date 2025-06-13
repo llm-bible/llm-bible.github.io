@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: suh2023structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12953"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12953'}
 tags: ['Fine-Tuning', 'Tools']
 ---
 Thanks to their generative capabilities, large language models (LLMs) have

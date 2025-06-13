@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024reindex
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12119"}
-tags: ['Tools', 'GPT', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12119'}
+tags: ['GPT', 'RecSys', 'Tools', 'Pretraining Methods']
 ---
 Large language models (LLMs) are revolutionizing conversational recommender
 systems by adeptly indexing item content, understanding complex conversational

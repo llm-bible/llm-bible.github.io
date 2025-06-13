@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mavrogiannis2023translating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00163"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00163'}
 tags: ['RAG', 'Tools']
 ---
 Cooking recipes are challenging to translate to robot plans as they feature

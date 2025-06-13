@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: runwal2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01911"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01911'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Pretrained Language Models (PLMs) have become the de facto starting point for
 fine-tuning on downstream tasks. However, as model sizes continue to increase,

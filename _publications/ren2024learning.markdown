@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10490"}
-tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10490'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Learning dynamics, which describes how the learning of specific training
 examples influences the model's predictions on other examples, gives us a

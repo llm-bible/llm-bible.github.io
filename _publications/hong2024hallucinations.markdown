@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024hallucinations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05904"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05904'}
 tags: ['Applications']
 ---
 Large Language Models (LLMs) have transformed the Natural Language Processing

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: trautsch2022predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.01335"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.01335'}
 tags: ['BERT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Pre-trained transformer models are the current state-of-the-art for natural

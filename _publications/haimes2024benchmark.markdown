@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: haimes2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09247"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09247'}
 tags: ['Training Techniques']
 ---
 The training data for many Large Language Models (LLMs) is contaminated with

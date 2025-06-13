@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11207"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11207'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Prompting', 'Survey Paper', 'Interpretability']
 ---
 Large language models (LLMs) such as ChatGPT have demonstrated superior
 performance on a variety of natural language processing (NLP) tasks including

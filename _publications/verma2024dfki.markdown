@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024dfki
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00321"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00321'}
 tags: ['Training Techniques']
 ---
 The NLI4CT task at SemEval-2024 emphasizes the development of robust models

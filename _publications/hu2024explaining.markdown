@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024explaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01085"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01085'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 The use of large language models (LLMs) as judges, particularly in preference
 comparisons, has become widespread, but this reveals a notable bias towards

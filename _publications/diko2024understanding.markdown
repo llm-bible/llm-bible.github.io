@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: diko2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15556"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15556'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Vision-Language Models (VLMs) are crucial for applications requiring
 integrated understanding textual and visual information. However, existing VLMs

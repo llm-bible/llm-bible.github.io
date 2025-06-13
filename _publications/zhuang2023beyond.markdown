@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhuang2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14122"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14122'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Zero-shot text rankers powered by recent LLMs achieve remarkable ranking
 performance by simply prompting. Existing prompts for pointwise LLM rankers

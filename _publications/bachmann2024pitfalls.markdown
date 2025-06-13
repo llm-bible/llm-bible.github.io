@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bachmann2024pitfalls
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.06963"}
-  - {name: "Code", url: "https://github.com/gregorbachmann/Next-Token-Failures"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.06963'}
+  - {name: "Code", url: 'https://github.com/gregorbachmann/Next-Token-Failures'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Merging', 'Pretraining Methods']
 ---
 Can a mere next-token predictor faithfully model human intelligence? We
 crystallize this emerging concern and correct popular misconceptions

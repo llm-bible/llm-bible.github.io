@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024taming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18363"}
-  - {name: "Code", url: "https://github.com/IDEA-Research/ChatRex"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18363'}
+  - {name: "Code", url: 'https://github.com/IDEA-Research/ChatRex'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Perception and understanding are two pillars of computer vision. While
 multimodal large language models (MLLM) have demonstrated remarkable visual

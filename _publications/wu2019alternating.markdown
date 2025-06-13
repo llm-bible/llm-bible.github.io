@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wu2019alternating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.03756"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.03756'}
+tags: ['Model Architecture', 'BERT', 'Tools', 'Fine-Tuning', 'GPT']
 ---
 Existing dialog system models require extensive human annotations and are
 difficult to generalize to different tasks. The recent success of large

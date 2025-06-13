@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15283"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15283'}
+tags: ['Prompting', 'Agentic']
 ---
 As Large Language Models (LLMs) advance in their capabilities, researchers
 have increasingly employed them for social simulation. In this paper, we

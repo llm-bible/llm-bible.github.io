@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cromp2025tabular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02152"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02152'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 While advances in large language models (LLMs) have greatly improved the
 quality of synthetic text data in recent years, synthesizing tabular data has

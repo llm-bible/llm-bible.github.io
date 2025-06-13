@@ -6,8 +6,8 @@ conference: "Annual International ACM SIGIR Conference on Research and Developme
 year: 2023
 bibkey: huo2023retrieving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11392"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11392'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Current large language models (LLMs) can exhibit near-human levels of
 performance on many natural language-based tasks, including open-domain

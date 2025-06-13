@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cong2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11459"}
-  - {name: "Code", url: "https://bonany.cc/attentionleg"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11459'}
+  - {name: "Code", url: 'https://bonany.cc/attentionleg'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Transformer', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large language models (LLMs) with Transformer architectures have become
 phenomenal in natural language processing, multimodal generative artificial

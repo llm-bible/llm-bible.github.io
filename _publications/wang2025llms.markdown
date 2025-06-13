@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08879"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08879'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Transformer', 'Model Architecture']
 ---
 Efficient long-context inference is critical as large language models (LLMs)
 adopt context windows of ranging from 128K to 1M tokens. However, the growing

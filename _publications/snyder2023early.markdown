@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: snyder2023early
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14183"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14183'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 While large language models (LLMs) have taken great strides towards helping
 humans with a plethora of tasks, hallucinations remain a major impediment

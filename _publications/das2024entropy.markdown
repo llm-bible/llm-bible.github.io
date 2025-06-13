@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: das2024entropy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09338"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09338'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Training Techniques']
 ---
 Large language models (LLMs) exhibit impressive natural language capabilities
 but suffer from hallucination -- generating content ungrounded in the realities

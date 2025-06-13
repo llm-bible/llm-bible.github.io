@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: richburg2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20512"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20512'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 A new paradigm for machine translation has recently emerged: fine-tuning
 large language models (LLM) on parallel text has been shown to outperform

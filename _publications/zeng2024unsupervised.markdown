@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024unsupervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16497"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16497'}
+tags: ['RAG', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 Dense retrieval systems are commonly used for information retrieval (IR).
 They rely on learning text representations through an encoder and usually

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023slow
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16982"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16982'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Learning multiscale Transformer models has been evidenced as a viable
 approach to augmenting machine translation systems. Prior research has

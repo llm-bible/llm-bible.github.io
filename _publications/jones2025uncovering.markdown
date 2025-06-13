@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jones2025uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04113"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04113'}
 tags: ['Prompting']
 ---
 Humans often rely on subjective natural language to direct language models

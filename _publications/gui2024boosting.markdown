@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gui2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15562"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15562'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Applications']
 ---
 Lossless speculative decoding accelerates target large language model (LLM)
 inference by employing a lightweight draft model for generating tree-structured

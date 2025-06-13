@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: backlund2025vending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15840"}
-tags: ['Agentic', 'Agent', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15840'}
+tags: ['Agentic', 'Tools', 'Agent']
 ---
 While Large Language Models (LLMs) can exhibit impressive proficiency in
 isolated, short-term tasks, they often fail to maintain coherent performance

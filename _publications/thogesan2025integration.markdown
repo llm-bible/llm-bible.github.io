@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: thogesan2025integration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11948"}
-tags: ['Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11948'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Interpretability remains a key difficulty in sentiment analysis with Large
 Language Models (LLMs), particularly in high-stakes applications where it is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: castricato2022robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.07792"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.07792'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Controlled automated story generation seeks to generate natural language
 stories satisfying constraints from natural language critiques or preferences.

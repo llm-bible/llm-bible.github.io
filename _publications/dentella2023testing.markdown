@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dentella2023testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.12313"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.12313'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) are recruited in applications that span from
 clinical assistance and legal support to question answering and education.

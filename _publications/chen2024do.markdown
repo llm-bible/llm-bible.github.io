@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.21187"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.21187'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper']
 ---
 The remarkable performance of models like the OpenAI o1 can be attributed to
 their ability to emulate human-like long-time thinking during inference. These

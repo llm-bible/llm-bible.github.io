@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kokaia2023writing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11334"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11334'}
+tags: ['RAG', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We introduce two novel methods, Tree-Search and Self-contextualizing QA,
 designed to enhance the performance of large language models (LLMs) in

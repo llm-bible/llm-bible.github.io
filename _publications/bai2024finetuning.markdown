@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024finetuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16127"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16127'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various domains, motivating researchers to investigate their potential use in

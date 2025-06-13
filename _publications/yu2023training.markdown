@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11193"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11193'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) continue to evolve, more are being designed
 to handle long-context inputs. Despite this advancement, most of them still

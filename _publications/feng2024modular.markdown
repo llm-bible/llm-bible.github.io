@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024modular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15951"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15951'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 While existing alignment paradigms have been integral in developing large
 language models (LLMs), LLMs often learn an averaged human preference and

@@ -6,8 +6,8 @@ conference: "https://aclanthology.org/2023.findings-emnlp.189/"
 year: 2023
 bibkey: wang2023filling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11598"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11598'}
+tags: ['RAG', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) demonstrate impressive reasoning ability and the
 maintenance of world knowledge not only in natural language tasks, but also in

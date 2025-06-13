@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: giglou2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18812"}
-tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18812'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Tools']
 ---
 In response to the growing complexity and volume of scientific literature,
 this paper introduces the LLMs4Synthesis framework, designed to enhance the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024astromlab
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19750"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19750'}
+tags: ['Arxiv', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Continual pretraining of large language models on domain-specific data has
 been proposed to enhance performance on downstream tasks. In astronomy, the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: weng2025trace
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18535"}
-tags: ['Tools', 'Training Techniques', 'GPT', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18535'}
+tags: ['Training Techniques', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 As large language models (LMs) advance, there is an increasing need to
 control their outputs to align with human values (e.g., detoxification) or

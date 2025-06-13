@@ -6,9 +6,9 @@ conference: "38th Conference on Neural Information Processing Systems (NeurIPS 2
 year: 2024
 bibkey: kong2024customizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10159"}
-  - {name: "Code", url: "https://github.com/AkaliKong/iLoRA"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10159'}
+  - {name: "Code", url: 'https://github.com/AkaliKong/iLoRA'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Sequential recommendation systems predict the next interaction item based on
 users' past interactions, aligning recommendations with individual preferences.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024infini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17377"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17377'}
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Are \\(n\\)-gram language models still relevant in this era of neural large
 language models (LLMs)? Our answer is yes, and we showcase their values in both

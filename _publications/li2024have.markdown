@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024have
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11302"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11302'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In the study of LLMs, sycophancy represents a prevalent hallucination that
 poses significant challenges to these models. Specifically, LLMs often fail to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: an2024mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2406.12718v2"}
-  - {name: "Code", url: "https://github.com/Lackel/AGLA"}
-tags: ['Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2406.12718v2'}
+  - {name: "Code", url: 'https://github.com/Lackel/AGLA'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Despite their great success across various multimodal tasks, Large
 Vision-Language Models (LVLMs) are facing a prevalent problem with object

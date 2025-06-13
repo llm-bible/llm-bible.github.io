@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: ackerman2024representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06927"}
-  - {name: "Code", url: "https://github.com/cma1114/representation_tuning"}
-  - {name: "Code", url: "https://huggingface.co/collections/cackerman/representation-tuning-66da1e5ab41cd1b824687d9f"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06927'}
+  - {name: "Code", url: 'https://github.com/cma1114/representation_tuning'}
+  - {name: "Code", url: 'https://huggingface.co/collections/cackerman/representation-tuning-66da1e5ab41cd1b824687d9f'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Activation engineering is becoming increasingly popular as a means of online
 control of large language models (LLMs). In this work, we extend the idea of

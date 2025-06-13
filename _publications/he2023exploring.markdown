@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023exploring
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.04118v3"}
-  - {name: "Code", url: "https://github.com/zwhe99/MAPS-mt"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.04118v3'}
+  - {name: "Code", url: 'https://github.com/zwhe99/MAPS-mt'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Applications', 'Tools', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 general scenarios, exhibiting a level of aptitude that approaches, in some

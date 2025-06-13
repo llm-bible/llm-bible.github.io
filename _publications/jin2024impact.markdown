@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04925"}
-  - {name: "Code", url: "https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models"}
-tags: ['Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04925'}
+  - {name: "Code", url: 'https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models'}
+tags: ['Prompting', 'Has Code']
 ---
 Chain of Thought (CoT) is significant in improving the reasoning abilities of
 large language models (LLMs). However, the correlation between the

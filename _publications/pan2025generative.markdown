@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: pan2025generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14666"}
-  - {name: "Code", url: "https://DDT-LLaMA.github.io/"}
-tags: ['Tools', 'GPT', 'RAG', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14666'}
+  - {name: "Code", url: 'https://DDT-LLaMA.github.io/'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'GPT', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recent endeavors in Multimodal Large Language Models (MLLMs) aim to unify
 visual comprehension and generation by combining LLM and diffusion models, the

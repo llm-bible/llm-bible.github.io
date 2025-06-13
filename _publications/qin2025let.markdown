@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qin2025let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06438"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06438'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown substantial capacity for generating
 fluent, contextually appropriate responses. However, they can produce

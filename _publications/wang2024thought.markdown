@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024thought
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14495"}
-  - {name: "Code", url: "https://github.com/lalalamdbf/TPReasoner"}
-tags: ['Tools', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14495'}
+  - {name: "Code", url: 'https://github.com/lalalamdbf/TPReasoner'}
+tags: ['Has Code', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Logical reading comprehension is a challenging task that entails grasping the
 underlying semantics of text and applying reasoning to deduce the correct

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023disc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15205"}
-  - {name: "Code", url: "https://github.com/FudanDISC/DISC-FinLLM"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15205'}
+  - {name: "Code", url: 'https://github.com/FudanDISC/DISC-FinLLM'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We propose Multiple Experts Fine-tuning Framework to build a financial large
 language model (LLM), DISC-FinLLM. Our methodology improves general LLMs by

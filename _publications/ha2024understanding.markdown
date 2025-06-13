@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ha2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15265"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15265'}
+tags: ['Reinforcement Learning', 'Agentic', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have facilitated significant strides in
 generating conversational agents, enabling seamless, contextually relevant

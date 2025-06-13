@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02902"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02902'}
 tags: ['RAG', 'Training Techniques']
 ---
 General-purpose LLM judges capable of human-level evaluation provide not only

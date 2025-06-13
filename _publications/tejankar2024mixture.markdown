@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tejankar2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09687"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09687'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 The goal of this paper is to improve (upcycle) an existing large language
 model without the prohibitive requirements of continued pre-training of the

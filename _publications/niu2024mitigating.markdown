@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: niu2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06545"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06545'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 various domains, although their susceptibility to hallucination poses

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiang2025scireplicate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00255"}
-  - {name: "Code", url: "https://github.com/xyzCS/SciReplicate-Bench"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00255'}
+  - {name: "Code", url: 'https://github.com/xyzCS/SciReplicate-Bench'}
 tags: ['Agentic', 'Has Code', 'Tools']
 ---
 This study evaluates large language models (LLMs) in generating code from

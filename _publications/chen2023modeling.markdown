@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13292"}
-  - {name: "Code", url: "https://github.com/cg1177/VideoLLM"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13292'}
+  - {name: "Code", url: 'https://github.com/cg1177/VideoLLM'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 With the exponential growth of video data, there is an urgent need for
 automated technology to analyze and comprehend video content. However, existing

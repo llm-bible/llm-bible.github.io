@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: bai2023multitask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14508"}
-  - {name: "Code", url: "https://github.com/THUDM/LongBench"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14508'}
+  - {name: "Code", url: 'https://github.com/THUDM/LongBench'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Although large language models (LLMs) demonstrate impressive performance for
 many language tasks, most of them can only handle texts a few thousand tokens

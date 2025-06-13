@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: palepu2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03395"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03395'}
+tags: ['Applications', 'Training Techniques', 'Fine-Tuning', 'Interpretability', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable progress in encoding
 clinical knowledge and responding to complex medical queries with appropriate

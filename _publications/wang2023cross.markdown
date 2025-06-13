@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08952"}
-  - {name: "Code", url: "https://github.com/krystalan/Bi_ZsRE"}
-tags: ['Training Techniques', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08952'}
+  - {name: "Code", url: 'https://github.com/krystalan/Bi_ZsRE'}
+tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'GPT']
 ---
 Knowledge editing aims to change language models' performance on several
 special cases (i.e., editing scope) by infusing the corresponding expected

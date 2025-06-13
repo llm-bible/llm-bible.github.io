@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shin2023past
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07635"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07635'}
 tags: ['RAG', 'Tools']
 ---
 This work presents Past as a Guide (PaG), a simple approach for Large

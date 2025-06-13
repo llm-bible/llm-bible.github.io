@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06967"}
-tags: ['Fine-Tuning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06967'}
+tags: ['Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The advent of Large Language Models (LLM) has reformed the Automatic Speech
 Recognition (ASR). Prompting LLM with audio embeddings to generate

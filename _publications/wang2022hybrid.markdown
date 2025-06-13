@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.10416"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'WMT', 'Security', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.10416'}
+tags: ['WMT', 'Security', 'GPT', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 In this work, we empirically confirm that non-autoregressive translation with
 an iterative refinement mechanism (IR-NAT) suffers from poor acceleration

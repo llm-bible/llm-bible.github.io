@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024mechanistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08590"}
-tags: ['Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08590'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Recent studies on logical reasoning in Language Models (LMs) have sparked a
 debate on whether they can learn systematic reasoning principles during

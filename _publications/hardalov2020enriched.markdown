@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: hardalov2020enriched
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.14848"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.14848'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Detecting the user's intent and finding the corresponding slots among the
 utterance's words are important tasks in natural language understanding. Their

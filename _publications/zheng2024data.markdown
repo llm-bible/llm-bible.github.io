@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06027"}
-tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06027'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 In recent years, the rise of Large Language Models (LLMs) has spurred a
 growing demand for plug-and-play AI systems. Among the various AI techniques,

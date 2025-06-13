@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sun2022metaphorical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.00763"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.00763'}
+tags: ['Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Task-oriented dialogue systems (TDSs) are assessed mainly in an offline
 setting or through human evaluation. The evaluation is often limited to

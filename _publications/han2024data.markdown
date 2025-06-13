@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00409"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00409'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Text summarization tasks commonly employ Pre-trained Language Models (PLMs)
 to fit diverse standard datasets. While these PLMs excel in automatic

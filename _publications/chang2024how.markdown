@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11813"}
-tags: ['Interpretability and Explainability', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11813'}
+tags: ['Security', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the recent observation that large language models (LLMs) can store
 substantial factual knowledge, there is a limited understanding of the

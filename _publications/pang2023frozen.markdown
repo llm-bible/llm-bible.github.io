@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: pang2023frozen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12973"}
-  - {name: "Code", url: "https://github.com/ziqipang/LM4VisualEncoding"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12973'}
+  - {name: "Code", url: 'https://github.com/ziqipang/LM4VisualEncoding'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper reveals that large language models (LLMs), despite being trained
 solely on textual data, are surprisingly strong encoders for purely visual

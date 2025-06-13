@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024q
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05193"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05193'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Value-based reinforcement learning (RL) can in principle learn effective
 policies for a wide range of multi-turn problems, from games to dialogue to

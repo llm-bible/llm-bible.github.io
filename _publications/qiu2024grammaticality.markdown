@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024grammaticality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11116"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11116'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated exceptional performance across

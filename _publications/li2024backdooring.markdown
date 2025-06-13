@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024backdooring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13355"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13355'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Mainstream backdoor attack methods typically demand substantial tuning data
 for poisoning, limiting their practicality and potentially degrading the

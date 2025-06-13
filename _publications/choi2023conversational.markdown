@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: choi2023conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13001"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13001'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper introduces the Conversational Factor Information Retrieval Method
 (ConFIRM), a novel approach to fine-tuning large language models (LLMs) for

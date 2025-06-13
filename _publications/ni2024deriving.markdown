@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024deriving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06565"}
-tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06565'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Tools']
 ---
 Evaluating large language models (LLMs) is challenging. Traditional
 ground-truth-based benchmarks fail to capture the comprehensiveness and nuance

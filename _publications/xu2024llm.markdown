@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12643"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12643'}
 tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) based on generative pre-trained Transformer have

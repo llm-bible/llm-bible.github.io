@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024heterogeneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18934"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18934'}
 tags: ['Efficiency and Optimization', 'Merging']
 ---
 Due to the high resource demands of Large Language Models (LLMs), achieving

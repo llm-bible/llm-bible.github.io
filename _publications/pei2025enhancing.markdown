@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: pei2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16212"}
-  - {name: "Code", url: "https://github.com/QizhiPei/mathfusion"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16212'}
+  - {name: "Code", url: 'https://github.com/QizhiPei/mathfusion'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown impressive progress in mathematical
 reasoning. While data augmentation is promising to enhance mathematical

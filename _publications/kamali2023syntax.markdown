@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kamali2023syntax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04364"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04364'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Compositional generalization, the ability of intelligent models to
 extrapolate understanding of components to novel compositions, is a fundamental

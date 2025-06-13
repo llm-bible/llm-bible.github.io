@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04836"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04836'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Catastrophic Forgetting (CF) means models forgetting previously acquired
 knowledge when learning new data. It compromises the effectiveness of large

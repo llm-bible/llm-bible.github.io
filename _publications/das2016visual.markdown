@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: das2016visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1611.08669"}
-  - {name: "Code", url: "https://visualdialog.org"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1611.08669'}
+  - {name: "Code", url: 'https://visualdialog.org'}
 tags: ['Agentic', 'Has Code', 'Merging']
 ---
 We introduce the task of Visual Dialog, which requires an AI agent to hold a

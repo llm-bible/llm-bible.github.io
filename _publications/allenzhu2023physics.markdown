@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: allenzhu2023physics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14402"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14402'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training']
 ---
 Language models can store vast factual knowledge, yet their ability to
 flexibly use this knowledge for downstream tasks (e.g., via instruction

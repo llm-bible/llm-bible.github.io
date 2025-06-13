@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: raunak2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14878"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14878'}
+tags: ['RAG', 'WMT', 'GPT', 'Applications', 'Model Architecture']
 ---
 While Neural Machine Translation (NMT) represents the leading approach to
 Machine Translation (MT), the outputs of NMT models still require translation

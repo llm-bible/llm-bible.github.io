@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fuligni2025you
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02885"}
-tags: ['Agentic', 'Survey Paper', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02885'}
+tags: ['Agentic', 'Tools', 'Survey Paper']
 ---
 In recent years, Large Language Models (LLMs) rapidly gained popularity
 across all parts of society, including education. After initial skepticism and

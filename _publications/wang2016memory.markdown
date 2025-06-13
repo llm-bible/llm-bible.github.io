@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: wang2016memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1606.02003"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1606.02003'}
+tags: ['Applications', 'Training Techniques']
 ---
 We propose to enhance the RNN decoder in a neural machine translator (NMT)
 with external memory, as a natural but powerful extension to the state in the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02567"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02567'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Applications', 'Training Techniques']
 ---
 The development of large language models (LLM) has shown progress on
 reasoning, though studies have largely considered either English or simple

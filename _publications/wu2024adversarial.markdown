@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14609"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14609'}
 tags: ['RAG', 'Security']
 ---
 Open-source LLMs have shown great potential as fine-tuned chatbots, and

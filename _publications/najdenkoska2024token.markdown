@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: najdenkoska2024token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10034"}
-  - {name: "Code", url: "https://github.com/ivonajdenkoska/tulip"}
-tags: ['Training Techniques', 'Multimodal Models', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10034'}
+  - {name: "Code", url: 'https://github.com/ivonajdenkoska/tulip'}
+tags: ['Training Techniques', 'Has Code', 'Multimodal Models', 'Model Architecture']
 ---
 We address the challenge of representing long captions in vision-language
 models, such as CLIP. By design these models are limited by fixed, absolute

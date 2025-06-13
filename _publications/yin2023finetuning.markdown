@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yin2023finetuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16119"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16119'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Quantization', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 We propose a memory-efficient finetuning algorithm for large language models
 (LLMs) that supports finetuning LLMs with 65B parameters in 2/3/4-bit precision

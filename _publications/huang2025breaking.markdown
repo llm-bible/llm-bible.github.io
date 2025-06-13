@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01609"}
-  - {name: "Code", url: "https://github.com/wyf23187/LLM_CDV"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01609'}
+  - {name: "Code", url: 'https://github.com/wyf23187/LLM_CDV'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Security', 'Applications', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 Recent advances in Large Language Models (LLMs) have revolutionized
 generative systems, achieving excellent performance across diverse domains.

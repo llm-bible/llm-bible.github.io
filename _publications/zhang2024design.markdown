@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024design
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15506"}
-  - {name: "Code", url: "https://github.com/SalesforceAIResearch/xLAM"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15506'}
+  - {name: "Code", url: 'https://github.com/SalesforceAIResearch/xLAM'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Agent', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Autonomous agents powered by large language models (LLMs) have garnered
 significant research attention. However, fully harnessing the potential of LLMs

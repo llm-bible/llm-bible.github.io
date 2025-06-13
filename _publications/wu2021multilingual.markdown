@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wu2021multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.14880"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.14880'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Tools']
 ---
 Span-extraction reading comprehension models have made tremendous advances
 enabled by the availability of large-scale, high-quality training datasets.

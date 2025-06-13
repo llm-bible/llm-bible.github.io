@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: xiong2022auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.12461"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.12461'}
 tags: ['Prompting', 'Applications']
 ---
 This study investigates the task of knowledge-based question generation

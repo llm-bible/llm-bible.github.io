@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sahu2021challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.11899"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.11899'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Tools', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We focus on Multimodal Machine Reading Comprehension (M3C) where a model is
 expected to answer questions based on given passage (or context), and the

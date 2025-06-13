@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: xu2020mc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.05744"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.05744'}
+tags: ['Masked Language Model', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'BERT', 'Applications', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained contextual representations (e.g., BERT) have become the
 foundation to achieve state-of-the-art results on many NLP tasks. However,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.02986"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.02986'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Visual dialog is a vision-language task where an agent needs to answer a
 series of questions grounded in an image based on the understanding of the

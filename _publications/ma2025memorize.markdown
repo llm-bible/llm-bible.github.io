@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025memorize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17326"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17326'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Clinical diagnosis prediction models, when provided with a patient's medical
 history, aim to detect potential diseases early, facilitating timely

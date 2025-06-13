@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dou2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11508"}
-tags: ['Applications', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11508'}
+tags: ['Prompting', 'In-Context Learning', 'Applications']
 ---
 The patient-centered medical dialogue systems strive to offer diagnostic
 interpretation services to users who are less knowledgeable about medical

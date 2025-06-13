@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jia2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08378"}
-tags: ['Tools', 'Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08378'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Distillation', 'Tools']
 ---
 Large language models (LLMs) are increasingly being deployed on mobile
 devices, but the limited DRAM capacity constrains the deployable model size.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.10368"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.10368'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'GPT', 'Model Architecture', 'BERT', 'Tools', 'Applications']
 ---
 Large-scale pre-trained language models (PLMs) such as BERT have recently
 achieved great success and become a milestone in natural language processing

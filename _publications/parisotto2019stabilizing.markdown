@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: parisotto2019stabilizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.06764"}
-tags: ['Transformer', 'Agentic', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.06764'}
+tags: ['Attention Mechanism', 'Agentic', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Owing to their ability to both effectively integrate information over long
 time horizons and scale to massive amounts of data, self-attention

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024structure
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13415"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13415'}
+tags: ['Prompting', 'Tools']
 ---
 Although Large Language Models (LLMs) excel at addressing straightforward
 reasoning tasks, they frequently struggle with difficulties when confronted by

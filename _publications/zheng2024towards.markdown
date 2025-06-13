@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16933"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16933'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 This paper explores the use of Large Language Models (LLMs) for sequential
 recommendation, which predicts users' future interactions based on their past

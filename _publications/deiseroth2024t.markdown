@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: deiseroth2024t
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19223"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19223'}
 tags: ['Ethics and Bias']
 ---
 Tokenizers are crucial for encoding information in Large Language Models, but

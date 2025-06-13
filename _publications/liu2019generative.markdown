@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: liu2019generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.05604"}
-tags: ['BERT', 'Agentic', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.05604'}
+tags: ['Reinforcement Learning', 'Agentic', 'BERT', 'Model Architecture']
 ---
 In real-world question-answering (QA) systems, ill-formed questions, such as
 wrong words, ill word order, and noisy expressions, are common and may prevent

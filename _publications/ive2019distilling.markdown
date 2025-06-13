@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: ive2019distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.07701"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.07701'}
 tags: ['Multimodal Models', 'Applications']
 ---
 Previous work on multimodal machine translation has shown that visual

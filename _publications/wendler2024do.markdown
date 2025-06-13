@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wendler2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10588"}
-tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10588'}
+tags: ['Transformer', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We ask whether multilingual language models trained on unbalanced,
 English-dominated corpora use English as an internal pivot language -- a

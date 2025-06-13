@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07736"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07736'}
 tags: ['RAG']
 ---
 As the capabilities of Large Language Models (LLMs) expand, it becomes

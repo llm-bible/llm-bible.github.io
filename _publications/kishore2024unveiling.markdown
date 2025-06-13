@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kishore2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01453"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01453'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Unraveling the intricate details of events in natural language necessitates a
 subtle understanding of temporal dynamics. Despite the adeptness of Large

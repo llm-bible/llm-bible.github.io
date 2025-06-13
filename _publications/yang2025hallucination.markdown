@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15844"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15844'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) are prone to hallucinations, e.g., factually
 incorrect information, in their responses. These hallucinations present

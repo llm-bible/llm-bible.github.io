@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhong2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08781"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08781'}
 tags: ['Uncategorized']
 ---
 With the development of Large Language Models (LLMs), numerous benchmarks

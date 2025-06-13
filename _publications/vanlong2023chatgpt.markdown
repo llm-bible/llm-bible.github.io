@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: vanlong2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01661"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01661'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Mathematical questioning is crucial for assessing students problem-solving
 skills. Since manually creating such questions requires substantial effort,

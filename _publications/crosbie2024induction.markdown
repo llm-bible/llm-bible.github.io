@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: crosbie2024induction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07011"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07011'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown a remarkable ability to learn and
 perform complex tasks through in-context learning (ICL). However, a

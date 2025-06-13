@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024preserving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16673"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16673'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) typically rely on Supervised Fine-Tuning (SFT)
 to specialize in downstream tasks, with the Cross Entropy (CE) loss being the

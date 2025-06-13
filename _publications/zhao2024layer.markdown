@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024layer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20008"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20008'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained large language models (LLMs) on a diverse array of
 tasks has become a common approach for building models that can solve various

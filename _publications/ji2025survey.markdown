@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02666"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02666'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 The alignment of large language models (LLMs) with human values and
 intentions represents a core challenge in current AI research, where reward

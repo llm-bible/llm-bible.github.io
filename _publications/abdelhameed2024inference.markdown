@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdelhameed2024inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16260"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16260'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Recent advances in large language models (LLMs) have predominantly focused on
 maximizing accuracy and reasoning capabilities, often overlooking crucial

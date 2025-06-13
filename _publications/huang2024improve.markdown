@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024improve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06333"}
-  - {name: "Code", url: "https://github.com/thunlp/FastFiD"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06333'}
+  - {name: "Code", url: 'https://github.com/thunlp/FastFiD'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Open Domain Question Answering (ODQA) has been advancing rapidly in recent
 times, driven by significant developments in dense passage retrieval and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nik2025energy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11723"}
-tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11723'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Efficiency and Optimization', 'Applications']
 ---
 Decoding strategies significantly influence the quality and diversity of the
 generated texts in large language models (LLMs), yet their impact on

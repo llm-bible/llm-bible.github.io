@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhu2022context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.09593"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.09593'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Vision outlooker improves the performance of vision transformers, which
 implements a self-attention mechanism by adding an outlook attention, a form of

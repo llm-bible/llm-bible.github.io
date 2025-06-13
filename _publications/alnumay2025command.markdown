@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: alnumay2025command
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14603"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14603'}
+tags: ['Training Techniques', 'RAG', 'Reinforcement Learning', 'Applications']
 ---
 Building high-quality large language models (LLMs) for enterprise Arabic
 applications remains challenging due to the limited availability of digitized

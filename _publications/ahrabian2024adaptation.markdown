@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahrabian2024adaptation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01637"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01637'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 One of the prominent issues stifling the current generation of large language
 models is their limited context length. Recent proprietary models such as GPT-4

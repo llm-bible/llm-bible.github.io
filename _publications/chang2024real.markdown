@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024real
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07735"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07735'}
 tags: ['Prompting']
 ---
 Decoding methods for large language models (LLMs) usually struggle with the

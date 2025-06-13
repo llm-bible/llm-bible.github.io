@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: banatt2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10998"}
-tags: ['ACL', 'TACL', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10998'}
+tags: ['Reinforcement Learning', 'Applications', 'ACL', 'TACL']
 ---
 While large language models have shown impressive capabilities across a wide
 range of domains, they still encounter significant challenges in reasoning

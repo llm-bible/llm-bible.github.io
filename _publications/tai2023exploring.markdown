@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tai2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14215"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14215'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 In-context learning with large language models (LLMs) has recently caught
 increasing attention due to its superior few-shot performance on various tasks.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09373"}
-tags: ['Responsible AI', 'RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09373'}
+tags: ['RAG', 'Prompting', 'Responsible AI', 'Tools']
 ---
 Recent advances in large language models (LLMs) have led to their extensive
 global deployment, and ensuring their safety calls for comprehensive and

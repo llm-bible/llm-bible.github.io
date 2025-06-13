@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: peinl2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11108"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11108'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Similar to LLMs, the development of vision language models is mainly driven
 by English datasets and models trained in English and Chinese language, whereas

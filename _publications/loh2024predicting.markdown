@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: loh2024predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14395"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14395'}
 tags: ['Reinforcement Learning']
 ---
 We investigate Large Language Models' (LLMs) ability to predict a user's

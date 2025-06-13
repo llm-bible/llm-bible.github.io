@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lin2022contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.08016"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.08016'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The pretrain-finetuning paradigm in large-scale sequence models has made
 significant progress in natural language processing and computer vision tasks.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06666"}
-tags: ['Fine-Tuning', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06666'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Model Architecture', 'GPT']
 ---
 Models like GPT-4o enable real-time interaction with large language models
 (LLMs) through speech, significantly enhancing user experience compared to

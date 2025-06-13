@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: babakniya2023federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.06522"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.06522'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transfer learning via fine-tuning pre-trained transformer models has gained
 significant success in delivering state-of-the-art results across various NLP

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: lee2021mounting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.05158"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.05158'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Video question answering has recently received a lot of attention from
 multimodal video researchers. Most video question answering datasets are

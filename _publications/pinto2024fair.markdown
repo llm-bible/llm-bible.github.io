@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pinto2024fair
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11985"}
-tags: ['Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11985'}
+tags: ['Fairness', 'Training Techniques', 'Model Architecture', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are widely deployed in real-world applications,
 yet little is known about their training dynamics at the token level.

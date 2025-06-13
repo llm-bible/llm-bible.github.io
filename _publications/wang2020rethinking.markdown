@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wang2020rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.03803"}
-tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.03803'}
+tags: ['Training Techniques', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer becomes the state-of-the-art translation model, while it is not
 well studied how each intermediate component contributes to the model

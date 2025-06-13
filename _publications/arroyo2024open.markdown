@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arroyo2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09429"}
-tags: ['Ethics and Bias', 'Bias Mitigation', 'Security', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09429'}
+tags: ['Security', 'Fairness', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Instruction-tuned Large Language Models (LLMs) can perform a wide range of
 tasks given natural language instructions to do so, but they are sensitive to

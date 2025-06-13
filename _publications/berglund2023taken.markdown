@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: berglund2023taken
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00667"}
-  - {name: "Code", url: "https://github.com/AsaCooperStickland/situational-awareness-evals"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Scaling Laws', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00667'}
+  - {name: "Code", url: 'https://github.com/AsaCooperStickland/situational-awareness-evals'}
+tags: ['Has Code', 'In-Context Learning', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Scaling Laws', 'Responsible AI']
 ---
 We aim to better understand the emergence of `situational awareness' in large
 language models (LLMs). A model is situationally aware if it's aware that it's

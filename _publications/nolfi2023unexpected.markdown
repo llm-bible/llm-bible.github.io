@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: nolfi2023unexpected
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09720"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09720'}
 tags: ['Training Techniques', 'Survey Paper']
 ---
 Large Language Models (LLMs) are capable of displaying a wide range of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ding2025block
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00582"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00582'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) is difficult due to their huge model
 size. Recent Fourier domain-based methods show potential for reducing

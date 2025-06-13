@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: haensch2025listens
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12337"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12337'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 The emergence of generative AI chatbots such as ChatGPT has prompted growing
 public and academic interest in their role as informal mental health support

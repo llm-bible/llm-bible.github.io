@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rosenfeld2024whose
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14533"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14533'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) are capable of generating text that is similar

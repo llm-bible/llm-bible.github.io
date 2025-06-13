@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02181"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Survey Paper', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02181'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Applications', 'Tools', 'Survey Paper']
 ---
 The rapid advancements in large Language models (LLMs) have significantly
 enhanced their reasoning capabilities, driven by various strategies such as

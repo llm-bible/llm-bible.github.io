@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023evaluating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.10355v3"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/POPE"}
-tags: ['Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.10355v3'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/POPE'}
+tags: ['Has Code', 'Multimodal Models']
 ---
 Inspired by the superior language abilities of large language models (LLM),
 large vision-language models (LVLM) have been recently explored by integrating

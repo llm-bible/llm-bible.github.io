@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: duan2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08850"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08850'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Automated UI evaluation can be beneficial for the design process; for
 example, to compare different UI designs, or conduct automated heuristic

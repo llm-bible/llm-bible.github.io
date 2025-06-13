@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dau2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04660"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04660'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Mainframe operating systems, despite their inception in the 1940s, continue
 to support critical sectors like finance and government. However, these systems

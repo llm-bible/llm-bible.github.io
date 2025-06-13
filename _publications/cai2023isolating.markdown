@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cai2023isolating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16445"}
-tags: ['Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16445'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Security', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Contrastive vision-language models, such as CLIP, have garnered considerable
 attention for various downstream tasks, mainly due to the remarkable ability of

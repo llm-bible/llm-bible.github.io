@@ -6,7 +6,7 @@ conference: "Journal of Technology in Behavioral Science (2025)"
 year: 2023
 bibkey: huang2023comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04059"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04059'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Automated coaching messages for weight control can save time and costs, but

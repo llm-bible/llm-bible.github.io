@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025counselor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02807"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02807'}
+tags: ['Agentic', 'RAG', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Conversational counselor agents have become essential tools for addressing
 the rising demand for scalable and accessible mental health support. This paper

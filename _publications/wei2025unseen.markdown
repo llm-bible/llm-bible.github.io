@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025unseen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18065"}
-  - {name: "Code", url: "https://github.com/SaDil13/VLN-RAM"}
-tags: ['Agentic', 'Training Techniques', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18065'}
+  - {name: "Code", url: 'https://github.com/SaDil13/VLN-RAM'}
+tags: ['Agentic', 'Has Code', 'Multimodal Models', 'Training Techniques']
 ---
 Data scarcity is a long-standing challenge in the Vision-Language Navigation
 (VLN) field, which extremely hinders the generalization of agents to unseen

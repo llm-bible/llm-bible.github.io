@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19463"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19463'}
+tags: ['RAG', 'Efficiency and Optimization', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) is a pivotal technique for enhancing the
 capability of large language models (LLMs) and has demonstrated promising

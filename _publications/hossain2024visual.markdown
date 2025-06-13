@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hossain2024visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11732"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11732'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 The emergence of attention-based transformer models has led to their
 extensive use in various tasks, due to their superior generalization and

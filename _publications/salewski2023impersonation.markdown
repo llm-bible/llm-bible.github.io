@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: salewski2023impersonation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14930"}
-tags: ['Fine-Tuning', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14930'}
+tags: ['Ethics and Bias', 'Fine-Tuning', 'Prompting']
 ---
 In everyday conversations, humans can take on different roles and adapt their
 vocabulary to their chosen roles. We explore whether LLMs can take on, that is

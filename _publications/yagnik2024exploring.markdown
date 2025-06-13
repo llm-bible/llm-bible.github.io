@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yagnik2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11389"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11389'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In the face of rapidly expanding online medical literature, automated systems
 for aggregating and summarizing information are becoming increasingly crucial

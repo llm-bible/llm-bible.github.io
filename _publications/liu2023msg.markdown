@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023msg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.12820"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.12820'}
 tags: ['Uncategorized']
 ---
 Generating dialogue grounded in videos requires a high level of understanding

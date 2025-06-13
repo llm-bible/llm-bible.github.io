@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jonasson2025rotary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01832"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01832'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) rely on positional encodings
 to provide sequence position information to their attention mechanism. Rotary

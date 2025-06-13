@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024logo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18533"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18533'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training']
 ---
 Long-context models(LCMs) have shown great potential in processing long input
 sequences(even more than 100M tokens) conveniently and effectively. With

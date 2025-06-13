@@ -6,8 +6,8 @@ conference: "ACL Innovative Use of NLP for Building Educational Applications Wor
 year: 2023
 bibkey: hicke2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.04274"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.04274'}
+tags: ['Agentic', 'Few-Shot', 'Applications', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'BERT', 'GPT', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 (Tack et al., 2023) organized the shared task hosted by the 18th Workshop on
 Innovative Use of NLP for Building Educational Applications on generation of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kumar2025adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10724"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10724'}
+tags: ['Reinforcement Learning', 'Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 Deploying large language models (LLMs) presents critical challenges due to
 the inherent trade-offs associated with key performance metrics, such as

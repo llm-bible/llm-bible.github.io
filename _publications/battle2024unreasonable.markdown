@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: battle2024unreasonable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10949"}
-tags: ['Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10949'}
+tags: ['Prompting', 'Efficiency and Optimization']
 ---
 Large Language Models (LLMs) have demonstrated remarkable problem-solving and
 basic mathematics abilities. However, their efficacy is highly contingent on

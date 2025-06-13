@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09214"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09214'}
 tags: ['Efficiency and Optimization', 'Distillation']
 ---
 Large language models (LLMs) have achieved remarkable advancements in natural

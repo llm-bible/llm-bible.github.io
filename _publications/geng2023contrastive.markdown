@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: geng2023contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.02995"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.02995'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 The success of large-scale contrastive vision-language pretraining (CLIP) has
 benefited both visual recognition and multimodal content understanding. The

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: doveh2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12736"}
-tags: ['Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12736'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning']
 ---
 State-of-the-art Vision-Language Models (VLMs) ground the vision and the
 language modality primarily via projecting the vision tokens from the encoder

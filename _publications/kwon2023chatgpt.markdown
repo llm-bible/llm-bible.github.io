@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kwon2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04492"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04492'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Recently, large language models (LLMs) fine-tuned to follow human instruction
 have exhibited significant capabilities in various English NLP tasks. However,

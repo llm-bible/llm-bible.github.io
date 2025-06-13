@@ -6,8 +6,8 @@ conference: "Meta-Radiology (2023)100017"
 year: 2023
 bibkey: liu2023summary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01852"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'GPT', 'Applications', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01852'}
+tags: ['Arxiv', 'Agentic', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper presents a comprehensive survey of ChatGPT-related (GPT-3.5 and
 GPT-4) research, state-of-the-art large language models (LLM) from the GPT

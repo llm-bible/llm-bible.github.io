@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kong2023serving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15030"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15030'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Pruning', 'Pretraining Methods']
 ---
 Mixture of experts (MoE) is a popular technique to improve capacity of Large
 Language Models (LLMs) with conditionally-activated parallel experts. However,

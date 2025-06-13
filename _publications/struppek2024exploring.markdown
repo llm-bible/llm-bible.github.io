@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: struppek2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09132"}
-tags: ['Responsible AI', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09132'}
+tags: ['Security', 'Responsible AI']
 ---
 The proliferation of large language models (LLMs) has sparked widespread and
 general interest due to their strong language generation capabilities, offering

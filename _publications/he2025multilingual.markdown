@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19737"}
-tags: ['Efficiency and Optimization', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19737'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Distillation']
 ---
 We introduce XCOMPS in this work, a multilingual conceptual minimal pair
 dataset covering 17 languages. Using this dataset, we evaluate LLMs'

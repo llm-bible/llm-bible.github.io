@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hamadi2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16673"}
-tags: ['Transformer', 'Pre-Training', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16673'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, the intersection of Large Language Models (LLMs) and Computer
 Vision (CV) has emerged as a pivotal area of research, driving significant

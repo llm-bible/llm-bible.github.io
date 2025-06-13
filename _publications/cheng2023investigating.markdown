@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: cheng2023investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16842"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16842'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) are notorious for blending fact with fiction and

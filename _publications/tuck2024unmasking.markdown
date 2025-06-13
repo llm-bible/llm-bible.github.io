@@ -6,8 +6,8 @@ conference: "Proceedings of the 31st International Conference on Computational L
 year: 2024
 bibkey: tuck2024unmasking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17967"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17967'}
+tags: ['Fine-Tuning', 'Model Architecture', 'Tools', 'GPT']
 ---
 The rapid development of large language models (LLMs) has significantly
 improved the generation of fluent and convincing text, raising concerns about

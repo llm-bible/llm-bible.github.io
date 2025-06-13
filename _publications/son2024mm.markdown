@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: son2024mm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17578"}
-tags: ['Bias Mitigation', 'Fairness', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17578'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Fairness', 'Bias Mitigation']
 ---
 As Large Language Models (LLMs) are now capable of producing fluent and
 coherent content in languages other than English, it is not imperative to

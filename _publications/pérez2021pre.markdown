@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: pérez2021pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.09453"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.09453'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Since BERT appeared, Transformer language models and transfer learning have
 become state-of-the-art for Natural Language Understanding tasks. Recently,

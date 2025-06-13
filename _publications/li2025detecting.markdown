@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13416"}
-tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'ACL', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13416'}
+tags: ['ACL', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large language models (LLMs) face the challenge of hallucinations -- outputs
 that seem coherent but are actually incorrect. A particularly damaging type is

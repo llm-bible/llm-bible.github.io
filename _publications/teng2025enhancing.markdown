@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: teng2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05879"}
-tags: ['Interpretability and Explainability', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05879'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability']
 ---
 Depression is one of the leading causes of disability worldwide, posing a
 severe burden on individuals, healthcare systems, and society at large. Recent

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: stechly2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12397"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12397'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 There has been considerable divergence of opinion on the reasoning abilities
 of Large Language Models (LLMs). While the initial optimism that reasoning

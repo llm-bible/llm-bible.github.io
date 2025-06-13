@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024reverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18740"}
-tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18740'}
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Despite impressive advances in recent multimodal large language models
 (MLLMs), state-of-the-art models such as from the GPT-4 suite still struggle

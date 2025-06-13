@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hoang2023fusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08306"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08306'}
 tags: ['Prompting', 'Applications', 'Merging']
 ---
 We propose the on-the-fly ensembling of a machine translation model with an

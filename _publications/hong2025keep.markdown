@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hong2025keep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00029"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00029'}
+tags: ['Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Vision Language Models have demonstrated impressive versatile
 capabilities through extensive multimodal pre-training, but face significant

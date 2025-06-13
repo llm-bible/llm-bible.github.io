@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tony2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07064"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07064'}
+tags: ['Security', 'Model Architecture', 'Applications', 'GPT', 'Prompting', 'Survey Paper']
 ---
 Large Language Models (LLMs) are gaining momentum in software development
 with prompt-driven programming enabling developers to create code from natural

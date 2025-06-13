@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024correcting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16451"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16451'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Recent advancements in AI alignment techniques have significantly improved
 the alignment of large language models (LLMs) with static human preferences.

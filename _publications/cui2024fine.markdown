@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14148"}
-tags: ['RAG', 'Efficiency and Optimization', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14148'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 The recent advancements in large language models (LLMs) and pre-trained
 vision models have accelerated the development of vision-language large models

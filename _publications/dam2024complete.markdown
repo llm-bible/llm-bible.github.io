@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dam2024complete
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16937"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'Survey Paper', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16937'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Prompting', 'Survey Paper']
 ---
 The past few decades have witnessed an upsurge in data, forming the
 foundation for data-hungry, learning-based AI technology. Conversational

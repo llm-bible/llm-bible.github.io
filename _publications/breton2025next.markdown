@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: breton2025next
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19587"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19587'}
+tags: ['RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Training Techniques', 'BERT', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent innovations in architecture, pre-training, and fine-tuning have led to
 the remarkable in-context learning and reasoning abilities of large

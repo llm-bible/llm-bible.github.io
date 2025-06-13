@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jha2024entropic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09637"}
-  - {name: "Code", url: "https://github.com/Nandan91/relu-revival-normfree"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09637'}
+  - {name: "Code", url: 'https://github.com/Nandan91/relu-revival-normfree'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 LayerNorm is a critical component in modern large language models (LLMs) for
 stabilizing training and ensuring smooth optimization. However, it introduces

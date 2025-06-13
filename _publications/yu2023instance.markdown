@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023instance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07078"}
-tags: ['Tools', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07078'}
+tags: ['Training Techniques', 'Tools', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Modern supervised semantic segmentation methods are usually finetuned based
 on the supervised or self-supervised models pre-trained on ImageNet. Recent

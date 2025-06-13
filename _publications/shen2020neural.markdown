@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: shen2020neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.01096"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.01096'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Applications', 'Model Architecture']
 ---
 The neural attention model has achieved great success in data-to-text
 generation tasks. Though usually excelling at producing fluent text, it suffers

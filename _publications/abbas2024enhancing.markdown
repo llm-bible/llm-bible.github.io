@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: abbas2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12406"}
-  - {name: "Code", url: "https://github.com/mominabbass/LinC"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12406'}
+  - {name: "Code", url: 'https://github.com/mominabbass/LinC'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Security', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) is a new paradigm for natural language processing
 that utilizes Generative Pre-trained Transformer (GPT)-like models. This

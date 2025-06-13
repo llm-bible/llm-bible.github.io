@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhai2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09345"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09345'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Agents significantly enhance the capabilities of standalone Large Language
 Models (LLMs) by perceiving environments, making decisions, and executing

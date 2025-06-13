@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17286"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17286'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Background: The radiation oncology clinical practice involves many steps
 relying on the dynamic interplay of abundant text data. Large language models

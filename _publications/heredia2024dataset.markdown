@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: heredia2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06996"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06996'}
 tags: ['Applications']
 ---
 XNLI is a popular Natural Language Inference (NLI) benchmark widely used to

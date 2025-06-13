@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: slobodkin2021semantics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.06920"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.06920'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 The integration of syntactic structures into Transformer machine translation
 has shown positive results, but to our knowledge, no work has attempted to do

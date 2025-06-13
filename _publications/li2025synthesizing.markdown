@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025synthesizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02240"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02240'}
+tags: ['RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Text-to-SQL, the task of translating natural language questions into SQL
 queries, plays a crucial role in enabling non-experts to interact with

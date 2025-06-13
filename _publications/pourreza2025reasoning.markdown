@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pourreza2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23157"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23157'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Text-to-SQL is a challenging task involving multiple reasoning-intensive
 subtasks, including natural language understanding, database schema

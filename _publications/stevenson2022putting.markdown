@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: stevenson2022putting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.08932"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.08932'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 AI large language models have (co-)produced amazing written works from

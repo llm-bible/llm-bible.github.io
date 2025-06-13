@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01761"}
-tags: ['Interpretability and Explainability', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01761'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Applications', 'Merging']
 ---
 Interpretable machine learning has exploded as an area of interest over the
 last decade, sparked by the rise of increasingly large datasets and deep neural

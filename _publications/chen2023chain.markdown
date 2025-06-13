@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14122"}
-tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'Multimodal Models', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14122'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Distillation', 'Prompting', 'Multimodal Models']
 ---
 Multimodal Named Entity Recognition (MNER) and Multimodal Relation Extraction
 (MRE) necessitate the fundamental reasoning capacity for intricate linguistic

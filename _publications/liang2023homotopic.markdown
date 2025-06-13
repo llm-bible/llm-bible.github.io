@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liang2023homotopic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.09632"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.09632'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Knowledge distillation has been shown to be a powerful model compression
 approach to facilitate the deployment of pre-trained language models in

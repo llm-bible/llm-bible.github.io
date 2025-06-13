@@ -6,8 +6,8 @@ conference: "Proceedings of ACL System Demonstrations (2023) 421-435"
 year: 2023
 bibkey: sarti2023interpretability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13942"}
-tags: ['Transformer', 'Tools', 'GPT', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13942'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'GPT', 'Tools', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Past work in natural language processing interpretability focused mainly on
 popular classification tasks while largely overlooking generation settings,

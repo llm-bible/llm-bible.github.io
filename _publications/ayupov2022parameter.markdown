@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ayupov2022parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.05901"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.05901'}
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pretrained Transformers achieve state-of-the-art performance in various
 code-processing tasks but may be too large to be deployed. As software

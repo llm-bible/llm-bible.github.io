@@ -6,8 +6,8 @@ conference: "Proceedings of ACL (2023) 1476-1490"
 year: 2023
 bibkey: sarti2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17131"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17131'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Attribute-controlled translation (ACT) is a subtask of machine translation
 that involves controlling stylistic or linguistic attributes (like formality

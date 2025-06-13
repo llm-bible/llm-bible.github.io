@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ghadia2025dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00979"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00979'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Autoregressive Transformers rely on Key-Value (KV) caching to accelerate
 inference. However, the linear growth of the KV cache with context length leads

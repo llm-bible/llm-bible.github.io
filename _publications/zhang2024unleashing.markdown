@@ -6,9 +6,9 @@ conference: "COLING 2025"
 year: 2024
 bibkey: zhang2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00702"}
-  - {name: "Code", url: "https://github.com/Applied-Machine-Learning-Lab/LLMTreeRec"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00702'}
+  - {name: "Code", url: 'https://github.com/Applied-Machine-Learning-Lab/LLMTreeRec'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 The lack of training data gives rise to the system cold-start problem in
 recommendation systems, making them struggle to provide effective

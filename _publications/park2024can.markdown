@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00018"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00018'}
 tags: ['GPT', 'Prompting', 'Model Architecture', 'Merging']
 ---
 Artificial Intelligence has outperformed human experts in functional tasks

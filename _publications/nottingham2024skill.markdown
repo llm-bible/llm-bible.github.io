@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nottingham2024skill
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03244"}
-tags: ['RAG', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03244'}
+tags: ['Reinforcement Learning', 'RAG', 'Pruning', 'Efficiency and Optimization']
 ---
 Large language models (LLMs) have recently been used for sequential decision
 making in interactive environments. However, leveraging environment reward

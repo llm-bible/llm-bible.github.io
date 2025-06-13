@@ -6,8 +6,8 @@ conference: "Proceedings of the 41st International Conference on Machine Learnin
 year: 2024
 bibkey: nawrot2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09636"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09636'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformers have emerged as the backbone of large language models (LLMs).
 However, generation remains inefficient due to the need to store in memory a

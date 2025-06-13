@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: noh2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10923"}
-  - {name: "Code", url: "https://github.com/sksmssh/LBCforOOVGen"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10923'}
+  - {name: "Code", url: 'https://github.com/sksmssh/LBCforOOVGen'}
+tags: ['Has Code', 'Training Techniques']
 ---
 Large Language Models (LLMs) have great success in natural language
 processing tasks such as response generation. However, their use in tabular

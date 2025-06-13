@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yoon2024matryoshka
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20243"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20243'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Embeddings from Large Language Models (LLMs) have emerged as critical
 components in various applications, particularly for information retrieval.

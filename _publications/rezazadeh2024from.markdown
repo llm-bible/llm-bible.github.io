@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rezazadeh2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14052"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14052'}
 tags: ['RAG', 'Applications']
 ---
 Recent advancements in large language models have significantly improved

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06450"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06450'}
+tags: ['RAG', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The generation of corner cases has become increasingly crucial for
 efficiently testing autonomous vehicles prior to road deployment. However,

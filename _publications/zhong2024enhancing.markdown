@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02987"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02987'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) have achieved SOTA performance in
 various visual language tasks by fusing the visual representations with LLMs

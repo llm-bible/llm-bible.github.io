@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: panagiotopoulos2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16383"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16383'}
 tags: ['Few-Shot', 'Prompting']
 ---
 Riddle-solving requires advanced reasoning skills, pushing LLMs to engage in

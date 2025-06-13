@@ -6,8 +6,8 @@ conference: "David C. Wyld et al. (Eds) NBIoT MLCL NMCO ARIN CSITA ISPR NATAP-20
 year: 2024
 bibkey: alipour2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14469"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14469'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 In recent times, the grandeur of Large Language Models (LLMs) has not only
 shone in the realm of natural language processing but has also cast its

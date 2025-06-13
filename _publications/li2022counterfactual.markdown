@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022counterfactual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.03278"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.03278'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 Current pre-trained language models have enabled remarkable improvements in
 downstream tasks, but it remains difficult to distinguish effects of

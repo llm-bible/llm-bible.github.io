@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: patil2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15334"}
-  - {name: "Code", url: "https://gorilla.cs.berkeley.edu"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15334'}
+  - {name: "Code", url: 'https://gorilla.cs.berkeley.edu'}
+tags: ['Has Code', 'GPT', 'Tools', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have seen an impressive wave of advances
 recently, with models now excelling in a variety of tasks, such as mathematical

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: netz2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06146"}
-tags: ['Few-Shot', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06146'}
+tags: ['Few-Shot', 'Prompting', 'Training Techniques']
 ---
 We present and evaluate a method called grammar masking, which is used to
 guide large language models (LLMs) toward producing syntactically correct

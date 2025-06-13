@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: kon2025toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16069"}
-  - {name: "Code", url: "https://github.com/Just-Curieous/Curie"}
-tags: ['Interpretability and Explainability', 'Agentic', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16069'}
+  - {name: "Code", url: 'https://github.com/Just-Curieous/Curie'}
+tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'Tools']
 ---
 Scientific experimentation, a cornerstone of human progress, demands rigor in
 reliability, methodical control, and interpretability to yield meaningful

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lv2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08438"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08438'}
 tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Cognitive dynamics are pivotal to advance human understanding of the world.

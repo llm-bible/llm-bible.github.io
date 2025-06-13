@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17433"}
-  - {name: "Code", url: "https://github.com/wenlinyao/HDFlow}."}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17433'}
+  - {name: "Code", url: 'https://github.com/wenlinyao/HDFlow}.'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite recent advancements in large language models (LLMs), their
 performance on complex reasoning problems requiring multi-step thinking and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: viennot2025automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04763"}
-  - {name: "Code", url: "https://github.com/LLM4Rocq/miniF2F-rocq"}
-tags: ['Has Code', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04763'}
+  - {name: "Code", url: 'https://github.com/LLM4Rocq/miniF2F-rocq'}
+tags: ['Prompting', 'GPT', 'Has Code', 'Model Architecture']
 ---
 In this work, we conduct an experiment using state-of-the-art LLMs to
 translate MiniF2F into Rocq. The translation task focuses on generating a Rocq

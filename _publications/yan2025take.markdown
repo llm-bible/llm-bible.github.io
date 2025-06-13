@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yan2025take
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11154"}
-tags: ['Few-Shot', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11154'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Reinforcement Learning', 'Model Architecture']
 ---
 Few-shot Chain-of-Thought (CoT) significantly enhances the reasoning
 capabilities of large language models (LLMs), functioning as a whole to guide

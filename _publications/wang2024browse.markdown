@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024browse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12195"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12195'}
+tags: ['RAG', 'Multimodal Models', 'Training Techniques', 'Merging']
 ---
 With the bloom of Large Language Models (LLMs), Multimodal Large Language
 Models (MLLMs) that incorporate LLMs with pre-trained vision models have

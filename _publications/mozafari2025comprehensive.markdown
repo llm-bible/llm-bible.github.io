@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mozafari2025comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00857"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00857'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Large Language Models (LLMs) are transforming how people find information,
 and many users turn nowadays to chatbots to obtain answers to their questions.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: farazi2019question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.03289"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.03289'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Visual Question Answering (VQA) models employ attention mechanisms to
 discover image locations that are most relevant for answering a specific

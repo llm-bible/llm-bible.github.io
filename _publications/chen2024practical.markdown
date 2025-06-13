@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10181"}
-  - {name: "Code", url: "https://github.com/gulang2019/LSP-Offload"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10181'}
+  - {name: "Code", url: 'https://github.com/gulang2019/LSP-Offload'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) requires significant memory, often
 exceeding the capacity of a single GPU. A common solution to this memory

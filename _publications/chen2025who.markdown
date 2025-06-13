@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025who
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12851"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12851'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated significant potential in
 decision-making and reasoning, particularly when integrated with various tools

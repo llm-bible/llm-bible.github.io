@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ng2024educational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11773"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11773'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Educational Personalized Learning Path Planning (PLPP) aims to tailor
 learning experiences to individual learners' needs, enhancing learning

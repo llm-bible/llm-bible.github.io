@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: shen2022incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.10091"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.10091'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Code generation aims to generate a code snippet automatically from natural
 language descriptions. Generally, the mainstream code generation methods rely

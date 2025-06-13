@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00062"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00062'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Current reinforcement learning (RL) frameworks for large language models
 (LLM) post-training typically assume a fixed prompt distribution, which is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wallat2025study
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17073"}
-tags: ['Security', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17073'}
+tags: ['Reinforcement Learning', 'Security', 'Applications']
 ---
 Large Language Models (LLMs) encapsulate a surprising amount of factual world
 knowledge. However, their performance on temporal questions and historical

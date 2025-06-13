@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: groeneveld2020simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.06753"}
-tags: ['BERT', 'Model Architecture', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.06753'}
+tags: ['Reinforcement Learning', 'BERT', 'Applications', 'Model Architecture']
 ---
 State-of-the-art models for multi-hop question answering typically augment
 large-scale language models like BERT with additional, intuitively useful

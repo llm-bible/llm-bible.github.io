@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sarch2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15127"}
-  - {name: "Code", url: "https://helper-agent-llm.github.io"}
-tags: ['Agentic', 'RAG', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15127'}
+  - {name: "Code", url: 'https://helper-agent-llm.github.io'}
+tags: ['Agentic', 'Has Code', 'Few-Shot', 'RAG', 'Prompting']
 ---
 Pre-trained and frozen large language models (LLMs) can effectively map
 simple scene rearrangement instructions to programs over a robot's visuomotor

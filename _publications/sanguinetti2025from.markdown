@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sanguinetti2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21360"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21360'}
 tags: ['Few-Shot', 'Efficiency and Optimization']
 ---
 This work explores using Large Language Models (LLMs) to translate user

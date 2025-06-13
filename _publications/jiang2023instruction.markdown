@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04869"}
-tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04869'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Applications']
 ---
 Multimodal Vision-Language Models (VLMs) enable powerful applications from
 their fused understanding of images and language, but many perform poorly on UI

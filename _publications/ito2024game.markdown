@@ -6,7 +6,7 @@ conference: "Proceedings of the Annual Conference of JSAI 2024 Volume JSAI2024 3
 year: 2024
 bibkey: ito2024game
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07442"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07442'}
 tags: ['Agentic', 'Applications']
 ---
 Several attempts have been made to implement text command control for game

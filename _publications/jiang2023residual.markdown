@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023residual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04743"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04743'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Chain-of-thought (CoT) prompting, which offers step-by-step problem-solving
 rationales, has impressively unlocked the reasoning potential of large language

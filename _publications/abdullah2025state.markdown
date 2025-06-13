@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: abdullah2025state
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02293"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02293'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite a large deaf and dumb population of 1.7 million, Bangla Sign Language
 (BdSL) remains a understudied domain. Specifically, there are no works on

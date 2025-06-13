@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiao2024gradable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09984"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09984'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT', 'Pre-Training']
 ---
 ChatGPT, as a language model based on large-scale pre-training, has exerted a
 profound influence on the domain of machine translation. In ChatGPT, a "Prompt"

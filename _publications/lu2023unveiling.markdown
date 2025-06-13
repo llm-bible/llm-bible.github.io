@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11116"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11116'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 Existing automatic evaluation on text-to-image synthesis can only provide an
 image-text matching score, without considering the object-level

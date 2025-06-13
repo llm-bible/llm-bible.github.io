@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bueno2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07859"}
-  - {name: "Code", url: "https://github.com/unicamp-dl/Lissard"}
-tags: ['Training Techniques', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07859'}
+  - {name: "Code", url: 'https://github.com/unicamp-dl/Lissard'}
+tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'GPT']
 ---
 Language models are now capable of solving tasks that require dealing with
 long sequences consisting of hundreds of thousands of tokens. However, they

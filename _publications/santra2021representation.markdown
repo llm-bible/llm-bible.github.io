@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: santra2021representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.05787"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.05787'}
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Pretraining Methods']
 ---
 Although many pretrained models exist for text or images, there have been
 relatively fewer attempts to train representations specifically for dialog

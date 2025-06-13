@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mcaleese2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00215"}
-tags: ['Agentic', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00215'}
+tags: ['Agentic', 'GPT', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 Reinforcement learning from human feedback (RLHF) is fundamentally limited by
 the capacity of humans to correctly evaluate model output. To improve human

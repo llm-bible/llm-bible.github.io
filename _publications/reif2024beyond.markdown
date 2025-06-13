@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: reif2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02743"}
-tags: ['Ethics and Bias', 'RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02743'}
+tags: ['Few-Shot', 'RAG', 'Prompting', 'Ethics and Bias', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown remarkable adaptability to diverse
 tasks, by leveraging context prompts containing instructions, or minimal

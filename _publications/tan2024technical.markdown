@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03506"}
-tags: ['Pre-Training', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03506'}
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper presents a compute-efficient approach to pre-training a Language
 Model-the "1.5-Pints"-in only 9 days, while outperforming state-of-the-art

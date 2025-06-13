@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07132"}
-  - {name: "Code", url: "https://github.com/IEIT-AGI/MIX-Shannon/blob/main/projects/VQAI/lgd_vqai.md"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07132'}
+  - {name: "Code", url: 'https://github.com/IEIT-AGI/MIX-Shannon/blob/main/projects/VQAI/lgd_vqai.md'}
+tags: ['Has Code', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The emergence of ChatGPT has once again sparked research in generative
 artificial intelligence (GAI). While people have been amazed by the generated

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025mramg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04176"}
-  - {name: "Code", url: "https://github.com/MRAMG-Bench/MRAMG"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04176'}
+  - {name: "Code", url: 'https://github.com/MRAMG-Bench/MRAMG'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Tools', 'Multimodal Models']
 ---
 Recent advances in Retrieval-Augmented Generation (RAG) have significantly
 improved response accuracy and relevance by incorporating external knowledge

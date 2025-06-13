@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: park2025does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14258"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14258'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 While the ability of language models to elicit facts has been widely investigated, how they handle temporally changing facts remains underexplored. We discover Temporal Heads, specific attention heads that primarily handle temporal knowledge, through circuit analysis. We confirm that these heads are present across multiple models, though their specific locations may vary, and their responses differ depending on the type of knowledge and its corresponding years. Disabling these heads degrades the model's ability to recall time-specific knowledge while maintaining its general capabilities without compromising time-invariant and question-answering performances. Moreover, the heads are activated not only numeric conditions ("In 2004") but also textual aliases ("In the year ..."), indicating that they encode a temporal dimension beyond simple numerical representation. Furthermore, we expand the potential of our findings by demonstrating how temporal knowledge can be edited by adjusting the values of these heads.

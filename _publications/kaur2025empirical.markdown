@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kaur2025empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05439"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05439'}
 tags: ['Uncategorized']
 ---
 In this paper, we examine the use of Conformal Language Modelling (CLM)

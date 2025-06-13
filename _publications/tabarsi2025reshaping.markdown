@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tabarsi2025reshaping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05012"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05012'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large language models (LLMs) like OpenAI ChatGPT, Google Gemini, and GitHub
 Copilot are rapidly gaining traction in the software industry, but their full

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023orchestrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15806"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15806'}
+tags: ['RAG', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) present an intriguing avenue for exploration in
 the field of formal theorem proving. Nevertheless, their full potential,

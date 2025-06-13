@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06688"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06688'}
 tags: ['Uncategorized']
 ---
 Multilingual transfer ability, which reflects how well the models fine-tuned

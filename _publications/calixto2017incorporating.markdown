@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2017
 bibkey: calixto2017incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1701.06521"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1701.06521'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 We introduce multi-modal, attention-based neural machine translation (NMT)

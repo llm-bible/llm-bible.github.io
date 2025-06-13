@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: santu2023general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11430"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11430'}
 tags: ['Prompting']
 ---
 While LLMs have shown great success in understanding and generating text in

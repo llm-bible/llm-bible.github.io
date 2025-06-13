@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ivanov2025resurrecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06738"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06738'}
 tags: ['Security']
 ---
 Recent work showed that small changes in benchmark questions can reduce LLMs'

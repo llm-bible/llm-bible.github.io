@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024robustifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19358"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19358'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) are vulnerable when trained on datasets
 containing harmful content, which leads to potential jailbreaking attacks in

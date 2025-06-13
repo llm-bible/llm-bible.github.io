@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01868"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01868'}
+tags: ['Agentic', 'RAG', 'GPT', 'Model Architecture', 'Tools', 'RecSys']
 ---
 This paper aims to efficiently enable large language models (LLMs) to use
 external knowledge and goal guidance in conversational recommender system (CRS)

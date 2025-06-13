@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: weng2023helping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08027"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08027'}
+tags: ['Few-Shot', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning']
 ---
 Large language models (LLMs) can be used as accessible and intelligent
 chatbots by constructing natural language queries and directly inputting the

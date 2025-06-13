@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02038"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02038'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Quantization', 'Merging', 'Pre-Training', 'Pretraining Methods']
 ---
 The introduction of ChatGPT has led to a significant increase in the
 utilization of Large Language Models (LLMs) for addressing downstream tasks.

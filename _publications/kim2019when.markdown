@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: kim2019when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.00294"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.00294'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Document-level context has received lots of attention for compensating neural

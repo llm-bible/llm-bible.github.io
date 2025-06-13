@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: goulas2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17415"}
-  - {name: "Code", url: "https://github.com/IDT-ITI/VidCtx"}
-tags: ['Tools', 'Applications', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17415'}
+  - {name: "Code", url: 'https://github.com/IDT-ITI/VidCtx'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Multimodal Models']
 ---
 To address computational and memory limitations of Large Multimodal Models in
 the Video Question-Answering task, several recent methods extract textual

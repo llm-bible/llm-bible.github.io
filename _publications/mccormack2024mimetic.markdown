@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mccormack2024mimetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11984"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11984'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 This paper presents the design and initial assessment of a novel device that
 uses generative AI to facilitate creative ideation, inspiration, and reflective

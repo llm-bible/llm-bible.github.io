@@ -6,8 +6,8 @@ conference: "2023.In The Fourth Workshop on Insights from Negative Results in NL
 year: 2023
 bibkey: bojic2023data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.00483"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.00483'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Low-quality data can cause downstream problems in high-stakes applications.
 Data-centric approach emphasizes on improving dataset quality to enhance model

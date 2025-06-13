@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.01135"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.01135'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 The advent of ChatGPT, a large language model-powered chatbot, has prompted
 questions about its potential implications for traditional search engines. In

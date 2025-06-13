@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mouchel2024logical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03618"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03618'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Despite the remarkable performance of Large Language Models (LLMs) in natural
 language processing tasks, they still struggle with generating logically sound

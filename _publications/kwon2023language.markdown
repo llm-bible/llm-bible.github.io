@@ -6,9 +6,9 @@ conference: "IEEE Robotics and Automation Letters (Volume 9 Issue 7 July 2024 Pa
 year: 2023
 bibkey: kwon2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11604"}
-  - {name: "Code", url: "https://www.robot-learning.uk/language-models-trajectory-generators"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11604'}
+  - {name: "Code", url: 'https://www.robot-learning.uk/language-models-trajectory-generators'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have recently shown promise as high-level
 planners for robots when given access to a selection of low-level skills.

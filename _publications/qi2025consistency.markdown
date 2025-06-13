@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qi2025consistency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00597"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00597'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Retrieval-augmented generation (RAG) with large language models (LLMs) has
 demonstrated strong performance in multilingual question-answering (QA) tasks

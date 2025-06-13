@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025shared
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11765"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11765'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Recent large language models (LLMs) face increasing inference latency as
 input context length and model size continue to grow. In particular, the

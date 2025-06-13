@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: choi2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14938"}
-  - {name: "Code", url: "https://github.com/minjechoi/SOCKET"}
-tags: ['Agentic', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14938'}
+  - {name: "Code", url: 'https://github.com/minjechoi/SOCKET'}
+tags: ['Agentic', 'Has Code', 'Training Techniques']
 ---
 Large language models (LLMs) have been shown to perform well at a variety of
 syntactic, discourse, and reasoning tasks. While LLMs are increasingly deployed

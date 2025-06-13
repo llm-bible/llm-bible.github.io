@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: parameswaran2023revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03854"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03854'}
 tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) are incredibly powerful at comprehending and

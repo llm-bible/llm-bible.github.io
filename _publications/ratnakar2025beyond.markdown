@@ -6,8 +6,8 @@ conference: "Workshop on Preparing Good Data for Generative AI Challenges and Ap
 year: 2025
 bibkey: ratnakar2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01131"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01131'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 This paper presents an extensive examination of Parameter-Efficient
 Fine-Tuning (PEFT) for embedding domain specific facts into Large Language

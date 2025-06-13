@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: birur2024validation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15364"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15364'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools']
 ---
 Large language models (LLMs) exhibit remarkable capabilities but often
 produce inaccurate responses, as they rely solely on their embedded knowledge.

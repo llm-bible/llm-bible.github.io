@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024linguistics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05404"}
-  - {name: "Code", url: "https://github.com/WXLJZ/LaiDA"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05404'}
+  - {name: "Code", url: 'https://github.com/WXLJZ/LaiDA'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Metaphor Components Identification (MCI) contributes to enhancing machine
 understanding of metaphors, thereby advancing downstream natural language

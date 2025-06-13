@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: takerngsaksiri2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12924"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12924'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Recently, Large Language Models (LLMs)-based multi-agent paradigms for
 software engineering are introduced to automatically resolve software

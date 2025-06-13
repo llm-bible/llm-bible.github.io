@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08877"}
-  - {name: "Code", url: "https://github.com/shenwzh3/MK-TOD"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08877'}
+  - {name: "Code", url: 'https://github.com/shenwzh3/MK-TOD'}
+tags: ['Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Developing an efficient retriever to retrieve knowledge from a large-scale
 knowledge base (KB) is critical for task-oriented dialogue systems to

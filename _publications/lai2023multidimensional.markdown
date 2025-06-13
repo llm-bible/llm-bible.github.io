@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023multidimensional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.13462"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.13462'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We investigate the potential of ChatGPT as a multidimensional evaluator for
 the task of *Text Style Transfer*, alongside, and in comparison to,

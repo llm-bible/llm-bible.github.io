@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024deconstructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05392"}
-tags: ['Responsible AI', 'Survey Paper', 'Ethics and Bias', 'Language Modeling', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05392'}
+tags: ['Language Modeling', 'Merging', 'Survey Paper', 'Ethics and Bias', 'Responsible AI']
 ---
 Large Language Models (LLMs) have achieved unparalleled success across
 diverse language modeling tasks in recent years. However, this progress has

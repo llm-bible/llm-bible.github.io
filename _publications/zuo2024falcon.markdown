@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zuo2024falcon
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05355"}
-  - {name: "Code", url: "https://huggingface.co/tiiuae/falcon-mamba-7b,"}
-tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05355'}
+  - {name: "Code", url: 'https://huggingface.co/tiiuae/falcon-mamba-7b,'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 In this technical report, we present Falcon Mamba 7B, a new base large
 language model based on the novel Mamba architecture. Falcon Mamba 7B is

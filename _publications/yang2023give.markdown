@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023give
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11489"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11489'}
+tags: ['Attention Mechanism', 'Language Modeling', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recently, ChatGPT, a representative large language model (LLM), has gained
 considerable attention due to its powerful emergent abilities. Some researchers

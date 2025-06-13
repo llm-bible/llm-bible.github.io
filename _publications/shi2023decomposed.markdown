@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023decomposed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05173"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05173'}
+tags: ['Transformer', 'Few-Shot', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prompt tuning (PT), where a small amount of trainable soft (continuous)
 prompt vectors is affixed to the input of language models (LM), has shown

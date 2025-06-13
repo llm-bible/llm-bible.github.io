@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mitra2024sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00142"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00142'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Model Architecture', 'Applications', 'Multimodal Models']
 ---
 Generative Large Multimodal Models (LMMs) like LLaVA and Qwen-VL excel at a
 wide variety of vision-language (VL) tasks such as image captioning or visual

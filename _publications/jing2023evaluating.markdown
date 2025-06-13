@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jing2023evaluating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.01477v1"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.01477v1'}
 tags: ['Multimodal Models']
 ---
 We introduce FAITHSCORE (Faithfulness to Atomic Image Facts Score), a

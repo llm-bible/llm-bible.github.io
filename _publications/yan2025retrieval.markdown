@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yan2025retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13726"}
-tags: ['Efficiency and Optimization', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13726'}
+tags: ['ACL', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'TACL']
 ---
 While Retrieval-Augmented Generation (RAG) has exhibited promise in utilizing
 external knowledge, its generation process heavily depends on the quality and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024get
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04983"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04983'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Large Language Models (LLMs) have been found to memorize and recite some of
 the textual sequences from their training set verbatim, raising broad concerns

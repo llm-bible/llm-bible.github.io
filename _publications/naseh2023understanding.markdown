@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: naseh2023understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07550"}
-tags: ['Multimodal Models', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07550'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Merging']
 ---
 Multimodal machine learning, especially text-to-image models like Stable
 Diffusion and DALL-E 3, has gained significance for transforming text into

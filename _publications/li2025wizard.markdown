@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025wizard
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00969"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00969'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 The goal of conversational product search (CPS) is to develop an intelligent,
 chat-based shopping assistant that can directly interact with customers to

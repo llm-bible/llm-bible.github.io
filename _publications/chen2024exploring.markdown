@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07672"}
-tags: ['Training Techniques', 'Security', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07672'}
+tags: ['Prompting', 'Security', 'Training Techniques', 'Tools']
 ---
 Defense in large language models (LLMs) is crucial to counter the numerous
 attackers exploiting these systems to generate harmful content through

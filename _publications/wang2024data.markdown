@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11435"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11435'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Instruction tuning effectively optimizes Large Language Models (LLMs) for
 downstream tasks. Due to the changing environment in real-life applications,

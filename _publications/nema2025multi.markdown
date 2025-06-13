@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nema2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18722"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18722'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advances in large language models (LLMs) have led to their popularity
 across multiple use-cases. However, prompt engineering, the process for

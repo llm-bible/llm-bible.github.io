@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: reddy2025metamorphic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07982"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07982'}
+tags: ['Security', 'Fairness', 'Applications', 'Model Architecture', 'Training Techniques', 'GPT', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have made significant strides in Natural
 Language Processing but remain vulnerable to fairness-related issues, often

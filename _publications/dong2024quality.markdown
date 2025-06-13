@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024quality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04643"}
-tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04643'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 The emergence of LLMs has ignited a fresh surge of breakthroughs in NLP
 applications, particularly in domains such as question-answering systems and

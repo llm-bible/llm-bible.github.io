@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024adaptively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07394"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07394'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Knowledge conflict arises from discrepancies between information in the
 context of a large language model (LLM) and the knowledge stored in its

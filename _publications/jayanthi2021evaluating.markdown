@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: jayanthi2021evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08327"}
-  - {name: "Code", url: "https://github.com/murali1996/el_tod"}
-tags: ['Transformer', 'Has Code', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08327'}
+  - {name: "Code", url: 'https://github.com/murali1996/el_tod'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The wide applicability of pretrained transformer models (PTMs) for natural
 language tasks is well demonstrated, but their ability to comprehend short

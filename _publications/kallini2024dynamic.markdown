@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kallini2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20771"}
-tags: ['Pre-Training', 'RAG', 'Merging', 'Training Techniques', 'Tokenization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20771'}
+tags: ['RAG', 'Training Techniques', 'Merging', 'Pre-Training', 'Tokenization']
 ---
 Models that rely on subword tokenization have significant drawbacks, such as
 sensitivity to character-level noise like spelling errors and inconsistent

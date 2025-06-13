@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: loem2023saie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08107"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08107'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) can justify or critique their predictions
 through discussions with other models or humans, thereby enriching their

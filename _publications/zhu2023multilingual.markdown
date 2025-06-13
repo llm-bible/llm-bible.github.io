@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.04675"}
-  - {name: "Code", url: "https://github.com/NJUNLP/MMT-LLM"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.04675'}
+  - {name: "Code", url: 'https://github.com/NJUNLP/MMT-LLM'}
 tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated remarkable potential in

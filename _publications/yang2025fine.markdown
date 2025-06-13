@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06704"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06704'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The development of explanations for scientific phenomena is essential in
 science assessment, but scoring student-written explanations remains

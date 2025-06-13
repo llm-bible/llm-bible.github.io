@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mekki2024effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11006"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11006'}
 tags: ['RAG', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance on a

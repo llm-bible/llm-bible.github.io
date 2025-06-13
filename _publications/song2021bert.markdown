@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: song2021bert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.06169"}
-tags: ['Training Techniques', 'BERT', 'Agentic', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.06169'}
+tags: ['Training Techniques', 'Agentic', 'BERT', 'Model Architecture']
 ---
 Maintaining consistent personas is essential for dialogue agents. Although
 tremendous advancements have been brought, the limited-scale of annotated

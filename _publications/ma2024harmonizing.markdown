@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024harmonizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07975"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07975'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 We present JanusFlow, a powerful framework that unifies image understanding
 and generation in a single model. JanusFlow introduces a minimalist

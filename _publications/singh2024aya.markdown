@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024aya
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06619"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06619'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Datasets are foundational to many breakthroughs in modern artificial
 intelligence. Many recent achievements in the space of natural language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fu2025theoretical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18865"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18865'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 High-quality data is essential for training large generative models, yet the
 vast reservoir of real data available online has become nearly depleted.

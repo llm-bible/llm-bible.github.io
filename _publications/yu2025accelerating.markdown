@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12689"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12689'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have excelled in various applications, yet
 serving them at scale is challenging due to their substantial resource demands

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ziems2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.09612"}
-  - {name: "Code", url: "https://github.com/Ziems/llm-url"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09612'}
+  - {name: "Code", url: 'https://github.com/Ziems/llm-url'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Document retrieval is a key stage of standard Web search engines. Existing
 dual-encoder dense retrievers obtain representations for questions and

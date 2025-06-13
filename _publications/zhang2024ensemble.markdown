@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024ensemble
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03603"}
-tags: ['Responsible AI', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03603'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Applications', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 As Large Language Models (LLMs) are increasingly being deployed in
 safety-critical applications, their vulnerability to potential jailbreaks --

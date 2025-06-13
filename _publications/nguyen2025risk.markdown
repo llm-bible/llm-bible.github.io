@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: nguyen2025risk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15758"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15758'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Language models are prone to occasionally undesirable generations, such as

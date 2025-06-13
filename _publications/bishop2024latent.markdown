@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bishop2024latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11120"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11120'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Prompting']
 ---
 A common problem for agents operating in real-world environments is that the
 response of an environment to their actions may be non-deterministic and

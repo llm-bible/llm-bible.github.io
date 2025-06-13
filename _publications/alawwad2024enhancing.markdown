@@ -6,9 +6,9 @@ conference: "Pattern Recognition Volume 162 2025 Article 111332"
 year: 2024
 bibkey: alawwad2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05128"}
-  - {name: "Code", url: "https://github.com/hessaAlawwad/PLR-TQA"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05128'}
+  - {name: "Code", url: 'https://github.com/hessaAlawwad/PLR-TQA'}
+tags: ['Has Code', 'RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models']
 ---
 Textbook question answering (TQA) is a challenging task in artificial
 intelligence due to the complex nature of context needed to answer complex

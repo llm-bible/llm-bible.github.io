@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: upadhyay2024umbrela
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06519"}
-  - {name: "Code", url: "https://github.com/castorini/umbrela"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06519'}
+  - {name: "Code", url: 'https://github.com/castorini/umbrela'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT']
 ---
 Copious amounts of relevance judgments are necessary for the effective
 training and accurate evaluation of retrieval systems. Conventionally, these

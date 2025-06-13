@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zverev2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.06833"}
-  - {name: "Code", url: "https://github.com/egozverev/Shold-It-Be-Executed-Or-Processed"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.06833'}
+  - {name: "Code", url: 'https://github.com/egozverev/Shold-It-Be-Executed-Or-Processed'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Instruction-tuned Large Language Models (LLMs) show impressive results in
 numerous practical applications, but they lack essential safety features that

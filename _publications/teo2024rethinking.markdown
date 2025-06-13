@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: teo2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18615"}
-tags: ['Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18615'}
+tags: ['Attention Mechanism', 'RAG', 'Fairness', 'Training Techniques', 'Model Architecture', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recently, prompt learning has emerged as the state-of-the-art (SOTA) for fair
 text-to-image (T2I) generation. Specifically, this approach leverages readily

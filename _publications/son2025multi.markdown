@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: son2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05712"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05712'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 We introduce HRMCR (HAE-RAE Multi-Step Commonsense Reasoning), a benchmark
 designed to evaluate large language models' ability to perform multi-step

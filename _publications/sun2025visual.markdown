@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13621"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13621'}
 tags: ['Training Techniques', 'Multimodal Models', 'Applications']
 ---
 Visual grounding associates textual descriptions with objects in an image.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: holmes2022compressing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.15014"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.15014'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'BERT', 'Quantization', 'Pruning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In recent years, large pre-trained Transformer networks have demonstrated
 dramatic improvements in many natural language understanding tasks. However,

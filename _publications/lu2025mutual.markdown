@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025mutual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17328"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17328'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications']
 ---
 In this work, we propose Mutual Reinforcing Data Synthesis (MRDS) within LLMs
 to improve few-shot dialogue summarization task. Unlike prior methods that

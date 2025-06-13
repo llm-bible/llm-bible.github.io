@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20753"}
-tags: ['Fine-Tuning', 'RAG', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20753'}
+tags: ['RAG', 'Fine-Tuning', 'Efficiency and Optimization', 'Tools']
 ---
 We introduce Plan*RAG, a novel framework that enables structured multi-hop
 reasoning in retrieval-augmented generation (RAG) through test-time reasoning

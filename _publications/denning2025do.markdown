@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: denning2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16884"}
-tags: ['Training Techniques', 'Agentic', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16884'}
+tags: ['Attention Mechanism', 'Agentic', 'Training Techniques', 'Model Architecture']
 ---
 Large Language Models (LLMs) are commonly criticized for not understanding
 language. However, many critiques focus on cognitive abilities that, in humans,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06096"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06096'}
 tags: ['RAG']
 ---
 Whether and how language models (LMs) acquire the syntax of natural languages

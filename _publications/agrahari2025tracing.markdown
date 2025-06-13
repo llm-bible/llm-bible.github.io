@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: agrahari2025tracing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16913"}
-tags: ['Interpretability and Explainability', 'Tools', 'Interpretability', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16913'}
+tags: ['Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Tools']
 ---
 In recent years, the detection of AI-generated text has become a critical
 area of research due to concerns about academic integrity, misinformation, and

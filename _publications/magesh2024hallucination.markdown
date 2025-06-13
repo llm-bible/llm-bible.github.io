@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: magesh2024hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20362"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20362'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Legal practice has witnessed a sharp rise in products incorporating
 artificial intelligence (AI). Such tools are designed to assist with a wide

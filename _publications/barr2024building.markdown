@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barr2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11987"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11987'}
+tags: ['Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 3D Slicer is a powerful platform for 3D data visualization and analysis, but
 has a significant learning curve for new users. Generative AI applications,

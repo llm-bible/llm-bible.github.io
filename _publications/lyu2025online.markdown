@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lyu2025online
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05122"}
-tags: ['INTERSPEECH', 'Agentic', 'Tools', 'Applications', 'RAG']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05122'}
+tags: ['Agentic', 'RAG', 'INTERSPEECH', 'Applications', 'Tools']
 ---
 Document-level context is crucial for handling discourse challenges in
 text-to-text document-level machine translation (MT). Despite the increased

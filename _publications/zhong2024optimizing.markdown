@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13221"}
-tags: ['Agentic', 'Training Techniques', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13221'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques', 'Merging']
 ---
 We present RLHFuse, an efficient training system with stage fusion for
 Reinforcement Learning from Human Feedback (RLHF). Due to the intrinsic nature

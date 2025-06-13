@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: faria2024unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02937"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02937'}
+tags: ['Transformer', 'Few-Shot', 'GPT', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Natural Language Inference (NLI) is a cornerstone of Natural Language
 Processing (NLP), providing insights into the entailment relationships between

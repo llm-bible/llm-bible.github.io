@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05193"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05193'}
 tags: ['Applications']
 ---
 Large language models (LLMs) have achieved remarkable performance on

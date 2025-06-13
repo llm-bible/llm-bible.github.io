@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07487"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07487'}
 tags: ['RAG', 'Agentic', 'Tools']
 ---
 Recent advancement in code understanding and generation demonstrates that

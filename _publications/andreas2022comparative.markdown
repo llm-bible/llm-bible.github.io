@@ -6,8 +6,8 @@ conference: "2021 8th International Conference on Advanced Informatics Concepts 
 year: 2022
 bibkey: andreas2022comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.08687"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.08687'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 The recent development of language models has shown promising results by
 achieving state-of-the-art performance on various natural language tasks by

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: fakhoury2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.03816"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.03816'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs), such as OpenAI's Codex, have demonstrated their

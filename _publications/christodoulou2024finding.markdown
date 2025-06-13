@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: christodoulou2024finding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11904"}
-tags: ['Tools', 'Ethics and Bias', 'RAG', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11904'}
+tags: ['RAG', 'Tools', 'Merging', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Efficiently evaluating the performance of text-to-image models is difficult
 as it inherently requires subjective judgment and human preference, making it

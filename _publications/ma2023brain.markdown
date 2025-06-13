@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023brain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.03762"}
-tags: ['Agentic', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.03762'}
+tags: ['Reinforcement Learning', 'Agentic', 'Survey Paper']
 ---
 In this perspective paper, we first comprehensively review existing
 evaluations of Large Language Models (LLMs) using both standardized tests and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024phantom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14713"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14713'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Scaling Laws', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The success of visual instruction tuning has accelerated the development of
 large language and vision models (LLVMs). Following the scaling laws of

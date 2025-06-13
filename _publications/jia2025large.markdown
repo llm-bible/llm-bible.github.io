@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jia2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20432"}
-tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20432'}
+tags: ['Agentic', 'Fairness', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Strategic decision-making involves interactive reasoning where agents adapt
 their choices in response to others, yet existing evaluations of large language

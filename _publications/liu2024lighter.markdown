@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024lighter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15699"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15699'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The existing Retrieval-Augmented Generation (RAG) systems face significant
 challenges in terms of cost and effectiveness. On one hand, they need to encode

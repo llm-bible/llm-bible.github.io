@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: quan2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00745"}
-tags: ['Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00745'}
+tags: ['Interpretability and Explainability', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 An increasing amount of research in Natural Language Inference (NLI) focuses
 on the application and evaluation of Large Language Models (LLMs) and their

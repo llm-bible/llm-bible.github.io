@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024validating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06864"}
-tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06864'}
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Pretraining Methods']
 ---
 The latest paradigm shift in software development brings in the innovation
 and automation afforded by Large Language Models (LLMs), showcased by

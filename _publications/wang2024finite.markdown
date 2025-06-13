@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024finite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02964"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02964'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) with chain-of-thought (COT) prompting have
 demonstrated impressive abilities on simple nature language inference tasks.

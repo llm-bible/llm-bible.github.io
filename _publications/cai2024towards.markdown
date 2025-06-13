@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18616"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18616'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Program refinement involves correctness-preserving transformations from
 formal high-level specification statements into executable programs.

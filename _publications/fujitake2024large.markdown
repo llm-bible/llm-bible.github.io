@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fujitake2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14252"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14252'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper proposes LayoutLLM, a more flexible document analysis method for
 understanding imaged documents. Visually Rich Document Understanding tasks,

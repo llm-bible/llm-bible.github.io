@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dun2023sweeping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02842"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02842'}
 tags: ['Efficiency and Optimization', 'Applications', 'Training Techniques', 'Quantization', 'Prompting']
 ---
 Large Language Models (LLMs) have the ability to solve a variety of tasks,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: roy2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06538"}
-  - {name: "Code", url: "https://github.com/raypretam/Two-step-low-res-NMT"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06538'}
+  - {name: "Code", url: 'https://github.com/raypretam/Two-step-low-res-NMT'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 Neural Machine Translation (NMT) remains a formidable challenge, especially
 when dealing with low-resource languages. Pre-trained sequence-to-sequence

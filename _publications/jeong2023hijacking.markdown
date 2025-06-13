@@ -6,8 +6,8 @@ conference: "ICLR 2024 Workshop on Reliable and Responsible Foundation Models"
 year: 2023
 bibkey: jeong2023hijacking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07553"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07553'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'In-Context Learning']
 ---
 Recently, Large Multi-modal Models (LMMs) have demonstrated their ability to
 understand the visual contents of images given the instructions regarding the

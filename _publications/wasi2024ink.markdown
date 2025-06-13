@@ -6,8 +6,8 @@ conference: "The Third Workshop on Intelligent and Interactive Writing Assistant
 year: 2024
 bibkey: wasi2024ink
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00026"}
-tags: ['Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00026'}
+tags: ['Reinforcement Learning', 'Survey Paper']
 ---
 Individuality and personalization comprise the distinctive characteristics
 that make each writer unique and influence their words in order to effectively

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sileo2024attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13481"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13481'}
 tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) can suggest missing elements from items listed

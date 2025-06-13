@@ -6,8 +6,8 @@ conference: "EPTCS 385 2023 pp. 274-287"
 year: 2023
 bibkey: rajasekharan2023reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.03780"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.03780'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Humans understand language by extracting information (meaning) from
 sentences, combining it with existing commonsense knowledge, and then

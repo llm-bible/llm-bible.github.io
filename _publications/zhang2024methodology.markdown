@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024methodology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18192"}
-tags: ['Fine-Tuning', 'RAG', 'Tools', 'Responsible AI']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18192'}
+tags: ['RAG', 'Fine-Tuning', 'Responsible AI', 'Tools']
 ---
 The rapid growth of large language models(LLMs) has emerged as a prominent
 trend in the field of artificial intelligence. However, current

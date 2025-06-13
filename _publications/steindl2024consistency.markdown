@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: steindl2024consistency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07515"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07515'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Large-scale Wizard-Of-Oz dialogue datasets have enabled the training of deep
 learning-based dialogue systems. While they are successful as benchmark

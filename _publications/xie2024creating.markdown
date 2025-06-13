@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024creating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17119"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17119'}
 tags: ['Prompting']
 ---
 Automated story generation has been one of the long-standing challenges in

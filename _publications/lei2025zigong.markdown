@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lei2025zigong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16159"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16159'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated strong performance across
 various general Natural Language Processing (NLP) tasks. However, their

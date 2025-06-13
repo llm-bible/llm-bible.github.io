@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023prompt
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.04302v2"}
-  - {name: "Code", url: "https://github.com/dvlab-research/Prompt-Highlighter/"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Model Architecture', 'Merging', 'Interpretability', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.04302v2'}
+  - {name: "Code", url: 'https://github.com/dvlab-research/Prompt-Highlighter/'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Interpretability and Explainability', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Merging', 'Prompting', 'Applications', 'Interpretability', 'Pretraining Methods']
 ---
 This study targets a critical aspect of multi-modal LLMs' (LLMs&VLMs)
 inference: explicit controllable text generation. Multi-modal LLMs empower

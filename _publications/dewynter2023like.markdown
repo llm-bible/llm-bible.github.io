@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dewynter2023like
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16938"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16938'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 We evaluate two large language models (LLMs) ability to perform argumentative
 reasoning. We experiment with argument mining (AM) and argument pair extraction

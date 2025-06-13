@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: suo2023semi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02155"}
-tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02155'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 VQA Natural Language Explanation (VQA-NLE) task aims to explain the
 decision-making process of VQA models in natural language. Unlike traditional

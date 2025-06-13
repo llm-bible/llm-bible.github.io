@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024manually
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19856"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19856'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 How to evaluate the coding abilities of Large Language Models (LLMs) remains
 an open question. We find that existing benchmarks are poorly aligned with

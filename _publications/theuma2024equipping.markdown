@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: theuma2024equipping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15328"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15328'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have exhibited an array of reasoning
 capabilities but face challenges like error propagation and hallucination,

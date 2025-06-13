@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06144"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06144'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) may exhibit unintended or undesirable behaviors.
 Recent works have concentrated on aligning LLMs to mitigate harmful outputs.

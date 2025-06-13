@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sharma2025biases
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11349"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11349'}
+tags: ['Security', 'Fairness', 'Applications', 'Model Architecture', 'GPT', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 The integration of large language models (LLMs) on low-power edge devices
 such as Raspberry Pi, known as edge language models (ELMs), has introduced

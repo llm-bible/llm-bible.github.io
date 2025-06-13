@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chiang2024chatbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04132"}
-tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04132'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have unlocked new capabilities and applications;
 however, evaluating the alignment with human preferences still poses

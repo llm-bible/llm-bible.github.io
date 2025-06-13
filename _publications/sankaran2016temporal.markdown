@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: sankaran2016temporal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1608.02927"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1608.02927'}
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture', 'Merging']
 ---
 Attention-based Neural Machine Translation (NMT) models suffer from attention
 deficiency issues as has been observed in recent research. We propose a novel

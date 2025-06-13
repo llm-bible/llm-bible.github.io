@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: qi2019answering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.07000"}
-tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.07000'}
+tags: ['Interpretability and Explainability', 'RAG', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 It is challenging for current one-step retrieve-and-read question answering
 (QA) systems to answer questions like "Which novel by the author of 'Armada'

@@ -6,9 +6,9 @@ conference: "2024 Annual Conference of the North American Chapter of the Associa
 year: 2023
 bibkey: qiu2023unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10908"}
-  - {name: "Code", url: "https://github.com/qiuzh20/EMoE"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10908'}
+  - {name: "Code", url: 'https://github.com/qiuzh20/EMoE'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Modular Neural Networks (MNNs) demonstrate various advantages over monolithic
 models. Existing MNNs are generally \\(\textit\{explicit\}\\): their modular

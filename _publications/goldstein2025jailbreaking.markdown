@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: goldstein2025jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10800"}
-tags: ['Responsible AI', 'RAG', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10800'}
+tags: ['RAG', 'Security', 'Responsible AI']
 ---
 We discuss the ``Infinitely Many Paraphrases'' attacks (IMP), a category of
 jailbreaks that leverages the increasing capabilities of a model to handle

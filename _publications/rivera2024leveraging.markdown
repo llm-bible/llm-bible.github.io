@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rivera2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11396"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11396'}
+tags: ['RAG', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Object-aware reasoning in vision-language tasks poses significant challenges
 for current models, particularly in handling unseen objects, reducing

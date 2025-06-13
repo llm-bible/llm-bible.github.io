@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: d2023susceptibility
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.06074v1"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.06074v1'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Two studies tested the hypothesis that a Large Language Model (LLM) can be
 used to model psychological change following exposure to influential input. The

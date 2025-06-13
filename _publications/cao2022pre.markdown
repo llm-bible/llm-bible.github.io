@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: cao2022pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.02294"}
-tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.02294'}
+tags: ['Training Techniques', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Studies show that developers' answers to the mobile app users' feedbacks on
 app stores can increase the apps' star rating. To help app developers generate

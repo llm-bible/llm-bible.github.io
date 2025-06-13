@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pouplin2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06877"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06877'}
+tags: ['Agentic', 'Agent', 'RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 To develop autonomous agents capable of executing complex, multi-step
 decision-making tasks as specified by humans in natural language, existing

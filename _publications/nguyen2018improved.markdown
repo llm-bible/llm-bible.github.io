@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: nguyen2018improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1804.00775"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1804.00775'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Merging']
 ---
 A key solution to visual question answering (VQA) exists in how to fuse
 visual and language features extracted from an input image and question. We

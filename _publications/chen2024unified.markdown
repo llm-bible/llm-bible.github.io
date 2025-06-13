@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024unified
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2402.03190v4"}
-tags: ['RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2402.03190v4'}
+tags: ['RAG', 'Multimodal Models', 'Tools']
 ---
 Despite significant strides in multimodal tasks, Multimodal Large Language
 Models (MLLMs) are plagued by the critical issue of hallucination. The reliable

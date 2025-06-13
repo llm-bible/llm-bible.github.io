@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: shavrina2020russian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.15925"}
-  - {name: "Code", url: "https://github.com/RussianNLP/RussianSuperGLUE),"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.15925'}
+  - {name: "Code", url: 'https://github.com/RussianNLP/RussianSuperGLUE),'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 In this paper, we introduce an advanced Russian general language
 understanding evaluation benchmark -- RussianGLUE. Recent advances in the field

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14137"}
-  - {name: "Code", url: "https://github.com/yaochenzhu/CRAG"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14137'}
+  - {name: "Code", url: 'https://github.com/yaochenzhu/CRAG'}
 tags: ['RAG', 'RecSys', 'Has Code']
 ---
 Conversational recommender systems (CRS) aim to provide personalized

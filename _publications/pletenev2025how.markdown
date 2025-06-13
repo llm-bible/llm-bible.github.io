@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pletenev2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14502"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14502'}
+tags: ['Pre-Training', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The performance of Large Language Models (LLMs) on many tasks is greatly
 limited by the knowledge learned during pre-training and stored in the model's

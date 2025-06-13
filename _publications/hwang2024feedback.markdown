@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hwang2024feedback
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09173"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09173'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 While Transformers have revolutionized deep learning, their quadratic
 attention complexity hinders their ability to process infinitely long inputs.

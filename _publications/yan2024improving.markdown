@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01178"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01178'}
 tags: ['RAG', 'Tools', 'Applications']
 ---
 Alongside the rapid development of Large Language Models (LLMs), there has

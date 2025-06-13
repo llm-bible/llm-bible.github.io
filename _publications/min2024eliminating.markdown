@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: min2024eliminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12768"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12768'}
+tags: ['Language Modeling', 'RAG', 'Security', 'Applications', 'Model Architecture']
 ---
 Recent studies reveal that Large Language Models (LLMs) are susceptible to
 backdoor attacks, where adversaries embed hidden triggers that manipulate model

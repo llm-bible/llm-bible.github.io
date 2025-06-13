@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jain2023coarse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18341"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18341'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Large Language Models (LLMs) pre-trained on code have recently emerged as the
 dominant approach to program synthesis. However, these models are trained using

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09136"}
-  - {name: "Code", url: "https://github.com/sail-sg/CPO"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09136'}
+  - {name: "Code", url: 'https://github.com/sail-sg/CPO'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The recent development of chain-of-thought (CoT) decoding has enabled large
 language models (LLMs) to generate explicit logical reasoning paths for complex

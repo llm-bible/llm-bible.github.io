@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025personalize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01048"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01048'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Personalizing large language models (LLMs) is essential for delivering
 tailored interactions that improve user experience. Many existing

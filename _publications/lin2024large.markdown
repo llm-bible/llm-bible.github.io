@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11235"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11235'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Graph-structured information offers rich contextual information that can
 enhance language models by providing structured relationships and hierarchies,

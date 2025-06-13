@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: she2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00424"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00424'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Chain-of-Thought (CoT) reasoning has demonstrated remarkable effectiveness in
 enhancing the reasoning abilities of large language models (LLMs). However, its

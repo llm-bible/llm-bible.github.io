@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09170"}
-tags: ['Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09170'}
+tags: ['Prompting', 'Efficiency and Optimization']
 ---
 Chain of thought finetuning (cot-finetuning) aims to endow small language
 models (SLM) with reasoning ability to improve their performance towards

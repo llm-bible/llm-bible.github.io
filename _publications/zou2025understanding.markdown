@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zou2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13095"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13095'}
+tags: ['Training Techniques', 'Multimodal Models', 'Responsible AI', 'Security']
 ---
 Recent studies reveal that vision-language models (VLMs) become more
 susceptible to harmful requests and jailbreak attacks after integrating the

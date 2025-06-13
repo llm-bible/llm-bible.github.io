@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024pyramid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.20563"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.20563'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Prompting', 'Applications']
 ---
 Visual question answering (VQA) is the task of providing accurate answers to
 natural language questions based on visual input. Programmatic VQA (PVQA)

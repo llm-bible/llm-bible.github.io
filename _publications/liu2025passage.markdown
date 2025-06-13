@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025passage
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09940"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09940'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) has proven effective in open-domain
 question answering. However, the chunking process, which is essential to this

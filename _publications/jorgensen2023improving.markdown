@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jorgensen2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03813"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03813'}
 tags: ['RAG', 'Training Techniques']
 ---
 Recent work in activation steering has demonstrated the potential to better

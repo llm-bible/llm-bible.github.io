@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: khan2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03932"}
-  - {name: "Code", url: "https://github.com/codezakh/SelTDA"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03932'}
+  - {name: "Code", url: 'https://github.com/codezakh/SelTDA'}
+tags: ['Has Code', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 Finetuning a large vision language model (VLM) on a target dataset after
 large scale pretraining is a dominant paradigm in visual question answering

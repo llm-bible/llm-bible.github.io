@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: le2025cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16806"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16806'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Security', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) achieve state-of-the-art performance across
 various NLP tasks but face deployment challenges due to high computational

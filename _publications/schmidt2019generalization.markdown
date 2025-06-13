@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: schmidt2019generalization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.00292"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Survey Paper', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.00292'}
+tags: ['Agentic', 'Language Modeling', 'Training Techniques', 'Tools', 'GPT', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Exposure bias refers to the train-test discrepancy that seemingly arises when
 an autoregressive generative model uses only ground-truth contexts at training

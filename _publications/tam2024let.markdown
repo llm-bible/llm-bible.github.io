@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tam2024let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02442"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02442'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Structured generation, the process of producing content in standardized
 formats like JSON and XML, is widely utilized in real-world applications to

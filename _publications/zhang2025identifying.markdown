@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12585"}
-tags: ['Interpretability and Explainability', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12585'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability']
 ---
 Large language models (LLMs) sometimes fail to respond appropriately to
 deterministic tasks -- such as counting or forming acronyms -- because the

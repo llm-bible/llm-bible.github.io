@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.03720"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.03720'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The massive amount of trainable parameters in the pre-trained language models
 (PLMs) makes them hard to be deployed to multiple downstream tasks. To address

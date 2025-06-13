@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: you2023refer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07704"}
-  - {name: "Code", url: "https://github.com/apple/ml-ferret"}
-tags: ['Security', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07704'}
+  - {name: "Code", url: 'https://github.com/apple/ml-ferret'}
+tags: ['Has Code', 'Security', 'Multimodal Models']
 ---
 We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of
 understanding spatial referring of any shape or granularity within an image and

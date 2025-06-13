@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00533"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00533'}
 tags: ['Tools']
 ---
 Large Language Models (LLMs) have demonstrated remarkable versatility across

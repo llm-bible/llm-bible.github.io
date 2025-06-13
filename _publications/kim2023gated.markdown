@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023gated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06122"}
-tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06122'}
+tags: ['GPT', 'Language Modeling', 'Applications', 'Model Architecture']
 ---
 Caution: This paper includes offensive words that could potentially cause
 unpleasantness. The fast-paced evolution of generative language models such as

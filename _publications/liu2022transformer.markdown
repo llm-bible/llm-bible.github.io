@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liu2022transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.09869"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.09869'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformers achieve state-of-the-art performance for natural language
 processing tasks by pre-training on large-scale text corpora. They are

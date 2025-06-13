@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: seo2024train
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16920"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16920'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Previous studies on continual knowledge learning (CKL) in large language
 models (LLMs) have predominantly focused on approaches such as regularization,

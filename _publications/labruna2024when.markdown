@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: labruna2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19705"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19705'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 In this paper, we demonstrate how Large Language Models (LLMs) can
 effectively learn to use an off-the-shelf information retrieval (IR) system

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mckinzie2024analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09611"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09611'}
+tags: ['Few-Shot', 'Model Architecture', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 In this work, we discuss building performant Multimodal Large Language Models
 (MLLMs). In particular, we study the importance of various architecture

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiang2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15833"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15833'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated impressive performance on a
 number of natural language processing tasks, such as question answering and

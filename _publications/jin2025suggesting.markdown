@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025suggesting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09745"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09745'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Machine learning developers frequently use interactive computational
 notebooks, such as Jupyter notebooks, to host code for data processing and

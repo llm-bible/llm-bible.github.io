@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: andoorveedu2022accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.10246"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.10246'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods']
 ---
 Training deep learning models can be computationally expensive. Prior works
 have shown that increasing the batch size can potentially lead to better

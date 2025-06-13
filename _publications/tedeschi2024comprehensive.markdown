@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tedeschi2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08676"}
-tags: ['Responsible AI', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08676'}
+tags: ['Security', 'Responsible AI']
 ---
 When building Large Language Models (LLMs), it is paramount to bear safety in
 mind and protect them with guardrails. Indeed, LLMs should never generate

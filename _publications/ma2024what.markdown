@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08775"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08775'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Prompting LLMs for complex tasks (e.g., building a trip advisor chatbot)
 needs humans to clearly articulate customized requirements (e.g., "start the

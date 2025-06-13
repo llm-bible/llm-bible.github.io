@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xuan2023unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00582"}
-  - {name: "Code", url: "https://github.com/SY-Xuan/Pink"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Has Code', 'Dataset']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00582'}
+  - {name: "Code", url: 'https://github.com/SY-Xuan/Pink'}
+tags: ['Has Code', 'Dataset', 'RAG', 'Tools', 'Training Techniques']
 ---
 Multi-modal Large Language Models (MLLMs) have shown remarkable capabilities
 in various multi-modal tasks. Nevertheless, their performance in fine-grained

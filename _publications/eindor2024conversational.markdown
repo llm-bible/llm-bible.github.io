@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: eindor2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04560"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04560'}
 tags: ['Few-Shot', 'Prompting', 'Applications']
 ---
 Prompts are how humans communicate with LLMs. Informative prompts are

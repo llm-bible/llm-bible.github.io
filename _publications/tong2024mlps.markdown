@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tong2024mlps
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15618"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15618'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL), the remarkable ability to solve a task from only
 input exemplars, is often assumed to be a unique hallmark of Transformer

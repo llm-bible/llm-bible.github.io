@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuo2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00788"}
-tags: ['Fine-Tuning', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00788'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The high cost of full-parameter fine-tuning (FFT) of Large Language Models
 (LLMs) has led to a series of parameter-efficient fine-tuning (PEFT) methods.

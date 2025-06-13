@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: lin2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.00177"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.00177'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, large scale Transformer-based language models such as BERT, GPT-2,
 and XLNet have brought about exciting leaps in state-of-the-art results for

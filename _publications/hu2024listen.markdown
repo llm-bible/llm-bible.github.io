@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024listen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10025"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10025'}
 tags: ['GPT', 'INTERSPEECH', 'Multimodal Models', 'Model Architecture']
 ---
 Recent advances in large language models (LLMs) have promoted generative

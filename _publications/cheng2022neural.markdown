@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: cheng2022neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.03140"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.03140'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Applications']
 ---
 Retrieval-augmented Neural Machine Translation models have been successful in
 many translation scenarios. Different from previous works that make use of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20846"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20846'}
 tags: ['RAG', 'Training Techniques']
 ---
 Large language models (LLMs) have shown promise as potential knowledge bases,

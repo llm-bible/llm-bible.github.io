@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024rocks
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05650"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05650'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Recently, large language models (LLM) based generative AI has been gaining
 momentum for their impressive high-quality performances in multiple domains,

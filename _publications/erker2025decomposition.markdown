@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: erker2025decomposition
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07519"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07519'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'GPT', 'Pretraining Methods']
 ---
 Decomposition-based multi-hop retrieval methods rely on many autoregressive
 steps to break down complex queries, which breaks end-to-end differentiability

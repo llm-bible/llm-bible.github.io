@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jeong2024comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12319"}
-tags: ['Security', 'Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12319'}
+tags: ['Ethics and Bias', 'Security', 'Tools']
 ---
 As large language models (LLMs) are increasingly used as evaluators for
 natural language generation tasks, ensuring unbiased assessments is essential.

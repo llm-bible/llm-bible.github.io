@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: schwartz2019factor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1904.05880"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1904.05880'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Applications']
 ---
 Dialog is an effective way to exchange information, but subtle details and
 nuances are extremely important. While significant progress has paved a path to

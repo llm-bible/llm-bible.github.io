@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02902"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02902'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable self-improvement
 capabilities, whereby models iteratively revise their outputs through

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lyu2023macaw
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.09093"}
-tags: ['Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.09093'}
+tags: ['Reinforcement Learning', 'Language Modeling']
 ---
 Although instruction-tuned large language models (LLMs) have exhibited
 remarkable capabilities across various NLP tasks, their effectiveness on other

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhao2022learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.04501"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.04501'}
+tags: ['Pre-Training', 'RAG', 'Training Techniques']
 ---
 We introduce LaViLa, a new approach to learning video-language
 representations by leveraging Large Language Models (LLMs). We repurpose

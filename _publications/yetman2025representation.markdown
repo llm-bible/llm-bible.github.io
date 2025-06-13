@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yetman2025representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00885"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00885'}
 tags: ['Interpretability and Explainability']
 ---
 The extraordinary success of recent Large Language Models (LLMs) on a diverse

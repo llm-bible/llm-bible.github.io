@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023mr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17080"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17080'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 In this work, we introduce a novel evaluation paradigm for Large Language
 Models (LLMs) that compels them to transition from a traditional

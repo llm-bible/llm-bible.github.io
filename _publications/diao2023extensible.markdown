@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: diao2023extensible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.12420"}
-  - {name: "Code", url: "https://github.com/OptimalScale/LMFlow"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.12420'}
+  - {name: "Code", url: 'https://github.com/OptimalScale/LMFlow'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Foundation models have demonstrated a great ability to achieve general
 human-level intelligence far beyond traditional approaches. As the technique

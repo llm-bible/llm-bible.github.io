@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: poey2024lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03920"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03920'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'BERT', 'Model Architecture', 'Merging']
 ---
 Real-time detection of out-of-context LLM outputs is crucial for enterprises
 looking to safely adopt RAG applications. In this work, we train lightweight

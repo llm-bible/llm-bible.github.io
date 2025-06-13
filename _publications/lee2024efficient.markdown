@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19707"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19707'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) demonstrate impressive
 performance across various natural language processing tasks. Serving LLM

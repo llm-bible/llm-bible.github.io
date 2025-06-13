@@ -6,9 +6,9 @@ conference: "Machine Intelligence Research. 20(5) October 2023 605-613"
 year: 2023
 bibkey: qin2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15016"}
-  - {name: "Code", url: "https://github.com/htqin/GoogleBard-VisUnderstand"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15016'}
+  - {name: "Code", url: 'https://github.com/htqin/GoogleBard-VisUnderstand'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting']
 ---
 Google's Bard has emerged as a formidable competitor to OpenAI's ChatGPT in
 the field of conversational AI. Notably, Bard has recently been updated to

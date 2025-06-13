@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: khachaturov2025watermarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12229"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12229'}
 tags: ['Uncategorized']
 ---
 Recent advancements in Large Language Models (LLMs) raised concerns over

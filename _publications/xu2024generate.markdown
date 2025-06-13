@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024generate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14741"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14741'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 To address the issues of insufficient knowledge and hallucination in Large
 Language Models (LLMs), numerous studies have explored integrating LLMs with

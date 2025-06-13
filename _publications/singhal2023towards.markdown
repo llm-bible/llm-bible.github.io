@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: singhal2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.09617"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09617'}
+tags: ['RAG', 'Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent artificial intelligence (AI) systems have reached milestones in "grand
 challenges" ranging from Go to protein-folding. The capability to retrieve

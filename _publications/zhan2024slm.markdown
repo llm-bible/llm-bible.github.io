@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhan2024slm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13155"}
-  - {name: "Code", url: "https://github.com/AGoyal0512/SLM-Mod"}
-tags: ['Tools', 'RAG', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13155'}
+  - {name: "Code", url: 'https://github.com/AGoyal0512/SLM-Mod'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown promise in many natural language
 understanding tasks, including content moderation. However, these models can be

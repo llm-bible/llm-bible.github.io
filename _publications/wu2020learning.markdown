@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wu2020learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2001.00926"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2001.00926'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We describe a method for training accurate Transformer machine-translation
 models to run inference using 8-bit integer (INT8) hardware matrix multipliers,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: liang2020transparent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.10731"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.10731'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 The predominant approach to visual question answering (VQA) relies on

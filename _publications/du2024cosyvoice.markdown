@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024cosyvoice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10117"}
-  - {name: "Code", url: "https://funaudiollm.github.io/cosyvoice2"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10117'}
+  - {name: "Code", url: 'https://funaudiollm.github.io/cosyvoice2'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 In our previous work, we introduced CosyVoice, a multilingual speech
 synthesis model based on supervised discrete speech tokens. By employing

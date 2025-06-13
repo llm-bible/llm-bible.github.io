@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yin2024aggregation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12939"}
-tags: ['Training Techniques', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12939'}
+tags: ['Prompting', 'Tools', 'Training Techniques']
 ---
 Recent advancements in Chain-of-Thought prompting have facilitated
 significant breakthroughs for Large Language Models (LLMs) in complex reasoning

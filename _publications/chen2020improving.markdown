@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chen2020improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.03808"}
-tags: ['BERT', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.03808'}
+tags: ['Attention Mechanism', 'Training Techniques', 'BERT', 'Model Architecture']
 ---
 One of the most popular paradigms of applying large pre-trained NLP models
 such as BERT is to fine-tune it on a smaller dataset. However, one challenge

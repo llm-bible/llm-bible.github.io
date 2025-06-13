@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16158"}
-  - {name: "Code", url: "https://huggingface.co/OpenGVLab/HoVLE"}
-tags: ['Fine-Tuning', 'Tools', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16158'}
+  - {name: "Code", url: 'https://huggingface.co/OpenGVLab/HoVLE'}
+tags: ['Large-Scale Training', 'Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models']
 ---
 The rapid advance of Large Language Models (LLMs) has catalyzed the
 development of Vision-Language Models (VLMs). Monolithic VLMs, which avoid

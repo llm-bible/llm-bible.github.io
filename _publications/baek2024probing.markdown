@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: baek2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13339"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13339'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Retrieval-Augmented Generation (RAG) enhances language models by retrieving
 and incorporating relevant external knowledge. However, traditional

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: teng2025atom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12018"}
-  - {name: "Code", url: "https://github.com/qixucen/atom}{https://github.com/qixucen/atom"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12018'}
+  - {name: "Code", url: 'https://github.com/qixucen/atom}{https://github.com/qixucen/atom'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 Large Language Models (LLMs) achieve superior performance through
 training-time scaling, and test-time scaling further enhances their

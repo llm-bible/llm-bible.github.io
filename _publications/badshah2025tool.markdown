@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: badshah2025tool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07385"}
-tags: ['Agentic', 'Reinforcement Learning', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07385'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Tools']
 ---
 As Large Language Models (LLMs) become increasingly integrated into
 real-world, autonomous applications, relying on static, pre-annotated

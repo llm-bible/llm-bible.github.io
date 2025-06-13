@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: enis2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13813"}
-tags: ['Applications', 'Efficiency and Optimization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13813'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications']
 ---
 We show that Claude 3 Opus, a large language model (LLM) released by
 Anthropic in March 2024, exhibits stronger machine translation competence than

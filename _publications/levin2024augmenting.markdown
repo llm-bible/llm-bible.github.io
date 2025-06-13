@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: levin2024augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16354"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16354'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Tools']
 ---
 Debugging is a critical but challenging task for programmers. This paper
 proposes ChatDBG, an AI-powered debugging assistant. ChatDBG integrates large

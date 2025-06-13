@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16441"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16441'}
 tags: ['Prompting', 'Applications']
 ---
 Intermediate reasoning or acting steps have successfully improved large

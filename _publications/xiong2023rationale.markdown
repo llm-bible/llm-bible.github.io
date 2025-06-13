@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiong2023rationale
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06547"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06547'}
 tags: ['Interpretability and Explainability', 'Security', 'Merging']
 ---
 Continual relation extraction (CRE) aims to solve the problem of catastrophic

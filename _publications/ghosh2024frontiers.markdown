@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghosh2024frontiers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16077"}
-tags: ['Agentic', 'Survey Paper', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16077'}
+tags: ['Agentic', 'Applications', 'Tools', 'Survey Paper']
 ---
 Large Language Model (LLM) integrations into applications like Microsoft365
 suite and Google Workspace for creating/processing documents, emails,

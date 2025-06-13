@@ -6,8 +6,8 @@ conference: "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discover
 year: 2024
 bibkey: kenthapadi2024grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12858"}
-tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'Security', 'KDD']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12858'}
+tags: ['Interpretability and Explainability', 'Security', 'Tools', 'Survey Paper', 'KDD', 'Ethics and Bias', 'Responsible AI']
 ---
 With the ongoing rapid adoption of Artificial Intelligence (AI)-based systems
 in high-stakes domains, ensuring the trustworthiness, safety, and observability

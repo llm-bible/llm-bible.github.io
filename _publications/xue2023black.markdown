@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xue2023black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06815"}
-  - {name: "Code", url: "https://github.com/UCF-ML-Research/TrojLLM"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06815'}
+  - {name: "Code", url: 'https://github.com/UCF-ML-Research/TrojLLM'}
+tags: ['Has Code', 'Few-Shot', 'Security', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are progressively being utilized as machine
 learning services and interface tools for various applications. However, the

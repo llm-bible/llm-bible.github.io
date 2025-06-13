@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: meng2024principal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02948"}
-  - {name: "Code", url: "https://github.com/GraphPKU/PiSSA"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02948'}
+  - {name: "Code", url: 'https://github.com/GraphPKU/PiSSA'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 To parameter-efficiently fine-tune (PEFT) large language models (LLMs), the
 low-rank adaptation (LoRA) method approximates the model changes \\(\Delta W \in

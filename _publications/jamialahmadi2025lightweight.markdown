@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jamialahmadi2025lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05005"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05005'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Deploying large language models (LLMs) in real-world applications is often
 hindered by strict computational and latency constraints. While dynamic

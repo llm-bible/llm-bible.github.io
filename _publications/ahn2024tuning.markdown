@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahn2024tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03746"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03746'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in large language models have influenced the development
 of video large multimodal models (VLMMs). The previous approaches for VLMMs

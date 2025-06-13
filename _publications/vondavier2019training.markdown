@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: vondavier2019training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.08594"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.08594'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This article describes new results of an application using transformer-based
 language models to automated item generation (AIG), an area of ongoing interest

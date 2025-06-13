@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05714"}
-  - {name: "Code", url: "https://github.com/LaVi-Lab/TG-Vid"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05714'}
+  - {name: "Code", url: 'https://github.com/LaVi-Lab/TG-Vid'}
 tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Video Large Language Models (Video LLMs) have achieved impressive performance

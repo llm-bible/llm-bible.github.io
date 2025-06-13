@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shu2024transcending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11295"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11295'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable success across a
 wide range of tasks and domains. However, their performance in low-resource

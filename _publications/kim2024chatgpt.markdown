@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00748"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Survey Paper']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00748'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Survey Paper']
 ---
 Unlike traditional educational chatbots that rely on pre-programmed
 responses, large-language model-driven chatbots, such as ChatGPT, demonstrate

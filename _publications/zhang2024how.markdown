@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02368"}
-tags: ['GPT', 'Model Architecture', 'Merging', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02368'}
+tags: ['GPT', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 Multimodal large language models (LLMs) have demonstrated impressive
 capabilities in generating high-quality images from textual instructions.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: karia2024autonomous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08437"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08437'}
 tags: ['Uncategorized']
 ---
 This paper presents AutoEval, a novel benchmark for scaling Large Language

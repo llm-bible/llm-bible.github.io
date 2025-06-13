@@ -6,8 +6,8 @@ conference: "International Conference on Learning Representations 2025"
 year: 2024
 bibkey: park2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00070"}
-tags: ['Efficiency and Optimization', 'ICLR', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00070'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Prompting', 'In-Context Learning', 'Pretraining Methods', 'ICLR']
 ---
 Recent work has demonstrated that semantics specified by pretraining data
 influence how representations of different concepts are organized in a large

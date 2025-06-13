@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023evaluate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.04166"}
-  - {name: "Code", url: "https://github.com/jinlanfu/GPTScore"}
-tags: ['Tools', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.04166'}
+  - {name: "Code", url: 'https://github.com/jinlanfu/GPTScore'}
+tags: ['GPT', 'Has Code', 'Tools', 'Model Architecture']
 ---
 Generative Artificial Intelligence (AI) has enabled the development of
 sophisticated models that are capable of producing high-caliber text, images,

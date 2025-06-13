@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024life
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11203"}
-tags: ['Survey Paper', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11203'}
+tags: ['Fairness', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are increasingly adopted in educational contexts
 to provide personalized support to students and teachers. The unprecedented

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024evolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01230"}
-  - {name: "Code", url: "https://github.com/JDing0521/GraphOTTER"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01230'}
+  - {name: "Code", url: 'https://github.com/JDing0521/GraphOTTER'}
+tags: ['Has Code', 'RAG', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Complex Table Question Answering involves providing accurate answers to
 specific questions based on intricate tables that exhibit complex layouts and

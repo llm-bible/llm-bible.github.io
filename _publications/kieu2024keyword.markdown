@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kieu2024keyword
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19612"}
-tags: ['Tools', 'RAG', 'RecSys', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19612'}
+tags: ['Few-Shot', 'RAG', 'Tools', 'Prompting', 'RecSys']
 ---
 Recent advancements in Large Language Models (LLMs) have shown significant
 potential in enhancing recommender systems. However, addressing the cold-start

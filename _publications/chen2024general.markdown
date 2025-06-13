@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03675"}
-  - {name: "Code", url: "https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Model Architecture', 'ACL', 'Security', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03675'}
+  - {name: "Code", url: 'https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL'}
+tags: ['Attention Mechanism', 'Has Code', 'ACL', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have ignited an innovative surge of AI
 applications, marking a new era of exciting possibilities equipped with

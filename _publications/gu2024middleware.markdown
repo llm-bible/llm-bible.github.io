@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024middleware
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14672"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14672'}
+tags: ['Agentic', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'GPT', 'Reinforcement Learning']
 ---
 The applications of large language models (LLMs) have expanded well beyond
 the confines of text processing, signaling a new era where LLMs are envisioned

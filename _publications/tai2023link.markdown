@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tai2023link
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07891"}
-  - {name: "Code", url: "https://github.com/isekai-portal/Link-Context-Learning"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07891'}
+  - {name: "Code", url: 'https://github.com/isekai-portal/Link-Context-Learning'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The ability to learn from context with novel concepts, and deliver
 appropriate responses are essential in human conversations. Despite current

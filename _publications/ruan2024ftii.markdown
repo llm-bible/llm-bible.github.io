@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ruan2024ftii
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12564"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12564'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Benefiting from the revolutionary advances in large language models (LLMs)
 and foundational vision models, large vision-language models (LVLMs) have also

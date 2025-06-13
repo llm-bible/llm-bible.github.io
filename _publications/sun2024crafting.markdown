@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024crafting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04307"}
-tags: ['Interpretability and Explainability', 'Interpretability', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04307'}
+tags: ['Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
 ---
 We introduce the Concept Bottleneck Large Language Model (CB-LLM), a
 pioneering approach to creating inherently interpretable Large Language Models

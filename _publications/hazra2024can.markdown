@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hazra2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.07215"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.07215'}
 tags: ['Reinforcement Learning']
 ---
 Large Language Models (LLMs) have been touted as AI models possessing

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024da
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07331"}
-  - {name: "Code", url: "https://da-code-bench.github.io"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07331'}
+  - {name: "Code", url: 'https://da-code-bench.github.io'}
+tags: ['Agentic', 'Has Code', 'Security', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 We introduce DA-Code, a code generation benchmark specifically designed to
 assess LLMs on agent-based data science tasks. This benchmark features three

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: srinivasan2022curriculum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.14525"}
-tags: ['Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.14525'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Aligning image and text encoders from scratch using contrastive learning
 requires large amounts of paired image-text data. We alleviate this need by

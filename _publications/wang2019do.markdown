@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: wang2019do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.14520"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.14520'}
 tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 General Question Answering (QA) systems over texts require the multi-hop

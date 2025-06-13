@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: erdogan2025plan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09572"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09572'}
 tags: ['Agentic', 'Tools']
 ---
 Large language models (LLMs) have shown remarkable advancements in enabling

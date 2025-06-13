@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: raheja2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16472"}
-  - {name: "Code", url: "https://github.com/vipulraheja/medit"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16472'}
+  - {name: "Code", url: 'https://github.com/vipulraheja/medit'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce mEdIT, a multi-lingual extension to CoEdIT -- the recent
 state-of-the-art text editing models for writing assistance. mEdIT models are

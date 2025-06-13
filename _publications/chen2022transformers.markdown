@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10522"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10522'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We consider the end-to-end abstract-to-title generation problem, exploring
 seven recent transformer based models (including ChatGPT) fine-tuned on more

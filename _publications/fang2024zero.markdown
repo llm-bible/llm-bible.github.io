@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11283"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11283'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 LLMs obtain remarkable performance but suffer from hallucinations. Most
 research on detecting hallucination focuses on the questions with short and

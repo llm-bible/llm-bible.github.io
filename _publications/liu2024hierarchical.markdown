@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06177"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06177'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 Question recommendation is a task that sequentially recommends questions for
 students to enhance their learning efficiency. That is, given the learning

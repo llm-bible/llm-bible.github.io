@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: chen2019semantically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.12866"}
-tags: ['Transformer', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.12866'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Transformer', 'Model Architecture']
 ---
 Semantically controlled neural response generation on limited-domain has
 achieved great performance. However, moving towards multi-domain large-scale

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: prato2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19573"}
-tags: ['Tools', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19573'}
+tags: ['Reinforcement Learning', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) have emerged as highly capable systems and are
 increasingly being integrated into various uses. However, the rapid pace of

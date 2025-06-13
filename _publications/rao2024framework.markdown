@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rao2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12464"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12464'}
 tags: ['Tools']
 ---
 To be effectively and safely deployed to global user populations, large

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ying2024internlm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06332"}
-  - {name: "Code", url: "https://github.com/InternLM/InternLM-Math"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06332'}
+  - {name: "Code", url: 'https://github.com/InternLM/InternLM-Math'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 The math abilities of large language models can represent their abstract
 reasoning ability. In this paper, we introduce and open-source our math

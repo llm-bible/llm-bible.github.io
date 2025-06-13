@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mingjun2023parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12109"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12109'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 In this era of large language models (LLMs), the traditional training of
 models has become increasingly unimaginable for regular users and institutions.

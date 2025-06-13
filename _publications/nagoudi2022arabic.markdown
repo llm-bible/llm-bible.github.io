@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: nagoudi2022arabic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10755"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10755'}
+tags: ['Language Modeling', 'Transformer', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Scholarship on generative pretraining (GPT) remains acutely Anglocentric,
 leaving serious gaps in our understanding of the whole class of autoregressive

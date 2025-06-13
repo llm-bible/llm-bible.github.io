@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ozsoy2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07604"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07604'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly used in natural language
 processing tasks. Recommender systems traditionally use methods such as

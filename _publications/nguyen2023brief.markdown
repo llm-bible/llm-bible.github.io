@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: nguyen2023brief
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.05729"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05729'}
 tags: ['GPT', 'Model Architecture']
 ---
 LawGPT 1.0 is a virtual legal assistant built on the state-of-the-art

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hirsch2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11489"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11489'}
 tags: ['Agentic', 'Applications']
 ---
 Planning is a fundamental task in artificial intelligence that involves

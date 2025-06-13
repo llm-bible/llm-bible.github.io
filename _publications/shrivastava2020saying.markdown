@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: shrivastava2020saying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.01873"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.01873'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Despite end-to-end neural systems making significant progress in the last
 decade for task-oriented as well as chit-chat based dialogue systems, most

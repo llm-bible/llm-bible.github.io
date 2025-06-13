@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pezeshkpour2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11483"}
-tags: ['Few-Shot', 'Security', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11483'}
+tags: ['Ethics and Bias', 'Few-Shot', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 various NLP tasks. However, previous works have shown these models are

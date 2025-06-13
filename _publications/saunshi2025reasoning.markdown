@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: saunshi2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17416"}
-tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17416'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models have shown remarkable reasoning abilities and scaling
 laws suggest that large parameter count, especially along the depth axis, is

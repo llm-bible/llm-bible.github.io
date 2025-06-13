@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jawale2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05045"}
-tags: ['Transformer', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05045'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 This study analyzes changes in the attention mechanisms of large language
 models (LLMs) when used to understand natural conversations between humans

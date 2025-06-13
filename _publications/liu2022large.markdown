@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liu2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.08100"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.08100'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 GitHub commits, which record the code changes with natural language messages
 for description, play a critical role for software developers to comprehend the

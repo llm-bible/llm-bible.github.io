@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdullah2024resource
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15642"}
-tags: ['RAG', 'Tools', 'Language Modeling', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15642'}
+tags: ['RAG', 'Language Modeling', 'Applications', 'Tools']
 ---
 Medical report generation is the task of automatically writing radiology
 reports for chest X-ray images. Manually composing these reports is a

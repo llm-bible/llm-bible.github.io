@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021stability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.06084"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.06084'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent works have demonstrated great success in pre-training large-scale
 autoregressive language models on massive GPUs. To reduce the wall-clock

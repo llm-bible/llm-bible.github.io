@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13847"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13847'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Visual Commonsense Reasoning (VCR) is a cognitive task, challenging models to
 answer visual questions requiring human commonsense, and to provide rationales

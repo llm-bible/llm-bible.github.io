@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: murugadoss2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08781"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08781'}
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 LLMs-as-a-judge is a recently popularized method which replaces human
 judgements in task evaluation (Zheng et al. 2024) with automatic evaluation

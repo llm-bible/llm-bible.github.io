@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wei2023symbol
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.08298v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.08298v2'}
 tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 We present symbol tuning - finetuning language models on in-context

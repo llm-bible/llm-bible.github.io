@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00804"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00804'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Large Language Models (LLMs) show impressive conversational abilities but
 sometimes show identity drift problems, where their interaction patterns or

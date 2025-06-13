@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: marcu2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14115"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14115'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 We introduce LingoQA, a novel dataset and benchmark for visual question
 answering in autonomous driving. The dataset contains 28K unique short video

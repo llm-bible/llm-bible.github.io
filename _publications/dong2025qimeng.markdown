@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025qimeng
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02146"}
-tags: ['RAG', 'Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02146'}
+tags: ['RAG', 'Prompting', 'Applications', 'Tools']
 ---
 Heterogeneous deep learning systems (DLS) such as GPUs and ASICs have been
 widely deployed in industrial data centers, which requires to develop multiple

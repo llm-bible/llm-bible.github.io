@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: briakou2024implications
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00863"}
-tags: ['Responsible AI', 'WMT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00863'}
+tags: ['Reinforcement Learning', 'WMT', 'Responsible AI', 'Applications']
 ---
 This paper investigates the impact of verbose LLM translations on evaluation.
 We first demonstrate the prevalence of this behavior across several LLM outputs

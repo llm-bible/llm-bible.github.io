@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: abuhaifa2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03719"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03719'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 This research paper presents an analysis of how well three artificial
 intelligence chatbots: Bing, ChatGPT, and GPT-4, perform when answering

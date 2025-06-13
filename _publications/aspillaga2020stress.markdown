@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: aspillaga2020stress
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.06261"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.06261'}
+tags: ['Transformer', 'RAG', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 There has been significant progress in recent years in the field of Natural
 Language Processing thanks to the introduction of the Transformer architecture.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024smaller
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23496"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Ethics and Bias', 'Interpretability and Explainability', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23496'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Self-correction is one of the most amazing emerging capabilities of Large
 Language Models (LLMs), enabling LLMs to self-modify an inappropriate output

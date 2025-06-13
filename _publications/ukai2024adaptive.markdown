@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ukai2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19410"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19410'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Prompting', 'GPT', 'Applications']
 ---
 Visual question answering aims to provide responses to natural language
 questions given visual input. Recently, visual programmatic models (VPMs),

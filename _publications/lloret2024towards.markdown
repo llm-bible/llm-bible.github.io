@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lloret2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16970"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16970'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications']
 ---
 We present ALT (ALignment with Textual feedback), an approach that aligns
 language models with user preferences expressed in text. We argue that text

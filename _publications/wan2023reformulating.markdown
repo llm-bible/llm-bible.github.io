@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wan2023reformulating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03328"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03328'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 While large language models (LLMs) like GPT-4 have recently demonstrated
 astonishing zero-shot capabilities in general domain tasks, they often generate

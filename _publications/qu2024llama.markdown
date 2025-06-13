@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qu2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15708"}
-  - {name: "Code", url: "https://github.com/OpenSparseLLMs/LLaMA-MoE-v2"}
-tags: ['Transformer', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15708'}
+  - {name: "Code", url: 'https://github.com/OpenSparseLLMs/LLaMA-MoE-v2'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, inspired by the concept of sparsity, Mixture-of-Experts (MoE)
 models have gained increasing popularity for scaling model size while keeping

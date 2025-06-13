@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023is
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.07609v3"}
-  - {name: "Code", url: "https://github.com/jizhi-zhang/FaiRLLM"}
-tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Fairness']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.07609v3'}
+  - {name: "Code", url: 'https://github.com/jizhi-zhang/FaiRLLM'}
+tags: ['Has Code', 'Fairness', 'GPT', 'Model Architecture', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The remarkable achievements of Large Language Models (LLMs) have led to the
 emergence of a novel recommendation paradigm -- Recommendation via LLM

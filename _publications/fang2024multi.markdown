@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01135"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01135'}
+tags: ['Agentic', 'RAG', 'Prompting', 'Tools']
 ---
 Due to strong capabilities in conducting fluent, multi-turn conversations
 with users, Large Language Models (LLMs) have the potential to further improve

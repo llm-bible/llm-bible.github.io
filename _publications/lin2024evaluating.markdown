@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01291"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Merging', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01291'}
+tags: ['Language Modeling', 'GPT', 'Model Architecture', 'Merging', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Despite significant progress in generative AI, comprehensive evaluation
 remains challenging because of the lack of effective metrics and standardized

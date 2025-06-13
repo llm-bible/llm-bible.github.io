@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: sharang2017recurrent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1703.08120"}
-tags: ['Applications', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1703.08120'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Applications', 'Model Architecture', 'Ethics and Bias']
 ---
 We propose a series of recurrent and contextual neural network models for
 multiple choice visual question answering on the Visual7W dataset. Motivated by

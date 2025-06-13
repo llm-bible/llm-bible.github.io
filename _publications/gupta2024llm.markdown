@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18216"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18216'}
 tags: ['Prompting', 'Applications']
 ---
 With the recent emergence of powerful instruction-tuned large language models

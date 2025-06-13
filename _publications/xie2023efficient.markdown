@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08545"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08545'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated remarkable open-domain
 capabilities. Traditionally, LLMs tailored for a domain are trained from

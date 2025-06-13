@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13300"}
-  - {name: "Code", url: "https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict"}
-tags: ['RAG', 'Tools', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13300'}
+  - {name: "Code", url: 'https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict'}
+tags: ['Ethics and Bias', 'Has Code', 'RAG', 'Tools']
 ---
 By providing external information to large language models (LLMs), tool
 augmentation (including retrieval augmentation) has emerged as a promising

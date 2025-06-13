@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12547"}
-  - {name: "Code", url: "https://henrychur.github.io/MedS-Bench/"}
-  - {name: "Code", url: "https://github.com/MAGIC-AI4Med/MedS-Ins"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12547'}
+  - {name: "Code", url: 'https://henrychur.github.io/MedS-Bench/'}
+  - {name: "Code", url: 'https://github.com/MAGIC-AI4Med/MedS-Ins'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In this study, we present MedS-Bench, a comprehensive benchmark designed to
 evaluate the performance of large language models (LLMs) in clinical contexts.

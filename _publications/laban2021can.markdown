@@ -6,9 +6,9 @@ conference: "Association for Computational Linguistics (2021)"
 year: 2021
 bibkey: laban2021can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.03448"}
-  - {name: "Code", url: "https://github.com/tingofurro/shuffle_test/"}
-tags: ['Transformer', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.03448'}
+  - {name: "Code", url: 'https://github.com/tingofurro/shuffle_test/'}
+tags: ['Has Code', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 The Shuffle Test is the most common task to evaluate whether NLP models can
 measure coherence in text. Most recent work uses direct supervision on the

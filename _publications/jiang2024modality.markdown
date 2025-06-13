@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024modality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15334"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15334'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Direct Preference Optimization (DPO) is effective for aligning large language
 models (LLMs), but when applied to multimodal models (MLLMs), it often favors

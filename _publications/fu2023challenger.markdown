@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023challenger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12436"}
-  - {name: "Code", url: "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12436'}
+  - {name: "Code", url: 'https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The surge of interest towards Multi-modal Large Language Models (MLLMs),
 e.g., GPT-4V(ision) from OpenAI, has marked a significant trend in both

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kumari2024misogynous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09220"}
-tags: ['Tools', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09220'}
+tags: ['Reinforcement Learning', 'Prompting', 'Multimodal Models', 'Tools']
 ---
 In recent years, there has been a significant rise in the phenomenon of hate
 against women on social media platforms, particularly through the use of

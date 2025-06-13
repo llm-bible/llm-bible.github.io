@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gautam2023lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19403"}
-tags: ['BERT', 'Training Techniques', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19403'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture']
 ---
 If a question cannot be answered with the available information, robust
 systems for question answering (QA) should know _not_ to answer. One way to

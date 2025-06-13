@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024bwarea
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17039"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17039'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have catalyzed a paradigm shift in natural
 language processing, yet their limited controllability poses a significant

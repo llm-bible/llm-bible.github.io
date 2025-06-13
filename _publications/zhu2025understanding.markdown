@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04341"}
-  - {name: "Code", url: "https://github.com/zdhgreat/ISP-2"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04341'}
+  - {name: "Code", url: 'https://github.com/zdhgreat/ISP-2'}
+tags: ['Has Code', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-Thought (CoT) Prompting is a dominant paradigm in Large Language
 Models (LLMs) to enhance complex reasoning. It guides LLMs to present

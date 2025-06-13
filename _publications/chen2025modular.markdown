@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025modular
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08761"}
-  - {name: "Code", url: "https://github.com/OpenBMB/UltraRAG"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08761'}
+  - {name: "Code", url: 'https://github.com/OpenBMB/UltraRAG'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) significantly enhances the performance
 of large language models (LLMs) in downstream tasks by integrating external

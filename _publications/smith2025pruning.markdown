@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: smith2025pruning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14713"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14713'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pruning']
 ---
 The rapid proliferation of large language models (LLMs) in natural language
 processing (NLP) has created a critical need for techniques that enable

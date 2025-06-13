@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: lin2020conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.01909"}
-tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.01909'}
+tags: ['RAG', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents an empirical study of conversational question
 reformulation (CQR) with sequence-to-sequence architectures and pretrained

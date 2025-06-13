@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: green2022massively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.01018"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.01018'}
+tags: ['Transformer', 'RAG', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 While pretrained language models (PLMs) primarily serve as general-purpose
 text encoders that can be fine-tuned for a wide variety of downstream tasks,

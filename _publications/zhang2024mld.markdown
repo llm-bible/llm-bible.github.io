@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024mld
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02897"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02897'}
 tags: ['RAG', 'Applications']
 ---
 Narrative understanding and story generation are critical challenges in

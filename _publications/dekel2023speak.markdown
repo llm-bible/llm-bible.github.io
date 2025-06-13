@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dekel2023speak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11210"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11210'}
 tags: ['Language Modeling', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) demonstrate impressive capabilities, yet

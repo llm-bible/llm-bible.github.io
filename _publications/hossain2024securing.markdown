@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hossain2024securing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07353"}
-  - {name: "Code", url: "https://github.com/speedlab-git/Robust-Encoder-against-Jailbreak-attack.git"}
-tags: ['Responsible AI', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07353'}
+  - {name: "Code", url: 'https://github.com/speedlab-git/Robust-Encoder-against-Jailbreak-attack.git'}
+tags: ['Has Code', 'RAG', 'Security', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Vision-Language Models (LVLMs), trained on multimodal big datasets,
 have significantly advanced AI by excelling in vision-language tasks. However,

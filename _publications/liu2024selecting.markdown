@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024selecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16332"}
-tags: ['Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16332'}
+tags: ['Tools', 'Training Techniques']
 ---
 Recently, there has been increasing interest in applying large language
 models (LLMs) as zero-shot passage rankers. However, few studies have explored

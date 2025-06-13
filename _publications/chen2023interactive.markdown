@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.05226"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.05226'}
+tags: ['Few-Shot', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Large pre-trained vision and language models have demonstrated remarkable
 capacities for various tasks. However, solving the knowledge-based visual

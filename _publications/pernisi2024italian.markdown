@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pernisi2024italian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04522"}
-tags: ['Responsible AI', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04522'}
+tags: ['Prompting', 'Responsible AI', 'Tools']
 ---
 As diverse linguistic communities and users adopt large language models
 (LLMs), assessing their safety across languages becomes critical. Despite

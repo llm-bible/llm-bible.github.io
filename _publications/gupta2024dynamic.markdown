@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21545"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21545'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 Reward modeling in large language models is susceptible to reward hacking,
 causing models to latch onto superficial features such as the tendency to

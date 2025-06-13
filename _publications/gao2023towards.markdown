@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02953"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02953'}
 tags: ['Security']
 ---
 Instruction tuning is vital for enhancing the performance of large language

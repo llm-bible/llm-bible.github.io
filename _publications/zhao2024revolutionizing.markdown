@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024revolutionizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11641"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11641'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'GPT', 'Merging', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 In recent years, Large Language Models (LLMs) like ChatGPT have seen
 considerable advancements and have been applied in diverse fields. Built on the

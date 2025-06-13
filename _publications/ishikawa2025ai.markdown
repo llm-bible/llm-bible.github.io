@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ishikawa2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14706"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14706'}
 tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 The human-level performance of Large Language Models (LLMs) across various

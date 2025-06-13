@@ -6,7 +6,7 @@ conference: "NAACL 2025 CMCL Workshop"
 year: 2025
 bibkey: cheng2025linguistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19260"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19260'}
 tags: ['Applications']
 ---
 Large language models (LLMs) are the foundation of many AI applications

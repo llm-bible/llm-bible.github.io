@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhao2020closer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15682"}
-tags: ['BERT', 'Few-Shot', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15682'}
+tags: ['Attention Mechanism', 'Few-Shot', 'BERT', 'Model Architecture']
 ---
 Few-shot crosslingual transfer has been shown to outperform its zero-shot
 counterpart with pretrained encoders like multilingual BERT. Despite its

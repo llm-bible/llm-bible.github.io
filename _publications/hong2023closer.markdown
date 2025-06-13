@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hong2023closer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07954"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07954'}
 tags: ['Applications']
 ---
 Logical reasoning has been an ongoing pursuit in the field of AI. Despite

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: alberti2019fusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.05054"}
-  - {name: "Code", url: "https://github.com/google-research/language/tree/master/language/question_answering/b2t2)"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.05054'}
+  - {name: "Code", url: 'https://github.com/google-research/language/tree/master/language/question_answering/b2t2)'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 To advance models of multimodal context, we introduce a simple yet powerful
 neural architecture for data that combines vision and natural language. The

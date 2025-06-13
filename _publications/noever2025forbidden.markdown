@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: noever2025forbidden
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06867"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06867'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 The development of robust safety benchmarks for large language models
 requires open, reproducible datasets that can measure both appropriate refusal

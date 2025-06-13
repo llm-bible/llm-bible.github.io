@@ -6,8 +6,8 @@ conference: "https://aclanthology.org/2024.findings-acl.32"
 year: 2024
 bibkey: wang2024resonance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00071"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00071'}
+tags: ['Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper addresses the challenge of train-short-test-long (TSTL) scenarios
 in Large Language Models (LLMs) equipped with Rotary Position Embedding (RoPE),

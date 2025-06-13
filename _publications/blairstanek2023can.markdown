@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: blairstanek2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09693"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09693'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We find that the best publicly available LLMs like GPT-4 and Claude currently
 perform poorly on basic legal text handling. This motivates the creation of a

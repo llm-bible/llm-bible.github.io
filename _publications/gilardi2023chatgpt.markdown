@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gilardi2023chatgpt
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.15056v2"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.15056v2'}
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Tools']
 ---
 Many NLP applications require manual data annotations for a variety of tasks,
 notably to train classifiers or evaluate the performance of unsupervised

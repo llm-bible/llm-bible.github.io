@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: merola2025reconstructing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19754"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19754'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Retrieval-augmented generation (RAG) has become a transformative approach for

@@ -6,8 +6,8 @@ conference: "IEEE Transactions on Games (2024)"
 year: 2024
 bibkey: dewynter2024will
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05468"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05468'}
+tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We show that GPT-4's reasoning and planning capabilities extend to the 1993
 first-person shooter Doom. This large language model (LLM) is able to run and

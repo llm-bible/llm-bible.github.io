@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ahuja2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07463"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07463'}
 tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 There has been a surge in LLM evaluation research to understand LLM

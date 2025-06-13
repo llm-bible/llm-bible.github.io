@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: yang2019deepening
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.01940"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.01940'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Transformer-based pre-trained language models have proven to be effective for
 learning contextualized language representation. However, current approaches

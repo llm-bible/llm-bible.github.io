@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: pan2019frustratingly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.05286"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.05286'}
+tags: ['Attention Mechanism', 'BERT', 'Applications', 'Model Architecture', 'Fine-Tuning']
 ---
 Existing literature on Question Answering (QA) mostly focuses on algorithmic
 novelty, data augmentation, or increasingly large pre-trained language models

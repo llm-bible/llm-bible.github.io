@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gosavi2024capturing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12839"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12839'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Merging', 'Ethics and Bias']
 ---
 This paper presents research on enhancements to Large Language Models (LLMs)
 through the addition of diversity in its generated outputs. Our study

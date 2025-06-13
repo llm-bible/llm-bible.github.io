@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: dhole2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07818"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07818'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Among parameter-efficient fine-tuning methods, freezing has emerged as a

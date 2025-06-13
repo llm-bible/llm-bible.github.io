@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18255"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18255'}
+tags: ['Attention Mechanism', 'Agentic', 'Training Techniques', 'GPT', 'Model Architecture']
 ---
 In recent years, large language models(LLMs) have attracted significant
 attention due to their exceptional performance across a multitude of natural

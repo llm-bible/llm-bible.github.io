@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: arkoudas2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03762"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03762'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 GPT-4 was released in March 2023 to wide acclaim, marking a very substantial
 improvement across the board over GPT-3.5 (OpenAI's previously best model,

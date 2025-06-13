@@ -6,8 +6,8 @@ conference: "ICER 23 Proceedings of the 2023 ACM Conference on International Com
 year: 2023
 bibkey: savelka2023thrilled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10073"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10073'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper studies recent developments in large language models' (LLM)
 abilities to pass assessments in introductory and intermediate Python

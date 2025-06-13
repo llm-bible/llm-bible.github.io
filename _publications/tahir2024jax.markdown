@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tahir2024jax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11366"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11366'}
+tags: ['Large-Scale Training', 'RAG', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The scaling of Large Language Models (LLMs) for retrieval-based tasks,
 particularly in Retrieval Augmented Generation (RAG), faces significant memory

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: koshkin2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04636"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04636'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Decoder-only large language models (LLMs) have recently demonstrated
 impressive capabilities in text generation and reasoning. Nonetheless, they

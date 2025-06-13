@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01040"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01040'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 Recently, large language model (LLM) based artificial intelligence (AI)

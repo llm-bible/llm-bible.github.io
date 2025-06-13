@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: štefánik2023concept
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13775"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13775'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Many recent language models (LMs) of Transformers family exhibit so-called
 in-context learning (ICL) ability, manifested in the LMs' ability to modulate

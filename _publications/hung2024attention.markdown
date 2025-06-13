@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hung2024attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00348"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00348'}
+tags: ['Attention Mechanism', 'Security', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have revolutionized various domains but remain
 vulnerable to prompt injection attacks, where malicious inputs manipulate the

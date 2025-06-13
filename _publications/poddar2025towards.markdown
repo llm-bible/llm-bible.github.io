@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: poddar2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05610"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05610'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly recognized for their
 exceptional generative capabilities and versatility across various tasks.

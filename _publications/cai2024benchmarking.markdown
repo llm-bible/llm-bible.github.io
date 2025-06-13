@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10818"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10818'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Ethics and Bias']
 ---
 Understanding fine-grained temporal dynamics is crucial for multimodal video
 comprehension and generation. Due to the lack of fine-grained temporal

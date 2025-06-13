@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: dubois2023simulation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14387"}
-  - {name: "Code", url: "https://github.com/tatsu-lab/alpaca_farm"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14387'}
+  - {name: "Code", url: 'https://github.com/tatsu-lab/alpaca_farm'}
+tags: ['Has Code', 'GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) such as ChatGPT have seen widespread adoption
 due to their strong instruction-following abilities. Developing these LLMs

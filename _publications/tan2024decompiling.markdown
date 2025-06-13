@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024decompiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05286"}
-  - {name: "Code", url: "https://github.com/albertan017/LLM4Decompile"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05286'}
+  - {name: "Code", url: 'https://github.com/albertan017/LLM4Decompile'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'BERT', 'Tools', 'GPT']
 ---
 Decompilation aims to convert binary code to high-level source code, but
 traditional tools like Ghidra often produce results that are difficult to read

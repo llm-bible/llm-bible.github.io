@@ -6,7 +6,7 @@ conference: "Findings of the Association for Computational Linguistics ACL 2024"
 year: 2024
 bibkey: zhao2024fact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17124"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17124'}
 tags: ['Prompting']
 ---
 For a LLM to be trustworthy, its confidence level should be well-calibrated

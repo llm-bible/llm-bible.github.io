@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06195"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06195'}
 tags: ['Agentic', 'Tools']
 ---
 Social intelligence is built upon three foundational pillars: cognitive

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04501"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04501'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models achieve state-of-the-art performance but are costly to
 fine-tune due to their size. Parameter-efficient fine-tuning methods, such as

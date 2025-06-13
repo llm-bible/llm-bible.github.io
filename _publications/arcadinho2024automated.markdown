@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arcadinho2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15934"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15934'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Tools']
 ---
 Tool-augmented LLMs are a promising approach to create AI agents that can
 have realistic conversations, follow procedures, and call appropriate

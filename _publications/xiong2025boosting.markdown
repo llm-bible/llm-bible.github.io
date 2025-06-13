@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiong2025boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02682"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02682'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Recent advancements in large language models (LLMs) have enabled LLM-based
 agents to successfully tackle interactive planning tasks. However, despite

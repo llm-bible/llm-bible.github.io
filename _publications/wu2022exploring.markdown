@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.11216"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.11216'}
+tags: ['RAG', 'GPT', 'BERT', 'Model Architecture', 'Multimodal Models']
 ---
 Benefiting from large-scale datasets and pre-trained models, the field of
 generative models has recently gained significant momentum. However, most

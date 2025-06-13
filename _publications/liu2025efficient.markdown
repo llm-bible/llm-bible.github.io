@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23077"}
-  - {name: "Code", url: "https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Merging', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23077'}
+  - {name: "Code", url: 'https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs'}
+tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Survey Paper', 'Responsible AI']
 ---
 Large Reasoning Models (LRMs) significantly improve the reasoning ability of
 Large Language Models (LLMs) by learning to reason, exhibiting promising

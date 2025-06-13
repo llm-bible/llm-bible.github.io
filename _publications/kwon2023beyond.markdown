@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kwon2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08400"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08400'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) finetuned to follow human instruction have
 recently exhibited significant capabilities in various English NLP tasks.

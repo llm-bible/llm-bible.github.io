@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: haller2023modelling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03876"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03876'}
+tags: ['GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Instruction-tuned Large Language Models (LLMs) have recently showcased
 remarkable ability to generate fitting responses to natural language

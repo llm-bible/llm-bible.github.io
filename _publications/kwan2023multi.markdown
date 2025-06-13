@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kwan2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19240"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19240'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Managing long sequences has become an important and necessary feature for
 large language models (LLMs). However, it is still an open question of how to

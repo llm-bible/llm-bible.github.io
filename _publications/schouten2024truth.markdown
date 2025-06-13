@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: schouten2024truth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18865"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18865'}
 tags: ['Reinforcement Learning']
 ---
 Recent work has demonstrated that the latent spaces of large language models

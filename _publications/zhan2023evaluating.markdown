@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhan2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14389"}
-  - {name: "Code", url: "https://github.com/honglizhan/CovidET-Appraisals-Public"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14389'}
+  - {name: "Code", url: 'https://github.com/honglizhan/CovidET-Appraisals-Public'}
 tags: ['Has Code', 'Uncategorized']
 ---
 The emotions we experience involve complex processes; besides physiological

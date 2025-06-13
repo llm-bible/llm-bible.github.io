@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11074"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11074'}
 tags: ['RAG', 'Applications', 'Merging']
 ---
 Automatically generating human-readable text describing the functionality of

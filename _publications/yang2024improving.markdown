@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12325"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12325'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Despite their remarkable capabilities, Large Language Models (LLMs) are prone
 to generate responses that contradict verifiable facts, i.e., unfaithful

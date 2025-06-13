@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.17072"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.17072'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 In a real-world RAG system, the current query often involves spoken ellipses
 and ambiguous references from dialogue contexts, necessitating query rewriting

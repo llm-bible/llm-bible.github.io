@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: castrejon2024hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05465"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05465'}
+tags: ['Agentic', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Combining Large Language Models (LLMs) with external specialized tools
 (LLMs+tools) is a recent paradigm to solve multimodal tasks such as Visual

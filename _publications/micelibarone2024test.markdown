@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: micelibarone2024test
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05047"}
-tags: ['Security', 'Prompting', 'Applications', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05047'}
+tags: ['Prompting', 'WMT', 'Applications', 'Security']
 ---
 LLM-based NLP systems typically work by embedding their input data into
 prompt templates which contain instructions and/or in-context examples,

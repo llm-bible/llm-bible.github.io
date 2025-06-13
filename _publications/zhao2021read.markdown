@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhao2021read
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.04780"}
-  - {name: "Code", url: "https://quac.ai/)"}
-tags: ['Transformer', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.04780'}
+  - {name: "Code", url: 'https://quac.ai/)'}
+tags: ['Has Code', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based pre-trained models, such as BERT, have achieved remarkable
 results on machine reading comprehension. However, due to the constraint of

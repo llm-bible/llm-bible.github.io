@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dalal2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03175"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03175'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 This paper introduces a novel Bayesian learning model to explain the behavior
 of Large Language Models (LLMs), focusing on their core optimization metric of

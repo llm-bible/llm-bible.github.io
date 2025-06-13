@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024shared
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08295"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08295'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The continual learning (CL) ability is vital for deploying large language
 models (LLMs) in the dynamic world. Existing methods devise the learning module

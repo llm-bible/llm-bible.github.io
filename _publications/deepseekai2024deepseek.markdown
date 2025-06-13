@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deepseekai2024deepseek
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2405.04434v5"}
-tags: ['Fine-Tuning', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2405.04434v5'}
+tags: ['Attention Mechanism', 'Agentic', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present DeepSeek-V2, a strong Mixture-of-Experts (MoE) language model
 characterized by economical training and efficient inference. It comprises 236B

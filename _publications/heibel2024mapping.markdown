@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: heibel2024mapping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11072"}
-tags: ['Security', 'Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11072'}
+tags: ['Prompting', 'Security', 'Agentic']
 ---
 LLM-based programming assistants offer the promise of programming faster but
 with the risk of introducing more security vulnerabilities. Prior work has

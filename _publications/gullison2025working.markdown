@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gullison2025working
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09857"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09857'}
 tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Vaccine hesitancy and misinformation are significant barriers to achieving

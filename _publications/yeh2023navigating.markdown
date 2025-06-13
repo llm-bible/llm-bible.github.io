@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yeh2023navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14859"}
-  - {name: "Code", url: "https://github.com/KohakuBlueleaf/LyCORIS],"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14859'}
+  - {name: "Code", url: 'https://github.com/KohakuBlueleaf/LyCORIS],'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Text-to-image generative models have garnered immense attention for their
 ability to produce high-fidelity images from text prompts. Among these, Stable

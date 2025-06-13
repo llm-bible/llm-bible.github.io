@@ -6,7 +6,7 @@ conference: "Findings of ACL2024"
 year: 2024
 bibkey: ni2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11457"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11457'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) have been found to have difficulty knowing they

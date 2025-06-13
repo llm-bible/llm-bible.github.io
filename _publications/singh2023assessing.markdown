@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: singh2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11524"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11524'}
+tags: ['Model Architecture', 'Applications', 'GPT', 'Prompting', 'Multimodal Models']
 ---
 Multi-modality promises to unlock further uses for large language models.
 Recently, the state-of-the-art language model GPT-4 was enhanced with vision

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12416"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12416'}
 tags: ['RAG', 'Tools']
 ---
 Large language models (LLMs) have achieved remarkable success but still tend

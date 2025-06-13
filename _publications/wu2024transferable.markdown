@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024transferable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13357"}
-tags: ['RAG', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13357'}
+tags: ['RAG', 'Applications', 'Model Architecture']
 ---
 By leveraging the power of Large Language Models(LLMs) and speech foundation
 models, state of the art speech-text bimodal works can achieve challenging

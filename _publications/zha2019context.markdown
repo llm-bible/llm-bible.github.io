@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zha2019context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.02365"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.02365'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the maturity of visual detection techniques, we are more ambitious in
 describing visual content with open-vocabulary, fine-grained and free-form

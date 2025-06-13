@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023tackling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09970"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09970'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Visual language tasks require AI models to comprehend and reason with both
 visual and textual content. Driven by the power of Large Language Models

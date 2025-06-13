@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023adding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07500"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07500'}
+tags: ['Fairness', 'GPT', 'Model Architecture', 'Applications', 'Prompting', 'Survey Paper', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Generative AI models continue to become more powerful. The launch of ChatGPT
 in November 2022 has ushered in a new era of AI. ChatGPT and other similar

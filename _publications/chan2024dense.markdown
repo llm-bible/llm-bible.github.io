@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chan2024dense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00782"}
-tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00782'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement Learning from Human Feedback (RLHF) has been credited as the
 key advance that has allowed Large Language Models (LLMs) to effectively follow

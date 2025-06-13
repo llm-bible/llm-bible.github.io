@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: joko2024doing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03480"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03480'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic']
 ---
 The future of conversational agents will provide users with personalized
 information responses. However, a significant challenge in developing models is

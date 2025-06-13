@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024causal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02738"}
-tags: ['In-Context Learning', 'Training Techniques', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02738'}
+tags: ['Ethics and Bias', 'Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 Despite the notable advancements of existing prompting methods, such as
 In-Context Learning and Chain-of-Thought for Large Language Models (LLMs), they

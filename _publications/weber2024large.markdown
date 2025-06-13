@@ -6,7 +6,7 @@ conference: "AKWI Jahrestagung 2024 Lecture Notes in Informatics (LNI) Bd. 357 (
 year: 2024
 bibkey: weber2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07732"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07732'}
 tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) offer numerous applications, the full extent of

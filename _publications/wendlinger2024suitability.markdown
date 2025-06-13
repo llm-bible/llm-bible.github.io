@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wendlinger2024suitability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15902"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15902'}
 tags: ['Prompting']
 ---
 We show that current open-source foundational LLMs possess instruction

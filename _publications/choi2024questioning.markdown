@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024questioning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06518"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06518'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have become a dominant approach in natural

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rozanova2021grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.08634"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.08634'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Models designed for intelligent process automation are required to be capable
 of grounding user interface elements. This task of interface element grounding

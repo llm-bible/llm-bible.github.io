@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rawal2023dissecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08889"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08889'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 While VideoQA Transformer models demonstrate competitive performance on
 standard benchmarks, the reasons behind their success are not fully understood.

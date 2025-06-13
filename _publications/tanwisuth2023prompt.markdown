@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tanwisuth2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.00350"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.00350'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Through prompting, large-scale pre-trained models have become more expressive
 and powerful, gaining significant attention in recent years. Though these big

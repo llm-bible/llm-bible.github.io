@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: men2024base
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14591"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14591'}
 tags: ['Training Techniques']
 ---
 Position embedding is a core component of current Large Language Models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: caffagni2024wiki
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15406"}
-tags: ['RAG', 'Multimodal Models', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15406'}
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Model Architecture']
 ---
 Multimodal LLMs are the natural evolution of LLMs, and enlarge their
 capabilities so as to work beyond the pure textual modality. As research is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: khadangi2025noise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03302"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03302'}
+tags: ['Language Modeling', 'RAG', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) often produce inaccurate or misleading
 content-hallucinations. To address this challenge, we introduce Noise-Augmented

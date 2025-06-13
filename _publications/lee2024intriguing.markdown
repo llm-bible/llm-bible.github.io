@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024intriguing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04751"}
-tags: ['Security', 'Attention Mechanism', 'Multimodal Models', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04751'}
+tags: ['Attention Mechanism', 'Security', 'Multimodal Models', 'Model Architecture']
 ---
 Recently, large language and vision models (LLVMs) have received significant
 attention and development efforts due to their remarkable generalization

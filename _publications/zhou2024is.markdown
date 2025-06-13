@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08733"}
-tags: ['Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08733'}
+tags: ['Reinforcement Learning', 'GPT', 'Security', 'Model Architecture']
 ---
 Exceptional mathematical reasoning ability is one of the key features that
 demonstrate the power of large language models (LLMs). How to comprehensively

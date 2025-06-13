@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024cache
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15949"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15949'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), despite their remarkable performance across a
 wide range of tasks, necessitate substantial GPU memory and consume significant

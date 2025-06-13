@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hamadanian2025two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11779"}
-  - {name: "Code", url: "https://github.com/microsoft/glinthawk"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11779'}
+  - {name: "Code", url: 'https://github.com/microsoft/glinthawk'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Applications', 'Model Architecture']
 ---
 We introduce Glinthawk, an architecture for offline Large Language Model
 (LLM) inference. By leveraging a two-tiered structure, Glinthawk optimizes the

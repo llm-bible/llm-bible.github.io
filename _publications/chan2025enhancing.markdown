@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chan2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07401"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07401'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This research explores the opportunities of Generative AI (GenAI) in the
 realm of higher education through the design and development of a multimodal

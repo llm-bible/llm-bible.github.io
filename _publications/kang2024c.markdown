@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kang2024c
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03181"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03181'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Despite the impressive capabilities of large language models (LLMs) across
 diverse applications, they still suffer from trustworthiness issues, such as

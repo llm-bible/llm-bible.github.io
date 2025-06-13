@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15415"}
-  - {name: "Code", url: "https://github.com/openaudiolab/LLaST"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15415'}
+  - {name: "Code", url: 'https://github.com/openaudiolab/LLaST'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning']
 ---
 We introduces LLaST, a framework for building high-performance Large Language
 model based Speech-to-text Translation systems. We address the limitations of

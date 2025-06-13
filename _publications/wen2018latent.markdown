@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: wen2018latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.07070"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.07070'}
 tags: ['Training Techniques']
 ---
 Latent variable models have been a preferred choice in conversational

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lechner2023challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14641"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14641'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 The potential to provide patients with faster information access while

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bordt2024elephants
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06209"}
-  - {name: "Code", url: "https://github.com/interpretml/LLM-Tabular-Memorization-Checker"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06209'}
+  - {name: "Code", url: 'https://github.com/interpretml/LLM-Tabular-Memorization-Checker'}
+tags: ['Has Code', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 While many have shown how Large Language Models (LLMs) can be applied to a
 diverse set of tasks, the critical issues of data contamination and

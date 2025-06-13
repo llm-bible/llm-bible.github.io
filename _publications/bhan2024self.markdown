@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhan2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12038"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12038'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Incorporating natural language rationales in the prompt and In-Context
 Learning (ICL) have led to a significant improvement of Large Language Models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023extrapolating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04948"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04948'}
+tags: ['Large-Scale Training', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training']
 ---
 Existing large language models show disparate capability across different
 languages, due to the imbalance in the training data. Their performances on

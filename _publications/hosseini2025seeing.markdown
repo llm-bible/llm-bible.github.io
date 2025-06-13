@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hosseini2025seeing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08884"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08884'}
+tags: ['RAG', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Unimodal vision models are known to rely on spurious correlations, but it
 remains unclear to what extent Multimodal Large Language Models (MLLMs) exhibit

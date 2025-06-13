@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024motiongpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21747"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21747'}
+tags: ['Masked Language Model', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generating lifelike human motions from descriptive texts has experienced
 remarkable research focus in the recent years, propelled by the emerging

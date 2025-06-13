@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: feng2025neuro
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06658"}
-tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06658'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
 ---
 Driven by privacy protection laws and regulations, unlearning in Large
 Language Models (LLMs) is gaining increasing attention. However, current

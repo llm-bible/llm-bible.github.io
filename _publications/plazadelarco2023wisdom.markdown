@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: plazadelarco2023wisdom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.12973"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.12973'}
 tags: ['Few-Shot']
 ---
 Large Language Models (LLMs) exhibit remarkable text classification

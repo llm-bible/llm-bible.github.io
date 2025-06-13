@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: patil2024perspectives
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06921"}
-  - {name: "Code", url: "https://github.com/ShishirPatil/gorilla/"}
-tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06921'}
+  - {name: "Code", url: 'https://github.com/ShishirPatil/gorilla/'}
+tags: ['Agentic', 'Has Code', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are evolving beyond their classical role of
 providing information within dialogue systems to actively engaging with tools

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fayyaz2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00219"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00219'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We study how well large language models (LLMs) explain their generations
 through rationales -- a set of tokens extracted from the input text that

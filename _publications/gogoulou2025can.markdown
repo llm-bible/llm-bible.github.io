@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gogoulou2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20699"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20699'}
 tags: ['Prompting', 'Applications']
 ---
 A frequently observed problem with LLMs is their tendency to generate output

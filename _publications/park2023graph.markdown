@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: park2023graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09762"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09762'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 Chain-of-Thought (CoT) prompting along with sub-question generation and

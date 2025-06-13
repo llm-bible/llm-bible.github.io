@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: rajbhandari2019memory
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/1910.02054v3"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'http://arxiv.org/abs/1910.02054v3'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 Large deep learning models offer significant accuracy gains, but training
 billions to trillions of parameters is challenging. Existing solutions such as

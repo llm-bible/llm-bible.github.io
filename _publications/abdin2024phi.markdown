@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdin2024phi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08905"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08905'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training']
 ---
 We present phi-4, a 14-billion parameter language model developed with a
 training recipe that is centrally focused on data quality. Unlike most language

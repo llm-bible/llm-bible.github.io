@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05778"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05778'}
 tags: ['Prompting']
 ---
 Self-consistency (Wang et al., 2023) suggests that the most consistent answer

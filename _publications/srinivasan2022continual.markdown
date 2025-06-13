@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: srinivasan2022continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.09059"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.09059'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Current state-of-the-art vision-and-language models are evaluated on tasks
 either individually or in a multi-task setting, overlooking the challenges of

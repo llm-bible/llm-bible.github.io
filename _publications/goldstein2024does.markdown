@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goldstein2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11015"}
-tags: ['GPT', 'Survey Paper', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11015'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 This paper examines the question of whether Large Language Models (LLMs) like
 ChatGPT possess minds, focusing specifically on whether they have a genuine

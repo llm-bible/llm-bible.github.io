@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: pramanick2023egocentric
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.05463"}
-  - {name: "Code", url: "https://shramanpramanick.github.io/EgoVLPv2/"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.05463'}
+  - {name: "Code", url: 'https://shramanpramanick.github.io/EgoVLPv2/'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Video-language pre-training (VLP) has become increasingly important due to
 its ability to generalize to various vision and language tasks. However,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023extractive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.04193"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.04193'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Extractive summarization is a crucial task in natural language processing
 that aims to condense long documents into shorter versions by directly

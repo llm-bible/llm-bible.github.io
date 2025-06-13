@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11261"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11261'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown immense potential in enhancing
 various aspects of our daily lives, from conversational AI to search and AI

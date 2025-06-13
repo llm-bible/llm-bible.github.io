@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hunter2024kallini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12271"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12271'}
+tags: ['ACL', 'Training Techniques', 'GPT', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 A central goal of linguistic theory is to find a precise characterization of
 the notion "possible human language", in the form of a computational device

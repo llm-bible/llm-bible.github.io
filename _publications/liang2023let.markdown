@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liang2023let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14386"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14386'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 In this paper, we present a novel approach for distilling math word problem
 solving capabilities from large language models (LLMs) into smaller, more

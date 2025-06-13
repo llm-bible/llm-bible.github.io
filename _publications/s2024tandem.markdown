@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: s2024tandem
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08644"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08644'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 The autoregressive nature of conventional large language models (LLMs)
 inherently limits inference speed, as tokens are generated sequentially. While

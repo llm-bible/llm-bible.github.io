@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09012"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09012'}
+tags: ['Attention Mechanism', 'Transformer', 'Tools', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Logo embedding models convert the product logos in images into vectors,
 enabling their utilization for logo recognition and detection within e-commerce

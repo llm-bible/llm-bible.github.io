@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kagaya2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03610"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03610'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Owing to recent advancements, Large Language Models (LLMs) can now be
 deployed as agents for increasingly complex decision-making applications in

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2022
 bibkey: tunstall2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.11055"}
-  - {name: "Code", url: "https://github.com/huggingface/setfit"}
-  - {name: "Code", url: "https://huggingface.co/setfit"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.11055'}
+  - {name: "Code", url: 'https://github.com/huggingface/setfit'}
+  - {name: "Code", url: 'https://huggingface.co/setfit'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recent few-shot methods, such as parameter-efficient fine-tuning (PEFT) and
 pattern exploiting training (PET), have achieved impressive results in

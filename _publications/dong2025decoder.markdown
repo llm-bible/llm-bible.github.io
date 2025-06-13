@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025decoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04412"}
-tags: ['Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04412'}
+tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Groundbreaking advancements in text-to-image generation have recently been
 achieved with the emergence of diffusion models. These models exhibit a

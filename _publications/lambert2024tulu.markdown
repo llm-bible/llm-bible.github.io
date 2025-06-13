@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lambert2024tulu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15124"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15124'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Language model post-training is applied to refine behaviors and unlock new
 skills across a wide range of recent language models, but open recipes for

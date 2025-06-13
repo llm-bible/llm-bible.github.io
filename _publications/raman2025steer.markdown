@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: raman2025steer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13119"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13119'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 How should one judge whether a given large language model (LLM) can reliably
 perform economic reasoning? Most existing LLM benchmarks focus on specific

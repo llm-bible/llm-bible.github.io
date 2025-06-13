@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: kong2024audio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01831"}
-  - {name: "Code", url: "https://audioflamingo.github.io/"}
-  - {name: "Code", url: "https://github.com/NVIDIA/audio-flamingo"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01831'}
+  - {name: "Code", url: 'https://audioflamingo.github.io/'}
+  - {name: "Code", url: 'https://github.com/NVIDIA/audio-flamingo'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Augmenting large language models (LLMs) to understand audio -- including
 non-speech sounds and non-verbal speech -- is critically important for diverse

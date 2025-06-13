@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: candel2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13012"}
-  - {name: "Code", url: "https://gpt.h2o.ai/"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13012'}
+  - {name: "Code", url: 'https://gpt.h2o.ai/'}
+tags: ['Has Code', 'GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) represent a revolution in AI. However, they also
 pose many significant risks, such as the presence of biased, private,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05357"}
-  - {name: "Code", url: "https://github.com/Model-GLUE/Model-GLUE"}
-tags: ['RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05357'}
+  - {name: "Code", url: 'https://github.com/Model-GLUE/Model-GLUE'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging']
 ---
 As Large Language Models (LLMs) excel across tasks and specialized domains,
 scaling LLMs based on existing models has garnered significant attention, which

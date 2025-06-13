@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: koo2025extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05846"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05846'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability', 'Training Techniques']
 ---
 Large Language Models (LLMs) have achieved remarkable success, but their
 English-centric training data limits performance in non-English languages,

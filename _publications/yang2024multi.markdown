@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11990"}
-  - {name: "Code", url: "https://execrepobench.github.io/"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11990'}
+  - {name: "Code", url: 'https://execrepobench.github.io/'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Code completion has become an essential tool for daily software development.
 Existing evaluation benchmarks often employ static methods that do not fully

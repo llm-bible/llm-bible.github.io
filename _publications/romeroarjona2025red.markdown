@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: romeroarjona2025red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10192"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10192'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The battle for AI leadership is on, with OpenAI in the United States and
 DeepSeek in China as key contenders. In response to these global trends, the

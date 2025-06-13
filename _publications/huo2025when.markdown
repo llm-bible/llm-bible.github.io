@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huo2025when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01887"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01887'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 Recent advancements in Artificial Intelligence have led to the development of
 Multimodal Large Language Models (MLLMs). However, adapting these pre-trained

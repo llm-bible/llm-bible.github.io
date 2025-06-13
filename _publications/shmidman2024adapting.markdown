@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shmidman2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07080"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07080'}
+tags: ['Training Techniques', 'RAG', 'Applications', 'Tools']
 ---
 Training large language models (LLMs) in low-resource languages such as
 Hebrew poses unique challenges. In this paper, we introduce DictaLM2.0 and

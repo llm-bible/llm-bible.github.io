@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vendrow2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03461"}
-  - {name: "Code", url: "https://github.com/MadryLab/platinum-benchmarks"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03461'}
+  - {name: "Code", url: 'https://github.com/MadryLab/platinum-benchmarks'}
 tags: ['Has Code', 'Uncategorized']
 ---
 When deploying large language models (LLMs), it is important to ensure that

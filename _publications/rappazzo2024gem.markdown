@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rappazzo2024gem
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15566"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15566'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'BERT', 'Tools', 'GPT', 'Prompting']
 ---
 The ability to form, retrieve, and reason about memories in response to
 stimuli serves as the cornerstone for general intelligence - shaping entities

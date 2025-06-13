@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024t
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02685"}
-  - {name: "Code", url: "https://github.com/wzhouad/T-REG"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02685'}
+  - {name: "Code", url: 'https://github.com/wzhouad/T-REG'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Reinforcement learning from human feedback (RLHF) has been crucial in
 aligning large language models (LLMs) with human values. Traditionally, RLHF

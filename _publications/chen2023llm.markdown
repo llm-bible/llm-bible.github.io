@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13614"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13614'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Empowering chatbots in the field of mental health is receiving increasing
 amount of attention, while there still lacks exploration in developing and

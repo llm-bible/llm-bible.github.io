@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: glavaš2020is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.06788"}
-tags: ['Fine-Tuning', 'Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.06788'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Traditional NLP has long held (supervised) syntactic parsing necessary for
 successful higher-level semantic language understanding (LU). The recent advent

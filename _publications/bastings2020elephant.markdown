@@ -6,8 +6,8 @@ conference: "Proceedings of the 2020 EMNLP Workshop BlackboxNLP Analyzing and In
 year: 2020
 bibkey: bastings2020elephant
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.05607"}
-tags: ['Interpretability and Explainability', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.05607'}
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Interpretability and Explainability', 'Model Architecture']
 ---
 There is a recent surge of interest in using attention as explanation of
 model predictions, with mixed evidence on whether attention can be used as

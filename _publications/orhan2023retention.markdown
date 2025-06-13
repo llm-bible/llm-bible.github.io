@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: orhan2023retention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.17557"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.17557'}
 tags: ['Few-Shot', 'Training Techniques']
 ---
 The training of modern large language models (LLMs) takes place in a regime

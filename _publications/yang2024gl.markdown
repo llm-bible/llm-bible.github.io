@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024gl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06849"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06849'}
+tags: ['Attention Mechanism', 'Arxiv', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Recent research on integrating Large Language Models (LLMs) with Graph Neural
 Networks (GNNs) typically follows two approaches: LLM-centered models, which

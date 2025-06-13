@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10083"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10083'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Responsible AI', 'Pretraining Methods']
 ---
 Purpose: To assess the alignment of GPT-4-based evaluation to human clinician
 experts, for the evaluation of responses to ophthalmology-related patient

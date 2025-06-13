@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01018"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01018'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Selective retrieval improves retrieval-augmented generation (RAG) by reducing
 distractions from low-quality retrievals and improving efficiency. However,

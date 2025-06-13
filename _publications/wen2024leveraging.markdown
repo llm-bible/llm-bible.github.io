@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wen2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13659"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13659'}
+tags: ['RAG', 'Fairness', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 The rapid advancements in large language models (LLMs) have opened up new
 opportunities for transforming patient engagement in healthcare through

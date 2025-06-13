@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mosharrof2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15055"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15055'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Task-oriented dialogue (TOD) systems enable users to achieve their goals
 through natural language interactions. Traditionally, these systems have relied

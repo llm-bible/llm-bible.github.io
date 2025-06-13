@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: seals2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05452"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05452'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 The development of highly fluent large language models (LLMs) has prompted
 increased interest in assessing their reasoning and problem-solving

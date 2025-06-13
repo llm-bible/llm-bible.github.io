@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10982"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10982'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Applications']
 ---
 Large language models (LLMs) perform well in medical QA, but their
 effectiveness in Japanese contexts is limited due to privacy constraints that

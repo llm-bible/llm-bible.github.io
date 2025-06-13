@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: huang2021picture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.09756"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.09756'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 A creative image-and-text generative AI system mimics humans' extraordinary
 abilities to provide users with diverse and comprehensive caption suggestions,

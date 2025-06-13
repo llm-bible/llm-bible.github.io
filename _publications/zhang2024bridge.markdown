@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024bridge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18957"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18957'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) demonstrate strong proficiency in generating
 code for high-resource programming languages (HRPLs) like Python but struggle

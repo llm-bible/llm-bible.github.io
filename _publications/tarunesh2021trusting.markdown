@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: tarunesh2021trusting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.07229"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.07229'}
 tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 The recent state-of-the-art natural language understanding (NLU) systems

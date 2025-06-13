@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025bring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12598"}
-tags: ['Survey Paper', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12598'}
+tags: ['Reinforcement Learning', 'Applications', 'Survey Paper']
 ---
 Adapting large language models (LLMs) to new and diverse knowledge is
 essential for their lasting effectiveness in real-world applications. This

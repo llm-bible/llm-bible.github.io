@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hou2025unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02502"}
-tags: ['Security', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02502'}
+tags: ['Reinforcement Learning', 'Security', 'Applications', 'Tools']
 ---
 Background: Large language models (LLMs) are increasingly deployed via
 open-source and commercial frameworks, enabling individuals and organizations

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023you
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02344"}
-tags: ['Tools', 'Survey Paper', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02344'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'BERT', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Unsupervised rationale extraction aims to extract concise and contiguous text
 snippets to support model predictions without any annotated rationale. Previous

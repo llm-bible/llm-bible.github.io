@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.01703"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.01703'}
 tags: ['Few-Shot', 'Training Techniques', 'Pretraining Methods']
 ---
 Self-supervised pretraining has made few-shot learning possible for many NLP

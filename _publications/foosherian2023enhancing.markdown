@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: foosherian2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03748"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03748'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
 ---
 The latest advancements in AI and deep learning have led to a breakthrough in
 large language model (LLM)-based agents such as GPT-4. However, many commercial

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: clymer2023generalization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07723"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07723'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 As AI systems become more intelligent and their behavior becomes more
 challenging to assess, they may learn to game the flaws of human feedback

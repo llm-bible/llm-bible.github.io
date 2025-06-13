@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024academic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04825"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04825'}
+tags: ['Language Modeling', 'RAG', 'Applications', 'Training Techniques', 'Prompting']
 ---
 Existing text simplification or paraphrase datasets mainly focus on
 sentence-level text generation in a general domain. These datasets are

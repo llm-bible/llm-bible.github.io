@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: robinson2022leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.12353"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Tokenization', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.12353'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Tokenization']
 ---
 While large language models (LLMs) like GPT-3 have achieved impressive
 results on multiple choice question answering (MCQA) tasks in the zero, one,

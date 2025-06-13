@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09298"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09298'}
+tags: ['Applications', 'Tools']
 ---
 With the rapid development of IT operations, it has become increasingly
 crucial to efficiently manage and analyze large volumes of data for practical

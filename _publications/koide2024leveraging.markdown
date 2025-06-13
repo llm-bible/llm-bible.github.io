@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: koide2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18093"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18093'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 The proliferation of phishing sites and emails poses significant challenges
 to existing cybersecurity efforts. Despite advances in malicious email filters

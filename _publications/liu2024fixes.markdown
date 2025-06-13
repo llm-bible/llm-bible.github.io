@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024fixes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04523"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04523'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The impressive capabilities in Large Language Models (LLMs) provide a
 powerful approach to reimagine users' typing experience. This paper

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: court2024shortcomings
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15625"}
-tags: ['Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15625'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 This work investigates the in-context learning abilities of pretrained large
 language models (LLMs) when instructed to translate text from a low-resource

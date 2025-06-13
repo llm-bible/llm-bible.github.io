@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jahan2024unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17255"}
-  - {name: "Code", url: "https://github.com/ResponsibleAILab/emoji-universal-sentiment"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17255'}
+  - {name: "Code", url: 'https://github.com/ResponsibleAILab/emoji-universal-sentiment'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models']
 ---
 Emojis have become ubiquitous in online communication, serving as a universal
 medium to convey emotions and decorative elements. Their widespread use

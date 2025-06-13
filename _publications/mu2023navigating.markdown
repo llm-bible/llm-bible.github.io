@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mu2023navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14310"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14310'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Instruction-tuned Large Language Models (LLMs) have exhibited impressive
 language understanding and the capacity to generate responses that follow

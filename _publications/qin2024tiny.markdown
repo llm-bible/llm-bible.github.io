@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024tiny
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13766"}
-tags: ['Fine-Tuning', 'Tools', 'INTERSPEECH', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13766'}
+tags: ['INTERSPEECH', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 The combination of Large Language Models (LLM) and Automatic Speech
 Recognition (ASR), when deployed on edge devices (called edge ASR-LLM), can

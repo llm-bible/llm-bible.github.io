@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020very
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.07772"}
-  - {name: "Code", url: "https://github.com/namisan/exdeep-nmt"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.07772'}
+  - {name: "Code", url: 'https://github.com/namisan/exdeep-nmt'}
+tags: ['Has Code', 'Transformer', 'WMT', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 We explore the application of very deep Transformer models for Neural Machine
 Translation (NMT). Using a simple yet effective initialization technique that

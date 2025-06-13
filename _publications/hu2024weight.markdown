@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024weight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20891"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20891'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Low-rank adaptation (LoRA) reduces the computational and memory demands of
 fine-tuning large language models (LLMs) by approximating updates with low-rank

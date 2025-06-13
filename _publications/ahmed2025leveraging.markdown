@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmed2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00025"}
-tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00025'}
+tags: ['RAG', 'Interpretability', 'Interpretability and Explainability', 'Tools']
 ---
 Importance: Emergency department (ED) returns for mental health conditions
 pose a major healthcare burden, with 24-27% of patients returning within 30

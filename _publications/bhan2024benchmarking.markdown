@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhan2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17950"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17950'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Model Architecture', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in various
 domains, yet their economic impact has been limited by challenges in tool use

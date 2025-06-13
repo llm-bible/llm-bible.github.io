@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gulhan2025baklava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13176"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13176'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 In Large Language Model (LLM) inference, Key-Value (KV) caches (KV-caches)

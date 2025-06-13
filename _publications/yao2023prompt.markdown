@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.02816"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Security', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.02816'}
+tags: ['Security', 'Model Architecture', 'Applications', 'BERT', 'Tools', 'Prompting']
 ---
 Large language models (LLMs) have witnessed a meteoric rise in popularity
 among the general public users over the past few months, facilitating diverse

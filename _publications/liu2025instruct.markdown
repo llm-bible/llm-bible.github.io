@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025instruct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00902"}
-tags: ['RAG', 'Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00902'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools']
 ---
 Self-reflection for Large Language Models (LLMs) has gained significant
 attention. Existing approaches involve models iterating and improving their

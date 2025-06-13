@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ruan2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17596"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17596'}
+tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 While Large Language Models (LLMs) demonstrate remarkable capabilities in
 scientific tasks such as literature analysis and experimental design (e.g.,

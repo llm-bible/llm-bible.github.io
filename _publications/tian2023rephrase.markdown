@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tian2023rephrase
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16535"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16535'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 With the help of Chain-of-Thought (CoT) prompting, Large Language Models
 (LLMs) have achieved remarkable performance on various reasoning tasks.

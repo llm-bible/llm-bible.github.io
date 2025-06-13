@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhuo2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16080"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16080'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recent text-to-image diffusion models achieve impressive visual quality
 through extensive scaling of training data and model parameters, yet they often

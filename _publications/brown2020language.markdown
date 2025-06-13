@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: brown2020language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.14165"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.14165'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent work has demonstrated substantial gains on many NLP tasks and
 benchmarks by pre-training on a large corpus of text followed by fine-tuning on

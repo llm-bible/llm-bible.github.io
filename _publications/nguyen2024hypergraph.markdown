@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024hypergraph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18042"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18042'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 Multimodal LLMs have advanced vision-language tasks but still struggle with
 understanding video scenes. To bridge this gap, Video Scene Graph Generation

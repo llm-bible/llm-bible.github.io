@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: vassar2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01765"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01765'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper investigates supervised fine-tuning of large language models

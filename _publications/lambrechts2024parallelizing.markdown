@@ -6,8 +6,8 @@ conference: "ICML Workshop on Next Generation of Sequence Modeling Architectures
 year: 2024
 bibkey: lambrechts2024parallelizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08415"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08415'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Pretraining Methods']
 ---
 Attention-based models such as Transformers and recurrent models like state
 space models (SSMs) have emerged as successful methods for autoregressive

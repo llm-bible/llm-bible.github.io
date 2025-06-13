@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11202"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11202'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Recent advances in large language models have demonstrated their potential
 for automated generation of hardware description language (HDL) code from

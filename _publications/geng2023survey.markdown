@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: geng2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08298"}
-tags: ['Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08298'}
+tags: ['Applications', 'Survey Paper']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 a wide range of tasks in various domains. Despite their impressive performance,

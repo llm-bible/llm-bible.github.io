@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lang2025debate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13124"}
-tags: ['Responsible AI', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13124'}
+tags: ['RAG', 'Responsible AI', 'Training Techniques']
 ---
 Common methods for aligning already-capable models with desired behavior rely
 on the ability of humans to provide supervision. However, future superhuman

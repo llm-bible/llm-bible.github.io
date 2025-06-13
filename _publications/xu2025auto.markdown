@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11559"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11559'}
+tags: ['Ethics and Bias', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Bias Mitigation', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-training large language models (LLMs) on vast text corpora enhances
 natural language processing capabilities but risks encoding social biases,

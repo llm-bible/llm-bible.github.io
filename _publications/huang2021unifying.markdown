@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: huang2021unifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.09753"}
-tags: ['Transformer', 'Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.09753'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 We study the joint learning of image-to-text and text-to-image generations,
 which are naturally bi-directional tasks. Typical existing works design two

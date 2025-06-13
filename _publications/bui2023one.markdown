@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bui2023one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00029"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00029'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Code intelligence plays a key role in transforming modern software
 engineering. Recently, deep learning-based models, especially Transformer-based

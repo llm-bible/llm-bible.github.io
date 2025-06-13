@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ochieng2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10645"}
-tags: ['RAG', 'GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10645'}
+tags: ['Ethics and Bias', 'GPT', 'RAG', 'Model Architecture']
 ---
 This paper looks at the ability of large language models to participate in
 educational guided reading. We specifically, evaluate their ability to generate

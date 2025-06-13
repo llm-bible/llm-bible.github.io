@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jayalath2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18914"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18914'}
 tags: ['RAG', 'Training Techniques']
 ---
 Long-range tasks demand reasoning over long inputs. Current solutions require

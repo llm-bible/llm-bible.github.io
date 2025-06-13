@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ko2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14159"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14159'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 As short-form funny videos on social networks are gaining popularity, it
 becomes demanding for AI models to understand them for better communication

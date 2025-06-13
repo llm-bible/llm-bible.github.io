@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023easing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08949"}
-  - {name: "Code", url: "https://github.com/zxy556677/EasyGen"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08949'}
+  - {name: "Code", url: 'https://github.com/zxy556677/EasyGen'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Merging', 'Multimodal Models']
 ---
 We present EasyGen, an efficient model designed to enhance multimodal
 understanding and generation by harnessing the capabilities of diffusion models

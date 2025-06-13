@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lemerle2024lina
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23320"}
-  - {name: "Code", url: "https://theodorblackbird.github.io/blog/demo_lina/"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23320'}
+  - {name: "Code", url: 'https://theodorblackbird.github.io/blog/demo_lina/'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Neural codec language models have achieved state-of-the-art performance in
 text-to-speech (TTS) synthesis, leveraging scalable architectures like

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sanyal2023early
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03241"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03241'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Training Large Language Models (LLMs) incurs significant cost; hence, any
 strategy that accelerates model convergence is helpful. In this paper, we

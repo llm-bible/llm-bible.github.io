@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: diallo2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06930"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06930'}
 tags: ['GPT', 'Model Architecture']
 ---
 Understanding procedural texts, such as cooking recipes, is essential for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dogra2024deception
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04325"}
-tags: ['Security', 'Agentic', 'Agent', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04325'}
+tags: ['Reinforcement Learning', 'Agentic', 'Security', 'Agent']
 ---
 We explore the ability of large language model (LLM)-based agents to engage
 in subtle deception such as strategically phrasing and intentionally

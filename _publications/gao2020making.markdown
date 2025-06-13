@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gao2020making
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2012.15723v2"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2012.15723v2'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The recent GPT-3 model (Brown et al., 2020) achieves remarkable few-shot
 performance solely by leveraging a natural-language prompt and a few task

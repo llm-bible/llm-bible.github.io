@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12145"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12145'}
+tags: ['Reinforcement Learning', 'Security', 'Responsible AI', 'Tools']
 ---
 Metaphor serves as an implicit approach to convey information, while enabling
 the generalized comprehension of complex subjects. However, metaphor can

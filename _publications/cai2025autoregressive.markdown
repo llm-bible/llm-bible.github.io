@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cai2025autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16965"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Merging', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16965'}
+tags: ['RAG', 'GPT', 'Merging', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 In autoregressive (AR) image generation, models based on the 'next-token
 prediction' paradigm of LLMs have shown comparable performance to diffusion

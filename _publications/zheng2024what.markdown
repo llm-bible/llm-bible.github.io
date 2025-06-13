@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08105"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08105'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 Prompting techniques such as chain-of-thought have established themselves as
 a popular vehicle for improving the outputs of large language models (LLMs).

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19819"}
-tags: ['Training Techniques', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19819'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Merging']
 ---
 Recent advancements in large language models (LLMs) have expanded their
 application across various domains, including chip design, where domain-adapted

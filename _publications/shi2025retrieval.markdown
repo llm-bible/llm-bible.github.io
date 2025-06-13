@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05731"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05731'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Model Architecture', 'Applications', 'RecSys', 'Reinforcement Learning']
 ---
 Recently, the personalization of Large Language Models (LLMs) to generate
 content that aligns with individual user preferences has garnered widespread

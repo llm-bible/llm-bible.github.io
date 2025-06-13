@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: betala2024brotherhood
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15052"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15052'}
+tags: ['RAG', 'WMT', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 In this paper, we describe our system under the team name Brotherhood for the
 English-to-Lowres Multi-Modal Translation Task. We participate in the

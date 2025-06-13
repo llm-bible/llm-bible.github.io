@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: shekhar2018beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.03408"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.03408'}
 tags: ['RAG', 'Model Architecture']
 ---
 We propose a grounded dialogue state encoder which addresses a foundational

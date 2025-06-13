@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023dissecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18869"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18869'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Chain-of-thought (CoT) is a method that enables language models to handle
 complex reasoning tasks by decomposing them into simpler steps. Despite its

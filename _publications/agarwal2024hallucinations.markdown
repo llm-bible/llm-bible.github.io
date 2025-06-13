@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwal2024hallucinations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19492"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19492'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 The remarkable capabilities of large language models (LLMs) in language
 understanding and generation have not rendered them immune to hallucinations.

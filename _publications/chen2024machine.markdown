@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16841"}
-tags: ['Tools', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16841'}
+tags: ['Attention Mechanism', 'Security', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Recently, large language models (LLMs) have emerged as a notable field,
 attracting significant attention for its ability to automatically generate

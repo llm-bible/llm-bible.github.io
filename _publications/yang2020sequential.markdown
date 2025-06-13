@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: yang2020sequential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.00397"}
-  - {name: "Code", url: "https://github.com/xiaoxiaoheimei/SeqDialN"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.00397'}
+  - {name: "Code", url: 'https://github.com/xiaoxiaoheimei/SeqDialN'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 In this work, we formulate a visual dialog as an information flow in which
 each piece of information is encoded with the joint visual-linguistic

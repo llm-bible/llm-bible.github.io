@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00641"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00641'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 The increasing demand for efficient summarization tools in
 resource-constrained environments highlights the need for effective solutions.

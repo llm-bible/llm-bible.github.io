@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13612"}
-tags: ['RAG', 'Tools', 'Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13612'}
+tags: ['RAG', 'Applications', 'Tools', 'Survey Paper']
 ---
 Large language models (LLMs) have emerged as a potential solution to automate
 the complex processes involved in writing literature reviews, such as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chhipa2020comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.04095"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.04095'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Interpretability', 'Pretraining Methods']
 ---
 With the recent influx of bidirectional contextualized transformer language
 models in the NLP, it becomes a necessity to have a systematic comparative

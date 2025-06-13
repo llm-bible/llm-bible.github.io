@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghosh2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09314"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09314'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 We present \llinstruct: An 8B instruction-tuned model that is designed to
 generate content for English Language Proficiency Assessments (ELPA) and

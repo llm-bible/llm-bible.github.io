@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hada2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07462"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07462'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) excel in various Natural Language Processing
 (NLP) tasks, yet their evaluation, particularly in languages beyond the top

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: caciularu2023peek
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15387"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15387'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Pre-Training']
 ---
 The integration of multi-document pre-training objectives into language
 models has resulted in remarkable improvements in multi-document downstream

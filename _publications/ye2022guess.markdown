@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: ye2022guess
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.02969"}
-  - {name: "Code", url: "https://github.com/seonghyeonye/Flipped-Learning"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.02969'}
+  - {name: "Code", url: 'https://github.com/seonghyeonye/Flipped-Learning'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Meta-training, which fine-tunes the language model (LM) on various downstream
 tasks by maximizing the likelihood of the target label given the task

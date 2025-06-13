@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: platanios2018contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.08493"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.08493'}
+tags: ['SLT', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning']
 ---
 We propose a simple modification to existing neural machine translation (NMT)
 models that enables using a single universal model to translate between

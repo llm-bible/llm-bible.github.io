@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sabbaghi2025adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01633"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01633'}
 tags: ['Security']
 ---
 As large language models (LLMs) are becoming more capable and widespread, the

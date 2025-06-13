@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: delima2025passage
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00238"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00238'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Applications']
 ---
 This paper presents our approach to the TREC Interactive Knowledge Assistance
 Track (iKAT), which focuses on improving conversational information-seeking

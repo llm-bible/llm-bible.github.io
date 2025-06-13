@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdullin2024synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17461"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17461'}
 tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Linear programming (LP) problems are pervasive in real-life applications.

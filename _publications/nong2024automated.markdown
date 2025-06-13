@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nong2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13597"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13597'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Timely and effective vulnerability patching is essential for cybersecurity
 defense, for which various approaches have been proposed yet still struggle to

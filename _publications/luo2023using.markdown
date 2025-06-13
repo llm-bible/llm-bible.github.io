@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01981"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01981'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 RNN-like language models are getting renewed attention from NLP researchers
 in recent years and several models have made significant progress, which

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: song2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14324"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14324'}
 tags: ['GPT', 'Pretraining Methods']
 ---
 The differing representation spaces required for visual understanding and

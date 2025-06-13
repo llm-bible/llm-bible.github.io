@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17502"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17502'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Prompting', 'Applications', 'Pre-Training']
 ---
 Community Question Answering (CQA) becomes increasingly prevalent in recent
 years. However, there are a large number of answers, which is difficult for

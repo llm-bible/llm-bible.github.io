@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024mamba
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15237"}
-  - {name: "Code", url: "https://github.com/jxiw/MambaInLlama"}
-  - {name: "Code", url: "https://github.com/itsdaniele/speculative_mamba"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15237'}
+  - {name: "Code", url: 'https://github.com/jxiw/MambaInLlama'}
+  - {name: "Code", url: 'https://github.com/itsdaniele/speculative_mamba'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Linear RNN architectures, like Mamba, can be competitive with Transformer
 models in language modeling while having advantageous deployment

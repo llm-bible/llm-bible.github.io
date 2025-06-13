@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15236"}
-tags: ['Responsible AI', 'Agentic', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15236'}
+tags: ['Agentic', 'Security', 'Applications', 'Prompting', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Large Language Models (LLMs) have transformed artificial intelligence by
 advancing natural language understanding and generation, enabling applications

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kou2024autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00127"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00127'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Quantization', 'Merging', 'Prompting', 'Multimodal Models', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce Orthus, an autoregressive (AR) transformer that excels in
 generating images given textual prompts, answering questions based on visual

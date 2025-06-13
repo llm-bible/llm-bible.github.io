@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liu2022one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10505"}
-tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10505'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Prompting', 'Training Techniques']
 ---
 Visual language such as charts and plots is ubiquitous in the human world.
 Comprehending plots and charts requires strong reasoning skills. Prior

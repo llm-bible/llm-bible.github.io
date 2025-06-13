@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: dai2020funnel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.03236"}
-  - {name: "Code", url: "https://github.com/laiguokun/Funnel-Transformer"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.03236'}
+  - {name: "Code", url: 'https://github.com/laiguokun/Funnel-Transformer'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the success of language pretraining, it is highly desirable to develop
 more efficient architectures of good scalability that can exploit the abundant

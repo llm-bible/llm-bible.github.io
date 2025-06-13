@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024argumentation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16725"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16725'}
+tags: ['Interpretability and Explainability', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 In recent years, large language models (LLMs) have made significant
 advancements in neuro-symbolic computing. However, the combination of LLM with

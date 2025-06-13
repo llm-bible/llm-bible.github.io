@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sridhara2023study
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16837"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16837'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'GPT', 'Model Architecture', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot launched by
 OpenAI on November 30, 2022. OpenAI's GPT-3 family of large language models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08978"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08978'}
+tags: ['Agentic', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recent advances in large language models (LLMs) have empowered AI agents
 capable of performing various sequential decision-making tasks. However,

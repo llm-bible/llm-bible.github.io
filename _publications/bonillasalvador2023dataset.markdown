@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bonillasalvador2023dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05349"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05349'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 In the domain of vision-language integration, generating detailed image
 captions poses a significant challenge due to the lack of curated and rich

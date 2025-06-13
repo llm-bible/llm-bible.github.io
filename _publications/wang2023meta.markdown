@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.17820"}
-  - {name: "Code", url: "https://github.com/Alsace08/Meta-Reasoning"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.17820'}
+  - {name: "Code", url: 'https://github.com/Alsace08/Meta-Reasoning'}
+tags: ['Reinforcement Learning', 'Has Code', 'Efficiency and Optimization']
 ---
 Neural-symbolic methods have demonstrated efficiency in enhancing the
 reasoning abilities of large language models (LLMs). However, existing methods

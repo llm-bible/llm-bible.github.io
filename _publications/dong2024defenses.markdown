@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024defenses
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09283"}
-  - {name: "Code", url: "https://github.com/niconi19/LLM-conversation-safety"}
-tags: ['Responsible AI', 'Survey Paper', 'Applications', 'RAG', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09283'}
+  - {name: "Code", url: 'https://github.com/niconi19/LLM-conversation-safety'}
+tags: ['Has Code', 'RAG', 'Security', 'Applications', 'Survey Paper', 'Responsible AI']
 ---
 Large Language Models (LLMs) are now commonplace in conversation
 applications. However, their risks of misuse for generating harmful responses

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16906"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16906'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 While logical reasoning evaluation of Large Language Models (LLMs) has
 attracted significant attention, existing benchmarks predominantly rely on

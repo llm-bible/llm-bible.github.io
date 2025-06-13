@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00908"}
-  - {name: "Code", url: "https://github.com/DISL-Lab/FineSurE-ACL24"}
-tags: ['ACL', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00908'}
+  - {name: "Code", url: 'https://github.com/DISL-Lab/FineSurE-ACL24'}
+tags: ['Has Code', 'Applications', 'ACL']
 ---
 Automated evaluation is crucial for streamlining text summarization
 benchmarking and model development, given the costly and time-consuming nature

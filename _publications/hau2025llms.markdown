@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hau2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15908"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15908'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Tools']
 ---
 The integration of AI techniques has become increasingly popular in software
 development, enhancing performance, usability, and the availability of

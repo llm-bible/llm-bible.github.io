@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15796"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15796'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 Recent studies have put into question the belief that emergent abilities in
 language models are exclusive to large models. This skepticism arises from two

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shao2023character
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10158"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10158'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) can be used to serve as agents to simulate human
 behaviors, given the powerful ability to understand human instructions and

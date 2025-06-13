@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dvivedi2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10349"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10349'}
 tags: ['GPT', 'Model Architecture']
 ---
 This paper presents a comprehensive comparative analysis of Large Language

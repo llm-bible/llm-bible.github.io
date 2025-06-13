@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huotala2024promise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15667"}
-tags: ['GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15667'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Survey Paper']
 ---
 Systematic review (SR) is a popular research method in software engineering
 (SE). However, conducting an SR takes an average of 67 weeks. Thus, automating

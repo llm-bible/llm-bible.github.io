@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025feature
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09191"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09191'}
+tags: ['Agentic', 'Security', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 The rapid advancement of large language models (LLMs) has brought significant
 benefits to various domains while introducing substantial risks. Despite being

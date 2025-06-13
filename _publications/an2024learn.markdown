@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: an2024learn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07382"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07382'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent advances in Automated Theorem Proving have shown the effectiveness of
 leveraging a (large) language model that generates tactics (i.e. proof steps)

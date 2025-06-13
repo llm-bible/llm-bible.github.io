@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: pires2025automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21202"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21202'}
 tags: ['RAG']
 ---
 Despite the recent advances in Large Language Models, benchmarks for

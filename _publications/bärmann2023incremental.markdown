@@ -6,8 +6,8 @@ conference: "Frontiers in Robotics and AI Volume 11 - 2024"
 year: 2023
 bibkey: bärmann2023incremental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04316"}
-tags: ['Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04316'}
+tags: ['Reinforcement Learning', 'Prompting', 'Model Architecture']
 ---
 Natural-language dialog is key for intuitive human-robot interaction. It can
 be used not only to express humans' intents, but also to communicate

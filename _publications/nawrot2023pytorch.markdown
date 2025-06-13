@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nawrot2023pytorch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02373"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02373'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 State-of-the-art language models like T5 have revolutionized the NLP
 landscape, but their computational demands hinder a large portion of the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024os
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07456"}
-tags: ['Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07456'}
+tags: ['Agentic', 'Tools', 'Applications']
 ---
 Autonomous interaction with the computer has been a longstanding challenge
 with great potential, and the recent proliferation of large language models

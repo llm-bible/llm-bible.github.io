@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17304"}
-tags: ['RAG', 'Few-Shot', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17304'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'RAG']
 ---
 In task-oriented conversational AI evaluation, unsupervised methods poorly
 correlate with human judgments, and supervised approaches lack generalization.

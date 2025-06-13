@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhargava2024cpp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02735"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02735'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 We introduce CPP-UT-Bench, a benchmark dataset to measure C++ unit test
 generation capability of a large language model (LLM). CPP-UT-Bench aims to

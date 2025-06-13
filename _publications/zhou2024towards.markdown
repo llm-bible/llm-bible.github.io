@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.05732"}
-  - {name: "Code", url: "https://github.com/SpassMed/Med-Llama3"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.05732'}
+  - {name: "Code", url: 'https://github.com/SpassMed/Med-Llama3'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Open-source, multilingual medical large language models (LLMs) have the
 potential to serve linguistically diverse populations across different regions.

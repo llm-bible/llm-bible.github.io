@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xue2023bias
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08836"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08836'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Fairness', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Chatbots have been studied for more than half a century. With the rapid
 development of natural language processing (NLP) technologies in recent years,

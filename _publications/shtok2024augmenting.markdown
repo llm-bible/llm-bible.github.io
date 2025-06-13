@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: shtok2024augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10348"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10348'}
 tags: ['Agentic', 'Prompting', 'In-Context Learning']
 ---
 It has been shown that Large Language Models' (LLMs) performance can be

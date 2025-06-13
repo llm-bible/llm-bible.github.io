@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024neuron
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04045"}
-  - {name: "Code", url: "https://github.com/jianghoucheng/NSE"}
-tags: ['Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04045'}
+  - {name: "Code", url: 'https://github.com/jianghoucheng/NSE'}
+tags: ['Reinforcement Learning', 'Has Code', 'Training Techniques']
 ---
 This work explores sequential model editing in large language models (LLMs),
 a critical task that involves modifying internal knowledge within LLMs

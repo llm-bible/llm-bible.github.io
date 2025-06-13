@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhezherau2024hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09168"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09168'}
+tags: ['RAG', 'Security', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This research explores a hybrid approach to fine-tuning large language models
 (LLMs) by integrating real-world and synthetic data to boost model performance,

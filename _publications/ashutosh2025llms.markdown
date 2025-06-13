@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ashutosh2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18096"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18096'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Prompting', 'Multimodal Models']
 ---
 We present MILS: Multimodal Iterative LLM Solver, a surprisingly simple,
 training-free approach, to imbue multimodal capabilities into your favorite

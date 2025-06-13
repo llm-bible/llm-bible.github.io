@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bao2022probabilistically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.12339"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.12339'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'GPT', 'Model Architecture', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Conventional autoregressive left-to-right (L2R) sequence generation faces two
 issues during decoding: limited to unidirectional target sequence modeling, and

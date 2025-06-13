@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.08604"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.08604'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced their coding capabilities. However, existing benchmarks predominantly

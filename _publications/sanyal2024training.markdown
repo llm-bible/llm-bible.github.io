@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sanyal2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08634"}
-  - {name: "Code", url: "https://github.com/sanyalsunny111/LLM-Inheritune"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08634'}
+  - {name: "Code", url: 'https://github.com/sanyalsunny111/LLM-Inheritune'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved remarkable performance across
 various natural language processing tasks, primarily due to the transformer

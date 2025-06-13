@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024directorllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14484"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14484'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 In this paper, we introduce DirectorLLM, a novel video generation model that
 employs a large language model (LLM) to orchestrate human poses within videos.

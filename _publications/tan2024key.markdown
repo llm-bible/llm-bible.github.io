@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024key
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04346"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04346'}
+tags: ['Applications', 'Training Techniques']
 ---
 Long video question answering is a challenging task that involves recognizing
 short-term activities and reasoning about their fine-grained relationships.

@@ -6,8 +6,8 @@ conference: "The 47th International ACM SIGIR Conference on Research and Develop
 year: 2023
 bibkey: sun2023adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16262"}
-tags: ['Fine-Tuning', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16262'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 Most existing bundle generation approaches fall short in generating
 fixed-size bundles. Furthermore, they often neglect the underlying user intents

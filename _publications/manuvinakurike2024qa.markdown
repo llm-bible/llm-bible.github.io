@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: manuvinakurike2024qa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02638"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02638'}
 tags: ['Reinforcement Learning']
 ---
 In this work we explore utilizing LLMs for data augmentation for

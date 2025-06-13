@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: savoldi2025translation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13780"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13780'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Converging societal and technical factors have transformed language
 technologies into user-facing applications employed across languages. Machine

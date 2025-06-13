@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cha2023locality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06742"}
-  - {name: "Code", url: "https://github.com/kakaobrain/honeybee"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06742'}
+  - {name: "Code", url: 'https://github.com/kakaobrain/honeybee'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 In Multimodal Large Language Models (MLLMs), a visual projector plays a
 crucial role in bridging pre-trained vision encoders with LLMs, enabling

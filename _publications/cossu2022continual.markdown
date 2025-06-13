@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: cossu2022continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.09357"}
-  - {name: "Code", url: "https://github.com/AndreaCossu/continual-pretraining-nlp-vision"}
-tags: ['Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.09357'}
+  - {name: "Code", url: 'https://github.com/AndreaCossu/continual-pretraining-nlp-vision'}
+tags: ['Has Code', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained models are nowadays a fundamental component of machine learning
 research. In continual learning, they are commonly used to initialize the model

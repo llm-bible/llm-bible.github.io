@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: di2023codefuse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06266"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06266'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 Code Large Language Models (Code LLMs) have gained significant attention in
 the industry due to their wide applications in the full lifecycle of software

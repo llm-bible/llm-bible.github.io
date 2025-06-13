@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shang2024end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02005"}
-tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02005'}
+tags: ['Multimodal Models', 'Applications', 'Training Techniques', 'Merging']
 ---
 Abstractive Speech Summarization (SSum) aims to generate human-like text
 summaries from spoken content. It encounters difficulties in handling long

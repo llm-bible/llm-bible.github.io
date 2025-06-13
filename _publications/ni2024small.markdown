@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09990"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09990'}
 tags: ['Efficiency and Optimization']
 ---
 The quality of instruction data directly affects the performance of

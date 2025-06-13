@@ -6,8 +6,8 @@ conference: "Scientific Data 10 528 (2023)"
 year: 2023
 bibkey: ott2023central
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.11596"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.11596'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Prompting', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) such as GPT-4 have recently demonstrated
 impressive results across a wide range of tasks. LLMs are still limited,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lal2024cat
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15823"}
-tags: ['Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15823'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'RAG', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Understanding the abilities of LLMs to reason about natural language plans,
 such as instructional text and recipes, is critical to reliably using them in

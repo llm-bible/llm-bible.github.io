@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: suresh2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14462"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14462'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In recent times, the research on Large Language Models (LLMs) has grown
 exponentially, predominantly focusing on models underpinned by the transformer

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024alternative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15042"}
-  - {name: "Code", url: "https://proxy-qa.com"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15042'}
+  - {name: "Code", url: 'https://proxy-qa.com'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have succeeded remarkably in understanding
 long-form contents. However, exploring their capability for generating

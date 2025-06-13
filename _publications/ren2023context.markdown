@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ren2023context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08152"}
-  - {name: "Code", url: "https://github.com/DRSY/KV_Compression"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08152'}
+  - {name: "Code", url: 'https://github.com/DRSY/KV_Compression'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The quadratic complexity of the attention module makes it gradually become
 the bulk of compute in Transformer-based LLMs during generation. Moreover, the

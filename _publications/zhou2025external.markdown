@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025external
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08510"}
-  - {name: "Code", url: "https://github.com/RenaissCode/ENGINE"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08510'}
+  - {name: "Code", url: 'https://github.com/RenaissCode/ENGINE'}
+tags: ['Has Code', 'RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Class-Incremental Learning (CIL) enables learning systems to continuously
 adapt to evolving data streams. With the advancement of pre-training,

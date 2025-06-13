@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vannguyen2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18572"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18572'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Efficient long-context language modeling remains a significant challenge in
 Natural Language Processing (NLP). While Transformers dominate language tasks,

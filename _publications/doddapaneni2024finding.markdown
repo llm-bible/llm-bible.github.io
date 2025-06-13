@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: doddapaneni2024finding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13439"}
-  - {name: "Code", url: "https://github.com/AI4Bharat/FBI"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13439'}
+  - {name: "Code", url: 'https://github.com/AI4Bharat/FBI'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Applications', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are increasingly relied upon to evaluate text
 outputs of other LLMs, thereby influencing leaderboards and development

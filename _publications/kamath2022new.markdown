@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kamath2022new
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.03112"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.03112'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent studies in Vision-and-Language Navigation (VLN) train RL agents to
 execute natural-language navigation instructions in photorealistic

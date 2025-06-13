@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05983"}
-tags: ['Applications', 'Training Techniques', 'Multimodal Models', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05983'}
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Multimodal Models', 'Applications']
 ---
 Recent advancements in Large Multi-modal Models (LMMs) underscore the
 importance of scaling by increasing image-text paired data, achieving

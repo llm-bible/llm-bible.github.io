@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: clymer2024unmasking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05466"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05466'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Like a criminal under investigation, Large Language Models (LLMs) might
 pretend to be aligned while evaluated and misbehave when they have a good

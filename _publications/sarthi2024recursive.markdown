@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sarthi2024recursive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.18059"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.18059'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Retrieval-augmented language models can better adapt to changes in world
 state and incorporate long-tail knowledge. However, most existing methods

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025valuable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11113"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11113'}
 tags: ['Prompting']
 ---
 This paper introduces the first formal definition of valuable hallucinations

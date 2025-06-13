@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024act
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.06745"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.06745'}
+tags: ['Few-Shot', 'WMT', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language model (LLM) has achieved promising performance in multilingual
 machine translation tasks through zero/few-shot prompts or prompt-tuning.

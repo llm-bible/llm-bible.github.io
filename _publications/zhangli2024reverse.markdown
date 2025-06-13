@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhangli2024reverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05845"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/RAIT-9FB7/"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05845'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/RAIT-9FB7/'}
+tags: ['Reinforcement Learning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in pretraining have demonstrated that modern Large
 Language Models (LLMs) possess the capability to effectively learn arithmetic

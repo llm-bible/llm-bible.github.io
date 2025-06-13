@@ -6,8 +6,8 @@ conference: "SIGIR 2023 2261-2265"
 year: 2023
 bibkey: guo2023cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.07341"}
-tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.07341'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Pre-Training']
 ---
 Vision-language (VL) Pre-training (VLP) has shown to well generalize VL
 models over a wide range of VL downstream tasks, especially for cross-modal

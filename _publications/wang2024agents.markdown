@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024agents
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09030"}
-  - {name: "Code", url: "https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE"}
-tags: ['Tools', 'Agentic', 'Survey Paper', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09030'}
+  - {name: "Code", url: 'https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE'}
+tags: ['Agentic', 'Has Code', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 In recent years, Large Language Models (LLMs) have achieved remarkable
 success and have been widely used in various downstream tasks, especially in

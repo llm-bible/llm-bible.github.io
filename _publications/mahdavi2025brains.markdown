@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mahdavi2025brains
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01995"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01995'}
 tags: ['Reinforcement Learning']
 ---
 Recent advances in large language models (LLMs) have shown impressive

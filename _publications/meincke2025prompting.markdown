@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: meincke2025prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04818"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04818'}
+tags: ['Prompting', 'Training Techniques']
 ---
 This is the first of a series of short reports that seek to help business,
 education, and policy leaders understand the technical details of working with

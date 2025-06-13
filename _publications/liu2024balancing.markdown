@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024balancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12307"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12307'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Accurate multi-turn intent classification is essential for advancing
 conversational AI systems. However, challenges such as the scarcity of

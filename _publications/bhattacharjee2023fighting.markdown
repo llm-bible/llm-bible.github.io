@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhattacharjee2023fighting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01284"}
-  - {name: "Code", url: "https://github.com/AmritaBh/ChatGPT-as-Detector"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01284'}
+  - {name: "Code", url: 'https://github.com/AmritaBh/ChatGPT-as-Detector'}
+tags: ['Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) such as ChatGPT are increasingly being used for
 various use cases, including text content generation at scale. Although

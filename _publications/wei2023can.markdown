@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wei2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16636"}
-tags: ['Security', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16636'}
+tags: ['GPT', 'Security', 'Model Architecture']
 ---
 We present the Chinese Elementary School Math Word Problems (CMATH) dataset,
 comprising 1.7k elementary school-level math word problems with detailed

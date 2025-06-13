@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: daheim2024stepwise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09136"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09136'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) present an opportunity to scale high-quality

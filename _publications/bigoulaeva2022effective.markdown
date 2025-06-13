@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bigoulaeva2022effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.17301"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Interpretability and Explainability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.17301'}
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 We compare sequential fine-tuning with a model for multi-task learning in the
 context where we are interested in boosting performance on two tasks, one of

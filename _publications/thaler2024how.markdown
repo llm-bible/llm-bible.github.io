@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thaler2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19240"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19240'}
+tags: ['Pre-Training', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 As LLMs are increasingly integrated into user-facing applications, addressing
 biases that perpetuate societal inequalities is crucial. While much work has

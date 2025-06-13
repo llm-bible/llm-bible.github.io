@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024mia
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01509"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01509'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 We introduce MIA-Bench, a new benchmark designed to evaluate multimodal large
 language models (MLLMs) on their ability to strictly adhere to complex

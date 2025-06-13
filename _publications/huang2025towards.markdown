@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16734"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16734'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'RecSys', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recent breakthroughs in Large Language Models (LLMs) have led to the
 emergence of agentic AI systems that extend beyond the capabilities of

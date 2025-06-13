@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024android
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02713"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02713'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language model (LLM) leads to a surge of autonomous GUI agents for
 smartphone, which completes a task triggered by natural language through

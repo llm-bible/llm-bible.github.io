@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12311"}
-tags: ['Tools', 'GPT', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12311'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 The convergence of text, visual, and audio data is a key step towards
 human-like artificial intelligence, however the current Vision-Language-Speech

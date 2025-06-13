@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: greenblatt2024stress
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19550"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19550'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 To determine the safety of large language models (LLMs), AI developers must
 be able to assess their dangerous capabilities. But simple prompting strategies

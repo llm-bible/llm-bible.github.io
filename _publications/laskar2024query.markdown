@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: laskar2024query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00067"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00067'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 This work focuses on the task of query-based meeting summarization in which
 the summary of a context (meeting transcript) is generated in response to a

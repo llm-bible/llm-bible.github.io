@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ivanova2024elements
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09605"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09605'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Tools']
 ---
 The ability to build and leverage world models is essential for a
 general-purpose AI agent. Testing such capabilities is hard, in part because

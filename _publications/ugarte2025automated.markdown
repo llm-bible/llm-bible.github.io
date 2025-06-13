@@ -6,8 +6,8 @@ conference: "The 6th ACM/IEEE International Conference on Automation of Software
 year: 2025
 bibkey: ugarte2025automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17132"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17132'}
+tags: ['Attention Mechanism', 'ACL', 'In-Context Learning', 'Few-Shot', 'RAG', 'Tools', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) have recently gained attention due to their
 ability to understand and generate sophisticated human-like content. However,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03900"}
-  - {name: "Code", url: "https://github.com/hlt-mt/Speech-MASSIVE"}
-tags: ['Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03900'}
+  - {name: "Code", url: 'https://github.com/hlt-mt/Speech-MASSIVE'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 We present Speech-MASSIVE, a multilingual Spoken Language Understanding (SLU)
 dataset comprising the speech counterpart for a portion of the MASSIVE textual

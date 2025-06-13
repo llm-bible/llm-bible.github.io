@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024longbench
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15204"}
-  - {name: "Code", url: "https://longbench2.github.io"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15204'}
+  - {name: "Code", url: 'https://longbench2.github.io'}
+tags: ['Has Code', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'In-Context Learning']
 ---
 This paper introduces LongBench v2, a benchmark designed to assess the
 ability of LLMs to handle long-context problems requiring deep understanding

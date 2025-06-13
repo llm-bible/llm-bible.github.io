@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ou2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21717"}
-tags: ['NeurIPS', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21717'}
+tags: ['Reinforcement Learning', 'Survey Paper', 'NeurIPS']
 ---
 A core part of scientific peer review involves providing expert critiques
 that directly assess the scientific claims a paper makes. While it is now

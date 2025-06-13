@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: junczysdowmunt2019microsoft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1907.06170"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1907.06170'}
+tags: ['Transformer', 'WMT', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 This paper describes the Microsoft Translator submissions to the WMT19 news
 translation shared task for English-German. Our main focus is document-level

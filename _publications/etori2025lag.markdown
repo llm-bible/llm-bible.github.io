@@ -6,8 +6,8 @@ conference: "Joint 25th Nordic Conference on Computational Linguistics and 11th 
 year: 2025
 bibkey: etori2025lag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11911"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11911'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 As large language models (LLMs) rapidly advance, evaluating their performance
 is critical. LLMs are trained on multilingual data, but their reasoning

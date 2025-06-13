@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024optimized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12856"}
-tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12856'}
+tags: ['Model Architecture', 'BERT', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 We present a refined approach to biomedical question-answering (QA) services
 by integrating large language models (LLMs) with Multi-BERT configurations. By

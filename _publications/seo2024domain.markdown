@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: seo2024domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09255"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09255'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 We introduce DAHL, a benchmark dataset and automated evaluation system

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bondarenko2025demonstrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13295"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13295'}
 tags: ['Agentic', 'GPT', 'Prompting', 'Model Architecture']
 ---
 We demonstrate LLM agent specification gaming by instructing models to win against a chess engine. We find reasoning models like OpenAI o3 and DeepSeek R1 will often hack the benchmark by default, while language models like GPT-4o and Claude 3.5 Sonnet need to be told that normal play won't work to hack.

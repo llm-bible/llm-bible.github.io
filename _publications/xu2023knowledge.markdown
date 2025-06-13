@@ -6,9 +6,9 @@ conference: "ACL 2024"
 year: 2023
 bibkey: xu2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00287"}
-  - {name: "Code", url: "https://github.com/ritaranx/ClinGen"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00287'}
+  - {name: "Code", url: 'https://github.com/ritaranx/ClinGen'}
+tags: ['Has Code', 'Language Modeling', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Clinical natural language processing requires methods that can address
 domain-specific challenges, such as complex medical terminology and clinical

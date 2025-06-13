@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04178"}
-  - {name: "Code", url: "https://github.com/WANGBohaO-jpg/MSL"}
-tags: ['Fine-Tuning', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04178'}
+  - {name: "Code", url: 'https://github.com/WANGBohaO-jpg/MSL'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs), known for their comprehension capabilities and
 extensive knowledge, have been increasingly applied to recommendation systems

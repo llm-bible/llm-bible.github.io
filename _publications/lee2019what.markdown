@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: lee2019what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.03090"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.03090'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pretrained transformer-based language models have achieved state of the art
 across countless tasks in natural language processing. These models are highly

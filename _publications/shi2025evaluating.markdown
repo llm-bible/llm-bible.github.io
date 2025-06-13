@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14928"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14928'}
 tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Large language models (LLMs) increasingly serve as educational tools, yet

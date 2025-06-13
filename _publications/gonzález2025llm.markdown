@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gonzález2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16921"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16921'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Large Language Models (LLMs) remain difficult to evaluate comprehensively,
 particularly for languages other than English, where high-quality data is often

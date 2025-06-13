@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12608"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12608'}
 tags: ['RAG', 'Applications']
 ---
 Despite recent advances in Large Language Models (LLMs) for code generation,

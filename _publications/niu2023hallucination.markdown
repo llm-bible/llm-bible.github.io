@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: niu2023hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00396"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00396'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) has become a main technique for
 alleviating hallucinations in large language models (LLMs). Despite the

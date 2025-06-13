@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nayak2025sculpting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07097"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07097'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Continual learning in large language models (LLMs) is prone to catastrophic
 forgetting, where adapting to new tasks significantly degrades performance on

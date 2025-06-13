@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: eide2024bayesian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15857"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15857'}
+tags: ['Training Techniques', 'RAG', 'Fine-Tuning', 'Applications']
 ---
 This paper introduces Bayesian Hierarchical Low-Rank Adaption (BoRA), a novel
 method for finetuning multi-task Large Language Models (LLMs). Current

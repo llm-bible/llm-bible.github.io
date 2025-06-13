@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: molfese2025right
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14996"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14996'}
 tags: ['Prompting', 'Applications']
 ---
 One of the most widely used tasks to evaluate Large Language Models (LLMs) is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nakagi2025triple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20779"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20779'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Model Architecture']
 ---
 Large language models (LLMs) often exhibit abrupt emergent behavior, whereby
 new abilities arise at certain points during their training. This phenomenon,

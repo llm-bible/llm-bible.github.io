@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10271"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10271'}
 tags: ['Tools']
 ---
 The development and evaluation of Large Language Models (LLMs) has primarily

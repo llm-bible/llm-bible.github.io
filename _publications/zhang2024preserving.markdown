@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024preserving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11354"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11354'}
+tags: ['Fine-Tuning', 'Multimodal Models', 'Training Techniques']
 ---
 Humans can retain old knowledge while learning new information, but Large
 Language Models (LLMs) often suffer from catastrophic forgetting when

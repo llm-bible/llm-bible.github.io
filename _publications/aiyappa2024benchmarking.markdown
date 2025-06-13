@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aiyappa2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00236"}
-tags: ['Training Techniques', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00236'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Training Techniques']
 ---
 We investigate the performance of LLM-based zero-shot stance detection on
 tweets. Using FlanT5-XXL, an instruction-tuned open-source LLM, with the

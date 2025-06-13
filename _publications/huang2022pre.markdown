@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: huang2022pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.08387"}
-  - {name: "Code", url: "https://aka.ms/layoutlmv3"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.08387'}
+  - {name: "Code", url: 'https://aka.ms/layoutlmv3'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Self-supervised pre-training techniques have achieved remarkable progress in
 Document AI. Most multimodal pre-trained models use a masked language modeling

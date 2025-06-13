@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kwon2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13550"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13550'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 A successful negotiation requires a range of capabilities, including

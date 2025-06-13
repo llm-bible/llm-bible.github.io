@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: munawar2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10645"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10645'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 In the era of exponential technology growth, one unexpected guest has claimed
 a seat in classrooms worldwide, Artificial Intelligence. Generative AI, such as

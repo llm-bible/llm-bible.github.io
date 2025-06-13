@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16275"}
-  - {name: "Code", url: "https://github.com/zxcvvxcz/FAILOpt"}
-tags: ['Security', 'Efficiency and Optimization', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16275'}
+  - {name: "Code", url: 'https://github.com/zxcvvxcz/FAILOpt'}
+tags: ['Prompting', 'Has Code', 'Efficiency and Optimization', 'Security']
 ---
 AI Generated Text (AIGT) detectors are developed with texts from humans and
 LLMs of common tasks. Despite the diversity of plausible prompt choices, these

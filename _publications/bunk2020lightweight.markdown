@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: bunk2020lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.09936"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.09936'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large-scale pre-trained language models have shown impressive results on
 language understanding benchmarks like GLUE and SuperGLUE, improving

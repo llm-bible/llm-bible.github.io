@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024unleash
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13167"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13167'}
 tags: ['Applications']
 ---
 While large language models (LLMs) have made notable advancements in natural

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: pan2022toolkit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.17201"}
-  - {name: "Code", url: "https://github.com/extreme-bert/extreme-bert"}
-tags: ['Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.17201'}
+  - {name: "Code", url: 'https://github.com/extreme-bert/extreme-bert'}
+tags: ['Has Code', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we present ExtremeBERT, a toolkit for accelerating and
 customizing BERT pretraining. Our goal is to provide an easy-to-use BERT

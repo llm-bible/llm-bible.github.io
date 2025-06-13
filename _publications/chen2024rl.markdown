@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024rl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08725"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08725'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Modern large language model (LLM) developers typically conduct a safety
 alignment to prevent an LLM from generating unethical or harmful content.

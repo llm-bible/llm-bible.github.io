@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023fortify
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04455"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04455'}
+tags: ['Attention Mechanism', 'RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this paper, we demonstrate that an inherent waveform pattern in the
 attention allocation of large language models (LLMs) significantly affects

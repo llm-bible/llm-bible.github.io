@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: grover2025solution
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01992"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01992'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In response to Task II of the FinRL Challenge at ACM ICAIF 2024, this study
 proposes a novel prompt framework for fine-tuning large language models (LLM)

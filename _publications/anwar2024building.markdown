@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: anwar2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13682"}
-  - {name: "Code", url: "https://nvidia-ai-iot.github.io/remembr"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13682'}
+  - {name: "Code", url: 'https://nvidia-ai-iot.github.io/remembr'}
 tags: ['RAG', 'Has Code', 'Applications']
 ---
 Navigating and understanding complex environments over extended periods of

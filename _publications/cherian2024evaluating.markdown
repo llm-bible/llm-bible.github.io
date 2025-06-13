@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cherian2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15736"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15736'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Recent years have seen a significant progress in the general-purpose problem
 solving abilities of large vision and language models (LVLMs), such as ChatGPT,

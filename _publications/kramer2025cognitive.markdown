@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kramer2025cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22036"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22036'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) demonstrate strong language generation
 capabilities but often struggle with structured reasoning, leading to

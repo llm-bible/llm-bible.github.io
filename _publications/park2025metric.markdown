@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: park2025metric
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17137"}
-  - {name: "Code", url: "https://github.com/nlpai-lab/MIRAGE"}
-tags: ['RAG', 'Security', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17137'}
+  - {name: "Code", url: 'https://github.com/nlpai-lab/MIRAGE'}
+tags: ['RAG', 'Has Code', 'Security', 'Applications']
 ---
 Retrieval-Augmented Generation (RAG) has gained prominence as an effective
 method for enhancing the generative capabilities of Large Language Models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ke2022hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.12139"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.12139'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 Knowledge tracing (KT) aims to leverage students' learning histories to
 estimate their mastery levels on a set of pre-defined skills, based on which

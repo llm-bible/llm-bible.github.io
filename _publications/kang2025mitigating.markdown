@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kang2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16449"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16449'}
 tags: ['Survey Paper']
 ---
 The uncanny valley effect poses a significant challenge in the development

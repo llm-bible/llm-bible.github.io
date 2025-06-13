@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: plüster2022harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.04231"}
-tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.04231'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Natural language explanations promise to offer intuitively understandable
 explanations of a neural network's decision process in complex vision-language

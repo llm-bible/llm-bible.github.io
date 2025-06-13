@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05079"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05079'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 The inference of Large language models (LLMs) requires immense computation
 and memory resources. To curtail these costs, quantisation has merged as a

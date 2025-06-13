@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dunivin2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15170"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15170'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Qualitative coding, or content analysis, extracts meaning from text to

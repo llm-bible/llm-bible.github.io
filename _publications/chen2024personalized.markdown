@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04070"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04070'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Aligning with personalized preferences, which vary significantly across
 cultural, educational, and political differences, poses a significant challenge

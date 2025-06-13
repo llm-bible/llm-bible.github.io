@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024concept
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07992"}
-  - {name: "Code", url: "https://github.com/Trustworthy-ML-Lab/CB-LLMs"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07992'}
+  - {name: "Code", url: 'https://github.com/Trustworthy-ML-Lab/CB-LLMs'}
+tags: ['Has Code', 'Language Modeling', 'Interpretability and Explainability', 'Applications', 'Tools', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 We introduce Concept Bottleneck Large Language Models (CB-LLMs), a novel
 framework for building inherently interpretable Large Language Models (LLMs).

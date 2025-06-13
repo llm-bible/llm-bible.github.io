@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02214"}
-  - {name: "Code", url: "https://github.com/Efficient-ML/Qwen3-Quantization"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02214'}
+  - {name: "Code", url: 'https://github.com/Efficient-ML/Qwen3-Quantization'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Quantization', 'Reinforcement Learning']
 ---
 The Qwen series has emerged as a leading family of open-source Large Language
 Models (LLMs), demonstrating remarkable capabilities in natural language

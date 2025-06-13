@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025tic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02107"}
-tags: ['Training Techniques', 'GPT', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02107'}
+tags: ['GPT', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) trained on historical web data inevitably become
 outdated. We investigate evaluation strategies and update methods for LLMs as

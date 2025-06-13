@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023r
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09677"}
-  - {name: "Code", url: "https://github.com/shizhediao/R-Tuning"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09677'}
+  - {name: "Code", url: 'https://github.com/shizhediao/R-Tuning'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) have revolutionized numerous domains with their

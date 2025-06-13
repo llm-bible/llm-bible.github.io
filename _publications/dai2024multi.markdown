@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04693"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04693'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, prompt learning has garnered considerable attention for its success
 in various Vision-Language (VL) tasks. However, existing prompt-based models

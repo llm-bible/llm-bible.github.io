@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: højer2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19483"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19483'}
 tags: ['Training Techniques']
 ---
 Recent advancements in large language models (LLMs) have resulted in

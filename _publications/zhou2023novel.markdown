@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18620"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18620'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce CONA, a novel context-aware instruction paradigm for effective
 knowledge dissemination using generative pre-trained transformer (GPT) models.

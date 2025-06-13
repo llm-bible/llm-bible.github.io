@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gambardella2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02356"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02356'}
 tags: ['RAG']
 ---
 The ability (and inability) of large language models (LLMs) to perform

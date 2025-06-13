@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gou2024eyes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09572"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09572'}
+tags: ['Security', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Responsible AI']
 ---
 Multimodal large language models (MLLMs) have shown impressive reasoning
 abilities. However, they are also more vulnerable to jailbreak attacks than

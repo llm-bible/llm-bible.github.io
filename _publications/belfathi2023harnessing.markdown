@@ -6,8 +6,8 @@ conference: "JURIX 2023 - The 36th International Conference on Legal Knowledge a
 year: 2023
 bibkey: belfathi2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17413"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17413'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 We propose a comprehensive study of one-stage elicitation techniques for
 querying a large pre-trained generative transformer (GPT-3.5-turbo) in the

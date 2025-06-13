@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: garousi2025why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18858"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18858'}
 tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Context: ChatGPT and other large language models (LLMs) are widely used

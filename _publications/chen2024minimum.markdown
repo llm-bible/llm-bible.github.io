@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024minimum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10210"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10210'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 As large language models rapidly evolve to support longer context, there is a
 notable disparity in their capability to generate output at greater lengths.

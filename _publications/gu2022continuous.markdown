@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: gu2022continuous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.01765"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.01765'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While Transformers have had significant success in paragraph generation, they
 treat sentences as linear sequences of tokens and often neglect their

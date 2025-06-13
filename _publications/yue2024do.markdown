@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19509"}
-  - {name: "Code", url: "https://github.com/sjtu-compling/llm-pragmatics"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19509'}
+  - {name: "Code", url: 'https://github.com/sjtu-compling/llm-pragmatics'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture']
 ---
 Understanding the non-literal meaning of an utterance is critical for large
 language models (LLMs) to become human-like social communicators. In this work,

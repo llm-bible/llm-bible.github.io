@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024weak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13578"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13578'}
+tags: ['Tools', 'Responsible AI', 'Training Techniques']
 ---
 Ensuring large language models (LLM) behave consistently with human goals,
 values, and intentions is crucial for their safety but yet computationally

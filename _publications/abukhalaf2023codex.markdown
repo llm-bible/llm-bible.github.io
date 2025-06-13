@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: abukhalaf2023codex
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.16244"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.16244'}
 tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 The Object Constraint Language (OCL) is a declarative language that adds

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yue2025think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16516"}
-tags: ['Agentic', 'RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16516'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 Vision-and-Language Navigation (VLN) aims to enable embodied agents to follow
 natural language instructions and reach target locations in real-world

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saidov2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04522"}
-tags: ['Tools', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04522'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The evaluation of Natural Language Generation (NLG) models has gained
 increased attention, urging the development of metrics that evaluate various

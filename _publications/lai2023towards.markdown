@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13594"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13594'}
 tags: ['Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 Natural language explanation in visual question answer (VQA-NLE) aims to

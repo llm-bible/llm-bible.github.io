@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: taherkhani2024cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11198"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11198'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have seen increasing use in various software

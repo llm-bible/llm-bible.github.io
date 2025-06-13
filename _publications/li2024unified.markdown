@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16781"}
-tags: ['Tools', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16781'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Tools']
 ---
 Human pose plays a crucial role in the digital age. While recent works have
 achieved impressive progress in understanding and generating human poses, they

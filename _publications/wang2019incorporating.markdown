@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: wang2019incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.04577"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.04577'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pre-Training']
 ---
 Recently, the pre-trained language model, BERT (and its robustly optimized
 version RoBERTa), has attracted a lot of attention in natural language

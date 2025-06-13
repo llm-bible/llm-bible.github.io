@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lavrinovics2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14258"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14258'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have revolutionized Natural Language Processing

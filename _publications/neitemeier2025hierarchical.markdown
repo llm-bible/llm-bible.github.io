@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: neitemeier2025hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10322"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10322'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
 ---
 Tokenization is a fundamental step in natural language processing, breaking
 text into units that computational models can process. While learned subword

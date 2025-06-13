@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04065"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04065'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Retrieval-Augmented Language Modeling (RALM) by integrating large language
 models (LLM) with relevant documents from an external corpus is a proven method

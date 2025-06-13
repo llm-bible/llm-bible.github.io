@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: singhania2024recall
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02732"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02732'}
 tags: ['RAG']
 ---
 Methods for relation extraction from text mostly focus on high precision, at

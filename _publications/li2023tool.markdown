@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023tool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01045"}
-  - {name: "Code", url: "https://github.com/ernie-research/Tool-Augmented-Reward-Model"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01045'}
+  - {name: "Code", url: 'https://github.com/ernie-research/Tool-Augmented-Reward-Model'}
+tags: ['Agentic', 'Has Code', 'RAG', 'GPT', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reward modeling (a.k.a., preference modeling) is instrumental for aligning
 large language models with human preferences, particularly within the context

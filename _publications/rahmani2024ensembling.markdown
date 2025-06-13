@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rahmani2024ensembling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13268"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13268'}
+tags: ['RAG', 'GPT', 'Tools', 'Training Techniques', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 The effective training and evaluation of retrieval systems require a
 substantial amount of relevance judgments, which are traditionally collected

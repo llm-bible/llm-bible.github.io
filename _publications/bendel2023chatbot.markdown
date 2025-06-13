@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bendel2023chatbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14741"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14741'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 Dead, extinct, and endangered languages have been preserved primarily through

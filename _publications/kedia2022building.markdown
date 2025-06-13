@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kedia2022building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.10147"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.10147'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Merging', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative models have recently started to outperform extractive models in
 Open Domain Question Answering, largely by leveraging their decoder to attend

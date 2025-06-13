@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025mutual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12913"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12913'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Instruction tuning has enabled large language models (LLMs) to achieve
 remarkable performance, but its success heavily depends on the availability of

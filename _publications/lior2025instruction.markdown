@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lior2025instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06573"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06573'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Recent LLMs have shown remarkable success in following user instructions, yet
 handling instructions with multiple constraints remains a significant

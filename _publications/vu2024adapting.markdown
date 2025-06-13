@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vu2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16882"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16882'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Artificial intelligence-based language generators are now a part of most
 people's lives. However, by default, they tend to generate "average" language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: prabhakar2025domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17604"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17604'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable potential in
 advancing scientific knowledge and addressing complex challenges. In this work,

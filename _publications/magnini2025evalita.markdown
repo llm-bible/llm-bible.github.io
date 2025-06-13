@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: magnini2025evalita
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02289"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02289'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 We describe Evalita-LLM, a new benchmark designed to evaluate Large Language
 Models (LLMs) on Italian tasks. The distinguishing and innovative features of

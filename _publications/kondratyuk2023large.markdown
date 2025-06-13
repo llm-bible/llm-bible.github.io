@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kondratyuk2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14125"}
-  - {name: "Code", url: "http://sites.research.google/videopoet/"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14125'}
+  - {name: "Code", url: 'http://sites.research.google/videopoet/'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Multimodal Models', 'Pretraining Methods']
 ---
 We present VideoPoet, a language model capable of synthesizing high-quality
 video, with matching audio, from a large variety of conditioning signals.

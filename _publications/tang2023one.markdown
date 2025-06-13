@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tang2023one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14304"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14304'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 Sequential recommendation systems aim to predict users' next likely
 interaction based on their history. However, these systems face data sparsity

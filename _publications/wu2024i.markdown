@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14767"}
-  - {name: "Code", url: "https://github.com/appier-research/i-need-help"}
-tags: ['Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14767'}
+  - {name: "Code", url: 'https://github.com/appier-research/i-need-help'}
+tags: ['Reinforcement Learning', 'Has Code']
 ---
 This study explores the proactive ability of LLMs to seek user support. We
 propose metrics to evaluate the trade-off between performance improvements and

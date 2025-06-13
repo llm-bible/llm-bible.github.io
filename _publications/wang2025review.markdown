@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025review
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11486"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11486'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 DeepSeek-V3 and DeepSeek-R1 are leading open-source Large Language Models
 (LLMs) for general-purpose tasks and reasoning, achieving performance

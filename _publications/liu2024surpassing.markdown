@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024surpassing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10225"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10225'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 In this work, we introduce ChatQA, a suite of models that outperform GPT-4 on
 retrieval-augmented generation (RAG) and conversational question answering

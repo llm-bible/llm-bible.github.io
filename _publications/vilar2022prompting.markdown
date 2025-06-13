@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: vilar2022prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.09102"}
-tags: ['Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.09102'}
+tags: ['Few-Shot', 'Applications', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs) that have been trained on multilingual but not
 parallel text exhibit a remarkable ability to translate between languages. We

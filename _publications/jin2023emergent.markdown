@@ -6,9 +6,9 @@ conference: "PMLR 23522160-22184 2024"
 year: 2023
 bibkey: jin2023emergent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11169"}
-  - {name: "Code", url: "https://github.com/charlesjin/emergent-semantics"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11169'}
+  - {name: "Code", url: 'https://github.com/charlesjin/emergent-semantics'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We present evidence that language models (LMs) of code can learn to represent
 the formal semantics of programs, despite being trained only to perform

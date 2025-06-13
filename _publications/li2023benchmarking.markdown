@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01846"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01846'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 As of September 2023, ChatGPT correctly answers "what is 7+8" with 15, but
 when asked "7+8=15, True or False" it responds with "False". This inconsistency

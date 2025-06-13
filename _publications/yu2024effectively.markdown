@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024effectively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07056"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07056'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 The advent of pre-trained large language models (LLMs) has revolutionized
 various natural language processing tasks. These models predominantly employ an

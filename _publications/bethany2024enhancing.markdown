@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bethany2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00209"}
-tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00209'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Event detection and text reasoning have become critical applications across
 various domains. While LLMs have recently demonstrated impressive progress in

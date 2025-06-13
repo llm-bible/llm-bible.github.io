@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023alleviating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.17911v3"}
-  - {name: "Code", url: "https://github.com/shikiw/OPERA"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.17911v3'}
+  - {name: "Code", url: 'https://github.com/shikiw/OPERA'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Hallucination, posed as a pervasive challenge of multi-modal large language
 models (MLLMs), has significantly impeded their real-world usage that demands

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024concept
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12040"}
-tags: ['Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12040'}
+tags: ['Prompting', 'Security']
 ---
 While Large Language Models (LLMs) have showcased remarkable proficiency in
 reasoning, there is still a concern about hallucinations and unreliable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: huang2021dependency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.06370"}
-tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.06370'}
+tags: ['Masked Language Model', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Prompting', 'Pretraining Methods']
 ---
 Given the fact of a case, Legal Judgment Prediction (LJP) involves a series
 of sub-tasks such as predicting violated law articles, charges and term of

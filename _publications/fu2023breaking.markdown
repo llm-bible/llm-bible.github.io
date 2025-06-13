@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06054"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06054'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning, i.e., learning from context examples, is an impressive
 ability of Transformer. Training Transformers to possess this in-context

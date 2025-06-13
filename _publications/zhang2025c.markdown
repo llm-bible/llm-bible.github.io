@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025c
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10167"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10167'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Prompting', 'Tools']
 ---
 Despite the rapid advancement of large language models, they remain highly

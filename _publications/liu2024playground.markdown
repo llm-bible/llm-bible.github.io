@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024playground
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10695"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10695'}
 tags: ['RAG', 'Prompting', 'Applications', 'Merging']
 ---
 We introduce Playground v3 (PGv3), our latest text-to-image model that

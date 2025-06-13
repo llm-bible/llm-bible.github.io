@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024fostering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15350"}
-  - {name: "Code", url: "https://PAIR-code.github.io/farsight"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15350'}
+  - {name: "Code", url: 'https://PAIR-code.github.io/farsight'}
+tags: ['Has Code', 'RAG', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Prompt-based interfaces for Large Language Models (LLMs) have made
 prototyping and building AI-powered applications easier than ever before.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: held2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11747"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11747'}
+tags: ['Training Techniques', 'RAG', 'Tools', 'Pretraining Methods']
 ---
 Large Language Models improve with increasing amounts of high-quality
 training data. However, leveraging larger datasets requires balancing quality,

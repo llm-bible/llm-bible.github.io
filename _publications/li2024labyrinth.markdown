@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024labyrinth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01417"}
-  - {name: "Code", url: "https://mvig-rhos.com/llm_inception"}
-tags: ['GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01417'}
+  - {name: "Code", url: 'https://mvig-rhos.com/llm_inception'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 Multi-modal Large Language Models (MLLMs) have exhibited impressive
 capability. However, recently many deficiencies of MLLMs have been found

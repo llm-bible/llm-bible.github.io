@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sengupta2025you
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15296"}
-tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Security', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15296'}
+tags: ['Efficiency and Optimization', 'Security', 'Model Architecture', 'Quantization', 'Pruning', 'Reinforcement Learning']
 ---
 The ever-increasing size of large language models (LLMs) presents significant
 challenges for deployment due to their heavy computational and memory

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: rezaei2022super
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.11922"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.11922'}
+tags: ['Transformer', 'Few-Shot', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'In-Context Learning', 'Pretraining Methods']
 ---
 Pre-trained language models have shown excellent results in few-shot learning
 scenarios using in-context learning. Although it is impressive, the size of

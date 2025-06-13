@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jia2024global
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14502"}
-tags: ['Responsible AI', 'Security', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14502'}
+tags: ['Security', 'Responsible AI', 'Tools']
 ---
 This paper introduces the Global Challenge for Safe and Secure Large Language
 Models (LLMs), a pioneering initiative organized by AI Singapore (AISG) and the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: balmau2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08467"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08467'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Model Architecture']
 ---
 Mixture of experts (MoE) models achieve state-of-the-art results in language
 modeling but suffer from inefficient hardware utilization due to imbalanced

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chua2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08156"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08156'}
+tags: ['Agentic', 'Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Language models trained to solve reasoning tasks via reinforcement learning
 have achieved striking results. We refer to these models as reasoning models. A

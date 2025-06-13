@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zellers2020generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.03607"}
-tags: ['Training Techniques', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.03607'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 We propose TuringAdvice, a new challenge task and dataset for language
 understanding models. Given a written situation that a real person is currently

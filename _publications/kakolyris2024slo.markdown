@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kakolyris2024slo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05235"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05235'}
+tags: ['RAG', 'Efficiency and Optimization', 'Tools']
 ---
 As Large Language Models (LLMs) gain traction, their reliance on power-hungry
 GPUs places ever-increasing energy demands, raising environmental and monetary

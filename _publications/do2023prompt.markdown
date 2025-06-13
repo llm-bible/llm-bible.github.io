@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: do2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02614"}
-tags: ['Efficiency and Optimization', 'Applications', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02614'}
+tags: ['Efficiency and Optimization', 'Security', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 We propose a new method, Adversarial In-Context Learning (adv-ICL), to
 optimize prompt for in-context learning (ICL) by employing one LLM as a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15825"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15825'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) encode extensive world knowledge through
 pre-training on massive datasets, which can then be fine-tuned for the

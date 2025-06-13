@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: raimondi2025affordably
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05891"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05891'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 In education, the capability of generating human-like text of Large Language
 Models (LLMs) inspired work on how they can increase the efficiency of learning

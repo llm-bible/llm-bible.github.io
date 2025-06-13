@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15734"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15734'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 The efficient compression of large language models (LLMs) has become
 increasingly popular. However, recovering the performance of compressed LLMs

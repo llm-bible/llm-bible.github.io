@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.04487"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.04487'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Query-focused meeting summarization (QFMS) aims to generate summaries from
 meeting transcripts in response to a given query. Previous works typically

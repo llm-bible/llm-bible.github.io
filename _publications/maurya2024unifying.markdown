@@ -6,7 +6,7 @@ conference: "NAACL 2025"
 year: 2024
 bibkey: maurya2024unifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09416"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09416'}
 tags: ['Merging']
 ---
 In this paper, we investigate whether current state-of-the-art large language

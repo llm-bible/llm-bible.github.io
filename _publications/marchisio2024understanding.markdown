@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: marchisio2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.20052"}
-  - {name: "Code", url: "https://github.com/for-ai/language-confusion"}
-tags: ['Fine-Tuning', 'Applications', 'Merging', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.20052'}
+  - {name: "Code", url: 'https://github.com/for-ai/language-confusion'}
+tags: ['Has Code', 'Few-Shot', 'Applications', 'Merging', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 We investigate a surprising limitation of LLMs: their inability to
 consistently generate text in a user's desired language. We create the Language

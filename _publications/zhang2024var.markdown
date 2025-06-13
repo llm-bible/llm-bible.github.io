@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024var
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01181"}
-  - {name: "Code", url: "https://github.com/daixiangzi/VAR-CLIP"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01181'}
+  - {name: "Code", url: 'https://github.com/daixiangzi/VAR-CLIP'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 VAR is a new generation paradigm that employs 'next-scale prediction' as
 opposed to 'next-token prediction'. This innovative transformation enables

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: gao2018question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.02632"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.02632'}
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 In this paper, we propose a novel Question-Guided Hybrid Convolution (QGHC)
 network for Visual Question Answering (VQA). Most state-of-the-art VQA methods

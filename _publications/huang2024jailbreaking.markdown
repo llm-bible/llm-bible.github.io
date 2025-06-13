@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13662"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13662'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recently, Large Language Models (LLMs) have garnered significant attention
 for their exceptional natural language processing capabilities. However,

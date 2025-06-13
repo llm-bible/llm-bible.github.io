@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17593"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17593'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Leveraging Large Language Models (LLMs) to harness user-item interaction
 histories for item generation has emerged as a promising paradigm in generative

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shnitzer2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15789"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15789'}
 tags: ['Tools', 'Applications']
 ---
 There is a rapidly growing number of open-source Large Language Models (LLMs)

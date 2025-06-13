@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: marina2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04253"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04253'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Large Language Models~(LLMs) are prone to hallucinations, and

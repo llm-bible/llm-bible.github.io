@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kojima2025lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02069"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02069'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Multimodal Models']
 ---
 The rapid advancements in vision-language models (VLMs), such as CLIP, have
 intensified the need to address distribution shifts between training and

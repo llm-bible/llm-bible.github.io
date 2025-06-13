@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10714"}
-  - {name: "Code", url: "https://github.com/SusCom-Lab/ZSMerge"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10714'}
+  - {name: "Code", url: 'https://github.com/SusCom-Lab/ZSMerge'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pruning']
 ---
 The linear growth of key-value (KV) cache memory and quadratic computational
 in attention mechanisms complexity pose significant bottlenecks for large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025redefining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07901"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07901'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 The globalization of social interactions has heightened the need for machine
 translation (MT) on Social Network Services (SNS), yet traditional models

@@ -6,8 +6,8 @@ conference: "Proceedings of the ACM on Human-Computer Interaction 2024 Volume 8 
 year: 2023
 bibkey: wei2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.05843"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.05843'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Large language models (LLMs) provide a new way to build chatbots by accepting
 natural language prompts. Yet, it is unclear how to design prompts to power

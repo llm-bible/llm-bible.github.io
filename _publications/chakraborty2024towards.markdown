@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chakraborty2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01787"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01787'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Proof-oriented programs mix computational content with proofs of program

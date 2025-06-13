@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023glm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.14401"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.14401'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 We present GLM-Dialog, a large-scale language model (LLM) with 10B parameters
 capable of knowledge-grounded conversation in Chinese using a search engine to

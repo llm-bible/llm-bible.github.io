@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17075"}
-  - {name: "Code", url: "https://github.com/GAIR-NLP/Safety-J"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17075'}
+  - {name: "Code", url: 'https://github.com/GAIR-NLP/Safety-J'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 The deployment of Large Language Models (LLMs) in content generation raises
 significant safety concerns, particularly regarding the transparency and

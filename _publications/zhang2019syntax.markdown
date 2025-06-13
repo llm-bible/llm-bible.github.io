@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhang2019syntax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.02878"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.02878'}
 tags: ['Applications']
 ---
 Syntax has been demonstrated highly effective in neural machine translation

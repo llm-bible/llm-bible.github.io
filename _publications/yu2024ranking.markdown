@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024ranking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06760"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06760'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Recent advances in vision-language models (VLMs) have made significant
 progress in downstream tasks that require quantitative concepts such as facial

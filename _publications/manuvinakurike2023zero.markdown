@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: manuvinakurike2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18041"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18041'}
 tags: ['Prompting', 'Applications']
 ---
 Large Language Models (LLMs) exhibit powerful summarization abilities.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: koyuturk2023developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10645"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10645'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 Educational chatbots come with a promise of interactive and personalized
 learning experiences, yet their development has been limited by the restricted

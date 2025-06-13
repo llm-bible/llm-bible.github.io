@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025revisit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12793"}
-tags: ['Fine-Tuning', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12793'}
+tags: ['RAG', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) have shown significant advancements in code
 generation, but still face challenges on tasks beyond their basic capabilities.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiao2025progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06269"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06269'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the recent surge in interest surrounding generative paradigms,
 generative recommendation has increasingly attracted the attention of

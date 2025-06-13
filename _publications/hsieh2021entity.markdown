@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: hsieh2021entity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.09548"}
-  - {name: "Code", url: "https://github.com/LARC-CMU-SMU/Enconter"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.09548'}
+  - {name: "Code", url: 'https://github.com/LARC-CMU-SMU/Enconter'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pretrained using large amount of data, autoregressive language models are
 able to generate high quality sequences. However, these models do not perform

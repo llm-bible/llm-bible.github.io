@@ -6,11 +6,11 @@ conference: "Arxiv"
 year: 2022
 bibkey: kocetkov2022tb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.15533"}
-  - {name: "Code", url: "https://hf.co/BigCode,"}
-  - {name: "Code", url: "https://hf.co/spaces/bigcode/in-the-stack)"}
-  - {name: "Code", url: "https://www.bigcode-project.org/docs/about/the-stack/"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.15533'}
+  - {name: "Code", url: 'https://hf.co/BigCode,'}
+  - {name: "Code", url: 'https://hf.co/spaces/bigcode/in-the-stack)'}
+  - {name: "Code", url: 'https://www.bigcode-project.org/docs/about/the-stack/'}
+tags: ['Has Code', 'Training Techniques']
 ---
 Large Language Models (LLMs) play an ever-increasing role in the field of
 Artificial Intelligence (AI)--not only for natural language processing but also

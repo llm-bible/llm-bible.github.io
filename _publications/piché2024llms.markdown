@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: piché2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13022"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13022'}
 tags: ['RAG', 'Prompting']
 ---
 In order to be deployed safely, Large Language Models (LLMs) must be capable

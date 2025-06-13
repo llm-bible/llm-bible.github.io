@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: mehta2022updating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09744"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09744'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Differentiable Search Indices (DSIs) encode a corpus of documents in model
 parameters and use the same model to answer user queries directly. Despite the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10684"}
-tags: ['RAG', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10684'}
+tags: ['Ethics and Bias', 'RAG']
 ---
 Retrieval-augmented generation (RAG) has emerged as a popular approach to
 steering the output of a large language model (LLM) by incorporating retrieved

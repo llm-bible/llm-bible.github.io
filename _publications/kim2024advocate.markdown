@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024advocate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09935"}
-tags: ['Agentic', 'Ethics and Bias', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09935'}
+tags: ['Ethics and Bias', 'Agentic', 'Tools']
 ---
 As natural language generation (NLG) models have become prevalent,
 systematically assessing the quality of machine-generated texts has become

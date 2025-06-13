@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08846"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'TACL', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08846'}
+tags: ['ACL', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Pre-Training', 'TACL', 'Pretraining Methods']
 ---
 Self-supervised Multi-modal Contrastive Learning (SMCL) remarkably advances
 modern Vision-Language Pre-training (VLP) models by aligning visual and

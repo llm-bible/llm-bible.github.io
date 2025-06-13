@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025diversified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11027"}
-tags: ['Training Techniques', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11027'}
+tags: ['Prompting', 'Applications', 'Training Techniques']
 ---
 While increasing training compute has significantly improved the performance
 of large language models (LLMs), similar gains have not been observed when

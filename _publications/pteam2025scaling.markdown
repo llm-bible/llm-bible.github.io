@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: pteam2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14739"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14739'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in

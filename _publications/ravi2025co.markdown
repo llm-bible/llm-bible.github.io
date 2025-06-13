@@ -6,8 +6,8 @@ conference: "CHI Conference on Human Factors in Computing Systems (CHI 25) April
 year: 2025
 bibkey: ravi2025co
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09799"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09799'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 The emergence of generative AI, particularly large language models (LLMs),
 has opened the door for student-centered and active learning methods like

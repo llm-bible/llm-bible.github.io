@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hosseini2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01748"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01748'}
 tags: ['Fine-Tuning', 'Applications']
 ---
 We study the depth of grade-school math (GSM) problem-solving capabilities of

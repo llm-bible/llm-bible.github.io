@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sato2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15132"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15132'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Decoder-based large language models (LLMs) have shown high performance on
 many tasks in natural language processing. This is also true for sentence

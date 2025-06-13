@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.08848"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.08848'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) such as GPT-3 and GPT-4 are powerful but their
 weights are often publicly unavailable and their immense sizes make the models

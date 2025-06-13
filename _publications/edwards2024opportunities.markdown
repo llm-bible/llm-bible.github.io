@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: edwards2024opportunities
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00414"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00414'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Computing educators and researchers have used programming process data to
 understand how programs are constructed and what sorts of problems students

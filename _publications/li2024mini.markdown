@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024mini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18814"}
-  - {name: "Code", url: "https://github.com/dvlab-research/MiniGemini"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18814'}
+  - {name: "Code", url: 'https://github.com/dvlab-research/MiniGemini'}
+tags: ['Has Code', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this work, we introduce Mini-Gemini, a simple and effective framework
 enhancing multi-modality Vision Language Models (VLMs). Despite the

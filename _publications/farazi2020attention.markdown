@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: farazi2020attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.01725"}
-tags: ['Applications', 'Model Architecture', 'ACL', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.01725'}
+tags: ['Attention Mechanism', 'ACL', 'Model Architecture', 'Applications', 'Multimodal Models']
 ---
 Humans explain inter-object relationships with semantic labels that
 demonstrate a high-level understanding required to perform complex

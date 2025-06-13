@@ -6,8 +6,8 @@ conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVP
 year: 2024
 bibkey: favero2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14003"}
-tags: ['Efficiency and Optimization', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14003'}
+tags: ['Efficiency and Optimization', 'GPT', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative Vision-Language Models (VLMs) are prone to generate
 plausible-sounding textual answers that, however, are not always grounded in

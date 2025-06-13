@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yan2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11684"}
-tags: ['Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11684'}
+tags: ['Tools', 'Training Techniques']
 ---
 Mathematical reasoning represents a critical frontier in advancing large
 language models (LLMs). While step-by-step approaches have emerged as the

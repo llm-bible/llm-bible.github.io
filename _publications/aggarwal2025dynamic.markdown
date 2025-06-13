@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: aggarwal2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14269"}
-tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14269'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Tools']
 ---
 Large Language Models (LLMs) have revolutionized various domains, including
 natural language processing, data analysis, and software development, by

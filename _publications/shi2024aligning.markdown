@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15549"}
-tags: ['RAG', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15549'}
+tags: ['Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Tools']
 ---
 As large language models (LLMs) continue to advance, aligning these models
 with human preferences has emerged as a critical challenge. Traditional

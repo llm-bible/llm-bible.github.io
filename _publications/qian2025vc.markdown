@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qian2025vc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05673"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05673'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Pre-Training', 'Pretraining Methods']
 ---
 As short videos have risen in popularity, the role of video content in
 advertising has become increasingly significant. Typically, advertisers record

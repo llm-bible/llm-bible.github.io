@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: seifi2025personalization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02452"}
-tags: ['RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02452'}
+tags: ['RAG', 'Prompting', 'Training Techniques']
 ---
 Large Vision Language Models (LVLMs) have significant potential to provide
 personalized assistance by adapting to the unique needs and preferences of

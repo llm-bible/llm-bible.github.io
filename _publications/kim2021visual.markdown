@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: kim2021visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.08978"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.08978'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Visual question answering requires a deep understanding of both images and

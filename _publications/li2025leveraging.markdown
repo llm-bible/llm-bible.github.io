@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17087"}
-tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17087'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) are being widely applied across various fields,
 but as tasks become more complex, evaluating their responses is increasingly

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kenny2024regulation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12169"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12169'}
 tags: ['Interpretability and Explainability']
 ---
 Regulation is increasingly cited as the most important and pressing concern

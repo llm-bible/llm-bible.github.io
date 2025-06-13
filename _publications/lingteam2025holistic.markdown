@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lingteam2025holistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07158"}
-  - {name: "Code", url: "https://huggingface.co/inclusionAI"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07158'}
+  - {name: "Code", url: 'https://huggingface.co/inclusionAI'}
+tags: ['Training Techniques', 'RAG', 'Has Code', 'Model Architecture']
 ---
 This technical report presents Ring-Lite-Distill, a lightweight reasoning
 model derived from our open-source Mixture-of-Experts (MoE) Large Language

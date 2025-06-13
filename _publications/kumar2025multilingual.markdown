@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kumar2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04377"}
-tags: ['Responsible AI', 'Training Techniques', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04377'}
+tags: ['Applications', 'Prompting', 'Responsible AI', 'Training Techniques']
 ---
 Truly multilingual safety moderation efforts for Large Language Models (LLMs)
 have been hindered by a narrow focus on a small set of languages (e.g.,

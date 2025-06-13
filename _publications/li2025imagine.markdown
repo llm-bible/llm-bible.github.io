@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025imagine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07542"}
-tags: ['GPT', 'Multimodal Models', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07542'}
+tags: ['Prompting', 'Multimodal Models', 'GPT', 'Pretraining Methods']
 ---
 Chain-of-Thought (CoT) prompting has proven highly effective for enhancing
 complex reasoning in Large Language Models (LLMs) and Multimodal Large Language

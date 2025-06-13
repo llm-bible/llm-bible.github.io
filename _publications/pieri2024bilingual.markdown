@@ -6,8 +6,8 @@ conference: "Findings of the Association for Computational Linguistics EMNLP 202
 year: 2024
 bibkey: pieri2024bilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13253"}
-  - {name: "Code", url: "https://github.com/mbzuai-oryx/BiMediX"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13253'}
+  - {name: "Code", url: 'https://github.com/mbzuai-oryx/BiMediX'}
 tags: ['RAG', 'Has Code', 'Applications']
 ---
 In this paper, we introduce BiMediX, the first bilingual medical mixture of

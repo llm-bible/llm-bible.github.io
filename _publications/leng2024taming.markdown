@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leng2024taming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09724"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09724'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Language model calibration refers to the alignment between the confidence of
 the model and the actual performance of its responses. While previous studies

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023kv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07240"}
-  - {name: "Code", url: "https://github.com/UChi-JCL/CacheGen"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07240'}
+  - {name: "Code", url: 'https://github.com/UChi-JCL/CacheGen'}
 tags: ['RAG', 'Has Code']
 ---
 As large language models (LLMs) take on complex tasks, their inputs are

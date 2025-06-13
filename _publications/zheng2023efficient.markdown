@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07104"}
-  - {name: "Code", url: "https://github.com/sgl-project/sglang"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07104'}
+  - {name: "Code", url: 'https://github.com/sgl-project/sglang'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) are increasingly used for complex tasks that
 require multiple generation calls, advanced prompting techniques, control flow,

@@ -6,9 +6,9 @@ conference: "ICLR 2025"
 year: 2024
 bibkey: manivannan2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16701"}
-  - {name: "Code", url: "https://github.com/Rose-STL-Lab/genie-climaqa"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16701'}
+  - {name: "Code", url: 'https://github.com/Rose-STL-Lab/genie-climaqa'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Applications', 'Tools']
 ---
 The use of Large Language Models (LLMs) in climate science has recently
 gained significant attention. However, a critical issue remains: the lack of a

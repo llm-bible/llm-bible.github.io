@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09098"}
-  - {name: "Code", url: "https://scimind.ai/sciknoweval"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09098'}
+  - {name: "Code", url: 'https://scimind.ai/sciknoweval'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have gained increasing prominence in scientific
 research, but there is a lack of comprehensive benchmarks to fully evaluate

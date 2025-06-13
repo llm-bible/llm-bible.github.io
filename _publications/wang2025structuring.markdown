@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025structuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04016"}
-tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04016'}
+tags: ['Agentic', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Structured outputs are essential for large language models (LLMs) in critical
 applications like agents and information extraction. Despite their

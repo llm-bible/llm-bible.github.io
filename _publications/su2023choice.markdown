@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: su2023choice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13013"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13013'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications']
 ---
 With the demanding need for deploying dialogue systems in new domains with
 less cost, zero-shot dialogue state tracking (DST), which tracks user's

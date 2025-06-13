@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuang2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16671"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16671'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Structured data sources, such as tables, graphs, and databases, are

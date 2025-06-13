@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ge2023making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01218"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01218'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The great success of Large Language Models (LLMs) has expanded the potential
 of multimodality, contributing to the gradual evolution of General Artificial

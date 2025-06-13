@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024theoretical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12569"}
-tags: ['Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12569'}
+tags: ['Reinforcement Learning', 'Model Architecture']
 ---
 Massive Over-activation Yielded Uplifts(MOYU) is an inherent property of
 large language models, and dynamic activation(DA) based on the MOYU property is

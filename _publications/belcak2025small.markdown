@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: belcak2025small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2506.02153"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2506.02153'}
 tags: ['Agentic', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) are often praised for exhibiting near-human performance on a wide range of tasks and valued for their ability to hold a general conversation. The rise of agentic AI systems is, however, ushering in a mass of applications in which language models perform a small number of specialized tasks repetitively and with little variation.

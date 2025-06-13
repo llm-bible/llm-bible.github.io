@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: friel2023high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18344"}
-tags: ['Interpretability', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18344'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Prompting']
 ---
 Large language models (LLMs) have experienced notable advancements in
 generating coherent and contextually relevant responses. However,

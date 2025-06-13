@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: chen2020predict
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.13982"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.13982'}
 tags: ['Uncategorized']
 ---
 Many neural network models nowadays have achieved promising performances in

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13335"}
-  - {name: "Code", url: "https://github.com/McGill-DMaS/DMaS-LLaMa-Lite-Training-Code"}
-  - {name: "Code", url: "https://huggingface.co/collections/McGill-DMaS/dmas-llama-lite-6761d97ba903f82341954ceb"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13335'}
+  - {name: "Code", url: 'https://github.com/McGill-DMaS/DMaS-LLaMa-Lite-Training-Code'}
+  - {name: "Code", url: 'https://huggingface.co/collections/McGill-DMaS/dmas-llama-lite-6761d97ba903f82341954ceb'}
 tags: ['Training Techniques', 'Has Code', 'Model Architecture', 'Pretraining Methods']
 ---
 Pretraining large language models is a complex endeavor influenced by

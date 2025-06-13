@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: wolf2019state
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.03771"}
-  - {name: "Code", url: "https://github.com/huggingface/transformers"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.03771'}
+  - {name: "Code", url: 'https://github.com/huggingface/transformers'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent progress in natural language processing has been driven by advances in
 both model architecture and model pretraining. Transformer architectures have

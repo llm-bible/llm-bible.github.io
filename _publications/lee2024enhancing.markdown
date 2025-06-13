@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04496"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04496'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 To increase social bonding with interlocutors, humans naturally acquire the
 ability to respond appropriately in a given situation by considering which

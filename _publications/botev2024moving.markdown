@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: botev2024moving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07839"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07839'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce RecurrentGemma, a family of open language models which uses
 Google's novel Griffin architecture. Griffin combines linear recurrences with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: aflalo2022vl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.17247"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.17247'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 Breakthroughs in transformer-based models have revolutionized not only the
 NLP field, but also vision and multimodal systems. However, although

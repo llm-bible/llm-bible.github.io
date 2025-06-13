@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhou2019using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.02709"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.02709'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 We demonstrate a new approach to Neural Machine Translation (NMT) for
 low-resource languages using a ubiquitous linguistic resource, Interlinear

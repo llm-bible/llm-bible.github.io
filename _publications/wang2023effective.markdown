@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01415"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01415'}
 tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 At the beginning era of large language model, it is quite critical to

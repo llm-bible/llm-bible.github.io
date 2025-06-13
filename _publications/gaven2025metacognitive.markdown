@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gaven2025metacognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07709"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07709'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Open-ended learning agents must efficiently prioritize goals in vast
 possibility spaces, focusing on those that maximize learning progress (LP).

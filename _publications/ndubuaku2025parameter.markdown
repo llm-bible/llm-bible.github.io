@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ndubuaku2025parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02266"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02266'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Embedding layers in transformer-based NLP models typically account for the

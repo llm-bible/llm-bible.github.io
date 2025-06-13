@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kabongo2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10141"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10141'}
 tags: ['Uncategorized']
 ---
 This study demonstrates the application of instruction finetuning of

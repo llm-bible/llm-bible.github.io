@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zyrianova2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.08433"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.08433'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 When training and evaluating machine reading comprehension models, it is very
 important to work with high-quality datasets that are also representative of

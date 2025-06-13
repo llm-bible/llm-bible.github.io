@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03600"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03600'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications']
 ---
 The integration of generative Large Language Models (LLMs) into various
 applications, including the legal domain, has been accelerated by their

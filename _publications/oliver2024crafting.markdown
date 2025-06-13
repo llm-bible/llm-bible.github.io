@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: oliver2024crafting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13906"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13906'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper addresses the challenges of efficiently fine-tuning large language
 models (LLMs) by exploring data efficiency and hyperparameter optimization. We

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024re
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05794"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05794'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Applications', 'Tools']
 ---
 The Retrieval Augmented Generation (RAG) framework utilizes a combination of
 parametric knowledge and external knowledge to demonstrate state-of-the-art

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: carragher2025quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13836"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13836'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models']
 ---
 Large Language Models (LLMs) demonstrate remarkable capabilities in question
 answering (QA), but metrics for assessing their reliance on memorization versus

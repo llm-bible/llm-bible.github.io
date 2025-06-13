@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025trillion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15431"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15431'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 We introduce Trillion-7B, the most token-efficient Korean-centric
 multilingual LLM available. Our novel Cross-lingual Document Attention (XLDA)

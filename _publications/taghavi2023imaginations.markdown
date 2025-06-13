@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: taghavi2023imaginations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10354"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10354'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 In this paper, we introduce a novel Artificial Intelligence (AI) system
 inspired by the philosophical and psychoanalytical concept of imagination as a

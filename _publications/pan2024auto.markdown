@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01926"}
-  - {name: "Code", url: "https://github.com/DCDmllm/MorphTokens"}
-tags: ['Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01926'}
+  - {name: "Code", url: 'https://github.com/DCDmllm/MorphTokens'}
+tags: ['Prompting', 'Has Code', 'Multimodal Models']
 ---
 For multimodal LLMs, the synergy of visual comprehension (textual output) and
 generation (visual output) presents an ongoing challenge. This is due to a

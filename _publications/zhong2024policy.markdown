@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024policy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07876"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07876'}
 tags: ['Reinforcement Learning']
 ---
 We introduce Language Feedback Models (LFMs) that identify desirable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hong2023conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05590"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05590'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Generative Large Language Models (LLMs) show potential in data analysis, yet
 their full capabilities remain uncharted. Our work explores the capabilities of

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: nachmani2023spoken
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15255"}
-  - {name: "Code", url: "https://michelleramanovich.github.io/spectron/spectron)"}
-  - {name: "Code", url: "https://github.com/google-research-datasets/LLAMA1-Test-Set)"}
-tags: ['INTERSPEECH', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15255'}
+  - {name: "Code", url: 'https://michelleramanovich.github.io/spectron/spectron)'}
+  - {name: "Code", url: 'https://github.com/google-research-datasets/LLAMA1-Test-Set)'}
+tags: ['Has Code', 'INTERSPEECH', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 We present Spectron, a novel approach to adapting pre-trained large language
 models (LLMs) to perform spoken question answering (QA) and speech

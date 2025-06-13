@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16694"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16694'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Pre-Training']
 ---
 Large Language Models (LLMs) have shown superior performance in various
 applications and fields. To achieve better performance on specialized domains

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: escolano2020training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.01594"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.01594'}
 tags: ['Training Techniques', 'Applications', 'Model Architecture']
 ---
 We propose a modular architecture of language-specific encoder-decoders that

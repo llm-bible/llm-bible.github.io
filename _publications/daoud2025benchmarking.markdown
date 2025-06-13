@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: daoud2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03427"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03427'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have demonstrated significant promise for
 various applications in healthcare. However, their efficacy in the Arabic

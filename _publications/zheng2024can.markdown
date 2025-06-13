@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08526"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08526'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved remarkable success across various
 tasks, yet their ability to learn incrementally without forgetting remains

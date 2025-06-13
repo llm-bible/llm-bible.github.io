@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: farinhas2023empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11430"}
-tags: ['Survey Paper', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11430'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Survey Paper']
 ---
 Large language models (LLMs) are becoming a one-fits-many solution, but they
 sometimes hallucinate or produce unreliable output. In this paper, we

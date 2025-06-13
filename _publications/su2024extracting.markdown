@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12367"}
-tags: ['Responsible AI', 'RAG', 'Training Techniques', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12367'}
+tags: ['RAG', 'Security', 'Responsible AI', 'Training Techniques']
 ---
 The widespread use of Large Language Models (LLMs) in society creates new
 information security challenges for developers, organizations, and end-users

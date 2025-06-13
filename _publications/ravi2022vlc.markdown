@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ravi2022vlc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.13626"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.13626'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 There has been a growing interest in solving Visual Question Answering (VQA)
 tasks that require the model to reason beyond the content present in the image.

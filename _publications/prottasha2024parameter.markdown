@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prottasha2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08598"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08598'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are gaining significant popularity in recent
 years for specialized tasks using prompts due to their low computational cost.

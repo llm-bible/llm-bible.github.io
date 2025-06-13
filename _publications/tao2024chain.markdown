@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16313"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16313'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Open-ended question answering requires models to find appropriate evidence to
 form wellreasoned, comprehensive and helpful answers. In practical

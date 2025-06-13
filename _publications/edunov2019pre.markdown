@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: edunov2019pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1903.09722"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1903.09722'}
 tags: ['Applications']
 ---
 Pre-trained language model representations have been successful in a wide

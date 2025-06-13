@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00727"}
-  - {name: "Code", url: "https://github.com/Teddy-XiongGZ/MedRAG"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00727'}
+  - {name: "Code", url: 'https://github.com/Teddy-XiongGZ/MedRAG'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The emergent abilities of large language models (LLMs) have demonstrated
 great potential in solving medical questions. They can possess considerable

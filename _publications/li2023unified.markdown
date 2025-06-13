@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11036"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11036'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications']
 ---
 Generative information retrieval, encompassing two major tasks of Generative
 Document Retrieval (GDR) and Grounded Answer Generation (GAR), has gained

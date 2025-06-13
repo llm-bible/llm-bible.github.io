@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: makatura2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14377"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14377'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 The advancement of Large Language Models (LLMs), including GPT-4, provides
 exciting new opportunities for generative design. We investigate the

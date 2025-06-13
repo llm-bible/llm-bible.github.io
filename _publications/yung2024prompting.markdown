@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yung2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04918"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04918'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 Pre-trained large language models, such as ChatGPT, archive outstanding
 performance in various reasoning tasks without supervised training and were

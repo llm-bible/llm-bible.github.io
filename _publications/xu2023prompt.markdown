@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16066"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16066'}
+tags: ['Agentic', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 (Source) code summarization is the task of automatically generating natural
 language summaries (also called comments) for given code snippets. Recently,

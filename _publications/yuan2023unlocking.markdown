@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yuan2023unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.05994"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.05994'}
+tags: ['Applications', 'Training Techniques']
 ---
 Analogical reasoning is a fundamental cognitive ability of humans. However,
 current language models (LMs) still struggle to achieve human-like performance

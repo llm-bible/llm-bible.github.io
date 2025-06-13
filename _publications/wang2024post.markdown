@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024post
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17146"}
-  - {name: "Code", url: "https://github.com/wang-kee/LiNeS"}
-tags: ['Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17146'}
+  - {name: "Code", url: 'https://github.com/wang-kee/LiNeS'}
+tags: ['Has Code', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained models has become the standard approach to endow them
 with specialized knowledge, but it poses fundamental challenges. In particular,

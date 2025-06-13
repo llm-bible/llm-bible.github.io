@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023open
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.16291v2"}
-  - {name: "Code", url: "https://voyager.minedojo.org/"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.16291v2'}
+  - {name: "Code", url: 'https://voyager.minedojo.org/'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce Voyager, the first LLM-powered embodied lifelong learning agent
 in Minecraft that continuously explores the world, acquires diverse skills, and

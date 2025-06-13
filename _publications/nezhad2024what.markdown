@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nezhad2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19159"}
-tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19159'}
+tags: ['Masked Language Model', 'Language Modeling', 'Training Techniques', 'BERT', 'GPT', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 This study investigates the factors influencing the performance of
 multilingual large language models (MLLMs) across diverse languages. We study 6

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023ladder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16763"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16763'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Stance detection aims to identify the attitude expressed in a document
 towards a given target. Techniques such as Chain-of-Thought (CoT) prompting

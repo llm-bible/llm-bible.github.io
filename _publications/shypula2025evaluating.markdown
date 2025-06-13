@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shypula2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12522"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12522'}
+tags: ['Agentic', 'Applications', 'Tools', 'Scaling Laws', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recent work suggests that preference-tuning techniques--including
 Reinforcement Learning from Human Preferences (RLHF) methods like PPO and GRPO,

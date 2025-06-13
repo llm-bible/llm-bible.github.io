@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10390"}
-  - {name: "Code", url: "https://github.com/ZihanZhaoSJTU/LibriSQA"}
-tags: ['Tools', 'Multimodal Models', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10390'}
+  - {name: "Code", url: 'https://github.com/ZihanZhaoSJTU/LibriSQA'}
+tags: ['Has Code', 'Multimodal Models', 'Applications', 'Tools']
 ---
 While Large Language Models (LLMs) have demonstrated commendable performance
 across a myriad of domains and tasks, existing LLMs still exhibit a palpable

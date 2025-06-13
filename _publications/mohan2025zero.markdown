@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mohan2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00597"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00597'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Keyphrases are the essential topical phrases that summarize a document.
 Keyphrase generation is a long-standing NLP task for automatically generating

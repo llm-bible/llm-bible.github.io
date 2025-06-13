@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zahraei2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06566"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06566'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Responsible AI']
 ---
 Biased AI-generated medical advice and misdiagnoses can jeopardize patient
 safety, making the integrity of AI in healthcare more critical than ever. As

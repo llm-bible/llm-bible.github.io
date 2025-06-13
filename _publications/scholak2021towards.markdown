@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: scholak2021towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.04630"}
-  - {name: "Code", url: "https://github.com/ElementAI/neural-interpreters"}
-tags: ['Transformer', 'Has Code', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.04630'}
+  - {name: "Code", url: 'https://github.com/ElementAI/neural-interpreters'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper explores the capabilities of current transformer-based language
 models for program evaluation of simple functional programming languages. We

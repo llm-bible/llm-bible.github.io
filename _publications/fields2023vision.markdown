@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fields2023vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.03254"}
-tags: ['Fine-Tuning', 'Transformer', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.03254'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 Vision language tasks, such as answering questions about or generating
 captions that describe an image, are difficult tasks for computers to perform.

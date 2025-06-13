@@ -6,8 +6,8 @@ conference: "Proceedings of the 8th edition of the Swiss Text Analytics Conferen
 year: 2023
 bibkey: helland2023divide
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16897"}
-tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16897'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The growing capabilities of transformer models pave the way for solving
 increasingly complex NLP tasks. A key to supporting application-specific

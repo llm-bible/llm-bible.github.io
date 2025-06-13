@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: su2018nexus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1810.00671"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1810.00671'}
 tags: ['Applications']
 ---
 Sequence-to-Sequence (seq2seq) models have become overwhelmingly popular in

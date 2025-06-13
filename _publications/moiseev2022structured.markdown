@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: moiseev2022structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.08184"}
-tags: ['Training Techniques', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.08184'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques', 'Merging']
 ---
 Large language models (LLMs) have demonstrated human-level performance on a
 vast spectrum of natural language tasks. However, it is largely unexplored

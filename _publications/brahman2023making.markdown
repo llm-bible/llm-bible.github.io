@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: brahman2023making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19472"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19472'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Reinforcement Learning']
 ---
 Procedural planning, which entails decomposing a high-level goal into a
 sequence of temporally ordered steps, is an important yet intricate task for

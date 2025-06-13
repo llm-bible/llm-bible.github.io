@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024game
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09386"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09386'}
 tags: ['Training Techniques']
 ---
 Game development is a highly specialized task that relies on a complex game

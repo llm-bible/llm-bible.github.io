@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025logical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09100"}
-tags: ['Fine-Tuning', 'Agentic', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09100'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Agentic', 'Survey Paper']
 ---
 With the emergence of advanced reasoning models like OpenAI o3 and
 DeepSeek-R1, large language models (LLMs) have demonstrated remarkable

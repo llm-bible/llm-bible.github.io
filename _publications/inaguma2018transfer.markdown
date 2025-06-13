@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: inaguma2018transfer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1811.02134"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1811.02134'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Merging', 'Fine-Tuning']
 ---
 This work explores better adaptation methods to low-resource languages using
 an external language model (LM) under the framework of transfer learning. We

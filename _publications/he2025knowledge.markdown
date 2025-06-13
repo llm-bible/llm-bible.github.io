@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05212"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05212'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 As real-world knowledge evolves, the information embedded within large
 language models (LLMs) can become outdated, inadequate, or erroneous. Model

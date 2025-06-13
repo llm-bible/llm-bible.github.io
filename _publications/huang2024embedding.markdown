@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024embedding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03514"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03514'}
+tags: ['Pre-Training', 'RAG', 'Prompting', 'Training Techniques']
 ---
 Retrieval-augmented large language models (LLMs) have been remarkably
 competent in various NLP tasks. However, it was observed by previous works that

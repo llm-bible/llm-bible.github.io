@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mündler2025type
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09246"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09246'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved notable success in code
 generation. However, they still frequently produce uncompilable output because

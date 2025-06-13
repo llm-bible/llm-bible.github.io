@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17964"}
-tags: ['Tools', 'Survey Paper', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17964'}
+tags: ['Reinforcement Learning', 'Survey Paper', 'Tools', 'Merging']
 ---
 This paper examines how graduate students develop frameworks for evaluating
 machine-generated expertise in web-based interactions with large language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023mini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07653"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07653'}
+tags: ['Attention Mechanism', 'GPT', 'Training Techniques', 'Tools', 'Model Architecture', 'Merging', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 The revolution of artificial intelligence content generation has been rapidly
 accelerated with the booming text-to-image (T2I) diffusion models. Within just

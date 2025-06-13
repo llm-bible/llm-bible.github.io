@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: teney2017tips
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1708.02711"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1708.02711'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This paper presents a state-of-the-art model for visual question answering
 (VQA), which won the first place in the 2017 VQA Challenge. VQA is a task of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: michel2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11380"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11380'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have shown promising results in a variety of

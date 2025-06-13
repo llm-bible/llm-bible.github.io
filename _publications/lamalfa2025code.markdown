@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lamalfa2025code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03568"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03568'}
 tags: ['RAG']
 ---
 Many reasoning, planning, and problem-solving tasks share an intrinsic

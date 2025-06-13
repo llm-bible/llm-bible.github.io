@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: noever2024impossible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14486"}
-tags: ['Training Techniques', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14486'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 This research introduces a novel evaluation framework designed to assess
 large language models' (LLMs) ability to acknowledge uncertainty on 675

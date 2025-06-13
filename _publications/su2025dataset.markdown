@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: su2025dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11924"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11924'}
 tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 This paper introduces a novel dataset REGEN (Reviews Enhanced with GEnerative

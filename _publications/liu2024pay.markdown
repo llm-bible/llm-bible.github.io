@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024pay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21048"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21048'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based approaches have demonstrated remarkable success in various
 sequence-based tasks. However, traditional self-attention models may not

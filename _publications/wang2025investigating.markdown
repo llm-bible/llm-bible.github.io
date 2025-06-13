@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01801"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01801'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 Large language models (LLMs) exhibit remarkable multilingual capabilities
 despite the extreme language imbalance in the pre-training data. In this paper,

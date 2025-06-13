@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: ororbia2018like
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.11546"}
-tags: ['Fine-Tuning', 'Tools', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.11546'}
+tags: ['Language Modeling', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 We examine the benefits of visual context in training neural language models
 to perform next-word prediction. A multi-modal neural architecture is

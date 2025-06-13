@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023vl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.09251"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.09251'}
+tags: ['Transformer', 'Few-Shot', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 In this work, we introduce Vision-Language Generative Pre-trained Transformer
 (VL-GPT), a transformer model proficient at concurrently perceiving and

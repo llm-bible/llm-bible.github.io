@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024show
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12528"}
-  - {name: "Code", url: "https://github.com/showlab/Show-o"}
-tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12528'}
+  - {name: "Code", url: 'https://github.com/showlab/Show-o'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present a unified transformer, i.e., Show-o, that unifies multimodal
 understanding and generation. Unlike fully autoregressive models, Show-o

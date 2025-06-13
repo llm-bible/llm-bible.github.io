@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: stickland2020recipes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.14911"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.14911'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 There has been recent success in pre-training on monolingual data and
 fine-tuning on Machine Translation (MT), but it remains unclear how to best

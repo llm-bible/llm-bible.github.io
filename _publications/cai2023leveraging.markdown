@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cai2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06094"}
-  - {name: "Code", url: "https://github.com/mu-cai/svg-llm"}
-tags: ['Applications', 'RAG', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06094'}
+  - {name: "Code", url: 'https://github.com/mu-cai/svg-llm'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Applications', 'Prompting']
 ---
 Large language models (LLMs) have made significant advancements in natural
 language understanding. However, through that enormous semantic representation

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aswani2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06328"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06328'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 Recent advancements in prompt engineering strategies, such as
 Chain-of-Thought (CoT) and Self-Discover, have demonstrated significant

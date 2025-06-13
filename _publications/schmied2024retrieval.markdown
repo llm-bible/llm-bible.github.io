@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schmied2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07071"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07071'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) is the ability of a model to learn a new task by
 observing a few exemplars in its context. While prevalent in NLP, this

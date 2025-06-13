@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: manvi2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02725"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02725'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Inference-time computation is a powerful paradigm to enhance the performance
 of large language models (LLMs), with Best-of-N sampling being a widely used

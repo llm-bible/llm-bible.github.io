@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.04998"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.04998'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Interpretability']
 ---
 This work shows how to improve and interpret the commonly used dual encoder
 model for response suggestion in dialogue. We present an attentive dual encoder

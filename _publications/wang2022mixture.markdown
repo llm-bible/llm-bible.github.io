@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.17451"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.17451'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Standard fine-tuning of large pre-trained language models (PLMs) for
 downstream tasks requires updating hundreds of millions to billions of

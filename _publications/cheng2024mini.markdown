@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024mini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11681"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11681'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pruning']
 ---
 As Large Language Models (LLMs) grow dramatically in size, there is an
 increasing trend in compressing and speeding up these models. Previous studies

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chen2020fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.03099"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.03099'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'BERT', 'Reinforcement Learning']
 ---
 Pre-trained models like BERT (Devlin et al., 2018) have dominated NLP / IR
 applications such as single sentence classification, text pair classification,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liao2025avoid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03336"}
-  - {name: "Code", url: "https://github.com/microsoft/RecAI"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03336'}
+  - {name: "Code", url: 'https://github.com/microsoft/RecAI'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Large Language Models (LLMs) have shown promise for generative recommender

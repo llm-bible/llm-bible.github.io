@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025schema
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03450"}
-tags: ['Agentic', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03450'}
+tags: ['Attention Mechanism', 'Agentic', 'Few-Shot', 'Tools', 'Model Architecture', 'Prompting']
 ---
 Scene graphs have emerged as a structured and serializable environment
 representation for grounded spatial reasoning with Large Language Models

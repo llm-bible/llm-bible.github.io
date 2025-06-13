@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05867"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05867'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) remain prone to factual inaccuracies and
 computational errors, including hallucinations and mistakes in mathematical

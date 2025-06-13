@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: eisner2024linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07063"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07063'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 VRAM requirements for transformer models scale quadratically with context
 length due to the self-attention mechanism. In this paper we modify the

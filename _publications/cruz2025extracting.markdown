@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cruz2025extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12660"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12660'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we propose the use of simple knowledge distillation to produce
 smaller and more efficient single-language transformers from Massively

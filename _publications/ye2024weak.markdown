@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024weak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12621"}
-  - {name: "Code", url: "https://github.com/yeruimeng/WTS.git"}
-tags: ['Responsible AI', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12621'}
+  - {name: "Code", url: 'https://github.com/yeruimeng/WTS.git'}
+tags: ['Has Code', 'Responsible AI']
 ---
 As large language models (LLMs) continue to advance, ensuring their alignment
 with human values becomes increasingly critical. Traditional alignment methods

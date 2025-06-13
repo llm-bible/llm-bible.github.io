@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kamahori2024cpu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07033"}
-  - {name: "Code", url: "https://github.com/efeslab/fiddler"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07033'}
+  - {name: "Code", url: 'https://github.com/efeslab/fiddler'}
 tags: ['Has Code', 'Model Architecture']
 ---
 Large Language Models (LLMs) with the Mixture-of-Experts (MoE) architectures

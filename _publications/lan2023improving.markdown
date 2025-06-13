@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lan2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09050"}
-  - {name: "Code", url: "https://github.com/ECNU-DASE-NLP/RQP"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09050'}
+  - {name: "Code", url: 'https://github.com/ECNU-DASE-NLP/RQP'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Zero-shot Visual Question Answering (VQA) is a prominent vision-language task
 that examines both the visual and textual understanding capability of systems

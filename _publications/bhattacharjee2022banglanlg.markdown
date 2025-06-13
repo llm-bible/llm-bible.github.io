@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: bhattacharjee2022banglanlg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11081"}
-  - {name: "Code", url: "https://github.com/csebuetnlp/BanglaNLG"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11081'}
+  - {name: "Code", url: 'https://github.com/csebuetnlp/BanglaNLG'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 This work presents BanglaNLG, a comprehensive benchmark for evaluating
 natural language generation (NLG) models in Bangla, a widely spoken yet

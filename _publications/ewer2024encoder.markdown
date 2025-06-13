@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ewer2024encoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01600"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01600'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Next-token prediction is conventionally done using decoder-only Transformers
 with causal attention, as this approach allows for efficient reuse of keys and

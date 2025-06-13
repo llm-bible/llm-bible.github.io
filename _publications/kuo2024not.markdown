@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kuo2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21526"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21526'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Synthetic data augmentation via large language models (LLMs) allows
 researchers to leverage additional training data, thus enhancing the

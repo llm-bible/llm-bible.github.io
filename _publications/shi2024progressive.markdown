@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04998"}
-tags: ['Responsible AI', 'Training Techniques', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04998'}
+tags: ['Reinforcement Learning', 'Responsible AI', 'Training Techniques', 'Merging']
 ---
 While fusing the capacities and advantages of various large language models
 (LLMs) offers a pathway to construct more powerful and versatile models, a

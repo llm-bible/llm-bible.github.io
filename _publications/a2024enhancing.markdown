@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: a2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06124"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06124'}
 tags: ['RAG']
 ---
 Large language models have limited context capacity, hindering reasoning over

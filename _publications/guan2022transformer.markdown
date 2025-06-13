@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: guan2022transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.07324"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.07324'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Pretraining Methods']
 ---
 Transformer architecture has become the de-facto model for many machine
 learning tasks from natural language processing and computer vision. As such,

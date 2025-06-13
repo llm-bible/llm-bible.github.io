@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: neelakantan2019neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.14613"}
-tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'ACL', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.14613'}
+tags: ['Language Modeling', 'Transformer', 'ACL', 'RAG', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Task-oriented dialog presents a difficult challenge encompassing multiple
 problems including multi-turn language understanding and generation, knowledge

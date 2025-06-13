@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: jadon2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15854"}
-  - {name: "Code", url: "https://github.com/aryan-jadon/Synthetic-Data-Generation-and-Evaluation-using-Reasoning-Model"}
-tags: ['RAG', 'Tools', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15854'}
+  - {name: "Code", url: 'https://github.com/aryan-jadon/Synthetic-Data-Generation-and-Evaluation-using-Reasoning-Model'}
+tags: ['RAG', 'Has Code', 'Security', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) systems face significant performance
 gaps when applied to technical domains requiring precise information extraction

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghaboura2024camel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18976"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18976'}
 tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Recent years have witnessed a significant interest in developing large

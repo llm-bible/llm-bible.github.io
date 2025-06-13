@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jie2025speculative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16163"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16163'}
+tags: ['Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) have already achieved
 remarkable results on long-text tasks, but the limited GPU memory (VRAM)

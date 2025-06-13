@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: micheli2021structural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.06045"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.06045'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Attention is a key component of the now ubiquitous pre-trained language
 models. By learning to focus on relevant pieces of information, these

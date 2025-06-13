@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06171"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06171'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Reinforcement Learning']
 ---
 Continual learning (CL) is crucial for language models to dynamically adapt
 to the evolving real-world demands. To mitigate the catastrophic forgetting

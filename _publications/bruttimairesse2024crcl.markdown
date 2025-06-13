@@ -6,8 +6,8 @@ conference: "SemEval-2024"
 year: 2024
 bibkey: bruttimairesse2024crcl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01942"}
-tags: ['Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01942'}
+tags: ['Prompting', 'Efficiency and Optimization']
 ---
 We present a baseline for the SemEval 2024 task 2 challenge, whose objective
 is to ascertain the inference relationship between pairs of clinical trial

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15651"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15651'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning with Reinforcement Learning with Human Feedback (RLHF) is
 essential for aligning large language models (LLMs). However, RLHF often

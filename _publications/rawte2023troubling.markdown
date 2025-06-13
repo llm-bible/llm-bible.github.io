@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: rawte2023troubling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04988"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04988'}
 tags: ['RAG', 'Security', 'Merging']
 ---
 The recent advancements in Large Language Models (LLMs) have garnered

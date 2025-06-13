@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhansali2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18287"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Pruning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18287'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Fine-Tuning', 'Pruning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) are essential in natural language processing
 (NLP) but are costly in data collection, pre-training, fine-tuning, and

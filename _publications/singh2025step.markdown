@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: singh2025step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16666"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16666'}
 tags: ['RAG', 'Tools']
 ---
 We propose Step-by-Step Coding (SBSC): a multi-turn math reasoning framework

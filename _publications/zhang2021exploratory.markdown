@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021exploratory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.04609"}
-tags: ['Fine-Tuning', 'Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.04609'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Dialogue summarization helps readers capture salient information from long
 conversations in meetings, interviews, and TV series. However, real-world

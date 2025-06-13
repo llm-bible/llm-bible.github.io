@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03241"}
-  - {name: "Code", url: "https://github.com/THUDM/MathGLM"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03241'}
+  - {name: "Code", url: 'https://github.com/THUDM/MathGLM'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 Previous studies have typically assumed that large language models are unable
 to accurately perform arithmetic operations, particularly multiplication of >8

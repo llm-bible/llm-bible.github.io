@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: fei2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16289"}
-  - {name: "Code", url: "https://github.com/open-compass/LawBench/"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16289'}
+  - {name: "Code", url: 'https://github.com/open-compass/LawBench/'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated strong capabilities in various
 aspects. However, when applying them to the highly specialized, safe-critical

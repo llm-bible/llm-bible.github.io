@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024causality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15319"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15319'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recent breakthroughs in artificial intelligence have driven a paradigm shift,
 where large language models (LLMs) with billions or trillions of parameters are

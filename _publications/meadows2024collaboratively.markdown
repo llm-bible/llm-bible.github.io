@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: meadows2024collaboratively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01460"}
-tags: ['Responsible AI', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01460'}
+tags: ['Reinforcement Learning', 'Prompting', 'Responsible AI', 'Tools']
 ---
 The proliferation of large language models (LLMs) requires robust evaluation
 of their alignment with local values and ethical standards, especially as

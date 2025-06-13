@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: siddhant2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.03110"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.03110'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Achieving universal translation between all human language pairs is the
 holy-grail of machine translation (MT) research. While recent progress in

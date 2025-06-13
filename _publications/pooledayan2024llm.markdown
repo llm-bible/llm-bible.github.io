@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pooledayan2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17737"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17737'}
 tags: ['Ethics and Bias']
 ---
 While state-of-the-art Large Language Models (LLMs) have shown impressive

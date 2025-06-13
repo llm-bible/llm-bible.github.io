@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qwen2024technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15115"}
-tags: ['Pre-Training', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15115'}
+tags: ['Agentic', 'Language Modeling', 'Model Architecture', 'Applications', 'Training Techniques', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 In this report, we introduce Qwen2.5, a comprehensive series of large
 language models (LLMs) designed to meet diverse needs. Compared to previous

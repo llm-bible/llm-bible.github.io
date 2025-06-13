@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cocchi2024augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16863"}
-  - {name: "Code", url: "https://aimagelab.github.io/ReflectiVA"}
-tags: ['Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16863'}
+  - {name: "Code", url: 'https://aimagelab.github.io/ReflectiVA'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 Multimodal LLMs (MLLMs) are the natural extension of large language models to
 handle multimodal inputs, combining text and image data. They have recently

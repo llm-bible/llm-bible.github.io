@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024sora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07944"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07944'}
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Several text-to-video diffusion models have demonstrated commendable
 capabilities in synthesizing high-quality video content. However, it remains a

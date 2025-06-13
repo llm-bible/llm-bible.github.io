@@ -6,8 +6,8 @@ conference: "Computing Conference 2025 (upcoming)"
 year: 2024
 bibkey: malmqvist2024sycophancy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15287"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15287'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 a wide range of natural language processing tasks. However, their tendency to

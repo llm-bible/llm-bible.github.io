@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ryu2023plausibility
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13824"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13824'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 The goal of this paper is to explore how Transformer language models process
 semantic knowledge, especially regarding the plausibility of noun-verb

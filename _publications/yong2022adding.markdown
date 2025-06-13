@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: yong2022adding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09535"}
-  - {name: "Code", url: "https://github.com/bigscience-workshop/multilingual-modeling"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09535'}
+  - {name: "Code", url: 'https://github.com/bigscience-workshop/multilingual-modeling'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The BLOOM model is a large publicly available multilingual language model,
 but its pretraining was limited to 46 languages. To extend the benefits of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024embracing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18708"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18708'}
 tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 The impressive essay writing and problem-solving capabilities of large

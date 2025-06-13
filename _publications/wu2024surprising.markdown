@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024surprising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17793"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17793'}
+tags: ['GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 This study evaluates three state-of-the-art MLLMs -- GPT-4V, Gemini Pro, and
 the open-source model IDEFICS -- on the compositional natural language vision

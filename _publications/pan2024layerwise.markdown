@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024layerwise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17919"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17919'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The machine learning community has witnessed impressive advancements since
 large language models (LLMs) first appeared. Yet, their massive memory

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chandrasekhar2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00031"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00031'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture']
 ---
 Generalized large language models (LLMs) such as GPT-4 may not provide
 specific answers to queries formulated by materials science researchers. These

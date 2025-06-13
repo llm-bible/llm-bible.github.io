@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: cai2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04715"}
-  - {name: "Code", url: "https://github.com/sunblaze-ucb/llm-api-audit"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Interpretability', 'Security', 'Has Code', 'Fairness', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04715'}
+  - {name: "Code", url: 'https://github.com/sunblaze-ucb/llm-api-audit'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Fairness', 'Tools', 'Security', 'Quantization', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability']
 ---
 The proliferation of Large Language Models (LLMs) accessed via black-box APIs
 introduces a significant trust challenge: users pay for services based on

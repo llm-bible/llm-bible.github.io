@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liventsev2023fully
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.10423"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.10423'}
+tags: ['Prompting', 'Tools']
 ---
 Current approaches to program synthesis with Large Language Models (LLMs)
 exhibit a "near miss syndrome": they tend to generate programs that

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fernándezpichel2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12468"}
-tags: ['Tools', 'RAG', 'Merging', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12468'}
+tags: ['RAG', 'Tools', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Search engines (SEs) have traditionally been primary tools for information
 seeking, but the new Large Language Models (LLMs) are emerging as powerful

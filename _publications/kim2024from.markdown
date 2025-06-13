@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01717"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01717'}
 tags: ['RAG']
 ---
 Regulatory compliance in the pharmaceutical industry entails navigating

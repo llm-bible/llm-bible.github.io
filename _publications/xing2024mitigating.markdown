@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xing2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15926"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15926'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Recent Large Vision Language Models (LVLMs) present remarkable zero-shot

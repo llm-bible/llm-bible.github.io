@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kammakomati2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03387"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03387'}
 tags: ['Few-Shot', 'Language Modeling', 'Applications']
 ---
 Recent work shows Large Language Models (LLMs) struggle to understand natural

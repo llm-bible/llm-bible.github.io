@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: giabbanelli2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13679"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13679'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 The disruptive technology provided by large-scale pre-trained language models
 (LLMs) such as ChatGPT or GPT-4 has received significant attention in several

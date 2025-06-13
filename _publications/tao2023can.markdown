@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: tao2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.01081"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.01081'}
 tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 Large pre-trained language models help to achieve state of the art on a

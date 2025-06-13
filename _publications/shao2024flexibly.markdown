@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shao2024flexibly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07793"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07793'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Tokenization', 'Pretraining Methods']
 ---
 Large language models (LLMs) are in need of sufficient contexts to handle
 many critical applications, such as retrieval augmented generation and few-shot

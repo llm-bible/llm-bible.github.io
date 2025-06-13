@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sui2025stop
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16419"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16419'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 complex tasks. Recent advancements in Large Reasoning Models (LRMs), such as

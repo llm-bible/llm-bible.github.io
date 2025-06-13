@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: koubaa2024native
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15313"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15313'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The predominance of English and Latin-based large language models (LLMs) has
 led to a notable deficit in native Arabic LLMs. This discrepancy is accentuated

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kang2024latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00686"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00686'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) are increasingly deployed in specialized
 domains with continuously evolving knowledge, the need for timely and precise

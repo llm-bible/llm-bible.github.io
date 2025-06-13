@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00836"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00836'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 Logical reasoning is fundamental for humans yet presents a substantial
 challenge in the domain of Artificial Intelligence. Initially, researchers used

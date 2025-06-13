@@ -6,8 +6,8 @@ conference: "Advances in Neural Information Processing Systems (NeurIPS) 2024"
 year: 2024
 bibkey: zheng2024learn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06126"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06126'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Large Language Models (LLMs) have achieved remarkable success with their
 billion-level parameters, yet they incur high inference overheads. The

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: federici2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01380"}
-  - {name: "Code", url: "https://github.com/Qualcomm-AI-research/dynamic-sparsity"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01380'}
+  - {name: "Code", url: 'https://github.com/Qualcomm-AI-research/dynamic-sparsity'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 While mobile devices provide ever more compute power, improvements in DRAM
 bandwidth are much slower. This is unfortunate for large language model (LLM)

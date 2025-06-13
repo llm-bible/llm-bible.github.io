@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dhakal2024gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09654"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09654'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study investigates GPT-4's assessment of its performance in healthcare
 applications. A simple prompting technique was used to prompt the LLM with

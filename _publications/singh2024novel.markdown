@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19572"}
-tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19572'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) systems using large language models
 (LLMs) often generate inaccurate responses due to the retrieval of irrelevant

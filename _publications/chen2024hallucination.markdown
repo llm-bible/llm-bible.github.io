@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04121"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04121'}
 tags: ['Applications']
 ---
 Large Language Models (LLMs) have gained widespread adoption in various

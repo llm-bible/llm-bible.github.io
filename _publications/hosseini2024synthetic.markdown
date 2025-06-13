@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hosseini2024synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12368"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12368'}
+tags: ['RAG', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Natural Language Inference (NLI) remains an important benchmark task for
 LLMs. NLI datasets are a springboard for transfer learning to other semantic

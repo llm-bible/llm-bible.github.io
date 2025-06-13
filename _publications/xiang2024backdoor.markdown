@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiang2024backdoor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12242"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12242'}
+tags: ['RAG', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are shown to benefit from chain-of-thought (COT)
 prompting, particularly when tackling tasks that require systematic reasoning

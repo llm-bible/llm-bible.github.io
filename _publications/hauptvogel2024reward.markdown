@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hauptvogel2024reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20869"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20869'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 Recent advancements in large language models (LLMs) have led to their
 increased application across various tasks, with reinforcement learning from

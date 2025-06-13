@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhuo2024lumina
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18583"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18583'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods']
 ---
 Lumina-T2X is a nascent family of Flow-based Large Diffusion Transformers
 that establishes a unified framework for transforming noise into various

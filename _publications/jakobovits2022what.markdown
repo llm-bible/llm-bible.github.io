@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: jakobovits2022what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.03431"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.03431'}
 tags: ['Uncategorized']
 ---
 High-quality datasets for task-oriented dialog are crucial for the

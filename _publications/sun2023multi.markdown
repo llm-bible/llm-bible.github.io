@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13149"}
-  - {name: "Code", url: "https://github.com/OpenDFM/SciEval"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13149'}
+  - {name: "Code", url: 'https://github.com/OpenDFM/SciEval'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Recently, there has been growing interest in using Large Language Models

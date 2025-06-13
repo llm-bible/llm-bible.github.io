@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14994"}
-  - {name: "Code", url: "https://github.com/mutonix/RefGPT"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14994'}
+  - {name: "Code", url: 'https://github.com/mutonix/RefGPT'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have attained the impressive capability to
 resolve a wide range of NLP tasks by fine-tuning high-quality instruction data.

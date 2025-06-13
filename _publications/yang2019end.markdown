@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: yang2019end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.01718"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.01718'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 We demonstrate an end-to-end question answering system that integrates BERT
 with the open-source Anserini information retrieval toolkit. In contrast to

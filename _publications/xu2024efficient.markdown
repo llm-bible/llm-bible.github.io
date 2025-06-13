@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03865"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03865'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods']
 ---
 With the evolution of large language models, traditional Transformer models
 become computationally demanding for lengthy sequences due to the quadratic

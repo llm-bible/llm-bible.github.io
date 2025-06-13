@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rita2024countering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19409"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19409'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 While Reinforcement Learning (RL) has been proven essential for tuning large
 language models (LLMs), it can lead to reward over-optimization (ROO). Existing

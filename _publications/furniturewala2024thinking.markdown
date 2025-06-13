@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: furniturewala2024thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10431"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10431'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Existing debiasing techniques are typically training-based or require access
 to the model's internals and output distributions, so they are inaccessible to

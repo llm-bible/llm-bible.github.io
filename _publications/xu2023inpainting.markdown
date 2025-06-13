@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023inpainting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01771"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01771'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning allows adapting a model to new tasks given a task
 description at test time. In this paper, we present IMProv - a generative model

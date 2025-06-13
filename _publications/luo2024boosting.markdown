@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01504"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01504'}
 tags: ['RAG', 'Training Techniques']
 ---
 While closed-source Large Language Models (LLMs) demonstrate strong

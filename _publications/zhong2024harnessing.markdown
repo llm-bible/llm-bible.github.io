@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13414"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13414'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 As Machine Learning (ML) models grow in size and demand higher-quality
 training data, the expenses associated with re-training and fine-tuning these

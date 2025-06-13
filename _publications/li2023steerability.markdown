@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023steerability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04978"}
-tags: ['RAG', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04978'}
+tags: ['Ethics and Bias', 'RAG']
 ---
 Large language models (LLMs) are known to generate biased responses where the
 opinions of certain groups and populations are underrepresented. Here, we

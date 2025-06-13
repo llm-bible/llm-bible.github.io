@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13432"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13432'}
+tags: ['RAG', 'Applications', 'RecSys', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large Language Model (LLM) has transformative potential in various domains,
 including recommender systems (RS). There have been a handful of research that

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bradley2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01539"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01539'}
 tags: ['Reinforcement Learning']
 ---
 We investigate the patterns of incorrect answers produced by large language

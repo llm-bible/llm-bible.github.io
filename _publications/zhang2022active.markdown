@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022active
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2211.04486v1"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2211.04486v1'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 With a handful of demonstration examples, large-scale language models show
 strong capability to perform various tasks by in-context learning from these

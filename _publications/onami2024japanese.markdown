@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: onami2024japanese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.19454"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.19454'}
 tags: ['Multimodal Models', 'Applications']
 ---
 Document question answering is a task of question answering on given

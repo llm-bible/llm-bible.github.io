@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025efficiency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02173"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02173'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'RecSys', 'Reinforcement Learning']
 ---
 The deployment of Large Language Models (LLMs) in recommender systems for
 predicting Click-Through Rates (CTR) necessitates a delicate balance between

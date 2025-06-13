@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: pruthi2019learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.07913"}
-tags: ['Responsible AI', 'Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.07913'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Fairness', 'Training Techniques', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias', 'Responsible AI']
 ---
 Attention mechanisms are ubiquitous components in neural architectures
 applied to natural language processing. In addition to yielding gains in

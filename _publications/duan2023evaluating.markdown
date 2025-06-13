@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: duan2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13650"}
-  - {name: "Code", url: "https://github.com/open-compass/BotChat/"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13650'}
+  - {name: "Code", url: 'https://github.com/open-compass/BotChat/'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Interacting with human via high-quality multi-turn dialogues is a key feature
 of large language models (LLMs). However, human-based evaluation of such

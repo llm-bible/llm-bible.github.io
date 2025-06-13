@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pink2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08133"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08133'}
 tags: ['Tools', 'Training Techniques', 'Merging']
 ---
 Current LLM benchmarks focus on evaluating models' memory of facts and

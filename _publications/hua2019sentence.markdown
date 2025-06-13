@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: hua2019sentence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00734"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00734'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Building effective text generation systems requires three critical

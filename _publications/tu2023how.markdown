@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tu2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16101"}
-  - {name: "Code", url: "https://github.com/UCSC-VLAA/vllm-safety-benchmark"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16101'}
+  - {name: "Code", url: 'https://github.com/UCSC-VLAA/vllm-safety-benchmark'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models', 'Responsible AI']
 ---
 This work focuses on the potential of Vision LLMs (VLLMs) in visual
 reasoning. Different from prior studies, we shift our focus from evaluating

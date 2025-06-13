@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: clark2019exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.10044"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.10044'}
 tags: ['Fine-Tuning', 'BERT', 'Prompting', 'Model Architecture']
 ---
 In this paper we study yes/no questions that are naturally occurring ---

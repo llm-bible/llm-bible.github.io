@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: beniwal2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10521"}
-  - {name: "Code", url: "https://github.com/lingo-iitgn/XME"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10521'}
+  - {name: "Code", url: 'https://github.com/lingo-iitgn/XME'}
+tags: ['Has Code', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The training of large language models (LLMs) necessitates substantial data
 and computational resources, and updating outdated LLMs entails significant

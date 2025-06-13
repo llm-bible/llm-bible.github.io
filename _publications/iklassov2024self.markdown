@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: iklassov2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17950"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17950'}
 tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Prompting']
 ---
 Large Language Models (LLMs) have become pivotal in addressing reasoning

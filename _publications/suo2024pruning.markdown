@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: suo2024pruning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06458"}
-tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06458'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pruning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Although Large Vision-Language Models (LVLMs) have achieved impressive
 results, their high computational cost poses a significant barrier to wider

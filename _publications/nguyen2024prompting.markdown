@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02398"}
-tags: ['RAG', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02398'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 Although multilingual LLMs have achieved remarkable performance across
 benchmarks, we find they continue to underperform on non-Latin script languages

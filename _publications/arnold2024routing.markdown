@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: arnold2024routing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14107"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14107'}
 tags: ['Uncategorized']
 ---
 Language Models (LMs) recently incorporate mixture-of-experts layers

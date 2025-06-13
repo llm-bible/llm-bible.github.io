@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pang2025bootstrap
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03860"}
-tags: ['Tools', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03860'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs), such as o1 from OpenAI, have demonstrated
 remarkable reasoning capabilities. o1 generates a long chain-of-thought

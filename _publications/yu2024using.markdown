@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19056"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19056'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Existing math datasets evaluate the reasoning abilities of large language

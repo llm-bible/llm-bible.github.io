@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: meng2024deeply
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04334"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04334'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Most large multimodal models (LMMs) are implemented by feeding visual tokens
 as a sequence into the first layer of a large language model (LLM). The

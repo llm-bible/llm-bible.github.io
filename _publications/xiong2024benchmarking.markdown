@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiong2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13178"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13178'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 While large language models (LLMs) have achieved state-of-the-art performance
 on a wide range of medical question answering (QA) tasks, they still face

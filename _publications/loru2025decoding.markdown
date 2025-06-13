@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: loru2025decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04426"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04426'}
+tags: ['Ethics and Bias', 'Model Architecture', 'Tools', 'GPT']
 ---
 Large Language Models (LLMs) are increasingly used to assess news
 credibility, yet little is known about how they make these judgments. While

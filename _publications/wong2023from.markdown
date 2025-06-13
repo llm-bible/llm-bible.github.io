@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wong2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.12672"}
-tags: ['RAG', 'Tools', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.12672'}
+tags: ['Reinforcement Learning', 'RAG', 'Model Architecture', 'Tools']
 ---
 How does language inform our downstream thinking? In particular, how do
 humans make meaning from language--and how can we leverage a theory of

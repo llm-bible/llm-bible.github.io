@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: si2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04109"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04109'}
 tags: ['Agentic']
 ---
 Recent advancements in large language models (LLMs) have sparked optimism

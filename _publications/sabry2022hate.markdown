@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sabry2022hate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.05690"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.05690'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 We investigate the performance of a state-of-the art (SoTA) architecture T5
 (available on the SuperGLUE) and compare with it 3 other previous SoTA

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shusterman2024active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21051"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21051'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Continuing advances in Large Language Models (LLMs) in artificial
 intelligence offer important capacities in intuitively accessing and using

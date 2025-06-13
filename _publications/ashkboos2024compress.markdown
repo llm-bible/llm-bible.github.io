@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ashkboos2024compress
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.15024"}
-  - {name: "Code", url: "https://github.com/microsoft/TransformerCompression"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.15024'}
+  - {name: "Code", url: 'https://github.com/microsoft/TransformerCompression'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Pretraining Methods']
 ---
 Large language models have become the cornerstone of natural language
 processing, but their use comes with substantial costs in terms of compute and

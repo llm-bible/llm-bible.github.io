@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10543"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10543'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 Open-domain long-term memory conversation can establish long-term intimacy

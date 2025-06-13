@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shankar2024who
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12272"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12272'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Due to the cumbersome nature of human evaluation and limitations of
 code-based evaluation, Large Language Models (LLMs) are increasingly being used

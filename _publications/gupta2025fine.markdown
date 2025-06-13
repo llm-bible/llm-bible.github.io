@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gupta2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16274"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16274'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The Qwen 2.5 3B base model was fine-tuned to generate contextually rich and
 engaging movie dialogue, leveraging the Cornell Movie-Dialog Corpus, a curated

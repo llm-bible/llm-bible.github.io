@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024fixing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07965"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07965'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 In this paper, we present HalluCana, a canary lookahead to detect and correct
 factuality hallucinations of Large Language Models (LLMs) in long-form

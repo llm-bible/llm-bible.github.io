@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: benkish2023mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.03631v3"}
-tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.03631v3'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Tools']
 ---
 While recent years have seen rapid progress in image-conditioned text
 generation, image captioning still suffers from the fundamental issue of

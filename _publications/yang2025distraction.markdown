@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025distraction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10794"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10794'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Multimodal Models', 'Responsible AI']
 ---
 Multimodal Large Language Models (MLLMs) bridge the gap between visual and
 textual data, enabling a range of advanced applications. However, complex

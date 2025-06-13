@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: akkiraju2024facts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.07858"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.07858'}
+tags: ['Agentic', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'Training Techniques', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Enterprise chatbots, powered by generative AI, are emerging as key
 applications to enhance employee productivity. Retrieval Augmented Generation

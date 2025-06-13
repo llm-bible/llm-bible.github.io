@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: misra2023triggering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04009"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04009'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Despite readily memorizing world knowledge about entities, pre-trained
 language models (LMs) struggle to compose together two or more facts to perform

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: motger2021software
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.10901"}
-tags: ['Agentic', 'Survey Paper', 'Applications', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.10901'}
+tags: ['Attention Mechanism', 'Agentic', 'Applications', 'Model Architecture', 'Survey Paper']
 ---
 The use of natural language interfaces in the field of human-computer
 interaction is undergoing intense study through dedicated scientific and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: pal2022parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.03357"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.03357'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 A long-term ambition of information seeking QA systems is to reason over
 multi-modal contexts and generate natural answers to user queries. Today,

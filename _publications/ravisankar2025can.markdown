@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ravisankar2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09378"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09378'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large language models (LLMs) pre-trained predominantly on English text
 exhibit surprising multilingual capabilities, yet the mechanisms driving

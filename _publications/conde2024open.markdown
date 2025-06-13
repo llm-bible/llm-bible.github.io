@@ -6,8 +6,8 @@ conference: "Procesamiento del Lenguaje Natural n. 73 2024. http://journal.sepln
 year: 2024
 bibkey: conde2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15491"}
-tags: ['Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Attention Mechanism', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15491'}
+tags: ['Attention Mechanism', 'Fairness', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias']
 ---
 The growing interest in Large Language Models (LLMs) and in particular in
 conversational models with which users can interact has led to the development

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06147"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06147'}
+tags: ['Attention Mechanism', 'Agentic', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have garnered wide
 attention and led to successful products such as ChatGPT and GPT-4. Their

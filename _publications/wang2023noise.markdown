@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023noise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01108"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01108'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Adopting a two-stage paradigm of pretraining followed by fine-tuning,
 Pretrained Language Models (PLMs) have achieved substantial advancements in the

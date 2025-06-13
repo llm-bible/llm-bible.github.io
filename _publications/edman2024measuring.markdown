@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: edman2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15452"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15452'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) show remarkable performance on a wide variety of

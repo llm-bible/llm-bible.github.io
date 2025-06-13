@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12930"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12930'}
 tags: ['Efficiency and Optimization', 'Quantization']
 ---
 Large language models (LLMs) demonstrate outstanding performance in various

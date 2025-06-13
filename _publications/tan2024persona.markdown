@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024persona
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02246"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02246'}
 tags: ['Prompting']
 ---
 The use of LLMs in natural language reasoning has shown mixed results,

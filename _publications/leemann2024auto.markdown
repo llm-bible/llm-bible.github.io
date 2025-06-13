@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leemann2024auto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03461"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03461'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While retrieval-augmented generation (RAG) has been shown to enhance
 factuality of large language model (LLM) outputs, LLMs still suffer from

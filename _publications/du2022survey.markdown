@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: du2022survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.10936"}
-tags: ['Transformer', 'Pre-Training', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.10936'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 As transformer evolves, pre-trained models have advanced at a breakneck pace
 in recent years. They have dominated the mainstream techniques in natural

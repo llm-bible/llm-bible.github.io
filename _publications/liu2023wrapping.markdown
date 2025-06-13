@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023wrapping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10688"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10688'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Generative pre-trained Transformer (GPT) has demonstrates its great success
 in natural language processing and related techniques have been adapted into

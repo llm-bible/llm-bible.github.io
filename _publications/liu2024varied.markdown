@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024varied
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02327"}
-  - {name: "Code", url: "https://github.com/farewellthree/PPLLaVA"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02327'}
+  - {name: "Code", url: 'https://github.com/farewellthree/PPLLaVA'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 The past year has witnessed the significant advancement of video-based large
 language models. However, the challenge of developing a unified model for both

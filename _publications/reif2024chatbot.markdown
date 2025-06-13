@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: reif2024chatbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00800"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00800'}
 tags: ['Uncategorized']
 ---
 The following contribution introduces a concept that employs Large Language

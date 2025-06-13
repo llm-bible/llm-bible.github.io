@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025customizable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18666"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18666'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Security', 'Applications', 'Reinforcement Learning', 'Responsible AI']
 ---
 Agents built on LLMs are increasingly deployed across diverse domains,
 automating complex decision-making and task execution. However, their autonomy

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: dohan2022language
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2207.10342v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2207.10342v2'}
 tags: ['Few-Shot', 'Prompting']
 ---
 Prompted models have demonstrated impressive few-shot learning abilities.

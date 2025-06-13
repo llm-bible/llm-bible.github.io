@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saeidi2024triple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16681"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16681'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Reinforcement Learning with Human Feedback (RLHF) enhances the alignment of
 Large Language Models (LLMs). However, its limitations have led to the

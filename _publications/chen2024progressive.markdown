@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13461"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13461'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Quantization']
 ---
 In spite of the great potential of large language models (LLMs) across
 various tasks, their deployment on resource-constrained devices remains

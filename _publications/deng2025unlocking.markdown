@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15509"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15509'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Simultaneous speech translation (SST) outputs translations in parallel with
 streaming speech input, balancing translation quality and latency. While large

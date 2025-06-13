@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024diagnostic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01933"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01933'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have recently showcased remarkable capabilities,
 spanning a wide range of tasks and applications, including those in the medical

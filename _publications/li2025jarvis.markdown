@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025jarvis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16365"}
-  - {name: "Code", url: "https://craftjarvis.github.io/JarvisVLA"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16365'}
+  - {name: "Code", url: 'https://craftjarvis.github.io/JarvisVLA'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recently, action-based decision-making in open-world environments has gained
 significant attention. Visual Language Action (VLA) models, pretrained on

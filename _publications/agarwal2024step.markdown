@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwal2024step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.14470"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.14470'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pruning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on downstream tasks requires
 substantial computational resources. A class of parameter-efficient fine-tuning

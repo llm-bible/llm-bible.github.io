@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08859"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08859'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) represent the recent success of deep learning in
 achieving remarkable human-like predictive performance. It has become a

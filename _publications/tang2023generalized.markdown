@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tang2023generalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05301"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05301'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 Enabling large language models to utilize real-world tools effectively is
 crucial for achieving embodied intelligence. Existing approaches to tool

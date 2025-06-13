@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04568"}
-tags: ['Security', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04568'}
+tags: ['Prompting', 'Security', 'Applications']
 ---
 WebAssembly enables near-native execution in web applications and is
 increasingly adopted for tasks that demand high performance and robust

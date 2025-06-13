@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tsvilodub2024cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03805"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03805'}
 tags: ['GPT', 'Model Architecture']
 ---
 To what extent can LLMs be used as part of a cognitive model of language

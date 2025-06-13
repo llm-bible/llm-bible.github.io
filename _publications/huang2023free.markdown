@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023free
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14494"}
-tags: ['Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14494'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Merging', 'Prompting']
 ---
 Text-to-video is a rapidly growing research area that aims to generate a
 semantic, identical, and temporal coherence sequence of frames that accurately

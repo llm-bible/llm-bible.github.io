@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hartmann2023memorization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18362"}
-tags: ['Security', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18362'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Security', 'Applications']
 ---
 Large Language Models (LLMs) are advancing at a remarkable pace, with myriad
 applications under development. Unlike most earlier machine learning models,

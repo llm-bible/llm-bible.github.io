@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10805"}
-  - {name: "Code", url: "https://github.com/IDEA-FinAI/ToG-2"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10805'}
+  - {name: "Code", url: 'https://github.com/IDEA-FinAI/ToG-2'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Applications']
 ---
 Retrieval-augmented generation (RAG) has improved large language models
 (LLMs) by using knowledge retrieval to overcome knowledge deficiencies.

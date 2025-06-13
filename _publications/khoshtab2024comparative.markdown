@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khoshtab2024comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16461"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16461'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This study addresses the gap in the literature concerning the comparative
 performance of LLMs in interpreting different types of figurative language

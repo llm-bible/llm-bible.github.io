@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: krause2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03778"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03778'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture', 'Interpretability']
 ---
 Commonsense reasoning is a difficult task for a computer, but a critical
 skill for an artificial intelligence (AI). It can enhance the explainability of

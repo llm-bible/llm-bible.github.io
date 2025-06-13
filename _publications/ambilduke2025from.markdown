@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ambilduke2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10620"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10620'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 Large language models (LLMs) have shown remarkable performance and
 generalization capabilities across multiple languages and tasks, making them

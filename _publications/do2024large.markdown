@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: do2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.07465"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.07465'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt optimization is essential for enhancing the performance of Large
 Language Models (LLMs) in a range of Natural Language Processing (NLP) tasks,

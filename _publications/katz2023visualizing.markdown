@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: katz2023visualizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13417"}
-tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13417'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent advances in interpretability suggest we can project weights and hidden
 states of transformer-based language models (LMs) to their vocabulary, a

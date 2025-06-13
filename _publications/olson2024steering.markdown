@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: olson2024steering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06060"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06060'}
 tags: ['RAG', 'Prompting']
 ---
 Although capable of generating creative text, Large Language Models (LLMs)

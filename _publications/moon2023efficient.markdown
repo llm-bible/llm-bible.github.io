@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: moon2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16058"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16058'}
 tags: ['Multimodal Models']
 ---
 We present Any-Modality Augmented Language Model (AnyMAL), a unified model

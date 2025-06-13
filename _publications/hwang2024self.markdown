@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hwang2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10346"}
-  - {name: "Code", url: "https://github.com/hbin0701/Self-Explore"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10346'}
+  - {name: "Code", url: 'https://github.com/hbin0701/Self-Explore'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Training on large amounts of rationales (i.e., CoT Fine-tuning) is effective
 at improving the reasoning capabilities of large language models (LLMs).

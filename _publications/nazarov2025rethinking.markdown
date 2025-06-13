@@ -6,8 +6,8 @@ conference: "IEEE Global Communications Conference GLOBECOM 2024 Workshop IMMLLM
 year: 2025
 bibkey: nazarov2025rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01464"}
-tags: ['Fine-Tuning', 'Applications', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01464'}
+tags: ['Applications', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning of Large Language Models (LLMs) for downstream tasks, performed
 on domain-specific data has shown significant promise. However, commercial use

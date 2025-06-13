@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: reichman2025reading
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03475"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03475'}
 tags: ['RAG']
 ---
 Queries to large language models (LLMs) can be divided into two parts: the

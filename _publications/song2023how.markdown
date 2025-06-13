@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07594"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07594'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 We explore Multimodal Large Language Models (MLLMs), which integrate LLMs
 like GPT-4 to handle multimodal data, including text, images, audio, and more.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wang2021lite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.06274"}
-tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.06274'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 We present a new method LiST is short for Lite Prompted Self-Training for
 parameter-efficient fine-tuning of large pre-trained language models (PLMs) for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bot2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08174"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08174'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated unprecedented capability in
 reasoning with natural language. Coupled with this development is the emergence

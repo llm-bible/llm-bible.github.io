@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ramakrishna2025semeval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02883"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02883'}
 tags: ['Training Techniques', 'Applications']
 ---
 We introduce SemEval-2025 Task 4: unlearning sensitive content from Large

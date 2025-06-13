@@ -6,8 +6,8 @@ conference: "Proceedings of the 16th International Conference on Agents and Arti
 year: 2023
 bibkey: arefin2023unmasking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.05360"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.05360'}
+tags: ['Reinforcement Learning', 'GPT', 'Tools', 'Model Architecture']
 ---
 The transformative influence of Large Language Models (LLMs) is profoundly
 reshaping the Artificial Intelligence (AI) technology domain. Notably, ChatGPT

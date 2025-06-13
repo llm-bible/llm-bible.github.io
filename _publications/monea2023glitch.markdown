@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: monea2023glitch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02073"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02073'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Large language models (LLMs) have an impressive ability to draw on novel
 information supplied in their context. Yet the mechanisms underlying this

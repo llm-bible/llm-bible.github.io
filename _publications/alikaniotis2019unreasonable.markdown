@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: alikaniotis2019unreasonable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.01733"}
-tags: ['Model Architecture', 'Transformer', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.01733'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent work on Grammatical Error Correction (GEC) has highlighted the
 importance of language modeling in that it is certainly possible to achieve

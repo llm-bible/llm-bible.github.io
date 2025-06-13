@@ -6,8 +6,8 @@ conference: "Joint Proceedings of the ACM IUI Workshops 2025 March 24-27 2025 Ca
 year: 2024
 bibkey: rajagopal2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00234"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00234'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Generative AI systems such as ChatGPT and Claude are built upon language
 models that are typically evaluated for accuracy on curated benchmark datasets.

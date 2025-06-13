@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmadi2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16484"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16484'}
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Episodic Future Thinking (EFT) is an intervention that involves vividly
 imagining personal future events and experiences in detail. It has shown

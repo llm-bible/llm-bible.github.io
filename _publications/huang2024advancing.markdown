@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13298"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13298'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Teaching large language models (LLMs) to generate text with citations to
 evidence sources can mitigate hallucinations and enhance verifiability in

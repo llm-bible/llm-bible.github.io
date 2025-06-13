@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12841"}
-  - {name: "Code", url: "https://github.com/Caiyun-AI/GAR"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12841'}
+  - {name: "Code", url: 'https://github.com/Caiyun-AI/GAR'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Compositional relational reasoning (CRR) is a hallmark of human intelligence,
 but we lack a clear understanding of whether and how existing transformer large

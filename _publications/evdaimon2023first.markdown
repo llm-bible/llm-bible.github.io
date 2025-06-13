@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: evdaimon2023first
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.00869"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.00869'}
+tags: ['Transformer', 'GPT', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 The era of transfer learning has revolutionized the fields of Computer Vision
 and Natural Language Processing, bringing powerful pretrained models with

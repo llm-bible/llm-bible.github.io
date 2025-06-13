@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lothritz2025testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01667"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01667'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have become an increasingly important tool in
 research and society at large. While LLMs are regularly used all over the world

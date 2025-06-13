@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tian2023soft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.04735"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.04735'}
+tags: ['Transformer', 'RAG', 'Fairness', 'Applications', 'Model Architecture', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Prompting large language models has gained immense popularity in recent years
 due to the advantage of producing good results even without the need for

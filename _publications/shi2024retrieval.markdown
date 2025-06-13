@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.19631"}
-  - {name: "Code", url: "https://github.com/sycny/RAE"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Pruning', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.19631'}
+  - {name: "Code", url: 'https://github.com/sycny/RAE'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Pruning', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have shown proficiency in question-answering
 tasks but often struggle to integrate real-time knowledge, leading to

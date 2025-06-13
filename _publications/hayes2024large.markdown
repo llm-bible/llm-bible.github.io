@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hayes2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11422"}
-tags: ['Agentic', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11422'}
+tags: ['Agentic', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 In-context learning enables large language models (LLMs) to perform a variety
 of tasks, including learning to make reward-maximizing choices in simple bandit

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12373"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12373'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have achieved impressive performance across
 various reasoning tasks. However, even state-of-the-art LLMs such as ChatGPT

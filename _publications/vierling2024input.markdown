@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: vierling2024input
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11555"}
-  - {name: "Code", url: "https://github.com/lukasVierling/DynamicGPTSwarm"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11555'}
+  - {name: "Code", url: 'https://github.com/lukasVierling/DynamicGPTSwarm'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 Recent progress in Large Language Models (LLMs) and language agents has
 demonstrated significant promise for various future applications across

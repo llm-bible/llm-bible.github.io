@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024med
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12783"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12783'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 The analysis of 3D medical images is crucial for modern healthcare, yet
 traditional task-specific models are becoming increasingly inadequate due to

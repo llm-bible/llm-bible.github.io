@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.09212"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.09212'}
 tags: ['RAG', 'Prompting']
 ---
 As the capabilities of large language models (LLMs) continue to advance,

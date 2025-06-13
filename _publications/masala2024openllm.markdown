@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: masala2024openllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07703"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07703'}
 tags: ['Training Techniques']
 ---
 In recent years, Large Language Models (LLMs) have achieved almost human-like

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04158"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04158'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large-scale vision-language models (VLMs), e.g., CLIP, learn broad visual
 concepts from tedious training data, showing superb generalization ability.

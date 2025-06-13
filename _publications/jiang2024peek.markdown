@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024peek
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11050"}
-  - {name: "Code", url: "https://github.com/bowen-upenn/llm_token_bias"}
-tags: ['Tools', 'Has Code', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11050'}
+  - {name: "Code", url: 'https://github.com/bowen-upenn/llm_token_bias'}
+tags: ['Ethics and Bias', 'Has Code', 'Tools']
 ---
 This study introduces a hypothesis-testing framework to assess whether large
 language models (LLMs) possess genuine reasoning abilities or primarily depend

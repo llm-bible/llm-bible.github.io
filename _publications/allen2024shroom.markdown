@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: allen2024shroom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03732"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03732'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We describe the University of Amsterdam Intelligent Data Engineering Lab

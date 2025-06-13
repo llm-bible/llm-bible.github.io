@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: si2024controlling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06955"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06955'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) is a recent advancement in the capabilities of
 large language models (LLMs). This feature allows users to perform a new task

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: alyafeai2024arabic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04277"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04277'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown impressive results in multiple

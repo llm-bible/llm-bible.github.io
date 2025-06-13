@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: duckworth2019parallel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1906.04331"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1906.04331'}
+tags: ['Applications', 'Training Techniques']
 ---
 Auto-regressive models are widely used in sequence generation problems. The
 output sequence is typically generated in a predetermined order, one discrete

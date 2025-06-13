@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hosseini2024v
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06457"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06457'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Common self-improvement approaches for large language models (LLMs), such as
 STaR, iteratively fine-tune LLMs on self-generated solutions to improve their

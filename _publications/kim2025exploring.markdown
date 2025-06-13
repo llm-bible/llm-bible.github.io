@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10886"}
-tags: ['Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10886'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Applications']
 ---
 Deploying large language models (LLMs) with agency in real-world applications
 raises critical questions about how these models will behave. In particular,

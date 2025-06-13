@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01490"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01490'}
+tags: ['Pre-Training', 'RAG', 'Training Techniques']
 ---
 Scaling the rotary position embedding (RoPE) has become a common method for
 extending the context window of RoPE-based large language models (LLMs).

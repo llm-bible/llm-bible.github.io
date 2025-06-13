@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: elaraby2023estimation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11764"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11764'}
 tags: ['Tools', 'Applications']
 ---
 Large Language Models (LLMs) have revolutionized Natural Language Processing

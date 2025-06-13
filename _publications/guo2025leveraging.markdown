@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21596"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21596'}
+tags: ['RAG', 'Security', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 With the rapid advancement of artificial intelligence, there is an increasing
 demand for intelligent robots capable of assisting humans in daily tasks and

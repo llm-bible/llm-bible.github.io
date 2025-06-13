@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023how
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2301.07597v1"}
-  - {name: "Code", url: "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2301.07597v1'}
+  - {name: "Code", url: 'https://github.com/Hello-SimpleAI/chatgpt-comparison-detection'}
+tags: ['Attention Mechanism', 'Has Code', 'Security', 'GPT', 'Model Architecture']
 ---
 The introduction of ChatGPT has garnered widespread attention in both
 academic and industrial communities. ChatGPT is able to respond effectively to

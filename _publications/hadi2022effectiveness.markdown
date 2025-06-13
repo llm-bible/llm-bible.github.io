@@ -6,8 +6,8 @@ conference: "30th International Conference on Program Comprehension (ICPC 22) Ma
 year: 2022
 bibkey: hadi2022effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.03498"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.03498'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Tools', 'Tokenization', 'Pretraining Methods']
 ---
 Developers frequently use APIs to implement certain functionalities, such as
 parsing Excel Files, reading and writing text files line by line, etc.

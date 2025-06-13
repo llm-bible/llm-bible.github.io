@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02105"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02105'}
+tags: ['Security', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown great potential as general-purpose AI
 assistants in various domains. To meet the requirements of different

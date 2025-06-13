@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kalajdzievski2023rank
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03732"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03732'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) have become increasingly compute and memory

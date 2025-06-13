@@ -6,8 +6,8 @@ conference: "Findings of ACL 2022 pp. 3368-3379"
 year: 2022
 bibkey: novotney2022cue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.08774"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.08774'}
+tags: ['Transformer', 'ACL', 'Training Techniques', 'Model Architecture', 'Tools', 'BERT', 'Pretraining Methods']
 ---
 We propose a framework to modularize the training of neural language models
 that use diverse forms of sentence-external context (including metadata) by

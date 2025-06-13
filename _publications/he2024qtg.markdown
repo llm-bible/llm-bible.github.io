@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024qtg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09348"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09348'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 In the domain of video question answering (VideoQA), the impact of question
 types on VQA systems, despite its critical importance, has been relatively

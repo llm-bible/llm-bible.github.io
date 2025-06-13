@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09210"}
-tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09210'}
+tags: ['RAG', 'Security', 'GPT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Retrieval-augmented language models (RALMs) represent a substantial
 advancement in the capabilities of large language models, notably in reducing

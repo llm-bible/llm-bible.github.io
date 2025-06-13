@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohankumar2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14346"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14346'}
+tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Model Architecture', 'GPT', 'Merging', 'Reinforcement Learning']
 ---
 Accurately retrieving relevant bid keywords for user queries is critical in
 Sponsored Search but remains challenging, particularly for short, ambiguous

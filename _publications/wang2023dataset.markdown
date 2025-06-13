@@ -6,8 +6,8 @@ conference: "Findings of the Association for Computational Linguistics ACL 2024"
 year: 2023
 bibkey: wang2023dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15959"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15959'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Prompting']
 ---
 We introduce NoteChat, a novel cooperative multi-agent framework leveraging
 Large Language Models (LLMs) to generate patient-physician dialogues. NoteChat

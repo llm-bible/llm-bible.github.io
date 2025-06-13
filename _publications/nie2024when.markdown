@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nie2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09165"}
-tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09165'}
+tags: ['ACL', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Merging', 'Survey Paper', 'Reinforcement Learning', 'TACL']
 ---
 Text embedding has become a foundational technology in natural language
 processing (NLP) during the deep learning era, driving advancements across a

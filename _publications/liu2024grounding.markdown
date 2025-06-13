@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02742"}
-tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02742'}
+tags: ['Agentic', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Despite a widespread success in various applications, large language models
 (LLMs) often stumble when tackling basic physical reasoning or executing

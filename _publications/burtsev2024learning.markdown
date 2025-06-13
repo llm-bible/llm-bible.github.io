@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: burtsev2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01417"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01417'}
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models demonstrate remarkable mathematical capabilities but at
 the same time struggle with abstract reasoning and planning. In this study, we

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: luo2023hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12669"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12669'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Model Architecture', 'Applications', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Answering numerical questions over hybrid contents from the given tables and
 text(TextTableQA) is a challenging task. Recently, Large Language Models (LLMs)

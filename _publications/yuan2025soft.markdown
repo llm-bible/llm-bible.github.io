@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025soft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03544"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03544'}
+tags: ['Reinforcement Learning', 'Prompting', 'Efficiency and Optimization', 'Responsible AI']
 ---
 Text-to-image (T2I) models have been shown to be vulnerable to misuse,
 particularly in generating not-safe-for-work (NSFW) content, raising serious

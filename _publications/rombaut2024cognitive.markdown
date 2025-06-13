@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rombaut2024cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03455"}
-tags: ['Agentic', 'Model Architecture', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03455'}
+tags: ['Agentic', 'Tools', 'Model Architecture']
 ---
 As foundation models (FMs) play an increasingly prominent role in complex
 software systems, such as agentic software, they introduce significant

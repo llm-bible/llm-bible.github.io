@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: deng2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09101"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09101'}
 tags: ['Prompting']
 ---
 Large Language Models (LLMs) employing Chain-of-Thought (CoT) prompting have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06511"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06511'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'Pre-Training']
 ---
 The development of large language models (LLMs) has been instrumental in
 advancing state-of-the-art natural language processing applications. Training

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: deng2023investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09783"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09783'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Recent observations have underscored a disparity between the inflated
 benchmark scores and the actual performance of LLMs, raising concerns about

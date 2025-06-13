@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: strugatski2024applying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02713"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02713'}
 tags: ['GPT', 'Model Architecture']
 ---
 Generative AI is transforming the educational landscape, raising significant

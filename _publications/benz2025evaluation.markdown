@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: benz2025evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01754"}
-tags: ['Tools', 'GPT', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01754'}
+tags: ['Prompting', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 State of the art large language models rely on randomization to respond to a
 prompt. As an immediate consequence, a model may respond differently to the

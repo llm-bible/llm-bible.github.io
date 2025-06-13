@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shah2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07162"}
-tags: ['BERT', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07162'}
+tags: ['GPT', 'BERT', 'Model Architecture']
 ---
 Automatic analysis of user reviews to understand user sentiments toward app
 functionality (i.e. app features) helps align development efforts with user

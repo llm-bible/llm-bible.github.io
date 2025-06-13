@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17662"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17662'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 In recent years, large language models (LLMs) have achieved breakthrough
 progress in many dialogue generation tasks. However, their lack of emotion and

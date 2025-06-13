@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: diamond2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01726"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01726'}
 tags: ['Tools', 'Survey Paper']
 ---
 For many people, anxiety, depression, and other social and mental factors can

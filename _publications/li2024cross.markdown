@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16765"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16765'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have become increasingly popular for their
 advanced text generation capabilities across various domains. However, like any

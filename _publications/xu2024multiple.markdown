@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024multiple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13053"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13053'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 The pretrain+fine-tune paradigm is foundational for deploying large language
 models (LLMs) across various downstream applications. Within this framework,

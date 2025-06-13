@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prosser2024helpful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09795"}
-tags: ['Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09795'}
+tags: ['Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Powerful generative Large Language Models (LLMs) are becoming popular tools
 amongst the general public as question-answering systems, and are being

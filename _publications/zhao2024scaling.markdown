@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11550"}
-tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11550'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Large language models (LLMs) have demonstrated impressive performance in
 understanding language and executing complex reasoning tasks. However, LLMs

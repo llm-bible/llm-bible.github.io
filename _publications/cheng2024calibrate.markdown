@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024calibrate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02210"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02210'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 While in-context learning with large language models (LLMs) has shown

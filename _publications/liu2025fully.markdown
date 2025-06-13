@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025fully
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09925"}
-  - {name: "Code", url: "https://github.com/starriver030515/FUSION"}
-tags: ['Multimodal Models', 'Has Code', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09925'}
+  - {name: "Code", url: 'https://github.com/starriver030515/FUSION'}
+tags: ['Has Code', 'Multimodal Models', 'Merging']
 ---
 We introduce FUSION, a family of multimodal large language models (MLLMs)
 with a fully vision-language alignment and integration paradigm. Unlike

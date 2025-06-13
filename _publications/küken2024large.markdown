@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: küken2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17787"}
-tags: ['Language Modeling', 'Tools', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17787'}
+tags: ['Ethics and Bias', 'Language Modeling', 'Applications', 'Tools']
 ---
 Tabular machine learning problems often require time-consuming and
 labor-intensive feature engineering. Recent efforts have focused on using large

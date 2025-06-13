@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024unims
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13256"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13256'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) has shown exceptional capabilities in many
 natual language understanding and generation tasks. However, the

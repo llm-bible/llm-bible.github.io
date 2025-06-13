@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: boža2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02938"}
-  - {name: "Code", url: "https://github.com/fmfi-compbio/admm-pruning"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02938'}
+  - {name: "Code", url: 'https://github.com/fmfi-compbio/admm-pruning'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Pruning large language models (LLMs) is a challenging task due to their
 enormous size. The primary difficulty is fine-tuning the model after pruning,

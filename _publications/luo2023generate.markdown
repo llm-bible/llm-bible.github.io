@@ -6,8 +6,8 @@ conference: "ACL 2024"
 year: 2023
 bibkey: luo2023generate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08975"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08975'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Knowledge Base Question Answering (KBQA) aims to answer natural language
 questions over large-scale knowledge bases (KBs), which can be summarized into

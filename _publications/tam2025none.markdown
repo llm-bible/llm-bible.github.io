@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tam2025none
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01550"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01550'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Applications']
 ---
 Multiple-choice exam questions with "None of the above" (NA) options have
 been extensively studied in educational testing, in which existing research

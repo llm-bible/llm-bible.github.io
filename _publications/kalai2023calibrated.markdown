@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kalai2023calibrated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14648"}
-tags: ['Transformer', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14648'}
+tags: ['Transformer', 'ACL', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'Pretraining Methods']
 ---
 Recent language models generate false but plausible-sounding text with
 surprising frequency. Such "hallucinations" are an obstacle to the usability of

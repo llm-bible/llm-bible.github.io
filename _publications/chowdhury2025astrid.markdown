@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chowdhury2025astrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08208"}
-tags: ['Agentic', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08208'}
+tags: ['Agentic', 'RAG', 'Applications', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown impressive potential in clinical
 question answering (QA), with Retrieval Augmented Generation (RAG) emerging as

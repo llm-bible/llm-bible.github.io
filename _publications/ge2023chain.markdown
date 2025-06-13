@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ge2023chain
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.07919v2"}
-tags: ['Pre-Training', 'Applications', 'Language Modeling', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.07919v2'}
+tags: ['Language Modeling', 'Few-Shot', 'Training Techniques', 'Applications', 'Prompting', 'Multimodal Models', 'Pre-Training']
 ---
 Language-Image Pre-training has demonstrated promising results on zero-shot
 and few-shot downstream tasks by prompting visual models with natural language

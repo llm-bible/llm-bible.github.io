@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11381"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11381'}
 tags: ['Prompting']
 ---
 As the utilization of language models in interdisciplinary, human-centered

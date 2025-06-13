@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23537"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23537'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Quantization']
 ---
 Large Language Models (LLMs) represent a revolutionary advancement in the
 contemporary landscape of artificial general intelligence (AGI). As exemplified

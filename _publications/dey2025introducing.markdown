@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dey2025introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10328"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10328'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Applications']
 ---
 The standard language modeling (LM) loss by itself has been shown to be
 inadequate for effective dialogue modeling. As a result, various training

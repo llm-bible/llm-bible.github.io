@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lv2025bi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07769"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07769'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Vision-language models (VLMs) have exhibited remarkable generalization
 capabilities, and prompt learning for VLMs has attracted great attention for

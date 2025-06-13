@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.10081"}
-  - {name: "Code", url: "https://github.com/oneal2000/DRAGIN/tree/main"}
-tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.10081'}
+  - {name: "Code", url: 'https://github.com/oneal2000/DRAGIN/tree/main'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Applications', 'Tools']
 ---
 Dynamic retrieval augmented generation (RAG) paradigm actively decides when
 and what to retrieve during the text generation process of Large Language

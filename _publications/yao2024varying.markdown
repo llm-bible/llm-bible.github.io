@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024varying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11055"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11055'}
 tags: ['Efficiency and Optimization']
 ---
 In the absence of abundant reliable annotations for challenging tasks and

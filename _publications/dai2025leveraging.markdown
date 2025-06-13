@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dai2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10902"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10902'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Merging']
 ---
 Task arithmetic is a straightforward yet highly effective strategy for model
 merging, enabling the resultant model to exhibit multi-task capabilities.

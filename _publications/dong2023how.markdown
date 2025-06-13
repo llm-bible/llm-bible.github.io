@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dong2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17696"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17696'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Integrating Large Language Models (LLMs) in Intelligent Tutoring Systems
 (ITS) presents transformative opportunities for personalized education.

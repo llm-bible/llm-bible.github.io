@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gong2024dive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04514"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04514'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 Despite the great success of Large Vision-Language Models (LVLMs), they
 inevitably suffer from hallucination. As we know, both the visual encoder and

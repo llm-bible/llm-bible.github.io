@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gupta2025enough
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04722"}
-tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04722'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Model Architecture', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 Large language models (LLMs) exhibit the ability to generalize given few-shot
 examples in their input prompt, an emergent capability known as in-context

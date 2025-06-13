@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12130"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12130'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Low-rank adaptation is a popular parameter-efficient fine-tuning method for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yu2021lv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.11740"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.11740'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Modern pre-trained language models are mostly built upon backbones stacking
 self-attention and feed-forward layers in an interleaved order. In this paper,

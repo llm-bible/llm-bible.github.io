@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024retrievable
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2403.01744v2"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2403.01744v2'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'BERT', 'Prompting', 'Pretraining Methods']
 ---
 People enjoy sharing "notes" including their experiences within online
 communities. Therefore, recommending notes aligned with user interests has

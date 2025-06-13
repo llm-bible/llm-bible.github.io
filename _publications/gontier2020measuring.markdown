@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: gontier2020measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.14786"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.14786'}
 tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We are interested in understanding how well Transformer language models

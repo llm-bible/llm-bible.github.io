@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: che2025eliminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07772"}
-tags: ['Training Techniques', 'Multimodal Models', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07772'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Multimodal Models', 'Model Architecture']
 ---
 Despite their remarkable potential, Large Vision-Language Models (LVLMs)
 still face challenges with object hallucination, a problem where their

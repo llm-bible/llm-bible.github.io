@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04755"}
-tags: ['Security', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04755'}
+tags: ['Ethics and Bias', 'Security', 'Prompting']
 ---
 Writing effective prompts for large language models (LLM) can be unintuitive
 and burdensome. In response, services that optimize or suggest prompts have

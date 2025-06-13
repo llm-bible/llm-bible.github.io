@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: koh2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13649"}
-  - {name: "Code", url: "https://jykoh.com/vwa"}
-tags: ['Agentic', 'Tools', 'Has Code', 'Agent', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13649'}
+  - {name: "Code", url: 'https://jykoh.com/vwa'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Tools', 'Multimodal Models']
 ---
 Autonomous agents capable of planning, reasoning, and executing actions on
 the web offer a promising avenue for automating computer tasks. However, the

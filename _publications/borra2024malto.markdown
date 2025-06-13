@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: borra2024malto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00964"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00964'}
 tags: ['RAG']
 ---
 In Natural Language Generation (NLG), contemporary Large Language Models

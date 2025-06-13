@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhatti2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06974"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06974'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We are introducing SM70, a 70 billion-parameter Large Language Model that is
 specifically designed for SpassMed's medical devices under the brand name

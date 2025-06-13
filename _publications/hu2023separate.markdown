@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023separate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.08090"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.08090'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Large language models (LLMs) have been widely used in various applications

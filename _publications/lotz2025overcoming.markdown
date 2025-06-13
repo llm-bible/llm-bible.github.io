@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lotz2025overcoming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02122"}
-tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Tokenization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02122'}
+tags: ['RAG', 'Efficiency and Optimization', 'Tokenization', 'Training Techniques']
 ---
 Subword tokenization requires balancing computational efficiency and
 vocabulary coverage, which often leads to suboptimal performance on languages

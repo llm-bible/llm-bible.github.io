@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: akyon2021automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.06476"}
-  - {name: "Code", url: "https://github.com/obss/turkish-question-generation"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.06476'}
+  - {name: "Code", url: 'https://github.com/obss/turkish-question-generation'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 While exam-style questions are a fundamental educational tool serving a
 variety of purposes, manual construction of questions is a complex process that

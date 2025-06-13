@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17800"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17800'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated strong reasoning capabilities
 across various tasks. However, even minor variations in query phrasing, despite

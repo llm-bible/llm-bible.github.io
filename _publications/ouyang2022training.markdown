@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ouyang2022training
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2203.02155v1"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2203.02155v1'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Making language models bigger does not inherently make them better at
 following a user's intent. For example, large language models can generate

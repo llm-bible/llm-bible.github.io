@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: calanzone2024logically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13724"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13724'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are a promising venue for natural language
 understanding and generation. However, current LLMs are far from reliable: they

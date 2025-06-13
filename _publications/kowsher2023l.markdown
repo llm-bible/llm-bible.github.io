@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kowsher2023l
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01643"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01643'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Efficiently fine-tuning Large Language Models (LLMs) for specific tasks
 presents a considerable challenge in natural language processing. Traditional

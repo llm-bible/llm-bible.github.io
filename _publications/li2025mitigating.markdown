@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12422"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12422'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 High-stakes domains like cyber operations need responsible and trustworthy AI
 methods. While large language models (LLMs) are becoming increasingly popular

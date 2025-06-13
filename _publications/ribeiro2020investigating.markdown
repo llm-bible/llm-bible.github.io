@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ribeiro2020investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.08426"}
-tags: ['Applications', 'Training Techniques', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.08426'}
+tags: ['Language Modeling', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Graph-to-text generation aims to generate fluent texts from graph-based data.
 In this paper, we investigate two recently proposed pretrained language models

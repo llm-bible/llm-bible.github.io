@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21646"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21646'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 In this paper, we present Cross Language Agent -- Simultaneous
 Interpretation, CLASI, a high-quality and human-like Simultaneous Speech

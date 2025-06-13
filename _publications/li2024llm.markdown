@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17250"}
-tags: ['Training Techniques', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17250'}
+tags: ['Prompting', 'Tools', 'Training Techniques']
 ---
 The performance of Dense retrieval (DR) is significantly influenced by the
 quality of negative sampling. Traditional DR methods primarily depend on naive

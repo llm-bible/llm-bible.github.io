@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mascarell2024german
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03750"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03750'}
+tags: ['Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 The advent of Large Language Models (LLMs) has led to remarkable progress on
 a wide range of natural language processing tasks. Despite the advances, these

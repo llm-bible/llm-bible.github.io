@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: emani2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04607"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04607'}
 tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Artificial intelligence (AI) methods have become critical in scientific

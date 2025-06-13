@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: paul2024core
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05800"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05800'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Deep networks are frequently tuned to novel tasks and continue learning from
 ongoing data streams. Such sequential training requires consolidation of new

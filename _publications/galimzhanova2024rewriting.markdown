@@ -6,8 +6,8 @@ conference: "2023 IEEE/WIC International Conference on Web Intelligence and Inte
 year: 2024
 bibkey: galimzhanova2024rewriting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07797"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07797'}
+tags: ['Agentic', 'Few-Shot', 'Applications', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Many recent studies have shown the ability of large language models (LLMs) to
 achieve state-of-the-art performance on many NLP tasks, such as question

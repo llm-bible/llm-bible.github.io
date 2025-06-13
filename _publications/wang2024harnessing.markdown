@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09044"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09044'}
 tags: ['Fine-Tuning']
 ---
 Efficient finetuning of large language models (LLMs) aims to adapt the LLMs

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025dimm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17584"}
-tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17584'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Large Language Models (LLMs) increasingly require processing long text
 sequences, but GPU memory limitations force difficult trade-offs between memory

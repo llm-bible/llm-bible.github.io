@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: burnell2023revealing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10062"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Large-Scale Training', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10062'}
+tags: ['Large-Scale Training', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Pre-Training']
 ---
 Building a theoretical understanding of the capabilities of large language
 models (LLMs) is vital for our ability to predict and explain the behavior of

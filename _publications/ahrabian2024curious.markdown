@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahrabian2024curious
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12117"}
-  - {name: "Code", url: "https://github.com/usc-isi-i2/isi-mmlm-rpm"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12117'}
+  - {name: "Code", url: 'https://github.com/usc-isi-i2/isi-mmlm-rpm'}
 tags: ['Masked Language Model', 'Has Code', 'Prompting', 'Applications']
 ---
 While large language models (LLMs) are still being adopted to new domains and

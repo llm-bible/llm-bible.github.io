@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10962"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10962'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 System-prompting is a standard tool for customizing language-model chatbots,
 enabling them to follow a specific instruction. An implicit assumption in the

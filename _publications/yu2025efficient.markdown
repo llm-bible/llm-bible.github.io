@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00810"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00810'}
 tags: ['RAG']
 ---
 Large Language Models (LLMs) can achieve enhanced complex problem-solving

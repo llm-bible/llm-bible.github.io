@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: vennam2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11371"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11371'}
 tags: ['Uncategorized']
 ---
 Thinking Tokens (TT) have been proposed as an unsupervised method to

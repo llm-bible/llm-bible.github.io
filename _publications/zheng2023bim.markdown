@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023bim
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.09333"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09333'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Efficient information retrieval (IR) from building information models (BIMs)
 poses significant challenges due to the necessity for deep BIM knowledge or

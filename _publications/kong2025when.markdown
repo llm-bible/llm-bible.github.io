@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kong2025when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23566"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23566'}
+tags: ['Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Large language models (LLMs) have been actively applied in the mental health
 field. Recent research shows the promise of LLMs in applying psychotherapy,

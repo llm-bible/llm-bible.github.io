@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kumar2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05233"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05233'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning', 'Pretraining Methods']
 ---
 This paper introduces a novel approach to efficiently feeding knowledge to
 language models (LLMs) during prediction by integrating retrieval and

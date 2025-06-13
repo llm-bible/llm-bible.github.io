@@ -6,8 +6,8 @@ conference: "Addepalli S. Varun Y. Suggala A. Shanmugam K. Jain P. (2025). Does 
 year: 2024
 bibkey: addepalli2024does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03235"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03235'}
+tags: ['RAG', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are known to be susceptible to crafted
 adversarial attacks or jailbreaks that lead to the generation of objectionable

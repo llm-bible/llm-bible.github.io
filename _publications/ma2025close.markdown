@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025close
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12549"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12549'}
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 To what extent can entire books be extracted from LLMs? Using the Llama 3 70B
 family of models, and the "prefix-prompting" extraction technique, we were able

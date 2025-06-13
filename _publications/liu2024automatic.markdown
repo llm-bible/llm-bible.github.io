@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06258"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06258'}
+tags: ['Ethics and Bias', 'Responsible AI', 'Tools']
 ---
 In an era of model and data proliferation in machine learning/AI especially
 marked by the rapid advancement of open-sourced technologies, there arises a

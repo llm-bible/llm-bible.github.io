@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025sparse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19078"}
-  - {name: "Code", url: "https://github.com/Oldify/CLADA}{CLADA"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19078'}
+  - {name: "Code", url: 'https://github.com/Oldify/CLADA}{CLADA'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pruning']
 ---
 Dense large language models(LLMs) face critical efficiency bottlenecks as
 they rigidly activate all parameters regardless of input complexity. While

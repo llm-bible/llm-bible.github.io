@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jie2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10278"}
-tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10278'}
+tags: ['Attention Mechanism', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have attracted great attention given their
 strong performance on a wide range of NLP tasks. In practice, users often

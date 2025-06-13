@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13120"}
-  - {name: "Code", url: "https://github.com/bytedance/E2STR"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13120'}
+  - {name: "Code", url: 'https://github.com/bytedance/E2STR'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Scene text recognition (STR) in the wild frequently encounters challenges
 when coping with domain variations, font diversity, shape deformations, etc. A

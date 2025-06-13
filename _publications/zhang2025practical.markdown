@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03957"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03957'}
 tags: ['RAG', 'Security']
 ---
 Large language models (LLMs) have demonstrated impressive natural language

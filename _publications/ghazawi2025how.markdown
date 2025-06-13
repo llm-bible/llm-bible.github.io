@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ghazawi2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16516"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16516'}
+tags: ['Few-Shot', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Tokenization', 'Pretraining Methods']
 ---
 This research assesses the effectiveness of state-of-the-art large language
 models (LLMs), including ChatGPT, Llama, Aya, Jais, and ACEGPT, in the task of

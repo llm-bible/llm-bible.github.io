@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: kimiteam2025kimi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07491"}
-  - {name: "Code", url: "https://github.com/MoonshotAI/Kimi-VL"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07491'}
+  - {name: "Code", url: 'https://github.com/MoonshotAI/Kimi-VL'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present Kimi-VL, an efficient open-source Mixture-of-Experts (MoE)
 vision-language model (VLM) that offers advanced multimodal reasoning,

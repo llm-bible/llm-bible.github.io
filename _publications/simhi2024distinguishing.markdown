@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: simhi2024distinguishing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22071"}
-  - {name: "Code", url: "https://github.com/technion-cs-nlp/hallucination-mitigation"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22071'}
+  - {name: "Code", url: 'https://github.com/technion-cs-nlp/hallucination-mitigation'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) are susceptible to hallucinations -- factually
 incorrect outputs -- leading to a large body of work on detecting and

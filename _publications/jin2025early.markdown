@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025early
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18915"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18915'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 a wide range of natural language processing tasks. However, they are often

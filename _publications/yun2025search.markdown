@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yun2025search
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13746"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13746'}
+tags: ['Applications', 'Fine-Tuning', 'Agentic', 'Tools']
 ---
 The paper introduces EICopilot, an novel agent-based solution enhancing
 search and exploration of enterprise registration data within extensive online

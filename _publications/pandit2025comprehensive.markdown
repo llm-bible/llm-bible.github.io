@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pandit2025comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14302"}
-tags: ['Responsible AI', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14302'}
+tags: ['GPT', 'Responsible AI', 'Model Architecture']
 ---
 Advancements in Large Language Models (LLMs) and their increasing use in
 medical question-answering necessitate rigorous evaluation of their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: tao2022compression
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.10705"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.10705'}
+tags: ['Efficiency and Optimization', 'Distillation', 'GPT', 'BERT', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 The increasing size of generative Pre-trained Language Models (PLMs) has
 greatly increased the demand for model compression. Despite various methods to

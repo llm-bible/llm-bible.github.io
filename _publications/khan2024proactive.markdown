@@ -6,8 +6,8 @@ conference: "Open Research Europe 5 (2025) 1-14"
 year: 2024
 bibkey: khan2024proactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13302"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13302'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved remarkable success in text-based
 tasks but often struggle to provide actionable guidance in real-world physical

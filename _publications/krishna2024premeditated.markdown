@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: krishna2024premeditated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07958"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07958'}
+tags: ['Agentic', 'RAG', 'Tools', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Modern AI assistants have made significant progress in natural language
 understanding and tool-use, with emerging efforts to interact with Web

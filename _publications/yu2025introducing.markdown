@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17425"}
-  - {name: "Code", url: "https://github.com/yu-rp/VisualPerceptionToken"}
-tags: ['RAG', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17425'}
+  - {name: "Code", url: 'https://github.com/yu-rp/VisualPerceptionToken'}
+tags: ['RAG', 'Has Code', 'Multimodal Models']
 ---
 To utilize visual information, Multimodal Large Language Model (MLLM) relies
 on the perception process of its vision encoder. The completeness and accuracy

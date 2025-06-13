@@ -6,8 +6,8 @@ conference: "SIGIR 2021 Proceedings of the 44th International ACM SIGIR Conferen
 year: 2021
 bibkey: zhang2021domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08414"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08414'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 We propose a novel domain-specific generative pre-training (DS-GPT) method
 for text generation and apply it to the product titleand review summarization

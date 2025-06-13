@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: suglia2021embodied
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.04927"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.04927'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language-guided robots performing home and office tasks must navigate in and
 interact with the world. Grounding language instructions against visual

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: li2019neuron
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.09877"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.09877'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'WMT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Recent NLP studies reveal that substantial linguistic information can be
 attributed to single neurons, i.e., individual dimensions of the representation

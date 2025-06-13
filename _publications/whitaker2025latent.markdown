@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: whitaker2025latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05553"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05553'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Stochastic embedding transitions introduce a probabilistic mechanism for
 adjusting token representations dynamically during inference, mitigating the

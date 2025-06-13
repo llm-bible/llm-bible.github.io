@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tulchinskii2024listening
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02343"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02343'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 A standard way to evaluate the abilities of LLM involves presenting a
 multiple-choice question and selecting the option with the highest logit as the

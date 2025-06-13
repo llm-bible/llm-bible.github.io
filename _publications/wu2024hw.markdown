@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024hw
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14842"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14842'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper presents the submission of Huawei Translation Services Center
 (HW-TSC) to machine translation tasks of the 20th China Conference on Machine

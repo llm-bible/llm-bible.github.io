@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bellan2022leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.03542"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.03542'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent advances in Natural Language Processing, and in particular on the
 construction of very large pre-trained language representation models, is

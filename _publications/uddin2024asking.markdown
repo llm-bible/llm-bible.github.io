@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: uddin2024asking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16413"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16413'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper presents a question-answering approach to extract document-level
 event-argument structures. We automatically ask and answer questions for each

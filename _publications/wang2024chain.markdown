@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16144"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16144'}
 tags: ['Reinforcement Learning']
 ---
 Current research found the issue of Early Answering in large language models

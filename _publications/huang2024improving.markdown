@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08477"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08477'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'RecSys', 'Pretraining Methods']
 ---
 Characterizing users and items through vector representations is crucial for
 various tasks in recommender systems. Recent approaches attempt to apply Large

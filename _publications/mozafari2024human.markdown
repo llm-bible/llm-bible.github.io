@@ -6,7 +6,7 @@ conference: "Proceedings of the 48th International ACM SIGIR Conference on Resea
 year: 2024
 bibkey: mozafari2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01626"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01626'}
 tags: ['Uncategorized']
 ---
 The use of Large Language Models (LLMs) has increased significantly with

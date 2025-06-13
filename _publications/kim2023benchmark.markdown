@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15421"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15421'}
+tags: ['Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Theory of mind (ToM) evaluations currently focus on testing models using
 passive narratives that inherently lack interactivity. We introduce FANToM, a

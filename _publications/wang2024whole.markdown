@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024whole
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.10135"}
-  - {name: "Code", url: "https://github.com/demoleiwang/LLMSRec_Syn"}
-tags: ['Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.10135'}
+  - {name: "Code", url: 'https://github.com/demoleiwang/LLMSRec_Syn'}
+tags: ['Prompting', 'Has Code', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown excellent performance on various NLP
 tasks. To use LLMs as strong sequential recommenders, we explore the in-context

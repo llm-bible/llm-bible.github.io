@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: leiter2023meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.13795"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.13795'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 ChatGPT, a chatbot developed by OpenAI, has gained widespread popularity and
 media attention since its release in November 2022. However, little hard

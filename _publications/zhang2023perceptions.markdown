@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023perceptions
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11567"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11567'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'Prompting', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 The rapid evolution of artificial intelligence (AI), specifically large
 language models (LLMs), has opened opportunities for various educational

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deshpande2024grading
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14140"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14140'}
+tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 The LLM-as-judge paradigm is increasingly being adopted for automated
 evaluation of model outputs. While LLM judges have shown promise on constrained

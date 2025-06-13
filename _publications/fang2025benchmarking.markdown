@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10090"}
-tags: ['Agentic', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10090'}
+tags: ['Reinforcement Learning', 'Agentic', 'Multimodal Models', 'Applications']
 ---
 Large language models (LLMs) and multimodal large language models (MLLMs)
 have significantly advanced artificial intelligence. However, visual reasoning,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024judging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07791"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07791'}
+tags: ['Fairness', 'Fine-Tuning', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 LLM-as-a-Judge has emerged as a promising alternative to human evaluators
 across various tasks, yet inherent biases - particularly position bias, the

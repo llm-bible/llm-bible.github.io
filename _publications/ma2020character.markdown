@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: ma2020character
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.01513"}
-  - {name: "Code", url: "https://github.com/wtma/CharBERT"}
-tags: ['Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.01513'}
+  - {name: "Code", url: 'https://github.com/wtma/CharBERT'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Pre-Training']
 ---
 Most pre-trained language models (PLMs) construct word representations at
 subword level with Byte-Pair Encoding (BPE) or its variations, by which OOV

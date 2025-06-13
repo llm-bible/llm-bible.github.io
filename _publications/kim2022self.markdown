@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kim2022self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.08082"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.08082'}
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 Large-scale pre-trained language models (PLMs) are well-known for being
 capable of solving a task simply by conditioning a few input-label pairs dubbed

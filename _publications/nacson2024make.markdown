@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nacson2024make
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08746"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08746'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Multimodal Models', 'Applications']
 ---
 Vision-Language Models (VLMs) excel in diverse visual tasks but face
 challenges in document understanding, which requires fine-grained text

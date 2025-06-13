@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: liu2019learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.10418"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.10418'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Automatic question generation is an important technique that can improve the
 training of question answering, help chatbots to start or continue a

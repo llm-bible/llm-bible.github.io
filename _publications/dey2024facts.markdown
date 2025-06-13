@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dey2024facts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10560"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10560'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Table-to-text generation, a long-standing challenge in natural language
 generation, has remained unexplored through the lens of subjectivity.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chung2025is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12372"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12372'}
 tags: ['RAG']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities across

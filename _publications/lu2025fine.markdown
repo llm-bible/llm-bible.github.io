@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11387"}
-  - {name: "Code", url: "https://github.com/LuJunru/RoleMRC"}
-tags: ['Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11387'}
+  - {name: "Code", url: 'https://github.com/LuJunru/RoleMRC'}
+tags: ['Reinforcement Learning', 'Has Code']
 ---
 Role-playing is important for Large Language Models (LLMs) to follow diverse
 instructions while maintaining role identity and the role's pre-defined ability

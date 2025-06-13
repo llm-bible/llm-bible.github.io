@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mi2024rolling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16069"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16069'}
 tags: ['Uncategorized']
 ---
 Human processing of idioms relies on understanding the contextual sentences

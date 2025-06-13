@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: neerudu2023robustness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14453"}
-  - {name: "Code", url: "https://github.com/PavanNeerudu/Robustness-of-Transformers-models]"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14453'}
+  - {name: "Code", url: 'https://github.com/PavanNeerudu/Robustness-of-Transformers-models]'}
+tags: ['Has Code', 'Transformer', 'Security', 'GPT', 'Model Architecture', 'BERT', 'Applications', 'Pretraining Methods']
 ---
 Transformer-based pretrained models like BERT, GPT-2 and T5 have been
 finetuned for a large number of natural language processing (NLP) tasks, and

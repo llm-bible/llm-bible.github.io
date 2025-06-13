@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07870"}
-  - {name: "Code", url: "https://github.com/aiwaves-cn/agents"}
-tags: ['Tools', 'Agentic', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07870'}
+  - {name: "Code", url: 'https://github.com/aiwaves-cn/agents'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Tools']
 ---
 Recent advances on large language models (LLMs) enable researchers and
 developers to build autonomous language agents that can automatically solve

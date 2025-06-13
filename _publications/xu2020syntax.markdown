@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: xu2020syntax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.14116"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.14116'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 We study the problem of leveraging the syntactic structure of text to enhance
 pre-trained models such as BERT and RoBERTa. Existing methods utilize syntax of

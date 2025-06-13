@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024user
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13940"}
-  - {name: "Code", url: "https://github.com/Alice1998/URS"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13940'}
+  - {name: "Code", url: 'https://github.com/Alice1998/URS'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are essential tools that users employ across
 various scenarios, so evaluating their performance and guiding users in

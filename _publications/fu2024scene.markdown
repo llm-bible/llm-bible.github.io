@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024scene
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11401"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11401'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications']
 ---
 This paper introduces Scene-LLM, a 3D-visual-language model that enhances
 embodied agents' abilities in interactive 3D indoor environments by integrating

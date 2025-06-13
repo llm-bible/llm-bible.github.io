@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021align
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.07651"}
-  - {name: "Code", url: "https://github.com/salesforce/ALBEF/"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.07651'}
+  - {name: "Code", url: 'https://github.com/salesforce/ALBEF/'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large-scale vision and language representation learning has shown promising
 improvements on various vision-language tasks. Most existing methods employ a

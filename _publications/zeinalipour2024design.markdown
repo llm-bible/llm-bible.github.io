@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeinalipour2024design
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06396"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06396'}
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Ethics and Bias', 'Interpretability']
 ---
 Pre-trained LLMs have demonstrated substantial capabilities across a range of
 conventional natural language processing (NLP) tasks, such as summarization and

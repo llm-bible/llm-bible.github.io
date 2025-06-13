@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chi2024novel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17038"}
-tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17038'}
+tags: ['Training Techniques', 'Few-Shot', 'Model Architecture', 'GPT']
 ---
 We introduce modeLing, a novel benchmark of Linguistics Olympiad-style
 puzzles which tests few-shot reasoning in AI systems. Solving these puzzles

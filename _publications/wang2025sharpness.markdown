@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025sharpness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19002"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19002'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformers consist of diverse building blocks, such as embedding layers,
 normalization layers, self-attention mechanisms, and point-wise feedforward

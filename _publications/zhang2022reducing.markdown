@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.09053"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.09053'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'Tools', 'Ethics and Bias']
 ---
 Simultaneous machine translation (SiMT) starts translating while receiving
 the streaming source inputs, and hence the source sentence is always incomplete

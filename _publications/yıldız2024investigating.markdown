@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yıldız2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17400"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17400'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Continual learning (CL) in large language models (LLMs) is an evolving domain
 that focuses on developing efficient and sustainable training strategies to

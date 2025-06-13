@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: oli2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10365"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10365'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 This paper investigates various approaches using Large Language Models (LLMs)
 to identify gaps and misconceptions in students' self-explanations of specific

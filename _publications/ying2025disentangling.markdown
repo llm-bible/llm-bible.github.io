@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ying2025disentangling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.24635"}
-  - {name: "Code", url: "https://yingjiahao14"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.24635'}
+  - {name: "Code", url: 'https://yingjiahao14'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 This paper introduces a Dual Evaluation Framework to comprehensively assess the multilingual capabilities of LLMs. By decomposing the evaluation along the dimensions of linguistic medium and cultural context, this framework enables a nuanced analysis of LLMs' ability to process questions within both native and cross-cultural contexts cross-lingually. Extensive evaluations are conducted on a wide range of models, revealing a notable "CulturalLinguistic Synergy" phenomenon, where models exhibit better performance when questions are culturally aligned with the language. This phenomenon is further explored through interpretability probing, which shows that a higher proportion of specific neurons are activated in a language's cultural context. This activation proportion could serve as a potential indicator for evaluating multilingual performance during model training. Our findings challenge the prevailing notion that LLMs, primarily trained on English data, perform uniformly across languages and highlight the necessity of culturally and linguistically model evaluations. Our code can be found at https://yingjiahao14. github.io/Dual-Evaluation/.

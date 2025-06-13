@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wen2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12822"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12822'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Language models (LMs) can produce errors that are hard to detect for humans,
 especially when the task is complex. RLHF, the most popular post-training

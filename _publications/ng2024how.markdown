@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ng2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13957"}
-  - {name: "Code", url: "https://github.com/CUHK-ARISE/ECHO"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13957'}
+  - {name: "Code", url: 'https://github.com/CUHK-ARISE/ECHO'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 The role-play ability of Large Language Models (LLMs) has emerged as a
 popular research direction. However, existing studies focus on imitating

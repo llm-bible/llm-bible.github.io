@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: shenoy2021adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.11070"}
-tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Merging', 'Masked Language Model', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.11070'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Agentic', 'Transformer', 'RAG', 'BERT', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Neural Language Models (NLM), when trained and evaluated with context
 spanning multiple utterances, have been shown to consistently outperform both

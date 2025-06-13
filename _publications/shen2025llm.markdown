@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shen2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16334"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16334'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent findings reveal that much of the knowledge in a Transformer-based
 Large Language Model (LLM) is encoded in its feed-forward (FFN) layers, where

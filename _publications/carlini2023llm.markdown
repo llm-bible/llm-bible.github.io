@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: carlini2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15008"}
-tags: ['GPT', 'Language Modeling', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15008'}
+tags: ['Language Modeling', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) are now highly capable at a diverse range of
 tasks. This paper studies whether or not GPT-4, one such LLM, is capable of

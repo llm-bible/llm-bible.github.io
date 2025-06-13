@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sreedhar2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03820"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03820'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent advancements in instruction-tuning datasets have predominantly focused
 on specific tasks like mathematical or logical reasoning. There has been a

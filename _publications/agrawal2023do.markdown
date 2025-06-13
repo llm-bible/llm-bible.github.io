@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: agrawal2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18248"}
-  - {name: "Code", url: "https://github.com/microsoft/hallucinated-references"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18248'}
+  - {name: "Code", url: 'https://github.com/microsoft/hallucinated-references'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 State-of-the-art language models (LMs) are notoriously susceptible to

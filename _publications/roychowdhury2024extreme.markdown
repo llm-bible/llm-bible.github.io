@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roychowdhury2024extreme
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.03963"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.03963'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Large language models (LLMs) with retrieval augmented-generation (RAG) have
 been the optimal choice for scalable generative AI solutions in the recent

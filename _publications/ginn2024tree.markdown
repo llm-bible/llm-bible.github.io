@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ginn2024tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16993"}
-tags: ['Transformer', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16993'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Linguists have long held that a key aspect of natural language syntax is the
 recursive organization of language units into constituent structures, and

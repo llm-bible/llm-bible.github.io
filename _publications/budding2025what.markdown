@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: budding2025what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12187"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12187'}
 tags: ['Tools']
 ---
 It is sometimes assumed that Large Language Models (LLMs) know language, or

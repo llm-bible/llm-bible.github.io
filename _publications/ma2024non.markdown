@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024non
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17195"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17195'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models have demonstrated remarkable abilities in reasoning and
 planning by breaking down complex problems into sequential steps. Despite their

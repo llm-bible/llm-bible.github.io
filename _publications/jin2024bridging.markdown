@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12174"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12174'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval-augmented large language models (LLMs) have demonstrated efficacy
 in knowledge-intensive tasks such as open-domain QA, addressing inherent

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: gupta2022mixing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.00320"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.00320'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Large pre-trained language models have brought remarkable progress in NLP.
 Pre-training and Fine-tuning have given state-of-art performance across tasks

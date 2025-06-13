@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sharma2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01054"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01054'}
+tags: ['Prompting', 'GPT', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) represent formidable tools for sequence
 modeling, boasting an innate capacity for general pattern recognition.

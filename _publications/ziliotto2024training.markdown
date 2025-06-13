@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ziliotto2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10402"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10402'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated excellent capabilities in
 composing various modules together to create programs that can perform complex

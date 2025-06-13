@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025solving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18394"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18394'}
 tags: ['GPT', 'Model Architecture']
 ---
 In recent years, large language models (LLMs) have shown an impressive

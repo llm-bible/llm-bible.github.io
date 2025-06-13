@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17727"}
-  - {name: "Code", url: "https://github.com/bebr2/EditCoT"}
-tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17727'}
+  - {name: "Code", url: 'https://github.com/bebr2/EditCoT'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated exceptional capabilities
 across a wide range of natural language processing (NLP) tasks. However,

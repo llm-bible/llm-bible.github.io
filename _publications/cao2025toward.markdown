@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cao2025toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18838"}
-tags: ['Responsible AI', 'Survey Paper', 'Applications', 'TACL', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18838'}
+tags: ['ACL', 'Applications', 'TACL', 'Survey Paper', 'Responsible AI']
 ---
 Large Language Models (LLMs) are advancing at an amazing speed and have
 become indispensable across academia, industry, and daily applications. To keep

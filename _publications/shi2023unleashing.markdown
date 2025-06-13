@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20587"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20587'}
+tags: ['Agentic', 'Transformer', 'Few-Shot', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Offline reinforcement learning (RL) aims to find a near-optimal policy using
 pre-collected datasets. In real-world scenarios, data collection could be

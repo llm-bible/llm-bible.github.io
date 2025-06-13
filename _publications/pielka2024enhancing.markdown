@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pielka2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02973"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02973'}
 tags: ['Tools', 'Survey Paper']
 ---
 We present an outline of the first large language model (LLM) based chatbot

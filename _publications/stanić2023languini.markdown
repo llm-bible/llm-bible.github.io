@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: stanić2023languini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11197"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11197'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Scaling Laws', 'Pre-Training']
 ---
 The Languini Kitchen serves as both a research collective and codebase
 designed to empower researchers with limited computational resources to

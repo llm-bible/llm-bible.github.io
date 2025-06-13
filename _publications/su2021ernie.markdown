@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: su2021ernie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.02241"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.02241'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Applications', 'Tools', 'BERT', 'Pretraining Methods']
 ---
 Pretrained language models (PLMs) such as BERT adopt a training paradigm
 which first pretrain the model in general data and then finetune the model on

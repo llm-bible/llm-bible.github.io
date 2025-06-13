@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023unlock
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08213"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08213'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Pre-Training']
 ---
 Recently, multi-modal content generation has attracted lots of attention from
 researchers by investigating the utilization of visual instruction tuning based

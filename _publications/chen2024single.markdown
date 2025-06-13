@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024single
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06438"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06438'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 We present SOLO, a single transformer for Scalable visiOn-Language mOdeling.
 Current large vision-language models (LVLMs) such as LLaVA mostly employ

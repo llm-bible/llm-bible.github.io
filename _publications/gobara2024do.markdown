@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gobara2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14453"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14453'}
 tags: ['Fine-Tuning']
 ---
 Education that suits the individual learning level is necessary to improve

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bassamzadeh2024comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02742"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02742'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Natural Language to Code Generation has made significant progress in recent
 years with the advent of Large Language Models(LLMs). While generation for

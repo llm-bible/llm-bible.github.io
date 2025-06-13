@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiang2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09455"}
-tags: ['GPT', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09455'}
+tags: ['GPT', 'Training Techniques', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 World models simulate future states of the world in response to different
 actions. They facilitate interactive content creation and provides a foundation

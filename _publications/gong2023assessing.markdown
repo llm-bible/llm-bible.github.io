@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gong2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12716"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12716'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We propose a novel VQA dataset, BloomVQA, to facilitate comprehensive
 evaluation of large vision-language models on comprehension tasks. Unlike

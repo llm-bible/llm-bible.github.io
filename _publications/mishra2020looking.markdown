@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: mishra2020looking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.09099"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.09099'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 In recent years, the Natural Language Inference (NLI) task has garnered
 significant attention, with new datasets and models achieving near human-level

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16236"}
-  - {name: "Code", url: "https://github.com/Fantasyele/LLaVA-KD"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16236'}
+  - {name: "Code", url: 'https://github.com/Fantasyele/LLaVA-KD'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 The success of Large Language Models (LLM) has led researchers to explore
 Multimodal Large Language Models (MLLM) for unified visual and linguistic

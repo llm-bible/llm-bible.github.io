@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10230"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10230'}
+tags: ['Efficiency and Optimization', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This paper investigates integrating large language models (LLMs) with
 advanced hardware, focusing on developing a general-purpose device designed for

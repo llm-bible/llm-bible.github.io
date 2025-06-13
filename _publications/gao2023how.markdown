@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.02182"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.02182'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 The recently released ChatGPT has demonstrated surprising abilities in
 natural language understanding and natural language generation. Machine

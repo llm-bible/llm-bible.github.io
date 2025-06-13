@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abramovich2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12594"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12594'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Prompting', 'Pre-Training']
 ---
 In recent years, notable advancements have been made in the domain of visual
 document understanding, with the prevailing architecture comprising a cascade

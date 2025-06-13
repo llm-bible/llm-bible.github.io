@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: poudel2024docstring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10243"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10243'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Effective communication, specifically through documentation, is the beating
 heart of collaboration among contributors in software development. Recent

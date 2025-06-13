@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: havrilla2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04642"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04642'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement Learning from Human Feedback (\textbf\{RLHF\}) has emerged as a
 dominant approach for aligning LLM outputs with human preferences. Inspired by

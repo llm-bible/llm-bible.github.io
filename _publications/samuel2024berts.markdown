@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: samuel2024berts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04823"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04823'}
+tags: ['Model Architecture', 'BERT', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 While in-context learning is commonly associated with causal language models,
 such as GPT, we demonstrate that this capability also 'emerges' in masked

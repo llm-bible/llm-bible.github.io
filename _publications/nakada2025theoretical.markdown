@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nakada2025theoretical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20561"}
-tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20561'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Prompting', 'Pretraining Methods']
 ---
 Prompt engineering has emerged as a powerful technique for guiding large
 language models (LLMs) toward desired responses, significantly enhancing their

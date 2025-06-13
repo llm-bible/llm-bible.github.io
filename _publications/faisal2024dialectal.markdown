@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: faisal2024dialectal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10954"}
-  - {name: "Code", url: "https://github.com/ffaisal93/dialect_toxicity_llm_judge"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10954'}
+  - {name: "Code", url: 'https://github.com/ffaisal93/dialect_toxicity_llm_judge'}
+tags: ['Reinforcement Learning', 'Has Code', 'Attention Mechanism', 'Model Architecture']
 ---
 There has been little systematic study on how dialectal differences affect
 toxicity detection by modern LLMs. Furthermore, although using LLMs as

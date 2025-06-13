@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025textualize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03495"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03495'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Prompting']
 ---
 Visual prompt, a pair of before-and-after edited images, can convey
 indescribable imagery transformations and prosper in image editing. However,

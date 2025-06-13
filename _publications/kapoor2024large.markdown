@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kapoor2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08391"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08391'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 When using large language models (LLMs) in high-stakes applications, we need
 to know when we can trust their predictions. Some works argue that prompting

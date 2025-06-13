@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lenat2023getting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04445"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04445'}
 tags: ['Applications']
 ---
 Generative AI, the most popular current approach to AI, consists of large

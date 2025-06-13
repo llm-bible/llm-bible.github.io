@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yang2021transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.03014"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.03014'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'BERT', 'Model Architecture', 'Survey Paper', 'Pretraining Methods']
 ---
 With the advent of Transformer, which was used in translation models in 2017,
 attention-based architectures began to attract attention. Furthermore, after

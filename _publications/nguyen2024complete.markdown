@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024complete
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02745"}
-tags: ['Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02745'}
+tags: ['Reinforcement Learning', 'Security']
 ---
 This paper addresses the challenges of aligning large language models (LLMs)
 with human values via preference learning (PL), focusing on incomplete and

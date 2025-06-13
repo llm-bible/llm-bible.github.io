@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: egli2025multiscale
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14553"}
-  - {name: "Code", url: "https://github.com/ai4sd/multiscale-byte-lm"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14553'}
+  - {name: "Code", url: 'https://github.com/ai4sd/multiscale-byte-lm'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods']
 ---
 Bytes form the basis of the digital world and thus are a promising building
 block for multimodal foundation models. Recently, Byte Language Models (BLMs)

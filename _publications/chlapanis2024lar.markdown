@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chlapanis2024lar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13352"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13352'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 We present Legal Argument Reasoning (LAR), a novel task designed to evaluate
 the legal reasoning capabilities of Large Language Models (LLMs). The task

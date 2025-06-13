@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramamurthy2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03300"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03300'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) often fail to synthesize information from their

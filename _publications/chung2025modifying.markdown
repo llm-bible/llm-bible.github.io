@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chung2025modifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17126"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17126'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 As creative writing tasks do not have singular correct answers, large
 language models (LLMs) trained to perform these tasks should be able to

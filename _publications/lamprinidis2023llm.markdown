@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lamprinidis2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11787"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11787'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have lately been on the spotlight of

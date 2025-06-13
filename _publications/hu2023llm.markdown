@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01933"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01933'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 The success of large language models (LLMs), like GPT-4 and ChatGPT, has led
 to the development of numerous cost-effective and accessible alternatives that

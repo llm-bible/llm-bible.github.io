@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sanwal2025layered
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18645"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Prompting', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18645'}
+tags: ['Arxiv', 'Agentic', 'Interpretability and Explainability', 'RAG', 'Tools', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLMs) leverage chain-of-thought (CoT) prompting to
 provide step-by-step rationales, improving performance on complex tasks.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: ma2019improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1912.00879"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1912.00879'}
 tags: ['RAG', 'Merging']
 ---
 Taking an answer and its context as input, sequence-to-sequence models have

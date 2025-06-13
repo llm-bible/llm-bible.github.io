@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024gui
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13719"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13719'}
+tags: ['Attention Mechanism', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 The advent of Multimodal LLMs has significantly enhanced image OCR
 recognition capabilities, making GUI automation a viable reality for increasing

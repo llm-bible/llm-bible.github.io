@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02866"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02866'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Software testing ensures the quality and reliability of software products,
 but manual test case creation is labor-intensive. With the rise of large

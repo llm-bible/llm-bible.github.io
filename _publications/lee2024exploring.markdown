@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13952"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13952'}
 tags: ['Prompting']
 ---
 In this paper, we study an under-explored area of language and vocabulary

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: lin2019tab
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.14671"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.14671'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Pruning', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Reasoning is an important ability that we learn from a very early age. Yet,
 reasoning is extremely hard for algorithms. Despite impressive recent progress

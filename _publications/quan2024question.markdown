@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: quan2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07938"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07938'}
 tags: ['Uncategorized']
 ---
 In this paper, we introduce EconLogicQA, a rigorous benchmark designed to

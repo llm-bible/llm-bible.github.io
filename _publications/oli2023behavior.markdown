@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: oli2023behavior
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01490"}
-tags: ['Interpretability and Explainability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01490'}
+tags: ['Prompting', 'Interpretability and Explainability']
 ---
 This paper systematically investigates the generation of code explanations by
 Large Language Models (LLMs) for code examples commonly encountered in

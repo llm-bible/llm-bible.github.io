@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: chiang2019learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1903.08953"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1903.08953'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 With the increasing research interest in dialogue response generation, there
 is an emerging branch formulating this task as selecting next sentences, where

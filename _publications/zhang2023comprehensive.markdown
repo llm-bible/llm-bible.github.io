@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15407"}
-  - {name: "Code", url: "https://github.com/e0397123/comp-analysis"}
-tags: ['GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15407'}
+  - {name: "Code", url: 'https://github.com/e0397123/comp-analysis'}
+tags: ['Has Code', 'RAG', 'Security', 'GPT', 'Model Architecture', 'Merging', 'Survey Paper', 'Reinforcement Learning']
 ---
 Automatic evaluation is an integral aspect of dialogue system research. The
 traditional reference-based NLG metrics are generally found to be unsuitable

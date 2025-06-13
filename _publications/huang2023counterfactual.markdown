@@ -6,8 +6,8 @@ conference: "Proceedings of the 62nd Annual Meeting of the Association for Compu
 year: 2023
 bibkey: huang2023counterfactual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17438"}
-  - {name: "Code", url: "https://github.com/Eleanor-H/CLOMO"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17438'}
+  - {name: "Code", url: 'https://github.com/Eleanor-H/CLOMO'}
 tags: ['Has Code', 'Uncategorized']
 ---
 In this study, we delve into the realm of counterfactual reasoning

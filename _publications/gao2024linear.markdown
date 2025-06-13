@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11458"}
-  - {name: "Code", url: "https://github.com/Wizardcoast/Linear_Alignment.git"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11458'}
+  - {name: "Code", url: 'https://github.com/Wizardcoast/Linear_Alignment.git'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
 ---
 The success of AI assistants based on Language Models (LLMs) hinges on
 Reinforcement Learning from Human Feedback (RLHF) to comprehend and align with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kabongo2024effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02409"}
-tags: ['Applications', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02409'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Efficiency and Optimization', 'Applications']
 ---
 This paper explores the impact of context selection on the efficiency of
 Large Language Models (LLMs) in generating Artificial Intelligence (AI)

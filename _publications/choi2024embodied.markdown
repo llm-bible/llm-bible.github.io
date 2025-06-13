@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024embodied
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11499"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11499'}
+tags: ['Attention Mechanism', 'Agentic', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Applications', 'Prompting']
 ---
 We address the challenge of utilizing large language models (LLMs) for
 complex embodied tasks, in the environment where decision-making systems

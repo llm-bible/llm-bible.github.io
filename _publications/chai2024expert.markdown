@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chai2024expert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16854"}
-tags: ['Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16854'}
+tags: ['Reinforcement Learning', 'Security', 'Tools']
 ---
 We present Expert-Token-Routing, a unified generalist framework that
 facilitates seamless integration of multiple expert LLMs. Our framework

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: paaß2023foundation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.08575"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Prompting', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.08575'}
+tags: ['Attention Mechanism', 'Arxiv', 'Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This open access book provides a comprehensive overview of the state of the
 art in research and applications of Foundation Models and is intended for

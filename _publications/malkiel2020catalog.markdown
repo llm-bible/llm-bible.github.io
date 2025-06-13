@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: malkiel2020catalog
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.13292"}
-tags: ['Training Techniques', 'BERT', 'Pre-Training', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.13292'}
+tags: ['Training Techniques', 'Pre-Training', 'BERT', 'Model Architecture']
 ---
 Language models that utilize extensive self-supervised pre-training from
 unlabeled text, have recently shown to significantly advance the

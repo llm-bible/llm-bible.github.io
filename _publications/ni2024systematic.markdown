@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10251"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10251'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Recent efforts have evaluated large language models (LLMs) in areas such as

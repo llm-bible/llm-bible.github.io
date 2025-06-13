@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024recent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01607"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01607'}
+tags: ['Training Techniques', 'RAG', 'Applications']
 ---
 Text embedding methods have become increasingly popular in both industrial
 and academic fields due to their critical role in a variety of natural language

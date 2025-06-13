@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wysocka2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17819"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17819'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'Merging', 'Ethics and Bias']
 ---
 The paper introduces a framework for the evaluation of the encoding of
 factual scientific knowledge, designed to streamline the manual evaluation

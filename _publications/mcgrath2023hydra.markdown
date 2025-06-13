@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mcgrath2023hydra
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15771"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15771'}
 tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture']
 ---
 We investigate the internal structure of language model computations using

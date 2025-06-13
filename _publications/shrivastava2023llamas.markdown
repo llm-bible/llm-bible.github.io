@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shrivastava2023llamas
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08877"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08877'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 To maintain user trust, large language models (LLMs) should signal low

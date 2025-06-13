@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dehghani2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.05442"}
-tags: ['Transformer', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05442'}
+tags: ['Transformer', 'Security', 'Fairness', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The scaling of Transformers has driven breakthrough capabilities for language
 models. At present, the largest large language models (LLMs) contain upwards of

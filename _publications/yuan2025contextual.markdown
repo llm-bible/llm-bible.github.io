@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09027"}
-  - {name: "Code", url: "https://github.com/yjdy/CAPE"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09027'}
+  - {name: "Code", url: 'https://github.com/yjdy/CAPE'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Sequential recommendation (SR), which encodes user activity to predict the
 next action, has emerged as a widely adopted strategy in developing commercial

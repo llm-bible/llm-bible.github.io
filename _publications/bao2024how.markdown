@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bao2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16048"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16048'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Chain-of-thought emerges as a promising technique for eliciting reasoning
 capabilities from Large Language Models (LLMs). However, it does not always

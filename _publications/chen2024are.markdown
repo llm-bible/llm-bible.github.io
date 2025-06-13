@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20330"}
-tags: ['Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20330'}
+tags: ['Large-Scale Training', 'RAG', 'Training Techniques', 'Tools', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large vision-language models (LVLMs) have recently achieved rapid progress,
 sparking numerous studies to evaluate their multi-modal capabilities. However,

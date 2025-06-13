@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rosati2024representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14577"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14577'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Releasing open-source large language models (LLMs) presents a dual-use risk
 since bad actors can easily fine-tune these models for harmful purposes. Even

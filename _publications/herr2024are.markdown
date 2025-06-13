@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: herr2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04467"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04467'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have been increasingly used in real-world
 settings, yet their strategic decision-making abilities remain largely

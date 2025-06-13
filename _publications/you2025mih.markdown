@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: you2025mih
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08904"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08904'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Recent methodologies utilizing synthetic datasets have aimed to address
 inconsistent hallucinations in large language models (LLMs); however,these

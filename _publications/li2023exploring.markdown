@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05850"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05850'}
+tags: ['GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 News recommendation systems (RS) play a pivotal role in the current digital
 age, shaping how individuals access and engage with information. The fusion of

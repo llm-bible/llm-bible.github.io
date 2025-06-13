@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: qi2019human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.07562"}
-tags: ['Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.07562'}
+tags: ['Reinforcement Learning', 'Model Architecture']
 ---
 Human thinking requires the brain to understand the meaning of language
 expression and to properly organize the thoughts flow using the language.

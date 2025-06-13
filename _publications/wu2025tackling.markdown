@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025tackling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17366"}
-  - {name: "Code", url: "https://github.com/Yarayx/livelongbench"}
-tags: ['Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17366'}
+  - {name: "Code", url: 'https://github.com/Yarayx/livelongbench'}
+tags: ['Reinforcement Learning', 'Has Code']
 ---
 Long-context understanding poses significant challenges in natural language
 processing, particularly for real-world dialogues characterized by speech-based

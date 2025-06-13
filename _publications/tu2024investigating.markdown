@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tu2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15993"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15993'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated strong capabilities in text
 understanding and generation. However, they often lack factuality, producing a

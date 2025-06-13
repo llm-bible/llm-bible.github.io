@@ -6,8 +6,8 @@ conference: "ESEC/FSE 2023"
 year: 2023
 bibkey: weyssow2023usage
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.04106"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.04106'}
+tags: ['Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'BERT', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained language models (PLMs) have become a prevalent technique in deep
 learning for code, utilizing a two-stage pre-training and fine-tuning procedure

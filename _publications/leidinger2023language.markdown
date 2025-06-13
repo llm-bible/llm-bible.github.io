@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: leidinger2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01967"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01967'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The latest generation of LLMs can be prompted to achieve impressive zero-shot
 or few-shot performance in many NLP tasks. However, since performance is highly

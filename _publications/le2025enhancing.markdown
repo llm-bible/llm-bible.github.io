@@ -6,8 +6,8 @@ conference: "The 8th International Conference on Information Technology Systems 
 year: 2025
 bibkey: le2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08746"}
-tags: ['BERT', 'RecSys', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08746'}
+tags: ['RecSys', 'BERT', 'Model Architecture']
 ---
 Recent advancements in language models and pre-trained language models like
 BERT and RoBERTa have revolutionized natural language processing, enabling a

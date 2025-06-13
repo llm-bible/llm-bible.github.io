@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.13192"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.13192'}
+tags: ['Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Focusing on text-to-image (T2I) generation, we propose Text and Image
 Mutual-Translation Adversarial Networks (TIME), a lightweight but effective

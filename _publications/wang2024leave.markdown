@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024leave
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17419"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17419'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Long-context modeling capabilities have garnered widespread attention,
 leading to the emergence of Large Language Models (LLMs) with ultra-context

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chung2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02612"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02612'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Applications', 'GPT', 'Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in text-to-image generative models have enabled numerous
 practical applications, including subject-driven generation, which fine-tunes

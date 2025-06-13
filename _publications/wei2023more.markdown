@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wei2023more
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19341"}
-tags: ['Training Techniques', 'Pre-Training', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19341'}
+tags: ['Pre-Training', 'Language Modeling', 'Training Techniques']
 ---
 In this technical report, we present Skywork-13B, a family of large language
 models (LLMs) trained on a corpus of over 3.2 trillion tokens drawn from both

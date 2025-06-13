@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023adaptation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11689"}
-tags: ['Fine-Tuning', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11689'}
+tags: ['Fine-Tuning', 'Applications', 'Tools']
 ---
 Large language models (LLMs) have recently shown great advances in a variety
 of tasks, including natural language understanding and generation. However,

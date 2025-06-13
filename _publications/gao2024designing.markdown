@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024designing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15115"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15115'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Reward models have been increasingly critical for improving the reasoning
 capability of LLMs. Existing research has shown that a well-trained reward

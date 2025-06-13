@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: thakur2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05800"}
-  - {name: "Code", url: "https://github.com/google-research-datasets/SWIM-IR"}
-tags: ['Fine-Tuning', 'RAG', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05800'}
+  - {name: "Code", url: 'https://github.com/google-research-datasets/SWIM-IR'}
+tags: ['Has Code', 'ACL', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 There has been limited success for dense retrieval models in multilingual
 retrieval, due to uneven and scarce training data available across multiple

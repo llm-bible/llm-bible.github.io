@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ye2025open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06823"}
-tags: ['Tools', 'Survey Paper', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06823'}
+tags: ['Tools', 'Model Architecture', 'Survey Paper']
 ---
 Knowledge is fundamental to the overall capabilities of Large Language Models
 (LLMs). The knowledge paradigm of a model, which dictates how it encodes and

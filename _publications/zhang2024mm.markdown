@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024mm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09492"}
-  - {name: "Code", url: "https://github.com/joenahm/MM-Eval"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09492'}
+  - {name: "Code", url: 'https://github.com/joenahm/MM-Eval'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) excel in high-resource languages but face

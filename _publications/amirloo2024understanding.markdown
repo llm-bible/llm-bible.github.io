@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amirloo2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02477"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02477'}
+tags: ['RAG', 'Efficiency and Optimization', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Preference alignment has become a crucial component in enhancing the
 performance of Large Language Models (LLMs), yet its impact in Multimodal Large

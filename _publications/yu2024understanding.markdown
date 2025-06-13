@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10950"}
-  - {name: "Code", url: "https://github.com/zepingyu0512/llava-mechanism"}
-tags: ['Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10950'}
+  - {name: "Code", url: 'https://github.com/zepingyu0512/llava-mechanism'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Understanding the mechanisms behind Large Language Models (LLMs) is crucial
 for designing improved models and strategies. While recent studies have yielded

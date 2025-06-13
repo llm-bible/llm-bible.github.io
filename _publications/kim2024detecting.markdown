@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10246"}
-tags: ['Responsible AI', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10246'}
+tags: ['Prompting', 'Responsible AI', 'Training Techniques']
 ---
 Large language models (LLMs) frequently generate confident yet inaccurate
 responses, introducing significant risks for deployment in safety-critical

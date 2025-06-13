@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thanh2024krag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07551"}
-tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07551'}
+tags: ['RAG', 'Interpretability and Explainability', 'Applications', 'Tools']
 ---
 This paper introduces Knowledge Representation Augmented Generation (KRAG), a
 novel framework designed to enhance the capabilities of Large Language Models

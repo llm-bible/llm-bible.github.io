@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ye2020contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.06207"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.06207'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Triple extraction is an essential task in information extraction for natural
 language processing and knowledge graph construction. In this paper, we revisit

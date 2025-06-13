@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: färber2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14223"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14223'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Text simplification is essential for making complex content accessible to

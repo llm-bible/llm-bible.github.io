@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16215"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16215'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Pre-Training']
 ---
 Knowledge distillation (KD) aims to transfer knowledge from a large teacher
 model to a smaller student model. Previous work applying KD in the field of

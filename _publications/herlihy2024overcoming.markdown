@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: herlihy2024overcoming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01633"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01633'}
+tags: ['Training Techniques', 'Fine-Tuning', 'RecSys', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We explore the use of Large Language Model (LLM-based) chatbots to power
 recommender systems. We observe that the chatbots respond poorly when they

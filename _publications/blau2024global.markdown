@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: blau2024global
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.03411"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.03411'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The increasing use of transformer-based large language models brings forward
 the challenge of processing long sequences. In document visual question

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10512"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10512'}
+tags: ['Agentic', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 General large language models (LLMs) such as ChatGPT have shown remarkable
 success. However, such LLMs have not been widely adopted for medical purposes,

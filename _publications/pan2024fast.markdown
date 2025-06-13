@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01009"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01009'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 Large language models (LLMs) have demonstrated emergent capabilities across
 diverse reasoning tasks via popular Chains-of-Thought (COT) prompting. However,

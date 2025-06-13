@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yan2023predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08390"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08390'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Comparative reasoning plays a crucial role in text preference prediction;
 however, large language models (LLMs) often demonstrate inconsistencies in

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: venkatasubramanian2024would
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06870"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06870'}
 tags: ['Interpretability and Explainability', 'Applications']
 ---
 Large Language Models (LLMs) are often criticized for lacking true

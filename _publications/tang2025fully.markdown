@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025fully
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05957"}
-tags: ['RAG', 'Agentic', 'Agent', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05957'}
+tags: ['RAG', 'Agentic', 'Tools', 'Agent']
 ---
 Large Language Model (LLM) Agents have demonstrated remarkable capabilities
 in task automation and intelligent decision-making, driving the widespread

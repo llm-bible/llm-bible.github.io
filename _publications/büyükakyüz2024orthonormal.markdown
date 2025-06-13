@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: büyükakyüz2024orthonormal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01775"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01775'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The advent of large language models (LLMs) has revolutionized natural
 language processing, enabling unprecedented capabilities in understanding and

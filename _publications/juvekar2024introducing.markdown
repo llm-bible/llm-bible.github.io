@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: juvekar2024introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19794"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19794'}
+tags: ['RAG', 'Efficiency and Optimization', 'Tools']
 ---
 This paper introduces a new hyper-parameter for Retrieval-Augmented
 Generation (RAG) systems called Context Window Utilization. RAG systems enhance

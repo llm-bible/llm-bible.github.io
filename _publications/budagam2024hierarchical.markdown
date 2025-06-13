@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: budagam2024hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12644"}
-tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12644'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Tools']
 ---
 Assessing the effectiveness of large language models (LLMs) in performing
 different tasks is crucial for understanding their strengths and weaknesses.

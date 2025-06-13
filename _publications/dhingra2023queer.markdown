@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dhingra2023queer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.00101"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.00101'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Large Language Models (LLMs) are trained primarily on minimally processed web
 text, which exhibits the same wide range of social biases held by the humans

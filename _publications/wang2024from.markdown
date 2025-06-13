@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14859"}
-tags: ['Security', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14859'}
+tags: ['Security', 'Multimodal Models', 'Tools']
 ---
 The rapid development of Large Language Models (LLMs) and Multimodal Large
 Language Models (MLLMs) has exposed vulnerabilities to various adversarial

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mieleszczenkokowszewicz2025mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09687"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09687'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Be careful what you ask for, you just might get it. This saying fits with the
 way large language models (LLMs) are trained, which, instead of being rewarded

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11527"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11527'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'BERT', 'Pretraining Methods']
 ---
 Although deep pre-trained language models have shown promising benefit in a
 large set of industrial scenarios, including Click-Through-Rate (CTR)

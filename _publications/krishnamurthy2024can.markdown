@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: krishnamurthy2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15371"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15371'}
+tags: ['Agentic', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 We investigate the extent to which contemporary Large Language Models (LLMs)
 can engage in exploration, a core capability in reinforcement learning and

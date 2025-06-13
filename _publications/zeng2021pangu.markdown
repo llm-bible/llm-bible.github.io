@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zeng2021pangu
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2104.12369v1"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2104.12369v1'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Pretraining Methods']
 ---
 Large-scale Pretrained Language Models (PLMs) have become the new paradigm
 for Natural Language Processing (NLP). PLMs with hundreds of billions

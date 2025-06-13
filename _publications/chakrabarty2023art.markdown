@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chakrabarty2023art
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14556"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14556'}
 tags: ['Uncategorized']
 ---
 Researchers have argued that large language models (LLMs) exhibit

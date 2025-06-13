@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shan2025cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02441"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02441'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Applications', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 This paper examines memory mechanisms in Large Language Models (LLMs),
 emphasizing their importance for context-rich responses, reduced

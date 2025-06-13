@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025split
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18986"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18986'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on private, on-device data can
 empower tailored personalized AI agents. However, fine-tuning LLMs on

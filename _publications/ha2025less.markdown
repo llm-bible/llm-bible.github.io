@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ha2025less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13661"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13661'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in

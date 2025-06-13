@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tikhonov2024humor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07280"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07280'}
 tags: ['GPT', 'Model Architecture']
 ---
 In this paper, we explore the generation of one-liner jokes through

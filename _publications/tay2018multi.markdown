@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: tay2018multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1803.09074"}
-tags: ['Merging', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1803.09074'}
+tags: ['Reinforcement Learning', 'Model Architecture', 'Merging']
 ---
 We propose MRU (Multi-Range Reasoning Units), a new fast compositional
 encoder for machine comprehension (MC). Our proposed MRU encoders are

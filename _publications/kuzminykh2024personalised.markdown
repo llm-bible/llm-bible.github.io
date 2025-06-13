@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kuzminykh2024personalised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11904"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11904'}
+tags: ['Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 AI tools, particularly large language modules, have recently proven their
 effectiveness within learning management systems and online education

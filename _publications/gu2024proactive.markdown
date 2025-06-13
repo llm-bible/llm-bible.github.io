@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024proactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11640"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11640'}
 tags: ['Agentic', 'Multimodal Models', 'Applications', 'Tools']
 ---
 The adoption of large language models (LLMs) in healthcare has attracted

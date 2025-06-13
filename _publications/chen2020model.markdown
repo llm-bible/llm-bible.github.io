@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chen2020model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.06127"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.06127'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Transformers that are pre-trained on multilingual corpora, such as, mBERT and
 XLM-RoBERTa, have achieved impressive cross-lingual transfer capabilities. In

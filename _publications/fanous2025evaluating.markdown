@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fanous2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08177"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08177'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly applied in educational,
 clinical, and professional settings, but their tendency for sycophancy --

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: jin2022probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.10176"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.10176'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Script knowledge is critical for humans to understand the broad daily tasks
 and routine activities in the world. Recently researchers have explored the

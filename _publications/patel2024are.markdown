@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: patel2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00149"}
-tags: ['Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00149'}
+tags: ['Prompting', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have succeeded considerably in
 In-Context-Learning (ICL) based summarization. However, saliency is subject to

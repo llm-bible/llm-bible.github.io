@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vijjini2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11107"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11107'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'Prompting', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 As large language models (LLMs) become increasingly integrated into daily
 applications, it is essential to ensure they operate fairly across diverse user

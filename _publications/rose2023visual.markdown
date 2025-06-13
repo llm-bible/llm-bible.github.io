@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rose2023visual
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.02317v3"}
-tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.02317v3'}
+tags: ['Interpretability and Explainability', 'RAG', 'Applications', 'Prompting', 'Multimodal Models']
 ---
 Recent advances in large language models elicit reasoning in a
 chain-of-thought that allows models to decompose problems in a human-like

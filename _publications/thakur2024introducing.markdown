@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: thakur2024introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08940"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08940'}
 tags: ['RAG', 'Applications']
 ---
 The relentless pursuit of enhancing Large Language Models (LLMs) has led to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bruns2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15349"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15349'}
+tags: ['Attention Mechanism', 'Arxiv', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Humans understand new combinations of words encountered if they are
 combinations of words recognized from different contexts, an ability called

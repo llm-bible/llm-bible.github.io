@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025crafting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02441"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02441'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 The integration of Large Language Models (LLMs) like GPT-4 with Extended
 Reality (XR) technologies offers the potential to build truly immersive XR

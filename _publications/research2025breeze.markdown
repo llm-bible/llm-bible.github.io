@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: research2025breeze
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13921"}
-tags: ['Pre-Training', 'Tools', 'Language Modeling', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13921'}
+tags: ['Language Modeling', 'Training Techniques', 'Tools', 'Prompting', 'Pre-Training']
 ---
 Llama-Breeze2 (hereinafter referred to as Breeze2) is a suite of advanced
 multi-modal language models, available in 3B and 8B parameter configurations,

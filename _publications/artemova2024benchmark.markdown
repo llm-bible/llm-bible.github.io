@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: artemova2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04032"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04032'}
+tags: ['Applications', 'Tools']
 ---
 The rapid proliferation of large language models (LLMs) has increased the
 volume of machine-generated texts (MGTs) and blurred text authorship in various

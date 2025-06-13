@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: uhler2024influence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16692"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16692'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Generative artificial intelligences, particularly large language models
 (LLMs), play an increasingly prominent role in human decision-making contexts,

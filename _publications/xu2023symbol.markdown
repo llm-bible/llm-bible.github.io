@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023symbol
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09278"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09278'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Although Large Language Models (LLMs) demonstrate remarkable ability in
 processing and generating human-like text, they do have limitations when it

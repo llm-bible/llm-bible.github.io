@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10424"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10424'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 Recently, Multimodal Large Language Models (MLLMs) have shown great promise
 in language-guided perceptual tasks such as recognition, segmentation, and

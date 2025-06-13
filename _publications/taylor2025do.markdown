@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: taylor2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00285"}
-tags: ['Agentic', 'Reinforcement Learning', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00285'}
+tags: ['Reinforcement Learning', 'Agentic', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) are effective at deceiving, when prompted to do
 so. But under what conditions do they deceive spontaneously? Models that

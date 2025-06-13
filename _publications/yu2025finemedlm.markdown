@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025finemedlm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09213"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09213'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have shown promise in
 medical applications such as disease diagnosis and treatment planning. However,

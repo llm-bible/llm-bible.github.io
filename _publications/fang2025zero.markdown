@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14432"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14432'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly integrated with specialized
 external tools, yet many tasks demand zero-shot tool usage with minimal or

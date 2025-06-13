@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ardakani2023memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.18513"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18513'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Transformer-based models, such as BERT and ViT, have achieved
 state-of-the-art results across different natural language processing (NLP) and

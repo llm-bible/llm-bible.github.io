@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zellers2021multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.02636"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.02636'}
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As humans, we understand events in the visual world contextually, performing
 multimodal reasoning across time to make inferences about the past, present,

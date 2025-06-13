@@ -6,9 +6,9 @@ conference: "IEEE Robotics and Automation Letters vol. 9 no. 3 pp. 2853-2860 Mar
 year: 2023
 bibkey: hu2023deploying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11183"}
-  - {name: "Code", url: "https://amrl.cs.utexas.edu/codebotler/"}
-tags: ['RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11183'}
+  - {name: "Code", url: 'https://amrl.cs.utexas.edu/codebotler/'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Security', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recent advancements in large language models (LLMs) have spurred interest in
 using them for generating robot programs from natural language, with promising

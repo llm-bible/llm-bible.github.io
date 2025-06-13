@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: abdali2024securing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12503"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12503'}
 tags: ['Security']
 ---
 Large language models (LLMs) have significantly transformed the landscape of

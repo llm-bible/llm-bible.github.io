@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: richardson2022breakpoint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.07950"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.07950'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Can we teach natural language understanding models to track their beliefs
 through intermediate points in text? We propose a representation learning

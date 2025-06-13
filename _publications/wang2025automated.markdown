@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09723"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09723'}
 tags: ['RAG', 'Agentic', 'Applications']
 ---
 A/B testing experiment is a widely adopted method for evaluating UI/UX design

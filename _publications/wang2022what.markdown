@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.05832"}
-  - {name: "Code", url: "https://github.com/bigscience-workshop/architecture-objective"}
-tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.05832'}
+  - {name: "Code", url: 'https://github.com/bigscience-workshop/architecture-objective'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'GPT', 'BERT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Large pretrained Transformer language models have been shown to exhibit
 zero-shot generalization, i.e. they can perform a wide variety of tasks that

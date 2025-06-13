@@ -6,9 +6,9 @@ conference: "The Thirteenth International Conference on Learning Representations
 year: 2024
 bibkey: chen2024steering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03524"}
-  - {name: "Code", url: "https://yongchao98.github.io/CodeSteer/"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'Language Modeling', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03524'}
+  - {name: "Code", url: 'https://yongchao98.github.io/CodeSteer/'}
+tags: ['Agentic', 'Has Code', 'Language Modeling', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Applications']
 ---
 While a lot of recent research focuses on enhancing the textual reasoning
 capabilities of Large Language Models (LLMs) by optimizing the multi-agent

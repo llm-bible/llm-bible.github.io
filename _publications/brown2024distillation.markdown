@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: brown2024distillation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01051"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Survey Paper', 'RAG', 'Model Architecture', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01051'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Prompting', 'Survey Paper']
 ---
 Large Foundational Language Models are capable of performing many tasks at a
 high level but are difficult to deploy in many applications because of their

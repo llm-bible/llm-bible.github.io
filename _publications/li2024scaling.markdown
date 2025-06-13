@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05949"}
-  - {name: "Code", url: "https://github.com/SHI-Labs/CuMo"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05949'}
+  - {name: "Code", url: 'https://github.com/SHI-Labs/CuMo'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in Multimodal Large Language Models (LLMs) have focused
 primarily on scaling by increasing text-image pair data and enhancing LLMs to

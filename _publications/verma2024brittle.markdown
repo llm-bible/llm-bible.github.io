@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024brittle
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13966"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13966'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic']
 ---
 The reasoning abilities of Large Language Models (LLMs) remain a topic of
 debate. Some methods such as ReAct-based prompting, have gained popularity for

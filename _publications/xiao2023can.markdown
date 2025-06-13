@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiao2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.01327"}
-  - {name: "Code", url: "https://github.com/doc-doc/NExT-GQA"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.01327'}
+  - {name: "Code", url: 'https://github.com/doc-doc/NExT-GQA'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 We study visually grounded VideoQA in response to the emerging trends of
 utilizing pretraining techniques for video-language understanding.

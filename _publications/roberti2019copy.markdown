@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: roberti2019copy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1904.11838"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1904.11838'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Tokenization']
 ---
 In the last few years, many different methods have been focusing on using
 deep recurrent neural networks for natural language generation. The most widely

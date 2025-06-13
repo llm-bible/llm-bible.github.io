@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023pinpointing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09336"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09336'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Applications', 'Fine-Tuning']
 ---
 Recent large language models (LLM) are leveraging human feedback to improve
 their generation quality. However, human feedback is costly to obtain,

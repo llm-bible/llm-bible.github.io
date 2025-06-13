@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16420"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16420'}
+tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability']
 ---
 Flowcharts are typically presented as images, driving the trend of using
 vision-language models (VLMs) for end-to-end flowchart understanding. However,

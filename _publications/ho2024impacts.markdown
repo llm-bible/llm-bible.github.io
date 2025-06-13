@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ho2024impacts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12001"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12001'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper aims to offer AI & Law researchers and practitioners a more
 detailed understanding of whether and how continued pre-training and

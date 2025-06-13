@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: choi2025taxation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03444"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03444'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 How capable are large language models (LLMs) in the domain of taxation?
 Although numerous studies have explored the legal domain in general, research

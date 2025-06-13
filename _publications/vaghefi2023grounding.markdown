@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: vaghefi2023grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.05510"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.05510'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 Large Language Models (LLMs) have made significant progress in recent years,
 achieving remarkable results in question-answering tasks (QA). However, they

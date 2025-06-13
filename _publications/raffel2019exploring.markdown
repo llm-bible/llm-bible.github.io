@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: raffel2019exploring
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/1910.10683v4"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/1910.10683v4'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Transfer learning, where a model is first pre-trained on a data-rich task
 before being fine-tuned on a downstream task, has emerged as a powerful

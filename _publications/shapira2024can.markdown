@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: shapira2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17435"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17435'}
 tags: ['Training Techniques', 'Applications']
 ---
 Human choice prediction in economic contexts is crucial for applications in

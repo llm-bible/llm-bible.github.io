@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13132"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13132'}
+tags: ['Agentic', 'Fairness', 'Tools', 'Applications', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large language models (LLMs) are transforming the ways the general public
 accesses and consumes information. Their influence is particularly pronounced

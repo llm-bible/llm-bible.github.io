@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hu2022empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.16621"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.16621'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Quantization', 'Pretraining Methods']
 ---
 Transformer-based architectures like BERT have achieved great success in a
 wide range of Natural Language tasks. Despite their decent performance, the

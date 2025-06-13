@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: clement2021long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.08780"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.08780'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Statistical language modeling and translation with transformers have found
 many successful applications in program understanding and generation tasks,

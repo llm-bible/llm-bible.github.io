@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14557"}
-  - {name: "Code", url: "https://github.com/WangRongsheng/Aurora"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14557'}
+  - {name: "Code", url: 'https://github.com/WangRongsheng/Aurora'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Existing research has demonstrated that refining large language models (LLMs)
 through the utilization of machine-generated instruction-following data

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01537"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01537'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'RecSys', 'Pretraining Methods']
 ---
 Transformer models have achieved remarkable success in sequential recommender
 systems (SRSs). However, computing the attention matrix in traditional

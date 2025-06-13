@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pantha2024challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08181"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08181'}
+tags: ['Ethics and Bias', 'Responsible AI', 'Tools']
 ---
 The rapid development in large language models (LLMs) has transformed the
 landscape of natural language processing and understanding (NLP/NLU), offering

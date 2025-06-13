@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wilson2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04900"}
-  - {name: "Code", url: "https://github.com/clay-lab/structural-alternations"}
-tags: ['Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04900'}
+  - {name: "Code", url: 'https://github.com/clay-lab/structural-alternations'}
+tags: ['Has Code', 'Transformer', 'Ethics and Bias', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Language models are typically evaluated on their success at predicting the
 distribution of specific words in specific contexts. Yet linguistic knowledge

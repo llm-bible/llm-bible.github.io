@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arikkat2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05442"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Merging', 'Security', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05442'}
+tags: ['RAG', 'Security', 'Model Architecture', 'BERT', 'Tools', 'Merging']
 ---
 In the rapidly evolving landscape of cyber security, intelligent chatbots are
 gaining prominence. Artificial Intelligence, Machine Learning, and Natural

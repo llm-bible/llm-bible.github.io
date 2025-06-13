@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xhonneux2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05723"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05723'}
+tags: ['In-Context Learning', 'Security', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Despite significant investment into safety training, large language models
 (LLMs) deployed in the real world still suffer from numerous vulnerabilities.

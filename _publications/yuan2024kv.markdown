@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024kv
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01527"}
-  - {name: "Code", url: "https://github.com/henryzhongsc/longctx_bench"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01527'}
+  - {name: "Code", url: 'https://github.com/henryzhongsc/longctx_bench'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Quantization', 'Prompting', 'Pretraining Methods']
 ---
 Long context capability is a crucial competency for large language models
 (LLMs) as it mitigates the human struggle to digest long-form texts. This

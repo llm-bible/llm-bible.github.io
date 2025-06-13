@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024internal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03744"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03744'}
 tags: ['Security']
 ---
 Knowledge hallucination have raised widespread concerns for the security and

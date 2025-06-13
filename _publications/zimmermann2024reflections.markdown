@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zimmermann2024reflections
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15221"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15221'}
+tags: ['Reinforcement Learning', 'Tools', 'Applications']
 ---
 Here, we present the outcomes from the second Large Language Model (LLM)
 Hackathon for Applications in Materials Science and Chemistry, which engaged

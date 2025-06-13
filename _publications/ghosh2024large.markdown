@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghosh2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11768"}
-tags: ['Fine-Tuning', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11768'}
+tags: ['RAG', 'Fine-Tuning', 'Prompting']
 ---
 Perceiving and understanding non-speech sounds and non-verbal speech is
 essential to making decisions that help us interact with our surroundings. In

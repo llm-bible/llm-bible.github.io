@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025sr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14352"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'COLING', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14352'}
+tags: ['RAG', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'COLING', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Structured representations, exemplified by Abstract Meaning Representation
 (AMR), have long been pivotal in computational linguistics. However, their role

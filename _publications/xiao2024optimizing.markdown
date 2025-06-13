@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02119"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02119'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In fine-tuning large language models (LLMs), conserving computational
 resources while maintaining effectiveness and improving outcomes within the

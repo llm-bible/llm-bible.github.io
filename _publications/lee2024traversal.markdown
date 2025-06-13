@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024traversal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12246"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12246'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 Large language and vision models (LLVMs) have been driven by the
 generalization power of large language models (LLMs) and the advent of visual

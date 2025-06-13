@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: keh2025should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07603"}
-tags: ['Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07603'}
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Pre-trained LLMs that are further trained with image data perform well on
 vision-language tasks. While adding images during a second training phase

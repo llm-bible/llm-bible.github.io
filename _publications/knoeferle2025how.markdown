@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: knoeferle2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12884"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12884'}
 tags: ['Uncategorized']
 ---
 We discuss how desirable it is that Large Language Models (LLMs) be able to

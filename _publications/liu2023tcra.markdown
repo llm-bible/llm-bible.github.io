@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023tcra
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15556"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15556'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'In-Context Learning']
 ---
 Since ChatGPT released its API for public use, the number of applications
 built on top of commercial large language models (LLMs) increase exponentially.

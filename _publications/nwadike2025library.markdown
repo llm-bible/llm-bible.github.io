@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: nwadike2025library
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13491"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/remember-B0B8/"}
-tags: ['Tools', 'GPT', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13491'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/remember-B0B8/'}
+tags: ['Has Code', 'ACL', 'Training Techniques', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'TACL']
 ---
 We introduce the concept of the self-referencing causal cycle (abbreviated
 RECALL) - a mechanism that enables large language models (LLMs) to bypass the

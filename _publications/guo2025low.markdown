@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14482"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14482'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Parameter-efficient fine-tuning (PEFT) is essential for adapting large
 language models (LLMs), with low-rank adaptation (LoRA) being the most popular

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: puri2025why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16994"}
-  - {name: "Code", url: "https://github.com/brunibrun/FADE"}
-tags: ['Interpretability and Explainability', 'Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16994'}
+  - {name: "Code", url: 'https://github.com/brunibrun/FADE'}
+tags: ['Reinforcement Learning', 'Has Code', 'Interpretability and Explainability', 'Tools']
 ---
 Recent advances in mechanistic interpretability have highlighted the
 potential of automating interpretability pipelines in analyzing the latent

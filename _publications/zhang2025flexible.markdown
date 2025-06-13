@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025flexible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13966"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13966'}
 tags: ['Agentic', 'Training Techniques']
 ---
 The aspiration of the Vision-and-Language Navigation (VLN) task has long been

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025leo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04653"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04653'}
 tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 Redundancy of visual tokens in multi-modal large language models (MLLMs)

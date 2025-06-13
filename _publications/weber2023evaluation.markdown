@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: weber2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00284"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00284'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 This paper explores the use of open generative Large Language Models (LLMs)
 for annotation tasks in the social sciences. The study highlights the

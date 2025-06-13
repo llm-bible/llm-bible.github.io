@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bernardelle2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16586"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16586'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Aligning the output of Large Language Models (LLMs) with human preferences
 (e.g., by means of reinforcement learning with human feedback, or RLHF) is

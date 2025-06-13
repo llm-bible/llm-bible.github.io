@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: olowe2025quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02123"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02123'}
 tags: ['Efficiency and Optimization', 'Applications']
 ---
 The Test and Measurement domain, known for its strict requirements for

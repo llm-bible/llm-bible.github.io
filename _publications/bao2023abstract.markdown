@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: bao2023abstract
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12599"}
-  - {name: "Code", url: "https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347"}
-  - {name: "Code", url: "https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12599'}
+  - {name: "Code", url: 'https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347'}
+  - {name: "Code", url: 'https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Combining large language models with logical reasoning enhances their
 capacity to address problems in a robust and reliable manner. Nevertheless, the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dejong2023pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.10448"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.10448'}
 tags: ['RAG', 'Merging']
 ---
 Retrieval-augmented language models such as Fusion-in-Decoder are powerful,

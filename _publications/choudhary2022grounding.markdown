@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: choudhary2022grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.05696"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.05696'}
 tags: ['Applications']
 ---
 Building open-domain dialogue systems capable of rich human-like

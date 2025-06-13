@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cruz2023reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04046"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Ethics and Bias', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04046'}
+tags: ['Agentic', 'Ethics and Bias', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Many capable large language models (LLMs) are developed via self-supervised
 pre-training followed by a reinforcement-learning fine-tuning phase, often

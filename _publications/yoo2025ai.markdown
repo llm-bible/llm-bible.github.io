@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yoo2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18932"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18932'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Recent advancements in LLMs enable chatbots to interact with individuals on a
 range of queries, including sensitive mental health contexts. Despite

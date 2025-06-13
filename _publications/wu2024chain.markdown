@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19753"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19753'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Training Techniques']
 ---
 Recent studies have explored the use of Large Language Models (LLMs) with
 Retrieval Augmented Generation (RAG) for Knowledge Graph Question Answering

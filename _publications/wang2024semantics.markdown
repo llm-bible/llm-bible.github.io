@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024semantics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12299"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12299'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Large language models (LLMs) have achieved remarkable performance across many
 tasks, yet aligning them with desired behaviors remains challenging. Activation

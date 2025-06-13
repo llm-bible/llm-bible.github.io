@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01333"}
-  - {name: "Code", url: "https://github.com/zhliu0106/probing-lm-data)"}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01333'}
+  - {name: "Code", url: 'https://github.com/zhliu0106/probing-lm-data)'}
+tags: ['Pre-Training', 'Has Code', 'Training Techniques', 'Arxiv']
 ---
 Large Language Models (LLMs) have shown their impressive capabilities, while
 also raising concerns about the data contamination problems due to privacy

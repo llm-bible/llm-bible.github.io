@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: defreitas2024retail
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08925"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08925'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'GPT']
 ---
 This work presents Retail-GPT, an open-source RAG-based chatbot designed to
 enhance user engagement in retail e-commerce by guiding users through product

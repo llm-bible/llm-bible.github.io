@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vaziri2024declarative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19135"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19135'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have taken the world by storm by making many
 previously difficult uses of AI feasible. LLMs are controlled via highly

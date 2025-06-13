@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: stowe2024identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15104"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15104'}
+tags: ['Few-Shot', 'Fairness', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'Training Techniques', 'BERT', 'Prompting', 'Survey Paper', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Natural language generation tools are powerful and effective for generating
 content. However, language models are known to display bias and fairness

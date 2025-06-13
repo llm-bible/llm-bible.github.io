@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lykov2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19352"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19352'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents a novel approach in autonomous robot control, named
 LLM-BRAIn, that makes possible robot behavior generation, based on operator's

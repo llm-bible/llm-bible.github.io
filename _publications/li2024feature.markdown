@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024feature
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.10738"}
-  - {name: "Code", url: "https://github.com/jiahaozhenbang/FADS-ICL"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.10738'}
+  - {name: "Code", url: 'https://github.com/jiahaozhenbang/FADS-ICL'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In-context learning (ICL), which promotes inference with several
 demonstrations, has become a widespread paradigm to stimulate LLM capabilities

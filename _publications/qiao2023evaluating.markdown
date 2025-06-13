@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiao2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10032"}
-  - {name: "Code", url: "https://github.com/GameEval/GameEval"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10032'}
+  - {name: "Code", url: 'https://github.com/GameEval/GameEval'}
+tags: ['Has Code', 'Security', 'Applications', 'Tools', 'Ethics and Bias']
 ---
 The rapid advancements in large language models (LLMs) have presented
 challenges in evaluating those models. Existing evaluation methods are either

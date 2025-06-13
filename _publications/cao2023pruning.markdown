@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cao2023pruning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17530"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17530'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pruning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large-scale vision language (VL) models use Transformers to perform
 cross-modal interactions between the input text and image. These cross-modal

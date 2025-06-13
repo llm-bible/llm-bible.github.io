@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: musi2025toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05298"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05298'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 In this position paper, we advocate for the development of conversational
 technology that is inherently designed to support and facilitate argumentative

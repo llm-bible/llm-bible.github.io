@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: barmettler2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07624"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07624'}
+tags: ['Attention Mechanism', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) has enjoyed increased attention in the
 recent past and recent advancements in Large Language Models (LLMs) have

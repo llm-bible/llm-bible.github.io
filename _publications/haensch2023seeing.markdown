@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: haensch2023seeing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.05349"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.05349'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT']
 ---
 Advanced large language models like ChatGPT have gained considerable
 attention recently, including among students. However, while the debate on

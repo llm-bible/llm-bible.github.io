@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16008"}
-tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16008'}
+tags: ['Reinforcement Learning', 'Prompting', 'Training Techniques']
 ---
 Reward models (RMs) are crucial for aligning large language models (LLMs)
 with human preferences. They are trained using preference datasets where each

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03288"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03288'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Tools']
 ---
 In the rapidly evolving field of Large Language Models (LLMs), there is a
 critical need to thoroughly analyze their capabilities and risks. Central to

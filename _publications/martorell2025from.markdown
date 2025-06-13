@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: martorell2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16690"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16690'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization']
 ---
 Understanding how large language models (LLMs) represent and reason about
 spatial information is crucial for building robust agentic systems that can

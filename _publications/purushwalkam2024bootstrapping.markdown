@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: purushwalkam2024bootstrapping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13974"}
-tags: ['Agentic', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13974'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Recent text-to-image generation models have demonstrated incredible success
 in generating images that faithfully follow input prompts. However, the

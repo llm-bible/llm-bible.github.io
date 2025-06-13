@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: varshney2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05494"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05494'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) have achieved remarkable performance across a
 wide variety of natural language tasks. However, they have been shown to suffer

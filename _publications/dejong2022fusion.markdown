@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: dejong2022fusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.08153"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.08153'}
 tags: ['RAG', 'Model Architecture', 'Merging']
 ---
 Fusion-in-Decoder (FiD) is a powerful retrieval-augmented language model that

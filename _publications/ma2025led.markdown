@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025led
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16770"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16770'}
+tags: ['Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained Large Language Models (LLMs) for specialized tasks
 incurs substantial computational and data costs. While model merging offers a

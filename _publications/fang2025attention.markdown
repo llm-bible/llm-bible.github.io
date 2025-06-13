@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10720"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Pruning', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10720'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pruning']
 ---
 While RAG demonstrates remarkable capabilities in LLM applications, its
 effectiveness is hindered by the ever-increasing length of retrieved contexts,

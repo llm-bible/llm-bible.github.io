@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kawabata2024rationale
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04838"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04838'}
 tags: ['Training Techniques']
 ---
 Answer verification identifies correct solutions among candidates generated

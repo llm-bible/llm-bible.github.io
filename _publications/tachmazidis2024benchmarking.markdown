@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tachmazidis2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12509"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12509'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have gained prominence in the AI landscape due

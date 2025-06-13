@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17397"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17397'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 With current state-of-the-art approaches aimed at enhancing the reasoning
 capabilities of Large Language Models(LLMs) through iterative preference

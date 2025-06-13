@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: feng2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02725"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02725'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have accelerated progress
 toward artificial general intelligence, yet their potential to generate harmful

@@ -6,8 +6,8 @@ conference: "Acta Sci. (Canoas) 26(1) 157-204 Jan./Feb. 2024"
 year: 2024
 bibkey: michaelsen2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08684"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08684'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Background: The integration of artificial intelligence (AI) into daily life,
 particularly through chatbots utilizing natural language processing (NLP),

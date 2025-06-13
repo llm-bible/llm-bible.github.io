@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sakai2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12263"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12263'}
 tags: ['Prompting', 'Applications']
 ---
 The natural language understanding (NLU) performance of large language models

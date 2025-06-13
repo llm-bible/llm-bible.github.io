@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: panahandeh2023transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02125"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02125'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in language models (LMs), have demonstrated significant
 efficacy in tasks related to the arts and humanities. While LMs have exhibited

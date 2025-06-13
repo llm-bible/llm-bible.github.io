@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bousetouane2025agentic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00881"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00881'}
 tags: ['Agentic', 'Applications']
 ---
 The evolution of agentic systems represents a significant milestone in

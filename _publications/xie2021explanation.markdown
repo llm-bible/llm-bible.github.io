@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: xie2021explanation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.02080"}
-tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.02080'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Scaling Laws', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LMs) such as GPT-3 have the surprising ability to do
 in-context learning, where the model learns to do a downstream task simply by

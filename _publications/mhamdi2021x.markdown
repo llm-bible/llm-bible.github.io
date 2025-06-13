@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: mhamdi2021x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.09696"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.09696'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multilingual models, such as M-BERT and XLM-R, have gained increasing
 popularity, due to their zero-shot cross-lingual transfer learning

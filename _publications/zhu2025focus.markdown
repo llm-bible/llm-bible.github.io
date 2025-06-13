@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025focus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23306"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23306'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 Long-context large language models (LLMs) are prone to be distracted by
 irrelevant contexts. The reason for distraction remains poorly understood. In

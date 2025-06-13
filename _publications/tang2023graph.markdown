@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tang2023graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13023"}
-  - {name: "Code", url: "https://github.com/HKUDS/GraphGPT"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13023'}
+  - {name: "Code", url: 'https://github.com/HKUDS/GraphGPT'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Graph Neural Networks (GNNs) have evolved to understand graph structures
 through recursive exchanges and aggregations among nodes. To enhance

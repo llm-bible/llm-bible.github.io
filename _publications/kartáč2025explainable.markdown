@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kartáč2025explainable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11858"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11858'}
 tags: ['Interpretability and Explainability', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated great potential as evaluators

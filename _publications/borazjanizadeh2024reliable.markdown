@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: borazjanizadeh2024reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11373"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11373'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Despite their linguistic competence, Large Language models (LLMs) often
 exhibit limitations in their ability to reason reliably and flexibly. To

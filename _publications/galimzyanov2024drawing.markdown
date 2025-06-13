@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: galimzyanov2024drawing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02764"}
-  - {name: "Code", url: "https://huggingface.co/datasets/JetBrains-Research/PandasPlotBench;"}
-  - {name: "Code", url: "https://github.com/JetBrains-Research/PandasPlotBench"}
-tags: ['Fine-Tuning', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02764'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/JetBrains-Research/PandasPlotBench;'}
+  - {name: "Code", url: 'https://github.com/JetBrains-Research/PandasPlotBench'}
+tags: ['Fine-Tuning', 'Has Code', 'Tools']
 ---
 This paper introduces the human-curated PandasPlotBench dataset, designed to
 evaluate language models' effectiveness as assistants in visual data

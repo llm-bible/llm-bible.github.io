@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tu2023carefully
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14106"}
-  - {name: "Code", url: "https://github.com/THU-KEG/ChatLog/"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14106'}
+  - {name: "Code", url: 'https://github.com/THU-KEG/ChatLog/'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 ChatGPT has achieved great success and can be considered to have acquired an
 infrastructural status. There are abundant works for evaluating ChatGPT on

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ye2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04128"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04128'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in text-based large language models (LLMs), particularly in
 the GPT series and the o1 model, have demonstrated the effectiveness of scaling

@@ -6,8 +6,8 @@ conference: "NeurIPS 2024"
 year: 2024
 bibkey: zhu2024compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00558"}
-tags: ['Efficiency and Optimization', 'RAG', 'Merging', 'Reinforcement Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00558'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Significant progress has been made in text-to-video generation through the
 use of powerful generative models and large-scale internet data. However,

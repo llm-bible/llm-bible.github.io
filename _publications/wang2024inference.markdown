@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11206"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11206'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 With the rapid development of large language models (LLMs), they are not only
 used as general-purpose AI assistants but are also customized through further

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: raccah2022memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.01869"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.01869'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The computational complexity of the self-attention mechanism in Transformer
 models significantly limits their ability to generalize over long temporal

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: karanjai2025collaboration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11237"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11237'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 This paper introduces UniTranslator, a visionary framework that re-imagines

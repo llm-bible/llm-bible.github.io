@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01470"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01470'}
+tags: ['Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Chatbots such as GPT-4 and ChatGPT are now serving millions of users. Despite
 their widespread use, there remains a lack of public datasets showcasing how

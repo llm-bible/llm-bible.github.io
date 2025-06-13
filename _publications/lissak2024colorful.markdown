@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lissak2024colorful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11886"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11886'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Queer youth face increased mental health risks, such as depression, anxiety,
 and suicidal ideation. Hindered by negative stigma, they often avoid seeking

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bao2024orchestrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05673"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05673'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 The reasoning segmentation task, which demands a nuanced comprehension of

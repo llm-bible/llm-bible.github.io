@@ -6,8 +6,8 @@ conference: "IJNLCvol13 Issue5/6 page 49-592024"
 year: 2025
 bibkey: tabib2025end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04425"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04425'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 This work introduces systematic approach for enhancing large language models
 (LLMs) to address Bangla AI mathematical challenges. Through the assessment of

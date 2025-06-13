@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jacobi2025amplifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02078"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Prompting', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02078'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Training Techniques', 'Merging']
 ---
 Understanding and interpreting the internal representations of large language
 models (LLMs) remains an open challenge. Patchscopes introduced a method for

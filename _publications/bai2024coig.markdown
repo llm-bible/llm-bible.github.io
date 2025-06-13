@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024coig
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18058"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18058'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Remarkable progress on English instruction tuning has facilitated the
 efficacy and reliability of large language models (LLMs). However, there

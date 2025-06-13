@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13965"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13965'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Applications']
 ---
 Large language model (LLM) applications are evolving beyond simple chatbots
 into dynamic, general-purpose agentic programs, which scale LLM calls and

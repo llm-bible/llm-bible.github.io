@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13731"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13731'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Sequential recommendation aims to model dynamic user behavior from historical
 interactions. Existing methods rely on either explicit item IDs or general

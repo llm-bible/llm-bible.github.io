@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02528"}
-  - {name: "Code", url: "https://github.com/ridgerchu/matmulfreellm"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02528'}
+  - {name: "Code", url: 'https://github.com/ridgerchu/matmulfreellm'}
+tags: ['Large-Scale Training', 'Has Code', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Matrix multiplication (MatMul) typically dominates the overall computational
 cost of large language models (LLMs). This cost only grows as LLMs scale to

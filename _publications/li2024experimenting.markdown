@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024experimenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07713"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07713'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Generative AI models, such as the GPT and Llama series, have significant

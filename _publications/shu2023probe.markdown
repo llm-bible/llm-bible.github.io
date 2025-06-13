@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shu2023probe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13394"}
-tags: ['Applications', 'Ethics and Bias', 'Merging', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13394'}
+tags: ['Applications', 'Merging', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Embodied language comprehension emphasizes that language understanding is not
 solely a matter of mental processing in the brain but also involves

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: schramowski2021large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.11790"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.11790'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Artificial writing is permeating our lives due to recent advances in
 large-scale, transformer-based language models (LMs) such as BERT, its

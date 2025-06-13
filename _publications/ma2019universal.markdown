@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: ma2019universal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.07973"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.07973'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present a systematic investigation of layer-wise BERT activations for
 general-purpose text representations to understand what linguistic information

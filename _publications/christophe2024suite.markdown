@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: christophe2024suite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06142"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06142'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Med42-v2 introduces a suite of clinical large language models (LLMs) designed
 to address the limitations of generic models in healthcare settings. These

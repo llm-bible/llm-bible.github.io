@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02233"}
-tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02233'}
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Large language models (LLMs) frequently hallucinate due to misaligned
 self-awareness, generating erroneous outputs when addressing queries beyond

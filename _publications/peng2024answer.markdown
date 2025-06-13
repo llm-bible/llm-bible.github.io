@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024answer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09642"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09642'}
+tags: ['Interpretability and Explainability', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 This work aims to build a text embedder that can capture characteristics of
 texts specified by user instructions. Despite its tremendous potential to

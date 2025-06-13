@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramnauth2024more
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18023"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18023'}
 tags: ['Reinforcement Learning']
 ---
 Beyond mere formality, small talk plays a pivotal role in social dynamics,

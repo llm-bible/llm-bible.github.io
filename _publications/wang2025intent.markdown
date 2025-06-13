@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025intent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03307"}
-  - {name: "Code", url: "https://github.com/wangyu0627/IRLLRec"}
-tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'RecSys', 'LREC', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03307'}
+  - {name: "Code", url: 'https://github.com/wangyu0627/IRLLRec'}
+tags: ['Attention Mechanism', 'LREC', 'Has Code', 'Interpretability and Explainability', 'RAG', 'Security', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Distillation', 'RecSys', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Intent-based recommender systems have garnered significant attention for
 uncovering latent fine-grained preferences. Intents, as underlying factors of

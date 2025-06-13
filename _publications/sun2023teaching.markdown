@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12463"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12463'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 Randomly masking text spans in ordinary texts in the pre-training stage
 hardly allows models to acquire the ability to generate simple texts. It can

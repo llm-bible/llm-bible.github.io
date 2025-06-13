@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025know
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12743"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12743'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 generating human-like texts, but the potential misuse of such LLM-generated

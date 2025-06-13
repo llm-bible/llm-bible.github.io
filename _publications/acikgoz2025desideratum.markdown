@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: acikgoz2025desideratum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16939"}
-  - {name: "Code", url: "https://github.com/emrecanacikgoz/awesome-conversational-agents"}
-tags: ['Agentic', 'Survey Paper', 'Applications', 'Interpretability', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16939'}
+  - {name: "Code", url: 'https://github.com/emrecanacikgoz/awesome-conversational-agents'}
+tags: ['Agentic', 'Has Code', 'Applications', 'Survey Paper', 'Interpretability']
 ---
 Recent advances in Large Language Models (LLMs) have propelled conversational
 AI from traditional dialogue systems into sophisticated agents capable of

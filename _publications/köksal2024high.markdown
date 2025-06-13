@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: köksal2024high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12958"}
-  - {name: "Code", url: "https://github.com/akoksal/muri"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12958'}
+  - {name: "Code", url: 'https://github.com/akoksal/muri'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction tuning enhances large language models (LLMs) by aligning them
 with human preferences across diverse tasks. Traditional approaches to create

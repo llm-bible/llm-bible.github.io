@@ -6,8 +6,8 @@ conference: "The First Workshop on Multilingual Counterspeech Generation (MCG) a
 year: 2024
 bibkey: wadhwa2024northeastern
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15453"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15453'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The automatic generation of counter-speech (CS) is a critical strategy for
 addressing hate speech by providing constructive and informed responses.

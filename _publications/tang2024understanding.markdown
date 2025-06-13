@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14708"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14708'}
 tags: ['Uncategorized']
 ---
 With the rise of large language models (LLMs) for flexibly processing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: xue2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.07904"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.07904'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based pre-trained language models are vocabulary-dependent,
 mapping by default each token to its corresponding embedding. This one-to-one

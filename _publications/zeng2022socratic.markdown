@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zeng2022socratic
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2204.00598v2"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2204.00598v2'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large pretrained (e.g., "foundation") models exhibit distinct capabilities
 depending on the domain of data they are trained on. While these domains are

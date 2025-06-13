@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12794"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12794'}
 tags: ['Tools']
 ---
 The proliferation of open-source Large Language Models (LLMs) from various

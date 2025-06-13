@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chung2023challenges
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13857"}
-tags: ['Interpretability and Explainability', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13857'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Interpretability and Explainability', 'Tools']
 ---
 The global mental health crisis is looming with a rapid increase in mental
 disorders, limited resources, and the social stigma of seeking treatment. As

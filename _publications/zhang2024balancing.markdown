@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024balancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10306"}
-  - {name: "Code", url: "https://github.com/rattlesnakey/CoFiTune"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10306'}
+  - {name: "Code", url: 'https://github.com/rattlesnakey/CoFiTune'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Aligned Large Language Models (LLMs) showcase remarkable versatility, capable
 of handling diverse real-world tasks. Meanwhile, aligned LLMs are also expected

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jo2024automatically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13835"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13835'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 The advancement of Large Language Models (LLMs) has significantly boosted
 performance in natural language processing (NLP) tasks. However, the deployment

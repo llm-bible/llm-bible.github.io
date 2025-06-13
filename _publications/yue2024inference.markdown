@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04343"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Scaling Laws', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04343'}
+tags: ['Large-Scale Training', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'In-Context Learning']
 ---
 The scaling of inference computation has unlocked the potential of
 long-context large language models (LLMs) across diverse settings. For

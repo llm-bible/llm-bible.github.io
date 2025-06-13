@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sato2025waking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21012"}
-tags: ['Merging', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21012'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools', 'Merging']
 ---
 What underlies intuitive human thinking? One approach to this question is to
 compare the cognitive dynamics of humans and large language models (LLMs).

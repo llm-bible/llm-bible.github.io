@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kranti2025framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05445"}
-tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05445'}
+tags: ['Agentic', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The emergence of instruction-tuned large language models (LLMs) has advanced
 the field of dialogue systems, enabling both realistic user simulations and

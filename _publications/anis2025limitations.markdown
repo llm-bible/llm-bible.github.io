@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: anis2025limitations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09837"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09837'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 Vision Language Models (VLMs) have demonstrated significant potential in
 various downstream tasks, including Image/Video Generation, Visual Question

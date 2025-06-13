@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sun2025unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12975"}
-tags: ['Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12975'}
+tags: ['Training Techniques', 'Reinforcement Learning', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) are highly capable but require significant
 computational resources for both training and inference. Within the LLM family,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024maintaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20340"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20340'}
+tags: ['Language Modeling', 'RAG', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are powerful tools for text generation,
 translation, and summarization, but they often suffer from

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.06295"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.06295'}
+tags: ['Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Auto-regressive neural sequence models have been shown to be effective across
 text generation tasks. However, their left-to-right decoding order prevents

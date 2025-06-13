@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023ra
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01352"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01352'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Retrieval-augmented language models (RALMs) improve performance by accessing
 long-tail and up-to-date knowledge from external data stores, but are

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: scao2022what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.15424"}
-  - {name: "Code", url: "https://huggingface.co/bigscience"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.15424'}
+  - {name: "Code", url: 'https://huggingface.co/bigscience'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 The crystallization of modeling methods around the Transformer architecture
 has been a boon for practitioners. Simple, well-motivated architectural

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mendonça2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16795"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16795'}
 tags: ['RAG', 'Applications']
 ---
 The main limiting factor in the development of robust multilingual dialogue

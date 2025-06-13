@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mondal2024kam
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12863"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12863'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Applications', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance in
 natural language processing tasks by leveraging chain of thought (CoT) that

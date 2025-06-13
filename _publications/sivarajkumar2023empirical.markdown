@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sivarajkumar2023empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08008"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08008'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown remarkable capabilities in Natural
 Language Processing (NLP), especially in domains where labeled data is scarce

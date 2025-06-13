@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023furthest
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12767"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12767'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs), acting as a powerful reasoner and generator,
 exhibit extraordinary performance across various natural language tasks, such

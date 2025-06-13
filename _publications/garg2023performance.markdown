@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: garg2023performance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03211"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03211'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 Instruction-tuned large language models (LLMs) have demonstrated promising
 zero-shot generalization capabilities across various downstream tasks. Recent

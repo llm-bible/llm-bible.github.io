@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04300"}
-tags: ['Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04300'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Generating varied scenarios through simulation is crucial for training and
 evaluating safety-critical systems, such as autonomous vehicles. Yet, the task

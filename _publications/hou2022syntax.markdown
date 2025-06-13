@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hou2022syntax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.11759"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.11759'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Recent works have revealed that Transformers are implicitly learning the
 syntactic information in its lower layers from data, albeit is highly dependent

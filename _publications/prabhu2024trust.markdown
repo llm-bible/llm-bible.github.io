@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prabhu2024trust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13121"}
-tags: ['Tools', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13121'}
+tags: ['Reinforcement Learning', 'Prompting', 'Multimodal Models', 'Tools']
 ---
 Vision-Language Models (VLMs) often generate plausible but incorrect
 responses to visual queries. However, reliably quantifying the effect of such

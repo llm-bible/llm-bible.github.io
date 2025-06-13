@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: jin2021good
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.08484"}
-  - {name: "Code", url: "https://github.com/woojeongjin/FewVLM"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.08484'}
+  - {name: "Code", url: 'https://github.com/woojeongjin/FewVLM'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'Transformer', 'Few-Shot', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large pre-trained vision-language (VL) models can learn a new task with a
 handful of examples and generalize to a new task without fine-tuning. However,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chu2024cohesive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09897"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09897'}
 tags: ['Agentic', 'Tools']
 ---
 This paper investigates the quality of multi-agent dialogues in simulations

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hai2024impacts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11927"}
-  - {name: "Code", url: "https://github.com/FSoft-AI4Code/RepoExec"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11927'}
+  - {name: "Code", url: 'https://github.com/FSoft-AI4Code/RepoExec'}
+tags: ['Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 CodeLLMs have gained widespread adoption for code generation tasks, yet their
 capacity to handle repository-level code generation with complex contextual

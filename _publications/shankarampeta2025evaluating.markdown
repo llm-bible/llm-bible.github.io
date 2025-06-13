@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: shankarampeta2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01879"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01879'}
 tags: ['Uncategorized']
 ---
 Humans continuously make new discoveries, and understanding temporal sequence

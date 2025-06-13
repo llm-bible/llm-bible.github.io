@@ -6,9 +6,9 @@ conference: "2nd International Conference on Foundation and Large Language Model
 year: 2024
 bibkey: renze2024benefits
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05618"}
-  - {name: "Code", url: "https://github.com/matthewrenze/jhu-concise-cot"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05618'}
+  - {name: "Code", url: 'https://github.com/matthewrenze/jhu-concise-cot'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Prompting']
 ---
 In this paper, we introduce Concise Chain-of-Thought (CCoT) prompting. We
 compared standard CoT and CCoT prompts to see how conciseness impacts response

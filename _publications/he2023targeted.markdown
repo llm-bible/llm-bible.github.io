@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023targeted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17804"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17804'}
 tags: ['Tools']
 ---
 Even when aggregate accuracy is high, state-of-the-art NLP models often fail

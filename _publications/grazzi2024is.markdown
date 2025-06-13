@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: grazzi2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03170"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03170'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 State of the art foundation models such as GPT-4 perform surprisingly well at
 in-context learning (ICL), a variant of meta-learning concerning the learned

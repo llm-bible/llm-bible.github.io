@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kanithi2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07314"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07314'}
+tags: ['In-Context Learning', 'RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The rapid development of Large Language Models (LLMs) for healthcare
 applications has spurred calls for holistic evaluation beyond frequently-cited

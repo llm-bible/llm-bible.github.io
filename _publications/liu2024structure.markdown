@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024structure
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16724"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16724'}
+tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper introduces a pioneering methodology, termed StructTuning, to
 efficiently transform foundation Large Language Models (LLMs) into domain

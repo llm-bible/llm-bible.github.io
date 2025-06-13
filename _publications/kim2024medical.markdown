@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024medical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06331"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06331'}
+tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 This paper introduces MedExQA, a novel benchmark in medical
 question-answering, to evaluate large language models' (LLMs) understanding of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: schmidt2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04889"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04889'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Conversational search engines such as YouChat and Microsoft Copilot use large

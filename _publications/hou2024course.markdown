@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024course
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00122"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00122'}
 tags: ['Uncategorized']
 ---
 This paper presents a shared task that we organized at the Foundations of

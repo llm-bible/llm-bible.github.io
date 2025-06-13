@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: panos2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04098"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04098'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Security', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Vision-language models (VLMs) excel in tasks such as visual question
 answering and image captioning. However, VLMs are often limited by their use of

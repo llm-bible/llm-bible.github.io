@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03754"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03754'}
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Interpretability']
 ---
 This paper describes the DSBA submissions to the Prompting Large Language
 Models as Explainable Metrics shared task, where systems were submitted to two

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17608"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17608'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The extraordinary capabilities of large language models (LLMs) such as
 ChatGPT and GPT-4 are in part unleashed by aligning them with reward models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xue2023mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16517"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16517'}
+tags: ['RAG', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 The emergence of large language models (LLMs) has revolutionized natural
 language processing tasks. However, existing instruction-tuning datasets suffer

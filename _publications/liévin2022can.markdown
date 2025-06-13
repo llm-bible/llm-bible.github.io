@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: liévin2022can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.08143"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.08143'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Although large language models (LLMs) often produce impressive outputs, it
 remains unclear how they perform in real-world scenarios requiring strong

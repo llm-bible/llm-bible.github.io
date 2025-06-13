@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: joel2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03981"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03981'}
+tags: ['ACL', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'TACL']
 ---
 Large Language Models (LLMs) have shown impressive capabilities in code
 generation for popular programming languages. However, their performance on

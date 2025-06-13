@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024muse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.17762"}
-tags: ['Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.17762'}
+tags: ['Multimodal Models', 'Training Techniques']
 ---
 We introduce MUSE-VL, a Unified Vision-Language Model through Semantic
 discrete Encoding for multimodal understanding and generation. Recently, the

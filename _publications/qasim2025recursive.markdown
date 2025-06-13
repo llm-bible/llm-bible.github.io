@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qasim2025recursive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02026"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02026'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Enhancing the reasoning capabilities of Large Language Models remains a
 critical challenge in artificial intelligence. We introduce RDoLT, Recursive

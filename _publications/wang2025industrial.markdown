@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025industrial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15027"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15027'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Enhancing computational efficiency and reducing deployment costs for large
 language models (LLMs) have become critical challenges in various

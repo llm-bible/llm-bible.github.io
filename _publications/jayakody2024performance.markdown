@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jayakody2024performance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21330"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21330'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown significant advances in the past
 year. In addition to new versions of GPT and Llama, several other LLMs have

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023critic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.04592"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.04592'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 As large language models improve, there is increasing interest in techniques

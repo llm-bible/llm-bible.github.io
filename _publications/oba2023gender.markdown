@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: oba2023gender
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07251"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07251'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Despite their impressive performance in a wide range of NLP tasks, Large
 Language Models (LLMs) have been reported to encode worrying-levels of gender

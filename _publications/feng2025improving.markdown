@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: feng2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01490"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01490'}
+tags: ['Agentic', 'Agent', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In recent research advancements within the community, large language models
 (LLMs) have sparked great interest in creating autonomous agents. However,

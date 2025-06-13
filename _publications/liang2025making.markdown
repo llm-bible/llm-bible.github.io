@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liang2025making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02248"}
-  - {name: "Code", url: "https://github.com/ltong1130ztr/HAPrompts}{https://github.com/ltong1130ztr/HAPrompts"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02248'}
+  - {name: "Code", url: 'https://github.com/ltong1130ztr/HAPrompts}{https://github.com/ltong1130ztr/HAPrompts'}
 tags: ['RAG', 'Has Code', 'Prompting']
 ---
 Recent studies are leveraging advancements in large language models (LLMs)

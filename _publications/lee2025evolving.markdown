@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025evolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09891"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09891'}
 tags: ['Reinforcement Learning']
 ---
 We explore an evolutionary search strategy for scaling inference time compute

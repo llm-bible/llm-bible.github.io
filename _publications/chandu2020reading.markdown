@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: chandu2020reading
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.13944"}
-  - {name: "Code", url: "https://visual-narratives.github.io/Visual-Narratives/"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.13944'}
+  - {name: "Code", url: 'https://visual-narratives.github.io/Visual-Narratives/'}
+tags: ['Has Code', 'Training Techniques']
 ---
 Generating long form narratives such as stories and procedures from multiple
 modalities has been a long standing dream for artificial intelligence. In this

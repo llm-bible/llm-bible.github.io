@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024verbalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14737"}
-  - {name: "Code", url: "https://github.com/danielyxyang/llm-verbalized-uq"}
-tags: ['Agentic', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14737'}
+  - {name: "Code", url: 'https://github.com/danielyxyang/llm-verbalized-uq'}
+tags: ['Prompting', 'Has Code', 'Agentic']
 ---
 The rise of large language models (LLMs) and their tight integration into our
 daily life make it essential to dedicate efforts towards their trustworthiness.

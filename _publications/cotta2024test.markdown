@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cotta2024test
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07685"}
-tags: ['Pre-Training', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07685'}
+tags: ['Ethics and Bias', 'RAG', 'Security', 'Fairness', 'Training Techniques', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Pre-Training']
 ---
 Frontier Large Language Models (LLMs) can be socially discriminatory or
 sensitive to spurious features of their inputs. Because only well-resourced

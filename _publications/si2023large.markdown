@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: si2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12558"}
-tags: ['Interpretability and Explainability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12558'}
+tags: ['Prompting', 'Interpretability and Explainability']
 ---
 Large Language Models (LLMs) are increasingly used for accessing information
 on the web. Their truthfulness and factuality are thus of great interest. To

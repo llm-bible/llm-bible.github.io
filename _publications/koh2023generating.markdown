@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: koh2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17216"}
-tags: ['RAG', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17216'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models']
 ---
 We propose a method to fuse frozen text-only large language models (LLMs)
 with pre-trained image encoder and decoder models, by mapping between their

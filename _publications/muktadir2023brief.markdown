@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: muktadir2023brief
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04438"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04438'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Ethics and Bias', 'RAG', 'Fairness', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper presents a comprehensive exploration of the evolution of prompt
 engineering and generation in the field of natural language processing (NLP).

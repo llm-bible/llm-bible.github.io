@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10594"}
-  - {name: "Code", url: "https://github.com/openbmb/visrag"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10594'}
+  - {name: "Code", url: 'https://github.com/openbmb/visrag'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) is an effective technique that enables
 large language models (LLMs) to utilize external knowledge sources for

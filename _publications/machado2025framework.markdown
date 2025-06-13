@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: machado2025framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08757"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08757'}
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Computer Science and Design practitioners have been researching and proposing
 alternatives for a dearth of recommendations, standards, or best practices in

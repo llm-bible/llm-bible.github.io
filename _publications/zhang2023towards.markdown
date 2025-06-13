@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09206"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09206'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 Semi-structured tables are ubiquitous. There has been a variety of tasks that
 aim to automatically interpret, augment, and query tables. Current methods

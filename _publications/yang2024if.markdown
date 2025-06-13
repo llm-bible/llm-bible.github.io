@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024if
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00812"}
-tags: ['Training Techniques', 'Agentic', 'Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00812'}
+tags: ['Training Techniques', 'Agentic', 'Applications', 'Survey Paper']
 ---
 The prominent large language models (LLMs) of today differ from past language
 models not only in size, but also in the fact that they are trained on a

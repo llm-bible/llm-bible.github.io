@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: son2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11239"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11239'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic']
 ---
 LLM-as-a-Judge and reward models are widely used alternatives of
 multiple-choice questions or human annotators for large language model (LLM)

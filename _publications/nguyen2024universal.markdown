@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024universal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00454"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00454'}
 tags: ['RAG', 'Model Architecture']
 ---
 Large Language Models (LLMs) require frequent updates to correct errors and

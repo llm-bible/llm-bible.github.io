@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024echoes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00273"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00273'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 With rapid advances in large language models (LLMs), there has been an
 increasing application of LLMs in creative content ideation and generation. A

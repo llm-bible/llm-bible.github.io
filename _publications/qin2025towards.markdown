@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: qin2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05312"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/Amber-B203/"}
-tags: ['RAG', 'Agentic', 'Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05312'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/Amber-B203/'}
+tags: ['RAG', 'Has Code', 'Efficiency and Optimization', 'Agentic']
 ---
 Retrieval-Augmented Generation (RAG), by integrating non-parametric knowledge
 from external knowledge bases into models, has emerged as a promising approach

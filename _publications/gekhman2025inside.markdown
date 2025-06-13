@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gekhman2025inside
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15299"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15299'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 This work presents a framework for assessing whether large language models
 (LLMs) encode more factual knowledge in their parameters than what they express

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: albert2024user
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06297"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06297'}
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'RecSys', 'Interpretability']
 ---
 Recommender systems have become integral to our digital experiences, from
 online shopping to streaming platforms. Still, the rationale behind their

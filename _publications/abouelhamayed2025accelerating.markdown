@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: abouelhamayed2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12444"}
-  - {name: "Code", url: "https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/SparAMX"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12444'}
+  - {name: "Code", url: 'https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/SparAMX'}
+tags: ['Reinforcement Learning', 'Has Code', 'Attention Mechanism', 'Model Architecture']
 ---
 Large language models have high compute, latency, and memory requirements.
 While specialized accelerators such as GPUs and TPUs typically run these

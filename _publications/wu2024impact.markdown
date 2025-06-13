@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09013"}
-tags: ['Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09013'}
+tags: ['Prompting', 'Multimodal Models']
 ---
 The glyphic writing system of Chinese incorporates information-rich visual
 features in each character, such as radicals that provide hints about meaning

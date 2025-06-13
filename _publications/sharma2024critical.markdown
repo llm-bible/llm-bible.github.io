@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sharma2024critical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12366"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12366'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement learning with AI feedback (RLAIF) is a popular paradigm for
 improving the instruction-following abilities of powerful pre-trained language

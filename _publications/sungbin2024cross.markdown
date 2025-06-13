@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sungbin2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18325"}
-  - {name: "Code", url: "https://github.com/kaist-ami/AVHBench"}
-tags: ['Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18325'}
+  - {name: "Code", url: 'https://github.com/kaist-ami/AVHBench'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Following the success of Large Language Models (LLMs), expanding their
 boundaries to new modalities represents a significant paradigm shift in

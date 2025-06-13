@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14319"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14319'}
 tags: ['RAG', 'Tools']
 ---
 In this paper, we introduce LiveMind, a novel low-latency inference framework

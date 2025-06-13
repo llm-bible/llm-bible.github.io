@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06590"}
-  - {name: "Code", url: "https://github.com/gersteinlab/chemagent"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06590'}
+  - {name: "Code", url: 'https://github.com/gersteinlab/chemagent'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Chemical reasoning usually involves complex, multi-step processes that demand
 precise calculations, where even minor errors can lead to cascading failures.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: liang2021dialoging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.01666"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.01666'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Using chatbots to deliver recommendations is increasingly popular. The design
 of recommendation chatbots has primarily been taking an information-centric

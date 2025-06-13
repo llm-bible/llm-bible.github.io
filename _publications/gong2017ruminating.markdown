@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: gong2017ruminating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1704.07415"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1704.07415'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Merging']
 ---
 To answer the question in machine comprehension (MC) task, the models need to
 establish the interaction between the question and the context. To tackle the

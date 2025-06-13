@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08158"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08158'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Multimodal Models', 'Survey Paper', 'Pre-Training']
 ---
 The exploration of various vision-language tasks, such as visual captioning,
 visual question answering, and visual commonsense reasoning, is an important

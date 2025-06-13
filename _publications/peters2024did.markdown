@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peters2024did
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03923"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03923'}
+tags: ['RAG', 'Security', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Neural machine translation (MT) models achieve strong results across a
 variety of settings, but it is widely believed that they are highly sensitive

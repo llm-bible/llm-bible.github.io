@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: xu2021from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.07198"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.07198'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'BERT', 'Quantization', 'Pruning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained Language Models (PLMs) have achieved great success in various
 Natural Language Processing (NLP) tasks under the pre-training and fine-tuning

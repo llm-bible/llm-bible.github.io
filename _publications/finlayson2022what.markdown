@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: finlayson2022what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.09148"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.09148'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The instruction learning paradigm -- where a model learns to perform new
 tasks from task descriptions alone -- has become popular in general-purpose

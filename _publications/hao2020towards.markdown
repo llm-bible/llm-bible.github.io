@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: hao2020towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.10638"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.10638'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Learning to navigate in a visual environment following natural-language
 instructions is a challenging task, because the multimodal inputs to the agent

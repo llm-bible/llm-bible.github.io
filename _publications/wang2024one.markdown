@@ -6,7 +6,7 @@ conference: "Proceedings of the 41st International Conference on Machine Learnin
 year: 2024
 bibkey: wang2024one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00256"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00256'}
 tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) exhibit strong generalization capabilities to

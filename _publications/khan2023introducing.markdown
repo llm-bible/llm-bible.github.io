@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: khan2023introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15827"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15827'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Continual Learning aims to learn a single model on a sequence of tasks
 without having access to data from previous tasks. The biggest challenge in the

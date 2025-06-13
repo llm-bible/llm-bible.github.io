@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03075"}
-tags: ['Agentic', 'Tools', 'Applications', 'Language Modeling', 'Merging', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03075'}
+tags: ['Agentic', 'Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Merging']
 ---
 The advent of large language models (LLMs) has facilitated the development of
 natural language text generation. It also poses unprecedented challenges, with

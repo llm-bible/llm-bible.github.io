@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13507"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13507'}
 tags: ['RAG', 'Applications']
 ---
 Large language models (LLMs) have significantly improved the ability to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023failures
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15746"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15746'}
+tags: ['Prompting', 'Tools']
 ---
 Large Language Models (LLMs) have showcased impressive performance. However,
 due to their inability to capture relationships among samples, these frozen

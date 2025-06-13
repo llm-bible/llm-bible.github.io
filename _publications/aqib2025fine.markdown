@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: aqib2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04666"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04666'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Building codes are regulations that establish standards for the design,
 construction, and safety of buildings to ensure structural integrity, fire

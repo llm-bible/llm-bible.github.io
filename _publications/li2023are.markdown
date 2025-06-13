@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14681"}
-  - {name: "Code", url: "https://github.com/ruili33/SEC"}
-tags: ['Tools', 'Applications', 'Interpretability', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14681'}
+  - {name: "Code", url: 'https://github.com/ruili33/SEC'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Interpretability', 'In-Context Learning']
 ---
 Despite the promising few-shot ability of large language models (LLMs), the
 standard paradigm of In-context Learning (ICL) suffers the disadvantages of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02659"}
-  - {name: "Code", url: "https://github.com/HungerPWAY/LoRA-Null"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02659'}
+  - {name: "Code", url: 'https://github.com/HungerPWAY/LoRA-Null'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Low-Rank Adaptation (LoRA) is the leading parameter-efficient fine-tuning
 method for Large Language Models (LLMs). However, the fine-tuned LLMs encounter

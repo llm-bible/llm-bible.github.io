@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08662"}
-tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08662'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Language models, characterized by their black-box nature, often hallucinate
 and display sensitivity to input perturbations, causing concerns about trust.

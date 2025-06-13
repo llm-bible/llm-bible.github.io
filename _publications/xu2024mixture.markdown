@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18410"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18410'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Prompting', 'Training Techniques']
 ---
 With the proliferation of large language models (LLMs), the comprehensive
 alignment of such models across multiple tasks has emerged as a critical area

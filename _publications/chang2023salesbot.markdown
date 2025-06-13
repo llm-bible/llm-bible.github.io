@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023salesbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14266"}
-tags: ['RAG', 'Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14266'}
+tags: ['RAG', 'Prompting', 'Applications', 'Tools']
 ---
 In recent research on dialogue systems and corpora, there has been a
 significant focus on two distinct categories: task-oriented (TOD) and

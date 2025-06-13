@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: penzo2025stop
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13592"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13592'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Multi-Party Conversations (MPCs) are widely studied across disciplines, with
 social media as a primary data source due to their accessibility. However,

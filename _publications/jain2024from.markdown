@@ -6,8 +6,8 @@ conference: "Findings paper of NAACL 2025 and NeurIPS 2024 Workshop on Behaviora
 year: 2024
 bibkey: jain2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10245"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10245'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Interpretability', 'In-Context Learning', 'Pretraining Methods']
 ---
 The manipulation of the personality traits of large language models (LLMs)
 has emerged as a key area of research. Methods like prompt-based In-Context

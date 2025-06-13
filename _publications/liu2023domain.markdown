@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17812"}
-tags: ['Agentic', 'Multimodal Models', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17812'}
+tags: ['Prompting', 'Multimodal Models', 'Agentic', 'Tools']
 ---
 Following language instructions to navigate in unseen environments is a
 challenging task for autonomous embodied agents. With strong representation

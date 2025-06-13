@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023complementary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10344"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10344'}
 tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT has shown its great power in text processing, including its reasoning

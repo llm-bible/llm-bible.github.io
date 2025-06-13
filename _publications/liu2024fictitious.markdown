@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024fictitious
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19290"}
-  - {name: "Code", url: "https://github.com/UCSB-NLP-Chang/Prereq_tune.git"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19290'}
+  - {name: "Code", url: 'https://github.com/UCSB-NLP-Chang/Prereq_tune.git'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recent studies have identified one aggravating factor of LLM hallucinations
 as the knowledge inconsistency between pre-training and fine-tuning, where

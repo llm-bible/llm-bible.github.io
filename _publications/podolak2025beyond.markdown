@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: podolak2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10509"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10509'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Model Architecture']
 ---
 This study presents a comprehensive reproducibility and extension analysis of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: scarlatos2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16490"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16490'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Recent advances in large language models (LLMs) have led to the development
 of artificial intelligence (AI)-powered tutoring chatbots, showing promise in

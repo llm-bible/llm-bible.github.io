@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dedhia2023im
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17262"}
-tags: ['Transformer', 'Agentic', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17262'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Few-Shot', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models are few-shot learners that can solve diverse tasks from
 a handful of demonstrations. This implicit understanding of tasks suggests that

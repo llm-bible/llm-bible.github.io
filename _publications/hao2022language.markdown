@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hao2022language
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2206.06336v1"}
-tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2206.06336v1'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Few-Shot', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Foundation models have received much attention due to their effectiveness
 across a broad range of downstream applications. Though there is a big

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: khandelwal2019sample
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.08836"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.08836'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Language model (LM) pre-training has resulted in impressive performance and
 sample efficiency on a variety of language understanding tasks. However, it

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kasai2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.18027"}
-  - {name: "Code", url: "https://github.com/jungokasai/IgakuQA"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.18027'}
+  - {name: "Code", url: 'https://github.com/jungokasai/IgakuQA'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 As large language models (LLMs) gain popularity among speakers of diverse
 languages, we believe that it is crucial to benchmark them to better understand

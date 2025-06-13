@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14627"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14627'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have emerged as a widely-used tool for
 information seeking, but their generated outputs are prone to hallucination. In

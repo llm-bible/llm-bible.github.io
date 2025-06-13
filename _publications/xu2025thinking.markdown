@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.24198"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.24198'}
 tags: ['Efficiency and Optimization', 'Distillation']
 ---
 Large Language Models (LLMs) have made significant strides in problem-solving

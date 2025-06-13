@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023mixture
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.01580v2"}
-tags: ['RAG', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.01580v2'}
+tags: ['Few-Shot', 'Prompting', 'RAG']
 ---
 Large language models (LLMs) effectively generate fluent text when the target
 output follows natural language patterns. However, structured prediction tasks

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: francia2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13049"}
-tags: ['Security', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13049'}
+tags: ['Reinforcement Learning', 'GPT', 'Security', 'Model Architecture']
 ---
 This paper explores the use of Large Language Models (LLMs) in spear phishing
 message generation and evaluates their performance compared to human-authored

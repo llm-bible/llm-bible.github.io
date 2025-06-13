@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: stahlberg2018operation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.09688"}
-tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.09688'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Applications', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 We propose to achieve explainable neural machine translation (NMT) by
 changing the output representation to explain itself. We present a novel

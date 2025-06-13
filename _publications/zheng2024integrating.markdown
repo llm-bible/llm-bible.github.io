@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14658"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14658'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The introduction of large language models has significantly advanced code
 generation. However, open-source models often lack the execution capabilities

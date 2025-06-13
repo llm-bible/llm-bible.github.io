@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10645"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10645'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Involving collaborative information in Large Language Models (LLMs) is a
 promising technique for adapting LLMs for recommendation. Existing methods

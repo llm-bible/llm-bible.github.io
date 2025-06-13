@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kumar2025viscon
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10250"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10250'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) excel in various visual benchmarks but are
 often constrained by the lack of high-quality visual fine-tuning data. To

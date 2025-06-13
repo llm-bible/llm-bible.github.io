@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dada2025patient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03298"}
-tags: ['Applications', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03298'}
+tags: ['Language Modeling', 'Applications']
 ---
 While increasing patients' access to medical documents improves medical care,
 this benefit is limited by varying health literacy levels and complex medical

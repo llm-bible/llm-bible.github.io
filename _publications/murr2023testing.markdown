@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: murr2023testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07599"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07599'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated unparalleled prowess in
 mimicking human-like text generation and processing. Among the myriad of

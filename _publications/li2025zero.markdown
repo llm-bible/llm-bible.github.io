@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12214"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12214'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Resource limitations often constrain the parameter counts of Large Language
 Models (LLMs), hindering their performance. While existing methods employ

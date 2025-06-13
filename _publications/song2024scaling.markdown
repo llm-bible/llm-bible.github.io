@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11124"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11124'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Alignment with human preference prevents large language models (LLMs) from
 generating misleading or toxic content while requiring high-cost human

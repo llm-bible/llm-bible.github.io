@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tang2023struc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08963"}
-  - {name: "Code", url: "https://github.com/gersteinlab/Struc-Bench"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08963'}
+  - {name: "Code", url: 'https://github.com/gersteinlab/Struc-Bench'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Despite the remarkable capabilities of Large Language Models (LLMs) like
 GPT-4, producing complex, structured tabular data remains challenging. Our

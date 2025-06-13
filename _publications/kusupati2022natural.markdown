@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kusupati2022natural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.00367"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.00367'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We tackle the problem of generating code snippets from natural language
 descriptions using the CoNaLa dataset. We use the self-attention based

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024lightning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13618"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13618'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 With the rising popularity of Transformer-based large language models (LLMs),
 reducing their high inference costs has become a significant research focus.

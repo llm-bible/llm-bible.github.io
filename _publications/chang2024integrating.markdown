@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07076"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Interpretability', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07076'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Ethics and Bias', 'Interpretability', 'Responsible AI', 'Pretraining Methods']
 ---
 This research develops advanced methodologies for Large Language Models
 (LLMs) to better manage linguistic behaviors related to emotions and ethics. We

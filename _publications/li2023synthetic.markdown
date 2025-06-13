@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07849"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07849'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 The collection and curation of high-quality training data is crucial for
 developing text classification models with superior performance, but it is

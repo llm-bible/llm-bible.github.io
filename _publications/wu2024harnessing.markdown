@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08601"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08601'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 Prompt engineering is pivotal for harnessing the capabilities of large
 language models (LLMs) across diverse applications. While existing prompt

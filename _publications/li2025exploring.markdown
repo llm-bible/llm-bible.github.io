@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16786"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16786'}
 tags: ['Multimodal Models']
 ---
 Applying Multimodal Large Language Models (MLLMs) to video understanding

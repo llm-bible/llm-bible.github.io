@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024infimm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12568"}
-tags: ['Pre-Training', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12568'}
+tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Pre-training on large-scale, high-quality datasets is crucial for enhancing
 the reasoning capabilities of Large Language Models (LLMs), especially in

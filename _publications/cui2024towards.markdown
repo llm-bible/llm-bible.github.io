@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11347"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11347'}
+tags: ['Prompting', 'Efficiency and Optimization', 'In-Context Learning', 'Tools']
 ---
 Crafting an ideal prompt for Large Language Models (LLMs) is a challenging
 task that demands significant resources and expert human input. Existing work

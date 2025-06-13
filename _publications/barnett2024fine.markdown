@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barnett2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11201"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11201'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have the unique capability to understand and
 generate human-like text from input queries. When fine-tuned, these models show

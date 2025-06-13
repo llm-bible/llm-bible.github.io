@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: burtsev2020memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.11527"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.11527'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Transformer-based models have achieved state-of-the-art results in many
 natural language processing tasks. The self-attention architecture allows

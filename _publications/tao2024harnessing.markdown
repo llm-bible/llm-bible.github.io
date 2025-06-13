@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11703"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11703'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'GPT']
 ---
 As Large Language Models (LLMs) advance in natural language processing, there
 is growing interest in leveraging their capabilities to simplify software

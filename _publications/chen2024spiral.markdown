@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024spiral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10496"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10496'}
 tags: ['RAG', 'Applications']
 ---
 The practice of Retrieval-Augmented Generation (RAG), which integrates Large

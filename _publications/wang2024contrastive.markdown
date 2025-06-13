@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.00849"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.00849'}
+tags: ['Language Modeling', 'Few-Shot', 'RAG', 'Training Techniques', 'Tools', 'GPT', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 In the evolution of Vision-Language Pre-training, shifting from short-text
 comprehension to encompassing extended textual contexts is pivotal. Recent

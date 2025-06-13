@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13911"}
-tags: ['Pre-Training', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13911'}
+tags: ['Agentic', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Multimodal Models', 'Pre-Training']
 ---
 Recent advancements in image understanding have benefited from the extensive
 use of web image-text pairs. However, video understanding remains a challenge

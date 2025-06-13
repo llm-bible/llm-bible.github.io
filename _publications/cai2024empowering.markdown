@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00771"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00771'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In recent years, the rapid increase in online video content has underscored
 the limitations of static Video Question Answering (VideoQA) models trained on

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: leng2023mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.16922v1"}
-tags: ['Training Techniques', 'Multimodal Models', 'Ethics and Bias', 'Tools']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.16922v1'}
+tags: ['Ethics and Bias', 'Multimodal Models', 'Training Techniques', 'Tools']
 ---
 Large Vision-Language Models (LVLMs) have advanced considerably, intertwining
 visual recognition and language understanding to generate content that is not

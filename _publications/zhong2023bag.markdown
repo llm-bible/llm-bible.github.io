@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhong2023bag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.09268"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.09268'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This technical report briefly describes our JDExplore d-team's submission
 Vega v1 on the General Language Understanding Evaluation (GLUE) leaderboard,

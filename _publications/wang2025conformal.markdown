@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025conformal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12601"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12601'}
 tags: ['Uncategorized']
 ---
 Uncertainty Quantification (UQ) for Natural Language Generation (NLG) is

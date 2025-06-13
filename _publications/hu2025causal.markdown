@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025causal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.19474"}
-  - {name: "Code", url: "https://github.com/IgniSavium/Causal-LLaVA"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.19474'}
+  - {name: "Code", url: 'https://github.com/IgniSavium/Causal-LLaVA'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Multimodal Large Language Models (MLLMs) have demonstrated strong performance in visual understanding tasks, yet they often suffer from object hallucinations--generating descriptions of objects that are inconsistent with or entirely absent from the input. This issue is closely related to dataset biases, where frequent co-occurrences of objects lead to entangled semantic representations across modalities. As a result, models may erroneously activate object representations that are commonly associated with the input but not actually present.
   To address this, we propose a causality-driven disentanglement framework that mitigates hallucinations through causal intervention. Our approach includes a Causal-Driven Projector in the visual pathway and a Causal Intervention Module integrated into the final transformer layer of the language model. These components work together to reduce spurious correlations caused by biased training data.

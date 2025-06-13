@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lasri2022does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.06889"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.06889'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Although transformer-based Neural Language Models demonstrate impressive
 performance on a variety of tasks, their generalization abilities are not well

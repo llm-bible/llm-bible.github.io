@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: verma2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16832"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16832'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal large language models (MLLMs) like LLaVA and GPT-4(V) enable
 general-purpose conversations about images with the language modality. As

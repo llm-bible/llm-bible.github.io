@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cuervo2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00685"}
-tags: ['Training Techniques', 'Pre-Training', 'Tokenization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00685'}
+tags: ['Pre-Training', 'Tokenization', 'Training Techniques']
 ---
 Speech Language Models (SLMs) aim to learn language from raw audio, without
 textual resources. Despite significant advances, our current models exhibit

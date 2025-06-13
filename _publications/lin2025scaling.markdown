@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01100"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01100'}
+tags: ['Prompting', 'Tools']
 ---
 We investigate the logical reasoning capabilities of large language models
 (LLMs) and their scalability in complex non-monotonic reasoning. To this end,

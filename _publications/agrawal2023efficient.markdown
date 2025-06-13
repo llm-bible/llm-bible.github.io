@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: agrawal2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16369"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16369'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Model (LLM) inference consists of two distinct phases -
 prefill phase which processes the input prompt and decode phase which generates

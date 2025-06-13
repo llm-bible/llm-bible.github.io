@@ -6,9 +6,9 @@ conference: "EuroMLSys 25 Proceedings of the 5th Workshop on Machine Learning an
 year: 2025
 bibkey: polyakov2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05638"}
-  - {name: "Code", url: "https://github.com/ipolyakov/TAGC"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05638'}
+  - {name: "Code", url: 'https://github.com/ipolyakov/TAGC'}
+tags: ['Large-Scale Training', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The increasing complexity of large language models (LLMs) necessitates
 efficient training strategies to mitigate the high computational costs

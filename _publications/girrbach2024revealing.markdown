@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: girrbach2024revealing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19314"}
-  - {name: "Code", url: "https://github.com/ExplainableML/vla-gender-bias"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19314'}
+  - {name: "Code", url: 'https://github.com/ExplainableML/vla-gender-bias'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Pre-trained large language models (LLMs) have been reliably integrated with
 visual input for multimodal tasks. The widespread adoption of instruction-tuned

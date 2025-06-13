@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shao2024highly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12107"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12107'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Quantization', 'Multimodal Models', 'Reinforcement Learning']
 ---
 By harnessing the capabilities of large language models (LLMs), recent large
 multimodal models (LMMs) have shown remarkable versatility in open-world

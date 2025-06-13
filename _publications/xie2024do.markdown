@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14979"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14979'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 The cognitive mechanism by which Large Language Models (LLMs) solve
 mathematical problems remains a widely debated and unresolved issue. Currently,

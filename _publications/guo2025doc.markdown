@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025doc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08523"}
-tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08523'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Applications']
 ---
 The field of artificial intelligence has witnessed significant advancements
 in natural language processing, largely attributed to the capabilities of Large

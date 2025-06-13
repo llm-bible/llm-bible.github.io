@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: moghaddam2023boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.11490"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11490'}
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs) excel in many tasks in 2023, but they still face
 challenges in complex reasoning. Theory-of-mind (ToM) tasks, which require

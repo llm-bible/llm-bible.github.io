@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023uncertainty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00418"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00418'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
 ---
 Recently, aspect sentiment quad prediction has received widespread attention
 in the field of aspect-based sentiment analysis. Existing studies extract

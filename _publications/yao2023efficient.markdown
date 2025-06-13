@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05215"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05215'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) greatly improves model quality for

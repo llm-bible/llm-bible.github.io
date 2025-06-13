@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmadi2025interpretable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15263"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15263'}
+tags: ['Agentic', 'RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI']
 ---
 Construction tasks are inherently unpredictable, with dynamic environments
 and safety-critical demands posing significant risks to workers. Exoskeletons

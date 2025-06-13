@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: pruksachatkun2020software
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.02249"}
-tags: ['Fine-Tuning', 'BERT', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.02249'}
+tags: ['Training Techniques', 'Fine-Tuning', 'BERT', 'Model Architecture']
 ---
 We introduce jiant, an open source toolkit for conducting multitask and
 transfer learning experiments on English NLU tasks. jiant enables modular and

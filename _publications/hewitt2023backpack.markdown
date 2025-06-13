@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hewitt2023backpack
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16765"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16765'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We present Backpacks: a new neural architecture that marries strong modeling
 performance with an interface for interpretability and control. Backpacks learn

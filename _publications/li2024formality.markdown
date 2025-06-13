@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024formality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04784"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04784'}
 tags: ['Training Techniques', 'Pretraining Methods']
 ---
 Having been trained on massive pretraining data, large language models have

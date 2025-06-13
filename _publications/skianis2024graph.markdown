@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: skianis2024graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17906"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17906'}
 tags: ['Prompting']
 ---
 Large language models (LLMs) have recently achieved remarkable success in

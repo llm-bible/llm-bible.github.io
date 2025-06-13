@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kassem2024finding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11373"}
-tags: ['Agentic', 'RAG', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11373'}
+tags: ['Agentic', 'Language Modeling', 'RAG', 'Security', 'Merging', 'Reinforcement Learning']
 ---
 Adversarial attacks against language models(LMs) are a significant concern.
 In particular, adversarial samples exploit the model's sensitivity to small

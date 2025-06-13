@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: qiu2020automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.13100"}
-tags: ['Transformer', 'Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.13100'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools']
 ---
 To assess the knowledge proficiency of a learner, multiple choice question is
 an efficient and widespread form in standard tests. However, the composition of

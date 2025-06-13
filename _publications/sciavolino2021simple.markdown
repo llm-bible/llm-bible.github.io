@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sciavolino2021simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.08535"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.08535'}
+tags: ['Applications', 'Training Techniques']
 ---
 Open-domain question answering has exploded in popularity recently due to the
 success of dense retrieval models, which have surpassed sparse models using

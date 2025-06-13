@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024guiding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01070"}
-  - {name: "Code", url: "https://github.com/jungao1106/PADS"}
-tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01070'}
+  - {name: "Code", url: 'https://github.com/jungao1106/PADS'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 ChatGPT is instruct-tuned to generate general and human-expected content to
 align with human preference through Reinforcement Learning from Human Feedback

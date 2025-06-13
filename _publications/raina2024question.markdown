@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: raina2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12363"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12363'}
 tags: ['RAG', 'Tools']
 ---
 Enterprise retrieval augmented generation (RAG) offers a highly flexible

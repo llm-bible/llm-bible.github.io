@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15269"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15269'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 We study interactive learning of LLM-based language agents based on user
 edits made to the agent's output. In a typical setting such as writing

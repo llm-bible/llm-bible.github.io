@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bardhan2024ttqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14732"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14732'}
+tags: ['RAG', 'Prompting', 'Applications', 'Training Techniques']
 ---
 Question answering (QA) over tables and text has gained much popularity over
 the years. Multi-hop table-text QA requires multiple hops between the table and

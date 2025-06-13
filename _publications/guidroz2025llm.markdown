@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: guidroz2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01980"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01980'}
 tags: ['Uncategorized']
 ---
 Information on the web, such as scientific publications and Wikipedia, often

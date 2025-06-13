@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mobin2025luxveri
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11918"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Pretraining Methods', 'BERT', 'COLING']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11918'}
+tags: ['Transformer', 'Security', 'Model Architecture', 'BERT', 'COLING', 'Pretraining Methods']
 ---
 This paper presents our approach for Task 3 of the GenAI content detection
 workshop at COLING-2025, focusing on Cross-Domain Machine-Generated Text (MGT)

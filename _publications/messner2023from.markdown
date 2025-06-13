@@ -6,8 +6,8 @@ conference: "Journal of Public Policy Marketing 2025"
 year: 2023
 bibkey: messner2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17256"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17256'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) are able to engage in natural-sounding
 conversations with humans, showcasing unprecedented capabilities for

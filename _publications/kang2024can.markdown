@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kang2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04856"}
-tags: ['Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04856'}
+tags: ['Reinforcement Learning', 'Security', 'Tools']
 ---
 The development of Large Language Models (LLMs) has created transformative
 opportunities for the financial industry, especially in the area of financial

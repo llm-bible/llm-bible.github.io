@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: perry2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08597"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08597'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Vision-Language Models (LVLMs) have demonstrated impressive
 capabilities in multimodal tasks, but their performance is often constrained by

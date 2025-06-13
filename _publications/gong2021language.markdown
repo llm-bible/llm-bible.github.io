@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gong2021language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.03379"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.03379'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Cross-lingual document representations enable language understanding in
 multilingual contexts and allow transfer learning from high-resource to

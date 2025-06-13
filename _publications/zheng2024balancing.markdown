@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024balancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02513"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02513'}
+tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 In recent advancements in Conversational Large Language Models (LLMs), a
 concerning trend has emerged, showing that many new base LLMs experience a

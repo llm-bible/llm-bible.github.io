@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: junczysdowmunt2018cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.12096"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.12096'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 This paper describes the submissions of the "Marian" team to the WNMT 2018
 shared task. We investigate combinations of teacher-student training,

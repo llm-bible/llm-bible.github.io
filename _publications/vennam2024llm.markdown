@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: vennam2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06371"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06371'}
 tags: ['GPT', 'Model Architecture']
 ---
 We present a method to compress the final linear layer of language models,

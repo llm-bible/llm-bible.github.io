@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: winterbottom2020modality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.10210"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.10210'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'BERT', 'Multimodal Models', 'Ethics and Bias']
 ---
 TVQA is a large scale video question answering (video-QA) dataset based on
 popular TV shows. The questions were specifically designed to require "both

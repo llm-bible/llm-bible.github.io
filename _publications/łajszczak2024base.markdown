@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: łajszczak2024base
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08093"}
-  - {name: "Code", url: "https://amazon-ltts-paper.com/"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Tokenization', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08093'}
+  - {name: "Code", url: 'https://amazon-ltts-paper.com/'}
+tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
 ---
 We introduce a text-to-speech (TTS) model called BASE TTS, which stands for
 \\(\textbf\{B\}\\)ig \\(\textbf\{A\}\\)daptive \\(\textbf\{S\}\\)treamable TTS with

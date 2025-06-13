@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: burns2024associative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15113"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15113'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) demonstrate an impressive ability to utilise
 information within the context of their input sequences to appropriately

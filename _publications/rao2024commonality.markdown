@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: rao2024commonality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03077"}
-  - {name: "Code", url: "https://github.com/raojay7/CommonIT"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03077'}
+  - {name: "Code", url: 'https://github.com/raojay7/CommonIT'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Training Techniques']
 ---
 With instruction tuning, Large Language Models (LLMs) can enhance their
 ability to adhere to commands. Diverging from most works focusing on data

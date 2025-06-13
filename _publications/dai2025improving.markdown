@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dai2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12147"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12147'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Selecting appropriate training data is crucial for effective instruction
 fine-tuning of large language models (LLMs), which aims to (1) elicit strong

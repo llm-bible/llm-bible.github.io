@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiu2023latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08487"}
-  - {name: "Code", url: "https://github.com/qiuhuachuan/latent-jailbreak"}
-tags: ['Responsible AI', 'Tools', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08487'}
+  - {name: "Code", url: 'https://github.com/qiuhuachuan/latent-jailbreak'}
+tags: ['Has Code', 'Security', 'Tools', 'Prompting', 'Responsible AI']
 ---
 Considerable research efforts have been devoted to ensuring that large
 language models (LLMs) align with human values and generate safe text. However,

@@ -6,7 +6,7 @@ conference: "Proceedings of the 2018 EMNLP Workshop SCAI The 2nd International W
 year: 2018
 bibkey: agarwal2018knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1810.11954"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1810.11954'}
 tags: ['Agentic', 'Multimodal Models', 'Applications']
 ---
 Multimodal search-based dialogue is a challenging new task: It extends

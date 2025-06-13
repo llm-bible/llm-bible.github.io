@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023reflection
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11716"}
-tags: ['Fine-Tuning', 'Training Techniques', 'ACL', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11716'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Applications', 'ACL']
 ---
 Recent advancements in Large Language Models (LLMs) have expanded the
 horizons of natural language understanding and generation. Notably, the output

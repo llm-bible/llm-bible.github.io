@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: arefeen2023cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00841"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00841'}
+tags: ['Arxiv', 'Agentic', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Question-answering (QA) is a significant application of Large Language Models
 (LLMs), shaping chatbot capabilities across healthcare, education, and customer

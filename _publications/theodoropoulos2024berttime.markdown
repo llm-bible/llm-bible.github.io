@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: theodoropoulos2024berttime
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15365"}
-tags: ['Pre-Training', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15365'}
+tags: ['Language Modeling', 'Training Techniques', 'BERT', 'GPT', 'Model Architecture', 'Pre-Training']
 ---
 We describe our contribution to the Strict and Strict-Small tracks of the 2nd
 iteration of the BabyLM Challenge. The shared task is centered around efficient

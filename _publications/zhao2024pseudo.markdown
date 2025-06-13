@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024pseudo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04075"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04075'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Simultaneous Machine Translation (SiMT) requires target tokens to be
 generated in real-time as streaming source tokens are consumed. Traditional

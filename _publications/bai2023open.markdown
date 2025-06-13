@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bai2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01414"}
-tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01414'}
+tags: ['Training Techniques', 'RAG', 'Model Architecture', 'GPT']
 ---
 Renewable energy is important for achieving carbon neutrality goal. With the
 great success of Large Language Models (LLMs) like ChatGPT in automatic content

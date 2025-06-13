@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guerdan2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13760"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13760'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Large language model (LLM) evaluations often assume there is a single correct
 response -- a gold label -- for each item in the evaluation corpus. However,

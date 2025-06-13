@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04617"}
-  - {name: "Code", url: "https://github.com/thunlp/InfLLM"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04617'}
+  - {name: "Code", url: 'https://github.com/thunlp/InfLLM'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have emerged as a cornerstone in real-world
 applications with lengthy streaming inputs (e.g., LLM-driven agents). However,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: freire2024conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04955"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04955'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 Conversational Assistants (CA) are increasingly supporting human workers in
 knowledge management. Traditionally, CAs respond in specific ways to predefined

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13917"}
-  - {name: "Code", url: "https://github.com/HKUNLP/SymGen}{https://github.com/HKUNLP/SymGen"}
-tags: ['Training Techniques', 'Has Code', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13917'}
+  - {name: "Code", url: 'https://github.com/HKUNLP/SymGen}{https://github.com/HKUNLP/SymGen'}
+tags: ['Prompting', 'Has Code', 'Applications', 'Training Techniques']
 ---
 While large language models (LLMs) bring not only performance but also
 complexity, recent work has started to turn LLMs into data generators rather

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: poppi2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18210"}
-tags: ['Fine-Tuning', 'Responsible AI', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18210'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have sparked widespread
 concerns about their safety. Recent work demonstrates that safety alignment of

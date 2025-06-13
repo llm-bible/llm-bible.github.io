@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ghosal2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.13731"}
-tags: ['Fine-Tuning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.13731'}
+tags: ['Few-Shot', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The immense scale of the recent large language models (LLM) allows many
 interesting properties, such as, instruction- and chain-of-thought-based

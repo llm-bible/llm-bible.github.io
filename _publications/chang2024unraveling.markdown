@@ -6,8 +6,8 @@ conference: "ICLR 2025 Workshop on Reasoning and Planning for Large Language Mod
 year: 2024
 bibkey: chang2024unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16260"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16260'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable mathematical
 capabilities, largely driven by chain-of-thought (CoT) prompting, which

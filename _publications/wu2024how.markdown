@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05059"}
-  - {name: "Code", url: "https://github.com/kevinwu23/StanfordFineTuneBench"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05059'}
+  - {name: "Code", url: 'https://github.com/kevinwu23/StanfordFineTuneBench'}
+tags: ['Has Code', 'RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 There is great interest in fine-tuning frontier large language models (LLMs)
 to inject new information and update existing knowledge. While commercial LLM

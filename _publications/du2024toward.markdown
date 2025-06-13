@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04524"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04524'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Instruction fine-tuning has emerged as a critical technique for customizing
 Large Language Models (LLMs) to specific applications. However, recent studies

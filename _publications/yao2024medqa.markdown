@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024medqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01553"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01553'}
 tags: ['Dataset', 'Tools']
 ---
 Artificial intelligence (AI) and large language models (LLMs) in healthcare

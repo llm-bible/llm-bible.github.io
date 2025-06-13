@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16985"}
-tags: ['Interpretability and Explainability', 'Tools', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16985'}
+tags: ['Interpretability', 'Interpretability and Explainability', 'Tools']
 ---
 This paper proposes a framework combining Neural Ordinary Differential
 Equations (Neural ODEs) and robust control theory to enhance the

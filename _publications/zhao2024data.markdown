@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.08707"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/cem-BB25"}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.08707'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/cem-BB25'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Has Code', 'Training Techniques']
 ---
 As world knowledge advances and new task schemas emerge, Continual Learning
 (CL) becomes essential for keeping Large Language Models (LLMs) current and

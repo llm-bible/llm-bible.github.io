@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19215"}
-  - {name: "Code", url: "https://github.com/THU-KEG/SeaKR"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19215'}
+  - {name: "Code", url: 'https://github.com/THU-KEG/SeaKR'}
 tags: ['RAG', 'Has Code', 'Applications']
 ---
 This paper introduces Self-aware Knowledge Retrieval (SeaKR), a novel

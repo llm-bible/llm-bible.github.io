@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04692"}
-tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04692'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'GPT']
 ---
 Recent advances in large language models (LLMs) demonstrate substantial
 capabilities in natural language understanding and generation tasks. With the

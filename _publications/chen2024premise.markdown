@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024premise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08939"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08939'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have accomplished remarkable reasoning
 performance in various domains. However, in the domain of reasoning tasks, we

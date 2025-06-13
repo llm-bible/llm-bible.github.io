@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: pascual2020telling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.05916"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.05916'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 We take a deep look into the behavior of self-attention heads in the
 transformer architecture. In light of recent work discouraging the use of

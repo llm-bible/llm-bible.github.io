@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12326"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'In-Context Learning', 'Few-Shot', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12326'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated exceptional capabilities
 across various machine learning (ML) tasks. Given the high costs of creating

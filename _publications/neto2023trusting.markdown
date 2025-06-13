@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: neto2023trusting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03866"}
-tags: ['BERT', 'Transformer', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03866'}
+tags: ['Attention Mechanism', 'BERT', 'Transformer', 'Model Architecture']
 ---
 Language Models are being widely used in Education. Even though modern deep
 learning models achieve very good performance on question-answering tasks,

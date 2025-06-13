@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14924"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14924'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) augmented with external data have demonstrated
 remarkable capabilities in completing real-world tasks. Techniques for

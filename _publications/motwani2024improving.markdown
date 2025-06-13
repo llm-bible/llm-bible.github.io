@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: motwani2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01928"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01928'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 Large Language Models (LLMs) often produce answers with a single
 chain-of-thought, which restricts their ability to explore reasoning paths or

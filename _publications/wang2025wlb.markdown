@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025wlb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17924"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17924'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 In this work, we present WLB-LLM, a workLoad-balanced 4D parallelism for
 large language model training. We first thoroughly analyze the workload

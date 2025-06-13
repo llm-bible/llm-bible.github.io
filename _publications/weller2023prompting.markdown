@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: weller2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13252"}
-tags: ['Training Techniques', 'Pre-Training', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13252'}
+tags: ['Reinforcement Learning', 'Prompting', 'Training Techniques', 'Pre-Training']
 ---
 Large Language Models (LLMs) may hallucinate and generate fake information,
 despite pre-training on factual data. Inspired by the journalistic device of

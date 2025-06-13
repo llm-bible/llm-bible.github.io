@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: laneve2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00065"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00065'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 We present an empirical evaluation of Large Language Models in code
 understanding associated with non-trivial, semantic-preserving program

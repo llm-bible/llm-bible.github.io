@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sengupta2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18446"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18446'}
+tags: ['Applications', 'Training Techniques']
 ---
 In this paper, we investigate Extractive Question Answering (EQA) with Large
 Language Models (LLMs) under domain drift, i.e., can LLMs generalize to domains

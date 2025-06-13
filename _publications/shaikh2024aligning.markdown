@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shaikh2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00888"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00888'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Language models are aligned to emulate the collective voice of many,
 resulting in outputs that align with no one in particular. Steering LLMs away

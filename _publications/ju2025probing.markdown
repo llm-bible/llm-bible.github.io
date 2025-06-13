@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: ju2025probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10227"}
-  - {name: "Code", url: "https://github.com/universe-sky/probing-then-editing-personality"}
-tags: ['Training Techniques', 'Has Code', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10227'}
+  - {name: "Code", url: 'https://github.com/universe-sky/probing-then-editing-personality'}
+tags: ['Prompting', 'Has Code', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated promising capabilities to
 generate responses that exhibit consistent personality traits. Despite the

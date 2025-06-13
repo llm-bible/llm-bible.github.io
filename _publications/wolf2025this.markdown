@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wolf2025this
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05856"}
-tags: ['Responsible AI', 'Agentic', 'Survey Paper', 'RAG', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05856'}
+tags: ['Agentic', 'RAG', 'Security', 'Model Architecture', 'Survey Paper', 'Responsible AI']
 ---
 Mixture of large language model (LLMs) Agents (MoA) architectures achieve
 state-of-the-art performance on prominent benchmarks like AlpacaEval 2.0 by

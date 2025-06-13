@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024grl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14479"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14479'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated impressive success in a wide
 range of natural language processing (NLP) tasks due to their extensive general

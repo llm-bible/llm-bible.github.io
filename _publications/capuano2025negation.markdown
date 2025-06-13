@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: capuano2025negation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19211"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19211'}
+tags: ['Ethics and Bias', 'Model Architecture', 'Tools', 'GPT']
 ---
 The study explores whether Large Language Models (LLMs) exhibit
 negation-induced forgetting (NIF), a cognitive phenomenon observed in humans

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10412"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10412'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 LLM hallucination, i.e. generating factually incorrect yet seemingly
 convincing answers, is currently a major threat to the trustworthiness and

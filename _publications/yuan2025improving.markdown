@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuan2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03843"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03843'}
 tags: ['RAG', 'Applications']
 ---
 High-quality, large-scale instructions are crucial for aligning large

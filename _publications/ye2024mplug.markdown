@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024mplug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04840"}
-tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04840'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Multi-modal Large Language Models (MLLMs) have demonstrated remarkable
 capabilities in executing instructions for a variety of single-image tasks.

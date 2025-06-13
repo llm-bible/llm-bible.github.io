@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: banerjee2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09061"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09061'}
+tags: ['Interpretability and Explainability', 'Applications', 'Training Techniques']
 ---
 Code generation, symbolic math reasoning, and other tasks require LLMs to
 produce outputs that are both syntactically and semantically correct.

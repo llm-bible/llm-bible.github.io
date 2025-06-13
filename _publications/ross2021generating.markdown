@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ross2021generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.07150"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.07150'}
+tags: ['Training Techniques', 'Language Modeling', 'Applications']
 ---
 Controlled text perturbation is useful for evaluating and improving model
 generalizability. However, current techniques rely on training a model for

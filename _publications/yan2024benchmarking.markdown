@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13775"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13775'}
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 This study presents a comprehensive evaluation of GPT-4's translation
 capabilities compared to human translators of varying expertise levels. Through

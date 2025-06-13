@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: singla2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.02522"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.02522'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Generative AI and large language models have the potential to drastically
 improve the landscape of computing education by automatically generating

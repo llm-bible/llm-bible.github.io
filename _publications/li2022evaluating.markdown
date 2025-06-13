@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10529"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10529'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 In this work, we designed unbiased prompts to systematically evaluate the
 psychological safety of large language models (LLMs). First, we tested five

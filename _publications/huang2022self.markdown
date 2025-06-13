@@ -6,8 +6,8 @@ conference: "EMNLP 2022 Findings"
 year: 2022
 bibkey: huang2022self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08753"}
-tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08753'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Merging', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Personalized chatbots focus on endowing the chatbots with a consistent
 personality to behave like real users and further act as personal assistants.

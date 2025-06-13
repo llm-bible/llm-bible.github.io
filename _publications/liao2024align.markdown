@@ -6,8 +6,8 @@ conference: "CVPR (2024) 13395-13404"
 year: 2024
 bibkey: liao2024align
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03008"}
-tags: ['Tools', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03008'}
+tags: ['Reinforcement Learning', 'Tools', 'Pretraining Methods']
 ---
 Despite the recent progress made in Video Question-Answering (VideoQA), these
 methods typically function as black-boxes, making it difficult to understand

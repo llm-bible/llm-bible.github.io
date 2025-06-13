@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: liu2021decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.03023"}
-tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.03023'}
+tags: ['GPT', 'Language Modeling', 'Applications', 'Model Architecture']
 ---
 Despite recent advances in natural language generation, it remains
 challenging to control attributes of generated text. We propose DExperts:

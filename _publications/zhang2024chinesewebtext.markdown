@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024chinesewebtext
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19668"}
-  - {name: "Code", url: "https://github.com/CASIA-LM/ChineseWebText-2.0"}
-tags: ['Responsible AI', 'Pre-Training', 'Tools', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19668'}
+  - {name: "Code", url: 'https://github.com/CASIA-LM/ChineseWebText-2.0'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Pre-Training', 'Responsible AI']
 ---
 During the development of large language models (LLMs), pre-training data
 play a critical role in shaping LLMs' capabilities. In recent years several

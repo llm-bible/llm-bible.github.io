@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: haase2025sustainability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13217"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13217'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have become increasingly embedded in
 organizational workflows. This has raised concerns over their energy

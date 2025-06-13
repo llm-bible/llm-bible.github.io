@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: erak2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18039"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18039'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 This study introduces an innovative framework that employs large language
 models (LLMs) to automate the design and generation of curricula for

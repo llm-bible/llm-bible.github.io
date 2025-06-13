@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: elizabeth2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01262"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01262'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic']
 ---
 Large language models (LLMs) gained immense popularity due to their
 impressive capabilities in unstructured conversations. Empowering LLMs with

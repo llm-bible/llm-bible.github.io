@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: torbati2023recommendations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01314"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'RecSys', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01314'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'RecSys', 'Survey Paper', 'Pretraining Methods']
 ---
 Recommender systems perform well for popular items and users with ample
 interactions (likes, ratings etc.). This work addresses the difficult and

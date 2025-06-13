@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hilliard2024eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08341"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08341'}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLMs) are increasingly being utilized by both
 candidates and employers in the recruitment context. However, with this comes

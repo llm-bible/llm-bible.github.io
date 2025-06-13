@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ni2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11677"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11677'}
 tags: ['RAG', 'Efficiency and Optimization', 'Applications']
 ---
 Large language models (LLMs) exhibit impressive performance across diverse

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohsin2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12513"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12513'}
+tags: ['In-Context Learning', 'Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Prompting', 'Responsible AI']
 ---
 Large Language Models (LLMs) such as ChatGPT and GitHub Copilot have
 revolutionized automated code generation in software engineering. However, as

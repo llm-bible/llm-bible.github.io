@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: idziejczak2025among
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20426"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20426'}
 tags: ['Agentic', 'Tools']
 ---
 The proliferation of large language models (LLMs) and autonomous AI agents

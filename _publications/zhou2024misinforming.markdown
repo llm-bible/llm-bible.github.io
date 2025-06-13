@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024misinforming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01168"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01168'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have made significant advances in natural
 language processing, but their underlying mechanisms are often misunderstood.

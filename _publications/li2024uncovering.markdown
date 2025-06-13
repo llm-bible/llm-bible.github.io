@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19148"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19148'}
 tags: ['Prompting']
 ---
 We study how differences in persuasive language across Wikipedia articles,

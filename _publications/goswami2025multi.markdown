@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: goswami2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00989"}
-tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00989'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Tools', 'Reinforcement Learning', 'Interpretability']
 ---
 Large Language Models (LLMs) can perform chart question-answering tasks but
 often generate unverified hallucinated responses. Existing answer attribution

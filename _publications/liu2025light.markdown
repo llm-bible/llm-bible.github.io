@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025light
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12587"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12587'}
 tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 The Incomplete Utterance Rewriting (IUR) task has garnered significant

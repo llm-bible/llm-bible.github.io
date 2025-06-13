@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ranaldi2024eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22874"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22874'}
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) has emerged as a critical mechanism in
 contemporary NLP to support Large Language Models(LLMs) in systematically

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ma2024coco
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11941"}
-  - {name: "Code", url: "https://github.com/xbmxb/CoCo-Agent"}
-tags: ['Agentic', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11941'}
+  - {name: "Code", url: 'https://github.com/xbmxb/CoCo-Agent'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) have shown remarkable potential as
 human-like autonomous language agents to interact with real-world environments,

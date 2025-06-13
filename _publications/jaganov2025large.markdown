@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jaganov2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00931"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00931'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 This study investigates the potential for Large Language Models (LLMs) to
 scale-up Dynamic Assessment (DA). To facilitate such an investigation, we first

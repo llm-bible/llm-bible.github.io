@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dutta2024applying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.20060"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.20060'}
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Reinforcement Learning from AI Feedback (RLAIF) has demonstrated significant
 potential across various domains, including mitigating harm in LLM outputs,

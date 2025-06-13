@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yuan2023pixel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10032"}
-  - {name: "Code", url: "https://github.com/CircleRadon/Osprey"}
-tags: ['Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10032'}
+  - {name: "Code", url: 'https://github.com/CircleRadon/Osprey'}
+tags: ['Has Code', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) have recently achieved impressive
 general-purpose vision-language capabilities through visual instruction tuning.

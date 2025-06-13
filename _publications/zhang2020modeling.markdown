@@ -6,8 +6,8 @@ conference: "the 29th International Joint Conference on Artificial Intelligence(
 year: 2020
 bibkey: zhang2020modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.12735"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.12735'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Topic drift is a common phenomenon in multi-turn dialogue. Therefore, an
 ideal dialogue generation models should be able to capture the topic

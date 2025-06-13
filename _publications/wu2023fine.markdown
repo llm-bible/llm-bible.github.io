@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01693"}
-  - {name: "Code", url: "https://FineGrainedRLHF.github.io"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01693'}
+  - {name: "Code", url: 'https://FineGrainedRLHF.github.io'}
+tags: ['Has Code', 'Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Language models (LMs) often exhibit undesirable text generation behaviors,
 including generating false, toxic, or irrelevant outputs. Reinforcement

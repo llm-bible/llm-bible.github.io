@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023legal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08321"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08321'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Interpretability', 'Pretraining Methods']
 ---
 Legal syllogism is a form of deductive reasoning commonly used by legal
 professionals to analyze cases. In this paper, we propose legal syllogism

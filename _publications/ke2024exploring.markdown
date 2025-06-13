@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ke2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.01519"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.01519'}
+tags: ['RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 This paper explores the frontiers of large language models (LLMs) in
 psychology applications. Psychology has undergone several theoretical changes,

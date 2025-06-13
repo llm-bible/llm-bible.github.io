@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025star
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13550"}
-tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13550'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Generating step-by-step "chain-of-thought" rationales has proven effective
 for improving the performance of large language models on complex reasoning

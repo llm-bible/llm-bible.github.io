@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.11929"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.11929'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training']
 ---
 Recent large-scale video-language pre-trained models have shown appealing
 performance on various downstream tasks. However, the pre-training process is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16071"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16071'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Applications']
 ---
 Memory, additional information beyond the training of large language models
 (LLMs), is crucial to various real-world applications, such as personal

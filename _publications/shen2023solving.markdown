@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023solving
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.17580v4"}
-tags: ['RAG', 'Agentic', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.17580v4'}
+tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture']
 ---
 Solving complicated AI tasks with different domains and modalities is a key
 step toward artificial general intelligence. While there are numerous AI models

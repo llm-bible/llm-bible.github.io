@@ -6,8 +6,8 @@ conference: "2025 Journal of Intelligence and Information Systems"
 year: 2025
 bibkey: jeong2025beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00750"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Agent', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00750'}
+tags: ['Agentic', 'Agent', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Multimodal Models']
 ---
 This study proposes the design and implementation of a multimodal LLM-based
 Multi-Agent System (MAS) leveraging a No-Code platform to address the practical

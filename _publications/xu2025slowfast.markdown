@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025slowfast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18943"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18943'}
 tags: ['Training Techniques']
 ---
 We introduce SlowFast-LLaVA-1.5 (abbreviated as SF-LLaVA-1.5), a family of

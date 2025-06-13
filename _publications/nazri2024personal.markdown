@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nazri2024personal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06973"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06973'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Applications', 'Training Techniques']
 ---
 In contexts with limited computational and data resources, high-resource
 language models often prove inadequate, particularly when addressing the

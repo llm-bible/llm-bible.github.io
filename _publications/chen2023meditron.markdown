@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023meditron
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16079"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16079'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 Large language models (LLMs) can potentially democratize access to medical
 knowledge. While many efforts have been made to harness and improve LLMs'

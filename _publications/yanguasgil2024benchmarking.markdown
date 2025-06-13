@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yanguasgil2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10477"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10477'}
 tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 In this work we introduce an open-ended question benchmark, ALDbench, to

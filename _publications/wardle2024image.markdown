@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wardle2024image
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03062"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03062'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper examines how the sequencing of images and text within multi-modal
 prompts influences the reasoning performance of large language models (LLMs).

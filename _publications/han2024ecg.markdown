@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024ecg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14373"}
-tags: ['Efficiency and Optimization', 'GPT', 'Interpretability and Explainability', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14373'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable adaptability across
 domains beyond text, specifically electrocardiograms (ECGs). More specifically,

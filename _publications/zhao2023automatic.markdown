@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14333"}
-  - {name: "Code", url: "https://github.com/XuZhao0/Model-Selection-Reasoning"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14333'}
+  - {name: "Code", url: 'https://github.com/XuZhao0/Model-Selection-Reasoning'}
+tags: ['Has Code', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-Thought (CoT) and Program-Aided Language Models (PAL) represent two
 distinct reasoning methods, each with its own strengths. CoT employs natural

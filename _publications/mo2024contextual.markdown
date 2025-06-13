@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mo2024contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05013"}
-  - {name: "Code", url: "https://github.com/fengranMark/CHIQ"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05013'}
+  - {name: "Code", url: 'https://github.com/fengranMark/CHIQ'}
 tags: ['RAG', 'Has Code']
 ---
 In this paper, we study how open-source large language models (LLMs) can be

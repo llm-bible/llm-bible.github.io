@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shtedritski2023what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.06712"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.06712'}
+tags: ['Attention Mechanism', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Large-scale Vision-Language Models, such as CLIP, learn powerful image-text
 representations that have found numerous applications, from zero-shot

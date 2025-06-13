@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024mlr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.14033"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.14033'}
 tags: ['RAG', 'Agentic', 'Tools']
 ---
 Machine learning research, crucial for technological advancements and

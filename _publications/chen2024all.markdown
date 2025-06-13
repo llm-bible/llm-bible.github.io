@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10081"}
-tags: ['Agentic', 'RecSys', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10081'}
+tags: ['Reinforcement Learning', 'Agentic', 'RecSys', 'Applications']
 ---
 Recommender systems (RS) are vital for managing information overload and
 delivering personalized content, responding to users' diverse information

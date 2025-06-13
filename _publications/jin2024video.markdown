@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024video
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03161"}
-  - {name: "Code", url: "https://video-lavit.github.io"}
-tags: ['Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03161'}
+  - {name: "Code", url: 'https://video-lavit.github.io'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Tokenization']
 ---
 In light of recent advances in multimodal Large Language Models (LLMs), there
 is increasing attention to scaling them from image-text data to more

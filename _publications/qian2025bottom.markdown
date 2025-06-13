@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qian2025bottom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14375"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14375'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Training conversational question-answering (QA) systems requires a
 substantial amount of in-domain data, which is often scarce in practice. A

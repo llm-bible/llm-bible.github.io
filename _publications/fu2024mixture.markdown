@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14909"}
-  - {name: "Code", url: "https://github.com/thu-nics/MoA"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14909'}
+  - {name: "Code", url: 'https://github.com/thu-nics/MoA'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 Sparse attention can effectively mitigate the significant memory and
 throughput demands of Large Language Models (LLMs) in long contexts. Existing

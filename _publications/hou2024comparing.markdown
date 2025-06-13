@@ -6,8 +6,8 @@ conference: "Adv Sci (Weinh). 2024 Dec 30e2412279. Epub ahead of print. PMID 397
 year: 2024
 bibkey: hou2024comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00894"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00894'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 We systematically evaluated the performance of seven large language models in
 generating programming code using various prompt strategies, programming

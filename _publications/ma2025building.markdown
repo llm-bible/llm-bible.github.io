@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ma2025building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23714"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23714'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Applications']
 ---
 Instruction tuning is crucial for enabling Large Language Models (LLMs) to
 solve real-world tasks. Prior work has shown the effectiveness of

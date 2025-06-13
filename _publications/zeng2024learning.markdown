@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07162"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07162'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 Learning reward functions remains the bottleneck to equip a robot with a
 broad repertoire of skills. Large Language Models (LLM) contain valuable

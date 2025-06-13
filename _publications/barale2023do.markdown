@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: barale2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13092"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13092'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Prompting', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Language Models (LMs) have proven their ability to acquire diverse linguistic
 knowledge during the pretraining phase, potentially serving as a valuable

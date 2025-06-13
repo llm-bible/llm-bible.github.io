@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rothkopf2024procedural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16905"}
-tags: ['Interpretability and Explainability', 'Agentic']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16905'}
+tags: ['Agentic', 'Interpretability and Explainability']
 ---
 The surge in popularity of large language models (LLMs) has opened doors for
 new approaches to the creation of interactive agents. However, managing and

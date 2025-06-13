@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: just2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06241"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06241'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Existing work on improving language model reasoning typically explores a
 single solution path, which can be prone to errors. Inspired by

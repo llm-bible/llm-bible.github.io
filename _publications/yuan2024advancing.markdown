@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02078"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02078'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce Eurus, a suite of large language models (LLMs) optimized for
 reasoning. Finetuned from Mistral-7B and CodeLlama-70B, Eurus models achieve

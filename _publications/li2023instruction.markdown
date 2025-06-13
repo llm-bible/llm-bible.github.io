@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20329"}
-  - {name: "Code", url: "https://github.com/qishenghu/CodeInstruct"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20329'}
+  - {name: "Code", url: 'https://github.com/qishenghu/CodeInstruct'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting']
 ---
 Code editing encompasses a variety of pragmatic tasks that developers deal
 with daily. Despite its relevance and practical usefulness, automatic code

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zarharan2024tell
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09454"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09454'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 This paper presents a comprehensive analysis of explainable fact-checking
 through a series of experiments, focusing on the ability of large language

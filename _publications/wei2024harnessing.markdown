@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11699"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11699'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown strong performance in solving
 mathematical problems, with code-based solutions proving particularly

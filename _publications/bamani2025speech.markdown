@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bamani2025speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05084"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05084'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Merging', 'Prompting']
 ---
 Full integration of robots into real-life applications necessitates their
 ability to interpret and execute natural language directives from untrained

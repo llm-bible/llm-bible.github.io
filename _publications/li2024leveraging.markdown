@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10139"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10139'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 The capacity of LLMs to carry out automated qualitative analysis has been
 questioned by corpus linguists, and it has been argued that corpus-based

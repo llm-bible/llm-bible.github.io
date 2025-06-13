@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19713"}
-tags: ['Responsible AI', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19713'}
+tags: ['RAG', 'Responsible AI', 'Security', 'Prompting']
 ---
 The prevalence and strong capability of large language models (LLMs) present
 significant safety and ethical risks if exploited by malicious users. To

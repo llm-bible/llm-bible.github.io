@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025heterogeneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10529"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10529'}
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Tools']
 ---
 Retrieval-augmented generation (RAG) methods can enhance the performance of
 LLMs by incorporating retrieved knowledge chunks into the generation process.

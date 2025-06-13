@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.08655"}
-tags: ['Agentic', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.08655'}
+tags: ['Prompting', 'Agentic', 'Training Techniques']
 ---
 Conversational agents show the promise to allow users to interact with mobile
 devices using language. However, to perform diverse UI tasks with natural

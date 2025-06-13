@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: iter2023demonstration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14726"}
-tags: ['Applications', 'Training Techniques', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14726'}
+tags: ['Language Modeling', 'Applications', 'Training Techniques']
 ---
 Large language models (LLMs) can use in-context demonstrations to improve
 performance on zero-shot tasks. However, selecting the best in-context examples

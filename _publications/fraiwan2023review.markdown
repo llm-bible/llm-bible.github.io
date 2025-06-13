@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: fraiwan2023review
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.00237"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.00237'}
 tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 ChatGPT is a type of artificial intelligence language model that uses deep

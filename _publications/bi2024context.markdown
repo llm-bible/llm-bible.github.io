@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bi2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15280"}
-  - {name: "Code", url: "https://github.com/byronBBL/Context-DPO"}
-tags: ['RAG', 'Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15280'}
+  - {name: "Code", url: 'https://github.com/byronBBL/Context-DPO'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Efficiency and Optimization']
 ---
 Reliable responses from large language models (LLMs) require adherence to
 user instructions and retrieved information. While alignment techniques help

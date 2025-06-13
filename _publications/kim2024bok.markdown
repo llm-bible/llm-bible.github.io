@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024bok
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06443"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06443'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 The current research direction in generative models, such as the recently
 developed GPT4, aims to find relevant knowledge information for multimodal and

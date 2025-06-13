@@ -6,8 +6,8 @@ conference: "Proceedings of the 41st International Conference on Machine Learnin
 year: 2023
 bibkey: lee2023rlaif
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00267"}
-tags: ['Agentic', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00267'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Training Techniques']
 ---
 Reinforcement learning from human feedback (RLHF) has proven effective in
 aligning large language models (LLMs) with human preferences, but gathering

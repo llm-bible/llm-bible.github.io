@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07127"}
-tags: ['GPT', 'Survey Paper', 'ICLR', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07127'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'ICLR']
 ---
 We introduce the GEM (Generative Estimator for Mutual Information), an
 evaluation metric for assessing language generation by Large Language Models

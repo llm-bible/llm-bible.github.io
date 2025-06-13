@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhu2020overcoming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.11528"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.11528'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Most Visual Question Answering (VQA) models suffer from the language prior
 problem, which is caused by inherent data biases. Specifically, VQA models tend

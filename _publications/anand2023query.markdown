@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: anand2023query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16004"}
-tags: ['Interpretability', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16004'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Tools']
 ---
 Querying, conversing, and controlling search and information-seeking
 interfaces using natural language are fast becoming ubiquitous with the rise

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dhurandhar2024ranking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14860"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14860'}
 tags: ['Prompting', 'Applications']
 ---
 Evaluation and ranking of large language models (LLMs) has become an

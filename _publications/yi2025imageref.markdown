@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yi2025imageref
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12418"}
-  - {name: "Code", url: "https://github.com/bytedance/ImageRef-VL"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12418'}
+  - {name: "Code", url: 'https://github.com/bytedance/ImageRef-VL'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Vision-Language Models (VLMs) have demonstrated remarkable capabilities in
 understanding multimodal inputs and have been widely integrated into

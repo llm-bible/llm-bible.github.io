@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fateen2024developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19231"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19231'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Recent advances in large language models (LLMs) have shown promise for
 scalable educational applications, but their use in dialog-based tutoring

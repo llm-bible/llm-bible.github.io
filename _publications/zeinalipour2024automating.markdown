@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeinalipour2024automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03397"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03397'}
 tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Crafting quizzes from educational content is a pivotal activity that benefits

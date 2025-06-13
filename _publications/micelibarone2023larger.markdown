@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: micelibarone2023larger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15507"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15507'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have successfully been applied to code
 generation tasks, raising the question of how well these models understand

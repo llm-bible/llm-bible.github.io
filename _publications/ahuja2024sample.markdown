@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahuja2024sample
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09879"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09879'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Despite the remarkable success of LLMs in English, there is a significant gap
 in performance in non-English languages. In order to address this, we introduce

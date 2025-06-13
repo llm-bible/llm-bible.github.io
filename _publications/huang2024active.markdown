@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03573"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03573'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Performance evaluation plays a crucial role in the development life cycle of
 large language models (LLMs). It estimates the model's capability, elucidates

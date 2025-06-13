@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22655"}
-  - {name: "Code", url: "https://github.com/Yu-xm/Unicorn.git"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22655'}
+  - {name: "Code", url: 'https://github.com/Yu-xm/Unicorn.git'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Training vision-language models (VLMs) typically requires large-scale,
 high-quality image-text pairs, but collecting or synthesizing such data is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15957"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Masked Language Model', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15957'}
+tags: ['Masked Language Model', 'Agentic', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The rapid development of large language models (LLMs) has transformed many
 industries, including healthcare. However, previous medical LLMs have largely

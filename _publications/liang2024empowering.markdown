@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16933"}
-  - {name: "Code", url: "https://github.com/IAAR-Shanghai/PGRAG"}
-tags: ['RAG', 'Tools', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16933'}
+  - {name: "Code", url: 'https://github.com/IAAR-Shanghai/PGRAG'}
+tags: ['RAG', 'Has Code', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) offers a cost-effective approach to
 injecting real-time knowledge into large language models (LLMs). Nevertheless,

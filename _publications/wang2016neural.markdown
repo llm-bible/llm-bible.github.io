@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: wang2016neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1610.05150"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1610.05150'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Tools']
 ---
 Neural Machine Translation (NMT) is a new approach to machine translation
 that has made great progress in recent years. However, recent studies show that

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: glm2024family
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12793"}
-  - {name: "Code", url: "https://github.com/THUDM"}
-  - {name: "Code", url: "https://huggingface.co/THUDM"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12793'}
+  - {name: "Code", url: 'https://github.com/THUDM'}
+  - {name: "Code", url: 'https://huggingface.co/THUDM'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 We introduce ChatGLM, an evolving family of large language models that we
 have been developing over time. This report primarily focuses on the GLM-4

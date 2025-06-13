@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hasanbeig2023auditing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13701"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13701'}
 tags: ['RAG', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 From grading papers to summarizing medical documents, large language models

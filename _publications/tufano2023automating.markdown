@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tufano2023automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.04048"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.04048'}
+tags: ['Masked Language Model', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformers have gained popularity in the software engineering (SE)
 literature. These deep learning models are usually pre-trained through a

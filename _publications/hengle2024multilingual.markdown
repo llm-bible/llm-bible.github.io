@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hengle2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10151"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10151'}
 tags: ['Applications']
 ---
 While recent large language models (LLMs) demonstrate remarkable abilities in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.07697"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.07697'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
 ---
 Although large language models (LLMs) have achieved significant success in
 various tasks, they often struggle with hallucination problems, especially in

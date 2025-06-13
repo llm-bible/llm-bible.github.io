@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.13372"}
-  - {name: "Code", url: "https://github.com/hiyouga/LLaMA-Factory"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13372'}
+  - {name: "Code", url: 'https://github.com/hiyouga/LLaMA-Factory'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Efficient fine-tuning is vital for adapting large language models (LLMs) to
 downstream tasks. However, it requires non-trivial efforts to implement these

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08811"}
-tags: ['Security', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08811'}
+tags: ['Ethics and Bias', 'Security']
 ---
 Preference learning is a central component for aligning current LLMs, but
 this process can be vulnerable to data poisoning attacks. To address this

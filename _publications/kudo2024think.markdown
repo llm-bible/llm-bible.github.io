@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kudo2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01113"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01113'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 This study investigates the internal reasoning process of language models
 during arithmetic multi-step reasoning, motivated by the question of when they

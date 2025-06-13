@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: vaideeswaran2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.05190"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.05190'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 The domain of joint vision-language understanding, especially in the context
 of reasoning in Visual Question Answering (VQA) models, has garnered

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025re
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.21098"}
-tags: ['RAG', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.21098'}
+tags: ['Reinforcement Learning', 'RAG', 'Merging']
 ---
 The question of whether large language models (LLMs) possess Theory of Mind
 (ToM) -- often defined as the ability to reason about others' mental states --

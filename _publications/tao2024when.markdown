@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08435"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08435'}
 tags: ['RAG']
 ---
 Large language models (LLMs) have demonstrated remarkable progress in

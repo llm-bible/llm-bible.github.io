@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: choi2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09044"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09044'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable human-level natural
 language generation capabilities. However, their potential to generate

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024psychometrics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01799"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01799'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Many existing benchmarks of large (multimodal) language models (LLMs) focus
 on measuring LLMs' academic proficiency, often with also an interest in

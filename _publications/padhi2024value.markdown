@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: padhi2024value
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10392"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10392'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Aligning large language models (LLMs) to value systems has emerged as a

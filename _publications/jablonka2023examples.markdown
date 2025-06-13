@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jablonka2023examples
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06283"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06283'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Large-language models (LLMs) such as GPT-4 caught the interest of many
 scientists. Recent studies suggested that these models could be useful in

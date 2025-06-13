@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: gómez2025rigochat
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08188"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08188'}
 tags: ['Training Techniques']
 ---
 Large Language Models (LLMs) have become a key element of modern artificial

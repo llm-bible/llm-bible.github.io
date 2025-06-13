@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dejesus2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07299"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07299'}
 tags: ['Reinforcement Learning']
 ---
 The Cranfield paradigm has served as a foundational approach for developing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: khaokaew2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08260"}
-tags: ['Responsible AI', 'Agentic', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08260'}
+tags: ['Agentic', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 Generative agents have been increasingly used to simulate human behaviour in
 silico, driven by large language models (LLMs). These simulacra serve as

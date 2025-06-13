@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: han2020improvement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.11970"}
-  - {name: "Code", url: "https://github.com/ghosthamlet/persona"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.11970'}
+  - {name: "Code", url: 'https://github.com/ghosthamlet/persona'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper analyzes some speed and performance improvement methods of
 Transformer architecture in recent years, mainly its application in dedicated

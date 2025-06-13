@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08196"}
-tags: ['Training Techniques', 'Multimodal Models', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08196'}
+tags: ['Multimodal Models', 'Training Techniques', 'Tools']
 ---
 Training large language models (LLMs) and multimodal LLMs necessitates
 significant computing resources, and existing publicly available LLMs are

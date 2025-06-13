@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024case
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13773"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13773'}
 tags: ['Fine-Tuning']
 ---
 This paper presents a case study of coding tasks by the latest reasoning

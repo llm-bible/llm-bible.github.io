@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: tayaranian2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.09815"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.09815'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The large number of parameters of some prominent language models, such as
 BERT, makes their fine-tuning on downstream tasks computationally intensive and

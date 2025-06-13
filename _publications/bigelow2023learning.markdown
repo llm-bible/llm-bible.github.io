@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bigelow2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17639"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17639'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Large language models (LLMs) trained on huge corpora of text datasets
 demonstrate intriguing capabilities, achieving state-of-the-art performance on

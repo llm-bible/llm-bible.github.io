@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhao2021effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.13990"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.13990'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Applications', 'Training Techniques']
 ---
 Sequence-to-sequence models have been applied to a wide variety of NLP tasks,
 but how to properly use them for dialogue state tracking has not been

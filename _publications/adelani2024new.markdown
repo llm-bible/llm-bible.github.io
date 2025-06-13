@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: adelani2024new
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03368"}
-tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03368'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture']
 ---
 Despite the widespread adoption of Large language models (LLMs), their
 remarkable capabilities remain limited to a few high-resource languages.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14321"}
-  - {name: "Code", url: "https://github.com/yilunzhao/RobuT"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14321'}
+  - {name: "Code", url: 'https://github.com/yilunzhao/RobuT'}
+tags: ['Has Code', 'Few-Shot', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications']
 ---
 Despite significant progress having been made in question answering on
 tabular data (Table QA), it's unclear whether, and to what extent existing

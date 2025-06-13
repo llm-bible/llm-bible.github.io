@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qasem2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05827"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05827'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 With the ever-increasing utilization of natural language processing (NLP), we
 started to witness over the past few years a significant transformation in our

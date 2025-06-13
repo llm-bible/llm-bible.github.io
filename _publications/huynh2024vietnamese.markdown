@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huynh2024vietnamese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.01078"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.01078'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Poetry generation has been a challenging task in the field of Natural
 Language Processing, as it requires the model to understand the nuances of

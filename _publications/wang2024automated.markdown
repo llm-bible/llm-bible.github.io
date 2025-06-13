@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04698"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04698'}
 tags: ['Reinforcement Learning']
 ---
 Recent large language models (LLMs) have demonstrated versatile capabilities

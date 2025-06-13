@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12478"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12478'}
 tags: ['Security']
 ---
 DNN-based language models perform excellently on various tasks, but even SOTA

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025trade
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17979"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17979'}
 tags: ['Reinforcement Learning']
 ---
 Recent advancements in Large Reasoning Models (LRMs), such as OpenAI's o1/o3

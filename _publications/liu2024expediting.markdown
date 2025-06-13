@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024expediting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08561"}
-tags: ['Agentic', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08561'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 tasks requiring reasoning and multi-step problem-solving through the use of

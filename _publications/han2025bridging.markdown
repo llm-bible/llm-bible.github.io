@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08142"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08142'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability', 'Responsible AI', 'Tools']
 ---
 We present Wildflare GuardRail, a guardrail pipeline designed to enhance the
 safety and reliability of Large Language Model (LLM) inferences by

@@ -6,7 +6,7 @@ conference: "Proceedings of the 17th International Conference on Educational Dat
 year: 2023
 bibkey: castleman2023examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12367"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12367'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) have facilitated the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rhue2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09148"}
-tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09148'}
+tags: ['Fairness', 'GPT', 'Model Architecture', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 This study examines the use of Large Language Models (LLMs) for retrieving
 factual information, addressing concerns over their propensity to produce

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16594"}
-  - {name: "Code", url: "https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16594'}
+  - {name: "Code", url: 'https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge'}
+tags: ['Has Code', 'RAG', 'Applications', 'Merging', 'Survey Paper', 'Reinforcement Learning']
 ---
 Assessment and evaluation have long been critical challenges in artificial
 intelligence (AI) and natural language processing (NLP). However, traditional

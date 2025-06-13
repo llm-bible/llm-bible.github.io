@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: hill2020human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.09382"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.09382'}
+tags: ['Agentic', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent work has described neural-network-based agents that are trained with
 reinforcement learning (RL) to execute language-like commands in simulated

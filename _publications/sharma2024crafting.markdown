@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sharma2024crafting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10848"}
-tags: ['BERT', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10848'}
+tags: ['GPT', 'BERT', 'Prompting', 'Model Architecture']
 ---
 Writing stories is an engaging yet challenging endeavor. Often, authors
 encounter moments of creative block, where the path forward in their narrative

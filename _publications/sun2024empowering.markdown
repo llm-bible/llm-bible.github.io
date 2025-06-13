@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11906"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11906'}
 tags: ['Agentic', 'Applications']
 ---
 This paper presents a novel application of large language models (LLMs) to

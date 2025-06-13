@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ateia2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16108"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16108'}
 tags: ['GPT', 'Model Architecture']
 ---
 We assessed the performance of commercial Large Language Models (LLMs)

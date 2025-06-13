@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.09645"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/StructGPT"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09645'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/StructGPT'}
+tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this paper, we study how to improve the zero-shot reasoning ability of
 large language models~(LLMs) over structured data in a unified way. Inspired by

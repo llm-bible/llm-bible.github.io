@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dechoudhury2023benefits
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14693"}
-tags: ['Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14693'}
+tags: ['Reinforcement Learning', 'Security', 'Tools']
 ---
 The past decade has been transformative for mental health research and
 practice. The ability to harness large repositories of data, whether from

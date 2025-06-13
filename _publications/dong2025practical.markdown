@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03704"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03704'}
+tags: ['Agentic', 'Security', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Agents based on large language models (LLMs) have demonstrated strong
 capabilities in a wide range of complex, real-world applications. However, LLM

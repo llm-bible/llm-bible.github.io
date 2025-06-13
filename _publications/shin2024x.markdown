@@ -6,8 +6,8 @@ conference: "https://aclanthology.org/2024.findings-naacl.158"
 year: 2024
 bibkey: shin2024x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11399"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11399'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 The impressive development of large language models (LLMs) is expanding into
 the realm of large multimodal models (LMMs), which incorporate multiple types

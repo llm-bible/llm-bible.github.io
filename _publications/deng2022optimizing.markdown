@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: deng2022optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.12548"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.12548'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Prompting has shown impressive success in enabling large pretrained language
 models (LMs) to perform diverse NLP tasks, especially when only few downstream

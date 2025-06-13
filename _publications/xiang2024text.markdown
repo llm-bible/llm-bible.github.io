@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiang2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16035"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16035'}
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 With the rapid development of artificial intelligence technology, Transformer
 structural pre-training model has become an important tool for large language

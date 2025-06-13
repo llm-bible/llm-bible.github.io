@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: poli2024mechanistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17844"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17844'}
+tags: ['Large-Scale Training', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Pre-Training', 'Pretraining Methods']
 ---
 The development of deep learning architectures is a resource-demanding
 process, due to a vast design space, long prototyping times, and high compute

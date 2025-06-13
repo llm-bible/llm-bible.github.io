@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025generalizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15592"}
-  - {name: "Code", url: "https://github.com/NJUNLP/context-synthesis"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15592'}
+  - {name: "Code", url: 'https://github.com/NJUNLP/context-synthesis'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Long-context modelling for large language models (LLMs) has been a key area
 of recent research because many real world use cases require reasoning over

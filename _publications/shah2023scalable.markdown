@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shah2023scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03348"}
-tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03348'}
+tags: ['GPT', 'Security', 'Prompting', 'Model Architecture']
 ---
 Despite efforts to align large language models to produce harmless responses,
 they are still vulnerable to jailbreak prompts that elicit unrestricted

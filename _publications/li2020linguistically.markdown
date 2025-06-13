@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020linguistically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.08580"}
-tags: ['BERT', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.08580'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture']
 ---
 Although large-scale pretrained language models, such as BERT and RoBERTa,
 have achieved superhuman performance on in-distribution test sets, their

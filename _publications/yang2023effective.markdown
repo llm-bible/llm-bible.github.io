@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13182"}
-  - {name: "Code", url: "https://github.com/Bernard-Yang/DistillTableCoT"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13182'}
+  - {name: "Code", url: 'https://github.com/Bernard-Yang/DistillTableCoT'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 a wide range of natural language processing tasks. However, their enormous

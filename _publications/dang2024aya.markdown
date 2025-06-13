@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dang2024aya
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04261"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04261'}
 tags: ['Training Techniques', 'RAG', 'Tools', 'Merging']
 ---
 We introduce the Aya Expanse model family, a new generation of 8B and 32B

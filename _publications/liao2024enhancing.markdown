@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19763"}
-  - {name: "Code", url: "https://github.com/MagiaSN/ACL2024_RLLR"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19763'}
+  - {name: "Code", url: 'https://github.com/MagiaSN/ACL2024_RLLR'}
+tags: ['Agentic', 'Has Code', 'ACL', 'RAG', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent strides in large language models (LLMs) have yielded remarkable
 performance, leveraging reinforcement learning from human feedback (RLHF) to

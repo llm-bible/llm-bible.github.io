@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: khan2025prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.24354"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.24354'}
+tags: ['Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 Parameter generation has emerged as a novel paradigm for neural network
 development, offering an alternative to traditional neural network training by

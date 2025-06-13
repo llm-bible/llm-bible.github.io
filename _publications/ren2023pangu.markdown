@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ren2023pangu
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.10845v1"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.10845v1'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 The scaling of large language models has greatly improved natural language
 understanding, generation, and reasoning. In this work, we develop a system

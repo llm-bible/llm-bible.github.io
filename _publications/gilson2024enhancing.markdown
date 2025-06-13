@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gilson2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13902"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13902'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Despite the potential of Large Language Models (LLMs) in medicine, they may
 generate responses lacking supporting evidence or based on hallucinated

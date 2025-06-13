@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hui2024half
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18466"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18466'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) with one or more fine-tuning phases have become
 a necessary step to unlock various capabilities, enabling LLMs to follow

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024mastering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03937"}
-  - {name: "Code", url: "https://github.com/SCUT-DLVCLab/TongGu-LLM"}
-tags: ['Fine-Tuning', 'RAG', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03937'}
+  - {name: "Code", url: 'https://github.com/SCUT-DLVCLab/TongGu-LLM'}
+tags: ['Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
 ---
 Classical Chinese is a gateway to the rich heritage and wisdom of ancient
 China, yet its complexities pose formidable comprehension barriers for most

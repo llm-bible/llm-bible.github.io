@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: desai2021multitask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.01742"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.01742'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer based language models have led to impressive results across all
 domains in Natural Language Processing. Pretraining these models on language

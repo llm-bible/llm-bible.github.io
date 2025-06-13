@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11793"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11793'}
 tags: ['Uncategorized']
 ---
 The existing methods for evaluating the inference abilities of Large Language

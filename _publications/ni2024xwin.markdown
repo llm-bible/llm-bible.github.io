@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ni2024xwin
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20335"}
-  - {name: "Code", url: "https://github.com/Xwin-LM/Xwin-LM"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20335'}
+  - {name: "Code", url: 'https://github.com/Xwin-LM/Xwin-LM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 In this work, we present Xwin-LM, a comprehensive suite of alignment
 methodologies for large language models (LLMs). This suite encompasses several

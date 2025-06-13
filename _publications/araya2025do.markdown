@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: araya2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15268"}
-tags: ['Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15268'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting']
 ---
 Learning to reason and carefully explain arguments is central to students'
 cognitive, mathematical, and computational thinking development. This is

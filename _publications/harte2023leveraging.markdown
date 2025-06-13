@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: harte2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09261"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09261'}
+tags: ['Attention Mechanism', 'RAG', 'BERT', 'Applications', 'Model Architecture']
 ---
 Sequential recommendation problems have received increasing attention in
 research during the past few years, leading to the inception of a large variety

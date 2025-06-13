@@ -6,8 +6,8 @@ conference: "LREC-COLING 2024"
 year: 2024
 bibkey: ni2024layer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16361"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16361'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 Among the various pre-trained neural language models that are popular today,
 dropout is already an indispensable regularization technique. To solve the

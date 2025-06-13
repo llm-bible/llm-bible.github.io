@@ -6,8 +6,8 @@ conference: "Findings of the Association for Computational Linguistics EMNLP 202
 year: 2021
 bibkey: yoshida2021reconsidering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08653"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08653'}
+tags: ['Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 We present Hidden-State Optimization (HSO), a gradient-based method for
 improving the performance of transformer language models at inference time.

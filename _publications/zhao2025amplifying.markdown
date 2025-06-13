@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025amplifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01698"}
-  - {name: "Code", url: "https://github.com/YuyingZhao/LLM-influence-amplifier"}
-tags: ['Has Code', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01698'}
+  - {name: "Code", url: 'https://github.com/YuyingZhao/LLM-influence-amplifier'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code', 'Applications']
 ---
 The remarkable advancements in Large Language Models (LLMs) have
 revolutionized the content generation process in social media, offering

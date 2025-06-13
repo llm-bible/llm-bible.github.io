@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10943"}
-  - {name: "Code", url: "https://github.com/PKU-Baichuan-MLSystemLab/SysBench"}
-tags: ['Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10943'}
+  - {name: "Code", url: 'https://github.com/PKU-Baichuan-MLSystemLab/SysBench'}
+tags: ['Has Code', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) have become instrumental across various
 applications, with the customization of these models to specific scenarios

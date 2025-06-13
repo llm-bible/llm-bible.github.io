@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: jiang2018why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.01941"}
-tags: ['Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.01941'}
+tags: ['Applications', 'Survey Paper']
 ---
 Diversity is a long-studied topic in information retrieval that usually
 refers to the requirement that retrieved results should be non-repetitive and

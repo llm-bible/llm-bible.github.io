@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sarfati2024lines
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01545"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01545'}
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models achieve next-token prediction by transporting a
 vectorized piece of text (prompt) across an accompanying embedding space under

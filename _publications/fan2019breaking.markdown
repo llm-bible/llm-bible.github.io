@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: fan2019breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1912.00076"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1912.00076'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 The problem of language grounding has attracted much attention in recent
 years due to its pivotal role in more general image-lingual high level

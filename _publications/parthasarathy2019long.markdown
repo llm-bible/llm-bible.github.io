@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: parthasarathy2019long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.04571"}
-tags: ['Transformer', 'INTERSPEECH', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.04571'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'INTERSPEECH', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 We explore neural language modeling for speech recognition where the context
 spans multiple sentences. Rather than encode history beyond the current

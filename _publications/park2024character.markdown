@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024character
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16667"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16667'}
 tags: ['Tools']
 ---
 Creative story generation has long been a goal of NLP research. While

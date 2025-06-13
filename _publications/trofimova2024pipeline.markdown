@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: trofimova2024pipeline
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13366"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13366'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 This paper presents CodeRefine, a novel framework for automatically
 transforming research paper methodologies into functional code using Large

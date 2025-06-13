@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hazra2024safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11801"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11801'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Responsible AI']
 ---
 Ensuring the safe alignment of large language models (LLMs) with human values
 is critical as they become integral to applications like translation and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10135"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10135'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 As large language models (LLMs) grow in size, traditional full fine-tuning
 becomes increasingly impractical due to its high computational and storage

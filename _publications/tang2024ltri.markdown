@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024ltri
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04757"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04757'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 The quadratic computational complexity of the attention mechanism in current
 Large Language Models (LLMs) renders inference with long contexts prohibitively

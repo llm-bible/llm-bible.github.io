@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahn2025hema
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16754"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16754'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) struggle with maintaining coherence in extended
 conversations spanning hundreds of turns, despite performing well within their

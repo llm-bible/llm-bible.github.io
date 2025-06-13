@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023new
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06498"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06498'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have shown their ability to collaborate
 effectively with humans in real-world scenarios. However, LLMs are apt to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alamin2024history
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05122"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05122'}
+tags: ['Agentic', 'Transformer', 'GPT', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This research provides an in-depth comprehensive review of the progress of
 chatbot technology over time, from the initial basic systems relying on rules

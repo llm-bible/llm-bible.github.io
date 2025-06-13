@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05096"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05096'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 Large Language Model (LLM) services often face challenges in achieving low
 inference latency and meeting Service Level Objectives (SLOs) under dynamic

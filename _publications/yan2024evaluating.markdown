@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13463"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13463'}
 tags: ['Prompting', 'Applications']
 ---
 The application scope of large language models (LLMs) is increasingly

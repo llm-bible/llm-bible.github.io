@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023pmc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14454"}
-  - {name: "Code", url: "https://github.com/chaoyi-wu/PMC-LLaMA"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14454'}
+  - {name: "Code", url: 'https://github.com/chaoyi-wu/PMC-LLaMA'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Recently, Large Language Models (LLMs) have showcased remarkable capabilities
 in natural language understanding. While demonstrating proficiency in everyday

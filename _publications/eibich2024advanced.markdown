@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: eibich2024advanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01037"}
-  - {name: "Code", url: "https://github.com/predlico/ARAGOG)"}
-tags: ['Fine-Tuning', 'RAG', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01037'}
+  - {name: "Code", url: 'https://github.com/predlico/ARAGOG)'}
+tags: ['RAG', 'Fine-Tuning', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) is essential for integrating external
 knowledge into Large Language Model (LLM) outputs. While the literature on RAG

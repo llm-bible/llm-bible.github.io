@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xia2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20213"}
-tags: ['Tools', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20213'}
+tags: ['ACL', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'TACL']
 ---
 This paper investigates the logical reasoning capabilities of large language
 models (LLMs). For a precisely defined yet tractable formulation, we choose the

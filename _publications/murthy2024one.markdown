@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: murthy2024one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04427"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04427'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Researchers in social science and psychology have recently proposed using
 large language models (LLMs) as replacements for humans in behavioral research.

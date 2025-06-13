@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: huang2021audio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.01571"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.01571'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Multimodal Models']
 ---
 While Machine Comprehension (MC) has attracted extensive research interests
 in recent years, existing approaches mainly belong to the category of Machine

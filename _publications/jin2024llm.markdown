@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.01325"}
-  - {name: "Code", url: "https://github.com/datamllab/LongLM"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.01325'}
+  - {name: "Code", url: 'https://github.com/datamllab/LongLM'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 It is well known that LLMs cannot generalize well to long contexts whose
 lengths are larger than the training sequence length. This poses challenges

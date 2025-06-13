@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ding2023wolf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08268"}
-  - {name: "Code", url: "https://github.com/NJUNLP/ReNeLLM"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08268'}
+  - {name: "Code", url: 'https://github.com/NJUNLP/ReNeLLM'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
 ---
 Large Language Models (LLMs), such as ChatGPT and GPT-4, are designed to
 provide useful and safe responses. However, adversarial prompts known as

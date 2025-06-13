@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: duan2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15827"}
-tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15827'}
+tags: ['Interpretability and Explainability', 'Transformer', 'GPT', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 As large language models (LLMs) advance in their linguistic capacity,
 understanding how they capture aspects of language competence remains a

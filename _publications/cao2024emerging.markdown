@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024emerging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08209"}
-  - {name: "Code", url: "https://groundLMM.github.io"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08209'}
+  - {name: "Code", url: 'https://groundLMM.github.io'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Current large multimodal models (LMMs) face challenges in grounding, which
 requires the model to relate language components to visual entities. Contrary

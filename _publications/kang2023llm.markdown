@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kang2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08523"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08523'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Finding preferences expressed in natural language is an important but
 challenging task. State-of-the-art(SotA) methods leverage transformer-based

@@ -6,8 +6,8 @@ conference: "Proceedings of the 2024 Joint International Conference on Computati
 year: 2024
 bibkey: gao2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10091"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10091'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Predicting emotions elicited by news headlines can be challenging as the task
 is largely influenced by the varying nature of people's interpretations and

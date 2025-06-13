@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: munikoti2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04348"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04348'}
 tags: ['RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the dramatic progress in Large Language Model (LLM) development, LLMs

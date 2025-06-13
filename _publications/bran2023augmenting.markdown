@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bran2023augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.05376"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.05376'}
 tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Over the last decades, excellent computational chemistry tools have been

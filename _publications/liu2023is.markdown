@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023is
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.10149v3"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.10149v3'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Interpretability', 'In-Context Learning']
 ---
 Recommendation systems have witnessed significant advancements and have been
 widely used over the past decades. However, most traditional recommendation

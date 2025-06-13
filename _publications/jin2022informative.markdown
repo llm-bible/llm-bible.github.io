@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: jin2022informative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.01530"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.01530'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 In a multilingual neural machine translation model that fully shares

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: schut2025do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15603"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15603'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs) have multilingual capabilities and can solve

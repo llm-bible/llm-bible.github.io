@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rath2025structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01636"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01636'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Tools', 'Applications', 'Fine-Tuning', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding and task generalization. However, their

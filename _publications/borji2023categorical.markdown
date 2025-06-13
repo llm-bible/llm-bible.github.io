@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: borji2023categorical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.03494"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.03494'}
+tags: ['Attention Mechanism', 'Security', 'GPT', 'Model Architecture', 'Ethics and Bias']
 ---
 Large language models have been demonstrated to be valuable in different
 fields. ChatGPT, developed by OpenAI, has been trained using massive amounts of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qun2024xmodel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10083"}
-  - {name: "Code", url: "https://github.com/XiaoduoAILab/XmodelLM-1.5"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10083'}
+  - {name: "Code", url: 'https://github.com/XiaoduoAILab/XmodelLM-1.5'}
+tags: ['Reinforcement Learning', 'Has Code', 'Efficiency and Optimization']
 ---
 We introduce Xmodel-1.5, a 1-billion-parameter multilingual large language
 model pretrained on 2 trillion tokens, designed for balanced performance and

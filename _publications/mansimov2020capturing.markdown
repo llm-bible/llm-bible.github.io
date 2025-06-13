@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: mansimov2020capturing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.05259"}
-tags: ['Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.05259'}
+tags: ['Attention Mechanism', 'WMT', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Neural machine translation (NMT) has arguably achieved human level parity
 when trained and evaluated at the sentence-level. Document-level neural machine

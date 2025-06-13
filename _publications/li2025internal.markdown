@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025internal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16378"}
-tags: ['Responsible AI', 'Tools', 'RAG', 'Security', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16378'}
+tags: ['RAG', 'Security', 'Tools', 'Multimodal Models', 'Responsible AI']
 ---
 Vision-language models (VLMs) demonstrate strong multimodal capabilities but
 have been found to be more susceptible to generating harmful content compared

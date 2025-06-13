@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lin2022simulating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.10817"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.10817'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 User simulators (USs) are commonly used to train task-oriented dialogue
 systems (DSs) via reinforcement learning. The interactions often take place on

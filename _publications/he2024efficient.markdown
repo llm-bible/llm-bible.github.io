@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08584"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08584'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pruning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The efficiency of large vision-language models (LVLMs) is constrained by the
 computational bottleneck of the attention mechanism during the prefill phase

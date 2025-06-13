@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: puccioni2025deriving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05248"}
-tags: ['Applications', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05248'}
+tags: ['Reinforcement Learning', 'Pruning', 'Efficiency and Optimization', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated their exceptional performance
 in various complex code generation tasks. However, their broader adoption is

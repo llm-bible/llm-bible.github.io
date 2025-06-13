@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: elstad2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12116"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12116'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This study examines the integration of generative AI in schools, assessing
 its benefits and risks. As AI use by students grows, it's crucial to understand

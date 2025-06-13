@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lippmann2024positive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02223"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02223'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Intelligent agents designed for interactive environments face significant
 challenges in text-based games, a domain that demands complex reasoning and

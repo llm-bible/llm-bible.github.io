@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sychev2025when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01688"}
-tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01688'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Tools']
 ---
 Uncertainty estimation is crucial for evaluating Large Language Models
 (LLMs), particularly in high-stakes domains where incorrect answers result in

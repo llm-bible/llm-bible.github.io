@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024synthesize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16385"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16385'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning']
 ---
 Understanding data visualizations like charts and plots requires reasoning
 about both visual elements and numerics. Although strong in extractive

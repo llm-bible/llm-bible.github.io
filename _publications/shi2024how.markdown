@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00938"}
-tags: ['Survey Paper', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00938'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications', 'Survey Paper']
 ---
 Socially assistive robots (SARs) have shown great success in providing
 personalized cognitive-affective support for user populations with special

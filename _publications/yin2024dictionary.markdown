@@ -6,9 +6,9 @@ conference: "EMNLP2024 Findings"
 year: 2024
 bibkey: yin2024dictionary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01441"}
-  - {name: "Code", url: "https://github.com/ARIES-LM/Lexmatcher-MT.git"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01441'}
+  - {name: "Code", url: 'https://github.com/ARIES-LM/Lexmatcher-MT.git'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'WMT', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The fine-tuning of open-source large language models (LLMs) for machine
 translation has recently received considerable attention, marking a shift

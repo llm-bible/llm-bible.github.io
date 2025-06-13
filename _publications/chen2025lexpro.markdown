@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025lexpro
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06949"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06949'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 In this report, we introduce our first-generation reasoning model,
 LexPro-1.0, a large language model designed for the highly specialized Chinese

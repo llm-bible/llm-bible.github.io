@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16552"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16552'}
 tags: ['GPT', 'Pretraining Methods']
 ---
 Existing Large Language Models (LLMs) generate text through unidirectional

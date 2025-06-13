@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schmidt2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12739"}
-tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12739'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Merging', 'Applications', 'Reinforcement Learning']
 ---
 LLMs have become a go-to solution not just for text generation, but also for
 natural language understanding (NLU) tasks. Acquiring extensive knowledge

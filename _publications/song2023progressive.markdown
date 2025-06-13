@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08511"}
-  - {name: "Code", url: "https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyBee"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08511'}
+  - {name: "Code", url: 'https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyBee'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We propose an instruction-based process for trustworthy data curation in
 materials science (MatSci-Instruct), which we then apply to finetune a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lei2023reforming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11911"}
-tags: ['Fine-Tuning', 'RAG', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11911'}
+tags: ['RAG', 'Fine-Tuning', 'Tools']
 ---
 The field of emotion recognition of conversation (ERC) has been focusing on
 separating sentence feature encoding and context modeling, lacking exploration

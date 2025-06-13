@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: meng2024traffic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02308"}
-  - {name: "Code", url: "https://github.com/memray/llm_phrase_semantics"}
-tags: ['Few-Shot', 'Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02308'}
+  - {name: "Code", url: 'https://github.com/memray/llm_phrase_semantics'}
+tags: ['Few-Shot', 'Has Code', 'Prompting', 'Tools']
 ---
 Phrases are fundamental linguistic units through which humans convey
 semantics. This study critically examines the capacity of API-based large

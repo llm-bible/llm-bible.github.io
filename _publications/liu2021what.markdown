@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: liu2021what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.06804"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.06804'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Applications', 'Prompting']
 ---
 GPT-\\(3\\) has attracted lots of attention due to its superior performance
 across a wide range of NLP tasks, especially with its powerful and versatile

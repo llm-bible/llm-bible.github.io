@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17455"}
-  - {name: "Code", url: "https://github.com/sdc17/CrossGET"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17455'}
+  - {name: "Code", url: 'https://github.com/sdc17/CrossGET'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Merging', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 Recent vision-language models have achieved tremendous advances. However,
 their computational costs are also escalating dramatically, making model

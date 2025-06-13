@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: shevchenko2021reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.06013"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.06013'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 The limits of applicability of vision-and-language models are defined by the
 coverage of their training data. Tasks like vision question answering (VQA)

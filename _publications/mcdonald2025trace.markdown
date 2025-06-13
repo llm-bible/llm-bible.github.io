@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mcdonald2025trace
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20946"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20946'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Knowledge distillation allows smaller neural networks to emulate the
 performance of larger, teacher models with reduced computational demands.

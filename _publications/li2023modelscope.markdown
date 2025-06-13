@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023modelscope
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00986"}
-  - {name: "Code", url: "https://github.com/modelscope/modelscope-agent"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00986'}
+  - {name: "Code", url: 'https://github.com/modelscope/modelscope-agent'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have recently demonstrated remarkable
 capabilities to comprehend human intentions, engage in reasoning, and design

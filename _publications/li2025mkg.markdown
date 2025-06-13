@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025mkg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16131"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16131'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable progress in medical
 question answering (QA), yet their effectiveness remains predominantly limited

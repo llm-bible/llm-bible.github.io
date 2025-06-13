@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tong2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04086"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04086'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) have demonstrated proficiency in handling
 complex queries, much of the past work has depended on extensively annotated

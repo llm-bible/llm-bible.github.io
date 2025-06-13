@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: parthasarathi2020how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.10427"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.10427'}
+tags: ['Agentic', 'Language Modeling', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Though generative dialogue modeling is widely seen as a language modeling
 task, the task demands an agent to have a complex natural language

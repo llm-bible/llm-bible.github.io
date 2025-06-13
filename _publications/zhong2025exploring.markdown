@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhong2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10132"}
-  - {name: "Code", url: "https://github.com/THUDM/ComplexFuncBench"}
-tags: ['Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10132'}
+  - {name: "Code", url: 'https://github.com/THUDM/ComplexFuncBench'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools']
 ---
 Enhancing large language models (LLMs) with real-time APIs can help generate
 more accurate and up-to-date responses. However, evaluating the function

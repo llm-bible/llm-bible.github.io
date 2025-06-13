@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025generalizable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08672"}
-  - {name: "Code", url: "https://github.com/xufangzhi/Genius"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08672'}
+  - {name: "Code", url: 'https://github.com/xufangzhi/Genius'}
+tags: ['Large-Scale Training', 'Has Code', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Advancing LLM reasoning skills has captivated wide interest. However, current
 post-training techniques rely heavily on supervisory signals, such as outcome

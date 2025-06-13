@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025always
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01595"}
-tags: ['Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01595'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting']
 ---
 We present a state-of-the-art model for fine-grained probability estimation
 of propositions conditioned on context. Recent advances in large language

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025mastering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04306"}
-  - {name: "Code", url: "https://github.com/Gen-Verse/ScoreFlow"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04306'}
+  - {name: "Code", url: 'https://github.com/Gen-Verse/ScoreFlow'}
+tags: ['Agentic', 'Has Code', 'Agent', 'RAG', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Recent research has leveraged large language model multi-agent systems for
 complex problem-solving while trying to reduce the manual effort required to

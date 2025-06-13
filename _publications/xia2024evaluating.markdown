@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05692"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05692'}
 tags: ['Reinforcement Learning']
 ---
 The leaderboard of Large Language Models (LLMs) in mathematical tasks has

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18166"}
-  - {name: "Code", url: "https://github.com/ledllm/ledllm"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18166'}
+  - {name: "Code", url: 'https://github.com/ledllm/ledllm'}
+tags: ['Agentic', 'Has Code', 'Security', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly being adopted in a wide range
 of real-world applications. Despite their impressive performance, recent

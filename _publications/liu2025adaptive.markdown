@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10211"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10211'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models', 'Training Techniques']
 ---
 Recent advancement of large language models (LLMs) has led to significant
 breakthroughs across various tasks, laying the foundation for the development

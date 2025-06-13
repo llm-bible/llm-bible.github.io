@@ -6,8 +6,8 @@ conference: "Transactions of the Association for Computational Linguistics (2024
 year: 2024
 bibkey: kamoi2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01297"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01297'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 Self-correction is an approach to improving responses from large language
 models (LLMs) by refining the responses using LLMs during inference. Prior work

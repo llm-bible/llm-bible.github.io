@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024deepseek
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05525"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05525'}
+tags: ['Efficiency and Optimization', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present DeepSeek-VL, an open-source Vision-Language (VL) Model designed
 for real-world vision and language understanding applications. Our approach is

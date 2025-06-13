@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: roy2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13501"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13501'}
+tags: ['Attention Mechanism', 'Transformer', 'Tools', 'Model Architecture', 'Merging', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based language models have achieved impressive success in various
 natural language processing tasks due to their ability to capture complex

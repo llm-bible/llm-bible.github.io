@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hao2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13360"}
-  - {name: "Code", url: "https://hoar012.github.io/RAP-Project/"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13360'}
+  - {name: "Code", url: 'https://hoar012.github.io/RAP-Project/'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models', 'Pretraining Methods']
 ---
 The development of large language models (LLMs) has significantly enhanced
 the capabilities of multimodal LLMs (MLLMs) as general assistants. However,

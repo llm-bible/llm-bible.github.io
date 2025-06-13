@@ -6,8 +6,8 @@ conference: "Proceedings of the 62nd Annual Meeting of the Association for Compu
 year: 2024
 bibkey: etxaniz2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20266"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20266'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 We introduce Latxa, a family of large language models for Basque ranging from
 7 to 70 billion parameters. Latxa is based on Llama 2, which we continue

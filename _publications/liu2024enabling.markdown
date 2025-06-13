@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12146"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12146'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
 ---
 Despite the strong performance of large language models (LLMs) across a wide
 range of tasks, they still have reliability issues. Previous studies indicate

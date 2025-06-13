@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: xu2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.14740"}
-  - {name: "Code", url: "https://aka.ms/layoutlmv2"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.14740'}
+  - {name: "Code", url: 'https://aka.ms/layoutlmv2'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-training of text and layout has proved effective in a variety of
 visually-rich document understanding tasks due to its effective model

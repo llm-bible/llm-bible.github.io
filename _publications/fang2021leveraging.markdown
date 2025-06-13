@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: fang2021leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.08462"}
-tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.08462'}
+tags: ['Attention Mechanism', 'RAG', 'Reinforcement Learning', 'Model Architecture']
 ---
 Commonsense reasoning (CSR) requires the model to be equipped with general
 world knowledge. While CSR is a language-agnostic process, most comprehensive

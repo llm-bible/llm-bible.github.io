@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhuang2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06589"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06589'}
+tags: ['Large-Scale Training', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Scaling Laws', 'Fine-Tuning', 'Prompting', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Due to the scarcity of agent-oriented pre-training data, LLM-based autonomous
 agents typically rely on complex prompting or extensive fine-tuning, which

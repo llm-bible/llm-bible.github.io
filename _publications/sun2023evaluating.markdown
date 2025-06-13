@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11270"}
-tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11270'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Instruction fine-tuning has recently emerged as a promising approach for
 improving the zero-shot capabilities of Large Language Models (LLMs) on new

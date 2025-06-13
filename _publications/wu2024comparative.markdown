@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13639"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13639'}
+tags: ['Attention Mechanism', 'Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Enabling Large Language Models (LLMs) to handle a wider range of complex
 tasks (e.g., coding, math) has drawn great attention from many researchers. As

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dernbach2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06764"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06764'}
+tags: ['Language Modeling', 'RAG', 'Security', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Integrating large language models (LLMs) with knowledge graphs derived from
 domain-specific data represents an important advancement towards more powerful

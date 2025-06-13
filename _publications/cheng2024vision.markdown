@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00855"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00855'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Chain-of-thought (CoT) has proven to improve the reasoning capability of
 large language models (LLMs). However, due to the complexity of multimodal

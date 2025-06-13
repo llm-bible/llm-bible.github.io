@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022self
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2212.08635v3"}
-  - {name: "Code", url: "https://github.com/lockon-n/self-prompting"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2212.08635v3'}
+  - {name: "Code", url: 'https://github.com/lockon-n/self-prompting'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Applications', 'In-Context Learning']
 ---
 Open-Domain Question Answering (ODQA) aims to answer questions without
 explicitly providing specific background documents. This task becomes notably

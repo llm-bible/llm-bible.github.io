@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20724"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20724'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) demonstrate strong reasoning abilities but face
 limitations such as hallucinations and outdated knowledge. Knowledge Graph

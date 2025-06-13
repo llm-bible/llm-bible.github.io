@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fouesneau2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20252"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20252'}
+tags: ['Language Modeling', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 ChatGPT and other state-of-the-art large language models (LLMs) are rapidly
 transforming multiple fields, offering powerful tools for a wide range of

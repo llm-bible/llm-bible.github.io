@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: petrov2025proof
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21934"}
-tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21934'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Recent math benchmarks for large language models (LLMs) such as MathArena
 indicate that state-of-the-art reasoning models achieve impressive performance

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024simulating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09682"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09682'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 Prevailing large language models (LLMs) are capable of human responses

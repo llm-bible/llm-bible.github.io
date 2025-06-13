@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: naik2025empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17936"}
-tags: ['ACL', 'Agentic', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17936'}
+tags: ['Agentic', 'Tools', 'ACL']
 ---
 Natural language as a medium for human-computer interaction has long been
 anticipated, has been undergoing a sea-change with the advent of Large Language

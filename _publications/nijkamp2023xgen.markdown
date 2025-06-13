@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nijkamp2023xgen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03450"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03450'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) have become ubiquitous across various domains,
 transforming the way we interact with information and conduct research.

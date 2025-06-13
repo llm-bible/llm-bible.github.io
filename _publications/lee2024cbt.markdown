@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024cbt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17546"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17546'}
 tags: ['Agentic', 'GPT', 'Prompting', 'Model Architecture']
 ---
 The demand for conversational agents that provide mental health care is

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024paraphrase
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05916"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05916'}
 tags: ['Applications']
 ---
 Large Language Models (LLMs) have demonstrated significant capabilities in

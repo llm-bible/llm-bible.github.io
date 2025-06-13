@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13771"}
-tags: ['Tools', 'Tokenization', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13771'}
+tags: ['RecSys', 'Tokenization', 'Tools']
 ---
 Large language models (LLMs), endowed with exceptional reasoning
 capabilities, are adept at discerning profound user interests from historical

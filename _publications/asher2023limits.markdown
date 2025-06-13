@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: asher2023limits
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.12213"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.12213'}
 tags: ['Uncategorized']
 ---
 With the advent of large language models (LLMs), the trend in NLP has been to

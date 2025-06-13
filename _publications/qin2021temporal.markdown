@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: qin2021temporal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.04571"}
-  - {name: "Code", url: "https://github.com/google-research-datasets/timedial"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.04571'}
+  - {name: "Code", url: 'https://github.com/google-research-datasets/timedial'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Everyday conversations require understanding everyday events, which in turn,

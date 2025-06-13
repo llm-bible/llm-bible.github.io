@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kuribayashi2023psychometric
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07484"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07484'}
 tags: ['Prompting']
 ---
 Instruction tuning aligns the response of large language models (LLMs) with

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: geminiteam2024gemini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05530"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05530'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In this report, we introduce the Gemini 1.5 family of models, representing
 the next generation of highly compute-efficient multimodal models capable of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhou2019unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.11059"}
-  - {name: "Code", url: "https://github.com/LuoweiZhou/VLP"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.11059'}
+  - {name: "Code", url: 'https://github.com/LuoweiZhou/VLP'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper presents a unified Vision-Language Pre-training (VLP) model. The
 model is unified in that (1) it can be fine-tuned for either vision-language

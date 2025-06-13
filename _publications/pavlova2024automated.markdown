@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pavlova2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01606"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01606'}
+tags: ['Agentic', 'RAG', 'Security', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 Red teaming assesses how large language models (LLMs) can produce content
 that violates norms, policies, and rules set during their safety training.

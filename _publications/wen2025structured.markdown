@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wen2025structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15900"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15900'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent work shows that reinforcement learning(RL) can markedly sharpen the
 reasoning ability of large language models (LLMs) by prompting them to "think

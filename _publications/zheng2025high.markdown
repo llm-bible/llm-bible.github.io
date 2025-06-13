@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03975"}
-  - {name: "Code", url: "https://github.com/psunlpgroup/GreaterPrompt"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03975'}
+  - {name: "Code", url: 'https://github.com/psunlpgroup/GreaterPrompt'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Prompting']
 ---
 LLMs have gained immense popularity among researchers and the general public
 for its impressive capabilities on a variety of tasks. Notably, the efficacy of

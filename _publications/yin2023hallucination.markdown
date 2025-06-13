@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yin2023hallucination
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.16045v1"}
-  - {name: "Code", url: "https://github.com/BradyFU/Woodpecker"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.16045v1'}
+  - {name: "Code", url: 'https://github.com/BradyFU/Woodpecker'}
+tags: ['Has Code', 'Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Multimodal Models']
 ---
 Hallucination is a big shadow hanging over the rapidly evolving Multimodal
 Large Language Models (MLLMs), referring to the phenomenon that the generated

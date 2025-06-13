@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: berger2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02267"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02267'}
 tags: ['Prompting', 'Applications']
 ---
 While large language models (LLMs) pre-trained on massive amounts of unpaired

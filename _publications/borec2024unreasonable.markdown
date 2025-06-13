@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: borec2024unreasonable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16345"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16345'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 This work analyses the text memorization behavior of large language models
 (LLMs) when subjected to nucleus sampling. Stochastic decoding methods like

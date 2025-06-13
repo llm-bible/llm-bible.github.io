@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20834"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20834'}
+tags: ['RAG', 'Multimodal Models', 'Training Techniques', 'Tools']
 ---
 Large language models equipped with retrieval-augmented generation (RAG)
 represent a burgeoning field aimed at enhancing answering capabilities by

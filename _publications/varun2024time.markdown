@@ -6,8 +6,8 @@ conference: "The Thirty-Eighth Annual Conference on Neural Information Processin
 year: 2024
 bibkey: varun2024time
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.02626"}
-tags: ['Responsible AI', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.02626'}
+tags: ['RAG', 'Security', 'Applications', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) are typically trained to predict in the forward
 direction of time. However, recent works have shown that prompting these models

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: pan2025precise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01090"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01090'}
 tags: ['Uncategorized']
 ---
 Knowledge editing aims to update outdated information in Large Language

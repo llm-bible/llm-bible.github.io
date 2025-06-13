@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024facilitating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12871"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12871'}
+tags: ['Agentic', 'Few-Shot', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Utilizing tools with Large Language Models (LLMs) is essential for grounding
 AI agents in real-world applications. The prevailing approach involves few-shot

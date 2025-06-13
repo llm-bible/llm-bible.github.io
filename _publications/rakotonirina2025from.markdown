@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rakotonirina2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13791"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13791'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) are increasingly used in working environments
 for a wide range of tasks, excelling at solving individual problems in

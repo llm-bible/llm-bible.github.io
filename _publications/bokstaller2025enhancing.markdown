@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bokstaller2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02859"}
-tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02859'}
+tags: ['Interpretability and Explainability', 'RAG', 'Applications', 'Model Architecture', 'Interpretability']
 ---
 Across various sectors applications of eXplainableAI (XAI) gained momentum as
 the increasing black-boxedness of prevailing Machine Learning (ML) models

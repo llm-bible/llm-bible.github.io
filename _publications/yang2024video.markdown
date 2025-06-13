@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024video
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17139"}
-tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17139'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning', 'Interpretability', 'In-Context Learning', 'Pretraining Methods']
 ---
 Both text and video data are abundant on the internet and support large-scale
 self-supervised learning through next token or frame prediction. However, they

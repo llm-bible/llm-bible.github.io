@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: su2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11079"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11079'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recently, researchers have made considerable improvements in dialogue systems
 with the progress of large language models (LLMs) such as ChatGPT and GPT-4.

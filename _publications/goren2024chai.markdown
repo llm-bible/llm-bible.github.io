@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goren2024chai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18377"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18377'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 The rise of LLMs has deflected a growing portion of human-computer
 interactions towards LLM-based chatbots. The remarkable abilities of these

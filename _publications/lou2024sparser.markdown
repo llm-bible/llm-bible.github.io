@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lou2024sparser
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16747"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16747'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'ACL', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'TACL', 'Pretraining Methods']
 ---
 Accommodating long sequences efficiently in autoregressive Transformers,
 especially within an extended context window, poses significant challenges due

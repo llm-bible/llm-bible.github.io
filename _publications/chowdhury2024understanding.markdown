@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chowdhury2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18527"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18527'}
+tags: ['Interpretability and Explainability', 'Transformer', 'GPT', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer networks, particularly those achieving performance comparable to
 GPT models, are well known for their robust feature extraction abilities.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: soselia2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14637"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14637'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Automated reverse engineering of HTML/CSS code from UI screenshots is an
 important yet challenging problem with broad applications in website

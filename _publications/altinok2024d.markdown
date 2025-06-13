@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: altinok2024d
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04170"}
-tags: ['Responsible AI', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04170'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have garnered significant attention and
 widespread usage due to their impressive performance in various tasks. However,

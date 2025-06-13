@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024track
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12502"}
-tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12502'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Video text-based visual question answering (Video TextVQA) is a practical
 task that aims to answer questions by jointly reasoning textual and visual

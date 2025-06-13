@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zang2023contextual
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.18279v2"}
-  - {name: "Code", url: "https://github.com/yuhangzang/ContextDET"}
-tags: ['Tools', 'Multimodal Models', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.18279v2'}
+  - {name: "Code", url: 'https://github.com/yuhangzang/ContextDET'}
+tags: ['Has Code', 'Multimodal Models', 'Applications', 'Tools']
 ---
 Recent Multimodal Large Language Models (MLLMs) are remarkable in
 vision-language tasks, such as image captioning and question answering, but

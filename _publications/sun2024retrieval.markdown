@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13691"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13691'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 We designed a Retrieval-Augmented Generation (RAG) system to provide large
 language models with relevant documents for answering domain-specific questions

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: simoulin2025memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18824"}
-  - {name: "Code", url: "https://github.com/facebookresearch/tokentune"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18824'}
+  - {name: "Code", url: 'https://github.com/facebookresearch/tokentune'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning provides an effective means to specialize pre-trained models for
 various downstream tasks. However, fine-tuning often incurs high memory

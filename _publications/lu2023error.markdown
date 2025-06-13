@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023error
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.13809"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.13809'}
+tags: ['WMT', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Generative large language models (LLMs), e.g., ChatGPT, have demonstrated
 remarkable proficiency across several NLP tasks, such as machine translation,

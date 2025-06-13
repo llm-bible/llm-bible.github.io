@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023strategic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16427"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16427'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Highly effective, task-specific prompts are often heavily engineered by
 experts to integrate detailed instructions and domain insights based on a deep

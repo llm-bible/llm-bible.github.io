@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: su2025high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06433"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06433'}
 tags: ['RAG', 'Efficiency and Optimization', 'Large-Scale Training']
 ---
 To improve the efficiency of distributed large language model (LLM)

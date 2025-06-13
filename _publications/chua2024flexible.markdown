@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chua2024flexible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12946"}
-tags: ['Responsible AI', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12946'}
+tags: ['Reinforcement Learning', 'Prompting', 'Responsible AI']
 ---
 Large Language Models (LLMs) are prone to off-topic misuse, where users may
 prompt these models to perform tasks beyond their intended scope. Current

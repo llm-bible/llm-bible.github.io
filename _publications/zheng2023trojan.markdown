@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023trojan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10467"}
-tags: ['Model Architecture', 'Security', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10467'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Security', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Prompt tuning is one of the most effective solutions to adapting a fixed
 pre-trained language model (PLM) for various downstream tasks, especially with

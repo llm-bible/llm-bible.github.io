@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06572"}
-  - {name: "Code", url: "https://github.com/LAMDASZ-ML/Knowledge-Guide-Data-Generation"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06572'}
+  - {name: "Code", url: 'https://github.com/LAMDASZ-ML/Knowledge-Guide-Data-Generation'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture']
 ---
 Large language models (LLMs), both proprietary and open-source, have
 demonstrated remarkable capabilities across various natural language processing

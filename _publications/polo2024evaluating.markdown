@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: polo2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14992"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14992'}
 tags: ['Tools']
 ---
 The versatility of large language models (LLMs) led to the creation of

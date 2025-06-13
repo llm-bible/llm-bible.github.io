@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025control
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10979"}
-  - {name: "Code", url: "https://github.com/linkedin/ControlLLM)"}
-  - {name: "Code", url: "https://huggingface.co/ControlLLM)"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10979'}
+  - {name: "Code", url: 'https://github.com/linkedin/ControlLLM)'}
+  - {name: "Code", url: 'https://huggingface.co/ControlLLM)'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) demand significant computational resources,
 making it essential to enhance their capabilities without retraining from

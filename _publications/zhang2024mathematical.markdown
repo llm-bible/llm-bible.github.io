@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024mathematical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08739"}
-  - {name: "Code", url: "https://github.com/ZrrSkywalker/MAVIS"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08739'}
+  - {name: "Code", url: 'https://github.com/ZrrSkywalker/MAVIS'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The mathematical capabilities of Multi-modal Large Language Models (MLLMs)
 remain under-explored with three areas to be improved: visual encoding of math

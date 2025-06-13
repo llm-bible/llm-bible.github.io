@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liang2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03745"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03745'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have achieved huge success in the
 natural language processing (NLP) field, driving a growing demand to extend

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chan2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07201"}
-  - {name: "Code", url: "https://github.com/chanchimin/ChatEval"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07201'}
+  - {name: "Code", url: 'https://github.com/chanchimin/ChatEval'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Tools', 'Prompting']
 ---
 Text evaluation has historically posed significant challenges, often
 demanding substantial labor and time cost. With the emergence of large language

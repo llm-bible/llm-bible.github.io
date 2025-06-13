@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01777"}
-  - {name: "Code", url: "https://github.com/lizhouf/NPHardEval4V"}
-tags: ['Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01777'}
+  - {name: "Code", url: 'https://github.com/lizhouf/NPHardEval4V'}
+tags: ['Prompting', 'Has Code', 'Multimodal Models']
 ---
 Understanding the reasoning capabilities of Multimodal Large Language Models
 (MLLMs) is an important area of research. In this study, we introduce a dynamic

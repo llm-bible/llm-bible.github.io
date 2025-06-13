@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: he2021nlp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.06168"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.06168'}
+tags: ['Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 This paper studies the use of language models as a source of synthetic
 unlabeled text for NLP. We formulate a general framework called ``generate,

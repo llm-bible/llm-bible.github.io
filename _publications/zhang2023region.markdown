@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023region
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.10428"}
-  - {name: "Code", url: "https://github.com/LUNAProject22/RPA"}
-tags: ['Fine-Tuning', 'Agentic', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.10428'}
+  - {name: "Code", url: 'https://github.com/LUNAProject22/RPA'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Visual abductive reasoning aims to make likely explanations for visual
 observations. We propose a simple yet effective Region Conditioned Adaptation,

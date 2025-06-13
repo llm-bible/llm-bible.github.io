@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mizrahi2025cooking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20643"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20643'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) excel at countless tasks, yet struggle with

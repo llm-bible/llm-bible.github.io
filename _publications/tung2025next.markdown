@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tung2025next
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16832"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16832'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Chain-of-Thought (CoT) is a robust approach for tackling LLM tasks that
 require intermediate reasoning steps prior to generating a final answer. In

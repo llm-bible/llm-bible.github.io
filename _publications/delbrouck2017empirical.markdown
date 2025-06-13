@@ -6,8 +6,8 @@ conference: "Proceedings of the 2017 Conference on Empirical Methods in Natural 
 year: 2017
 bibkey: delbrouck2017empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1707.00995"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1707.00995'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 In state-of-the-art Neural Machine Translation (NMT), an attention mechanism
 is used during decoding to enhance the translation. At every step, the decoder

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rezaeimanesh2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09993"}
-tags: ['BERT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09993'}
+tags: ['Prompting', 'BERT', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) have shown superior capabilities in translating
 figurative language compared to neural machine translation (NMT) systems.

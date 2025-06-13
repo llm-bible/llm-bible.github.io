@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: deng2017systran
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1709.03814"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1709.03814'}
+tags: ['Attention Mechanism', 'WMT', 'Applications', 'Model Architecture']
 ---
 This paper describes SYSTRAN's systems submitted to the WMT 2017 shared news
 translation task for English-German, in both translation directions. Our

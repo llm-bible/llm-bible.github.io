@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alberts2024should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09082"}
-tags: ['Responsible AI', 'Agentic', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09082'}
+tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 With the growing popularity of conversational agents based on large language
 models (LLMs), we need to ensure their behaviour is ethical and appropriate.

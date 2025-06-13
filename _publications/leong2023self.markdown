@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: leong2023self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09573"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09573'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Language model detoxification aims to minimize the risk of generating
 offensive or harmful content in pretrained language models (PLMs) for safer

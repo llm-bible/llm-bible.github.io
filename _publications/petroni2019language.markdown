@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: petroni2019language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.01066"}
-  - {name: "Code", url: "https://github.com/facebookresearch/LAMA"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.01066'}
+  - {name: "Code", url: 'https://github.com/facebookresearch/LAMA'}
+tags: ['Has Code', 'ACL', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Recent progress in pretraining language models on large textual corpora led
 to a surge of improvements for downstream NLP tasks. Whilst learning linguistic

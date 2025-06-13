@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shen2025llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11205"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11205'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Training-free video large language models (LLMs) leverage pretrained Image
 LLMs to process video content without the need for further training. A key

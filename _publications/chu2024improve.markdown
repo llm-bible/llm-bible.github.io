@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chu2024improve
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02778"}
-tags: ['Tools', 'Survey Paper', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02778'}
+tags: ['Prompting', 'Tools', 'Survey Paper']
 ---
 Large language models (LLMs) have demonstrated impressive zero-shot abilities
 in solving a wide range of general-purpose tasks. However, it is empirically

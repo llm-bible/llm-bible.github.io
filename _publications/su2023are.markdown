@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: su2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06736"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06736'}
 tags: ['Interpretability and Explainability']
 ---
 Logical reasoning remains a pivotal component within the realm of artificial

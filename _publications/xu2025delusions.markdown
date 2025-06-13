@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025delusions
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06709"}
-tags: ['Agentic', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06709'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Training Techniques']
 ---
 Large Language Models often generate factually incorrect but plausible
 outputs, known as hallucinations. We identify a more insidious phenomenon, LLM

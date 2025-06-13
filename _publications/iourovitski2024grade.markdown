@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: iourovitski2024grade
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12043"}
-  - {name: "Code", url: "https://github.com/IoDmitri/GradeLab"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Has Code', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12043'}
+  - {name: "Code", url: 'https://github.com/IoDmitri/GradeLab'}
+tags: ['Has Code', 'RAG', 'Fairness', 'Applications', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 This study introduces the "Grade Score", a novel metric designed to evaluate
 the consistency and fairness of Large Language Models (LLMs) when used as

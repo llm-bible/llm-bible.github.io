@@ -6,8 +6,8 @@ conference: "IEEE Access (2024) 96017-96050;"
 year: 2024
 bibkey: rostam2024achieving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04833"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Interpretability and Explainability', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04833'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 In recent years, large language models (LLMs) have achieved remarkable
 success in natural language processing (NLP). LLMs require an extreme amount of

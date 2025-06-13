@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kujanpää2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14964"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14964'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 In many practical applications, large language models (LLMs) need to
 incorporate new knowledge not present in their pre-training data. The primary

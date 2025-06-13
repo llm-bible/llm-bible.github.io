@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: reuter2025generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01955"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01955'}
 tags: ['Reinforcement Learning']
 ---
 The advent of generative artificial intelligence, especially large language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07103"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07103'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Multi-hop reasoning, which requires multi-step reasoning based on the
 supporting documents within a given context, remains challenging for large

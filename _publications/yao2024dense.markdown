@@ -6,9 +6,9 @@ conference: "NeurIPS 2024"
 year: 2024
 bibkey: yao2024dense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13800"}
-  - {name: "Code", url: "https://github.com/HJYao00/DenseConnector"}
-tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13800'}
+  - {name: "Code", url: 'https://github.com/HJYao00/DenseConnector'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Do we fully leverage the potential of visual encoder in Multimodal Large
 Language Models (MLLMs)? The recent outstanding performance of MLLMs in

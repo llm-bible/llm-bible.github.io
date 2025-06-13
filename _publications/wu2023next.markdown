@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023next
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05519"}
-  - {name: "Code", url: "https://next-gpt.github.io/"}
-tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05519'}
+  - {name: "Code", url: 'https://next-gpt.github.io/'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 While recently Multimodal Large Language Models (MM-LLMs) have made exciting
 strides, they mostly fall prey to the limitation of only input-side multimodal

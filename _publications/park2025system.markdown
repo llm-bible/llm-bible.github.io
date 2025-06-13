@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: park2025system
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01812"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01812'}
+tags: ['Merging', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Humans and intelligent animals can effortlessly internalize new information
 ("news") and accurately extract the implications for performing downstream

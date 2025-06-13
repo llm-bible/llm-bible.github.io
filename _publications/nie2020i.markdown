@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: nie2020i
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.13391"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.13391'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 To quantify how well natural language understanding models can capture
 consistency in a general conversation, we introduce the DialoguE COntradiction

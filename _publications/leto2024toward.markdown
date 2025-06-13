@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: leto2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07396"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07396'}
 tags: ['RAG', 'Efficiency and Optimization', 'Applications']
 ---
 Retrieval-augmented generation (RAG) is a promising method for addressing

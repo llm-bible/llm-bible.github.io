@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01920"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01920'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques']
 ---
 Augmenting the multi-step reasoning abilities of Large Language Models (LLMs)
 has been a persistent challenge. Recently, verification has shown promise in

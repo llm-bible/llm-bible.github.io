@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nie2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05740"}
-tags: ['Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Dataset']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05740'}
+tags: ['Dataset', 'Training Techniques', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias']
 ---
 While preliminary findings indicate that multilingual LLMs exhibit reduced
 bias compared to monolingual ones, a comprehensive understanding of the effect

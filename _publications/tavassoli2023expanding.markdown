@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tavassoli2023expanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16493"}
-tags: ['Applications', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16493'}
+tags: ['Applications', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) have shown powerful capabilities in visual
 question answering and reasoning tasks by combining visual representations with

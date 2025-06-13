@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: timoneda2025memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04874"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04874'}
+tags: ['Agentic', 'Few-Shot', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Generative Large Language Models (LLMs) have shown promising results in text
 annotation using zero-shot and few-shot learning. Yet these approaches do not

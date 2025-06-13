@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024defense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09093"}
-tags: ['Security', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09093'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have showcased impressive
 performance in a variety of multimodal tasks. On the other hand, the

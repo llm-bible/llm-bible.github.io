@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08922"}
-  - {name: "Code", url: "https://github.com/zhouying20/ai-text-detector-evaluation"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08922'}
+  - {name: "Code", url: 'https://github.com/zhouying20/ai-text-detector-evaluation'}
+tags: ['Attention Mechanism', 'Has Code', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the launch of ChatGPT, large language models (LLMs) have attracted
 global attention. In the realm of article writing, LLMs have witnessed

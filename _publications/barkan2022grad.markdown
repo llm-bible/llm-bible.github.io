@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: barkan2022grad
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.11073"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.11073'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based language models significantly advanced the state-of-the-art
 in many linguistic tasks. As this revolution continues, the ability to explain

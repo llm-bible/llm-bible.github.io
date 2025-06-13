@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18243"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18243'}
 tags: ['RAG', 'Applications']
 ---
 Retrieval-Augmented Generation (RAG) aims to generate more reliable and

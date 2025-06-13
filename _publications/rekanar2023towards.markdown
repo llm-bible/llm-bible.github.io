@@ -6,9 +6,9 @@ conference: "Proceedings of the Irish Machine Vision and Image Processing Confer
 year: 2023
 bibkey: rekanar2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.09329"}
-  - {name: "Code", url: "https://github.com/KaavyaRekanar/Towards-a-performance-analysis-on-pre-trained-VQA-models-for-autonomous-driving"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.09329'}
+  - {name: "Code", url: 'https://github.com/KaavyaRekanar/Towards-a-performance-analysis-on-pre-trained-VQA-models-for-autonomous-driving'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'BERT', 'Model Architecture', 'Merging', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 This short paper presents a preliminary analysis of three popular Visual
 Question Answering (VQA) models, namely ViLBERT, ViLT, and LXMERT, in the

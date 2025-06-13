@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kiyohara2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02646"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02646'}
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We study how to use naturally available user feedback, such as clicks, to
 optimize large language model (LLM) pipelines for generating personalized

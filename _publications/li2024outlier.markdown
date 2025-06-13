@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024outlier
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18380"}
-  - {name: "Code", url: "https://github.com/pixeli99/OwLore"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18380'}
+  - {name: "Code", url: 'https://github.com/pixeli99/OwLore'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The rapid advancements in Large Language Models (LLMs) have revolutionized
 various natural language processing tasks. However, the substantial size of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bi2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12468"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12468'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 The parametric knowledge memorized by large language models (LLMs) becomes
 outdated quickly. In-context editing (ICE) is currently the most effective

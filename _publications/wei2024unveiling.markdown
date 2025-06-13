@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03009"}
-tags: ['Security', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03009'}
+tags: ['Ethics and Bias', 'Security', 'Applications']
 ---
 In this paper, we investigate the phenomena of "selection biases" in Large
 Language Models (LLMs), focusing on problems where models are tasked with

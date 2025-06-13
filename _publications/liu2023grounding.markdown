@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.11649"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.11649'}
 tags: ['RAG', 'Training Techniques']
 ---
 Grounding navigational commands to linear temporal logic (LTL) leverages its

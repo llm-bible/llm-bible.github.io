@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024enhance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18825"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/CIKM_Code_Repo-E6F5/README.md"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Has Code', 'CIKM', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18825'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/CIKM_Code_Repo-E6F5/README.md'}
+tags: ['Attention Mechanism', 'Has Code', 'CIKM', 'Model Architecture', 'Prompting']
 ---
 Large language models have been flourishing in the natural language
 processing (NLP) domain, and their potential for recommendation has been paid

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12022"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12022'}
+tags: ['Training Techniques', 'Few-Shot', 'Applications', 'Tools']
 ---
 Text-Attributed Graphs (TAGs) are graphs of connected textual documents.
 Graph models can efficiently learn TAGs, but their training heavily relies on

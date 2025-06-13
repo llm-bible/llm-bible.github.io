@@ -6,8 +6,8 @@ conference: "ITiCSE 2023 Proceedings of the 2023 Conference on Innovation and Te
 year: 2023
 bibkey: savelka2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13906"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13906'}
+tags: ['Transformer', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We evaluated the capability of generative pre-trained transformers~(GPT-4) in
 analysis of textual data in tasks that require highly specialized domain

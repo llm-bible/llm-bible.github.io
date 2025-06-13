@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024searching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17427"}
-tags: ['Multimodal Models', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17427'}
+tags: ['Reinforcement Learning', 'Prompting', 'Multimodal Models', 'Applications']
 ---
 Recent advancements in multimodal large language models (LLMs) have
 demonstrated significant potential across various domains, particularly in

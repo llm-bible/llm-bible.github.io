@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ji2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14580"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14580'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 With the advancements in Large Language Models (LLMs), Vision-Language Models
 (VLMs) have reached a new level of sophistication, showing notable competence

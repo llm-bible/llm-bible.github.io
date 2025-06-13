@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: borisov2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14371"}
-tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14371'}
+tags: ['Training Techniques', 'RAG', 'Model Architecture', 'GPT']
 ---
 The tremendous success of chat-based AI systems like ChatGPT, Claude, and
 Gemini stems from Large Language Models (LLMs) trained on vast amount of

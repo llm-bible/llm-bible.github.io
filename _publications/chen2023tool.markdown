@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023tool
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14323"}
-  - {name: "Code", url: "https://github.com/RUCAIBOX/ChatCoT"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14323'}
+  - {name: "Code", url: 'https://github.com/RUCAIBOX/ChatCoT'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Although large language models (LLMs) have achieved excellent performance in
 a variety of evaluation benchmarks, they still struggle in complex reasoning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025consistency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08102"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08102'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) demonstrate remarkable capabilities in text
 generation, yet their emotional consistency and semantic coherence in social

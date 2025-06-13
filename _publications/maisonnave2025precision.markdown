@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: maisonnave2025precision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21553"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21553'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 various natural language processing tasks. However, their size presents

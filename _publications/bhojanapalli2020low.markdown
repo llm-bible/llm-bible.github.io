@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: bhojanapalli2020low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.07028"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.07028'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Attention based Transformer architecture has enabled significant advances in
 the field of natural language processing. In addition to new pre-training

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: weng2025adversary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11455"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11455'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 Safety alignment is critical in pre-training large language models (LLMs) to
 generate responses aligned with human values and refuse harmful queries. Unlike

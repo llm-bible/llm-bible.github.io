@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rahimi2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11827"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11827'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Pretraining Methods']
 ---
 Large language models such as Open AI's Generative Pre-trained Transformer
 (GPT) models are proficient at answering questions, but their knowledge is

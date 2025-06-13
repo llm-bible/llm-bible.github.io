@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ding2021mastering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.13290"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.13290'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Text-to-Image generation in the general domain has long been an open problem,
 which requires both a powerful generative model and cross-modal understanding.

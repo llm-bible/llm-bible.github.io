@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yoshimaru2023asynchronous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13925"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13925'}
 tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 We have reached a practical and realistic phase in human-support dialogue

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024disclosure
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11190"}
-tags: ['Tools', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11190'}
+tags: ['Ethics and Bias', 'Tools']
 ---
 Large Language Models (LLMs) can generate biased responses. Yet previous
 direct probing techniques contain either gender mentions or predefined gender

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dagan2024getting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01035"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01035'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 Tokenization is an understudied and often neglected component of modern LLMs.
 Most published works use a single tokenizer for all experiments, often borrowed

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022pan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.11367"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.11367'}
+tags: ['GPT', 'Model Architecture', 'BERT', 'Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Real human conversation data are complicated, heterogeneous, and noisy, from
 which building open-domain dialogue systems remains a challenging task. In

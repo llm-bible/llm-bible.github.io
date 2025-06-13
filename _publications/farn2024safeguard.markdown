@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: farn2024safeguard
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19512"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19512'}
+tags: ['Training Techniques', 'Merging', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) for downstream tasks is a widely
 adopted approach, but it often leads to safety degradation in safety-aligned

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ghanizadeh2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04611"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04611'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 In this work, we explain our approach employed in the BabyLM Challenge, which
 uses various methods of training language models (LMs) with significantly less

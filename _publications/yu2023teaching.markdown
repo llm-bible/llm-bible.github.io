@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13522"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13522'}
+tags: ['Prompting', 'Training Techniques']
 ---
 The self-improving ability of large language models (LLMs), enabled by
 prompting them to analyze and revise their own outputs, has garnered

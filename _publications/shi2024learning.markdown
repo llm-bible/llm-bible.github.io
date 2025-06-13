@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03031"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03031'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Distillation', 'Tools']
 ---
 Tool learning empowers large language models (LLMs) as agents to use external

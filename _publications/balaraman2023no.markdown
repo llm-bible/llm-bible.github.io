@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: balaraman2023no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16689"}
-tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16689'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 The ability to handle miscommunication is crucial to robust and faithful
 conversational AI. People usually deal with miscommunication immediately as

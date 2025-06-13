@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03799"}
-  - {name: "Code", url: "https://github.com/YouBLEI/Prompt-Space"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03799'}
+  - {name: "Code", url: 'https://github.com/YouBLEI/Prompt-Space'}
+tags: ['Has Code', 'Few-Shot', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Prompt engineering is an essential technique for enhancing the abilities of
 large language models (LLMs) by providing explicit and specific instructions.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cho2023davidsonian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18235"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18235'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Evaluating text-to-image models is notoriously difficult. A strong recent
 approach for assessing text-image faithfulness is based on QG/A (question

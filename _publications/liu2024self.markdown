@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20513"}
-tags: ['RAG', 'Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20513'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Tools']
 ---
 Though there has been intensive attention to the self-correction capability
 of Large Language Models (LLMs), conclusions regarding its effectiveness remain

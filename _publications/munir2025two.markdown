@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: munir2025two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12206"}
-  - {name: "Code", url: "https://github.com/ans92/TLAC"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12206'}
+  - {name: "Code", url: 'https://github.com/ans92/TLAC'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Contrastive Language-Image Pretraining (CLIP) has shown impressive zero-shot
 performance on image classification. However, state-of-the-art methods often

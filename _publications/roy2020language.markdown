@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: roy2020language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.05484"}
-tags: ['BERT', 'Training Techniques', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.05484'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture']
 ---
 We present LAReQA, a challenging new benchmark for language-agnostic answer
 retrieval from a multilingual candidate pool. Unlike previous cross-lingual

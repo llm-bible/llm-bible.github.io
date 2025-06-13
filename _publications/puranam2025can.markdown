@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: puranam2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00603"}
-tags: ['Interpretability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00603'}
+tags: ['GPT', 'Interpretability', 'Model Architecture']
 ---
 This study investigates whether large language models, specifically GPT4, can
 match human capabilities in analogical reasoning within strategic decision

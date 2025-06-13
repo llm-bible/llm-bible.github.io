@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wicke2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17858"}
-tags: ['Applications', 'Prompting', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17858'}
+tags: ['Prompting', 'Language Modeling', 'Applications']
 ---
 The rise of Large Language Models (LLMs) has affected various disciplines
 that got beyond mere text generation. Going beyond their textual nature, this

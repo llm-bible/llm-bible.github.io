@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: hashemi2020guided
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2006.07548"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2006.07548'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Asking clarifying questions in response to ambiguous or faceted queries has
 been recognized as a useful technique for various information retrieval

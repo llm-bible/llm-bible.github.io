@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023unlearn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20150"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20150'}
+tags: ['Transformer', 'Training Techniques', 'Tools', 'Model Architecture', 'Merging', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved significant progress from
 pre-training on and memorizing a wide range of textual data, however, this

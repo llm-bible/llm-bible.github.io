@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20680"}
-  - {name: "Code", url: "https://github.com/Hon-Wong/VoRA"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20680'}
+  - {name: "Code", url: 'https://github.com/Hon-Wong/VoRA'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training']
 ---
 We introduce Vision as LoRA (VoRA), a novel paradigm for transforming an LLM
 into an MLLM. Unlike prevalent MLLM architectures that rely on external vision

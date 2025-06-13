@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: brumley2024comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07213"}
-tags: ['Interpretability and Explainability', 'Prompting', 'In-Context Learning', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07213'}
+tags: ['Prompting', 'Interpretability and Explainability', 'In-Context Learning', 'Arxiv']
 ---
 A key objective of interpretability research on large language models (LLMs)
 is to develop methods for robustly steering models toward desired behaviors. To

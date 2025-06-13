@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13236"}
-  - {name: "Code", url: "https://github.com/ShangDataLab/Deep-Contam"}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13236'}
+  - {name: "Code", url: 'https://github.com/ShangDataLab/Deep-Contam'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Has Code', 'Training Techniques']
 ---
 The opacity in developing large language models (LLMs) is raising growing
 concerns about the potential contamination of public benchmarks in the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saha2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14938"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14938'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 With the emergence of numerous Large Language Models (LLM), the usage of such
 models in various Natural Language Processing (NLP) applications is increasing

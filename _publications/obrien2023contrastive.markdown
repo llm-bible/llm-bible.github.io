@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: obrien2023contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09117"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09117'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 We demonstrate that Contrastive Decoding -- a simple, computationally light,
 and training-free text generation method proposed by Li et al 2022 -- achieves

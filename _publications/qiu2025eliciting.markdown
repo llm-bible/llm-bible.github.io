@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiu2025eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.08248"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.08248'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in long-context language models (LCLMs) promise to
 transform Retrieval-Augmented Generation (RAG) by simplifying pipelines. With

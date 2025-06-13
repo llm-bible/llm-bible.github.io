@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: park2025visualizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17187"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'WMT', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17187'}
+tags: ['Interpretability and Explainability', 'WMT', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly utilized for machine
 translation, yet their predictions often exhibit uncertainties that hinder

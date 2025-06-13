@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: asai2022parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11961"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11961'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 This work introduces a new multi-task, parameter-efficient language model
 (LM) tuning method that learns to transfer knowledge across different tasks via

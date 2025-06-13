@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15479"}
-tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15479'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications', 'Tools']
 ---
 We introduce CLOB, a novel continual learning (CL) paradigm wherein a large
 language model (LLM) is regarded as a black box. Learning is done incrementally

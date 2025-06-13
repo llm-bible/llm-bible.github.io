@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: madhusudhan2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16221"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16221'}
 tags: ['GPT', 'Prompting', 'Model Architecture', 'Merging']
 ---
 Abstention Ability (AA) is a critical aspect of Large Language Model (LLM)

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024teach
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19008"}
-tags: ['RAG', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19008'}
+tags: ['Reinforcement Learning', 'RAG', 'Multimodal Models']
 ---
 The electrocardiogram (ECG) is an essential non-invasive diagnostic tool for
 assessing cardiac conditions. Existing automatic interpretation methods suffer

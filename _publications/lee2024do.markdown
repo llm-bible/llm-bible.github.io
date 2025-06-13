@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14703"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14703'}
+tags: ['Agentic', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have led to their
 adaptation in various domains as conversational agents. We wonder: can

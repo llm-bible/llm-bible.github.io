@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cui2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02481"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02481'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown continuously improving multilingual
 capabilities, and even small-scale open-source models have demonstrated rapid

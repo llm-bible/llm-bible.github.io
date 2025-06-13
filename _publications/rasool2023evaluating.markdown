@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rasool2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07878"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07878'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 Document-based Question-Answering (QA) tasks are crucial for precise
 information retrieval. While some existing work focus on evaluating large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12391"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12391'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 We empirically study the scaling properties of various Diffusion Transformers
 (DiTs) for text-to-image generation by performing extensive and rigorous

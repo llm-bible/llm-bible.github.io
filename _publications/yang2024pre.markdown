@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01402"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01402'}
+tags: ['Agentic', 'Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Decision Transformer (DT) has emerged as a promising class of algorithms in
 offline reinforcement learning (RL) tasks, leveraging pre-collected datasets

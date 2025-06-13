@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11507"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11507'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) such as ChatGPT, have gained significant
 attention due to their impressive natural language processing capabilities. It

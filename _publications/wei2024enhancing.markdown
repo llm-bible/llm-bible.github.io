@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18301"}
-  - {name: "Code", url: "https://github.com/wtybest/EnMMDiT"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18301'}
+  - {name: "Code", url: 'https://github.com/wtybest/EnMMDiT'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Representing the cutting-edge technique of text-to-image models, the latest
 Multimodal Diffusion Transformer (MMDiT) largely mitigates many generation

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: deuser2022less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.05281"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.05281'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Current architectures for multi-modality tasks such as visual question
 answering suffer from their high complexity. As a result, these architectures

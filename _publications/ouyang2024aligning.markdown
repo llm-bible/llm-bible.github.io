@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ouyang2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20053"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20053'}
 tags: ['RAG', 'Applications']
 ---
 Large Language Models (LLMs) have achieved impressive results in processing

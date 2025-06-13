@@ -6,8 +6,8 @@ conference: "1st Workshop on Biased Data in Conversational Agents (Hosted at ECM
 year: 2024
 bibkey: torrielli2024unravelling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13868"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13868'}
+tags: ['Security', 'Model Architecture', 'Applications', 'GPT', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 This paper investigates the challenges associated with bias, toxicity,
 unreliability, and lack of robustness in large language models (LLMs) such as

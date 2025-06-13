@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024suite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15523"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15523'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have limitations in handling tasks that require
 real-time access to external APIs. While several benchmarks like ToolBench and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15262"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15262'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 We identify two crucial limitations in the evaluation of recent
 parallel-integrated method Parallel Context Windows (PCW), which extends the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02465"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02465'}
+tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
 ---
 Recently, significant efforts have been devoted to enhancing the long-context
 capabilities of Large Language Models (LLMs), particularly in long-context

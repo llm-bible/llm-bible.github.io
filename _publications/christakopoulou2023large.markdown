@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: christakopoulou2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15498"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15498'}
+tags: ['Few-Shot', 'Training Techniques', 'Tools', 'Fine-Tuning', 'RecSys', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive capabilities in natural
 language understanding and generation. Their potential for deeper user

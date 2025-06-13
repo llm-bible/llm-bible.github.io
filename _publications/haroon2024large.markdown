@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: haroon2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17760"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17760'}
 tags: ['RAG']
 ---
 Autistic individuals often experience difficulties in conveying and

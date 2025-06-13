@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vaugrante2025compromising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08301"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08301'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent research on large language models (LLMs) has demonstrated their
 ability to understand and employ deceptive behavior, even without explicit

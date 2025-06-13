@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: niu2025robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07863"}
-tags: ['Responsible AI', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07863'}
+tags: ['Security', 'Responsible AI', 'Training Techniques']
 ---
 Hallucinations in large language models (LLMs) pose significant safety
 concerns that impede their broader deployment. Recent research in hallucination

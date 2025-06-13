@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024retrieving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19128"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19128'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Large language models (LLMs) have garnered significant attention in recent

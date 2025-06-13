@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zubiaga2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15227"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15227'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper proposes a novel approach to evaluate Counter Narrative (CN)
 generation using a Large Language Model (LLM) as an evaluator. We show that

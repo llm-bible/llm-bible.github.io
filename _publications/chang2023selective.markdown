@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06302"}
-tags: ['RAG', 'Tools', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06302'}
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Tools']
 ---
 Large language models (LLMs) with in-context learning have demonstrated
 impressive generalization capabilities in the cross-domain text-to-SQL task,

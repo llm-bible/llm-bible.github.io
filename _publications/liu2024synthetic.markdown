@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13188"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13188'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Pretraining Methods']
 ---
 Despite rapid advancements in large language models (LLMs), QG remains a
 challenging problem due to its complicated process, open-ended nature, and the

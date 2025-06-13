@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11520"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11520'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The reasoning capabilities of advanced large language models (LLMs) like o1
 have revolutionized artificial intelligence applications. Nevertheless,

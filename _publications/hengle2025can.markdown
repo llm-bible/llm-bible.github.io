@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hengle2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12845"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12845'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Existing multilingual long-context benchmarks, often based on the popular
 needle-in-a-haystack test, primarily evaluate a model's ability to locate

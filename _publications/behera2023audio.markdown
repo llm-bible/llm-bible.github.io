@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: behera2023audio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17343"}
-  - {name: "Code", url: "https://github.com/swarupbehera/AQUALLM"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17343'}
+  - {name: "Code", url: 'https://github.com/swarupbehera/AQUALLM'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Audio Question Answering (AQA) constitutes a pivotal task in which machines
 analyze both audio signals and natural language questions to produce precise

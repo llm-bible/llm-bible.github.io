@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: chen2019reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.04942"}
-tags: ['Agentic', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.04942'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Agentic']
 ---
 Natural question generation (QG) aims to generate questions from a passage
 and an answer. Previous works on QG either (i) ignore the rich structure

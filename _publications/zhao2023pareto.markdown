@@ -6,8 +6,8 @@ conference: "Proceedings of the 62nd Annual Meeting of the Association for Compu
 year: 2023
 bibkey: zhao2023pareto
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16564"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16564'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown impressive abilities in many
 applications. When a concrete and precise answer is desired, it is important to

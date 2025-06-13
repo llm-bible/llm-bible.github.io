@@ -6,7 +6,7 @@ conference: "NAACL 2025 Main"
 year: 2025
 bibkey: ki2025automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16682"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16682'}
 tags: ['Applications']
 ---
 Can we improve machine translation (MT) with LLMs by rewriting their inputs

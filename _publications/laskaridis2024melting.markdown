@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: laskaridis2024melting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12844"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12844'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Quantization', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have revolutionized the machine learning landscape, gradually
 making their way into everyday tasks and equipping our computers with "sparks

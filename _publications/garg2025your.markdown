@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: garg2025your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16182"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16182'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Reinforcement learning from human feedback (RLHF) has emerged as the primary
 method for aligning large language models (LLMs) with human preferences. While

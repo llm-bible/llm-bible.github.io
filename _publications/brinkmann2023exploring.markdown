@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: brinkmann2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12537"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12537'}
+tags: ['Few-Shot', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'BERT', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 E-commerce platforms require structured product data in the form of
 attribute-value pairs to offer features such as faceted product search or

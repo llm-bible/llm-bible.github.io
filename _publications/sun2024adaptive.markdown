@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13181"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13181'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Recent advancements in large language models (LLMs) have been remarkable.

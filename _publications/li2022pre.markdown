@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.01771"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Tools', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.01771'}
+tags: ['Agentic', 'Language Modeling', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Language model (LM) pre-training is useful in many language processing tasks.
 But can pre-trained LMs be further leveraged for more general machine learning

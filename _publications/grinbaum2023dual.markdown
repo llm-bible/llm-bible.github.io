@@ -6,7 +6,7 @@ conference: "Journal of Responsible Innovation 11(1) 2304381 2024"
 year: 2023
 bibkey: grinbaum2023dual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07882"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07882'}
 tags: ['Responsible AI', 'Tools']
 ---
 We suggest the implementation of the Dual Use Research of Concern (DURC)

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: samarinas2025distillation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03947"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03947'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Reinforcement Learning']
 ---
 We present a novel approach for training small language models for
 reasoning-intensive document ranking that combines knowledge distillation with

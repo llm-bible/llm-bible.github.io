@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15044"}
-  - {name: "Code", url: "https://github.com/AngieYYF/SPADE-customer-service-dialogue"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15044'}
+  - {name: "Code", url: 'https://github.com/AngieYYF/SPADE-customer-service-dialogue'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The increasing capability of large language models (LLMs) to generate
 synthetic content has heightened concerns about their misuse, driving the

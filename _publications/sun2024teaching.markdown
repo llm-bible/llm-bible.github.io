@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14083"}
-  - {name: "Code", url: "https://github.com/GasolSun36/SURf"}
-tags: ['Tools', 'RAG', 'Security', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14083'}
+  - {name: "Code", url: 'https://github.com/GasolSun36/SURf'}
+tags: ['Has Code', 'RAG', 'Security', 'Tools', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have become pivotal at the intersection
 of computer vision and natural language processing. However, the full potential

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18871"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18871'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Recent speech language models (SLMs) typically incorporate pre-trained speech
 models to extend the capabilities from large language models (LLMs). In this

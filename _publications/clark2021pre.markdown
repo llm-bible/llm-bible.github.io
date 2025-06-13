@@ -6,8 +6,8 @@ conference: "Transactions of the Association for Computational Linguistics (2022
 year: 2021
 bibkey: clark2021pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.06874"}
-tags: ['Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.06874'}
+tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'BERT', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 Pipelined NLP systems have largely been superseded by end-to-end neural
 modeling, yet nearly all commonly-used models still require an explicit

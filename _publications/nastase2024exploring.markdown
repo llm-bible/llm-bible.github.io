@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: nastase2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06622"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06622'}
 tags: ['Model Architecture']
 ---
 We investigate to what degree existing LLMs encode abstract linguistic

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: peysakhovich2023attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01427"}
-tags: ['Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01427'}
+tags: ['Attention Mechanism', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 Current language models often fail to incorporate long contexts efficiently
 during generation. We show that a major contributor to this issue are attention

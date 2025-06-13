@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yuan2023distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.05252"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.05252'}
 tags: ['Uncategorized']
 ---
 In everyday life, humans often plan their actions by following step-by-step

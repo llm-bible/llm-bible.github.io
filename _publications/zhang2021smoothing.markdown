@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021smoothing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.12599"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.12599'}
 tags: ['Interpretability']
 ---
 Conversational machine reading (CMR) requires machines to communicate with

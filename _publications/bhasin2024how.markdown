@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhasin2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03558"}
-  - {name: "Code", url: "https://github.com/harmonbhasin/curriculum_learning_icl"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03558'}
+  - {name: "Code", url: 'https://github.com/harmonbhasin/curriculum_learning_icl'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLM) have recently shown the extraordinary ability to
 perform unseen tasks based on few-shot examples provided as text, also known as

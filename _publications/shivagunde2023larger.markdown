@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shivagunde2023larger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.16445"}
-  - {name: "Code", url: "https://github.com/text-machine-lab/extending_psycholinguistic_dataset}{Github"}
-tags: ['GPT', 'Model Architecture', 'Has Code', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.16445'}
+  - {name: "Code", url: 'https://github.com/text-machine-lab/extending_psycholinguistic_dataset}{Github'}
+tags: ['Has Code', 'GPT', 'BERT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Language model probing is often used to test specific capabilities of models.
 However, conclusions from such studies may be limited when the probing

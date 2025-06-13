@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cao2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16207"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16207'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The research in AI-based formal mathematical reasoning has shown an
 unstoppable growth trend. These studies have excelled in mathematical

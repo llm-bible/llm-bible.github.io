@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xhonneux2025generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16366"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16366'}
+tags: ['Security', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Most safety training methods for large language models (LLMs) based on
 fine-tuning rely on dramatically changing the output distribution of the model

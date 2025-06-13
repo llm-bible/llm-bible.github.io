@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024confidential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.03992"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.03992'}
 tags: ['Reinforcement Learning']
 ---
 This report evaluates the performance impact of enabling Trusted Execution

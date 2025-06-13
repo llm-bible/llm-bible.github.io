@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: whitehouse2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15364"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15364'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 This thesis investigates how natural language understanding and generation
 with transformer models can benefit from grounding the models with knowledge

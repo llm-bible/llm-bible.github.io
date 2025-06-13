@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.01813"}
-  - {name: "Code", url: "https://github.com/HenryJunW/TAG"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.01813'}
+  - {name: "Code", url: 'https://github.com/HenryJunW/TAG'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 Text-VQA aims at answering questions that require understanding the textual
 cues in an image. Despite the great progress of existing Text-VQA methods,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024qda
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10593"}
-  - {name: "Code", url: "https://github.com/mcxiaoxiao/QDA-SQL"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10593'}
+  - {name: "Code", url: 'https://github.com/mcxiaoxiao/QDA-SQL'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) for specific domain tasks has
 achieved great success in Text-to-SQL tasks. However, these fine-tuned models

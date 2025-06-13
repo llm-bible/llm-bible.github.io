@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zan2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02605"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02605'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 The task of issue resolving is to modify a codebase to generate a patch that
 addresses a given issue. However, existing benchmarks, such as SWE-bench, focus

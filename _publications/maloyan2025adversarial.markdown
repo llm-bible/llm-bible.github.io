@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: maloyan2025adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18333"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18333'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 LLM as judge systems used to assess text quality code correctness and
 argument strength are vulnerable to prompt injection attacks. We introduce a

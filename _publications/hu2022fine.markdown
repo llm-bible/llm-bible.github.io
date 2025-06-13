@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: hu2022fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.15360"}
-  - {name: "Code", url: "https://github.com/walker-hyf/FCTalker"}
-tags: ['BERT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.15360'}
+  - {name: "Code", url: 'https://github.com/walker-hyf/FCTalker'}
+tags: ['Has Code', 'BERT', 'Model Architecture']
 ---
 Conversational Text-to-Speech (TTS) aims to synthesis an utterance with the
 right linguistic and affective prosody in a conversational context. The

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zong2024omni
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09618"}
-tags: ['Fine-Tuning', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09618'}
+tags: ['RAG', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Multimodal Models']
 ---
 Significant achievements in personalization of diffusion models have been
 witnessed. Conventional tuning-free methods mostly encode multiple reference

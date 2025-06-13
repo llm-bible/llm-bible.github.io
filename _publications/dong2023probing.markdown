@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dong2023probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00306"}
-tags: ['Applications', 'Ethics and Bias', 'Bias Mitigation', 'Language Modeling', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00306'}
+tags: ['Language Modeling', 'Fairness', 'Applications', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) can generate biased and toxic responses. Yet
 most prior work on LLM gender bias evaluation requires predefined

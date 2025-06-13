@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hao2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05221"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05221'}
+tags: ['Interpretability and Explainability', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Generating accurate step-by-step reasoning is essential for Large Language
 Models (LLMs) to address complex problems and enhance robustness and

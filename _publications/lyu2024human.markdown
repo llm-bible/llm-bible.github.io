@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15524"}
-tags: ['RAG', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15524'}
+tags: ['Ethics and Bias', 'RAG', 'Prompting']
 ---
 Evaluating the capability of Large Language Models (LLMs) in following
 instructions has heavily relied on a powerful LLM as the judge, introducing

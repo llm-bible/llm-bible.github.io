@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: niss2024quantified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09613"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09613'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Foundations models are presented as generalists that often perform well over
 a myriad of tasks. Fine-tuning these models, even on limited data, provides an

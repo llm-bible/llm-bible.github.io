@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhao2025cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05605"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05605'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-Thought (CoT) enhances an LLM's ability to perform complex reasoning
 tasks, but it also introduces new security issues. In this work, we present

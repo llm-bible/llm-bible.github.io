@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mombaerts2024meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.09017"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.09017'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval Augmented Generation (RAG) is a technique used to augment Large
 Language Models (LLMs) with contextually relevant, time-critical, or

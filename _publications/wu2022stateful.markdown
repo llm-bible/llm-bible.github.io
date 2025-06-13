@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022stateful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.07634"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.07634'}
+tags: ['Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer encoder-decoder models have achieved great performance in
 dialogue generation tasks, however, their inability to process long dialogue

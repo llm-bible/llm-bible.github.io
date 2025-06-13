@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: roger2025suite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09672"}
-tags: ['Training Techniques', 'Multimodal Models', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09672'}
+tags: ['Arxiv', 'Multimodal Models', 'Training Techniques']
 ---
 The proliferation of Vision-Language Models (VLMs) in the past several years
 calls for rigorous and comprehensive evaluation methods and benchmarks. This

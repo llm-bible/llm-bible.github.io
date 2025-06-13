@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025tabgen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16414"}
-  - {name: "Code", url: "https://github.com/fangliancheng/TabGEN-ICL}{link"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16414'}
+  - {name: "Code", url: 'https://github.com/fangliancheng/TabGEN-ICL}{link'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language models (LLMs) have achieved encouraging results in tabular
 data generation. However, existing approaches require fine-tuning, which is

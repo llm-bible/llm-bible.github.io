@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: langlais2025even
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18225"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18225'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 We introduce a new generation of small reasoning models for RAG, search, and
 source summarization. Pleias-RAG-350m and Pleias-RAG-1B are mid-trained on a

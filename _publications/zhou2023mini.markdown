@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023mini
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08189"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08189'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 ChatGPT is phenomenal. However, it is prohibitively expensive to train and
 refine such giant models. Fortunately, small language models are flourishing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: loya2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17476"}
-tags: ['Fine-Tuning', 'Interpretability', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17476'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Interpretability', 'Prompting']
 ---
 The advancement of Large Language Models (LLMs) has led to their widespread
 use across a broad spectrum of tasks including decision making. Prior studies

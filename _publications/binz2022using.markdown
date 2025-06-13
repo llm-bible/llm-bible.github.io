@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: binz2022using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.14576"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.14576'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 We study GPT-3, a recent large language model, using tools from cognitive
 psychology. More specifically, we assess GPT-3's decision-making, information

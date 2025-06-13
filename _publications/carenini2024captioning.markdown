@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: carenini2024captioning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19512"}
-tags: ['Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19512'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Survey Paper', 'Pretraining Methods']
 ---
 Automatically captioning visualizations is not new, but recent advances in
 large language models(LLMs) open exciting new possibilities. In this tutorial,

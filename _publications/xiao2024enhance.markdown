@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024enhance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16031"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16031'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pruning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, large language and vision models have shown strong performance, but
 due to high pre-training and fine-tuning costs, research has shifted towards

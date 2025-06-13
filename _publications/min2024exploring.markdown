@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: min2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12869"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12869'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Tools', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Augmenting Large Language Models (LLMs) for Question Answering (QA) with
 domain specific data has attracted wide attention. However, domain data often

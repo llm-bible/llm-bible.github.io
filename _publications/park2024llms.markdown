@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04640"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04640'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Agricultural meteorological recommendations are crucial for enhancing crop
 productivity and sustainability by providing farmers with actionable insights

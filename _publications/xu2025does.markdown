@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025does
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15620"}
-tags: ['RAG', 'Survey Paper', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15620'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Survey Paper']
 ---
 The large language model (LLM)-as-judge paradigm has been used to meet the
 demand for a cheap, reliable, and fast evaluation of model outputs during AI

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024power
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05591"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05591'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The transformer architecture has catalyzed revolutionary advances in language
 modeling. However, recent architectural recipes, such as state-space models,

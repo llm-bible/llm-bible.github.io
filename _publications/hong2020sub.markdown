@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: hong2020sub
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.02707"}
-  - {name: "Code", url: "https://github.com/YicongHong/Fine-Grained-R2R"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.02707'}
+  - {name: "Code", url: 'https://github.com/YicongHong/Fine-Grained-R2R'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Training Techniques', 'Model Architecture']
 ---
 Vision-and-language navigation requires an agent to navigate through a real
 3D environment following natural language instructions. Despite significant

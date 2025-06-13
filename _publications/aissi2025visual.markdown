@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: aissi2025visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15108"}
-tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'ACL', 'Interpretability', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15108'}
+tags: ['Agentic', 'Interpretability and Explainability', 'ACL', 'RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability']
 ---
 While Large Language Models (LLMs) excel at reasoning on text and
 Vision-Language Models (VLMs) are highly effective for visual perception,

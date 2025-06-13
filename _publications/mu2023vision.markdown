@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mu2023vision
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.15021v2"}
-tags: ['Pre-Training', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.15021v2'}
+tags: ['Agentic', 'Training Techniques', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Embodied AI is a crucial frontier in robotics, capable of planning and
 executing action sequences for robots to accomplish long-horizon tasks in

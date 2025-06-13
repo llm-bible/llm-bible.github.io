@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: friedl2023rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07469"}
-tags: ['Responsible AI', 'RAG', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07469'}
+tags: ['RAG', 'Prompting', 'Responsible AI', 'Applications']
 ---
 The assessment of advanced generative large language models (LLMs) poses a
 significant challenge, given their heightened complexity in recent

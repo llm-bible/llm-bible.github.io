@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gheini2021cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08771"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08771'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We study the power of cross-attention in the Transformer architecture within
 the context of transfer learning for machine translation, and extend the

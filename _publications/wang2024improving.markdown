@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17152"}
-tags: ['RAG', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17152'}
+tags: ['Training Techniques', 'RAG', 'Model Architecture']
 ---
 To improve relevance scoring on Pinterest Search, we integrate Large Language
 Models (LLMs) into our search relevance model, leveraging carefully designed

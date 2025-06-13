@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rahman2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03568"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03568'}
+tags: ['Model Architecture', 'BERT', 'Applications', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Tokenization']
 ---
 This paper presents a comprehensive study on the tokenization techniques
 employed by state-of-the-art large language models (LLMs) and their

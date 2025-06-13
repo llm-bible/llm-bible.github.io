@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhou2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.01910"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.01910'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 By conditioning on natural language instructions, large language models

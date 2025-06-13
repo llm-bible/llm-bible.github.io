@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nori2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03590"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03590'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 Run-time steering strategies like Medprompt are valuable for guiding large
 language models (LLMs) to top performance on challenging tasks. Medprompt

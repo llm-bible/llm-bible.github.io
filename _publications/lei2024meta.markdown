@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lei2024meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18458"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18458'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We introduce a new unsupervised text embedding method, Meta-Task Prompting
 with Explicit One-Word Limitation (MetaEOL), for generating high-quality

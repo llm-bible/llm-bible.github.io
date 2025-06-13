@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: duwal2024domain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13860"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13860'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training']
 ---
 Continual learning has emerged as an important research direction due to the
 infeasibility of retraining large language models (LLMs) from scratch in the

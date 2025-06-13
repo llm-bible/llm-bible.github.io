@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024reason
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04293"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04293'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated good performance in many
 reasoning tasks, but they still struggle with some complicated reasoning tasks

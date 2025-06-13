@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023truth
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17484"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17484'}
 tags: ['Uncategorized']
 ---
 Despite the great success of large language models (LLMs) in various tasks,

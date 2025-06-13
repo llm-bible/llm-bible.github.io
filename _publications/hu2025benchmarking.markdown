@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13092"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13092'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 Recently, there has been growing interest in leveraging large language models
 (LLMs) to generate symbolic world models from textual descriptions. Although

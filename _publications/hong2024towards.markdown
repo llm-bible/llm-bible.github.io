@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.05385"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.05385'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 The development of LLMs has greatly enhanced the intelligence and fluency of
 question answering, while the emergence of retrieval enhancement has enabled

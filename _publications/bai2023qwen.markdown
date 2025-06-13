@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bai2023qwen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16609"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16609'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications']
 ---
 Large language models (LLMs) have revolutionized the field of artificial
 intelligence, enabling natural language processing tasks that were previously

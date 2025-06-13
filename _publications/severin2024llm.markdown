@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: severin2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00556"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00556'}
 tags: ['RAG', 'Tools']
 ---
 We present LLM-KT, a flexible framework designed to enhance collaborative

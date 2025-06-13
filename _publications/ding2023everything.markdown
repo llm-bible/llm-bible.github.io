@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ding2023everything
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04254"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04254'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have revolutionized
 decision-making by breaking down complex problems into more manageable language

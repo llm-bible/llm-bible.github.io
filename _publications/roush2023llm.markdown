@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: roush2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03716"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03716'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recent advancements in text-to-image generation have revolutionized numerous
 fields, including art and cinema, by automating the generation of high-quality,

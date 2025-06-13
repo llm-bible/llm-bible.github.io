@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vo2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06198"}
-tags: ['Transformer', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06198'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 As Large Language Models (LLMs) scale to longer context windows, the
 computational cost of attention mechanisms, which traditionally grows

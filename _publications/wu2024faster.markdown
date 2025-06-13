@@ -6,7 +6,7 @@ conference: "NLPCC2024"
 year: 2024
 bibkey: wu2024faster
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20488"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20488'}
 tags: ['Uncategorized']
 ---
 Recent advancements in Large Language Models (LLMs) have shown remarkable

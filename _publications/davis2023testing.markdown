@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: davis2023testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.05713"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.05713'}
 tags: ['GPT', 'Model Architecture']
 ---
 This report describes a test of the large language model GPT-4 with the

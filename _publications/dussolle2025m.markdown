@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: dussolle2025m
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04688"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04688'}
 tags: ['Uncategorized']
 ---
 Instruction following is a core capability of modern Large language models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03963"}
-tags: ['Responsible AI', 'RAG', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03963'}
+tags: ['RAG', 'Responsible AI', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) is an effective solution to supplement
 necessary knowledge to large language models (LLMs). Targeting its bottleneck

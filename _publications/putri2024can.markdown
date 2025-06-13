@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: putri2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17302"}
-tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17302'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Large Language Models (LLMs) are increasingly being used to generate
 synthetic data for training and evaluating models. However, it is unclear

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00086"}
-  - {name: "Code", url: "https://ali-vilab.github.io/ace-page/"}
-tags: ['Transformer', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00086'}
+  - {name: "Code", url: 'https://ali-vilab.github.io/ace-page/'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Diffusion models have emerged as a powerful generative technology and have
 been found to be applicable in various scenarios. Most existing foundational

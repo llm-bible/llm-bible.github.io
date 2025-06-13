@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schlicht2024pitfalls
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06488"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06488'}
+tags: ['Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 This paper addresses debiasing in news editing and evaluates the
 effectiveness of conversational Large Language Models in this task. We designed

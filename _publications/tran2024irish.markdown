@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tran2024irish
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13010"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13010'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Pre-Training']
 ---
 The development of Large Language Models (LLMs) has predominantly focused on
 high-resource languages, leaving extremely low-resource languages like Irish

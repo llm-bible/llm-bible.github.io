@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024visualizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20652"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20652'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Interpretability']
 ---
 The attention mechanism plays an important role in the machine reading
 comprehension (MRC) model. Here, we describe a pipeline for building an MRC

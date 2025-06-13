@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: calo2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14713"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14713'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Intelligent Tutoring Systems (ITSs) have shown great potential in delivering

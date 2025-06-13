@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: snell2024predicting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16035"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16035'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 A fundamental open challenge in modern LLM scaling is the lack of
 understanding around emergent capabilities. In particular, language model

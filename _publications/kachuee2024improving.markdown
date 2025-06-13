@@ -6,8 +6,8 @@ conference: "COLING 2025"
 year: 2024
 bibkey: kachuee2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03573"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03573'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Using tools by Large Language Models (LLMs) is a promising avenue to extend
 their reach beyond language or conversational settings. The number of tools can

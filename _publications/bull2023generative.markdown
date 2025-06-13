@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bull2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.13936"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.13936'}
 tags: ['Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 The software development industry is amid another disruptive paradigm change

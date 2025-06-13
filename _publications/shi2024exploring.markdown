@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15998"}
-tags: ['Fine-Tuning', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15998'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Multimodal Models', 'Model Architecture']
 ---
 The ability to accurately interpret complex visual information is a crucial
 topic of multimodal large language models (MLLMs). Recent work indicates that

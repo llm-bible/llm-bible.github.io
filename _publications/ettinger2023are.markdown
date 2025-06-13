@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ettinger2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17793"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17793'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) show amazing proficiency and fluency in the use
 of language. Does this mean that they have also acquired insightful linguistic

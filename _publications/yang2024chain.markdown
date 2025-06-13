@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03944"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03944'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Chain-of-Thought prompting has significantly enhanced the reasoning
 capabilities of large language models, with numerous studies exploring factors

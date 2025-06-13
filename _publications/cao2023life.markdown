@@ -6,8 +6,8 @@ conference: "Machine Intelligence Research. vol. 21 no. 2 pp. 217-238 2024"
 year: 2023
 bibkey: cao2023life
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.07616"}
-tags: ['Attention Mechanism', 'Survey Paper', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.07616'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Survey Paper']
 ---
 Knowledge plays a critical role in artificial intelligence. Recently, the
 extensive success of pre-trained language models (PLMs) has raised significant

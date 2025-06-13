@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: seenivasan2023end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.09974"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09974'}
+tags: ['Attention Mechanism', 'RAG', 'GPT', 'Model Architecture', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 Advances in GPT-based large language models (LLMs) are revolutionizing
 natural language processing, exponentially increasing its use across various

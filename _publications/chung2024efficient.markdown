@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chung2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17648"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17648'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) is a common method for integrating
 external knowledge into pretrained Large Language Models (LLMs) to enhance

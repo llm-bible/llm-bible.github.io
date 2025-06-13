@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024cascaded
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.18541"}
-  - {name: "Code", url: "https://github.com/DCDmllm/Align2LLaVA"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.18541'}
+  - {name: "Code", url: 'https://github.com/DCDmllm/Align2LLaVA'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advances in Multi-modal Large Language Models (MLLMs), such as
 LLaVA-series models, are driven by massive machine-generated

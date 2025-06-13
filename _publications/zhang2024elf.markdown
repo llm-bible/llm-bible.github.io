@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024elf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12865"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12865'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Crafting effective features is a crucial yet labor-intensive and
 domain-specific task within machine learning pipelines. Fortunately, recent

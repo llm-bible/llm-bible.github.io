@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shao2023omnidirectionally
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13137"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/OmniQuant"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13137'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/OmniQuant'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 tasks. However, their practical deployment is hindered by their immense memory

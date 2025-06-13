@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020mapping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.03776"}
-tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.03776'}
+tags: ['Training Techniques', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We present a new problem: grounding natural language instructions to mobile
 user interface actions, and create three new datasets for it. For full task

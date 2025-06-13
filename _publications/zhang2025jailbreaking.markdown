@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17987"}
-tags: ['Responsible AI', 'Agentic', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17987'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Text-to-Image(T2I) models typically deploy safety filters to prevent the
 generation of sensitive images. Unfortunately, recent jailbreaking attack

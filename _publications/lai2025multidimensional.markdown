@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lai2025multidimensional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02670"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02670'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 While Large language models (LLMs) have proved able to address some complex
 reasoning tasks, we also know that they are highly sensitive to input

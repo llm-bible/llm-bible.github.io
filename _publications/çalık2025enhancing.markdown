@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: çalık2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05032"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05032'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 This paper explores the advancements in making large language models (LLMs)
 more human-like. We focus on techniques that enhance natural language

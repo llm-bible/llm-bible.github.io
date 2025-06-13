@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hwang2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05814"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05814'}
+tags: ['Training Techniques', 'RAG', 'Applications', 'Tools']
 ---
 Despite advancements in on-topic dialogue systems, effectively managing topic
 shifts within dialogues remains a persistent challenge, largely attributed to

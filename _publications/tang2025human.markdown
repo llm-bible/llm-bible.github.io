@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14147"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14147'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent advancements in explainable recommendation have greatly bolstered user
 experience by elucidating the decision-making rationale. However, the existing

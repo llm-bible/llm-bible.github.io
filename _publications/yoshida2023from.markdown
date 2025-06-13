@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yoshida2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06571"}
-  - {name: "Code", url: "https://tnoinkwms.github.io/ALTER-LLM/"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06571'}
+  - {name: "Code", url: 'https://tnoinkwms.github.io/ALTER-LLM/'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We report the development of Alter3, a humanoid robot capable of generating
 spontaneous motion using a Large Language Model (LLM), specifically GPT-4. This

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kervadec2021supervising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.05597"}
-tags: ['Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'ACL', 'Training Techniques', 'Attention Mechanism', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.05597'}
+tags: ['Attention Mechanism', 'ACL', 'RAG', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'BERT', 'Ethics and Bias']
 ---
 Methods for Visual Question Anwering (VQA) are notorious for leveraging
 dataset biases rather than performing reasoning, hindering generalization. It

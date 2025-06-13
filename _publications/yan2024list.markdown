@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024list
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16375"}
-  - {name: "Code", url: "https://github.com/zzxslp/SoM-LLaVA"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16375'}
+  - {name: "Code", url: 'https://github.com/zzxslp/SoM-LLaVA'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Set-of-Mark (SoM) Prompting unleashes the visual grounding capability of
 GPT-4V, by enabling the model to associate visual objects with tags inserted on

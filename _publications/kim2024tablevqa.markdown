@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024tablevqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19205"}
-  - {name: "Code", url: "https://github.com/naver-ai/tablevqabench}{https://github.com/naver-ai/tablevqabench"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19205'}
+  - {name: "Code", url: 'https://github.com/naver-ai/tablevqabench}{https://github.com/naver-ai/tablevqabench'}
 tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In this paper, we establish a benchmark for table visual question answering,

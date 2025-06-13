@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pan2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11006"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11006'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Security', 'Applications', 'Fine-Tuning', 'Prompting']
 ---
 Large Language Models (LLMs) are vulnerable to adversarial prompt based
 injects. These injects could jailbreak or exploit vulnerabilities within these

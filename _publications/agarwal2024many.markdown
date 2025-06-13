@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: agarwal2024many
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11018"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11018'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) excel at few-shot in-context learning (ICL) --
 learning from a few examples provided in context at inference, without any

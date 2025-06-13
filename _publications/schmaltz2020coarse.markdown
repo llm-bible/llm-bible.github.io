@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: schmaltz2020coarse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.02287"}
-tags: ['BERT', 'RAG', 'Training Techniques', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.02287'}
+tags: ['Training Techniques', 'RAG', 'BERT', 'Model Architecture']
 ---
 We present a novel end-to-end language model for joint retrieval and
 classification, unifying the strengths of bi- and cross- encoders into a single

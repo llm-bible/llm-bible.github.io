@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2025
 bibkey: levine2025relevance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07104"}
-  - {name: "Code", url: "https://github.com/run-llama/llama_index/pull/17590"}
-  - {name: "Code", url: "https://github.com/microsoft/REBEL"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07104'}
+  - {name: "Code", url: 'https://github.com/run-llama/llama_index/pull/17590'}
+  - {name: "Code", url: 'https://github.com/microsoft/REBEL'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Modern Large Language Model (LLM) systems typically rely on Retrieval
 Augmented Generation (RAG) which aims to gather context that is useful for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lv2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02193"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02193'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown great potential in code-related
 tasks, yet open-source models lag behind their closed-source counterparts. To

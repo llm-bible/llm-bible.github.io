@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: s2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11750"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11750'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have showcased their In-Context Learning (ICL)
 capabilities, enabling few-shot learning without the need for gradient updates.

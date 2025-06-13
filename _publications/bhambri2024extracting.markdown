@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhambri2024extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15194"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15194'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
 ---
 Reinforcement Learning (RL) suffers from sample inefficiency in sparse reward
 domains, and the problem is further pronounced in case of stochastic

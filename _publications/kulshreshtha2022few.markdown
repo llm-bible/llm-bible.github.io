@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kulshreshtha2022few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.04187"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.04187'}
+tags: ['Transformer', 'Few-Shot', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Existing work on generating hints in Intelligent Tutoring Systems (ITS)
 focuses mostly on manual and non-personalized feedback. In this work, we

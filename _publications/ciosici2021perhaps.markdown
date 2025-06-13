@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: ciosici2021perhaps
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.01552"}
-tags: ['Pre-Training', 'Survey Paper', 'Applications', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.01552'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Survey Paper', 'Pre-Training']
 ---
 Our goal is to deliver a new task and leaderboard to stimulate research on
 question answering and pre-trained language models (PTLMs) to understand a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024tat
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13223"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13223'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 In this work, we address question answering (QA) over a hybrid of tabular and
 textual data that are very common content on the Web (e.g. SEC filings), where

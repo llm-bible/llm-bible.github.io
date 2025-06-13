@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022controllable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10466"}
-tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10466'}
+tags: ['Language Modeling', 'RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 We consider the task of text generation in language models with constraints
 specified in natural language. To this end, we first create a challenging

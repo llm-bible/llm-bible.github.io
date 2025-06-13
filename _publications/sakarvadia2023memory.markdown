@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sakarvadia2023memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05605"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05605'}
+tags: ['Attention Mechanism', 'Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Answering multi-hop reasoning questions requires retrieving and synthesizing
 information from diverse sources. Large Language Models (LLMs) struggle to

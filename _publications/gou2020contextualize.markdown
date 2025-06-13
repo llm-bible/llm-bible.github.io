@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: gou2020contextualize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.05740"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.05740'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Incorporating knowledge bases (KB) into end-to-end task-oriented dialogue
 systems is challenging, since it requires to properly represent the entity of

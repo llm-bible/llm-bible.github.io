@@ -6,9 +6,9 @@ conference: "Association for Computational Linguistics (2019) 5612-5623"
 year: 2019
 bibkey: le2019multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1907.01166"}
-  - {name: "Code", url: "https://github.com/henryhungle/MTN"}
-tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1907.01166'}
+  - {name: "Code", url: 'https://github.com/henryhungle/MTN'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 Developing Video-Grounded Dialogue Systems (VGDS), where a dialogue is
 conducted based on visual and audio aspects of a given video, is significantly

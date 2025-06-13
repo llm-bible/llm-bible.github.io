@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: shuster2018engaging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1810.10665"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1810.10665'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Standard image captioning tasks such as COCO and Flickr30k are factual,

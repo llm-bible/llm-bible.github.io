@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ding2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01006"}
-  - {name: "Code", url: "https://github.com/ARiSE-Lab/SemCoder"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01006'}
+  - {name: "Code", url: 'https://github.com/ARiSE-Lab/SemCoder'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Code Large Language Models (Code LLMs) have excelled at tasks like code
 completion but often miss deeper semantics such as execution effects and

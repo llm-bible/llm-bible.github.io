@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024resilience
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09754"}
-tags: ['Tools', 'INTERSPEECH', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09754'}
+tags: ['Reinforcement Learning', 'INTERSPEECH', 'Tools']
 ---
 As the rapidly advancing domain of natural language processing (NLP), large
 language models (LLMs) have emerged as powerful tools for interpreting human

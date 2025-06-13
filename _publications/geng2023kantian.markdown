@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: geng2023kantian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01441"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01441'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Interpretability']
 ---
 Large Language Models (LLMs) have demonstrated impressive inferential
 capabilities, with numerous research endeavors devoted to enhancing this

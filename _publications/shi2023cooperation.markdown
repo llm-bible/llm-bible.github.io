@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023cooperation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17515"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17515'}
 tags: ['Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Multi-agent collaboration with Large Language Models (LLMs) demonstrates

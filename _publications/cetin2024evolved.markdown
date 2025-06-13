@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cetin2024evolved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13166"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13166'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prior methods propose to offset the escalating costs of modern foundation
 models by dropping specific parts of their contexts with hand-designed rules,

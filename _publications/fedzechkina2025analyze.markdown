@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: fedzechkina2025analyze
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15090"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15090'}
 tags: ['Uncategorized']
 ---
 Modern large language models (LLMs) achieve impressive performance on some

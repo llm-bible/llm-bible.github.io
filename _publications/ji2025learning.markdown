@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: ji2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12974"}
-  - {name: "Code", url: "https://github.com/OpenBMB/DEBATER"}
-tags: ['Security', 'Efficiency and Optimization', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12974'}
+  - {name: "Code", url: 'https://github.com/OpenBMB/DEBATER'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Security']
 ---
 Recent dense retrievers usually thrive on the emergency capabilities of Large
 Language Models (LLMs), using them to encode queries and documents into an

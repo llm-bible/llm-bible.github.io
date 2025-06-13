@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: boye2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11574"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11574'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 This paper investigates the mathematical reasoning capabilities of large
 language models (LLMs) using 50 newly constructed high-school-level word

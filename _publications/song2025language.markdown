@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: song2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07513"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07513'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 There has been recent interest in whether large language models (LLMs) can
 introspect about their own internal states. Such abilities would make LLMs more

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: vejvar2023any
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17877"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17877'}
+tags: ['Language Modeling', 'Few-Shot', 'RAG', 'Applications', 'Prompting']
 ---
 We present ASPIRO, an approach for structured data verbalisation into short
 template sentences in zero to few-shot settings. Unlike previous methods, our

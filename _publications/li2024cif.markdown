@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024cif
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13109"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13109'}
 tags: ['Ethics and Bias']
 ---
 The advancement of large language models (LLMs) has enhanced the ability to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gan2024application
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08315"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08315'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 The automation of resume screening is a crucial aspect of the recruitment
 process in organizations. Automated resume screening systems often encompass a

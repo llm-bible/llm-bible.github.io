@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023safer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.09865"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09865'}
+tags: ['RAG', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 This work explores the impact of moderation on users' enjoyment of
 conversational AI systems. While recent advancements in Large Language Models

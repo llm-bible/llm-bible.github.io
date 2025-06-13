@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05579"}
-  - {name: "Code", url: "https://github.com/CSHaitao/Awesome-LLMs-as-Judges"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05579'}
+  - {name: "Code", url: 'https://github.com/CSHaitao/Awesome-LLMs-as-Judges'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Applications', 'Model Architecture', 'Tools', 'Survey Paper']
 ---
 The rapid advancement of Large Language Models (LLMs) has driven their
 expanding application across various fields. One of the most promising

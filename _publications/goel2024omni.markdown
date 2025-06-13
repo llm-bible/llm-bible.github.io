@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: goel2024omni
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12109"}
-  - {name: "Code", url: "https://om-cat.github.io"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12109'}
+  - {name: "Code", url: 'https://om-cat.github.io'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have made significant strides in text generation
 and comprehension, with recent advancements extending into multimodal LLMs that

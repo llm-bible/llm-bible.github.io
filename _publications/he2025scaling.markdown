@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12637"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12637'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) struggle with long-context reasoning, not only
 due to the quadratic scaling of computational complexity with sequence length

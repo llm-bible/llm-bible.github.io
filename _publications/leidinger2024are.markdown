@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: leidinger2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06590"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06590'}
 tags: ['Reinforcement Learning']
 ---
 Recent scholarship on reasoning in LLMs has supplied evidence of impressive

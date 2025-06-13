@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18194"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18194'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 General-purposed embodied agents are designed to understand the users'
 natural instructions or intentions and act precisely to complete universal

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023chat
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00272"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00272'}
 tags: ['Applications']
 ---
 Large language models have shown good performances in generating code to meet

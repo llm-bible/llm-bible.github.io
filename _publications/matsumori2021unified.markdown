@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: matsumori2021unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.15550"}
-tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.15550'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Building an interactive artificial intelligence that can ask questions about
 the real world is one of the biggest challenges for vision and language

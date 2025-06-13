@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ouyang2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03502"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03502'}
 tags: ['Reinforcement Learning']
 ---
 With the proliferation of Large Language Models (LLMs) in diverse domains,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: szot2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08442"}
-tags: ['Agentic', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08442'}
+tags: ['Reinforcement Learning', 'Agentic', 'Multimodal Models', 'Training Techniques']
 ---
 We examine the capability of Multimodal Large Language Models (MLLMs) to
 tackle diverse domains that extend beyond the traditional language and vision

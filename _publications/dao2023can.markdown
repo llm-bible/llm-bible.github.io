@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dao2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.09170"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.09170'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 This research article highlights the potential of AI-powered chatbots in
 education and presents the results of using ChatGPT, a large language model, to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: mees2022grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.01911"}
-  - {name: "Code", url: "http://hulc2.cs.uni-freiburg.de"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.01911'}
+  - {name: "Code", url: 'http://hulc2.cs.uni-freiburg.de'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recent works have shown that Large Language Models (LLMs) can be applied to
 ground natural language to a wide variety of robot skills. However, in

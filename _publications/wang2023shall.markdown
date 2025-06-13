@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023shall
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.06762"}
-  - {name: "Code", url: "https://github.com/NVIDIA/Megatron-LM/blob/main/tools/retro/README.md"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.06762'}
+  - {name: "Code", url: 'https://github.com/NVIDIA/Megatron-LM/blob/main/tools/retro/README.md'}
+tags: ['Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Applications', 'Survey Paper', 'Pretraining Methods']
 ---
 Large decoder-only language models (LMs) can be largely improved in terms of
 perplexity by retrieval (e.g., RETRO), but its impact on text generation

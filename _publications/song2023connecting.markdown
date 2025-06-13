@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023connecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06624"}
-  - {name: "Code", url: "https://restgpt.github.io/"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06624'}
+  - {name: "Code", url: 'https://restgpt.github.io/'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Tool-augmented large language models (LLMs) have achieved remarkable progress
 in tackling a broad range of tasks. However, existing methods are mainly

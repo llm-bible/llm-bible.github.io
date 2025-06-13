@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: muennighoff2022gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.08904"}
-  - {name: "Code", url: "https://github.com/Muennighoff/sgpt"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.08904'}
+  - {name: "Code", url: 'https://github.com/Muennighoff/sgpt'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Decoder transformers have continued increasing in scale reaching hundreds of
 billions of parameters. Due to their scale the same decoder sets

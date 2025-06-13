@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ng2023private
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03983"}
-  - {name: "Code", url: "https://github.com/RCGAI/SimplyRetrieve"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03983'}
+  - {name: "Code", url: 'https://github.com/RCGAI/SimplyRetrieve'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Model (LLM) based Generative AI systems have seen significant
 progress in recent years. Integrating a knowledge retrieval architecture allows

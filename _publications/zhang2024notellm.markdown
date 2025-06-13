@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024notellm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16789"}
-  - {name: "Code", url: "https://github.com/Applied-Machine-Learning-Lab/NoteLLM"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16789'}
+  - {name: "Code", url: 'https://github.com/Applied-Machine-Learning-Lab/NoteLLM'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Tools', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated exceptional proficiency in
 text understanding and embedding tasks. However, their potential in multimodal

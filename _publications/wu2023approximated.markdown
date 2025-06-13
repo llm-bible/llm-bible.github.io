@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023approximated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.15706"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.15706'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Prompt tuning is a parameter-efficient way to deploy large-scale pre-trained
 models to downstream tasks by adding task-specific tokens. In terms of

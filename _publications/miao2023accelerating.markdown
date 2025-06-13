@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: miao2023accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.09781"}
-  - {name: "Code", url: "https://github.com/flexflow/FlexFlow/"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09781'}
+  - {name: "Code", url: 'https://github.com/flexflow/FlexFlow/'}
 tags: ['RAG', 'Has Code']
 ---
 This paper introduces SpecInfer, a system that accelerates generative large

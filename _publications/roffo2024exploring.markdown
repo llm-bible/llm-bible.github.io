@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roffo2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12036"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Tools', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12036'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This tutorial explores the advancements and challenges in the development of
 Large Language Models (LLMs) such as ChatGPT and Gemini. It addresses inherent

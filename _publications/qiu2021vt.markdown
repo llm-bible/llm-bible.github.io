@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: qiu2021vt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.02399"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.02399'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pre-Training']
 ---
 Contrastive Language-Image Pre-training (CLIP) has drawn increasing attention
 recently for its transferable visual representation learning. However, due to

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhai2024transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14706"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14706'}
 tags: ['BERT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) have demonstrated surprisingly

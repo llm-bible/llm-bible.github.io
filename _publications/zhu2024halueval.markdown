@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024halueval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04307"}
-  - {name: "Code", url: "https://github.com/HaluEval-Wild/HaluEval-Wild"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04307'}
+  - {name: "Code", url: 'https://github.com/HaluEval-Wild/HaluEval-Wild'}
+tags: ['Has Code', 'RAG', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Hallucinations pose a significant challenge to the reliability of large
 language models (LLMs) in critical domains. Recent benchmarks designed to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025prefill
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21038"}
-tags: ['Responsible AI', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21038'}
+tags: ['RAG', 'Responsible AI', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) are designed to generate helpful and safe
 content. However, adversarial attacks, commonly referred to as jailbreak, can

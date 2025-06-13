@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025inverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15902"}
-tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15902'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Tools']
 ---
 Large Language Models (LLMs) have attained human-level fluency in text
 generation, which complicates the distinguishing between human-written and

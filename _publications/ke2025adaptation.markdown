@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ke2025adaptation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03931"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'NAACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03931'}
+tags: ['Attention Mechanism', 'Agentic', 'ACL', 'RAG', 'Tools', 'Model Architecture', 'Applications', 'NAACL', 'Reinforcement Learning']
 ---
 This tutorial on adaptation of LLMs is designed to address the growing demand
 for models that go beyond the static capabilities of generic LLMs by providing

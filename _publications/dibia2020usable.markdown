@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: dibia2020usable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.15211"}
-  - {name: "Code", url: "https://github.com/victordibia/neuralqa}{Github)"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.15211'}
+  - {name: "Code", url: 'https://github.com/victordibia/neuralqa}{Github)'}
+tags: ['Masked Language Model', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'BERT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Existing tools for Question Answering (QA) have challenges that limit their
 use in practice. They can be complex to set up or integrate with existing

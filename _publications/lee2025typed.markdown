@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025typed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15879"}
-  - {name: "Code", url: "https://github.com/TeamNLP/Typed-RAG"}
-tags: ['RAG', 'Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15879'}
+  - {name: "Code", url: 'https://github.com/TeamNLP/Typed-RAG'}
+tags: ['RAG', 'Has Code', 'Applications', 'Tools']
 ---
 Non-factoid question-answering (NFQA) poses a significant challenge due to
 its open-ended nature, diverse intents, and the need for multi-aspect

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: du2025post
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22776"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22776'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Code translation migrates codebases across programming languages. Recently,
 large language models (LLMs) have achieved significant advancements in software

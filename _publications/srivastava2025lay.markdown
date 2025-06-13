@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: srivastava2025lay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04718"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04718'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 We present Lay-Your-Scene (shorthand LayouSyn), a novel text-to-layout
 generation pipeline for natural scenes. Prior scene layout generation methods

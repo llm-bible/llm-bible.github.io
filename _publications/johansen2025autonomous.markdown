@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: johansen2025autonomous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16021"}
-tags: ['Agentic', 'Ethics and Bias', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16021'}
+tags: ['Ethics and Bias', 'Agentic', 'Tools']
 ---
 Recent breakthroughs in large language models (LLMs) have facilitated
 autonomous AI agents capable of imitating human-generated content. This

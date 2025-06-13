@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yuksekgonul2023attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.15098"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.15098'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We investigate the internal behavior of Transformer-based Large Language
 Models (LLMs) when they generate factually incorrect text. We propose modeling

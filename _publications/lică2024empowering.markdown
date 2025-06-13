@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lică2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.12977"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.12977'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Contemporary embodied agents powered by large language models (LLMs), such as
 Voyager, have shown promising capabilities in individual learning within

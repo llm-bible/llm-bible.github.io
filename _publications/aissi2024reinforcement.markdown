@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aissi2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19920"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19920'}
+tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement learning (RL) is a promising approach for aligning large
 language models (LLMs) knowledge with sequential decision-making tasks.

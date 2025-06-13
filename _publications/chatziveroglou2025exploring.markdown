@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chatziveroglou2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02111"}
-tags: ['Security', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02111'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Applications']
 ---
 This study investigates the reasoning robustness of large language models
 (LLMs) on mathematical problem-solving tasks under systematically introduced

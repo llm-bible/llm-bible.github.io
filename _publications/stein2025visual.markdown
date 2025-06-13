@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: stein2025visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20292"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20292'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Vision-Language Models (VLMs) have demonstrated impressive capabilities in
 learning joint representations of visual and textual data, making them powerful

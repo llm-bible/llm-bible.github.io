@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: hirota2021picture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.13445"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.13445'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 How far can we go with textual representations for understanding pictures? In
 image understanding, it is essential to use concise but detailed image

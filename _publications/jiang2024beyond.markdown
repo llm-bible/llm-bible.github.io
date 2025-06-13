@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00331"}
-  - {name: "Code", url: "https://github.com/JiangDeccc/EvaLLMasRecommender"}
-tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00331'}
+  - {name: "Code", url: 'https://github.com/JiangDeccc/EvaLLMasRecommender'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 With the rapid development of Large Language Models (LLMs), recent studies
 employed LLMs as recommenders to provide personalized information services for

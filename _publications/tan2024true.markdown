@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024true
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.14151"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.14151'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Despite the impressive performance across numerous tasks, large language
 models (LLMs) often fail in solving simple decision-making tasks due to the

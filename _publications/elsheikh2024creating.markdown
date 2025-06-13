@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: elsheikh2024creating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05882"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05882'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT']
 ---
 The debut of chatGPT and BARD has popularized instruction following text
 generation using LLMs, where a user can interrogate an LLM using natural

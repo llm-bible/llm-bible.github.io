@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.02370"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.02370'}
 tags: ['Training Techniques', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have recently displayed their extraordinary

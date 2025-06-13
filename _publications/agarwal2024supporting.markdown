@@ -6,8 +6,8 @@ conference: "EPTCS 416 2025 pp. 29-58"
 year: 2024
 bibkey: agarwal2024supporting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12433"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12433'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 Recent availability of Large Language Models (LLMs) has led to the
 development of numerous LLM-based approaches aimed at providing natural

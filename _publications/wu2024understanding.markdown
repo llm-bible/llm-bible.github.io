@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17803"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17803'}
 tags: ['RAG']
 ---
 Utilizing user profiles to personalize Large Language Models (LLMs) has been

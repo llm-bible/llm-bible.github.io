@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: banerjee2021self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.11263"}
-tags: ['Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.11263'}
+tags: ['Applications', 'Training Techniques']
 ---
 Recent work on unsupervised question answering has shown that models can be
 trained with procedurally generated question-answer pairs and can achieve

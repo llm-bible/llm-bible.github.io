@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: li2019answer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.07588"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.07588'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Recently, pre-trained models have been the dominant paradigm in natural
 language processing. They achieved remarkable state-of-the-art performance

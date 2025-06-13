@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: rosenbaum2022language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.09900"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.09900'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We present LINGUIST, a method for generating annotated data for Intent
 Classification and Slot Tagging (IC+ST), via fine-tuning AlexaTM 5B, a

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chiu2023symbolic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17140"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17140'}
 tags: ['RAG', 'Applications']
 ---
 Large language models (LLMs) excel at processing and generating both text and

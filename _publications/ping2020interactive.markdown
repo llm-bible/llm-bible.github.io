@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: ping2020interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.00958"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.00958'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Current conversational AI systems aim to understand a set of pre-designed

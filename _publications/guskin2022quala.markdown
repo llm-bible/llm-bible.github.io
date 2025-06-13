@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: guskin2022quala
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.17114"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.17114'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'BERT', 'Model Architecture', 'Quantization', 'Pretraining Methods']
 ---
 Limited computational budgets often prevent transformers from being used in
 production and from having their high accuracy utilized. A knowledge

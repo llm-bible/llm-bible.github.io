@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025phi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21233"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21233'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Chain-of-Thought (CoT) significantly enhances formal reasoning capabilities
 in Large Language Models (LLMs) by training them to explicitly generate

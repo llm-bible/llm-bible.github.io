@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gui2023high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.04573"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.04573'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 To fully leverage the advantages of large-scale pre-trained language models
 (PLMs) on downstream tasks, it has become a ubiquitous adaptation paradigm to

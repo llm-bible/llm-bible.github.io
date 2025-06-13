@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mondorf2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01869"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01869'}
 tags: ['Training Techniques', 'Survey Paper']
 ---
 Large language models (LLMs) have recently shown impressive performance on

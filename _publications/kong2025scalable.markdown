@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kong2025scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01567"}
-tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01567'}
+tags: ['Language Modeling', 'Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 We propose a novel family of language models, Latent-Thought Language Models
 (LTMs), which incorporate explicit latent thought vectors that follow an

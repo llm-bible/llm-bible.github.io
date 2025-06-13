@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: richardson2023integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20081"}
-tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20081'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
 ---
 Personalization, the ability to tailor a system to individual users, is an
 essential factor in user experience with natural language processing (NLP)

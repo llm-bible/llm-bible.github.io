@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023prompts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00949"}
-tags: ['Efficiency and Optimization', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00949'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 This paper targets to enhance the diffusion-based text-to-video generation by
 improving the two input prompts, including the noise and the text. Accommodated

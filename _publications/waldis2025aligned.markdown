@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: waldis2025aligned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13390"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13390'}
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Prompting', 'Reinforcement Learning', 'Pre-Training']
 ---
 We introduce aligned probing, a novel interpretability framework that aligns
 the behavior of language models (LMs), based on their outputs, and their

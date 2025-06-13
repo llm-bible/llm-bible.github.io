@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kuratov2024search
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10790"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10790'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper addresses the challenge of processing long documents using
 generative transformer models. To evaluate different approaches, we introduce

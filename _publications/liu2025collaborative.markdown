@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23427"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Tools', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23427'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have demonstrated superior listwise ranking
 performance. However, their superior performance often relies on large-scale

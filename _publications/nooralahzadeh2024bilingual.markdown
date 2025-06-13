@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nooralahzadeh2024bilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03170"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03170'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 The potential for improvements brought by Large Language Models (LLMs) in
 Text-to-SQL systems is mostly assessed on monolingual English datasets.

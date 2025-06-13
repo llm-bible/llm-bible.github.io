@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhao2019open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.05658"}
-tags: ['Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.05658'}
+tags: ['Training Techniques', 'BERT', 'Tools', 'Model Architecture', 'Pre-Training']
 ---
 Existing works, including ELMO and BERT, have revealed the importance of
 pre-training for NLP tasks. While there does not exist a single pre-training

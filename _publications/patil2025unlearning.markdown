@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patil2025unlearning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01456"}
-tags: ['Responsible AI', 'Tools', 'Interpretability and Explainability', 'RAG', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01456'}
+tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Tools', 'Prompting', 'Multimodal Models', 'Responsible AI']
 ---
 LLMs trained on massive datasets may inadvertently acquire sensitive
 information such as personal details and potentially harmful content. This risk

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025coherency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05315"}
-tags: ['Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05315'}
+tags: ['Interpretability and Explainability', 'Tools', 'RecSys', 'Reinforcement Learning', 'Interpretability']
 ---
 Explainable recommender systems are designed to elucidate the explanation
 behind each recommendation, enabling users to comprehend the underlying logic.

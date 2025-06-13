@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: driess2023palm
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.03378v1"}
-tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.03378v1'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications', 'Training Techniques']
 ---
 Large language models excel at a wide range of complex tasks. However,
 enabling general inference in the real world, e.g., for robotics problems,

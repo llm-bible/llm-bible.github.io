@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tran2023powerful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.10439"}
-  - {name: "Code", url: "https://github.com/HySonLab/ViDeBERTa"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.10439'}
+  - {name: "Code", url: 'https://github.com/HySonLab/ViDeBERTa'}
+tags: ['Has Code', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents ViDeBERTa, a new pre-trained monolingual language model
 for Vietnamese, with three versions - ViDeBERTa_xsmall, ViDeBERTa_base, and

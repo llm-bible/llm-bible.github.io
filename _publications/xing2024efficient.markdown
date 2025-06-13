@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xing2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09801"}
-tags: ['Tools', 'Multimodal Models', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09801'}
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Tools']
 ---
 Multimodal large language models (MLLMs) have attracted increasing attention
 in the past few years, but they may still generate descriptions that include

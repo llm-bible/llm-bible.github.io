@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: young2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06186"}
-tags: ['BERT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06186'}
+tags: ['Prompting', 'BERT', 'Model Architecture']
 ---
 The capability to generate diverse text is a key challenge facing large
 language models (LLMs). Thus far, diversity has been studied via metrics such

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: byun2024alternating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00087"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00087'}
+tags: ['Agentic', 'RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Multimodal Models (LMMs) excel at comprehending human instructions and
 demonstrate remarkable results across a broad spectrum of tasks. Reinforcement

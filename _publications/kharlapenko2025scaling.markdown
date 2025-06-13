@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kharlapenko2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13756"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13756'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Sparse autoencoders (SAEs) are a popular tool for interpreting large language
 model activations, but their utility in addressing open questions in

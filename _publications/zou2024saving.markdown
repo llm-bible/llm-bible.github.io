@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024saving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02211"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02211'}
+tags: ['Few-Shot', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recent advances in fine-tuning large language models (LLMs) have greatly
 enhanced their usage in domain-specific tasks. Despite the success, fine-tuning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.15490"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.15490'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study aims to innovatively explore adaptive applications of large
 language models (LLM) in urban renewal. It also aims to improve its performance

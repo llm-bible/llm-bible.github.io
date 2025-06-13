@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhuo2025combating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15439"}
-tags: ['RAG', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15439'}
+tags: ['Reinforcement Learning', 'RAG', 'Survey Paper']
 ---
 Large Language Models (LLMs) have become integral to software engineering
 (SE), where they are increasingly used in development workflows. However, their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023tailoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16582"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16582'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Personality plays a pivotal role in shaping human expression patterns, thus
 regulating the personality of large language models (LLMs) holds significant

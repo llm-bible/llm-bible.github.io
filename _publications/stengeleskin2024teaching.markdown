@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: stengeleskin2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14596"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14596'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are susceptible to persuasion, which can pose
 risks when models are faced with an adversarial interlocutor. We take a first

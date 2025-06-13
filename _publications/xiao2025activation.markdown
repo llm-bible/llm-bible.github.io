@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiao2025activation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13542"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13542'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent advances in large language models (LLMs) have showcased exceptional
 performance in long-context tasks, while facing significant inference

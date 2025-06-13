@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sindhujan2025when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04473"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04473'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 This paper investigates the reference-less evaluation of machine translation
 for low-resource language pairs, known as quality estimation (QE).

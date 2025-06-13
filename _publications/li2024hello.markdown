@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024hello
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05925"}
-  - {name: "Code", url: "https://github.com/leolee99/LD-Agent"}
-tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05925'}
+  - {name: "Code", url: 'https://github.com/leolee99/LD-Agent'}
+tags: ['Agentic', 'Has Code', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Open-domain dialogue systems have seen remarkable advancements with the
 development of large language models (LLMs). Nonetheless, most existing

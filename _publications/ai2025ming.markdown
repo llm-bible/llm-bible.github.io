@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ai2025ming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02471"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02471'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 We introduce Ming-Lite-Uni, an open-source multimodal framework featuring a
 newly designed unified visual generator and a native multimodal autoregressive

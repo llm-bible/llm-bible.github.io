@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nielson2023experimental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05415"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05415'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We propose a new model architecture specifically suited for text-to-speech
 (TTS) models. We combine WavLM, a pre-trained self-supervised learning (SSL)

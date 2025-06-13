@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: akpan2024have
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09573"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09573'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in AI, particularly in large language models (LLMs) like
 ChatGPT, Claude, and Gemini, have prompted questions about their proximity to

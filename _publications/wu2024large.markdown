@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14092"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14092'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
 ---
 Intrinsic self-correct was a method that instructed large language models
 (LLMs) to verify and correct their responses without external feedback.

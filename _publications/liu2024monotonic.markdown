@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024monotonic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16038"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16038'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Performance of large language models (LLMs) may vary with different prompts
 or instructions of even the same task. One commonly recognized factor for this

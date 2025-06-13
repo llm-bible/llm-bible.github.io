@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17599"}
-  - {name: "Code", url: "https://github.com/wujwyi/CMC"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17599'}
+  - {name: "Code", url: 'https://github.com/wujwyi/CMC'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The number of large language models (LLMs) with varying parameter scales and
 vocabularies is increasing. While they deliver powerful performance, they also

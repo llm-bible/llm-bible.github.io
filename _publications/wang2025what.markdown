@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13490"}
-tags: ['Interpretability and Explainability', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13490'}
+tags: ['RAG', 'Interpretability and Explainability', 'Prompting']
 ---
 Large language model (LLM) systems suffer from the models' unstable ability
 to generate valid and factual content, resulting in hallucination generation.

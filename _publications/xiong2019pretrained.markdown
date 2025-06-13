@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: xiong2019pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1912.09637"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1912.09637'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent breakthroughs of pretrained language models have shown the
 effectiveness of self-supervised learning for a wide range of natural language

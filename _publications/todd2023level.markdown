@@ -6,8 +6,8 @@ conference: "FDG 2023 Proceedings of the 18th International Conference on the Fo
 year: 2023
 bibkey: todd2023level
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.05817"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05817'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) are powerful tools, capable of leveraging their
 training on natural language to write stories, generate code, and answer

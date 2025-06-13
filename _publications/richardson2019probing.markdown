@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: richardson2019probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.07521"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.07521'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Do state-of-the-art models for language understanding already have, or can
 they easily learn, abilities such as boolean coordination, quantification,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: he2022rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.00303"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.00303'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Despite the success of large language models (LLMs) in various natural
 language processing (NLP) tasks, the stored knowledge in these models may

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ke2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09037"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09037'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Merging', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reasoning is a fundamental cognitive process that enables logical inference,
 problem-solving, and decision-making. With the rapid advancement of large

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sui2023reboost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18752"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18752'}
 tags: ['Prompting', 'Applications']
 ---
 The previous state-of-the-art (SOTA) method achieved a remarkable execution

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.04429"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.04429'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Instruction tuning has been shown to be able to improve cross-task
 generalization of language models. However, it is still challenging for

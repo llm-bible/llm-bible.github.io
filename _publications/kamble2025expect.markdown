@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: kamble2025expect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06329"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06329'}
 tags: ['Security', 'Applications']
 ---
 We propose a new long-context financial benchmark, FailSafeQA, designed to

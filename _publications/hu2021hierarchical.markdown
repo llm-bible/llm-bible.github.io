@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: hu2021hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.10358"}
-tags: ['Transformer', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.10358'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Interpretability']
 ---
 Explainable recommendation systems provide explanations for recommendation
 results to improve their transparency and persuasiveness. The existing

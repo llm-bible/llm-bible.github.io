@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03170"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03170'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Multimodal Models']
 ---
 Misinformation is a prevalent societal issue due to its potential high risks.
 Out-of-context (OOC) misinformation, where authentic images are repurposed with

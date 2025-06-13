@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023improved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01489"}
-  - {name: "Code", url: "https://github.com/idstcv/TeS"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01489'}
+  - {name: "Code", url: 'https://github.com/idstcv/TeS'}
+tags: ['Attention Mechanism', 'Has Code', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Fine-tuning a visual pre-trained model can leverage the semantic information
 from large-scale pre-training data and mitigate the over-fitting problem on

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025refining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08657"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08657'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent AI agents, such as ChatGPT and LLaMA, primarily rely on instruction
 tuning and reinforcement learning to calibrate the output of large language

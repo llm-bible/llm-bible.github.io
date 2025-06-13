@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jensen2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16344"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16344'}
 tags: ['Prompting']
 ---
 We claim that LLMs can be paired with formal analysis methods to provide

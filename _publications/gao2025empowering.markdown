@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gao2025empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14594"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14594'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Seeking dietary guidance often requires navigating complex professional
 knowledge while accommodating individual health conditions. Knowledge Graphs

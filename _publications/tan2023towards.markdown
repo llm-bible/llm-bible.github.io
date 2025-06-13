@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09821"}
-  - {name: "Code", url: "https://github.com/nusnlp/complex-tr"}
-tags: ['Security', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09821'}
+  - {name: "Code", url: 'https://github.com/nusnlp/complex-tr'}
+tags: ['Reinforcement Learning', 'Has Code', 'Security', 'Applications']
 ---
 Knowledge in the real world is being updated constantly. However, it is
 costly to frequently update large language models (LLMs). Therefore, it is

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: westenfelder2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06858"}
-  - {name: "Code", url: "https://github.com/westenfelder/NL2SH"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06858'}
+  - {name: "Code", url: 'https://github.com/westenfelder/NL2SH'}
+tags: ['Has Code', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 The Bourne-Again Shell (Bash) command-line interface for Linux systems has
 complex syntax and requires extensive specialized knowledge. Using the natural

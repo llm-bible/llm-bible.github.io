@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16160"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16160'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Instruction finetuning on a variety of image-text instruction data is the key
 to obtaining a versatile Multimodal Large Language Model (MLLM), and different

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saxena2024eigen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05646"}
-  - {name: "Code", url: "https://github.com/UtkarshSaxena1/EigenAttn"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05646'}
+  - {name: "Code", url: 'https://github.com/UtkarshSaxena1/EigenAttn'}
 tags: ['Attention Mechanism', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) represent a groundbreaking advancement in the

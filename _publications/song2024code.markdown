@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13013"}
-tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13013'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Training Techniques']
 ---
 The programming skill is one crucial ability for Large Language Models
 (LLMs), necessitating a deep understanding of programming languages (PLs) and

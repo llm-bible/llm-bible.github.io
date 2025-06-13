@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025collab
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04915"}
-  - {name: "Code", url: "https://github.com/ritaranx/Collab-RAG/"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04915'}
+  - {name: "Code", url: 'https://github.com/ritaranx/Collab-RAG/'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) systems often struggle to handle
 multi-hop question-answering tasks accurately due to irrelevant context

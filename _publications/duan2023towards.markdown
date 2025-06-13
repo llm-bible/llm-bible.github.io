@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: duan2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.11053"}
-tags: ['Responsible AI', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.11053'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Responsible AI']
 ---
 Large Language Models (LLMs) have made unprecedented breakthroughs, yet their
 increasing integration into everyday life might raise societal risks due to

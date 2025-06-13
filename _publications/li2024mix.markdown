@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024mix
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13795"}
-  - {name: "Code", url: "https://github.com/pixeli99/MixLN"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13795'}
+  - {name: "Code", url: 'https://github.com/pixeli99/MixLN'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Quantization', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved remarkable success, yet recent
 findings reveal that their deeper layers often contribute minimally and can be

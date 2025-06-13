@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00440"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00440'}
+tags: ['Interpretability and Explainability', 'Ethics and Bias', 'RAG', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Multimodal Models', 'Pre-Training']
 ---
 In rapidly evolving field of vision-language models (VLMs), contrastive
 language-image pre-training (CLIP) has made significant strides, becoming

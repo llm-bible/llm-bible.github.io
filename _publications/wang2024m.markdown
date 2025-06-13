@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024m
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16420"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16420'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by
 retrieving relevant memories from an external database. However, existing RAG

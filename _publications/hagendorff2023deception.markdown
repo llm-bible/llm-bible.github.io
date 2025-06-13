@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hagendorff2023deception
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16513"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16513'}
+tags: ['Reinforcement Learning', 'Agentic', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) are currently at the forefront of intertwining
 artificial intelligence (AI) systems with human communication and everyday

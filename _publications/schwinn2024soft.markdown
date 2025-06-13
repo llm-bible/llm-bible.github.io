@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schwinn2024soft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09063"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09063'}
+tags: ['Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Current research in adversarial robustness of LLMs focuses on discrete input
 manipulations in the natural language space, which can be directly transferred

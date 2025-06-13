@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wenger2025creative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.19361"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.19361'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Numerous powerful large language models (LLMs) are now available for use as
 writing support tools, idea generators, and beyond. Although these LLMs are

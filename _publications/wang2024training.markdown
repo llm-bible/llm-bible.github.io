@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17755"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17755'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Length generalization failure problem, namely the large language model (LLM)
 fails to generalize to texts longer than its maximum training length, greatly

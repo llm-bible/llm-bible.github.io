@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: valois2024frame
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07334"}
-  - {name: "Code", url: "https://github.com/phvv-me/frame-representation-hypothesis.git"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07334'}
+  - {name: "Code", url: 'https://github.com/phvv-me/frame-representation-hypothesis.git'}
+tags: ['Has Code', 'Language Modeling', 'Interpretability and Explainability', 'RAG', 'Applications', 'Tools', 'Ethics and Bias']
 ---
 Interpretability is a key challenge in fostering trust for Large Language
 Models (LLMs), which stems from the complexity of extracting reasoning from

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15527"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15527'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Survey Paper', 'Reinforcement Learning']
 ---
 Evaluating LLMs and text-to-image models is a computationally intensive task
 often overlooked. Efficient evaluation is crucial for understanding the diverse

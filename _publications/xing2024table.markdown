@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xing2024table
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12164"}
-  - {name: "Code", url: "https://github.com/microsoft/Table-LLM-Specialist"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12164'}
+  - {name: "Code", url: 'https://github.com/microsoft/Table-LLM-Specialist'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In this work, we propose Table-LLM-Specialist, or Table-Specialist for short,
 as a new self-trained fine-tuning paradigm specifically designed for table

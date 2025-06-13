@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mu2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.08467"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.08467'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Prompting is the primary way to utilize the multitask capabilities of
 language models (LMs), but prompts occupy valuable space in the input context

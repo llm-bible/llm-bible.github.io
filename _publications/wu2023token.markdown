@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18738"}
-  - {name: "Code", url: "https://github.com/Young1993/tlm"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18738'}
+  - {name: "Code", url: 'https://github.com/Young1993/tlm'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Structured dropout approaches, such as attention dropout and DropHead, have
 been investigated to regularize the multi-head attention mechanism in

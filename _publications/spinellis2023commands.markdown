@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: spinellis2023commands
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06551"}
-tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06551'}
+tags: ['GPT', 'Tools', 'Prompting', 'Model Architecture']
 ---
 Developers and data scientists often struggle to write command-line inputs,
 even though graphical interfaces or tools like ChatGPT can assist. The

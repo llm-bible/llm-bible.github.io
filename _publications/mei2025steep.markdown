@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mei2025steep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14597"}
-tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14597'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) have made remarkable breakthroughs in reasoning,
 yet continue to struggle with hallucinations, logical errors, and inability to

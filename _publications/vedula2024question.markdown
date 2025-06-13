@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vedula2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.01738"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.01738'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Digital assistants have become ubiquitous in e-commerce applications,
 following the recent advancements in Information Retrieval (IR), Natural

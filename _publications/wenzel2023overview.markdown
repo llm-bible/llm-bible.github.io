@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wenzel2023overview
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.00002"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00002'}
 tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Temporal commonsense reasoning refers to the ability to understand the

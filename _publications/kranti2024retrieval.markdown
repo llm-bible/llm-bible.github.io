@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kranti2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17553"}
-tags: ['Applications', 'RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17553'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 In the Minecraft Collaborative Building Task, two players collaborate: an
 Architect (A) provides instructions to a Builder (B) to assemble a specified

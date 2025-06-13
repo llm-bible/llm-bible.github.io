@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: sukhbaatar2019augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1907.01470"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1907.01470'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 Transformer networks have lead to important progress in language modeling and
 machine translation. These models include two consecutive modules, a

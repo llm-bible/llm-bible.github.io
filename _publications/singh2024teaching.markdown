@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00942"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00942'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Communication is defined as "Who says what to whom with what effect". A
 message from a communicator generates downstream receiver effects, also known

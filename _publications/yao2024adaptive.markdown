@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yao2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10725"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10725'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Ethics and Bias']
 ---
 The rapid progress in Large Language Models (LLMs) poses potential risks such
 as generating unethical content. Assessing LLMs' values can help expose their

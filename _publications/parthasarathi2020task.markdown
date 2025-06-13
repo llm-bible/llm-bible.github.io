@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: parthasarathi2020task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.04826"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.04826'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Task-oriented dialogue systems help users accomplish tasks such as booking a
 movie ticket and ordering food via conversation. Generative models

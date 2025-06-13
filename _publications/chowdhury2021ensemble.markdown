@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chowdhury2021ensemble
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.03914"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.03914'}
+tags: ['WMT', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Quality Estimation (QE) is an important component of the machine translation
 workflow as it assesses the quality of the translated output without consulting

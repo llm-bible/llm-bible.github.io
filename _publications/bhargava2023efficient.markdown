@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhargava2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.06245"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.06245'}
 tags: ['Training Techniques']
 ---
 As large dialogue models become commonplace in practice, the problems

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bergner2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16844"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16844'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'GPT', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have become ubiquitous in practice and are
 widely used for generation tasks such as translation, summarization and

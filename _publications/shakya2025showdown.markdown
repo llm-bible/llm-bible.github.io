@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shakya2025showdown
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13549"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13549'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 The advancement of large language models (LLMs) has created a competitive
 landscape for AI-assisted programming tools. This study evaluates two leading

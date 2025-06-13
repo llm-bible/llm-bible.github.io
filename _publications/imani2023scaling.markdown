@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: imani2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12182"}
-  - {name: "Code", url: "https://github.com/cisnlp/Glot500"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12182'}
+  - {name: "Code", url: 'https://github.com/cisnlp/Glot500'}
+tags: ['Reinforcement Learning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 The NLP community has mainly focused on scaling Large Language Models (LLMs)
 vertically, i.e., making them better for about 100 languages. We instead scale

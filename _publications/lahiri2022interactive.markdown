@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lahiri2022interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.05950"}
-tags: ['RAG', 'Efficiency and Optimization', 'Pruning', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.05950'}
+tags: ['RAG', 'Pruning', 'Efficiency and Optimization', 'Applications']
 ---
 Large language models (LLMs) have shown great potential in automating
 significant aspects of coding by producing natural code from informal natural

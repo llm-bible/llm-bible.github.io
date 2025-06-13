@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ji2022rho
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.01588"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.01588'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Dialogue systems can leverage large pre-trained language models and knowledge
 to generate fluent and informative responses. However, these models are still

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025pay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16523"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16523'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 As neural language models achieve human-comparable performance on Machine
 Reading Comprehension (MRC) and see widespread adoption, ensuring their

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: petrov2024limited
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07248"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07248'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Survey Paper', 'Reinforcement Learning']
 ---
 The humanlike responses of large language models (LLMs) have prompted social
 scientists to investigate whether LLMs can be used to simulate human

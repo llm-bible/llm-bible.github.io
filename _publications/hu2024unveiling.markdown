@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06395"}
-  - {name: "Code", url: "https://github.com/OpenBMB/MiniCPM"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06395'}
+  - {name: "Code", url: 'https://github.com/OpenBMB/MiniCPM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Scaling Laws', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 The burgeoning interest in developing Large Language Models (LLMs) with up to
 trillion parameters has been met with concerns regarding resource efficiency

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cabello2023auditing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03024"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03024'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 The recently released ChatGPT model demonstrates unprecedented capabilities
 in zero-shot question-answering. In this work, we probe ChatGPT for its

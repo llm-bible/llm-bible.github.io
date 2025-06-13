@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: suh2025developing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17013"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17013'}
+tags: ['Reinforcement Learning', 'GPT', 'Tools', 'Model Architecture']
 ---
 This study employs the Paul-Elder Critical Thinking Model and Tan's
 argumentative writing framework to create a structured methodology. This

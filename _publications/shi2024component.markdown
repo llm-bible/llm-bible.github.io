@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024component
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03017"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03017'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Embodied Instruction Following (EIF) is a crucial task in embodied learning,
 requiring agents to interact with their environment through egocentric

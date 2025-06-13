@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wambsganss2023unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03311"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03311'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) are increasingly utilized in educational tasks
 such as providing writing suggestions to students. Despite their potential,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: han2019resurrecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.03014"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.03014'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications']
 ---
 Submodularity is desirable for a variety of objectives in content selection
 where the current neural encoder-decoder framework is inadequate. However, it

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024llava
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.07981"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.07981'}
 tags: ['Fine-Tuning', 'Multimodal Models']
 ---
 Multimodal large language models (LLMs) have achieved notable success across

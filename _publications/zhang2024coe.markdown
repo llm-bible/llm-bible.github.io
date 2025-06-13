@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024coe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02712"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02712'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 Recently, Large Language Models (LLMs) have been demonstrated to possess

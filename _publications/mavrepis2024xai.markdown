@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mavrepis2024xai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13110"}
-tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13110'}
+tags: ['GPT', 'Interpretability and Explainability', 'Applications', 'Model Architecture']
 ---
 The field of Explainable Artificial Intelligence (XAI) often focuses on users
 with a strong technical background, making it challenging for non-experts to

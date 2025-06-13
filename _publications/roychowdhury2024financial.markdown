@@ -6,8 +6,8 @@ conference: "IEEE Big Data 2024"
 year: 2024
 bibkey: roychowdhury2024financial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05365"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05365'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent trends in Generative AI have emerged towards fine-tuning foundational
 large language models (LLMs) to create domain-specific LLMs for automation and

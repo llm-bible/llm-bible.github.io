@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: murzaku2025enhanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20791"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20791'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown remarkable progress in understanding
 and generating natural language across various applications. However, they

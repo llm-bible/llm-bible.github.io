@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: berard2017lig
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1707.05118"}
-tags: ['Transformer', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1707.05118'}
+tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper presents the LIG-CRIStAL submission to the shared Automatic Post-
 Editing task of WMT 2017. We propose two neural post-editing models: a

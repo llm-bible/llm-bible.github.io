@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mullick2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02584"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02584'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The ever-increasing volume of digital information necessitates efficient
 methods for users to extract key insights from lengthy documents. Aspect-based

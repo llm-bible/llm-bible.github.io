@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023synergizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15065"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15065'}
 tags: ['Agentic']
 ---
 This empirical study serves as a primer for interested service providers to

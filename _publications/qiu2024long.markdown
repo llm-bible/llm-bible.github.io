@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09962"}
-  - {name: "Code", url: "https://github.com/hanqiu-hq/LongHalQA"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09962'}
+  - {name: "Code", url: 'https://github.com/hanqiu-hq/LongHalQA'}
+tags: ['Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Hallucination, a phenomenon where multimodal large language models~(MLLMs)
 tend to generate textual responses that are plausible but unaligned with the

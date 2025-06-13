@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14017"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14017'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 Generative retrieval has recently emerged as a promising approach to
 sequential recommendation, framing candidate item retrieval as an

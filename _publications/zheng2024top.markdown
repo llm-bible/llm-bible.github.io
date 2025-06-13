@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024top
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18573"}
-  - {name: "Code", url: "https://github.com/DeepSoftwareAnalytics/DomainCodeBench"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18573'}
+  - {name: "Code", url: 'https://github.com/DeepSoftwareAnalytics/DomainCodeBench'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 With the rapid advancement of large language models (LLMs), extensive
 research has been conducted to investigate the code generation capabilities of

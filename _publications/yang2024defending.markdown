@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01446"}
-  - {name: "Code", url: "https://github.com/cure-lab/GuardT2I"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01446'}
+  - {name: "Code", url: 'https://github.com/cure-lab/GuardT2I'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent advancements in Text-to-Image (T2I) models have raised significant
 safety concerns about their potential misuse for generating inappropriate or

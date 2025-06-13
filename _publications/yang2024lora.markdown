@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09947"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09947'}
+tags: ['Agentic', 'Model Architecture', 'Applications', 'Tools', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Effective preference tuning is pivotal in aligning chatbot responses with
 human expectations, enhancing user satisfaction and engagement. Traditional

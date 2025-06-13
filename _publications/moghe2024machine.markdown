@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: moghe2024machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16313"}
-tags: ['WMT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16313'}
+tags: ['Reinforcement Learning', 'WMT', 'Applications']
 ---
 Recent machine translation (MT) metrics calibrate their effectiveness by
 correlating with human judgement but without any insights about their behaviour

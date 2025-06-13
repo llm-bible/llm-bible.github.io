@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bang2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17550"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17550'}
 tags: ['Security', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) often generate responses that deviate from user

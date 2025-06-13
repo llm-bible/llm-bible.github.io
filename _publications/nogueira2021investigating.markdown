@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: nogueira2021investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.13019"}
-  - {name: "Code", url: "https://github.com/castorini/transformers-arithmetic"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.13019'}
+  - {name: "Code", url: 'https://github.com/castorini/transformers-arithmetic'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 The ability to perform arithmetic tasks is a remarkable trait of human
 intelligence and might form a critical component of more complex reasoning

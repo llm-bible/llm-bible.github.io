@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022pay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10190"}
-tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10190'}
+tags: ['Attention Mechanism', 'Training Techniques', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 We introduce \textsc\{PoliteRewrite\} -- a dataset for polite language rewrite
 which is a novel sentence rewrite task. Compared with previous text style

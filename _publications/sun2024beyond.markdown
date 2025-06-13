@@ -6,8 +6,8 @@ conference: "Transactions on Machine Learning Research 2024"
 year: 2024
 bibkey: sun2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03494"}
-tags: ['Interpretability', 'Security', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03494'}
+tags: ['GPT', 'Interpretability', 'Security', 'Model Architecture']
 ---
 While LLMs excel in processing text in these human conversations, they
 struggle with the nuances of verbal instructions in scenarios like social

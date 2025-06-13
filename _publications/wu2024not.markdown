@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15226"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15226'}
+tags: ['Attention Mechanism', 'Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture']
 ---
 In this paper, we propose a novel parameter and computation efficient tuning
 method for Multi-modal Large Language Models (MLLMs), termed Efficient

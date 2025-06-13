@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023crosslingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00587"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00587'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 The promise of Large Language Models (LLMs) in Natural Language Processing

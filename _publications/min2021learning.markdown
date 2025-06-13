@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: min2021learning
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2110.15943v2"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2110.15943v2'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 We introduce MetaICL (Meta-training for In-Context Learning), a new
 meta-training framework for few-shot learning where a pretrained language model

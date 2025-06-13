@@ -6,8 +6,8 @@ conference: "ICLR 2025 Workshop on Building Trust in Language Models and Applica
 year: 2025
 bibkey: djuhera2025preserving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17239"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17239'}
+tags: ['Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on downstream tasks can
 inadvertently erode their safety alignment, even for benign fine-tuning

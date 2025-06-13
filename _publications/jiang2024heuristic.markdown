@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024heuristic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06063"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06063'}
+tags: ['Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Few-Shot Aspect-Based Sentiment Analysis (FSABSA) is an indispensable and
 highly challenging task in natural language processing. However, methods based

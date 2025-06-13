@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: baartmans2025ml
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08852"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08852'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning']
 ---
 The increasing size and complexity of machine learning (ML) models have
 driven the growing need for custom hardware accelerators capable of efficiently

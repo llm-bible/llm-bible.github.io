@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05520"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05520'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Reinforcement finetuning (RFT) has shown great potential for enhancing the
 mathematical reasoning capabilities of large language models (LLMs), but it is

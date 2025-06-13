@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shinn2023language
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.11366v4"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.11366v4'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been increasingly used to interact with
 external environments (e.g., games, compilers, APIs) as goal-driven agents.

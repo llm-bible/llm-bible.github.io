@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024coarse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14228"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14228'}
 tags: ['Efficiency and Optimization']
 ---
 Recent advances on Multi-modal Large Language Models have demonstrated that

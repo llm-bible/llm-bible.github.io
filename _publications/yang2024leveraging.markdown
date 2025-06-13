@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15915"}
-  - {name: "Code", url: "https://github.com/Yaphabates/Rocket"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15915'}
+  - {name: "Code", url: 'https://github.com/Yaphabates/Rocket'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The cultivation of expertise for large language models (LLMs) to solve tasks
 of specific areas often requires special-purpose tuning with calibrated

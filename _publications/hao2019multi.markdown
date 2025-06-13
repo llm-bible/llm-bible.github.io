@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: hao2019multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.02222"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.02222'}
+tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Applications', 'Model Architecture']
 ---
 Current state-of-the-art neural machine translation (NMT) uses a deep
 multi-head self-attention network with no explicit phrase information. However,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023infor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12458"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12458'}
+tags: ['Transformer', 'Efficiency and Optimization', 'BERT', 'Model Architecture', 'Pruning', 'Pretraining Methods']
 ---
 The prevalence of Transformer-based pre-trained language models (PLMs) has
 led to their wide adoption for various natural language processing tasks.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zan2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12332"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12332'}
 tags: ['Reinforcement Learning']
 ---
 Users of Large Language Models (LLMs) often perceive these models as

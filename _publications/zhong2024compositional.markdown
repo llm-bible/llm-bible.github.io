@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05756"}
-tags: ['Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05756'}
+tags: ['Language Modeling', 'Applications', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods']
 ---
 Composed Image Retrieval (CIR) involves retrieving a target image based on a
 composed query of an image paired with text that specifies modifications or

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024moe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00875"}
-tags: ['Fine-Tuning', 'Tools', 'Language Modeling', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00875'}
+tags: ['Language Modeling', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning']
 ---
 The advent of large language models (LLMs) has predominantly catered to
 high-resource languages, leaving a disparity in performance for low-resource

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: barke2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15880"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15880'}
 tags: ['Reinforcement Learning']
 ---
 Many structured prediction and reasoning tasks can be framed as program

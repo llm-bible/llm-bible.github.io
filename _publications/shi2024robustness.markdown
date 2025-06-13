@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024robustness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18196"}
-tags: ['Efficiency and Optimization', 'RAG', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18196'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Prompting']
 ---
 The performance of Large Language Models (LLMs) depends on the quality of
 prompts and the semantic and structural integrity of the input data. However,

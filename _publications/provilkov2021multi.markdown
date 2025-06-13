@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: provilkov2021multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.06253"}
-tags: ['INTERSPEECH', 'GPT', 'Applications', 'Ethics and Bias', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.06253'}
+tags: ['INTERSPEECH', 'WMT', 'Training Techniques', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Neural Machine Translation (NMT) is known to suffer from a beam-search
 problem: after a certain point, increasing beam size causes an overall drop in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nguyen2025implementing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16276"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16276'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Tools']
 ---
 With the rapid advancement of Artificial Intelligence, particularly in
 Natural Language Processing, Large Language Models (LLMs) have become pivotal

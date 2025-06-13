@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: brandl2024comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03296"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03296'}
 tags: ['Interpretability and Explainability']
 ---
 Instruction-tuned LLMs are able to provide an explanation about their output

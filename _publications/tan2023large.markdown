@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14708"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14708'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reciprocal questioning is essential for effective teaching and learning,
 fostering active engagement and deeper understanding through collaborative

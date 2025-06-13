@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: krishna2021hurdles
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.06332"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.06332'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The task of long-form question answering (LFQA) involves retrieving documents
 relevant to a given question and using them to generate a paragraph-length

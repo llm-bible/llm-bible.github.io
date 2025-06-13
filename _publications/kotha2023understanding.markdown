@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kotha2023understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10105"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10105'}
+tags: ['Agentic', 'In-Context Learning', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 We lack a systematic understanding of the effects of fine-tuning (via methods
 such as instruction-tuning or reinforcement learning from human feedback),

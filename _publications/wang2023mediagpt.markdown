@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023mediagpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10930"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10930'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting']
 ---
 Large language models (LLMs) have shown remarkable capabilities in generating
 high-quality text and making predictions based on large amounts of data,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025demystifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12663"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12663'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) are designed to perform a wide range of tasks.
 To improve their ability to solve complex problems requiring multi-step

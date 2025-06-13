@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hillier2024super
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14159"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14159'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Tools', 'Tokenization', 'Pretraining Methods']
 ---
 The rapid advancement of large language models (LLMs) has led to significant
 improvements in natural language processing but also poses challenges due to

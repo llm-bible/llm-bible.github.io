@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13028"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13028'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In-context learning (ICL) of large language models (LLMs) has attracted
 increasing attention in the community where LLMs make predictions only based on

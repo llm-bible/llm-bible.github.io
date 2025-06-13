@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024symbolic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13654"}
-  - {name: "Code", url: "https://github.com/SiyuanWangw/RuleApplication}."}
-tags: ['Security', 'Tools', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13654'}
+  - {name: "Code", url: 'https://github.com/SiyuanWangw/RuleApplication}.'}
+tags: ['Reinforcement Learning', 'Has Code', 'Security', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable reasoning performance but
 struggle with multi-step deductive reasoning involving a series of rule

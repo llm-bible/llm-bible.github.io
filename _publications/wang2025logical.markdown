@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025logical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09589"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09589'}
 tags: ['Uncategorized']
 ---
 With the increasing interest in using large language models (LLMs) for

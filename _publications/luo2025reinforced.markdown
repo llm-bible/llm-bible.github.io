@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025reinforced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08908"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08908'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 To take advantage of Large Language Model in theorem formalization and proof,
 we propose a reinforcement learning framework to iteratively optimize the

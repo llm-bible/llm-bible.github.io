@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: topal2021exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2102.08036"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Large-Scale Training', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2102.08036'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Language Modeling', 'Transformer', 'GPT', 'Model Architecture', 'BERT', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 Recent years have seen a proliferation of attention mechanisms and the rise
 of Transformers in Natural Language Generation (NLG). Previously,

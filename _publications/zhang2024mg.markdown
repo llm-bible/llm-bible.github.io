@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024mg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01910"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01910'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have recently shown promise in streamlining
 hardware design processes by encapsulating vast amounts of domain-specific

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024reaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07413"}
-  - {name: "Code", url: "https://github.com/myshell-ai/JetMoE"}
-tags: ['Ethics and Bias', 'RAG', 'TACL', 'Model Architecture', 'ACL', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07413'}
+  - {name: "Code", url: 'https://github.com/myshell-ai/JetMoE'}
+tags: ['Attention Mechanism', 'Has Code', 'ACL', 'RAG', 'Model Architecture', 'Training Techniques', 'Ethics and Bias', 'Interpretability', 'TACL']
 ---
 Large Language Models (LLMs) have achieved remarkable results, but their
 increasing resource demand has become a major obstacle to the development of

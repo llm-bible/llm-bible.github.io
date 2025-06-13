@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10080"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10080'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 Recent years have seen considerable advancements in multi-step reasoning with
 Large Language Models (LLMs). The previous studies have elucidated the merits

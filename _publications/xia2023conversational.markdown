@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xia2023conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.13246"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.13246'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Automated Program Repair (APR) can help developers automatically generate

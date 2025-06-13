@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shayegani2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10844"}
-tags: ['Responsible AI', 'Agentic', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Merging', 'Security', 'Agent', 'COLING']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10844'}
+tags: ['Agentic', 'ACL', 'Agent', 'Security', 'Model Architecture', 'GPT', 'Merging', 'COLING', 'Survey Paper', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) are swiftly advancing in architecture and
 capability, and as they integrate more deeply into complex systems, the urgency

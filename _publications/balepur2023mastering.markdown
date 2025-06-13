@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: balepur2023mastering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14750"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14750'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 When answering complex questions, large language models (LLMs) may produce
 answers that do not satisfy all criteria of the question. While existing

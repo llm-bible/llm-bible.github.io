@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ou2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06828"}
-tags: ['Applications', 'Training Techniques', 'Efficiency and Optimization', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06828'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 Multi-modal large language models (MLLMs) have achieved remarkable success in
 image- and region-level remote sensing (RS) image understanding tasks, such as

@@ -6,9 +6,9 @@ conference: "IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025"
 year: 2024
 bibkey: cai2024survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06204"}
-  - {name: "Code", url: "https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs"}
-tags: ['Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06204'}
+  - {name: "Code", url: 'https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Survey Paper', 'In-Context Learning']
 ---
 Large language models (LLMs) have garnered unprecedented advancements across
 diverse fields, ranging from natural language processing to computer vision and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tamber2024hide
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09355"}
-tags: ['Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09355'}
+tags: ['Tools', 'Training Techniques']
 ---
 Embedding models that generate dense vector representations of text are
 widely used and hold significant commercial value. Companies such as OpenAI and

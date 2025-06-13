@@ -6,7 +6,7 @@ conference: "Journal of Advanced Computational Intelligence and Intelligent Info
 year: 2024
 bibkey: tokutake2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07499"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07499'}
 tags: ['RAG', 'RecSys', 'Prompting']
 ---
 Serendipity-oriented recommender systems aim to counteract

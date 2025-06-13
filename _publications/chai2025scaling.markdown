@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chai2025scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04421"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'RecSys', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04421'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Scaling Laws', 'RecSys', 'Pre-Training', 'Pretraining Methods']
 ---
 Modeling ultra-long user behavior sequences is critical for capturing both
 long- and short-term preferences in industrial recommender systems. Existing

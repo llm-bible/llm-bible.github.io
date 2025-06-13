@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09125"}
-  - {name: "Code", url: "https://github.com/Leon-Leyang/LLM-Safeguard"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09125'}
+  - {name: "Code", url: 'https://github.com/Leon-Leyang/LLM-Safeguard'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Prompting', 'Responsible AI']
 ---
 Large Language Models (LLMs) have demonstrated exceptional capabilities
 across various natural language processing tasks. Due to their training on

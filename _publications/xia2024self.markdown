@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06916"}
-  - {name: "Code", url: "https://github.com/hemingkx/SWIFT"}
-tags: ['Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06916'}
+  - {name: "Code", url: 'https://github.com/hemingkx/SWIFT'}
+tags: ['Has Code', 'Training Techniques']
 ---
 Speculative decoding (SD) has emerged as a widely used paradigm to accelerate
 LLM inference without compromising quality. It works by first employing a

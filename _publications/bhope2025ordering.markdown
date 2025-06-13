@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bhope2025ordering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15030"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15030'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 Developers using LLMs and LLM-based agents in their applications have
 provided plenty of anecdotal evidence that in-context-learning (ICL) is

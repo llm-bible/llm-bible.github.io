@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023plug
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2304.09842v3"}
-tags: ['Few-Shot', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2304.09842v3'}
+tags: ['Few-Shot', 'Model Architecture', 'Tools', 'GPT']
 ---
 Large language models (LLMs) have achieved remarkable progress in solving
 various natural language processing tasks due to emergent reasoning abilities.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03275"}
-tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03275'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Causal Language Modeling (CLM) and Masked Language Modeling (MLM) are two
 mainstream learning paradigms based on Transformer networks, specifically the

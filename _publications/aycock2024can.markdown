@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aycock2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19151"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19151'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Extremely low-resource (XLR) languages lack substantial corpora for training
 NLP models, motivating the use of all available resources such as dictionaries

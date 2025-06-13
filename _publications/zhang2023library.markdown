@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023library
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18658"}
-tags: ['RAG', 'Tools', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18658'}
+tags: ['Few-Shot', 'RAG', 'Tools']
 ---
 In light of the rapidly evolving capabilities of large language models
 (LLMs), it becomes imperative to develop rigorous domain-specific evaluation

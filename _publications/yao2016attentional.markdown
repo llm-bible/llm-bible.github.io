@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2016
 bibkey: yao2016attentional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1606.01292"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1606.01292'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 In this paper we propose a neural conversation model for conducting

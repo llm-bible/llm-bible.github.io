@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21772"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21772'}
 tags: ['Responsible AI']
 ---
 We present ShieldGemma, a comprehensive suite of LLM-based safety content

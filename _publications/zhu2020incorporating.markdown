@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhu2020incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.06823"}
-  - {name: "Code", url: "https://github.com/bert-nmt/bert-nmt"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.06823'}
+  - {name: "Code", url: 'https://github.com/bert-nmt/bert-nmt'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The recently proposed BERT has shown great power on a variety of natural
 language understanding tasks, such as text classification, reading

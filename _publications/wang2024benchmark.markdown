@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13711"}
-tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13711'}
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The rise of powerful multimodal LLMs has enhanced the viability of building
 web agents which can, with increasing levels of autonomy, assist users to

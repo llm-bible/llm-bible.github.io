@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024critic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16326"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16326'}
+tags: ['Prompting', 'Tools']
 ---
 Self-critic has become a crucial mechanism for enhancing the reasoning
 performance of LLMs. However, current approaches mainly involve basic prompts

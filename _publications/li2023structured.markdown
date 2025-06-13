@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11222"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11222'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Quantization', 'Pruning', 'Pretraining Methods']
 ---
 Transformer models have achieved remarkable results in various natural
 language tasks, but they are often prohibitively large, requiring massive

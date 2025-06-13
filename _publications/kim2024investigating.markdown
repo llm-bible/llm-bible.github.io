@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16315"}
-tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16315'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability']
 ---
 Recent advances in instruction-tuned Large Vision-Language Models (LVLMs)
 have imbued the models with the ability to generate high-level, image-grounded

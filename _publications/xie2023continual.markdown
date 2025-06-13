@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06707"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06707'}
+tags: ['Pre-Training', 'RAG', 'Training Techniques']
 ---
 In light of the success of the pre-trained language models (PLMs), continual
 pre-training of generic PLMs has been the paradigm of domain adaption. In this

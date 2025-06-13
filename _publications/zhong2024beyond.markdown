@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhong2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10811"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10811'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 In this study, we investigate whether non-English-centric LLMs, despite their
 strong performance, `think' in their respective dominant language: more

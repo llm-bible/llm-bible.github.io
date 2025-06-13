@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021joint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.06597"}
-tags: ['Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.06597'}
+tags: ['Language Modeling', 'GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 Recent advances in large-scale pre-training such as GPT-3 allow seemingly
 high quality text to be generated from a given prompt. However, such generation

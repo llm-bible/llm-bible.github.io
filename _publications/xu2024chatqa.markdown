@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024chatqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14482"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14482'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 In this work, we introduce ChatQA 2, an Llama 3.0-based model with a 128K
 context window, designed to bridge the gap between open-source LLMs and leading

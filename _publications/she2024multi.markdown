@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: she2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18193"}
-tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18193'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 In this report, we introduce MammothModa, yet another multi-modal large
 language model (MLLM) designed to achieve state-of-the-art performance starting

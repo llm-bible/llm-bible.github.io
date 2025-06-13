@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08474"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08474'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) are advancing the ability to reason
 about complex sports scenarios by integrating textual and visual information.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: siddiqui2024deeper
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16286"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16286'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are not only resource-intensive to train but
 even more costly to deploy in production. Therefore, recent work has attempted

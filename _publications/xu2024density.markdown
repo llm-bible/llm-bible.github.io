@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024density
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02481"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02481'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Preference tuning relies on high-quality human preference data, which is
 often expensive and time-consuming to gather. In this paper, we introduce

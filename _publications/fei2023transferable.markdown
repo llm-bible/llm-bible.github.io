@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: fei2023transferable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16525"}
-  - {name: "Code", url: "https://github.com/FeiElysia/ViECap"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16525'}
+  - {name: "Code", url: 'https://github.com/FeiElysia/ViECap'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'Multimodal Models', 'Ethics and Bias']
 ---
 Image-to-text generation aims to describe images using natural language.
 Recently, zero-shot image captioning based on pre-trained vision-language

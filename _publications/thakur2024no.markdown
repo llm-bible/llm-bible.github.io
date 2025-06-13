@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: thakur2024no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15735"}
-  - {name: "Code", url: "https://github.com/huggingface/autotrain-advanced"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15735'}
+  - {name: "Code", url: 'https://github.com/huggingface/autotrain-advanced'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 With the advancements in open-source models, training (or finetuning) models
 on custom datasets has become a crucial part of developing solutions which are

@@ -6,8 +6,8 @@ conference: "Proceedings of the 41st International Conference on Machine Learnin
 year: 2024
 bibkey: rushing2024explorations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15390"}
-tags: ['Fine-Tuning', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15390'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Prompting']
 ---
 Prior interpretability research studying narrow distributions has
 preliminarily identified self-repair, a phenomena where if components in large

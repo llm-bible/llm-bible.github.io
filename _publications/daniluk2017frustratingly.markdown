@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: daniluk2017frustratingly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1702.04521"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1702.04521'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture']
 ---
 Neural language models predict the next token using a latent representation
 of the immediate token history. Recently, various methods for augmenting neural

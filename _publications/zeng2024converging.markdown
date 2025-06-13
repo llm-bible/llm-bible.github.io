@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024converging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11718"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11718'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated remarkable performance,
 particularly in multilingual contexts. While recent studies suggest that LLMs

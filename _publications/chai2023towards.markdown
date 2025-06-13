@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chai2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08162"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'LREC', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08162'}
+tags: ['LREC', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We introduce a method that dramatically reduces fine-tuning VRAM requirements
 and rectifies quantization errors in quantized Large Language Models. First, we

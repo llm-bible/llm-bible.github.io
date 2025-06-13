@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: levonian2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03184"}
-tags: ['RAG', 'Survey Paper', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03184'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Survey Paper']
 ---
 For middle-school math students, interactive question-answering (QA) with
 tutors is an effective way to learn. The flexibility and emergent capabilities

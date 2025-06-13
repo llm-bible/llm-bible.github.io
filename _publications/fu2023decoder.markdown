@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023decoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.04052"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.04052'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 The sequence-to-sequence (seq2seq) task aims at generating the target
 sequence based on the given input source sequence. Traditionally, most of the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024progress
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05013"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05013'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Tools']
 ---
 Self-improvement through post-training methods such as iterative preference
 learning has been acclaimed for enhancing the problem-solving capabilities

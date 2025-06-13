@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025commercial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08586"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08586'}
+tags: ['Agentic', 'Security', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 A high volume of recent ML security literature focuses on attacks against
 aligned large language models (LLMs). These attacks may extract private

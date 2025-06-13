@@ -6,8 +6,8 @@ conference: "Canadian AI 2019"
 year: 2018
 bibkey: gagnonmarchand2018salsa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.11155"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.11155'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Security', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Inspired by the success of self attention mechanism and Transformer
 architecture in sequence transduction and image generation applications, we

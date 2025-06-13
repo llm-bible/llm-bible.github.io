@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024recent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18653"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Survey Paper', 'Applications', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18653'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Pre-Training']
 ---
 Recently, foundation language models (LMs) have marked significant
 achievements in the domains of natural language processing (NLP) and computer

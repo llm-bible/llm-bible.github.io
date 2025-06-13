@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024verbalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04344"}
-tags: ['Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04344'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 Motivated by the progress made by large language models (LLMs), we introduce
 the framework of verbalized machine learning (VML). In contrast to conventional

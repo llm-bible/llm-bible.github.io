@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: parakh2023lifelong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14321"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14321'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) have been shown to act like planners that can
 decompose high-level instructions into a sequence of executable instructions.

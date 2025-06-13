@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024freeze
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00774"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00774'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Applications', 'Model Architecture', 'GPT', 'Multimodal Models']
 ---
 Rapidly developing large language models (LLMs) have brought tremendous
 intelligent applications. Especially, the GPT-4o's excellent duplex speech

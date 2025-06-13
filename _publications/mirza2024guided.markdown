@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mirza2024guided
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06154"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Ethics and Bias', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06154'}
+tags: ['Efficiency and Optimization', 'Security', 'Prompting', 'Multimodal Models', 'Ethics and Bias', 'Responsible AI']
 ---
 In this work, we propose GLOV, which enables Large Language Models (LLMs) to
 act as implicit optimizers for Vision-Language Models (VLMs) to enhance

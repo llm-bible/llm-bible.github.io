@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: stap2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20089"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20089'}
+tags: ['Few-Shot', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) for machine translation has shown
 improvements in overall translation quality. However, it is unclear what is the

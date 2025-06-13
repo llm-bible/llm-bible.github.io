@@ -6,8 +6,8 @@ conference: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI
 year: 2024
 bibkey: fu2024mia
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08661"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08661'}
+tags: ['Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training']
 ---
 The increasing parameters and expansive dataset of large language models
 (LLMs) highlight the urgent demand for a technical solution to audit the

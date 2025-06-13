@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: stolfo2023mechanistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15054"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15054'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Mathematical reasoning in large language models (LMs) has garnered
 significant attention in recent work, but there is a limited understanding of

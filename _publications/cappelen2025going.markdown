@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: cappelen2025going
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13988"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13988'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 This work defends the 'Whole Hog Thesis': sophisticated Large Language Models

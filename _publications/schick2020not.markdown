@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: schick2020not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.07118"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.07118'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications']
 ---
 When scaled to hundreds of billions of parameters, pretrained language models
 such as GPT-3 (Brown et al., 2020) achieve remarkable few-shot performance.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08581"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08581'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Despite the well-established importance of feedback in education, the
 application of Artificial Intelligence (AI)-generated feedback, particularly

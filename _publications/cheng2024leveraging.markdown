@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09177"}
-tags: ['Security', 'RAG', 'GPT', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09177'}
+tags: ['RAG', 'Security', 'GPT', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are susceptible to Jailbreaking attacks, which
 aim to extract harmful information by subtly modifying the attack query. As

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shao2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05559"}
-tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05559'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 The increasing availability of large-scale datasets has fueled rapid progress
 across many scientific fields, creating unprecedented opportunities for

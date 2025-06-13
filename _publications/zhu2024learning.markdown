@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14121"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14121'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Constructing high-quality Supervised Fine-Tuning (SFT) datasets is critical
 for the training of large language models (LLMs). Recent studies have shown

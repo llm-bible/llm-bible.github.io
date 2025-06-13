@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023chat
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.14524v2"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'RecSys', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.14524v2'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Interpretability']
 ---
 Large language models (LLMs) have demonstrated their significant potential to
 be applied for addressing various application tasks. However, traditional

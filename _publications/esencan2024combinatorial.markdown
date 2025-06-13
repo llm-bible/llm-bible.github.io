@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: esencan2024combinatorial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00071"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00071'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 Recent Large Language Models (LLMs) have demonstrated impressive capabilities
 at tasks that require human intelligence and are a significant step towards

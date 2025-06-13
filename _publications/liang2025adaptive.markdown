@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liang2025adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20106"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20106'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Ensuring that large language models (LLMs) are both helpful and harmless is a
 critical challenge, as overly strict constraints can lead to excessive

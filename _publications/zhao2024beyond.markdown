@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16824"}
-tags: ['Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16824'}
+tags: ['Multimodal Models', 'Tools']
 ---
 Does seeing always mean knowing? Large Vision-Language Models (LVLMs)
 integrate separately pre-trained vision and language components, often using

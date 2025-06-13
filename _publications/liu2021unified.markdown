@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: liu2021unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.05587"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.05587'}
+tags: ['Masked Language Model', 'Language Modeling', 'Few-Shot', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Multimodal Models', 'Prompting', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Most existing vision-language pre-training methods focus on understanding
 tasks and use BERT-like objectives (masked language modeling and image-text

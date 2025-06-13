@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02338"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02338'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) has gained significant popularity in
 modern Large Language Models (LLMs) due to its effectiveness in introducing new

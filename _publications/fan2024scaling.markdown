@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13863"}
-tags: ['Transformer', 'GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13863'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'GPT', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Scaling up autoregressive models in vision has not proven as beneficial as in
 large language models. In this work, we investigate this scaling problem in the

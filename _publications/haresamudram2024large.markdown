@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: haresamudram2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05900"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05900'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 The astonishing success of Large Language Models (LLMs) in Natural Language
 Processing (NLP) has spurred their use in many application domains beyond text

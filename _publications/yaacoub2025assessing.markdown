@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yaacoub2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14232"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14232'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'BERT', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study evaluates the integration of Bloom's Taxonomy into OneClickQuiz,
 an Artificial Intelligence (AI) driven plugin for automating Multiple-Choice

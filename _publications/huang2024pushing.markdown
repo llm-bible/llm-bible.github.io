@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024pushing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04291"}
-  - {name: "Code", url: "https://github.com/Aaronhuang-778/BiLLM"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04291'}
+  - {name: "Code", url: 'https://github.com/Aaronhuang-778/BiLLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Quantization']
 ---
 Pretrained large language models (LLMs) exhibit exceptional general language
 processing capabilities but come with significant demands on memory and

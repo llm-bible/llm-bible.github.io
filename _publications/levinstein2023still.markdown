@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: levinstein2023still
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.00175"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.00175'}
 tags: ['Uncategorized']
 ---
 We consider the questions of whether or not large language models (LLMs) have

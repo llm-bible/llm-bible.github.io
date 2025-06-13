@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024tip
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14404"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14404'}
 tags: ['Fine-Tuning', 'Prompting']
 ---
 Probing and enhancing large language models' reasoning capacity remains a

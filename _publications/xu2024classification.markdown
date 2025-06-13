@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024classification
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16203"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16203'}
 tags: ['Reinforcement Learning']
 ---
 In many classification tasks designed for AI or human to solve, gold labels

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023pangu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.14936"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14936'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models for Code (Code LLM) are flourishing. New and powerful
 models are released on a weekly basis, demonstrating remarkable performance on

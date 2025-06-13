@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.03512"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Agent']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.03512'}
+tags: ['Agentic', 'Agent', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Since the first instances of online education, where courses were uploaded to
 accessible and shared online platforms, this form of scaling the dissemination

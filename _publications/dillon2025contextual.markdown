@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dillon2025contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02046"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02046'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications']
 ---
 Memory retention challenges in deep neural architectures have ongoing
 limitations in the ability to process and recall extended contextual

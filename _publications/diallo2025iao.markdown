@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: diallo2025iao
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03080"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03080'}
+tags: ['RAG', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 While Large Language Models (LLMs) demonstrate impressive reasoning
 capabilities, understanding and validating their knowledge utilization remains

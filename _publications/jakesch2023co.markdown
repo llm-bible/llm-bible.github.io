@@ -6,7 +6,7 @@ conference: "Proceedings of the 2023 CHI Conference on Human Factors in Computin
 year: 2023
 bibkey: jakesch2023co
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.00560"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.00560'}
 tags: ['GPT', 'Model Architecture', 'Survey Paper']
 ---
 If large language models like GPT-3 preferably produce a particular point of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024stealthy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14836"}
-tags: ['Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14836'}
+tags: ['Security', 'Training Techniques', 'Tools', 'RecSys', 'Reinforcement Learning']
 ---
 Recently, the powerful large language models (LLMs) have been instrumental in
 propelling the progress of recommender systems (RS). However, while these

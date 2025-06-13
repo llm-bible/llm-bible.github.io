@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: tao2025chunk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23294"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23294'}
 tags: ['Efficiency and Optimization', 'Quantization']
 ---
 Recently, large language models (LLMs) have been able to handle longer and

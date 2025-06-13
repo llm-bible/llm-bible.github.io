@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: abdallah2023generator
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11278"}
-  - {name: "Code", url: "https://github.com/abdoelsayed2016/GRG"}
-tags: ['Has Code', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11278'}
+  - {name: "Code", url: 'https://github.com/abdoelsayed2016/GRG'}
+tags: ['Prompting', 'Has Code', 'Applications']
 ---
 Open-domain question answering (QA) tasks usually require the retrieval of
 relevant information from a large corpus to generate accurate answers. We

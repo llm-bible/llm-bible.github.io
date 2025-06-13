@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: shen2021text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.05778"}
-tags: ['Tools', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.05778'}
+tags: ['Attention Mechanism', 'Tools', 'Model Architecture']
 ---
 Open-domain dialogue generation in natural language processing (NLP) is by
 default a pure-language task, which aims to satisfy human need for daily

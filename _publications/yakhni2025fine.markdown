@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yakhni2025fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00114"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00114'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper examines the effectiveness of Large Language Models (LLMs) in
 translating the low-resource Lebanese dialect, focusing on the impact of

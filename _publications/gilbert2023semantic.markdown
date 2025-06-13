@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gilbert2023semantic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.12512"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.12512'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 The rise of large language models (LLMs) is revolutionizing information
 retrieval, question answering, summarization, and code generation tasks.

@@ -6,7 +6,7 @@ conference: "Proceedings of the First Workshop on Advances in Language and Visio
 year: 2021
 bibkey: faghihi2021latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.04727"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.04727'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 We propose a novel alignment mechanism to deal with procedural reasoning on a

@@ -6,8 +6,8 @@ conference: "RANLP 2023 14th Conf. Recent Advances in NLP pp. 637 to 643 Varna B
 year: 2023
 bibkey: li2023practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13205"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13205'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Prompting', 'Survey Paper', 'In-Context Learning']
 ---
 The remarkable advancements in large language models (LLMs) have brought
 about significant improvements in Natural Language Processing(NLP) tasks. This

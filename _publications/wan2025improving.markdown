@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wan2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01328"}
-  - {name: "Code", url: "https://github.com/sail-sg/zero-bubble-pipeline-parallelism}{this"}
-tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01328'}
+  - {name: "Code", url: 'https://github.com/sail-sg/zero-bubble-pipeline-parallelism}{this'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
 ---
 Pipeline parallelism (PP) is widely used for training large language models
 (LLMs), yet its scalability is often constrained by high activation memory

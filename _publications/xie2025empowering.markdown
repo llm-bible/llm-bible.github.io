@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15080"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15080'}
 tags: ['RAG', 'Applications']
 ---
 While large language models (LLMs) have been widely applied to code

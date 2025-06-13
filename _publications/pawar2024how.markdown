@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pawar2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07872"}
-tags: ['Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07872'}
+tags: ['Applications', 'Survey Paper']
 ---
 The advent of Large Language Models (LLMs) represents a notable breakthrough
 in Natural Language Processing (NLP), contributing to substantial progress in

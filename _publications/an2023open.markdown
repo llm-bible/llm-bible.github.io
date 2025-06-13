@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: an2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07749"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07749'}
+tags: ['Language Modeling', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This work investigates a challenging task named open-domain interleaved
 image-text generation, which generates interleaved texts and images following

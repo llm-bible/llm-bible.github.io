@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: kumar2022multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.05814"}
-  - {name: "Code", url: "https://github.com/gokulkarthik/mucot"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.05814'}
+  - {name: "Code", url: 'https://github.com/gokulkarthik/mucot'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Accuracy of English-language Question Answering (QA) systems has improved
 significantly in recent years with the advent of Transformer-based models

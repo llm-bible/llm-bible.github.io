@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: trofimova2024synergistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11585"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11585'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In the ever-evolving landscape of machine learning, seamless translation of
 natural language descriptions into executable code remains a formidable

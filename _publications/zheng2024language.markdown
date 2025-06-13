@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17632"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17632'}
 tags: ['Tools', 'Applications']
 ---
 Large Language Models (LLMs) are increasingly used in everyday life and

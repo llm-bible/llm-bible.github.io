@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12859"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12859'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) adapt well to downstream tasks after
 fine-tuning, this adaptability often compromises prompt robustness, as even

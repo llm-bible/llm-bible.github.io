@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025predictive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18883"}
-tags: ['Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18883'}
+tags: ['Prompting', 'Training Techniques']
 ---
 Large Language Models (LLMs) are machine learning models that have seen
 widespread adoption due to their capability of handling previously difficult

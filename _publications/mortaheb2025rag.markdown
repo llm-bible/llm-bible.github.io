@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mortaheb2025rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03995"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03995'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) improves large language models (LLMs) by
 using external knowledge to guide response generation, reducing hallucinations.

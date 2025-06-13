@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09182"}
-  - {name: "Code", url: "https://github.com/ddhruvkr/CONTRADOC)"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09182'}
+  - {name: "Code", url: 'https://github.com/ddhruvkr/CONTRADOC)'}
 tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In recent times, large language models (LLMs) have shown impressive

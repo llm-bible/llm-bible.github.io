@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ping2025training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16528"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16528'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) have demonstrated remarkable
 capabilities in code generation tasks. However, when applied to hardware

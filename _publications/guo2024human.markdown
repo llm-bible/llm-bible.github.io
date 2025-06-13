@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06785"}
-tags: ['Responsible AI', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06785'}
+tags: ['Reinforcement Learning', 'Prompting', 'Responsible AI', 'In-Context Learning']
 ---
 Aligning large language models (LLMs) with human values is a vital task for
 LLM practitioners. Current alignment techniques have several limitations: (1)

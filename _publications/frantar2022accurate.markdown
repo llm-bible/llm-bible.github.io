@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: frantar2022accurate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.17323"}
-  - {name: "Code", url: "https://github.com/IST-DASLab/gptq"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.17323'}
+  - {name: "Code", url: 'https://github.com/IST-DASLab/gptq'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization', 'Merging', 'Pretraining Methods']
 ---
 Generative Pre-trained Transformer models, known as GPT or OPT, set
 themselves apart through breakthrough performance across complex language

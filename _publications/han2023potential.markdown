@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: han2023potential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13805"}
-tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13805'}
+tags: ['Arxiv', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Survey Paper', 'In-Context Learning']
 ---
 Recently, computer scientists have developed large language models (LLMs) by
 training prediction models with large-scale language corpora and human

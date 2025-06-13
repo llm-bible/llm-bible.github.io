@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11667"}
-  - {name: "Code", url: "https://github.com/zhenyu-02/LogitLens4LLMs"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11667'}
+  - {name: "Code", url: 'https://github.com/zhenyu-02/LogitLens4LLMs'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper introduces LogitLens4LLMs, a toolkit that extends the Logit Lens
 technique to modern large language models. While Logit Lens has been a crucial

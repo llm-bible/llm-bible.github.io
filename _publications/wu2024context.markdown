@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15914"}
-tags: ['Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15914'}
+tags: ['Reinforcement Learning', 'Prompting', 'Efficiency and Optimization']
 ---
 Recent advances in text-to-image personalization have enabled high-quality
 and controllable image synthesis for user-provided concepts. However, existing

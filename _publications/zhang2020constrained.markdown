@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020constrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.00558"}
-  - {name: "Code", url: "https://github.com/dreasysnail/POINTER)"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00558'}
+  - {name: "Code", url: 'https://github.com/dreasysnail/POINTER)'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Large-scale pre-trained language models, such as BERT and GPT-2, have
 achieved excellent performance in language representation learning and

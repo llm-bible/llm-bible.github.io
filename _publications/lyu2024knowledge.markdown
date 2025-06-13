@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11176"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11176'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Despite their success at many natural language processing (NLP) tasks, large
 language models still struggle to effectively leverage knowledge for

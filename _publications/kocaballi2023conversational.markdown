@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kocaballi2023conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.07406"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.07406'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 The recent advancements in Large Language Models (LLMs), particularly
 conversational LLMs like ChatGPT, have prompted changes in a range of fields,

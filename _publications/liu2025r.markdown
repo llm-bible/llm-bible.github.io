@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025r
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15455"}
-  - {name: "Code", url: "https://github.com/jinda-liu/R-LoRA"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15455'}
+  - {name: "Code", url: 'https://github.com/jinda-liu/R-LoRA'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) is computationally expensive, and Low-Rank Adaptation (LoRA) provides a cost-effective solution by approximating weight updates through low-rank matrices. In real-world scenarios, LLMs are fine-tuned on data from multiple domains to perform tasks across various fields, embodying multi-task learning (MTL). LoRA often underperforms in such complex scenarios. To enhance LoRA's capability in multi-task learning, we propose R-LoRA, which incorporates Multi-Head Randomization. Multi-Head Randomization diversifies the head matrices through Multi-Head Dropout and Multi-Head Random Initialization, enabling more efficient learning of task-specific features while maintaining shared knowledge representation. Our approach not only improves performance in MTL but also reduces GPU memory usage and training time. Experiments show that R-LoRA's gains stem from increased diversity in the head matrices, demonstrating its effectiveness for multi-task learning. The code is available at https://github.com/jinda-liu/R-LoRA

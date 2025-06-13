@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: r2024think
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08130"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08130'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Pretrained large language models (LLMs) are increasingly utilized across a
 wide range of natural language processing (NLP) tasks due to their impressive

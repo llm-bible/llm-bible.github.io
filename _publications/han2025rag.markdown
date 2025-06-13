@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: han2025rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11371"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11371'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Retrieval-Augmented Generation (RAG) enhances the performance of LLMs across
 various tasks by retrieving relevant information from external sources,

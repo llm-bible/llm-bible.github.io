@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: cao2020decomposing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.00697"}
-  - {name: "Code", url: "https://github.com/StonyBrookNLP/deformer"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00697'}
+  - {name: "Code", url: 'https://github.com/StonyBrookNLP/deformer'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformer-based QA models use input-wide self-attention -- i.e. across both
 the question and the input passage -- at all layers, causing them to be slow

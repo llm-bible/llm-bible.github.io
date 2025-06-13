@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: weng2023mastering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01665"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01665'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Language models' (LMs) proficiency in handling deterministic symbolic
 reasoning and rule-based tasks remains limited due to their dependency implicit

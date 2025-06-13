@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mcgiff2025overcoming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04531"}
-tags: ['Transformer', 'Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04531'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative language modelling has surged in popularity with the emergence of
 services such as ChatGPT and Google Gemini. While these models have

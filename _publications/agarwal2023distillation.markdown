@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: agarwal2023distillation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13649"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13649'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Knowledge distillation (KD) is widely used for compressing a teacher model to
 reduce its inference cost and memory footprint, by training a smaller student

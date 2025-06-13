@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: raaijmakers2024memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19218"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19218'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Conversational AI systems that rely on Large Language Models, like
 Transformers, have difficulty interweaving external data (like facts) with the

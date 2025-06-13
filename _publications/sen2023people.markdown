@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sen2023people
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01270"}
-tags: ['Security', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01270'}
+tags: ['Training Techniques', 'Model Architecture', 'Security', 'GPT']
 ---
 NLP models are used in a variety of critical social computing tasks, such as
 detecting sexist, racist, or otherwise hateful content. Therefore, it is

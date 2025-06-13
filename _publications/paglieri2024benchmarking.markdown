@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: paglieri2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13543"}
-tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13543'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Agentic']
 ---
 Large Language Models (LLMs) and Vision Language Models (VLMs) possess
 extensive knowledge and exhibit promising reasoning abilities, however, they

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025refining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09903"}
-tags: ['RAG', 'Training Techniques', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09903'}
+tags: ['RAG', 'Security', 'Prompting', 'Training Techniques']
 ---
 Legal writing demands clarity, formality, and domain-specific
 precision-qualities often lacking in documents authored by individuals without

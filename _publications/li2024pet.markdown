@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024pet
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09732"}
-tags: ['Few-Shot', 'Tools', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09732'}
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Tools']
 ---
 Recent advancements in Text-to-SQL (Text2SQL) emphasize stimulating the large
 language models (LLM) on in-context learning, achieving significant results.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bayes2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.00948"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.00948'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI']
 ---
 Evaluations of Large Language Models (LLMs) on knowledge-intensive tasks and
 factual accuracy often focus on high-resource languages primarily because

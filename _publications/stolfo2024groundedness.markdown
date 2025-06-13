@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: stolfo2024groundedness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07060"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07060'}
+tags: ['Pre-Training', 'RAG', 'Applications', 'Training Techniques']
 ---
 We present an empirical study of groundedness in long-form question answering
 (LFQA) by retrieval-augmented large language models (LLMs). In particular, we

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01446"}
-  - {name: "Code", url: "https://github.com/john1226966735/Adaptive-Solver"}
-tags: ['Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01446'}
+  - {name: "Code", url: 'https://github.com/john1226966735/Adaptive-Solver'}
+tags: ['Prompting', 'Has Code', 'Tools']
 ---
 Large Language Models (LLMs) demonstrate impressive ability in handling
 reasoning tasks. However, unlike humans who can instinctively adapt their

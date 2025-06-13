@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.01096"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.01096'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Training Techniques']
 ---
 Existing reasoning tasks often have an important assumption that the input
 contents can be always accessed while reasoning, requiring unlimited storage

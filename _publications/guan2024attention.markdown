@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14866"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14866'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have greatly advanced the natural language
 processing paradigm. However, the high computational load and huge model sizes

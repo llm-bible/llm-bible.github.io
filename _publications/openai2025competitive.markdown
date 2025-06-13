@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: openai2025competitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06807"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06807'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 We show that reinforcement learning applied to large language models (LLMs)
 significantly boosts performance on complex coding and reasoning tasks.

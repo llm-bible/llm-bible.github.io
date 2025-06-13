@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hua2022transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.10447"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.10447'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 We revisit the design choices in Transformers, and propose methods to address
 their weaknesses in handling long sequences. First, we propose a simple layer

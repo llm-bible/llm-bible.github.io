@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08680"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08680'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 The advancement of Large Vision-Language Models (LVLMs) has increasingly
 highlighted the critical issue of their tendency to hallucinate non-existing

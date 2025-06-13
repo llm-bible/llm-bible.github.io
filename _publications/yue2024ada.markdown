@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024ada
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10456"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10456'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 In the era of Large Language Models (LLMs), Mixture-of-Experts (MoE)
 architectures offer a promising approach to managing computational costs while

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: toral2020machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.14979"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.14979'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 In this chapter we build a machine translation (MT) system tailored to the
 literary domain, specifically to novels, based on the state-of-the-art

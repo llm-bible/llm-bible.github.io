@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17875"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17875'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) through supervised fine-tuning is
 essential for tailoring them to specific applications. Recent studies suggest

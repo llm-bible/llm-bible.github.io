@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14619"}
-tags: ['Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14619'}
+tags: ['Reinforcement Learning', 'Model Architecture']
 ---
 Reward models (RMs) play a crucial role in aligning large language models
 (LLMs) with human preferences and enhancing reasoning quality. Traditionally,

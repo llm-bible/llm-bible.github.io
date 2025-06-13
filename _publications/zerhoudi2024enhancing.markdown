@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zerhoudi2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09394"}
-tags: ['RAG', 'Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09394'}
+tags: ['Applications', 'RAG', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) struggle with generating reliable outputs due to
 outdated knowledge and hallucinations. Retrieval-Augmented Generation (RAG)

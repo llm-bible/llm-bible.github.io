@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024benchmarks
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17840"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17840'}
+tags: ['Agentic', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Creating multilingual task-oriented dialogue (TOD) agents is challenging due
 to the high cost of training data acquisition. Following the research trend of

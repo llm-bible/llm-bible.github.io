@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kachuee2022latency
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.03327"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.03327'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Adjusting the latency, power, and accuracy of natural language understanding
 models is a desirable objective of an efficient architecture. This paper

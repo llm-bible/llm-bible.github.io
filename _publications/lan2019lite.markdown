@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: lan2019lite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.11942"}
-  - {name: "Code", url: "https://github.com/google-research/ALBERT"}
-tags: ['Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.11942'}
+  - {name: "Code", url: 'https://github.com/google-research/ALBERT'}
+tags: ['Has Code', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Increasing model size when pretraining natural language representations often
 results in improved performance on downstream tasks. However, at some point

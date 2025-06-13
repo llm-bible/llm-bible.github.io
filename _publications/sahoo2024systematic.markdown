@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sahoo2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07927"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07927'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Prompt engineering has emerged as an indispensable technique for extending
 the capabilities of large language models (LLMs) and vision-language models

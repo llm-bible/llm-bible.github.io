@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gkountouras2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19923"}
-tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19923'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have recently shown great promise in planning
 and reasoning applications. These tasks demand robust systems, which arguably

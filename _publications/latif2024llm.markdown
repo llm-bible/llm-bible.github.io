@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: latif2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18721"}
-tags: ['INTERSPEECH', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18721'}
+tags: ['RAG', 'INTERSPEECH', 'Model Architecture', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Robot systems in education can leverage Large language models' (LLMs) natural
 language understanding capabilities to provide assistance and facilitate

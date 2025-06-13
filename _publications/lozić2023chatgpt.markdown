@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lozić2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08636"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08636'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Merging']
 ---
 Historical emphasis on writing mastery has shifted with advances in
 generative AI, especially in scientific writing. This study analysed six AI

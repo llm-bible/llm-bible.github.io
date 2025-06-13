@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: simonds2024working
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04645"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04645'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Recent developments, particularly OpenAI's O1 model, have demonstrated the
 remarkable potential of Large Language Models (LLMs) for complex reasoning

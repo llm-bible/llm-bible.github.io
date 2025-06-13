@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ishay2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.07699"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.07699'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs), such as GPT-3 and GPT-4, have demonstrated

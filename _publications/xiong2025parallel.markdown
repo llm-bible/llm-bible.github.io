@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xiong2025parallel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14317"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14317'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Efficiently handling long contexts is crucial for large language models
 (LLMs). While rotary position embeddings (RoPEs) enhance length generalization,

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: yu2022scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.10789"}
-  - {name: "Code", url: "https://parti.research.google/"}
-tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.10789'}
+  - {name: "Code", url: 'https://parti.research.google/'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present the Pathways Autoregressive Text-to-Image (Parti) model, which
 generates high-fidelity photorealistic images and supports content-rich

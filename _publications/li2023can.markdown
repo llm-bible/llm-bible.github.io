@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04939"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04939'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs), despite their impressive performance in various

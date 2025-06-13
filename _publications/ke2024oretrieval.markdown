@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ke2024oretrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08431"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08431'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Responsible AI']
 ---
 Large Language Models (LLMs) show potential for medical applications but
 often lack specialized clinical knowledge. Retrieval Augmented Generation (RAG)

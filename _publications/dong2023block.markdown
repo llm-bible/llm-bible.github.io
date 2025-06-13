@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dong2023block
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.09184"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.09184'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Pretraining Methods']
 ---
 With the popularity of the recent Transformer-based models represented by
 BERT, GPT-3 and ChatGPT, there has been state-of-the-art performance in a range

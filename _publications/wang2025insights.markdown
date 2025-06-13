@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025insights
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15804"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/VeriPrefer-E88B"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15804'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/VeriPrefer-E88B'}
+tags: ['Agentic', 'Has Code', 'ACL', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'TACL']
 ---
 Large language models (LLMs) have shown strong performance in Verilog
 generation from natural language description. However, ensuring the functional

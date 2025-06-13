@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arora2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17761"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17761'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Large language models (LLMs) are used for long-form question answering
 (LFQA), which requires them to generate paragraph-length answers to complex

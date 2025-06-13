@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: madotto2020language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.06239"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.06239'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Task-oriented dialogue systems use four connected modules, namely, Natural
 Language Understanding (NLU), a Dialogue State Tracking (DST), Dialogue Policy

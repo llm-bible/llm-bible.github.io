@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: erwin2025few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11335"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11335'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 The task of policy compliance detection (PCD) is to determine if a scenario
 is in compliance with respect to a set of written policies. In a conversational

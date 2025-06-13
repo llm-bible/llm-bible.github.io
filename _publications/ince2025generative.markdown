@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ince2025generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04685"}
-tags: ['Pre-Training', 'Tools', 'Survey Paper', 'Applications', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04685'}
+tags: ['Security', 'Training Techniques', 'Applications', 'Tools', 'Survey Paper', 'Pre-Training']
 ---
 Recent years have seen an explosion of activity in Generative AI,
 specifically Large Language Models (LLMs), revolutionising applications across

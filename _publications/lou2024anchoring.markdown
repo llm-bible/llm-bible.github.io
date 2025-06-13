@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lou2024anchoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06593"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06593'}
+tags: ['Ethics and Bias', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) like GPT-4 and Gemini have significantly
 advanced artificial intelligence by enabling machines to generate and

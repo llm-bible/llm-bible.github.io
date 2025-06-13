@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ohashi2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17319"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17319'}
 tags: ['Applications']
 ---
 Dialogue datasets are crucial for deep learning-based task-oriented dialogue

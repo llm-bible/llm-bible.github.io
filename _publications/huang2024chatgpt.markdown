@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17368"}
-tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17368'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 As AI becomes more integral in our lives, the need for transparency and
 responsibility grows. While natural language explanations (NLEs) are vital for

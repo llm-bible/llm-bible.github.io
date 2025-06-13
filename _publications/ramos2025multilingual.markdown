@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ramos2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12140"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12140'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated strong performance in
 sentence-level machine translation, but scaling to document-level translation

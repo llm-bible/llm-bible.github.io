@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15338"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15338'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 In executable task-oriented semantic parsing, the system aims to translate
 users' utterances in natural language to machine-interpretable programs (API

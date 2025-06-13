@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: herold2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.05183"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05183'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 Document-level context for neural machine translation (NMT) is crucial to
 improve the translation consistency and cohesion, the translation of ambiguous

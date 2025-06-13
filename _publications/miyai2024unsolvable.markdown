@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: miyai2024unsolvable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20331"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20331'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 This paper introduces a novel task to evaluate the robust understanding
 capability of Large Multimodal Models (LMMs), termed \\(\textbf\{Unsolvable

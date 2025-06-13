@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hung2023walking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14966"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14966'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI']
 ---
 High-risk domains pose unique challenges that require language models to
 provide accurate and safe responses. Despite the great success of large

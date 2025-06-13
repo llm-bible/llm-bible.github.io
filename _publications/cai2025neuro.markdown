@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: cai2025neuro
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.00372"}
-  - {name: "Code", url: "https://github.com/ControlNet/NAVER"}
-tags: ['Interpretability and Explainability', 'Security', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.00372'}
+  - {name: "Code", url: 'https://github.com/ControlNet/NAVER'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Multimodal Models', 'Security']
 ---
 Visual Grounding (VG) tasks, such as referring expression detection and
 segmentation tasks are important for linking visual entities to context,

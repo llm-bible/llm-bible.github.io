@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lv2024interpreting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.19521"}
-tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.19521'}
+tags: ['Attention Mechanism', 'Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 In this paper, we delve into several mechanisms employed by Transformer-based
 language models (LLMs) for factual recall tasks. We outline a pipeline

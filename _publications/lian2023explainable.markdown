@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lian2023explainable
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2306.15401v6"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2306.15401v6'}
 tags: ['Interpretability and Explainability', 'Multimodal Models', 'Model Architecture']
 ---
 Multimodal emotion recognition is an important research topic in artificial

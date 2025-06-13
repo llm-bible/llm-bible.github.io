@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023fake
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05915"}
-  - {name: "Code", url: "https://github.com/AIFlames/Fake-Alignment"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05915'}
+  - {name: "Code", url: 'https://github.com/AIFlames/Fake-Alignment'}
+tags: ['Has Code', 'Security', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 The growing awareness of safety concerns in large language models (LLMs) has
 sparked considerable interest in the evaluation of safety. This study

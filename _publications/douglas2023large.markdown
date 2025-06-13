@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: douglas2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.05782"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.05782'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Artificial intelligence is making spectacular progress, and one of the best
 examples is the development of large language models (LLMs) such as OpenAI's

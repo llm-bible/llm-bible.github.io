@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahmed2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01013"}
-tags: ['Agentic', 'Training Techniques', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01013'}
+tags: ['Reinforcement Learning', 'Agentic', 'Language Modeling', 'Training Techniques']
 ---
 Reinforcement Learning from Human Feedback (RLHF) has enabled significant
 advancements within language modeling for powerful, instruction-following

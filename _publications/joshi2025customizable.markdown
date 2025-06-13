@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: joshi2025customizable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17136"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17136'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture']
 ---
 Evaluating creative text such as human-written stories using language models
 has always been a challenging task -- owing to the subjectivity of

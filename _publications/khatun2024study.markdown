@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khatun2024study
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07955"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07955'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 The widespread adoption of Large Language Models (LLMs) has become
 commonplace, particularly with the emergence of open-source models. More

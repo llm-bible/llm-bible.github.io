@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gunjal2023detecting
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2308.06394v3"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2308.06394v3'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications']
 ---
 Instruction tuned Large Vision Language Models (LVLMs) have significantly
 advanced in generalizing across a diverse set of multi-modal tasks, especially

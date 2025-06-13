@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: joublin2023glimpse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.06087"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.06087'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) have recently become a popular topic in the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mehrotra2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06715"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06715'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This paper explores the enhancement of creativity in Large Language Models

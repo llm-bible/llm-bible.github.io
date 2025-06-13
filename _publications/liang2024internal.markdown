@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024internal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14507"}
-  - {name: "Code", url: "https://github.com/IAAR-Shanghai/ICSFSurvey"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'RAG', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14507'}
+  - {name: "Code", url: 'https://github.com/IAAR-Shanghai/ICSFSurvey'}
+tags: ['Has Code', 'Interpretability and Explainability', 'RAG', 'Applications', 'Tools', 'Survey Paper']
 ---
 Large language models (LLMs) often exhibit deficient reasoning or generate
 hallucinations. To address these, studies prefixed with "Self-" such as

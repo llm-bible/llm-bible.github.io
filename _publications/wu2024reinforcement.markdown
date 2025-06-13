@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04421"}
-tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04421'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Applications']
 ---
 LLM-powered personalization agent systems employ Large Language Models (LLMs)
 to predict users' behavior from their past activities. However, their

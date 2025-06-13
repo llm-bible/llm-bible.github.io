@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jumelet2025multiblimp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02768"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02768'}
 tags: ['RAG']
 ---
 We introduce MultiBLiMP 1.0, a massively multilingual benchmark of linguistic

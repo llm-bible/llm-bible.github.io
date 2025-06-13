@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: subramonian2025agree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17075"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17075'}
 tags: ['Uncategorized']
 ---
 Numerous methods have been proposed to measure LLM misgendering, including

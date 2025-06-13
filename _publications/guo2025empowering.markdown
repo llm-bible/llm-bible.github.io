@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13804"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13804'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 In recent years, large language models (LLMs) have revolutionized the field
 of natural language processing. However, they often suffer from knowledge gaps

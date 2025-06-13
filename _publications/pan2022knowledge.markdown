@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: pan2022knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.16433"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.16433'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Fully-parametric language models generally require a huge number of model
 parameters to store the necessary knowledge for solving multiple natural

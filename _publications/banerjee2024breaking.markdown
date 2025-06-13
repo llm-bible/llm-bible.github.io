@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: banerjee2024breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11139"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11139'}
+tags: ['Fairness', 'GPT', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The integration of pretrained language models (PLMs) like BERT and GPT has
 revolutionized NLP, particularly for English, but it has also created

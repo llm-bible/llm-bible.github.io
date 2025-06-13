@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024blind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.24155"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.24155'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Recent advances in large language models (LLMs) have demonstrated their
 potential in handling complex reasoning tasks, which are usually achieved by

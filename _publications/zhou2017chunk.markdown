@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2017
 bibkey: zhou2017chunk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1705.01452"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1705.01452'}
 tags: ['RAG', 'Applications']
 ---
 In typical neural machine translation~(NMT), the decoder generates a sentence

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05975"}
-  - {name: "Code", url: "https://github.com/CONE-MT/LLaMAX/."}
-  - {name: "Code", url: "https://huggingface.co/LLaMAX/."}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05975'}
+  - {name: "Code", url: 'https://github.com/CONE-MT/LLaMAX/.'}
+  - {name: "Code", url: 'https://huggingface.co/LLaMAX/.'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'Has Code', 'Training Techniques']
 ---
 Large Language Models (LLMs) demonstrate remarkable translation capabilities
 in high-resource language tasks, yet their performance in low-resource

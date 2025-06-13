@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: im2024generalization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03459"}
-tags: ['Tools', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03459'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities but
 often struggle to align with human preferences, leading to harmful or

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024actor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22082"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22082'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Text-To-SQL (T2S) conversion based on large language models (LLMs) has found
 a wide range of applications, by leveraging the capabilities of LLMs in

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11491"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11491'}
 tags: ['Responsible AI']
 ---
 Safety alignment is indispensable for Large Language Models (LLMs) to defend

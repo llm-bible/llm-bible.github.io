@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: stacey2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00462"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00462'}
 tags: ['RAG', 'Tools', 'Survey Paper']
 ---
 Spurred by recent advances in Large Language Models (LLMs), virtual

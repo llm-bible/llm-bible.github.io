@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lassance2023experimental
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.10444"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.10444'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Finetuning Pretrained Language Models (PLM) for IR has been de facto the
 standard practice since their breakthrough effectiveness few years ago. But, is

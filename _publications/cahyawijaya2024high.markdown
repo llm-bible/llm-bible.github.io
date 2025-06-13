@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cahyawijaya2024high
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07900"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07900'}
 tags: ['Training Techniques', 'Language Modeling', 'Model Architecture']
 ---
 The widespread application of LLMs across various tasks and fields has

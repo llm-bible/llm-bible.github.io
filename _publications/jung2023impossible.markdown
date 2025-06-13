@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jung2023impossible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.16635"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.16635'}
+tags: ['Efficiency and Optimization', 'Distillation', 'GPT', 'Model Architecture', 'Tools', 'Applications']
 ---
 We present Impossible Distillation, a novel framework for paraphrasing and
 sentence summarization, that distills a high-quality dataset and model from a

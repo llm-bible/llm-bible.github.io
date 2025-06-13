@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: grogan2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20231"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20231'}
 tags: ['Ethics and Bias']
 ---
 While existing studies have recognised explicit biases in generative models,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: vandeemter2024pitfalls
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07897"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07897'}
 tags: ['Uncategorized']
 ---
 Despite impressive advances in Natural Language Generation (NLG) and Large

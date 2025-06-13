@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: baldini2023keeping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12620"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12620'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Bias auditing of language models (LMs) has received considerable attention as
 LMs are becoming widespread. As such, several benchmarks for bias auditing have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: khandelwal2020nearest
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.00710"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.00710'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 We introduce \\(k\\)-nearest-neighbor machine translation (\\(k\\)NN-MT), which
 predicts tokens with a nearest neighbor classifier over a large datastore of

@@ -6,8 +6,8 @@ conference: "The 2023 Conference on Empirical Methods in Natural Language Proces
 year: 2023
 bibkey: erik2023consistency
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.06273v3"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.06273v3'}
+tags: ['Few-Shot', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 ChatGPT has gained a huge popularity since its introduction. Its positive
 aspects have been reported through many media platforms, and some analyses even

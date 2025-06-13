@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024hint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14310"}
-  - {name: "Code", url: "https://github.com/jinlanfu/HSP"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14310'}
+  - {name: "Code", url: 'https://github.com/jinlanfu/HSP'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have recently showcased remarkable
 generalizability in various domains. Despite their extensive knowledge, LLMs

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: denny2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10509"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10509'}
 tags: ['Tools']
 ---
 As an increasing number of students move to online learning platforms that

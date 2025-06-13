@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024internal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16686"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16686'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 As a crucial step to enhance LLMs alignment with human intentions,
 Instruction Fine-Tuning (IFT) has a high demand on dataset quality. However,

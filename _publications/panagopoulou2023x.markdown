@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: panagopoulou2023x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18799"}
-tags: ['Fine-Tuning', 'RAG', 'Tools', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18799'}
+tags: ['RAG', 'Fine-Tuning', 'Multimodal Models', 'Tools']
 ---
 Recent research has achieved significant advancements in visual reasoning
 tasks through learning image-to-language projections and leveraging the

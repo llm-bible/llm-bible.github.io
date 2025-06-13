@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yadav2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15604"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15604'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Language models have made significant progress in generating coherent text
 and predicting next tokens based on input prompts. This study compares the

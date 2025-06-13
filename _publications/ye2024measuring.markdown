@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ye2024measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12106"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'RAG', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12106'}
+tags: ['RAG', 'Tools', 'Merging', 'Ethics and Bias', 'Responsible AI']
 ---
 Human values and their measurement are long-standing interdisciplinary
 inquiry. Recent advances in AI have sparked renewed interest in this area, with

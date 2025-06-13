@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.05334"}
-  - {name: "Code", url: "https://kevinlujian.github.io/MLLM_Evaluations/"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.05334'}
+  - {name: "Code", url: 'https://kevinlujian.github.io/MLLM_Evaluations/'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 With the advent of multi-modal large language models (MLLMs), datasets used
 for visual question answering (VQA) and referring expression comprehension have

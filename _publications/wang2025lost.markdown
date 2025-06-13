@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04264"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04264'}
+tags: ['Masked Language Model', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multilingual language models (MLMs) store factual knowledge across languages
 but often struggle to provide consistent responses to semantically equivalent

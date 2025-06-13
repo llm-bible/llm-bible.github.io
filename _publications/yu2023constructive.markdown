@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023constructive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06450"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06450'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 In recent research on large language models (LLMs), there has been a growing
 emphasis on aligning these models with human values to reduce the impact of

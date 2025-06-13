@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bădoiu2025romanian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07721"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07721'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) have demonstrated remarkable
 capabilities across various tasks with commercial models leading the way. While

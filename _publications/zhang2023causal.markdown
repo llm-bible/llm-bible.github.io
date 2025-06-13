@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023causal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.10896"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.10896'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Entities and events are crucial to natural language reasoning and common in
 procedural texts. Existing work has focused either exclusively on entity state

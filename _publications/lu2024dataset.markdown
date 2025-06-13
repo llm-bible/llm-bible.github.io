@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13779"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13779'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 generating coherent text but often struggle with grounding language and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02233"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02233'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Large-scale language models (LLMs) like ChatGPT have demonstrated impressive
 abilities in generating responses based on human instructions. However, their

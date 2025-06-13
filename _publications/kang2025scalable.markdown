@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: kang2025scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18581"}
-  - {name: "Code", url: "https://github.com/backprop07/Self-Certainty"}
-tags: ['RAG', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18581'}
+  - {name: "Code", url: 'https://github.com/backprop07/Self-Certainty'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code']
 ---
 Best-of-N selection is a key technique for improving the reasoning
 performance of Large Language Models (LLMs) through increased test-time

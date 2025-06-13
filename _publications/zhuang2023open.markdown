@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhuang2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13243"}
-  - {name: "Code", url: "https://github.com/ielab/llm-qlm"}
-tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13243'}
+  - {name: "Code", url: 'https://github.com/ielab/llm-qlm'}
+tags: ['Has Code', 'Few-Shot', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In the field of information retrieval, Query Likelihood Models (QLMs) rank
 documents based on the probability of generating the query given the content of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: long2025reinforcing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11420"}
-tags: ['Tools', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11420'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 numerous tasks, yet they often rely on external context to handle complex

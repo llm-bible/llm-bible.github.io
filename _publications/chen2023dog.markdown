@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023dog
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.05447"}
-  - {name: "Code", url: "https://github.com/Bahuia/Dog-Instruct"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05447'}
+  - {name: "Code", url: 'https://github.com/Bahuia/Dog-Instruct'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques']
 ---
 The improvement of LLMs' instruction-following capabilities relies heavily on
 the availability of high-quality instruction-response pairs. Unfortunately, the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08506"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08506'}
 tags: ['Tools']
 ---
 Generating long-term texts such as novels using artificial intelligence has

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jeong2024medical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04118"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04118'}
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Several recent works seek to develop foundation models specifically for
 medical applications, adapting general-purpose large language models (LLMs) and

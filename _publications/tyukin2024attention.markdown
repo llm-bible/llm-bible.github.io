@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tyukin2024attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15516"}
-tags: ['RAG', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15516'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture']
 ---
 The inference demand for LLMs has skyrocketed in recent months, and serving
 models with low latencies remains challenging due to the quadratic input length

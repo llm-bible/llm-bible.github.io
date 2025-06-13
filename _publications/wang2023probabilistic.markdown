@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023probabilistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16644"}
-tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16644'}
+tags: ['RAG', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper investigates the effectiveness of token-level text augmentation
 and the role of probabilistic linguistic knowledge within a

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: mitra2023compositional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17076"}
-  - {name: "Code", url: "https://github.com/chancharikmitra/CCoT"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17076'}
+  - {name: "Code", url: 'https://github.com/chancharikmitra/CCoT'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 The combination of strong visual backbones and Large Language Model (LLM)
 reasoning has led to Large Multimodal Models (LMMs) becoming the current

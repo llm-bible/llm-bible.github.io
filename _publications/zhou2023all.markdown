@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16468"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16468'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Large Language Models(LLMs) have shown remarkable emergent abilities in
 unifying almost all (if not every) NLP tasks. In the human motion-related

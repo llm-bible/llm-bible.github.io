@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024foundation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17692"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17692'}
+tags: ['Language Modeling', 'GPT', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 In this paper, we introduce MIO, a novel foundation model built on multimodal
 tokens, capable of understanding and generating speech, text, images, and

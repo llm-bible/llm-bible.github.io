@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhai2024actions
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17152"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17152'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 Large-scale recommendation systems are characterized by their reliance on
 high cardinality, heterogeneous features and the need to handle tens of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01377"}
-tags: ['Pre-Training', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01377'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 The increasing complexity of computer systems necessitates innovative
 approaches to fault and error management, going beyond traditional manual log

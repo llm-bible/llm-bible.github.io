@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wysoczańska2024test
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05061"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05061'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent CLIP-like Vision-Language Models (VLMs), pre-trained on large amounts
 of image-text pairs to align both modalities with a simple contrastive

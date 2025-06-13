@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10047"}
-tags: ['Fine-Tuning', 'Few-Shot', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10047'}
+tags: ['Few-Shot', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite their success in many natural language tasks, solving math problems
 remains a significant challenge for large language models (LLMs). A large gap

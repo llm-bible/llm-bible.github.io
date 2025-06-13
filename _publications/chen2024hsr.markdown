@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024hsr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10165"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10165'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 various applications, but their performance on long-context tasks is often

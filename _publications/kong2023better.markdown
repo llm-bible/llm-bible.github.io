@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kong2023better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07702"}
-  - {name: "Code", url: "https://github.com/NKU-HLT/Role-Play-Prompting"}
-tags: ['Has Code', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07702'}
+  - {name: "Code", url: 'https://github.com/NKU-HLT/Role-Play-Prompting'}
+tags: ['Prompting', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Modern large language models (LLMs) exhibit a remarkable capacity for
 role-playing, enabling them to embody not only human characters but also

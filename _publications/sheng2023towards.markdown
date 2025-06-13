@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sheng2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02520"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02520'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 The rapid advancement of large language models (LLMs) has accelerated the
 emergence of in-context learning (ICL) as a cutting-edge approach in the

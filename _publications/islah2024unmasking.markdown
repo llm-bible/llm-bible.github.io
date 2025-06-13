@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: islah2024unmasking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05830"}
-  - {name: "Code", url: "https://github.com/NizarIslah/GitChameleon"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05830'}
+  - {name: "Code", url: 'https://github.com/NizarIslah/GitChameleon'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'GPT', 'Reinforcement Learning']
 ---
 The rapid evolution of software libraries presents a significant challenge
 for code generation models, which must adapt to frequent version updates while

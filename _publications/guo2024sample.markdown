@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024sample
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13033"}
-  - {name: "Code", url: "https://github.com/beyondguo/LLM-Tuning"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13033'}
+  - {name: "Code", url: 'https://github.com/beyondguo/LLM-Tuning'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In the burgeoning field of Large Language Models (LLMs) like ChatGPT and
 LLaMA, Prompt Engineering (PE) is renowned for boosting zero-shot or in-context

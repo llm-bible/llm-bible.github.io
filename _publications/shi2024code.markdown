@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07128"}
-tags: ['Agentic', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Agent', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07128'}
+tags: ['Agentic', 'Agent', 'Few-Shot', 'RAG', 'Applications', 'Merging', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated exceptional capabilities in
 planning and tool utilization as autonomous agents, but few have been developed

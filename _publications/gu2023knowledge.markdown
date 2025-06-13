@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: gu2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08543"}
-  - {name: "Code", url: "https://github.com/microsoft/LMOps/tree/main/minillm"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08543'}
+  - {name: "Code", url: 'https://github.com/microsoft/LMOps/tree/main/minillm'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications', 'Ethics and Bias']
 ---
 Knowledge Distillation (KD) is a promising technique for reducing the high
 computational demand of large language models (LLMs). However, previous KD

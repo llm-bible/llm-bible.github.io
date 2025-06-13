@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gemmateam2024gemma
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00118"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00118'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this work, we introduce Gemma 2, a new addition to the Gemma family of
 lightweight, state-of-the-art open models, ranging in scale from 2 billion to

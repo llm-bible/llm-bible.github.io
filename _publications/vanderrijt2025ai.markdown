@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: vanderrijt2025ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05723"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05723'}
 tags: ['Agentic', 'Applications']
 ---
 This paper investigates how human interactions with AI-powered chatbots may

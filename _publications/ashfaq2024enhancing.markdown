@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ashfaq2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05365"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05365'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Fine-Tuning']
 ---
 The complexity and dynamic nature of System of Systems (SoS) necessitate
 efficient communication mechanisms to ensure interoperability and collaborative

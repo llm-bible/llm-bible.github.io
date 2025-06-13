@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: vidgen2023test
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08370"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08370'}
+tags: ['GPT', 'Tools', 'Applications', 'Prompting', 'Model Architecture', 'Responsible AI']
 ---
 The past year has seen rapid acceleration in the development of large
 language models (LLMs). However, without proper steering and safeguards, LLMs

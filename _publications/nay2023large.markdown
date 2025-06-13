@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nay2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07075"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07075'}
+tags: ['In-Context Learning', 'Few-Shot', 'RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Better understanding of Large Language Models' (LLMs) legal analysis
 abilities can contribute to improving the efficiency of legal services,

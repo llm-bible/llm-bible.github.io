@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11101"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Pruning', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11101'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Pruning']
 ---
 Large Language Models (LLMs) excel across a variety of language tasks yet are
 constrained by limited input lengths and high computational costs. Existing

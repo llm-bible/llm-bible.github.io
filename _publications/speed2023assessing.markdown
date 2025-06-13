@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: speed2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07683"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07683'}
 tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 Generative AI models garnered a large amount of public attention and

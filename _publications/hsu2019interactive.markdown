@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: hsu2019interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1903.02230"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1903.02230'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we introduce Dixit, an interactive visual storytelling system

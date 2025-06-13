@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: takahashi2023training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08072"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08072'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper presents a simple and cost-effective method for synthesizing data
 to train question-answering systems. For training, fine-tuning GPT models is a

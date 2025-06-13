@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mackraz2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03537"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03537'}
+tags: ['Masked Language Model', 'Few-Shot', 'Fairness', 'Training Techniques', 'BERT', 'Fine-Tuning', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly being adapted to achieve
 task-specificity for deployment in real-world decision systems. Several

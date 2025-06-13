@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: csordás2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16039"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16039'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Previous work on Universal Transformers (UTs) has demonstrated the importance
 of parameter sharing across layers. By allowing recurrence in depth, UTs have

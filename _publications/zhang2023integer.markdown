@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023integer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12356"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12356'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Quantization', 'Merging', 'Reinforcement Learning']
 ---
 Efficient deployment of large language models (LLMs) necessitates low-bit
 quantization to minimize model size and inference cost. While low-bit integer

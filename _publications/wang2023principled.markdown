@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023principled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11135"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11135'}
 tags: ['Tools']
 ---
 Large Language Models (LLMs) are versatile, yet they often falter in tasks

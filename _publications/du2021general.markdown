@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: du2021general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.10360"}
-tags: ['Tools', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.10360'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 There have been various types of pretraining architectures including
 autoencoding models (e.g., BERT), autoregressive models (e.g., GPT), and

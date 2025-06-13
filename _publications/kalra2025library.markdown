@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kalra2025library
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18018"}
-tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18018'}
+tags: ['RAG', 'Interpretability and Explainability', 'Prompting', 'Tools']
 ---
 The use of LLMs as automated judges ("LLM-as-a-judge") is now widespread, yet
 standard judges suffer from a multitude of reliability issues. To address these

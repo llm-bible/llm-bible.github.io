@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: shah2022lm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.04429"}
-  - {name: "Code", url: "https://sites.google.com/view/lmnav"}
-tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.04429'}
+  - {name: "Code", url: 'https://sites.google.com/view/lmnav'}
+tags: ['Has Code', 'Language Modeling', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Goal-conditioned policies for robotic navigation can be trained on large,
 unannotated datasets, providing for good generalization to real-world settings.

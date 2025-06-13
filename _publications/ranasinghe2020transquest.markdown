@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ranasinghe2020transquest
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.05318"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'WMT', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.05318'}
+tags: ['Transformer', 'WMT', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 This paper presents the team TransQuest's participation in Sentence-Level
 Direct Assessment shared task in WMT 2020. We introduce a simple QE framework

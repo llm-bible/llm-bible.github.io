@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14959"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14959'}
+tags: ['ACL', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Intrinsic self-correction was proposed to improve LLMs' responses via
 feedback prompts solely based on their inherent capability. However, recent

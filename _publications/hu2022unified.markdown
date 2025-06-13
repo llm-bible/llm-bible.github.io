@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: hu2022unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.14842"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.14842'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Merging']
 ---
 The recently developed discrete diffusion models perform extraordinarily well

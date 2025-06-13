@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: thorpe2024dubo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12560"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12560'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 The current state-of-the-art (SOTA) for automated text-to-SQL still falls

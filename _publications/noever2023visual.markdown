@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: noever2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12383"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12383'}
 tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 This study explores the capabilities of multimodal large language models

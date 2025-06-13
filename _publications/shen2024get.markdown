@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024get
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20336"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20336'}
+tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 (NLP) with impressive performance across various text-based tasks. However, the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024crayon
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11248"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11248'}
 tags: ['Fine-Tuning', 'Prompting']
 ---
 The remarkable success of Large Language Models (LLMs) and instruction tuning

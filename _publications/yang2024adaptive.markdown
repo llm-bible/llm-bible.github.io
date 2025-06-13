@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18060"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18060'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'BERT', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) has achieved remarkable performance
 across various natural language processing tasks, yet it demands more and more

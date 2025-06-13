@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09888"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09888'}
 tags: ['Attention Mechanism', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 Two lines of work are taking the central stage in AI research. On the one

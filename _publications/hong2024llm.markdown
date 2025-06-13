@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hong2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03408"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03408'}
+tags: ['RAG', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Hardware accelerators, in particular accelerators for tensor processing, have
 many potential application domains. However, they currently lack the software

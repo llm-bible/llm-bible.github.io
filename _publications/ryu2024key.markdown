@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ryu2024key
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04625"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04625'}
 tags: ['Applications']
 ---
 Remarkable advances in large language models (LLMs) have enabled high-quality

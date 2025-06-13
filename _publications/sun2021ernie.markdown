@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sun2021ernie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.02137"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.02137'}
+tags: ['Few-Shot', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Applications', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained models have achieved state-of-the-art results in various Natural
 Language Processing (NLP) tasks. Recent works such as T5 and GPT-3 have shown

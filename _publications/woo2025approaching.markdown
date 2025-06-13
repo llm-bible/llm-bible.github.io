@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: woo2025approaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00367"}
-tags: ['Tools', 'GPT', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00367'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture']
 ---
 Generative artificial intelligence (AI) chatbots, such as ChatGPT, are
 reshaping how English as a foreign language (EFL) students write since students

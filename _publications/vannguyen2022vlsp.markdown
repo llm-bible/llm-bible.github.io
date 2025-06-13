@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: vannguyen2022vlsp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.11400"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.11400'}
+tags: ['Transformer', 'BERT', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 One of the emerging research trends in natural language understanding is
 machine reading comprehension (MRC) which is the task to find answers to human

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mahapatra2024impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.14088"}
-tags: ['BERT', 'Language Modeling', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.14088'}
+tags: ['Applications', 'BERT', 'Language Modeling', 'Model Architecture']
 ---
 Data-to-text (D2T) generation aims to generate human-readable text from
 semi-structured data, such as tables and graphs. The recent success of D2T is

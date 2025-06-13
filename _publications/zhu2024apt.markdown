@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024apt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01697"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01697'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Recent research has highlighted the potential of LLM applications, like
 ChatGPT, for performing label annotation on social computing text. However, it

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: briesch2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16822"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16822'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLM) are already widely used to generate content for a
 variety of online platforms. As we are not able to safely distinguish

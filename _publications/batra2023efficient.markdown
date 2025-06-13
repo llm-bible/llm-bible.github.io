@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: batra2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.15964"}
-tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.15964'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Procedural videos, exemplified by recipe demonstrations, are instrumental in
 conveying step-by-step instructions. However, understanding such videos is

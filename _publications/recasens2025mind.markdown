@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: recasens2025mind
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08311"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08311'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Large language models have been widely adopted across different tasks, but
 their auto-regressive generation nature often leads to inefficient resource

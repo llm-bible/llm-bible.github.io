@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ahmadvand2022making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.00584"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.00584'}
+tags: ['Agentic', 'RAG', 'Tools', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Current interactive systems with natural language interfaces lack the ability
 to understand a complex information-seeking request which expresses several

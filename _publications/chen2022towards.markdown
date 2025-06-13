@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.01877"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.01877'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Despite the success achieved in neural abstractive summarization based on

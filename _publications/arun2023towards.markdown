@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: arun2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15021"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15021'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in deep learning have led to the development of powerful
 language models (LMs) that excel in various tasks. Despite these achievements,

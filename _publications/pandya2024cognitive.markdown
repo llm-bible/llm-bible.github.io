@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: pandya2024cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10380"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10380'}
 tags: ['Training Techniques']
 ---
 Cognitive textual and visual reasoning tasks, including puzzles, series, and

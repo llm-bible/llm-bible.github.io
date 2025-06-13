@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024deliberative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20657"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20657'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 Prompt recovery in large language models (LLMs) is crucial for understanding
 how LLMs work and addressing concerns regarding privacy, copyright, etc. The

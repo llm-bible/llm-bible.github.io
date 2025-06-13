@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024modality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12728"}
-tags: ['Applications', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12728'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Merging', 'Prompting', 'Multimodal Models']
 ---
 Knowledge-based visual question answering (KVQA) has been extensively studied
 to answer visual questions with external knowledge, e.g., knowledge graphs

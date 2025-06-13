@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dasilva2025capability
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.03295"}
-tags: ['RAG', 'Tools', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.03295'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Tools']
 ---
 Modern automation systems increasingly rely on modular architectures, with
 capabilities and skills as one solution approach. Capabilities define the

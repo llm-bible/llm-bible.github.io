@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.02928"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.02928'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While language Models store a massive amount of world knowledge implicitly in
 their parameters, even very large models often fail to encode information about

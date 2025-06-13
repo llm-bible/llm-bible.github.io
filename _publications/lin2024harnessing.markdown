@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15281"}
-  - {name: "Code", url: "https://github.com/irislin1006/CPKL"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15281'}
+  - {name: "Code", url: 'https://github.com/irislin1006/CPKL'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications']
 ---
 Understanding rich dialogues often requires NLP systems to access relevant
 commonsense persona knowledge, but retrieving this knowledge is challenging due

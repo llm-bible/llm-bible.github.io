@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: gong2023jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05608"}
-  - {name: "Code", url: "https://github.com/ThuCCSLab/FigStep"}
-tags: ['Responsible AI', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05608'}
+  - {name: "Code", url: 'https://github.com/ThuCCSLab/FigStep'}
+tags: ['Has Code', 'RAG', 'Security', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Vision-Language Models (LVLMs) signify a groundbreaking paradigm shift
 within the Artificial Intelligence (AI) community, extending beyond the

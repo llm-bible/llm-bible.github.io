@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12457"}
-tags: ['RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12457'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization']
 ---
 Retrieval-Augmented Generation (RAG) has shown significant improvements in
 various natural language processing tasks by integrating the strengths of large

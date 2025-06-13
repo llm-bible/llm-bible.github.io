@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023mobile
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.08144"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.08144'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 The Graphical User Interface (GUI) is pivotal for human interaction with the

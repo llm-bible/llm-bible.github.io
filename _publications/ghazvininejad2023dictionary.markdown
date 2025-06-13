@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ghazvininejad2023dictionary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.07856"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.07856'}
 tags: ['Prompting', 'Applications']
 ---
 Large language models (LLMs) demonstrate remarkable machine translation (MT)

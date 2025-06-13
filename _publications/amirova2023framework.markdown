@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: amirova2023framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06364"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06364'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Today, using Large-scale generative Language Models (LLMs) it is possible to
 simulate free responses to interview questions like those traditionally

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06749"}
-  - {name: "Code", url: "https://github.com/Osilly/Vision-R1"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06749'}
+  - {name: "Code", url: 'https://github.com/Osilly/Vision-R1'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 DeepSeek-R1-Zero has successfully demonstrated the emergence of reasoning
 capabilities in LLMs purely through Reinforcement Learning (RL). Inspired by

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bui2025mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05019"}
-tags: ['Agentic', 'Applications', 'Merging', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05019'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Merging', 'Prompting']
 ---
 Advances in Large Language Models (LLMs) paved the way for their emerging
 applications in various domains, such as human behavior simulations, where LLMs

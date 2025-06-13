@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14238"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/InternVL"}
-tags: ['Multimodal Models', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14238'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/InternVL'}
+tags: ['Has Code', 'Multimodal Models', 'Applications']
 ---
 The exponential growth of large language models (LLMs) has opened up numerous
 possibilities for multimodal AGI systems. However, the progress in vision and

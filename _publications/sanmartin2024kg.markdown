@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sanmartin2024kg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12035"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12035'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Fine-Tuning']
 ---
 Ensuring factual accuracy while maintaining the creative capabilities of
 Large Language Model Agents (LMAs) poses significant challenges in the

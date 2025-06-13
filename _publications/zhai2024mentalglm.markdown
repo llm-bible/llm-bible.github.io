@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhai2024mentalglm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10323"}
-  - {name: "Code", url: "https://github.com/zwzzzQAQ/MentalGLM"}
-tags: ['Interpretability and Explainability', 'Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10323'}
+  - {name: "Code", url: 'https://github.com/zwzzzQAQ/MentalGLM'}
+tags: ['Prompting', 'Has Code', 'Interpretability and Explainability', 'Tools']
 ---
 As the prevalence of mental health challenges, social media has emerged as a
 key platform for individuals to express their emotions.Deep learning tends to

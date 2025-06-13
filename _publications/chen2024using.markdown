@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03848"}
-tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03848'}
+tags: ['Language Modeling', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Applications']
 ---
 Large language models (LLMs), such as GPT series and Llama series have
 demonstrated strong capabilities in natural language processing, contextual

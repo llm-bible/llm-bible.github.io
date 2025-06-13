@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: tian2023attribute
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16494"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16494'}
 tags: ['RAG', 'Multimodal Models', 'Prompting']
 ---
 Although soft prompt tuning is effective in efficiently adapting

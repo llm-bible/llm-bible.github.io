@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024structural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13449"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13449'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Survey Paper']
 ---
 LLMs have demonstrated commendable performance across diverse domains.
 Nevertheless, formulating high-quality prompts to assist them in their work

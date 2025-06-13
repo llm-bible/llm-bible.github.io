@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wood2024elimination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05223"}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05223'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 The issue of hallucinations in large language models (LLMs) remains a
 critical barrier to the adoption of AI in enterprise and other high-stakes

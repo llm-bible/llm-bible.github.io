@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: geng2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09073"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09073'}
 tags: ['RAG', 'Training Techniques']
 ---
 Retrieval-augmented generation (RAG) is a key technique for leveraging

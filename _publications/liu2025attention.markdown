@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.09997"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.09997'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Hallucination has emerged as a significant barrier to the effective

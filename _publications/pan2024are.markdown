@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15050"}
-  - {name: "Code", url: "https://github.com/panFJCharlotte98/Fallacy_Detection"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15050'}
+  - {name: "Code", url: 'https://github.com/panFJCharlotte98/Fallacy_Detection'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Fallacies are defective arguments with faulty reasoning. Detecting and
 classifying them is a crucial NLP task to prevent misinformation, manipulative

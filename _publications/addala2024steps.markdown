@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: addala2024steps
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05023"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05023'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Prompting', 'Survey Paper']
 ---
 Few shot and Chain-of-Thought prompting have shown promise when applied to
 Physics Question Answering Tasks, but are limited by the lack of mathematical

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2017
 bibkey: miller2017dialog
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1705.06476"}
-  - {name: "Code", url: "http://parl.ai"}
-tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1705.06476'}
+  - {name: "Code", url: 'http://parl.ai'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 We introduce ParlAI (pronounced "par-lay"), an open-source software platform
 for dialog research implemented in Python, available at http://parl.ai. Its

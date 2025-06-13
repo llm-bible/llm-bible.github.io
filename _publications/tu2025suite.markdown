@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tu2025suite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20271"}
-  - {name: "Code", url: "https://ucsc-vlaa.github.io/ViLBench"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20271'}
+  - {name: "Code", url: 'https://ucsc-vlaa.github.io/ViLBench'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Process-supervised reward models serve as a fine-grained function that
 provides detailed step-wise feedback to model responses, facilitating effective

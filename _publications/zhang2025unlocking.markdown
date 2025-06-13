@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11024"}
-tags: ['RAG', 'Training Techniques', 'Ethics and Bias', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11024'}
+tags: ['Ethics and Bias', 'RAG', 'Training Techniques', 'Tools']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced the fluency and logical coherence of image captioning.

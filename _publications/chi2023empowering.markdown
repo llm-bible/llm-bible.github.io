@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chi2023empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17963"}
-  - {name: "Code", url: "https://mattie-e.github.io/M2Chat.github.io"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17963'}
+  - {name: "Code", url: 'https://mattie-e.github.io/M2Chat.github.io'}
+tags: ['Has Code', 'GPT', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While current LLM chatbots like GPT-4V bridge the gap between human
 instructions and visual representations to enable text-image generations, they

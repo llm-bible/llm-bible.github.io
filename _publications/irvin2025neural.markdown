@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: irvin2025neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11417"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11417'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 The Neural Contextual Reinforcement Framework introduces an innovative
 approach to enhancing the logical coherence and structural consistency of text

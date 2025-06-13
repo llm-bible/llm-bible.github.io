@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023then
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.00909"}
-  - {name: "Code", url: "https://github.com/VITA-Group/ChainCoder"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.00909'}
+  - {name: "Code", url: 'https://github.com/VITA-Group/ChainCoder'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 For a complicated algorithm, its implementation by a human programmer usually
 starts with outlining a rough control flow followed by iterative enrichments,

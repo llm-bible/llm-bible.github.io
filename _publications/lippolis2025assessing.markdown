@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lippolis2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17402"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17402'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) have shown significant potential for ontology

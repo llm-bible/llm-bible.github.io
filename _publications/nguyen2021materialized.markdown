@@ -6,8 +6,8 @@ conference: "Proceedings of the First Workshop on Commonsense Representation and
 year: 2021
 bibkey: nguyen2021materialized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.14815"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.14815'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Starting from the COMET methodology by Bosselut et al. (2019), generating
 commonsense knowledge directly from pre-trained language models has recently

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: mi2021self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.12589"}
-tags: ['Pre-Training', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.12589'}
+tags: ['Masked Language Model', 'Few-Shot', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 As the labeling cost for different modules in task-oriented dialog (ToD)
 systems is expensive, a major challenge is to train different modules with the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: tack2022ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.07540"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.07540'}
+tags: ['Reinforcement Learning', 'Agentic', 'GPT', 'Model Architecture']
 ---
 How can we test whether state-of-the-art generative models, such as Blender
 and GPT-3, are good AI teachers, capable of replying to a student in an

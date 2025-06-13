@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: parikh2025consistent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01903"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01903'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly used to generate distractors
 for multiple-choice questions (MCQs), especially in domains like math

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00492"}
-  - {name: "Code", url: "https://github.com/JacksonWuxs/Interpret_Instruction_Tuning_LLMs"}
-tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00492'}
+  - {name: "Code", url: 'https://github.com/JacksonWuxs/Interpret_Instruction_Tuning_LLMs'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Interpretability and Explainability', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have achieved remarkable success, where
 instruction tuning is the critical step in aligning LLMs with user intentions.

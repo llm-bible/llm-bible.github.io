@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: cui2023boosting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01377"}
-  - {name: "Code", url: "https://github.com/thunlp/UltraFeedback"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01377'}
+  - {name: "Code", url: 'https://github.com/thunlp/UltraFeedback'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Learning from human feedback has become a pivot technique in aligning large
 language models (LLMs) with human preferences. However, acquiring vast and

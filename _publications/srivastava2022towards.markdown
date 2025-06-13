@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: srivastava2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.17284"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.17284'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present very early results on using GPT-3 to perform question answering on
 tabular data. We find that stock pre-trained GPT-3 is able to zero-shot learn

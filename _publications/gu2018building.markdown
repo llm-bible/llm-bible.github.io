@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2018
 bibkey: gu2018building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1812.00686"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1812.00686'}
 tags: ['RAG', 'Training Techniques']
 ---
 This paper presents an end-to-end response selection model for Track 1 of the

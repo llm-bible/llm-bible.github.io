@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: hong2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08914"}
-  - {name: "Code", url: "https://github.com/THUDM/CogVLM,"}
-  - {name: "Code", url: "https://github.com/THUDM/CogAgent"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08914'}
+  - {name: "Code", url: 'https://github.com/THUDM/CogVLM,'}
+  - {name: "Code", url: 'https://github.com/THUDM/CogAgent'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 People are spending an enormous amount of time on digital devices through
 graphical user interfaces (GUIs), e.g., computer or smartphone screens. Large

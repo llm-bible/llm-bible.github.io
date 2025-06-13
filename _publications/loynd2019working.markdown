@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: loynd2019working
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.07141"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.07141'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have increasingly outperformed gated RNNs in obtaining new
 state-of-the-art results on supervised tasks involving text sequences. Inspired

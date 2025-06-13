@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: eisenschlos2022probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.12153"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.12153'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 We introduce a new in-context learning paradigm to measure Large Language

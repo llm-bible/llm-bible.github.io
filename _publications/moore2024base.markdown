@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: moore2024base
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11634"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11634'}
 tags: ['Prompting']
 ---
 Cloze testing is a common method for measuring the behavior of large language

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17005"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/Ask-Anything"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17005'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/Ask-Anything'}
+tags: ['Has Code', 'Fairness', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 With the rapid development of Multi-modal Large Language Models (MLLMs), a
 number of diagnostic benchmarks have recently emerged to evaluate the

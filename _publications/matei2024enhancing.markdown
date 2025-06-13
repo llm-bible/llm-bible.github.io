@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: matei2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20498"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20498'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper highlights the significance of natural language processing (NLP)
 within artificial intelligence, underscoring its pivotal role in comprehending

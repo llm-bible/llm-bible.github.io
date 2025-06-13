@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: bao2023disc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14346"}
-  - {name: "Code", url: "https://github.com/FudanDISC/DISC-MedLLM"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14346'}
+  - {name: "Code", url: 'https://github.com/FudanDISC/DISC-MedLLM'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We propose DISC-MedLLM, a comprehensive solution that leverages Large
 Language Models (LLMs) to provide accurate and truthful medical response in

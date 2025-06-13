@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024seek
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.05286"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.05286'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 The complexities of table structures and question logic make table-based

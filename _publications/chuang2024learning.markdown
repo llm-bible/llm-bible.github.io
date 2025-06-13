@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chuang2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13284"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13284'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive performance on
 several tasks and are increasingly deployed in real-world applications.

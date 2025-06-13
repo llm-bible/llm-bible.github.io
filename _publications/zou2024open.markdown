@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15592"}
-  - {name: "Code", url: "https://github.com/HenryPengZou/ImplicitAVE"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15592'}
+  - {name: "Code", url: 'https://github.com/HenryPengZou/ImplicitAVE'}
+tags: ['Fine-Tuning', 'Has Code', 'Multimodal Models', 'Training Techniques']
 ---
 Existing datasets for attribute value extraction (AVE) predominantly focus on
 explicit attribute values while neglecting the implicit ones, lack product

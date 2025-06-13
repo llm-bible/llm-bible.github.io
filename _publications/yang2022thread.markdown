@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yang2022thread
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.04504"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.04504'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Although pre-trained language models (PLMs) have achieved great success and
 become a milestone in NLP, abstractive conversational summarization remains a

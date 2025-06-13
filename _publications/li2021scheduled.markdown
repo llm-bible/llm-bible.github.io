@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021scheduled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.11562"}
-  - {name: "Code", url: "https://github.com/YehLi/TDEN"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.11562'}
+  - {name: "Code", url: 'https://github.com/YehLi/TDEN'}
+tags: ['Has Code', 'Model Architecture', 'BERT', 'Tools', 'Fine-Tuning', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite having impressive vision-language (VL) pretraining with BERT-based
 encoder for VL understanding, the pretraining of a universal encoder-decoder

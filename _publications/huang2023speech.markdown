@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13585"}
-  - {name: "Code", url: "https://speechtranslation.github.io/llm-st/"}
-tags: ['Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13585'}
+  - {name: "Code", url: 'https://speechtranslation.github.io/llm-st/'}
+tags: ['Prompting', 'Has Code']
 ---
 Given the great success of large language models (LLMs) across various tasks,
 in this paper, we introduce LLM-ST, a novel and effective speech translation

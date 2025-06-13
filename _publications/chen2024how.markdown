@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16821"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/InternVL"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16821'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/InternVL'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In this report, we introduce InternVL 1.5, an open-source multimodal large
 language model (MLLM) to bridge the capability gap between open-source and

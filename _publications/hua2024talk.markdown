@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hua2024talk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01417"}
-  - {name: "Code", url: "https://github.com/lil-lab/ICCA"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01417'}
+  - {name: "Code", url: 'https://github.com/lil-lab/ICCA'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Humans spontaneously use increasingly efficient language as interactions
 progress, by adapting and forming ad-hoc conventions. This phenomenon has been

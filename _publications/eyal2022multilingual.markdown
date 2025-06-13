@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: eyal2022multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09682"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09682'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent work attributes progress in NLP to large language models (LMs) with
 increased model size and large quantities of pretraining data. Despite this,

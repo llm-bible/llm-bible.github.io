@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025complex
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17787"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17787'}
 tags: ['RAG', 'Tools']
 ---
 With the development of large language models, their ability to follow simple

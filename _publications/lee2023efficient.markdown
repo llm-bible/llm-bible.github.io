@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09758"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09758'}
+tags: ['RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Large language models (LLMs) have revolutionized the landscape of Natural
 Language Processing systems, but are computationally expensive. To reduce the

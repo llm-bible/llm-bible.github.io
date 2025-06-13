@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: shi2025transfering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05237"}
-tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05237'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Merging', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 Few-shot tabular learning, in which machine learning models are trained with
 a limited amount of labeled data, provides a cost-effective approach to

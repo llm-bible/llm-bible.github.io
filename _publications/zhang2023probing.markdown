@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01468"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01468'}
 tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are effective at answering questions that are

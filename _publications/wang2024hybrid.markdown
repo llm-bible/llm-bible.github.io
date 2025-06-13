@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024hybrid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15178"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15178'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 Alignment training is crucial for enabling large language models (LLMs) to
 cater to human intentions and preferences. It is typically performed based on

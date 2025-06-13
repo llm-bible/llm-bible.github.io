@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025judge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18817"}
-  - {name: "Code", url: "https://github.com/OpenBMB/ConsJudge"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18817'}
+  - {name: "Code", url: 'https://github.com/OpenBMB/ConsJudge'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) has proven its effectiveness in
 alleviating hallucinations for Large Language Models (LLMs). However, existing

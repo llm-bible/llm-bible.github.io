@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17269"}
-tags: ['Model Architecture', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17269'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Model Architecture']
 ---
 Conversational question answering (convQA) over knowledge graphs (KGs)
 involves answering multi-turn natural language questions about information

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: bravin2025embbert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10001"}
-  - {name: "Code", url: "https://github.com/RiccardoBravin/tiny-LLM"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10001'}
+  - {name: "Code", url: 'https://github.com/RiccardoBravin/tiny-LLM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'BERT', 'Applications', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 setting new standards across a wide range of applications. However, their

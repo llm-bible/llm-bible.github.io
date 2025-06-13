@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aly2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13124"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13124'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) frequently hallucinate, impeding their
 reliability in mission-critical situations. One approach to address this issue

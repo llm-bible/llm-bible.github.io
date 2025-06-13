@@ -6,7 +6,7 @@ conference: "Exploring the psychology of LLMs moral and legal reasoning. Artific
 year: 2023
 bibkey: almeida2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.01264"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.01264'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) exhibit expert-level performance in tasks across

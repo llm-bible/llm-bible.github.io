@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: namikoshi2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.20252"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.20252'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 We consider the problem of aligning a large language model (LLM) to model the
 preferences of a human population. Modeling the beliefs, preferences, and

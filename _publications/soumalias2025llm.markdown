@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: soumalias2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10308"}
-tags: ['Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10308'}
+tags: ['Efficiency and Optimization', 'Tools']
 ---
 We study the potential of large language models (LLMs) as proxies for humans
 to simplify preference elicitation (PE) in combinatorial assignment. While

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bi2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18108"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18108'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have

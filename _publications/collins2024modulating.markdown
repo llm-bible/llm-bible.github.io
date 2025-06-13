@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: collins2024modulating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12804"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12804'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Language models are transforming the ways that their users engage with the
 world. Despite impressive capabilities, over-consumption of language model

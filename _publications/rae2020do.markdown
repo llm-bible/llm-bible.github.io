@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: rae2020do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.03356"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.03356'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Deep attention models have advanced the modelling of sequential data across
 many domains. For language modelling in particular, the Transformer-XL -- a

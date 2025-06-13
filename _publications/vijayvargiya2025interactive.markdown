@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vijayvargiya2025interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13069"}
-tags: ['Responsible AI', 'RAG', 'Agentic', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13069'}
+tags: ['Agentic', 'RAG', 'Responsible AI', 'Applications']
 ---
 AI agents are increasingly being deployed to automate tasks, often based on
 ambiguous and underspecified user instructions. Making unwarranted assumptions

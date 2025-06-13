@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05801"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05801'}
 tags: ['RAG', 'Training Techniques']
 ---
 Recent Retrieval Augmented Generation (RAG) aims to enhance Large Language

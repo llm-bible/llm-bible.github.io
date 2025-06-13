@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: sanh2019distilled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.01108"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.01108'}
+tags: ['Language Modeling', 'Ethics and Bias', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Training Techniques', 'BERT', 'Fine-Tuning', 'Pre-Training']
 ---
 As Transfer Learning from large-scale pre-trained models becomes more
 prevalent in Natural Language Processing (NLP), operating these large models in

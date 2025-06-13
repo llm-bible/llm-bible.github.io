@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07387"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07387'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable proficiency in language
 understanding and have been successfully applied to a variety of real-world

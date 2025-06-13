@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11877"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11877'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Creativity involves not only generating new ideas from scratch but also
 redefining existing concepts and synthesizing previous insights. Among various

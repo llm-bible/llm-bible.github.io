@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tao2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00143"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00143'}
 tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Conversation systems accommodate diverse users with unique personalities and

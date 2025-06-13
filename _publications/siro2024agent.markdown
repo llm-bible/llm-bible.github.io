@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: siro2024agent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19692"}
-tags: ['Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19692'}
+tags: ['Prompting', 'Agentic', 'Tools']
 ---
 Generating diverse and effective clarifying questions is crucial for
 improving query understanding and retrieval performance in open-domain

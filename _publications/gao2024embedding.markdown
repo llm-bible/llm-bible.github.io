@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024embedding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10735"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10735'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 Accurate mathematical reasoning with Large Language Models (LLMs) is crucial
 in revolutionizing domains that heavily rely on such reasoning. However, LLMs

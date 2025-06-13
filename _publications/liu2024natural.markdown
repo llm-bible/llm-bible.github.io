@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024natural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20382"}
-  - {name: "Code", url: "https://github.com/Julia-LiuJ/NLFT"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20382'}
+  - {name: "Code", url: 'https://github.com/Julia-LiuJ/NLFT'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language model fine-tuning techniques typically depend on extensive
 labeled data, external guidance, and feedback, such as human alignment, scalar

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024look
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18139"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18139'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Long-context Multimodal Large Language Models (MLLMs) demand substantial
 computational resources for inference as the growth of their multimodal

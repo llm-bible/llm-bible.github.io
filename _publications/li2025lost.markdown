@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04369"}
-  - {name: "Code", url: "https://github.com/yafuly/LLM_Translationese"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04369'}
+  - {name: "Code", url: 'https://github.com/yafuly/LLM_Translationese'}
+tags: ['Has Code', 'Ethics and Bias', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable success in machine
 translation, demonstrating impressive performance across diverse languages.

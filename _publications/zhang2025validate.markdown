@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025validate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13646"}
-tags: ['Security', 'Prompting', 'In-Context Learning', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13646'}
+tags: ['Prompting', 'Security', 'In-Context Learning', 'Applications']
 ---
 In-context learning (ICL) has demonstrated significant potential in enhancing
 the capabilities of large language models (LLMs) during inference. It's

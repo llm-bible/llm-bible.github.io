@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024single
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03232"}
-  - {name: "Code", url: "https://github.com/hannah-aught/space_attack"}
-tags: ['Ethics and Bias', 'RAG', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03232'}
+  - {name: "Code", url: 'https://github.com/hannah-aught/space_attack'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'Prompting', 'Ethics and Bias']
 ---
 When LLMs are deployed in sensitive, human-facing settings, it is crucial
 that they do not output unsafe, biased, or privacy-violating outputs. For this

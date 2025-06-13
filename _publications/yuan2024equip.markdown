@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024equip
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15496"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15496'}
+tags: ['Efficiency and Optimization', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 While the Mamba architecture demonstrates superior inference efficiency and
 competitive performance on short-context natural language processing (NLP)

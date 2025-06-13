@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gan2023sensitivity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.08714"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.08714'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt engineering relevance research has seen a notable surge in recent
 years, primarily driven by advancements in pre-trained language models and

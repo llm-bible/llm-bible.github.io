@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.19167"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.19167'}
+tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Existing large language models struggle to support numerous low-resource
 languages, particularly the extremely low-resource ones, for which there is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024solution
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.04991"}
-tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pruning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.04991'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Pruning', 'Pretraining Methods']
 ---
 In recent years, the rapid advancement of large-scale pre-trained language
 models based on transformer architectures has revolutionized natural language

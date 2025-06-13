@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chae2023dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09343"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09343'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Tools']
 ---
 Human-like chatbots necessitate the use of commonsense reasoning in order to
 effectively comprehend and respond to implicit information present within

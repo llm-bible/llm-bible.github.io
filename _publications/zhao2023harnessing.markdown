@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.12746"}
-  - {name: "Code", url: "https://github.com/zhao-zilong/Tabula"}
-tags: ['Applications', 'RAG', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.12746'}
+  - {name: "Code", url: 'https://github.com/zhao-zilong/Tabula'}
+tags: ['Has Code', 'RAG', 'Security', 'Training Techniques', 'Applications']
 ---
 Tabular data synthesis is crucial for addressing privacy and security
 concerns in industries reliant on tabular data. While recent advancements adopt

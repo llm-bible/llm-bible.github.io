@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shentu2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04798"}
-tags: ['Pre-Training', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04798'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Merging', 'Pre-Training']
 ---
 Hierarchical control for robotics has long been plagued by the need to have a
 well defined interface layer to communicate between high-level task planners

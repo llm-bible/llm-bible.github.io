@@ -6,8 +6,8 @@ conference: "Proceedings of the International AAAI Conference on Web and Social 
 year: 2024
 bibkey: jiang2024look
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17836"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17836'}
+tags: ['Transformer', 'RAG', 'GPT', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper proposes a look ahead text understanding problem with look ahead
 section identification (LASI) as an example. This problem may appear in

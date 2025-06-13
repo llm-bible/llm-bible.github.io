@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: raihan2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16349"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16349'}
+tags: ['Language Modeling', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are becoming increasingly better at a wide range
 of Natural Language Processing tasks (NLP), such as text generation and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.11504"}
-tags: ['Fine-Tuning', 'Transformer', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.11504'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Transformer language models have received widespread public attention, yet
 their generated text is often surprising even to NLP researchers. In this

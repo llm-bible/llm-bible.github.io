@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: baldazzi2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.10723"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Dataset']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.10723'}
+tags: ['Dataset', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exploit fine-tuning as a technique to adapt to
 diverse goals, thanks to task-specific training data. Task specificity should

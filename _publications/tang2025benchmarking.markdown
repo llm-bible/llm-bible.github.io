@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07459"}
-  - {name: "Code", url: "https://github.com/gersteinlab/medagents-benchmark"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07459'}
+  - {name: "Code", url: 'https://github.com/gersteinlab/medagents-benchmark'}
 tags: ['Agentic', 'Has Code', 'Tools']
 ---
 Large Language Models (LLMs) have shown impressive performance on existing

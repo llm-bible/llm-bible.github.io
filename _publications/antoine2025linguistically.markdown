@@ -6,8 +6,8 @@ conference: "Proceedings of the 2024 Conference on Empirical Methods in Natural 
 year: 2025
 bibkey: antoine2025linguistically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17569"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17569'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 We introduce an evaluation methodology for reading comprehension tasks based
 on the intuition that certain examples, by the virtue of their linguistic

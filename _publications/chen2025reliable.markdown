@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.10858"}
-tags: ['Security', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.10858'}
+tags: ['Reinforcement Learning', 'Security', 'Tools']
 ---
 Large language models (LLMs) have revolutionized natural language interfaces
 for databases, particularly in text-to-SQL conversion. However, current

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhaduri2024reconciling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11043"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11043'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 Qualitative data collection and analysis approaches, such as those employing
 interviews and focus groups, provide rich insights into customer attitudes,

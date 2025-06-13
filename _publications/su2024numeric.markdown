@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024numeric
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00566"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00566'}
+tags: ['Pre-Training', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, many works have proposed various financial large language models
 (FinLLMs) by pre-training from scratch or fine-tuning open-sourced LLMs on

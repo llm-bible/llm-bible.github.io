@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17627"}
-  - {name: "Code", url: "https://github.com/luka-group/READ"}
-tags: ['Ethics and Bias', 'Applications', 'Bias Mitigation', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17627'}
+  - {name: "Code", url: 'https://github.com/luka-group/READ'}
+tags: ['Attention Mechanism', 'Has Code', 'BERT', 'Applications', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Natural language understanding (NLU) models often suffer from unintended
 dataset biases. Among bias mitigation methods, ensemble-based debiasing

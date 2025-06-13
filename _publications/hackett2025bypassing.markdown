@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hackett2025bypassing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11168"}
-tags: ['RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11168'}
+tags: ['RAG', 'Prompting', 'Security']
 ---
 Large Language Models (LLMs) guardrail systems are designed to protect
 against prompt injection and jailbreak attacks. However, they remain vulnerable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: son2024prefixing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12016"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12016'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Prompting']
 ---
 Despite recent advances in LLM quantization, activation quantization remains
 to be challenging due to the activation outliers. Conventional remedies, e.g.,

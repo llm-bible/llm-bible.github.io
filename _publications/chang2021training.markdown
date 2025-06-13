@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chang2021training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.03176"}
-tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.03176'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Applications']
 ---
 Large-scale pretrained language models have led to dramatic improvements in
 text generation. Impressive performance can be achieved by finetuning only on a

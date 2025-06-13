@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20783"}
-  - {name: "Code", url: "https://github.com/sail-sg/understand-r1-zero"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20783'}
+  - {name: "Code", url: 'https://github.com/sail-sg/understand-r1-zero'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 DeepSeek-R1-Zero has shown that reinforcement learning (RL) at scale can
 directly enhance the reasoning capabilities of LLMs without supervised

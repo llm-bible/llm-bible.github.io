@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: perrier2025stop
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10420"}
-tags: ['Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10420'}
+tags: ['Agentic', 'Tools', 'Applications']
 ---
 Language Model Agents (LMAs) are increasingly treated as capable of
 autonomously navigating interactions with humans and tools. Their design and

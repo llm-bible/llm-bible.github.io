@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15526"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15526'}
 tags: ['Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit remarkable generative capabilities,

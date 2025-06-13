@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025vector
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.02922"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Vector Indexing']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.02922'}
+tags: ['Attention Mechanism', 'RAG', 'Vector Indexing', 'Model Architecture', 'Reinforcement Learning']
 ---
 The growing context lengths of large language models (LLMs) pose significant
 challenges for efficient inference, primarily due to GPU memory and bandwidth

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024filter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09094"}
-  - {name: "Code", url: "https://github.com/LB0828/FtG"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09094'}
+  - {name: "Code", url: 'https://github.com/LB0828/FtG'}
 tags: ['Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) present massive inherent knowledge and superior

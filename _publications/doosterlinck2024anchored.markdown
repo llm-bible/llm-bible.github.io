@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: doosterlinck2024anchored
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06266"}
-  - {name: "Code", url: "https://github.com/ContextualAI/CLAIR_and_APO"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06266'}
+  - {name: "Code", url: 'https://github.com/ContextualAI/CLAIR_and_APO'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are often aligned using contrastive alignment
 objectives and preference pair datasets. The interaction between model, paired

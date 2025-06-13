@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lang2025telephone
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20140"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20140'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Survey Paper', 'Reinforcement Learning']
 ---
 Telephone surveys remain a valuable tool for gathering insights but typically
 require substantial resources in training and coordinating human interviewers.

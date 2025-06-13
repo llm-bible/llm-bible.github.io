@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13396"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13396'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 While Large Language Models (LLMs) have emerged as promising tools for
 evaluating Natural Language Generation (NLG) tasks, their effectiveness is

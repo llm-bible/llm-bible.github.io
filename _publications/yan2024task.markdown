@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19326"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/TPO"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19326'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/TPO'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Tools', 'GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 Current multimodal large language models (MLLMs) struggle with fine-grained
 or precise understanding of visuals though they give comprehensive perception

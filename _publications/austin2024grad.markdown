@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: austin2024grad
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12865"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12865'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 Prompt engineering for large language models (LLMs) is often a manual

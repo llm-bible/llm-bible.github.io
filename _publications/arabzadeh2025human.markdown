@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: arabzadeh2025human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12408"}
-  - {name: "Code", url: "https://github.com/Narabzad/prompt-sensitivity-relevance-judgements/"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12408'}
+  - {name: "Code", url: 'https://github.com/Narabzad/prompt-sensitivity-relevance-judgements/'}
+tags: ['Has Code', 'RAG', 'Security', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are increasingly used to automate relevance
 judgments for information retrieval (IR) tasks, often demonstrating agreement

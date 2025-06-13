@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024health
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06866"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06866'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) are capable of many natural language tasks, yet
 they are far from perfect. In health applications, grounding and interpreting

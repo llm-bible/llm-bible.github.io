@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024wsi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05603"}
-  - {name: "Code", url: "https://github.com/cpystan/WSI-VQA"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05603'}
+  - {name: "Code", url: 'https://github.com/cpystan/WSI-VQA'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Tools', 'Applications', 'Pretraining Methods']
 ---
 Whole slide imaging is routinely adopted for carcinoma diagnosis and
 prognosis. Abundant experience is required for pathologists to achieve accurate

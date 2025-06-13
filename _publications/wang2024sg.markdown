@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024sg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17021"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17021'}
 tags: ['Prompting', 'Applications']
 ---
 Large Language Models with chain-of-thought prompting, such as OpenAI-o1,

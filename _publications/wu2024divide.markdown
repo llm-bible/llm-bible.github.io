@@ -6,7 +6,7 @@ conference: "2024.findings-emnlp.145"
 year: 2024
 bibkey: wu2024divide
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15000"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15000'}
 tags: ['RAG']
 ---
 Recent methods have demonstrated that Large Language Models (LLMs) can solve

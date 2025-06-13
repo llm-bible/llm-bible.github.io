@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: manevich2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.04664"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Multimodal Models', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.04664'}
+tags: ['Ethics and Bias', 'Fine-Tuning', 'Multimodal Models', 'Training Techniques']
 ---
 Large Vision-Language Models (LVLMs) are an extension of Large Language
 Models (LLMs) that facilitate processing both image and text inputs, expanding

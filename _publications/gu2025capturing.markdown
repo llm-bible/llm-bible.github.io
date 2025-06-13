@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gu2025capturing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14272"}
-tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14272'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Aligning small language models (SLMs) with human values typically involves
 distilling preference knowledge from large language models (LLMs). However,

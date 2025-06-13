@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ezencan2020comparison
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2009.05451"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2009.05451'}
+tags: ['Language Modeling', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent advancements in the NLP field showed that transfer learning helps with
 achieving state-of-the-art results for new tasks by tuning pre-trained models

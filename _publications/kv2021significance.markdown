@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: kv2021significance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.12585"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.12585'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Generalizing beyond the experiences has a significant role in developing
 practical AI systems. It has been shown that current Visual Question Answering

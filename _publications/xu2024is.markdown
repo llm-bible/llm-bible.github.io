@@ -6,9 +6,9 @@ conference: "ICML 2024"
 year: 2024
 bibkey: xu2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10719"}
-  - {name: "Code", url: "https://github.com/openpsi-project/ReaLHF"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10719'}
+  - {name: "Code", url: 'https://github.com/openpsi-project/ReaLHF'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement Learning from Human Feedback (RLHF) is currently the most
 widely used method to align large language models (LLMs) with human

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023cognitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06794"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06794'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Applications', 'Model Architecture']
 ---
 As large language models continue to develop in the field of AI, text
 generation systems are susceptible to a worrisome phenomenon known as

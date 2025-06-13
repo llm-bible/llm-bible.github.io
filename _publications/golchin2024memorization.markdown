@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: golchin2024memorization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11546"}
-tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11546'}
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 In-context learning (ICL) has proven to be an effective strategy for
 improving the performance of large language models (LLMs) with no additional

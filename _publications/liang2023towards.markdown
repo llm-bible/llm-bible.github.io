@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liang2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.03907"}
-  - {name: "Code", url: "https://github.com/UCSD-AI4H/drugchat"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.03907'}
+  - {name: "Code", url: 'https://github.com/UCSD-AI4H/drugchat'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 A ChatGPT-like system for drug compounds could be a game-changer in
 pharmaceutical research, accelerating drug discovery, enhancing our

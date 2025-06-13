@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: isobe2025amd
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18559"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18559'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Text-to-Video (T2V) generation has attracted significant attention for its
 ability to synthesize realistic videos from textual descriptions. However,

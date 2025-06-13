@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025examples
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13518"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13518'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Training Techniques', 'Tools', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Prompting LLMs offers an efficient way to guide output generation without
 explicit model training. In the e-commerce domain, prompting-based applications

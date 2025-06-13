@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: alhajir2025generalising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04711"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04711'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Current large language models (LLMs) are constrained by human-derived
 training data and limited by a single level of abstraction that impedes

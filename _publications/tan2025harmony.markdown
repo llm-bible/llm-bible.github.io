@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025harmony
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03304"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03304'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) excel across various tasks, but standard
 first-order (FO) fine-tuning demands considerable memory, significantly

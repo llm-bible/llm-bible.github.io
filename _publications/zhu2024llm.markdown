@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.08035"}
-tags: ['RAG', 'Tools', 'Prompting', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.08035'}
+tags: ['RAG', 'RecSys', 'Prompting', 'Tools']
 ---
 Conversational Recommender System (CRS) leverages real-time feedback from
 users to dynamically model their preferences, thereby enhancing the system's

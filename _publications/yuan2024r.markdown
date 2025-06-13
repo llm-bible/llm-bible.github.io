@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024r
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10019"}
-  - {name: "Code", url: "https://github.com/Lordog/R-Judge"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10019'}
+  - {name: "Code", url: 'https://github.com/Lordog/R-Judge'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have exhibited great potential in autonomously
 completing tasks across real-world applications. Despite this, these LLM agents

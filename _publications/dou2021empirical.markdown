@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: dou2021empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.02387"}
-  - {name: "Code", url: "https://github.com/zdou0830/METER"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.02387'}
+  - {name: "Code", url: 'https://github.com/zdou0830/METER'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'BERT', 'Merging', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Vision-and-language (VL) pre-training has proven to be highly effective on
 various VL downstream tasks. While recent work has shown that fully

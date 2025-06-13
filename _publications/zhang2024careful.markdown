@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024careful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00332"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00332'}
 tags: ['Training Techniques']
 ---
 Large language models (LLMs) have achieved impressive success on many

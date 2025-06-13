@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gottesman2024estimating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12673"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12673'}
+tags: ['RAG', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 To evaluate knowledge in large language models (LLMs), current methods query
 the model and then evaluate its generated responses. In this work, we ask

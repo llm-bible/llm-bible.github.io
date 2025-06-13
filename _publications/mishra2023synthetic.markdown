@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mishra2023synthetic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20033"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20033'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) like the GPT and LLaMA families have
 demonstrated exceptional capabilities in capturing and condensing critical

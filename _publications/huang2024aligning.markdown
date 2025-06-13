@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05072"}
-tags: ['Tools', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05072'}
+tags: ['WMT', 'Tools']
 ---
 Large Language models (LLMs) have exhibited remarkable abilities in
 understanding complex texts, offering a promising path towards human-like

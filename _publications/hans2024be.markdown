@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hans2024be
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10209"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10209'}
 tags: ['Training Techniques']
 ---
 Large language models can memorize and repeat their training data, causing

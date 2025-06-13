@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06617"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06617'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The rise of "bedroom producers" has democratized music creation, while
 challenging producers to objectively evaluate their work. To address this, we

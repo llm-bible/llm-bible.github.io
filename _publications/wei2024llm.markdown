@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14556"}
-tags: ['Fine-Tuning', 'RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14556'}
+tags: ['RAG', 'Fine-Tuning', 'Applications', 'Tools']
 ---
 As an important component of data exploration and integration, Column Type
 Annotation (CTA) aims to label columns of a table with one or more semantic

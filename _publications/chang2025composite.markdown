@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025composite
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02063"}
-tags: ['GPT', 'RAG', 'Merging', 'Tokenization', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02063'}
+tags: ['RAG', 'GPT', 'Merging', 'Prompting', 'Tokenization', 'Pretraining Methods']
 ---
 Recent advances in generative modeling and tokenization have driven
 significant progress in text-to-motion generation, leading to enhanced quality

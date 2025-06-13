@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: lin2018learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1810.12264"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1810.12264'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Applications', 'Model Architecture']
 ---
 Existing models on open-domain comment generation are difficult to train, and
 they produce repetitive and uninteresting responses. The problem is due to

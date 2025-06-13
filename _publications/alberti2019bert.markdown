@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: alberti2019bert
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1901.08634"}
-  - {name: "Code", url: "https://github.com/google-research/language/tree/master/language/question_answering/bert_joint"}
-tags: ['BERT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1901.08634'}
+  - {name: "Code", url: 'https://github.com/google-research/language/tree/master/language/question_answering/bert_joint'}
+tags: ['Has Code', 'BERT', 'Model Architecture']
 ---
 This technical note describes a new baseline for the Natural Questions. Our
 model is based on BERT and reduces the gap between the model F1 scores reported

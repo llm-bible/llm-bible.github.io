@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: singh2025few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19312"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19312'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Effective personalization of LLMs is critical for a broad range of
 user-interfacing applications such as virtual assistants and content curation.

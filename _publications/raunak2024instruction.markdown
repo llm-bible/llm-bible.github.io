@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: raunak2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05553"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05553'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 In this work, we introduce instruction finetuning for Neural Machine

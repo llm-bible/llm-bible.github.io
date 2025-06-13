@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: lakhotia2020fid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15482"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Merging', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15482'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Applications', 'Interpretability', 'Pretraining Methods']
 ---
 Natural language (NL) explanations of model predictions are gaining
 popularity as a means to understand and verify decisions made by large

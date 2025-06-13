@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: sellam2020learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.04696"}
-tags: ['Pre-Training', 'Ethics and Bias', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.04696'}
+tags: ['Language Modeling', 'Ethics and Bias', 'WMT', 'Model Architecture', 'Training Techniques', 'BERT', 'Applications', 'Reinforcement Learning', 'Pre-Training']
 ---
 Text generation has made significant advances in the last few years. Yet,
 evaluation metrics have lagged behind, as the most popular choices (e.g., BLEU

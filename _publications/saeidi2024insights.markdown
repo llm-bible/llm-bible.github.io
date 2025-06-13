@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saeidi2024insights
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14723"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14723'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 This study evaluates Direct Preference Optimization (DPO) and its variants
 for aligning Large Language Models (LLMs) with human preferences, testing three

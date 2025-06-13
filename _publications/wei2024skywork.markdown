@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024skywork
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06563"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06563'}
 tags: ['RAG', 'Training Techniques']
 ---
 In this technical report, we introduce the training methodologies implemented

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: alkhalili2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.17665"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.17665'}
 tags: ['Applications']
 ---
 Assisting LLMs with code generation improved their performance on

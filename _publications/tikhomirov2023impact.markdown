@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tikhomirov2023impact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02598"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02598'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Tokenization', 'Pretraining Methods']
 ---
 Latest instruction-tuned large language models (LLM) show great results on
 various tasks, however, they often face performance degradation for non-English

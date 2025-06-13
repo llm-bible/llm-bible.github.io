@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: shen2022cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.15523"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.15523'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based pre-trained language models (PLMs) mostly suffer from
 excessive overhead despite their advanced capacity. For resource-constrained

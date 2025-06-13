@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xing2024theoretical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00743"}
-tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00743'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are powerful models that can learn concepts at
 the inference stage via in-context learning (ICL). While theoretical studies,

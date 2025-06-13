@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: he2025decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02343"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02343'}
 tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are increasingly being used in real-world

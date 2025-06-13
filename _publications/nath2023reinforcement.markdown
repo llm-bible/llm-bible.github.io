@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nath2023reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17514"}
-tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17514'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Query-focused Summarization (QfS) deals with systems that generate summaries
 from document(s) based on a query. Motivated by the insight that Reinforcement

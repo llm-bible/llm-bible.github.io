@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2017
 bibkey: xue2017forgettable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1705.01253"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1705.01253'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 A number of visual question answering approaches have been proposed recently,

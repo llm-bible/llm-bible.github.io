@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qin2023federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06353"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06353'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Pre-trained large language models (LLMs) need fine-tuning to improve their
 responsiveness to natural language instructions. Federated learning offers a

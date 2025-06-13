@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024tables
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12424"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12424'}
 tags: ['Prompting']
 ---
 In this paper, we investigate the effectiveness of various LLMs in

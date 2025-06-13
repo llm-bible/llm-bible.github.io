@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: ghosh2019generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.05715"}
-tags: ['Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.05715'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this paper, we present a novel approach for the task of eXplainable
 Question Answering (XQA), i.e., generating natural language (NL) explanations

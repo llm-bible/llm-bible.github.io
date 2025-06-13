@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sainz2023annotation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03668"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03668'}
 tags: ['RAG']
 ---
 Large Language Models (LLMs) combined with instruction tuning have made

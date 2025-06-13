@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12621"}
-tags: ['Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12621'}
+tags: ['Prompting', 'Security', 'In-Context Learning']
 ---
 Large language models (LLMs) excel in various tasks but remain vulnerable to
 jailbreak attacks, where adversaries manipulate prompts to generate harmful

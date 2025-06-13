@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025chinese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12737"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12737'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Chinese-Vicuna is an open-source, resource-efficient language model designed
 to bridge the gap in Chinese instruction-following capabilities by fine-tuning

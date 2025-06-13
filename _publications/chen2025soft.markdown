@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025soft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15836"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15836'}
 tags: ['Security', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) have become increasingly popular. Their emergent

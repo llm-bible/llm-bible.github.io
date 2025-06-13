@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: peng2023stabilizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10202"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10202'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 yet aligning these models with human values and preferences using RLHF remains

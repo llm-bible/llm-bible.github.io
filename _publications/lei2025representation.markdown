@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lei2025representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10871"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10871'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study investigates how large language models (LLMs) represent and recall
 multi-associated attributes across transformer layers. We show that

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rubin2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13421"}
-tags: ['Transformer', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13421'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval-augmented language models (LMs) have received much attention
 recently. However, typically the retriever is not trained jointly as a native

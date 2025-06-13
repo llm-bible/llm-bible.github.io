@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ahn2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18027"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18027'}
 tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 While Large Language Models (LLMs) can serve as agents to simulate human

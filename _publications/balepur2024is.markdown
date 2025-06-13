@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: balepur2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01992"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01992'}
 tags: ['Ethics and Bias']
 ---
 Recent work shows that large language models (LLMs) can answer

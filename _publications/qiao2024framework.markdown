@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiao2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14544"}
-  - {name: "Code", url: "https://github.com/SparksJoe/Prism"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14544'}
+  - {name: "Code", url: 'https://github.com/SparksJoe/Prism'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models']
 ---
 Vision Language Models (VLMs) demonstrate remarkable proficiency in
 addressing a wide array of visual questions, which requires strong perception

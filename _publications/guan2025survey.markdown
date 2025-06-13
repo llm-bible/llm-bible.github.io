@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guan2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17003"}
-tags: ['Tools', 'Survey Paper', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17003'}
+tags: ['Reinforcement Learning', 'Applications', 'Tools', 'Survey Paper']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities, yet
 their transition to real-world applications reveals a critical limitation: the

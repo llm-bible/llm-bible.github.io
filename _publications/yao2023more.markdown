@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023more
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09782"}
-tags: ['RAG', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09782'}
+tags: ['Few-Shot', 'RAG', 'Prompting']
 ---
 While most existing works on LLM prompting techniques focus only on how to
 select a better set of data samples inside one single prompt input (In-Context

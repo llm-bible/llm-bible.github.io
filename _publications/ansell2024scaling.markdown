@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: ansell2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16405"}
-  - {name: "Code", url: "https://github.com/AlanAnsell/peft"}
-  - {name: "Code", url: "https://github.com/ducdauge/sft-llm"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16405'}
+  - {name: "Code", url: 'https://github.com/AlanAnsell/peft'}
+  - {name: "Code", url: 'https://github.com/ducdauge/sft-llm'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are difficult to fully fine-tune (e.g., with
 instructions or human feedback) due to their sheer number of parameters. A

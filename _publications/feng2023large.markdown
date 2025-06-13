@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: feng2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.14206"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.14206'}
 tags: ['Prompting']
 ---
 Recently, researchers have attempted to investigate the capability of LLMs in

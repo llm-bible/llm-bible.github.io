@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yoon2023search
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08750"}
-tags: ['RAG', 'Tools', 'Multimodal Models', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08750'}
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Tools']
 ---
 Embeddings extracted by pre-trained Large Language Models (LLMs) have
 significant potential to improve information retrieval and search. Beyond the

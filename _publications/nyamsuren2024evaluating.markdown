@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nyamsuren2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14766"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14766'}
+tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Quantization', 'Applications', 'Ethics and Bias']
 ---
 Democratization of AI is an important topic within the broader topic of the
 digital divide. This issue is relevant to LLMs, which are becoming popular as

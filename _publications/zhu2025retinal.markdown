@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025retinal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.03987"}
-  - {name: "Code", url: "https://github.com/Retinal-Research/RetinalGPT"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.03987'}
+  - {name: "Code", url: 'https://github.com/Retinal-Research/RetinalGPT'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Multimodal Models']
 ---
 Recently, Multimodal Large Language Models (MLLMs) have gained significant
 attention for their remarkable ability to process and analyze non-textual data,

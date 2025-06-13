@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09939"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09939'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We introduce SciQAG, a novel framework for automatically generating
 high-quality science question-answer pairs from a large corpus of scientific

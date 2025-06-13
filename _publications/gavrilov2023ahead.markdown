@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gavrilov2023ahead
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10835"}
-tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10835'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 In this paper, we propose Ahead-of-Time (AoT) P-Tuning, a novel
 parameter-efficient fine-tuning method for pre-trained Language Models (LMs)

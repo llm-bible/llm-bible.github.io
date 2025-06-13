@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: dong2025talk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21252"}
-  - {name: "Code", url: "https://github.com/LLM-VLM-GSL/Discuss-RAG"}
-tags: ['Agentic', 'Applications', 'RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21252'}
+  - {name: "Code", url: 'https://github.com/LLM-VLM-GSL/Discuss-RAG'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Applications', 'Training Techniques']
 ---
 Medical question answering (QA) is a reasoning-intensive task that remains
 challenging for large language models (LLMs) due to hallucinations and outdated

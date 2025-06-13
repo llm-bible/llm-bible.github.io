@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sublime2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17486"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17486'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Merging', 'Survey Paper', 'Reinforcement Learning']
 ---
 The rapid adoption of Generative AI (GenAI) based on Large Language Models
 (LLMs) such as ChatGPT has recently and profoundly impacted education, offering

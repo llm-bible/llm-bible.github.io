@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lopes2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12969"}
-tags: ['Training Techniques', 'Pre-Training', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12969'}
+tags: ['Pre-Training', 'Language Modeling', 'Training Techniques']
 ---
 Significant strides have been made in natural language tasks, largely
 attributed to the emergence of powerful large language models (LLMs). These

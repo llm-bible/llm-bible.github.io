@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023responsible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01242"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01242'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Prompting']
 ---
 The recent success of Large Language Models (LLMs) signifies an impressive
 stride towards artificial general intelligence. They have shown a promising

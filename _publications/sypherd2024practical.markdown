@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sypherd2024practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04093"}
-tags: ['Agentic', 'Reinforcement Learning', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04093'}
+tags: ['Reinforcement Learning', 'Agentic', 'Applications', 'Tools']
 ---
 As the strength of Large Language Models (LLMs) has grown over recent years,
 so too has interest in their use as the underlying models for autonomous

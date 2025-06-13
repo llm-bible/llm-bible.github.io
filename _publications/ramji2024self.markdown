@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramji2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00827"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00827'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 It is often desirable for Large Language Models (LLMs) to capture multiple
 objectives when providing a response. In document-grounded response generation,

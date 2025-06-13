@@ -6,8 +6,8 @@ conference: "COLING 2025"
 year: 2024
 bibkey: sadallah2024what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09012"}
-  - {name: "Code", url: "https://github.com/bodasadallah/decrypting-crosswords"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09012'}
+  - {name: "Code", url: 'https://github.com/bodasadallah/decrypting-crosswords'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Cryptic crosswords are puzzles that rely on general knowledge and the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mirzadeh2024gsm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05229"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05229'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Recent advancements in Large Language Models (LLMs) have sparked interest in
 their formal reasoning capabilities, particularly in mathematics. The GSM8K

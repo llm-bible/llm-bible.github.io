@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: vanschijndel2019quantity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00111"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00111'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recurrent neural networks can learn to predict upcoming words remarkably well
 on average; in syntactically complex contexts, however, they often assign

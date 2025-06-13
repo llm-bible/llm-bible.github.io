@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bai2024identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11323"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11323'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) has emerged as an effective solution for few-shot
 learning with large language models (LLMs). However, how LLMs leverage

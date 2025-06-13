@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: barezi2024find
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10226"}
-tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10226'}
+tags: ['Training Techniques', 'RAG', 'Applications', 'Model Architecture']
 ---
 We analyze knowledge-based visual question answering, for which given a
 question, the models need to ground it into the visual modality and retrieve

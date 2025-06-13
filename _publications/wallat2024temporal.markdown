@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wallat2024temporal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.12078"}
-  - {name: "Code", url: "https://github.com/jwallat/temporalblindspots"}
-tags: ['Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.12078'}
+  - {name: "Code", url: 'https://github.com/jwallat/temporalblindspots'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large language models (LLMs) have recently gained significant attention due
 to their unparalleled ability to perform various natural language processing

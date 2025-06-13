@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bassignana2022evidence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.11255"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.11255'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
 ---
 With the increase in availability of large pre-trained language models (LMs)
 in Natural Language Processing (NLP), it becomes critical to assess their fit

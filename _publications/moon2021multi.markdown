@@ -6,9 +6,9 @@ conference: "IEEE Journal of Biomedical and Health Informatics 2022"
 year: 2021
 bibkey: moon2021multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.11333"}
-  - {name: "Code", url: "https://github.com/SuperSupermoon/MedViLL"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.11333'}
+  - {name: "Code", url: 'https://github.com/SuperSupermoon/MedViLL'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Pre-Training']
 ---
 Recently a number of studies demonstrated impressive performance on diverse
 vision-language multi-modal tasks such as image captioning and visual question

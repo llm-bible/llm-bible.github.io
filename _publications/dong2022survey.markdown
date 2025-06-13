@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: dong2022survey
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2301.00234v4"}
-tags: ['Survey Paper', 'RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2301.00234v4'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Survey Paper', 'In-Context Learning']
 ---
 With the increasing capabilities of large language models (LLMs), in-context
 learning (ICL) has emerged as a new paradigm for natural language processing

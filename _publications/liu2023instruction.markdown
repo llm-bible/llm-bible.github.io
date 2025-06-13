@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12097"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12097'}
+tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are capable of performing conditional sequence
 generation tasks, such as translation or summarization, through instruction

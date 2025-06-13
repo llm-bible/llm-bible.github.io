@@ -6,7 +6,7 @@ conference: "27th International Conference on Text Speech and Dialogue Sep 2024 
 year: 2024
 bibkey: druart2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13269"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13269'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 In spoken Task-Oriented Dialogue (TOD) systems, the choice of the semantic

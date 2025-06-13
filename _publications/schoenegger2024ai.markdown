@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schoenegger2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07862"}
-tags: ['Fine-Tuning', 'Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07862'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Security']
 ---
 Large language models (LLMs) match and sometimes exceeding human performance
 in many domains. This study explores the potential of LLMs to augment human

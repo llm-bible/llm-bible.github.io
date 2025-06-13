@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07259"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07259'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 In contrast to conventional visual question answering, video-grounded dialog
 necessitates a profound understanding of both dialog history and video content

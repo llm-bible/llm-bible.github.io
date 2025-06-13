@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goyal2024guarding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00826"}
-tags: ['Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00826'}
+tags: ['Reinforcement Learning', 'Ethics and Bias']
 ---
 Although the rise of Large Language Models (LLMs) in enterprise settings
 brings new opportunities and capabilities, it also brings challenges, such as

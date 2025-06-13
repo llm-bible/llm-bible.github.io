@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024internlm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06512"}
-  - {name: "Code", url: "https://github.com/InternLM/InternLM-XComposer"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06512'}
+  - {name: "Code", url: 'https://github.com/InternLM/InternLM-XComposer'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The Large Vision-Language Model (LVLM) field has seen significant
 advancements, yet its progression has been hindered by challenges in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mehandru2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10895"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10895'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Recent developments in large language models (LLMs) have unlocked new
 opportunities for healthcare, from information synthesis to clinical decision

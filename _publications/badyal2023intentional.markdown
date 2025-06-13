@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: badyal2023intentional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07611"}
-tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07611'}
+tags: ['Ethics and Bias', 'Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 In this study we intentionally introduce biases into large language model
 responses in an attempt to create specific personas for interactive media

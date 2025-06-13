@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09595"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09595'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This work explores expanding the capabilities of large language models (LLMs)
 pretrained on text to generate 3D meshes within a unified model. This offers

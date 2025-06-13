@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: peng2021attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.02488"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.02488'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'BERT', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer architectures have achieved state-of-the-art results on a variety
 of sequence modeling tasks. However, their attention mechanism comes with a

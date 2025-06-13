@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: deshpande2024chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04512"}
-tags: ['Language Modeling', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04512'}
+tags: ['Prompting', 'Language Modeling', 'Applications']
 ---
 This paper introduces Chain of Translation Prompting (CoTR), a novel strategy
 designed to enhance the performance of language models in low-resource

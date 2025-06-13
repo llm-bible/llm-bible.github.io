@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: mahdavi2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14275"}
-  - {name: "Code", url: "https://github.com/DSL-Lab/aops"}
-tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14275'}
+  - {name: "Code", url: 'https://github.com/DSL-Lab/aops'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Advances in Large Language Models (LLMs) have sparked interest in their
 ability to solve Olympiad-level math problems. However, the training and

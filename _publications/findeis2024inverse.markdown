@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: findeis2024inverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06560"}
-  - {name: "Code", url: "https://github.com/rdnfn/icai"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06560'}
+  - {name: "Code", url: 'https://github.com/rdnfn/icai'}
+tags: ['Has Code', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Feedback data is widely used for fine-tuning and evaluating state-of-the-art
 AI models. Pairwise text preferences, where human or AI annotators select the

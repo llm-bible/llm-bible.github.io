@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2306.14565v4"}
-  - {name: "Code", url: "https://github.com/FuxiaoLiu/LRV-Instruction"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2306.14565v4'}
+  - {name: "Code", url: 'https://github.com/FuxiaoLiu/LRV-Instruction'}
+tags: ['Has Code', 'GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning']
 ---
 Despite the promising progress in multi-modal tasks, current large
 multi-modal models (LMMs) are prone to hallucinating inconsistent descriptions

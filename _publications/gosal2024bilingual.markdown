@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gosal2024bilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12869"}
-tags: ['Training Techniques', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12869'}
+tags: ['Pre-Training', 'Training Techniques']
 ---
 We present an efficient method for adapting a monolingual Large Language
 Model (LLM) to another language, addressing challenges of catastrophic

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lou2024uncertainty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00847"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00847'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 Reward models (RMs) are essential for aligning large language models (LLM)
 with human expectations. However, existing RMs struggle to capture the

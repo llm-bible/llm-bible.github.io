@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13599"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13599'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have achieved remarkable success recently,
 displaying exceptional capabilities in creating understandable and organized

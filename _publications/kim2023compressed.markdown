@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023compressed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03414"}
-  - {name: "Code", url: "https://github.com/snu-mllab/context-memory"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03414'}
+  - {name: "Code", url: 'https://github.com/snu-mllab/context-memory'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This paper presents a context key/value compression method for Transformer
 language models in online scenarios, where the context continually expands. As

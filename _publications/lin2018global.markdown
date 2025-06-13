@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: lin2018global
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.03989"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.03989'}
+tags: ['Applications', 'Tools']
 ---
 In neural abstractive summarization, the conventional sequence-to-sequence
 (seq2seq) model often suffers from repetition and semantic irrelevance. To

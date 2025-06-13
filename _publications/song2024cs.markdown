@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024cs
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08587"}
-  - {name: "Code", url: "https://github.com/csbench/csbench"}
-tags: ['Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08587'}
+  - {name: "Code", url: 'https://github.com/csbench/csbench'}
+tags: ['Reinforcement Learning', 'Has Code', 'Applications']
 ---
 Large language models (LLMs) have demonstrated significant potential in
 advancing various fields of research and society. However, the current

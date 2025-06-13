@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: son2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11597"}
-  - {name: "Code", url: "https://github.com/guijinSON/MTI-Bench"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11597'}
+  - {name: "Code", url: 'https://github.com/guijinSON/MTI-Bench'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) are typically prompted to follow a single
 instruction per inference call. In this work, we analyze whether LLMs also hold

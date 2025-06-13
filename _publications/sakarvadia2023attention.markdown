@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sakarvadia2023attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16270"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16270'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) are the state-of-the-art for
 natural language tasks. Recent work has attempted to decode, by reverse

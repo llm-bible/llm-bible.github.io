@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022dialogue
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.12662"}
-tags: ['Training Techniques', 'Agentic', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.12662'}
+tags: ['Agentic', 'Tools', 'Training Techniques']
 ---
 Building a universal conversational agent has been a long-standing goal of
 the dialogue research community. Most previous works only focus on a small set

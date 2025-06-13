@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00152"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00152'}
+tags: ['Agentic', 'Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Facilitated by large language models (LLMs), personalized text generation has
 become a rapidly growing research direction. Most existing studies focus on

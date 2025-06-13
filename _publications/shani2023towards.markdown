@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shani2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01866"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01866'}
 tags: ['Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Concepts play a pivotal role in various human cognitive functions, including

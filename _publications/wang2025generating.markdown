@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11142"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11142'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Vision-and-Language Navigation (VLN) is an essential skill for embodied
 agents, allowing them to navigate in 3D environments following natural language

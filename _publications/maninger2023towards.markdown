@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: maninger2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.09126"}
-tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.09126'}
+tags: ['Interpretability and Explainability', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 It is expected that in the near future, AI software development assistants
 will play an important role in the software industry. However, current software

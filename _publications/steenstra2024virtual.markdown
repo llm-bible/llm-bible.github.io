@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: steenstra2024virtual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08095"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08095'}
+tags: ['Agentic', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 We introduce a novel application of large language models (LLMs) in
 developing a virtual counselor capable of conducting motivational interviewing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.11195"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.11195'}
+tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recently, large language models (LLMs) like ChatGPT, LLaMA, and Claude have
 prevailed in countless domains, including legal scenarios. With LLMs' rapid

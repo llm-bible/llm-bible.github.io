@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zeng2020open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.12780"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.12780'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Transformer', 'Model Architecture', 'BERT', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pre-trained language models have been successfully used in response
 generation for open-domain dialogue. Four main frameworks have been proposed:

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: poulain2024bias
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15149"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15149'}
+tags: ['Model Architecture', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have emerged as powerful candidates to inform
 clinical decision-making processes. While these models play an increasingly

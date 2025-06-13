@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pandya2023automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05421"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05421'}
+tags: ['RAG', 'Tools', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In the digital age, the dynamics of customer service are evolving, driven by
 technological advancements and the integration of Large Language Models (LLMs).

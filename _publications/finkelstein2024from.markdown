@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: finkelstein2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15387"}
-tags: ['Applications', 'RAG', 'WMT', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15387'}
+tags: ['RAG', 'WMT', 'Security', 'Applications', 'Prompting', 'In-Context Learning']
 ---
 As LLMs continue to become more powerful and versatile, human evaluation has
 quickly become intractable at scale and reliance on automatic metrics has

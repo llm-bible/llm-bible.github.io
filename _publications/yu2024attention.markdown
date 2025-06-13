@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17143"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17143'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Compared with Large Language Models (LLMs), Large Vision-Language Models
 (LVLMs) can also accept images as input, thus showcasing more interesting

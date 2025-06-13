@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: subramani2022extracting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.05124"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.05124'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prior work on controllable text generation has focused on learning how to
 control language models through trainable decoding, smart-prompt design, or

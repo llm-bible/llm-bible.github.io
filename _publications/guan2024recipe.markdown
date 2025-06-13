@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: guan2024recipe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01469"}
-  - {name: "Code", url: "https://github.com/JianGuanTHU/AMOR"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01469'}
+  - {name: "Code", url: 'https://github.com/JianGuanTHU/AMOR'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The notable success of large language models (LLMs) has sparked an upsurge in
 building language agents to complete various complex tasks. We present AMOR, an

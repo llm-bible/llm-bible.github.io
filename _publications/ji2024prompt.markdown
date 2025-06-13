@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ji2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15156"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15156'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Text-to-video models have made remarkable advancements through optimization
 on high-quality text-video pairs, where the textual prompts play a pivotal role

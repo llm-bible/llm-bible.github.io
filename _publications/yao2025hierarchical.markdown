@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07680"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07680'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Training Long-Context Large Language Models (LLMs) is challenging, as hybrid
 training with long-context and short-context data often leads to workload

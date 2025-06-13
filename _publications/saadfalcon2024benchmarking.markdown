@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: saadfalcon2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07440"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07440'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval pipelines-an integral component of many machine learning
 systems-perform poorly in domains where documents are long (e.g., 10K tokens or

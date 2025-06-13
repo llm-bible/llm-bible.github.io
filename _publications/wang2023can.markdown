@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01499"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01499'}
+tags: ['Interpretability and Explainability', 'GPT', 'Applications', 'Model Architecture', 'Tools']
 ---
 Recent investigations show that large language models (LLMs), specifically
 GPT-4, not only have remarkable capabilities in common Natural Language

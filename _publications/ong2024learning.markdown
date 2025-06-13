@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ong2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18665"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18665'}
+tags: ['Training Techniques', 'RAG', 'Fine-Tuning', 'Tools']
 ---
 Large language models (LLMs) exhibit impressive capabilities across a wide
 range of tasks, yet the choice of which model to use often involves a trade-off

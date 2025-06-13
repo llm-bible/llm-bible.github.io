@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10868"}
-tags: ['Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10868'}
+tags: ['Language Modeling', 'Model Architecture', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) possess vast amounts of knowledge within their
 parameters, prompting research into methods for locating and editing this

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: duan2024r
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07495"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07495'}
 tags: ['GPT', 'Model Architecture']
 ---
 There has been increasing interest in investigating the behaviours of large

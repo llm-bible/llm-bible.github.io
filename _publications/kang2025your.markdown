@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kang2025your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06287"}
-tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06287'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Visual grounding seeks to localize the image region corresponding to a
 free-form text description. Recently, the strong multimodal capabilities of

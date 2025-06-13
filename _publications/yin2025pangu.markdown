@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yin2025pangu
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07866"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07866'}
+tags: ['Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We present Pangu Ultra, a Large Language Model (LLM) with 135 billion
 parameters and dense Transformer modules trained on Ascend Neural Processing

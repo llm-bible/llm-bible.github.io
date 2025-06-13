@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nazir2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22723"}
-tags: ['Agentic', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22723'}
+tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Reinforcement learning often faces challenges with reward misalignment, where
 agents optimize for given rewards but fail to exhibit the desired behaviors.

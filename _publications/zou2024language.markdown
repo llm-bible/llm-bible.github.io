@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00973"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00973'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 Significant advancements in video question answering (VideoQA) have been made
 thanks to thriving large image-language pretraining frameworks. Although these

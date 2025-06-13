@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: amplayo2022query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.17525"}
-tags: ['RAG', 'Few-Shot', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.17525'}
+tags: ['Few-Shot', 'RAG', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have been shown to perform well in answering
 questions and in producing long-form texts, both in few-shot closed-book

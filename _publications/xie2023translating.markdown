@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xie2023translating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.05128"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05128'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Recent large language models (LLMs) have demonstrated remarkable performance

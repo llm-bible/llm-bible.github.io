@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023explicit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.15714"}
-tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.15714'}
+tags: ['Training Techniques', 'Prompting', 'Model Architecture', 'GPT']
 ---
 Language models have been shown to perform remarkably well on a wide range of
 natural language processing tasks. In this paper, we propose LEAP, a novel

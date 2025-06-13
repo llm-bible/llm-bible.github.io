@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ling2023unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.00694"}
-  - {name: "Code", url: "https://github.com/lz1oceani/LLM-As-Hierarchical-Policy"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.00694'}
+  - {name: "Code", url: 'https://github.com/lz1oceani/LLM-As-Hierarchical-Policy'}
 tags: ['Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have achieved tremendous progress, yet they

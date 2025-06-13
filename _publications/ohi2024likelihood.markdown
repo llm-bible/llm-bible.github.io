@@ -6,8 +6,8 @@ conference: "ACL2024 (findings)"
 year: 2024
 bibkey: ohi2024likelihood
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15987"}
-tags: ['In-Context Learning', 'Few-Shot', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15987'}
+tags: ['Ethics and Bias', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) are widely used to evaluate natural language
 generation tasks as automated metrics. However, the likelihood, a measure of

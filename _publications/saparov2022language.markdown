@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: saparov2022language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.01240"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.01240'}
+tags: ['GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown remarkable reasoning capabilities
 given chain-of-thought prompts (examples with intermediate reasoning steps).

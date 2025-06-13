@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qasem2024alkafi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14771"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14771'}
+tags: ['Interpretability and Explainability', 'RAG', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable potential in
 diverse domains, yet their application in the legal sector, particularly in

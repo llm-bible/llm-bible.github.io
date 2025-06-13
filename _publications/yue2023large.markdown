@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yue2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03094"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03094'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Large language models (LLMs) such as GPT-4 have exhibited remarkable
 performance in a variety of tasks, but this strong performance often comes with

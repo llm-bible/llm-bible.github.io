@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yu2022bilaterally
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.12814"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.12814'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in Transformer architectures [1] have brought remarkable
 improvements to visual question answering (VQA). Nevertheless,

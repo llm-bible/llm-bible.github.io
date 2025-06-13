@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lei2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03951"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03951'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) can generate fluent natural language texts when
 given relevant documents as background context. This ability has attracted

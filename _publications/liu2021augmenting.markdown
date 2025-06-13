@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: liu2021augmenting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.00522"}
-  - {name: "Code", url: "https://github.com/DyGRec/ASReP"}
-tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.00522'}
+  - {name: "Code", url: 'https://github.com/DyGRec/ASReP'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'BERT', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Sequential Recommendation characterizes the evolving patterns by modeling
 item sequences chronologically. The essential target of it is to capture the

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: nasir2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.06686"}
-  - {name: "Code", url: "https://github.com/umair-nasir14/Word2World"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.06686'}
+  - {name: "Code", url: 'https://github.com/umair-nasir14/Word2World'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have proven their worth across a diverse
 spectrum of disciplines. LLMs have shown great potential in Procedural Content

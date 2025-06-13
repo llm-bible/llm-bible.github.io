@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mostajabdaveh2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17874"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17874'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications']
 ---
 In this paper, we introduce and apply Operations Research Question Answering
 (ORQA), a new benchmark designed to assess the generalization capabilities of

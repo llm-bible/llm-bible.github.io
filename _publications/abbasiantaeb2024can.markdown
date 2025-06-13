@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abbasiantaeb2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05600"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05600'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Incomplete relevance judgments limit the re-usability of test collections.
 When new systems are compared against previous systems used to build the pool

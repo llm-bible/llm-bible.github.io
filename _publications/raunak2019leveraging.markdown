@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: raunak2019leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1910.02754"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'COLING', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1910.02754'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Merging', 'Multimodal Models', 'COLING']
 ---
 Leveraging the visual modality effectively for Neural Machine Translation
 (NMT) remains an open problem in computational linguistics. Recently, Caglayan

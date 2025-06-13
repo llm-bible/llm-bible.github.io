@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ding2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10078"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10078'}
 tags: ['Uncategorized']
 ---
 This paper aims to address the challenge of sparse and missing data in

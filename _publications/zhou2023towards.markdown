@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11000"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11000'}
 tags: ['Applications']
 ---
 This paper explores the potential of constructing an AI spoken dialogue

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022competition
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2203.07814v1"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2203.07814v1'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Programming is a powerful and ubiquitous problem-solving tool. Developing
 systems that can assist programmers or even generate programs independently

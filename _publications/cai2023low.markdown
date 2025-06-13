@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: cai2023low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.08103"}
-  - {name: "Code", url: "https://github.com/moymix/TaskMatrix/tree/main/LowCodeLLM"}
-  - {name: "Code", url: "https://www.youtube.com/watch?v=jb2C1vaeO3E"}
-tags: ['Tools', 'Has Code', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.08103'}
+  - {name: "Code", url: 'https://github.com/moymix/TaskMatrix/tree/main/LowCodeLLM'}
+  - {name: "Code", url: 'https://www.youtube.com/watch?v=jb2C1vaeO3E'}
+tags: ['Prompting', 'Has Code', 'Applications', 'Tools']
 ---
 Utilizing Large Language Models (LLMs) for complex tasks is challenging,
 often involving a time-consuming and uncontrollable prompt engineering process.

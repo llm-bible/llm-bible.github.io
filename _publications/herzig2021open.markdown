@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: herzig2021open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.12011"}
-tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.12011'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Pre-Training']
 ---
 Recent advances in open-domain QA have led to strong models based on dense
 retrieval, but only focused on retrieving textual passages. In this work, we

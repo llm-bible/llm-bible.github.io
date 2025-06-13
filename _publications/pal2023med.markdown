@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pal2023med
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15343"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15343'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 This research paper focuses on the challenges posed by hallucinations in
 large language models (LLMs), particularly in the context of the medical

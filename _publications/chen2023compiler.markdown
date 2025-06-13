@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023compiler
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06505"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06505'}
 tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have become increasingly prominent in academia

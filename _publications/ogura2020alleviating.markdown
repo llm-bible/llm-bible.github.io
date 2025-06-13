@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ogura2020alleviating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.04557"}
-tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.04557'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Domestic service robots (DSRs) are a promising solution to the shortage of
 home care workers. However, one of the main limitations of DSRs is their

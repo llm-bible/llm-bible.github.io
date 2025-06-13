@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: oh2024house
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01866"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01866'}
+tags: ['Ethics and Bias', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Massive activations, which manifest in specific feature dimensions of hidden
 states, introduce a significant bias in large language models (LLMs), leading

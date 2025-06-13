@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13055"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13055'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Prompting', 'Ethics and Bias', 'Interpretability', 'In-Context Learning', 'Pretraining Methods']
 ---
 Although large language models (LLMs) have demonstrated remarkable
 performance, the lack of transparency in their inference logic raises concerns

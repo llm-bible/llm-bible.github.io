@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03490"}
-  - {name: "Code", url: "https://github.com/CodeMonsterPHD/PneumoLLM/tree/main"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03490'}
+  - {name: "Code", url: 'https://github.com/CodeMonsterPHD/PneumoLLM/tree/main'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The conventional pretraining-and-finetuning paradigm, while effective for
 common diseases with ample data, faces challenges in diagnosing data-scarce

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01241"}
-  - {name: "Code", url: "https://github.com/ruikangliu/IntactKV"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01241'}
+  - {name: "Code", url: 'https://github.com/ruikangliu/IntactKV'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 Large language models (LLMs) excel in natural language processing but demand
 intensive computation. To mitigate this, various quantization methods have been

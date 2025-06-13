@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lou2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.12739"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.12739'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization']
 ---
 Human preference alignment is critical in building powerful and reliable
 large language models (LLMs). However, current methods either ignore the

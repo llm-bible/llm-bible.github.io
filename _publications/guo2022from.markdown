@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: guo2022from
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2212.10846v3"}
-tags: ['Few-Shot', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2212.10846v3'}
+tags: ['Few-Shot', 'Prompting', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated excellent zero-shot
 generalization to new language tasks. However, effective utilization of LLMs

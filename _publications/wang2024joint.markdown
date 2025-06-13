@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024joint
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17887"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17887'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated a remarkable potential in
 medical knowledge acquisition and question-answering. However, LLMs can

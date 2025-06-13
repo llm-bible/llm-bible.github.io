@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kasetty2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05545"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05545'}
 tags: ['GPT', 'Model Architecture']
 ---
 Numerous decision-making tasks require estimating causal effects under

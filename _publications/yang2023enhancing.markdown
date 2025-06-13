@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03549"}
-  - {name: "Code", url: "https://github.com/SupritYoung/Zhongjing"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03549'}
+  - {name: "Code", url: 'https://github.com/SupritYoung/Zhongjing'}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) have achieved remarkable
 breakthroughs in understanding and responding to user intents. However, their

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023mitigating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2311.13614v2"}
-  - {name: "Code", url: "https://github.com/Yuqifan1117/HalluciDoctor"}
-tags: ['Tools', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2311.13614v2'}
+  - {name: "Code", url: 'https://github.com/Yuqifan1117/HalluciDoctor'}
+tags: ['Reinforcement Learning', 'Has Code', 'Tools', 'Training Techniques']
 ---
 Multi-modal Large Language Models (MLLMs) tuned on machine-generated
 instruction-following data have demonstrated remarkable performance in various

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: stein2023automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09830"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09830'}
 tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) have revolutionized a large variety of NLP

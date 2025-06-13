@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18600"}
-  - {name: "Code", url: "https://github.com/sileix/chain-of-draft"}
-tags: ['Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18600'}
+  - {name: "Code", url: 'https://github.com/sileix/chain-of-draft'}
+tags: ['Prompting', 'Has Code']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance in
 solving complex reasoning tasks through mechanisms like Chain-of-Thought (CoT)

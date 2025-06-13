@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2017
 bibkey: vaswani2017attention
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/1706.03762v7"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/1706.03762v7'}
+tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Pretraining Methods']
 ---
 The dominant sequence transduction models are based on complex recurrent or
 convolutional neural networks in an encoder-decoder configuration. The best

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: weng2019improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.07688"}
-tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.07688'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Monolingual data has been demonstrated to be helpful in improving the
 translation quality of neural machine translation (NMT). The current methods

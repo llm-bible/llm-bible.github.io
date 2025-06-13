@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nguyen2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12446"}
-tags: ['RAG', 'Tools', 'Ethics and Bias', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12446'}
+tags: ['Ethics and Bias', 'RAG', 'Applications', 'Tools']
 ---
 Inference-time intervention (ITI) has emerged as a promising method for
 steering large language model (LLM) behavior in a particular direction (e.g.,

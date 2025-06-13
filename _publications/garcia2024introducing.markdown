@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: garcia2024introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02909"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02909'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) are increasingly bringing advances to Natural

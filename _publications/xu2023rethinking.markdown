@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11508"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11508'}
 tags: ['Merging']
 ---
 Instruction tuning, a specialized technique to enhance large language model

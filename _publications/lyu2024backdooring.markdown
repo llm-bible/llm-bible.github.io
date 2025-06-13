@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lyu2024backdooring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01264"}
-tags: ['Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01264'}
+tags: ['Security', 'Applications', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The emergence of Vision-Language Models (VLMs) represents a significant
 advancement in integrating computer vision with Large Language Models (LLMs) to

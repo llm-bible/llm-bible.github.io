@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09783"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09783'}
+tags: ['Few-Shot', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting', 'Ethics and Bias', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have shown significant promise in various
 applications, including zero-shot and few-shot learning. However, their

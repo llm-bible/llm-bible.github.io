@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hou2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.13805"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.13805'}
+tags: ['Reinforcement Learning', 'Pre-Training', 'RAG', 'Training Techniques']
 ---
 Retrieval-augmented generation (RAG) has emerged as a promising solution to
 mitigate the limitations of large language models (LLMs), such as

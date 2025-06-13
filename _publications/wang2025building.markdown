@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04488"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04488'}
+tags: ['Attention Mechanism', 'Transformer', 'Fairness', 'Training Techniques', 'Model Architecture', 'Tools', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recent advancements in large language models have demonstrated that extended
 inference through techniques can markedly improve performance, yet these gains

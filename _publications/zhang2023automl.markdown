@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023automl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.02499"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.02499'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'GPT', 'Prompting']
 ---
 AI tasks encompass a wide range of domains and fields. While numerous AI
 models have been designed for specific tasks and applications, they often

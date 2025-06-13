@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024rag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00353"}
-  - {name: "Code", url: "https://github.com/FreedomIntelligence/RAG-Instruct"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00353'}
+  - {name: "Code", url: 'https://github.com/FreedomIntelligence/RAG-Instruct'}
 tags: ['RAG', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) has emerged as a key paradigm for

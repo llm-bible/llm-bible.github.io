@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qian2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13220"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13220'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The remarkable advancements in Multimodal Large Language Models (MLLMs) have
 not rendered them immune to challenges, particularly in the context of handling

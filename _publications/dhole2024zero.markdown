@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: dhole2024zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03746"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03746'}
 tags: ['RAG', 'Prompting']
 ---
 Query Reformulation(QR) is a set of techniques used to transform a user's

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: han2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05191"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05191'}
 tags: ['Applications']
 ---
 In the context of English as a Foreign Language (EFL) writing education,

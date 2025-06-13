@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kieu2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20452"}
-tags: ['Transformer', 'Attention Mechanism', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20452'}
+tags: ['Attention Mechanism', 'Prompting', 'Transformer', 'Model Architecture']
 ---
 Personalized news recommendation systems often struggle to effectively
 capture the complexity of user preferences, as they rely heavily on shallow

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kuchnik2022validating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.15458"}
-tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.15458'}
+tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Prompting', 'RAG']
 ---
 Although large language models (LLMs) have been touted for their ability to
 generate natural-sounding text, there are growing concerns around possible

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lim2024vlr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10151"}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10151'}
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Training Techniques']
 ---
 We propose the VLR-Bench, a visual question answering (VQA) benchmark for
 evaluating vision language models (VLMs) based on retrieval augmented

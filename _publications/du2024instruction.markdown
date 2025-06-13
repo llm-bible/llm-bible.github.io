@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024instruction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17851"}
-  - {name: "Code", url: "https://github.com/Topdu/OpenOCR"}
-tags: ['Training Techniques', 'Multimodal Models', 'Has Code', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17851'}
+  - {name: "Code", url: 'https://github.com/Topdu/OpenOCR'}
+tags: ['Has Code', 'Multimodal Models', 'Training Techniques', 'Merging']
 ---
 Multi-modal models have shown appealing performance in visual recognition
 tasks, as free-form text-guided training evokes the ability to understand

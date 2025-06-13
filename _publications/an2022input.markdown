@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: an2022input
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.03131"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.03131'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Recently the prompt-tuning paradigm has attracted significant attention. By
 only tuning continuous prompts with a frozen pre-trained language model (PLM),

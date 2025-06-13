@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024critical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19943"}
-  - {name: "Code", url: "https://github.com/chenzhiling9954/Critical-Tokens-Matter"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19943'}
+  - {name: "Code", url: 'https://github.com/chenzhiling9954/Critical-Tokens-Matter'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Mathematical reasoning tasks pose significant challenges for large language
 models (LLMs) because they require precise logical deduction and sequence

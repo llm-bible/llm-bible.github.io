@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patnaik2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2506.02519"}
-  - {name: "Code", url: "https://github.com/Sohanpatnaik106/collate)"}
-tags: ['Tools', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2506.02519'}
+  - {name: "Code", url: 'https://github.com/Sohanpatnaik106/collate)'}
+tags: ['Has Code', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 LLMssuch as GPT-4 have shown a remarkable ability to solve complex questions by generating step-by-step rationales. Prior works have utilized this capability to improve smaller and cheaper LMs (say, with 7B parameters). However, various practical constraints, such as copyright and legal issues, owing to lack of transparency in the pre-training data of large (often closed) models, prevent their use in commercial settings. Little focus has been given to improving the innate reasoning ability of smaller models without distilling information from larger LLMs. To address this, we propose COLLATE, a trainable framework that tunes a (small) LLM to generate those outputs from a pool of diverse rationales that selectively improves the downstream task. COLLATE enforces multiple instances of the same LLM to exhibit distinct behavior and employs them to generate rationales to obtain diverse outputs. The LLM is then tuned via preference optimization to choose the candidate rationale which maximizes the likelihood of ground-truth answer. COLLATE outperforms several trainable and prompting baselines on 5 datasets across 3 domains: maths problem solving, natural language inference, and commonsense reasoning. We show the eff icacy of COLLATE on LLMs from different model families across varying parameter scales (1B to 8B) and demonstrate the benefit of multiple rationale providers guided by the end task through ablations. Code is released here (https://github.com/Sohanpatnaik106/collate).

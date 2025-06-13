@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.08470"}
-tags: ['Interpretability', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.08470'}
+tags: ['RAG', 'Interpretability', 'Training Techniques']
 ---
 Despite their widespread adoption, large language models (LLMs) remain
 prohibitive to use under resource constraints, with their ever growing sizes

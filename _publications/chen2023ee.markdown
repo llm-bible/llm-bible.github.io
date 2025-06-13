@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023ee
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04916"}
-  - {name: "Code", url: "https://github.com/pan-x-c/EE-LLM"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04916'}
+  - {name: "Code", url: 'https://github.com/pan-x-c/EE-LLM'}
+tags: ['Large-Scale Training', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present EE-LLM, a framework for large-scale training and inference of
 early-exit large language models (LLMs). While recent works have shown

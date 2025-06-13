@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2016
 bibkey: yu2016end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1610.09996"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1610.09996'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture']
 ---
 This paper proposes dynamic chunk reader (DCR), an end-to-end neural reading
 comprehension (RC) model that is able to extract and rank a set of answer

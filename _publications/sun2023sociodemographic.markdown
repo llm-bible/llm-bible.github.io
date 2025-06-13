@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023sociodemographic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09730"}
-  - {name: "Code", url: "https://github.com/Jiaxin-Pei/LLM-as-Subjective-Judge"}
-tags: ['RAG', 'Has Code', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09730'}
+  - {name: "Code", url: 'https://github.com/Jiaxin-Pei/LLM-as-Subjective-Judge'}
+tags: ['Ethics and Bias', 'Has Code', 'RAG', 'Prompting']
 ---
 Human judgments are inherently subjective and are actively affected by
 personal traits such as gender and ethnicity. While Large Language Models

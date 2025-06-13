@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: ying2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11054"}
-  - {name: "Code", url: "https://github.com/NY1024/RACE"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11054'}
+  - {name: "Code", url: 'https://github.com/NY1024/RACE'}
+tags: ['Has Code', 'RAG', 'Security', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI']
 ---
 Multi-turn jailbreak attacks simulate real-world human interactions by
 engaging large language models (LLMs) in iterative dialogues, exposing critical

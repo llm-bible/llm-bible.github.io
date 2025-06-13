@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: murakhovska2023salespeople
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17749"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17749'}
+tags: ['Agentic', 'RAG', 'Tools', 'RecSys', 'Reinforcement Learning']
 ---
 Making big purchases requires consumers to research or consult a salesperson
 to gain domain expertise. However, existing conversational recommender systems

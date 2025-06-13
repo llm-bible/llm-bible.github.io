@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024private
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11656"}
-tags: ['Responsible AI', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11656'}
+tags: ['Reinforcement Learning', 'Responsible AI']
 ---
 Eating disorders (ED) are complex mental health conditions that require
 long-term management and support. Recent advancements in large language model

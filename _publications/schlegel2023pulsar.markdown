@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: schlegel2023pulsar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02006"}
-  - {name: "Code", url: "https://github.com/yuping-wu/PULSAR"}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02006'}
+  - {name: "Code", url: 'https://github.com/yuping-wu/PULSAR'}
+tags: ['Pre-Training', 'Has Code', 'Tools', 'Training Techniques']
 ---
 This paper describes PULSAR, our system submission at the ImageClef 2023
 MediQA-Sum task on summarising patient-doctor dialogues into clinical records.

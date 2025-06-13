@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14365"}
-tags: ['RAG', 'Agentic', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14365'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Survey Paper']
 ---
 Due to the powerful capabilities demonstrated by large language model (LLM),
 there has been a recent surge in efforts to integrate them with AI agents to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vashishtha2024chaining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05578"}
-tags: ['Tools', 'Survey Paper', 'Merging', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05578'}
+tags: ['Tools', 'Merging', 'Prompting', 'Survey Paper', 'Reinforcement Learning']
 ---
 Text-to-image models such as stable diffusion have opened a plethora of
 opportunities for generating art. Recent literature has surveyed the use of

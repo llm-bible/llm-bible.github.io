@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08711"}
-  - {name: "Code", url: "https://github.com/ytyz1307zzh/PLUG"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08711'}
+  - {name: "Code", url: 'https://github.com/ytyz1307zzh/PLUG'}
+tags: ['Pre-Training', 'Has Code', 'RAG', 'Training Techniques']
 ---
 Instruction tuning has remarkably advanced large language models (LLMs) in
 understanding and responding to diverse human instructions. Despite the success

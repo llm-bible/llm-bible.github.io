@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wang2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15828"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15828'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 We generalize deep self-attention distillation in MiniLM (Wang et al., 2020)
 by only using self-attention relation distillation for task-agnostic

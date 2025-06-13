@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bakalova2025contextualize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00132"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00132'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) is an intriguing ability of large language models

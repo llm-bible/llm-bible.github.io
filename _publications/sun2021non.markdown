@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sun2021non
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.09702"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.09702'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Existing text- and image-based multimodal dialogue systems use the
 traditional Hierarchical Recurrent Encoder-Decoder (HRED) framework, which has

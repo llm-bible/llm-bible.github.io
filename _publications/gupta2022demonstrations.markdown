@@ -6,8 +6,8 @@ conference: "In Proceedings of the 2022 Conference of the North American Chapter
 year: 2022
 bibkey: gupta2022demonstrations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2204.04327"}
-tags: ['RAG', 'Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2204.04327'}
+tags: ['RAG', 'Prompting', 'Applications', 'Tools']
 ---
 Building universal dialogue systems that operate across multiple domains/APIs
 and generalize to new ones with minimal overhead is a critical challenge.

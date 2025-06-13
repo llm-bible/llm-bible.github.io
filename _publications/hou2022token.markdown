@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: hou2022token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.13240"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.13240'}
+tags: ['Masked Language Model', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Transformer-based models generally allocate the same amount of computation
 for each token in a given sequence. We develop a simple but effective "token

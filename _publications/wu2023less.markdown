@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07382"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07382'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have shown promising performance in summary
 evaluation tasks, yet they face challenges such as high computational costs and

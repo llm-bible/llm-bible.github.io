@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08635"}
-tags: ['Transformer', 'GPT', 'Language Modeling', 'Merging', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08635'}
+tags: ['Language Modeling', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization', 'Merging', 'Multimodal Models', 'Pretraining Methods']
 ---
 Multimodal generative models require a unified approach to handle both
 discrete data (e.g., text and code) and continuous data (e.g., image, audio,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qin2024federated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10926"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10926'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 Instruction tuning helps improve pretrained large language models (LLMs) in
 terms of the responsiveness to human instructions, which is benefited from

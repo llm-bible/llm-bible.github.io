@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024pedagogical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00938"}
-  - {name: "Code", url: "https://github.com/luffycodes/MalAlgoQA-Dataset}{here"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00938'}
+  - {name: "Code", url: 'https://github.com/luffycodes/MalAlgoQA-Dataset}{here'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code']
 ---
 This paper introduces MalAlgoQA, a novel dataset designed to evaluate the
 counterfactual reasoning capabilities of Large Language Models (LLMs) through a

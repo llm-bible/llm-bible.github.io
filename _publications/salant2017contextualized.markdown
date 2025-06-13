@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2017
 bibkey: salant2017contextualized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1712.03609"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1712.03609'}
 tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Reading a document and extracting an answer to a question about its content

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: saadfalcon2023automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09476"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09476'}
+tags: ['Training Techniques', 'RAG', 'Tools']
 ---
 Evaluating retrieval-augmented generation (RAG) systems traditionally relies
 on hand annotations for input queries, passages to retrieve, and responses to

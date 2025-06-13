@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yoon2024c
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14119"}
-  - {name: "Code", url: "https://github.com/hee-suk-yoon/C-TPT"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14119'}
+  - {name: "Code", url: 'https://github.com/hee-suk-yoon/C-TPT'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In deep learning, test-time adaptation has gained attention as a method for
 model fine-tuning without the need for labeled data. A prime exemplification is

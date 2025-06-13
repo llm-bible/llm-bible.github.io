@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.00294"}
-tags: ['Security', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.00294'}
+tags: ['Security', 'Applications', 'Training Techniques']
 ---
 Despite being able to generate fluent and grammatical text, current Seq2Seq
 summarization models still suffering from the unfaithful generation problem. In

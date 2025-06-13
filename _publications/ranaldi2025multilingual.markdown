@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ranaldi2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03616"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03616'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Retrieval-augmented generation (RAG) has become a cornerstone of contemporary

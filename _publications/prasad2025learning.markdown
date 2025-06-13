@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: prasad2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01619"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01619'}
 tags: ['Reinforcement Learning']
 ---
 Unit tests (UTs) play an instrumental role in assessing code correctness as

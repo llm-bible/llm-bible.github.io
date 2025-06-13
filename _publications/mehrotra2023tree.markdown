@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mehrotra2023tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02119"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Pruning', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02119'}
+tags: ['Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Prompting', 'Pruning', 'Ethics and Bias']
 ---
 While Large Language Models (LLMs) display versatile functionality, they
 continue to generate harmful, biased, and toxic content, as demonstrated by the

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024implicit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14660"}
-  - {name: "Code", url: "https://github.com/LzVv123456/I2CL"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14660'}
+  - {name: "Code", url: 'https://github.com/LzVv123456/I2CL'}
+tags: ['Has Code', 'Few-Shot', 'Security', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In-context Learning (ICL) empowers large language models (LLMs) to swiftly
 adapt to unseen tasks at inference-time by prefixing a few demonstration

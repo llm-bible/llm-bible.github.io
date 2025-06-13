@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: frick2025prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14855"}
-  - {name: "Code", url: "https://github.com/lmarena/p2l"}
-tags: ['RAG', 'Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14855'}
+  - {name: "Code", url: 'https://github.com/lmarena/p2l'}
+tags: ['RAG', 'Has Code', 'Prompting', 'Tools']
 ---
 Large language model (LLM) evaluations typically rely on aggregated metrics
 like accuracy or human preference, averaging across users and prompts. This

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04214"}
-  - {name: "Code", url: "https://github.com/Value4AI/ValueBench"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04214'}
+  - {name: "Code", url: 'https://github.com/Value4AI/ValueBench'}
 tags: ['Has Code', 'Applications']
 ---
 Large Language Models (LLMs) are transforming diverse fields and gaining

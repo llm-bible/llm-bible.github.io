@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19056"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19056'}
 tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Office automation significantly enhances human productivity by automatically

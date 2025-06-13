@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2004.08994"}
-  - {name: "Code", url: "https://github.com/namisan/mt-dnn"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Survey Paper', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2004.08994'}
+  - {name: "Code", url: 'https://github.com/namisan/mt-dnn'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
 ---
 Generalization and robustness are both key desiderata for designing machine
 learning methods. Adversarial training can enhance robustness, but past work

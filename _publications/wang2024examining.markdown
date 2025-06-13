@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21012"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21012'}
 tags: ['Reinforcement Learning']
 ---
 Large Language Models (LLMs) are proficient at retrieving single facts from

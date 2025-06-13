@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tziafas2024lifelong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18746"}
-  - {name: "Code", url: "https://gtziafas.github.io/LRLL_project"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18746'}
+  - {name: "Code", url: 'https://gtziafas.github.io/LRLL_project'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have emerged as a new paradigm for embodied
 reasoning and control, most recently by generating robot policy code that

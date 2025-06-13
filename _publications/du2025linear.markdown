@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2025
 bibkey: du2025linear
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13685"}
-  - {name: "Code", url: "https://github.com/OpenSparseLLMs/MoM"}
-  - {name: "Code", url: "https://github.com/OpenSparseLLMs/Linear-MoE"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13685'}
+  - {name: "Code", url: 'https://github.com/OpenSparseLLMs/MoM'}
+  - {name: "Code", url: 'https://github.com/OpenSparseLLMs/Linear-MoE'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Linear sequence modeling methods, such as linear attention, state space
 modeling, and linear RNNs, offer significant efficiency improvements by

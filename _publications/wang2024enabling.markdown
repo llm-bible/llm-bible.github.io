@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01837"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Pruning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01837'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Prompting', 'Pruning']
 ---
 How to leverage large language model's superior capability in e-commerce
 recommendation has been a hot topic. In this paper, we propose LLM-PKG, an

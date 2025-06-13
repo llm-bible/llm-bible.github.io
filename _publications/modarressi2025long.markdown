@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: modarressi2025long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05167"}
-  - {name: "Code", url: "https://github.com/adobe-research/NoLiMa"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05167'}
+  - {name: "Code", url: 'https://github.com/adobe-research/NoLiMa'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent large language models (LLMs) support long contexts ranging from 128K
 to 1M tokens. A popular method for evaluating these capabilities is the

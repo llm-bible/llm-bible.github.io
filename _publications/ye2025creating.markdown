@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ye2025creating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04983"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04983'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Creating interactive scenes often involves complex programming tasks.
 Although large language models (LLMs) like ChatGPT can generate code from

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023converse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01337"}
-tags: ['Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01337'}
+tags: ['Prompting', 'Agentic', 'Tools']
 ---
 Employing Large Language Models (LLMs) to address mathematical problems is an
 intriguing research endeavor, considering the abundance of math problems

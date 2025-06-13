@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: sun2022black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.03514"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.03514'}
+tags: ['Efficiency and Optimization', 'GPT', 'BERT', 'Model Architecture', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Extremely large pre-trained language models (PTMs) such as GPT-3 are usually
 released as a service. It allows users to design task-specific prompts to query

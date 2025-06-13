@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: aich2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12687"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12687'}
 tags: ['Reinforcement Learning']
 ---
 NLP in mental health has been primarily social media focused. Real world

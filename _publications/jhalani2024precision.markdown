@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jhalani2024precision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09994"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09994'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 In the realm of multimodal tasks, Visual Question Answering (VQA) plays a
 crucial role by addressing natural language questions grounded in visual

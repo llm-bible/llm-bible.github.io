@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024pushing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07470"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07470'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 The value of text classification's future research has encountered challenges
 and uncertainties, due to the extraordinary efficacy demonstrated by large

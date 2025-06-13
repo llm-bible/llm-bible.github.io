@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024rlhf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.07863"}
-  - {name: "Code", url: "https://github.com/RLHFlow/RLHF-Reward-Modeling"}
-  - {name: "Code", url: "https://github.com/RLHFlow/Online-RLHF"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.07863'}
+  - {name: "Code", url: 'https://github.com/RLHFlow/RLHF-Reward-Modeling'}
+  - {name: "Code", url: 'https://github.com/RLHFlow/Online-RLHF'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present the workflow of Online Iterative Reinforcement Learning from Human
 Feedback (RLHF) in this technical report, which is widely reported to

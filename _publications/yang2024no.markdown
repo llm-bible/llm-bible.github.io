@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18096"}
-tags: ['Responsible AI', 'Training Techniques', 'Efficiency and Optimization', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18096'}
+tags: ['Efficiency and Optimization', 'Responsible AI', 'Training Techniques', 'Quantization']
 ---
 Key-Value (KV) Caching has become an essential technique for accelerating the
 inference speed and throughput of generative Large Language Models~(LLMs).

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mannekote2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02110"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02110'}
+tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning']
 ---
 Simulating learner actions helps stress-test open-ended interactive learning
 environments and prototype new adaptations before deployment. While recent

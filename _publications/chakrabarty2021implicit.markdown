@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: chakrabarty2021implicit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.05358"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.05358'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Enthymemes are defined as arguments where a premise or conclusion is left

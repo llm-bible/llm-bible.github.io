@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rekanar2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09203"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09203'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Applications', 'Tools']
 ---
 Visual Question Answering (VQA) models play a critical role in enhancing the
 perception capabilities of autonomous driving systems by allowing vehicles to

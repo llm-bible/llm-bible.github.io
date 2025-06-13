@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12711"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12711'}
 tags: ['Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 Instruction tuning is instrumental in enabling Large Language Models~(LLMs)

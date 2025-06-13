@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: pal2021investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.04672"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.04672'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 The transformer-based pre-trained language models have been tremendously
 successful in most of the conventional NLP tasks. But they often struggle in

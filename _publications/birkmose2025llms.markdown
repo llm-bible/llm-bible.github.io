@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: birkmose2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12923"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12923'}
 tags: ['RAG', 'Prompting']
 ---
 This paper investigates whether Large Language Models (LLMs), fine-tuned on

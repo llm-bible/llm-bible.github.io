@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: bansal2022rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.09095"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.09095'}
+tags: ['Attention Mechanism', 'Arxiv', 'Interpretability and Explainability', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Language models have been shown to perform better with an increase in scale
 on a wide variety of tasks via the in-context learning paradigm. In this paper,

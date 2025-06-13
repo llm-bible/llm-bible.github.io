@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gong2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.19547"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.19547'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) offer a promising basis for creating agents that
 can tackle complex tasks through iterative environmental interaction. Existing

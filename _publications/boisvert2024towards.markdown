@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: boisvert2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05291"}
-  - {name: "Code", url: "https://github.com/ServiceNow/WorkArena"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Training Techniques', 'Agent', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05291'}
+  - {name: "Code", url: 'https://github.com/ServiceNow/WorkArena'}
+tags: ['Agentic', 'Has Code', 'Agent', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 The ability of large language models (LLMs) to mimic human-like intelligence
 has led to a surge in LLM-based autonomous agents. Though recent LLMs seem

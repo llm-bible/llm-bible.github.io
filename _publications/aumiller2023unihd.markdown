@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: aumiller2023unihd
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.01764"}
-  - {name: "Code", url: "https://github.com/dennlinger/TSAR-2022-Shared-Task"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.01764'}
+  - {name: "Code", url: 'https://github.com/dennlinger/TSAR-2022-Shared-Task'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 Previous state-of-the-art models for lexical simplification consist of
 complex pipelines with several components, each of which requires deep

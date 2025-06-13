@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: momen2023increasing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20589"}
-tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20589'}
+tags: ['Masked Language Model', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 In this paper, we describe our submission to the BabyLM Challenge 2023 shared
 task on data-efficient language model (LM) pretraining (Warstadt et al., 2023).

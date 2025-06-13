@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gao2025order
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08161"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08161'}
+tags: ['Training Techniques', 'RAG', 'Applications']
 ---
 Code embeddings capture the semantic representations of code and are crucial
 for various code-related large language model (LLM) applications, such as code

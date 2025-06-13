@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023duty
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2310.16436v2"}
-tags: ['Fine-Tuning', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2310.16436v2'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Interpretability', 'Pretraining Methods']
 ---
 A long-standing goal of AI systems is to perform complex multimodal reasoning
 like humans. Recently, large language models (LLMs) have made remarkable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: som2023demonstrations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10707"}
-tags: ['Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10707'}
+tags: ['Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 Paraphrasing of offensive content is a better alternative to content removal
 and helps improve civility in a communication environment. Supervised

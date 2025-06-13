@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021cpm
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2106.10715v3"}
-  - {name: "Code", url: "https://github.com/TsinghuaAI/CPM"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2106.10715v3'}
+  - {name: "Code", url: 'https://github.com/TsinghuaAI/CPM'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 In recent years, the size of pre-trained language models (PLMs) has grown by
 leaps and bounds. However, efficiency issues of these large-scale PLMs limit

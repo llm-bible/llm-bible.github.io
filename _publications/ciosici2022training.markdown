@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: ciosici2022training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.12097"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.12097'}
 tags: ['Training Techniques']
 ---
 Training large neural language models on large datasets is resource- and

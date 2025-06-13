@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hussain2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01143"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01143'}
+tags: ['ACL', 'RAG', 'Training Techniques', 'Tools', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 This study delves into the capabilities and limitations of Large Language
 Models (LLMs) in the challenging domain of conditional question-answering.

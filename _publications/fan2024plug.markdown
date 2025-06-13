@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10241"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Language Modeling', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10241'}
+tags: ['Language Modeling', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Evaluating the bias in Large Language Models (LLMs) becomes increasingly
 crucial with their rapid development. However, existing evaluation methods rely

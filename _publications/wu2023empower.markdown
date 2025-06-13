@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023empower
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05450"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05450'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Beyond the great cognitive powers showcased by language models, it is crucial
 to scrutinize whether their reasoning capabilities stem from strong

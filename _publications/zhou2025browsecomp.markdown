@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025browsecomp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19314"}
-  - {name: "Code", url: "https://github.com/PALIN2018/BrowseComp-ZH"}
-tags: ['Agentic', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19314'}
+  - {name: "Code", url: 'https://github.com/PALIN2018/BrowseComp-ZH'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code']
 ---
 As large language models (LLMs) evolve into tool-using agents, the ability to
 browse the web in real-time has become a critical yardstick for measuring their

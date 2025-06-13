@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17245"}
-  - {name: "Code", url: "https://github.com/wenyudu/MIGU"}
-tags: ['Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17245'}
+  - {name: "Code", url: 'https://github.com/wenyudu/MIGU'}
+tags: ['Has Code', 'RAG', 'Pre-Training', 'Training Techniques', 'BERT', 'Model Architecture', 'Ethics and Bias']
 ---
 Language models (LMs) exhibit impressive performance and generalization
 capabilities. However, LMs struggle with the persistent challenge of

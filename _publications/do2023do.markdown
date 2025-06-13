@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: do2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10610"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10610'}
+tags: ['Few-Shot', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning']
 ---
 A number of tasks have been proposed recently to facilitate easy access to
 charts such as chart QA and summarization. The dominant paradigm to solve these

@@ -6,8 +6,8 @@ conference: "Proceedings of the 47th International ACM SIGIR Conference on Resea
 year: 2024
 bibkey: wang2024goal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17089"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17089'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning']
 ---
 The advent of ChatGPT and similar large language models (LLMs) has
 revolutionized the human-AI interaction and information-seeking process.

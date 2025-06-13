@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kynoch2023adaptable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02738"}
-tags: ['Model Architecture', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02738'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 Large Language Models (LLMs) have made extraordinary progress in the field of
 Artificial Intelligence and have demonstrated remarkable capabilities across a

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.03531"}
-  - {name: "Code", url: "https://github.com/CSU-NLP-Group/MARE"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.03531'}
+  - {name: "Code", url: 'https://github.com/CSU-NLP-Group/MARE'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Unsupervised rationale extraction aims to extract text snippets to support
 model predictions without explicit rationale annotation. Researchers have made

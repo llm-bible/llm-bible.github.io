@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tenney2024interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07498"}
-  - {name: "Code", url: "http://goo.gle/sequence-salience"}
-tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07498'}
+  - {name: "Code", url: 'http://goo.gle/sequence-salience'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Few-Shot', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 We present Sequence Salience, a visual tool for interactive prompt debugging
 with input salience methods. Sequence Salience builds on widely used salience

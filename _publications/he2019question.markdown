@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: he2019question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00333"}
-tags: ['Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00333'}
+tags: ['Training Techniques', 'BERT', 'Tools', 'Model Architecture', 'Pre-Training']
 ---
 Question-answering (QA) data often encodes essential information in many
 facets. This paper studies a natural question: Can we get supervision from QA

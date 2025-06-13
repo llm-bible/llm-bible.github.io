@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vassoyan2025ignore
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06533"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06533'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The ability to achieve long-term goals is a key challenge in the current
 development of large language models (LLMs). To address this, pre-trained LLMs

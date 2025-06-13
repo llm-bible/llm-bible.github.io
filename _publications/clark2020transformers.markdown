@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: clark2020transformers
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.05867"}
-tags: ['Transformer', 'Interpretability and Explainability', 'TACL', 'Model Architecture', 'ACL', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.05867'}
+tags: ['Interpretability and Explainability', 'Transformer', 'ACL', 'Training Techniques', 'Model Architecture', 'Interpretability', 'TACL', 'Pretraining Methods']
 ---
 Beginning with McCarthy's Advice Taker (1959), AI has pursued the goal of
 providing a system with explicit, general knowledge and having the system

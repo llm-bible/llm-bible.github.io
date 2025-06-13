@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ngoc2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01049"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01049'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Data is a cornerstone for fine-tuning large language models, yet acquiring
 suitable data remains challenging. Challenges encompassed data scarcity,

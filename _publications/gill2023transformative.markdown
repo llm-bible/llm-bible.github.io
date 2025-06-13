@@ -6,7 +6,7 @@ conference: "Internet of Things and Cyber-Physical Systems (Elsevier) Volume 4 2
 year: 2023
 bibkey: gill2023transformative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03823"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03823'}
 tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 ChatGPT, an AI-based chatbot, was released to provide coherent and useful

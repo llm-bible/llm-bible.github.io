@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12119"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12119'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Scaling Laws', 'Model Architecture', 'Pre-Training']
 ---
 Generalization abilities of well-trained large language models (LLMs) are
 known to scale predictably as a function of model size. In contrast to the

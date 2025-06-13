@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024mixture
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12210"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12210'}
 tags: ['Training Techniques', 'Model Architecture']
 ---
 The Sparsely-Activated Mixture-of-Experts (MoE) has gained increasing

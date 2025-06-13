@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ferguson2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10338"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10338'}
 tags: ['Applications']
 ---
 Large Language Models (LLMs) excel in natural language tasks but still face

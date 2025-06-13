@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: roth2023waffling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07282"}
-  - {name: "Code", url: "https://github.com/ExplainableML/WaffleCLIP"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07282'}
+  - {name: "Code", url: 'https://github.com/ExplainableML/WaffleCLIP'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Multimodal Models']
 ---
 The visual classification performance of vision-language models such as CLIP
 has been shown to benefit from additional semantic knowledge from large

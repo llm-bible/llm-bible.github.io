@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nielsen2025continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11895"}
-tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11895'}
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Quantization']
 ---
 Large language models (LLMs) require immense resources for training and
 inference. Quantization, a technique that reduces the precision of model

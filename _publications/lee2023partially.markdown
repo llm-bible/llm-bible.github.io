@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023partially
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.10943"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.10943'}
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite recent progress in generative open-domain dialogue, the issue of low
 response diversity persists. Prior works have addressed this issue via either

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05391"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05391'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Transformer based Large Language Models (LLMs) have been widely used in many
 fields, and the efficiency of LLM inference becomes hot topic in real

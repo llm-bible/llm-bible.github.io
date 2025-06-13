@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: saba2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.00017"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00017'}
 tags: ['Model Architecture']
 ---
 Large language models (LLMs) have achieved a milestone that undenia-bly

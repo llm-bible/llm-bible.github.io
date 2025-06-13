@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024theory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00944"}
-tags: ['Interpretability and Explainability', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00944'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Merging', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) utilizes retrieved texts to enhance
 large language models (LLMs). Studies show that while RAG provides valuable

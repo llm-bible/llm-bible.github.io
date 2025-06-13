@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16251"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16251'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) suffer from hallucinations, referring to the
 non-factual information in generated content, despite their superior capacities

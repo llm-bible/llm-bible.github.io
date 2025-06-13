@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: perez2022ignore
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.09527"}
-  - {name: "Code", url: "https://github.com/agencyenterprise/PromptInject"}
-tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Merging', 'Security', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.09527'}
+  - {name: "Code", url: 'https://github.com/agencyenterprise/PromptInject'}
+tags: ['Agentic', 'Has Code', 'Transformer', 'Security', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) provide a powerful foundation
 for natural language tasks in large-scale customer-facing applications.

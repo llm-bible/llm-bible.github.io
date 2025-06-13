@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shuai2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01505"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01505'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Pre-Training']
 ---
 Large language models (LLMs) have made remarkable advances in recent years,
 with scaling laws playing a critical role in this rapid progress. In this

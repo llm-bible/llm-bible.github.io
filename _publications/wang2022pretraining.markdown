@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022pretraining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10544"}
-  - {name: "Code", url: "https://github.com/jxiw/BiGS"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10544'}
+  - {name: "Code", url: 'https://github.com/jxiw/BiGS'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Transformers have been essential to pretraining success in NLP. While other
 architectures have been used, downstream accuracy is either significantly

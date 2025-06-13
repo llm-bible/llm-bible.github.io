@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2016
 bibkey: hill2016learning
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/1602.03483v1"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/1602.03483v1'}
 tags: ['Training Techniques']
 ---
 Unsupervised methods for learning distributed representations of words are

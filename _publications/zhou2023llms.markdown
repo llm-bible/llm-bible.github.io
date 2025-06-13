@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06555"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06555'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In this study, we investigate in-context learning (ICL) in document-level

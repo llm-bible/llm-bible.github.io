@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: belarmino2025de
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00725"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'BERT', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00725'}
+tags: ['Few-Shot', 'GPT', 'BERT', 'Model Architecture', 'Prompting', 'Applications', 'Survey Paper', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have been increasingly used to optimize the
 analysis and synthesis of legal documents, enabling the automation of tasks

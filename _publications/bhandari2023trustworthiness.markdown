@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: bhandari2023trustworthiness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.00073"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00073'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) have shown a tremendous capacity for generating

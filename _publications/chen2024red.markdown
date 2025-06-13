@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12784"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12784'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 LLM agents have demonstrated remarkable performance across various
 applications, primarily due to their advanced capabilities in reasoning,

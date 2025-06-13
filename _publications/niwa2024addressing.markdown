@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: niwa2024addressing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.17717"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.17717'}
 tags: ['RAG']
 ---
 We introduce AmbigNLG, a novel task designed to tackle the challenge of task

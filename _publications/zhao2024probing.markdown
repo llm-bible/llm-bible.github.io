@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11233"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11233'}
+tags: ['Security', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning is a key paradigm in large language models (LLMs) that
 enables them to generalize to new tasks and domains by simply prompting these

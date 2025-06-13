@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.15765"}
-  - {name: "Code", url: "https://github.com/GATECH-EIC/ACT"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.15765'}
+  - {name: "Code", url: 'https://github.com/GATECH-EIC/ACT'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Attention is a fundamental component behind the remarkable achievements of
 large language models (LLMs). However, our current understanding of the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025med
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19655"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19655'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement learning from verifiable rewards (RLVR) has recently gained
 attention for its ability to elicit self-evolved reasoning capabilitie from

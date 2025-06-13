@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04905"}
-tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04905'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) for code have become indispensable in various
 domains, including code generation, reasoning tasks and agent systems. While

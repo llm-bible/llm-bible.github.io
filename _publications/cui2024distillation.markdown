@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024distillation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00338"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00338'}
 tags: ['RAG', 'Efficiency and Optimization', 'Distillation']
 ---
 Owing to their powerful semantic reasoning capabilities, Large Language

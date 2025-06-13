@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.05076"}
-  - {name: "Code", url: "https://github.com/btzyd/pip"}
-tags: ['Responsible AI', 'Tools', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.05076'}
+  - {name: "Code", url: 'https://github.com/btzyd/pip'}
+tags: ['Attention Mechanism', 'Has Code', 'Security', 'Model Architecture', 'Tools', 'Multimodal Models', 'Responsible AI']
 ---
 Large Vision-Language Models (LVLMs) have demonstrated their powerful
 multimodal capabilities. However, they also face serious safety problems, as

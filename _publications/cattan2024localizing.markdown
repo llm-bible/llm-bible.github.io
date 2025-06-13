@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cattan2024localizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07473"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07473'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 There has been an increasing interest in detecting hallucinations in
 model-generated texts, both manually and automatically, at varying levels of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10807"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10807'}
+tags: ['Agentic', 'RAG', 'Security', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 In the past few years, intelligent agents powered by large language models
 (LLMs) have achieved remarkable progress in performing complex tasks. These

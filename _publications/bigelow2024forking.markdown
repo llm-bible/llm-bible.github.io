@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bigelow2024forking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07961"}
-tags: ['Responsible AI', 'Language Modeling', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07961'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Responsible AI', 'Applications']
 ---
 Estimating uncertainty in Large Language Models (LLMs) is important for
 properly evaluating LLMs, and ensuring safety for users. However, prior

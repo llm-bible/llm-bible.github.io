@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024position
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11216"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11216'}
 tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 The performance of large language models (LLMs) is significantly influenced

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thakur2024judging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12624"}
-tags: ['Tools', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12624'}
+tags: ['Ethics and Bias', 'Prompting', 'Tools']
 ---
 Offering a promising solution to the scalability challenges associated with
 human evaluation, the LLM-as-a-judge paradigm is rapidly gaining traction as an

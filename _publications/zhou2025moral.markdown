@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025moral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19759"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19759'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 In this paper, we introduce the Multilingual Moral Reasoning Benchmark (MMRB)
 to evaluate the moral reasoning abilities of large language models (LLMs)

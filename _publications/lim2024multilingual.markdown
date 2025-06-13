@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lim2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13949"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13949'}
 tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Multilingual large language models (LLMs) are great translators, but this is

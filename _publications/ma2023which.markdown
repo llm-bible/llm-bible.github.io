@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023which
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.16298"}
-  - {name: "Code", url: "https://github.com/yingweima2022/CodeLLM"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.16298'}
+  - {name: "Code", url: 'https://github.com/yingweima2022/CodeLLM'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large Language Models (LLMs) have exhibited remarkable reasoning capabilities
 and become the foundation of language technologies. Inspired by the great

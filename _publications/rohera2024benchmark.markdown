@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rohera2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.08706"}
-  - {name: "Code", url: "https://github.com/l3cube-pune/indic-nlp"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.08706'}
+  - {name: "Code", url: 'https://github.com/l3cube-pune/indic-nlp'}
 tags: ['Has Code', 'Applications']
 ---
 Large Language Models (LLMs) have made significant progress in incorporating

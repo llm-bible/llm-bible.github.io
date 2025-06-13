@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.09841"}
-tags: ['Interpretability and Explainability', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.09841'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Interpretability and Explainability']
 ---
 Logical reasoning consistently plays a fundamental and significant role in
 the domains of knowledge engineering and artificial intelligence. Recently,

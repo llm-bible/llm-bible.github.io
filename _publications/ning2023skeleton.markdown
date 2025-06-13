@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ning2023skeleton
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15337"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15337'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 This work aims at decreasing the end-to-end generation latency of large
 language models (LLMs). One of the major causes of the high generation latency

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xue2023repeat
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13230"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13230'}
+tags: ['Pre-Training', 'RAG', 'Training Techniques']
 ---
 Recent research has highlighted the importance of dataset size in scaling
 language models. However, large language models (LLMs) are notoriously

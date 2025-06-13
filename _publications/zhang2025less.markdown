@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025less
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12900"}
-  - {name: "Code", url: "https://github.com/FreedomIntelligence/Soundwave"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12900'}
+  - {name: "Code", url: 'https://github.com/FreedomIntelligence/Soundwave'}
 tags: ['Training Techniques', 'Has Code', 'Model Architecture']
 ---
 Existing end-to-end speech large language models (LLMs) usually rely on

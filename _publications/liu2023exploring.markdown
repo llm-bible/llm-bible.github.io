@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14573"}
-tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14573'}
+tags: ['Prompting', 'GPT', 'Applications', 'Model Architecture']
 ---
 The recent success of general-domain large language models (LLMs) has
 significantly changed the natural language processing paradigm towards a

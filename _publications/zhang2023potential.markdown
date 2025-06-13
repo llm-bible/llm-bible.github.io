@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023potential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08152"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08152'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Recent studies have demonstrated promising performance of ChatGPT and GPT-4
 on several medical domain tasks. However, none have assessed its performance

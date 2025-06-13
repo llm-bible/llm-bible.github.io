@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dougrezlewis2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10735"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10735'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 Although LLMs have shown great performance on Mathematics and Coding related
 reasoning tasks, the reasoning capabilities of LLMs regarding other forms of

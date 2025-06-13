@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: vlasov2018few
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1811.11707"}
-tags: ['Few-Shot', 'Attention Mechanism', 'Transformer', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1811.11707'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Transformer', 'Model Architecture']
 ---
 Machine-learning based dialogue managers are able to learn complex behaviors
 in order to complete a task, but it is not straightforward to extend their

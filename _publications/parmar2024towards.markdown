@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: parmar2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15522"}
-  - {name: "Code", url: "https://github.com/Mihir3009/LogicBench"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15522'}
+  - {name: "Code", url: 'https://github.com/Mihir3009/LogicBench'}
+tags: ['Attention Mechanism', 'Has Code', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recently developed large language models (LLMs) have been shown to perform
 remarkably well on a wide range of language understanding tasks. But, can they

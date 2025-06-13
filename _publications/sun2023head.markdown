@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023head
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10168"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10168'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Since the recent prosperity of Large Language Models (LLMs), there have been
 interleaved discussions regarding how to reduce hallucinations from LLM

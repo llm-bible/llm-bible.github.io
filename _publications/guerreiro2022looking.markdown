@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: guerreiro2022looking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.05309"}
-tags: ['Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.05309'}
+tags: ['Attention Mechanism', 'WMT', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Although the problem of hallucinations in neural machine translation (NMT)
 has received some attention, research on this highly pathological phenomenon

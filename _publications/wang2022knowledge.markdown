@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08536"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08536'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture', 'Prompting', 'Applications']
 ---
 Knowledge-enhanced Pre-trained Language Model (PLM) has recently received
 significant attention, which aims to incorporate factual knowledge into PLMs.

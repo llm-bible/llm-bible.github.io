@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: upadhayay2025x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08848"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08848'}
+tags: ['Agentic', 'Security', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 Large Language Models (LLMs) have rapidly become integral to numerous
 applications in critical domains where reliability is paramount. Despite

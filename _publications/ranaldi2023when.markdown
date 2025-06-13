@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ranaldi2023when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09410"}
-tags: ['Security', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09410'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Security', 'Prompting']
 ---
 Large Language Models have been demonstrating the ability to solve complex
 tasks by delivering answers that are positively evaluated by humans due in part

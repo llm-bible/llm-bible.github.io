@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18700"}
-tags: ['Training Techniques', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18700'}
+tags: ['Efficiency and Optimization', 'Training Techniques']
 ---
 Training large language models is a computationally intensive process that
 often requires substantial resources to achieve state-of-the-art results.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00732"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00732'}
+tags: ['RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Low Rank Adaptation (LoRA) has emerged as one of the most widely adopted
 methods for Parameter Efficient Fine-Tuning (PEFT) of Large Language Models

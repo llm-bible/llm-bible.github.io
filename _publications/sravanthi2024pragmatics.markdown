@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sravanthi2024pragmatics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07078"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07078'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 LLMs have demonstrated remarkable capability for understanding semantics, but
 they often struggle with understanding pragmatics. To demonstrate this fact, we

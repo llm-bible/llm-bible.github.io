@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sachan2021end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2101.00408"}
-tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2101.00408'}
+tags: ['Pre-Training', 'RAG', 'Applications', 'Training Techniques']
 ---
 Recent work on training neural retrievers for open-domain question answering
 (OpenQA) has employed both supervised and unsupervised approaches. However, it

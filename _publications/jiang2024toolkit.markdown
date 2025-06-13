@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024toolkit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.03346"}
-  - {name: "Code", url: "https://github.com/cofe-ai/Sketch"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.03346'}
+  - {name: "Code", url: 'https://github.com/cofe-ai/Sketch'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting']
 ---
 Large language models (LLMs) represented by GPT family have achieved
 remarkable success. The characteristics of LLMs lie in their ability to

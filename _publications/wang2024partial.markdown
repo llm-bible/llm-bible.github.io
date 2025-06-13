@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024partial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16902"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16902'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Tools']
 ---
 With the rapid scaling of large language models (LLMs), serving numerous
 low-rank adaptations (LoRAs) concurrently has become increasingly impractical,

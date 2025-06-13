@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kapočiūtėdzikienė2025localizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03952"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03952'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 Although large language models (LLMs) have transformed our expectations of
 modern language technologies, concerns over data privacy often restrict the use

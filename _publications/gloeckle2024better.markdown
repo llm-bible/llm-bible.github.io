@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gloeckle2024better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.19737"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.19737'}
+tags: ['Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'GPT']
 ---
 Large language models such as GPT and Llama are trained with a next-token
 prediction loss. In this work, we suggest that training language models to

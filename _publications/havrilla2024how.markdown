@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: havrilla2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10963"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10963'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 State-of-the-art language models can exhibit impressive reasoning refinement
 capabilities on math, science or coding tasks. However, recent work

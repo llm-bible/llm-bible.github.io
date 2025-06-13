@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: askari2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.03993"}
-tags: ['Security', 'GPT', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.03993'}
+tags: ['GPT', 'Security', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have achieved state-of-the-art performance at
 zero-shot generation of abstractive summaries for given articles. However,

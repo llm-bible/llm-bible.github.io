@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024gradual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05802"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05802'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 During the pretraining phase, large language models (LLMs) acquire vast

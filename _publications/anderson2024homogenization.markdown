@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: anderson2024homogenization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01536"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01536'}
+tags: ['Reinforcement Learning', 'GPT', 'Tools', 'Model Architecture']
 ---
 Large language models (LLMs) are now being used in a wide variety of
 contexts, including as creativity support tools (CSTs) intended to help their

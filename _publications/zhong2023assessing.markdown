@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhong2023assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14795"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14795'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT']
 ---
 The information stored in large language models (LLMs) falls out of date
 quickly, and retraining from scratch is often not an option. This has recently

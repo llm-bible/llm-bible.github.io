@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: labbé2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18382"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18382'}
 tags: ['GPT', 'Model Architecture']
 ---
 Generative AI proposes several large language models (LLMs) to automatically

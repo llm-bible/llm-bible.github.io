@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023visual
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.04671v1"}
-  - {name: "Code", url: "https://github.com/microsoft/visual-chatgpt"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.04671v1'}
+  - {name: "Code", url: 'https://github.com/microsoft/visual-chatgpt'}
+tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 ChatGPT is attracting a cross-field interest as it provides a language
 interface with remarkable conversational competency and reasoning capabilities

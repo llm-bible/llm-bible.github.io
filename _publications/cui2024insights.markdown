@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cui2024insights
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.05177"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.05177'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 This paper presents insights from evaluating 16 frontier large language
 models (LLMs) on the WebApp1K benchmark, a test suite designed to assess the

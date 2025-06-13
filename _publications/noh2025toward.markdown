@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: noh2025toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16691"}
-tags: ['Responsible AI', 'RAG', 'Training Techniques', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16691'}
+tags: ['Ethics and Bias', 'RAG', 'Responsible AI', 'Training Techniques']
 ---
 Recent research has increasingly focused on training large language models
 (LLMs) using federated learning, known as FedLLM. However, responsible AI

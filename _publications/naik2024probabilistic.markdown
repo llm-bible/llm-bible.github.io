@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: naik2024probabilistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06535"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06535'}
 tags: ['Tools', 'Applications']
 ---
 Large Language Models (LLMs) have shown significant advances in text

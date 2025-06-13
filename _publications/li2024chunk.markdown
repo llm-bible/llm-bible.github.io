@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024chunk
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00343"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00343'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 We introduce Chunk-Distilled Language Modeling (CD-LM), an approach to text
 generation that addresses two challenges in current large language models

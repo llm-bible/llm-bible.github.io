@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01976"}
-  - {name: "Code", url: "https://github.com/aiming-lab/CITER"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01976'}
+  - {name: "Code", url: 'https://github.com/aiming-lab/CITER'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large language models have achieved remarkable success in various tasks but
 suffer from high computational costs during inference, limiting their

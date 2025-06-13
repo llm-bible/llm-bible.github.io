@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14149"}
-  - {name: "Code", url: "https://github.com/GPT-Alternatives/gpt_alternatives"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14149'}
+  - {name: "Code", url: 'https://github.com/GPT-Alternatives/gpt_alternatives'}
+tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 Generative pre-trained transformer (GPT) models have revolutionized the field
 of natural language processing (NLP) with remarkable performance in various

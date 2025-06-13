@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23463"}
-tags: ['GPT', 'Agentic', 'Multimodal Models', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23463'}
+tags: ['Agentic', 'Multimodal Models', 'GPT', 'Pretraining Methods']
 ---
 We present OpenDriveVLA, a Vision-Language Action (VLA) model designed for
 end-to-end autonomous driving. OpenDriveVLA builds upon open-source pre-trained

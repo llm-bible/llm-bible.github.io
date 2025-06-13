@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: phelps2024sign
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.09279"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.09279'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Despite the recent ubiquity of large language models and their high zero-shot
 prompted performance across a wide range of tasks, it is still not known how

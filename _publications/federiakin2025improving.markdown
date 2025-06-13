@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: federiakin2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17200"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17200'}
 tags: ['RAG', 'Tools', 'Survey Paper']
 ---
 The rapid development of large language models (LLMs) has necessitated the

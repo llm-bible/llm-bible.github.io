@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025socrates
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12312"}
-tags: ['ACL', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12312'}
+tags: ['Reinforcement Learning', 'Tools', 'ACL']
 ---
 Large Language Models (LLMs) have achieved significant progress in language
 understanding and reasoning. Evaluating and analyzing their logical reasoning

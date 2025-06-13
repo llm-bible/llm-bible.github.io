@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: latif2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05753"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05753'}
 tags: ['RAG', 'Applications']
 ---
 This study evaluates the performance of OpenAI's o1-preview model in

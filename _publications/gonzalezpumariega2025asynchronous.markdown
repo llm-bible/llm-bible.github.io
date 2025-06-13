@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: gonzalezpumariega2025asynchronous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05227"}
-  - {name: "Code", url: "https://github.com/portal-cornell/robotouille"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05227'}
+  - {name: "Code", url: 'https://github.com/portal-cornell/robotouille'}
+tags: ['Agentic', 'Has Code', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Effective asynchronous planning, or the ability to efficiently reason and
 plan over states and actions that must happen in parallel or sequentially, is

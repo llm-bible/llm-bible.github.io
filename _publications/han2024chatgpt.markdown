@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11764"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11764'}
+tags: ['RAG', 'Fairness', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Large Language models (LLMs), while powerful, exhibit harmful social biases.
 Debiasing is often challenging due to computational costs, data constraints,

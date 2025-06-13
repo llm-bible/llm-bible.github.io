@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: song2019unpaired
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.05407"}
-tags: ['Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.05407'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications', 'Tools']
 ---
 Generating image descriptions in different languages is essential to satisfy
 users worldwide. However, it is prohibitively expensive to collect large-scale

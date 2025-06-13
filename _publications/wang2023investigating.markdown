@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15411"}
-tags: ['Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15411'}
+tags: ['Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have shown remarkable capacity for in-context
 learning (ICL), where learning a new task from just a few training examples is

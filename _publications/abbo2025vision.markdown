@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: abbo2025vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.03957"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.03957'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Prompting']
 ---
 Large Language Models integrating textual and visual inputs have introduced
 new possibilities for interpreting complex data. Despite their remarkable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024ranking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09387"}
-tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09387'}
+tags: ['RAG', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Self-supervised contrastive learning models, such as CLIP, have set new
 benchmarks for vision-language models in many downstream tasks. However, their

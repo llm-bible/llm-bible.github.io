@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mahowald2023dissociating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.06627"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.06627'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have come closest among all models to date to
 mastering human language, yet opinions about their linguistic and cognitive

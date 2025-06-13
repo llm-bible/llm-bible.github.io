@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.03411"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.03411'}
 tags: ['Uncategorized']
 ---
 Recent advances in personalized image generation allow a pre-trained

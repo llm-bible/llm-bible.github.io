@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023recursively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15022"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15022'}
 tags: ['GPT', 'Model Architecture']
 ---
 Recently, large language models (LLMs), such as GPT-4, stand out remarkable

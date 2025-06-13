@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nie2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.10779"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.10779'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Despite the global mental health crisis, access to screenings, professionals,
 and treatments remains high. In collaboration with licensed psychotherapists,

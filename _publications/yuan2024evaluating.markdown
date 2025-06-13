@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12726"}
-  - {name: "Code", url: "https://github.com/Joanna0123/character_profiling"}
-tags: ['Agentic', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12726'}
+  - {name: "Code", url: 'https://github.com/Joanna0123/character_profiling'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive performance and
 spurred numerous AI applications, in which role-playing agents (RPAs) are

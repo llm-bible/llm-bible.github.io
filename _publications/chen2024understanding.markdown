@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17820"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17820'}
 tags: ['Prompting']
 ---
 Tree of Thoughts (ToT) is a reasoning strategy for Large Language Models

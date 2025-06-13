@@ -6,8 +6,8 @@ conference: "The Network and Distributed System Security Symposium (NDSS) 2024"
 year: 2023
 bibkey: deng2023automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08715"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08715'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) have revolutionized Artificial Intelligence (AI)
 services due to their exceptional proficiency in understanding and generating

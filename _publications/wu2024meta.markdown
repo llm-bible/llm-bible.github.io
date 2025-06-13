@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19594"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19594'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Tools']
 ---
 Large Language Models (LLMs) are rapidly surpassing human knowledge in many
 domains. While improving these models traditionally relies on costly human

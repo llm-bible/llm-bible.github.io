@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qu2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21614"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21614'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent Large Reasoning Models (LRMs), such as DeepSeek-R1 and OpenAI o1, have
 demonstrated strong performance gains by scaling up the length of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024verbosity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07858"}
-  - {name: "Code", url: "https://github.com/psunlpgroup/VerbosityLLM"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07858'}
+  - {name: "Code", url: 'https://github.com/psunlpgroup/VerbosityLLM'}
 tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Although Large Language Models (LLMs) have demonstrated their strong

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023wordart
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18332"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18332'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Prompting', 'Merging']
 ---
 This paper introduces WordArt Designer, a user-driven framework for artistic
 typography synthesis, relying on the Large Language Model (LLM). The system

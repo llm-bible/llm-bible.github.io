@@ -6,8 +6,8 @@ conference: "Theory and Practice of Logic Programming 24 (2024) 606-627"
 year: 2024
 bibkey: zeng2024reliable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.18498"}
-tags: ['Tools', 'GPT', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.18498'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture']
 ---
 The development of large language models (LLMs), such as GPT, has enabled the
 construction of several socialbots, like ChatGPT, that are receiving a lot of

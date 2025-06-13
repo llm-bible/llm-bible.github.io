@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: phan2022pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.06457"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.06457'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 We present ViT5, a pretrained Transformer-based encoder-decoder model for the
 Vietnamese language. With T5-style self-supervised pretraining, ViT5 is trained

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: coppolillo2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.18723"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/LLASP-D86C/"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.18723'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/LLASP-D86C/'}
+tags: ['Has Code', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, Large Language Models (LLMs) have showcased their potential in
 various natural language processing tasks, including code generation. However,

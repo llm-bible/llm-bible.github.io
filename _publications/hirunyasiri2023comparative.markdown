@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hirunyasiri2023comparative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02018"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02018'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Research suggests that providing specific and timely feedback to human tutors
 enhances their performance. However, it presents challenges due to the

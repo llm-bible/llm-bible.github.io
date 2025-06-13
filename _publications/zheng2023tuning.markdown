@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15311"}
-  - {name: "Code", url: "https://github.com/ozheng1993/TrafficSafetyGPT"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15311'}
+  - {name: "Code", url: 'https://github.com/ozheng1993/TrafficSafetyGPT'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable effectiveness in various
 general-domain natural language processing (NLP) tasks. However, their

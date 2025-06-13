@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rogiers2024persuasion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06837"}
-tags: ['Tools', 'Survey Paper', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06837'}
+tags: ['Ethics and Bias', 'Tools', 'Survey Paper']
 ---
 The rapid rise of Large Language Models (LLMs) has created new disruptive
 possibilities for persuasive communication, by enabling fully-automated

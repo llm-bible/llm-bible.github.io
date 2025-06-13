@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dagan2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.11845"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.11845'}
 tags: ['Uncategorized']
 ---
 Large Language Models (LLMs) handle physical commonsense information

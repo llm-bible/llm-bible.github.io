@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: du2024stacking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.15319"}
-  - {name: "Code", url: "https://llm-stacking.github.io"}
-tags: ['Transformer', 'Pre-Training', 'TACL', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.15319'}
+  - {name: "Code", url: 'https://llm-stacking.github.io'}
+tags: ['Has Code', 'Transformer', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training', 'TACL', 'Pretraining Methods']
 ---
 LLMs are computationally expensive to pre-train due to their large scale.
 Model growth emerges as a promising approach by leveraging smaller models to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mallick2023adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02961"}
-tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02961'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 Pre-trained Generative models such as BART, T5, etc. have gained prominence
 as a preferred method for text generation in various natural language

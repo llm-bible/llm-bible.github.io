@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024imitation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15980"}
-  - {name: "Code", url: "https://icrt.dev/"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15980'}
+  - {name: "Code", url: 'https://icrt.dev/'}
+tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We explore how to enhance next-token prediction models to perform in-context
 imitation learning on a real robot, where the robot executes new tasks by

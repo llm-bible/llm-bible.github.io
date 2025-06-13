@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024blending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.02994"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.02994'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 In conversational AI research, there's a noticeable trend towards developing
 models with a larger number of parameters, exemplified by models like ChatGPT.

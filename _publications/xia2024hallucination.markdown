@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01588"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01588'}
+tags: ['Reinforcement Learning', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown propensity to generate hallucinated
 outputs, i.e., texts that are factually incorrect or unsupported. Existing

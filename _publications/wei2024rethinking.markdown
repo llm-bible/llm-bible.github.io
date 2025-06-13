@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wei2024rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07872"}
-tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07872'}
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Despite their sophisticated capabilities, large language models (LLMs)
 encounter a major hurdle in effective assessment. This paper first revisits the

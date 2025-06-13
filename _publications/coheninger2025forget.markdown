@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: coheninger2025forget
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07445"}
-tags: ['Training Techniques', 'RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07445'}
+tags: ['Training Techniques', 'RAG', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) often appear to excel on public benchmarks, but
 these high scores may mask an overreliance on dataset-specific surface cues

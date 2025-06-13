@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yang2022what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.07407"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.07407'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Coreference resolution -- which is a crucial task for understanding discourse
 and language at large -- has yet to witness widespread benefits from large

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: plum2024text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09415"}
-tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09415'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning']
 ---
 This paper addresses the challenges in developing language models for
 less-represented languages, with a focus on Luxembourgish. Despite its active

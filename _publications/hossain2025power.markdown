@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hossain2025power
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10779"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10779'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large-scale vision-language models (VLMs), trained on extensive datasets of
 image-text pairs, exhibit strong multimodal understanding capabilities by

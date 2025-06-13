@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025mes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13563"}
-  - {name: "Code", url: "https://github.com/wpydcr/MES-RAG"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13563'}
+  - {name: "Code", url: 'https://github.com/wpydcr/MES-RAG'}
+tags: ['Has Code', 'RAG', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) improves Large Language Models (LLMs) by
 using external knowledge, but it struggles with precise entity information

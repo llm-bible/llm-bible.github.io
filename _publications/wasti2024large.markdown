@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wasti2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07938"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07938'}
+tags: ['Agentic', 'RAG', 'Prompting', 'Tools']
 ---
 The evolution of Large Language Models (LLMs) has showcased remarkable
 capacities for logical reasoning and natural language comprehension. These

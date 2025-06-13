@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2019
 bibkey: jain2019attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.10186"}
-  - {name: "Code", url: "https://github.com/successar/AttentionExplanation"}
-tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.10186'}
+  - {name: "Code", url: 'https://github.com/successar/AttentionExplanation'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Ethics and Bias', 'Interpretability']
 ---
 Attention mechanisms have seen wide adoption in neural NLP models. In
 addition to improving predictive performance, these are often touted as

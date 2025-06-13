@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19445"}
-tags: ['Training Techniques', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19445'}
+tags: ['Ethics and Bias', 'Prompting', 'Training Techniques']
 ---
 Large Language Models (LLMs) are increasingly used in tasks such as
 psychological text analysis and decision-making in automated workflows.

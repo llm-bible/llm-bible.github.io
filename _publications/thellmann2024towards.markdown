@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: thellmann2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08928"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08928'}
 tags: ['RAG', 'Tools']
 ---
 The rise of Large Language Models (LLMs) has revolutionized natural language

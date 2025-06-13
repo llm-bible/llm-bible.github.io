@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sengupta2025compression
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04342"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04342'}
+tags: ['Large-Scale Training', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Scaling Laws', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 We introduce compression laws for language language models (LLMs). While
 recent scaling laws have sought to understand how LLMs scale with respect to

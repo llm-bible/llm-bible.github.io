@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025swe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05040"}
-  - {name: "Code", url: "https://github.com/InternLM/SWE-Fixer"}
-tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05040'}
+  - {name: "Code", url: 'https://github.com/InternLM/SWE-Fixer'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLMs) have demonstrated remarkable proficiency across
 a variety of complex tasks. One significant application of LLMs is in tackling

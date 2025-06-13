@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ni2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.08468"}
-tags: ['Pruning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.08468'}
+tags: ['Reinforcement Learning', 'Pruning', 'Efficiency and Optimization', 'Applications']
 ---
 The advent of large language models trained on code (code LLMs) has led to
 significant progress in language-to-code generation. State-of-the-art

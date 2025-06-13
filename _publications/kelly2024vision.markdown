@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kelly2024vision
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09027"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09027'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 With the emergence of large language models (LLMs) and vision foundation
 models, how to combine the intelligence and capacity of these open-sourced or

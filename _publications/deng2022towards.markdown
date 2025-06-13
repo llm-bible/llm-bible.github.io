@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: deng2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08817"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08817'}
 tags: ['Applications']
 ---
 To facilitate conversational question answering (CQA) over hybrid contexts in

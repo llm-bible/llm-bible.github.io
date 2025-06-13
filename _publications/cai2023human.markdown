@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: cai2023human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07932"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07932'}
 tags: ['Prompting']
 ---
 While the emergence of powerful language models along with Chain-of-thought

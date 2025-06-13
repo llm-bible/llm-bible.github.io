@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yan2025let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07555"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07555'}
 tags: ['Training Techniques', 'Pretraining Methods']
 ---
 The growing power of large language models (LLMs) has revolutionized how

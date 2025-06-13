@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: deng2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16030"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16030'}
 tags: ['Uncategorized']
 ---
 Temporal reasoning over tabular data presents substantial challenges for

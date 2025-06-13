@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024overview
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18069"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18069'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 With the advancement of large language models (LLMs), the biomedical domain
 has seen significant progress and improvement in multiple tasks such as

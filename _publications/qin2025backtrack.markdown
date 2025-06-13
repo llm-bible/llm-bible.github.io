@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qin2025backtrack
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07052"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07052'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in large language models have significantly improved
 their reasoning abilities, particularly through techniques involving search and

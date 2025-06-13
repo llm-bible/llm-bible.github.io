@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gonzálezsantamarta2023integration
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14945"}
-tags: ['RAG', 'Tools', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14945'}
+tags: ['Reinforcement Learning', 'RAG', 'Model Architecture', 'Tools']
 ---
 Symbolic reasoning systems have been used in cognitive architectures to
 provide inference and planning capabilities. However, defining domains and

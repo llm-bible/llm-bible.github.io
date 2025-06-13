@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhendawade2024speculative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11131"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11131'}
+tags: ['Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Speculative decoding is a prominent technique to speed up the inference of a
 large target language model based on predictions of an auxiliary draft model.

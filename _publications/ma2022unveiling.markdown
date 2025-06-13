@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: ma2022unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10017"}
-tags: ['BERT', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10017'}
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture']
 ---
 Past research has examined how well these models grasp code syntax, yet their
 understanding of code semantics still needs to be explored. We extensively

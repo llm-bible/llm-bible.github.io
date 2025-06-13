@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024preliminary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15277"}
-  - {name: "Code", url: "https://ucsc-vlaa.github.io/o1_medicine/"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15277'}
+  - {name: "Code", url: 'https://ucsc-vlaa.github.io/o1_medicine/'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have exhibited remarkable capabilities across
 various domains and tasks, pushing the boundaries of our knowledge in learning

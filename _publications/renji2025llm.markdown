@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: renji2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03789"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03789'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 The advancements in systems deploying large language models (LLMs), as well
 as improvements in their ability to act as agents with predefined templates,

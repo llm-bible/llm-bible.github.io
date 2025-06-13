@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07362"}
-  - {name: "Code", url: "https://github.com/kaistAI/Volcano}{github.com/kaistAI/Volcano"}
-tags: ['RAG', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07362'}
+  - {name: "Code", url: 'https://github.com/kaistAI/Volcano}{github.com/kaistAI/Volcano'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Multimodal Models']
 ---
 Large multimodal models suffer from multimodal hallucination, where they
 provide incorrect responses misaligned with the given visual information.

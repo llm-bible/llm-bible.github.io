@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rahimi2025explanations
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14671"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14671'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Large language models (LLMs) not only exhibit human-like performance but also
 share computational principles with the brain's language processing mechanisms.

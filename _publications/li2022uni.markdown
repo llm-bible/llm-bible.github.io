@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022uni
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.04026"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.04026'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Vision-language pre-training has been an emerging and fast-developing
 research topic, which transfers multi-modal knowledge from rich-resource

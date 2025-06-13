@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: clavié2025all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03793"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03793'}
+tags: ['Masked Language Model', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'BERT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While encoder-only models such as BERT and ModernBERT are ubiquitous in
 real-world NLP applications, their conventional reliance on task-specific

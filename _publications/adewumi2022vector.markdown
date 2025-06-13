@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: adewumi2022vector
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.03666"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.03666'}
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 We demonstrate, in this study, that an open-domain conversational system
 trained on idioms or figurative language generates more fitting responses to

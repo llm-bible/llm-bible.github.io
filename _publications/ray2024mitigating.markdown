@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ray2024mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05418"}
-tags: ['Responsible AI', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05418'}
+tags: ['Few-Shot', 'Prompting', 'Responsible AI', 'In-Context Learning']
 ---
 As the popularity of Large Language Models (LLMs) grow, combining model
 safety with utility becomes increasingly important. The challenge is making

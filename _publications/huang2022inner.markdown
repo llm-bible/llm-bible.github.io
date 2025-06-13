@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: huang2022inner
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2207.05608"}
-tags: ['Training Techniques', 'RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2207.05608'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Training Techniques']
 ---
 Recent works have shown how the reasoning capabilities of Large Language
 Models (LLMs) can be applied to domains beyond natural language processing,

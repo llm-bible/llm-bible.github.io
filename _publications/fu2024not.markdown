@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024not
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19258"}
-  - {name: "Code", url: "https://github.com/FYYFU/HeadKV"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19258'}
+  - {name: "Code", url: 'https://github.com/FYYFU/HeadKV'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Key-Value (KV) caching is a common technique to enhance the computational
 efficiency of Large Language Models (LLMs), but its memory overhead grows

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chitsaz2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.11722"}
-  - {name: "Code", url: "https://github.com/chandar-lab/EfficientLLMs"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.11722'}
+  - {name: "Code", url: 'https://github.com/chandar-lab/EfficientLLMs'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 The increasing scale of Transformer models has led to an increase in their
 pre-training computational requirements. While quantization has proven to be

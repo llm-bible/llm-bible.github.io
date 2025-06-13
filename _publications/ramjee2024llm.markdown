@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramjee2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04620"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04620'}
 tags: ['Multimodal Models']
 ---
 The healthcare landscape is evolving, with patients seeking reliable

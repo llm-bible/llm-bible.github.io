@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024fact
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13343"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13343'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Confidence calibration in LLMs, i.e., aligning their self-assessed confidence
 with the actual accuracy of their responses, enabling them to self-evaluate the

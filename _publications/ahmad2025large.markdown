@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmad2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04030"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04030'}
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have transformed software development by
 enabling code generation, automated debugging, and complex reasoning. However,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: pung2021benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.14034"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.14034'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods']
 ---
 The ability to reason with multiple hierarchical structures is an attractive
 and desirable property of sequential inductive biases for natural language

@@ -6,8 +6,8 @@ conference: "International Journal of Computing (2023) 22(2) 170-183"
 year: 2023
 bibkey: palagin2023ontochatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.05082"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.05082'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This research presents a comprehensive methodology for utilizing an
 ontology-driven structured prompts system in interplay with ChatGPT, a widely

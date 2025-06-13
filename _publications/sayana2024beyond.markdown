@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sayana2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16780"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16780'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Merging', 'RecSys', 'Reinforcement Learning']
 ---
 The recent advances in Large Language Model's generation and reasoning
 capabilities present an opportunity to develop truly conversational

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09033"}
-  - {name: "Code", url: "https://github.com/sjtu-compling/MELA"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09033'}
+  - {name: "Code", url: 'https://github.com/sjtu-compling/MELA'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In this work, we present the largest benchmark to date on linguistic
 acceptability: Multilingual Evaluation of Linguistic Acceptability -- MELA,

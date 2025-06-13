@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: thakur2024mirage
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13716"}
-  - {name: "Code", url: "https://github.com/vectara/mirage-bench"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13716'}
+  - {name: "Code", url: 'https://github.com/vectara/mirage-bench'}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Traditional retrieval-augmented generation (RAG) benchmarks evaluate systems
 using heuristic-based metrics, but these require human preferences as the

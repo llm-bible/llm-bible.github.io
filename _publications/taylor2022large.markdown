@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: taylor2022large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2211.09085v1"}
-tags: ['GPT', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2211.09085v1'}
+tags: ['ACL', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'TACL']
 ---
 Information overload is a major obstacle to scientific progress. The
 explosive growth in scientific literature and data has made it ever harder to

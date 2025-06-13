@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhuo2023red
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.12867"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.12867'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Ethics and Bias', 'Responsible AI']
 ---
 Recent breakthroughs in natural language processing (NLP) have permitted the
 synthesis and comprehension of coherent text in an open-ended way, therefore

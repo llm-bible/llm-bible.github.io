@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: yermakov2021biomedical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.01518"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.01518'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Data-to-text (D2T) generation in the biomedical domain is a promising - yet
 mostly unexplored - field of research. Here, we apply neural models for D2T

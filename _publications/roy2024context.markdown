@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roy2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15511"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15511'}
+tags: ['Language Modeling', 'RAG', 'Applications', 'Tools', 'Fine-Tuning']
 ---
 Open-domain long-form text generation requires generating coherent,
 comprehensive responses that address complex queries with both breadth and

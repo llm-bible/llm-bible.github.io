@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alberts2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21159"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21159'}
+tags: ['Ethics and Bias', 'Prompting', 'Responsible AI', 'Applications']
 ---
 We introduce a multi-turn benchmark for evaluating personalised alignment in
 LLM-based AI assistants, focusing on their ability to handle user-provided

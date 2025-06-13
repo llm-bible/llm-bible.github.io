@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: pochinkov2024dissecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01267"}
-  - {name: "Code", url: "https://github.com/nickypro/selective-pruning"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01267'}
+  - {name: "Code", url: 'https://github.com/nickypro/selective-pruning'}
+tags: ['Attention Mechanism', 'Has Code', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Tools', 'Pruning']
 ---
 Understanding and shaping the behaviour of Large Language Models (LLMs) is
 increasingly important as applications become more powerful and more frequently

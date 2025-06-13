@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024moe
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11260"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11260'}
 tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Adapting large language models (LLMs) to new domains/tasks and enabling them

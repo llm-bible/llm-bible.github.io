@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mittal2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12157"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12157'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 As increasingly sophisticated language models emerge, their trustworthiness
 becomes a pivotal issue, especially in tasks such as summarization and

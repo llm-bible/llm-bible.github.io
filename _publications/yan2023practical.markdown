@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yan2023practical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.13379"}
-tags: ['GPT', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.13379'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Educational technology innovations leveraging large language models (LLMs)
 have shown the potential to automate the laborious process of generating and

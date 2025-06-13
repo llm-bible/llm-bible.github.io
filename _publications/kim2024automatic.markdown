@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16567"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16567'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Applications', 'Reinforcement Learning', 'Responsible AI']
 ---
 Recent AI systems have shown extremely powerful performance, even surpassing
 human performance, on various tasks such as information retrieval, language

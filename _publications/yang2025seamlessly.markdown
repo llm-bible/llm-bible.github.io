@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025seamlessly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12148"}
-  - {name: "Code", url: "https://github.com/Gen-Verse/HermesFlow"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Reinforcement Learning', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12148'}
+  - {name: "Code", url: 'https://github.com/Gen-Verse/HermesFlow'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'GPT', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The remarkable success of the autoregressive paradigm has made significant
 advancement in Multimodal Large Language Models (MLLMs), with powerful models

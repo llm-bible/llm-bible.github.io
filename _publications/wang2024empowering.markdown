@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17440"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17440'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The field of catalysis holds paramount importance in shaping the trajectory
 of sustainable development, prompting intensive research efforts to leverage

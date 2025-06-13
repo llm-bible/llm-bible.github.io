@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04931"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04931'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 The remarkable natural language understanding, reasoning, and generation

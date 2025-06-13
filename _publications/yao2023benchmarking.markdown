@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14328"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14328'}
 tags: ['RAG', 'Applications', 'Merging']
 ---
 Translating culture-related content is vital for effective cross-cultural

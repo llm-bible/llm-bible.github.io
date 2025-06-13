@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024accuracy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06554"}
-  - {name: "Code", url: "https://github.com/EIT-NLP/AccuracyParadox-RLHF"}
-tags: ['Agentic', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06554'}
+  - {name: "Code", url: 'https://github.com/EIT-NLP/AccuracyParadox-RLHF'}
+tags: ['Reinforcement Learning', 'Agentic', 'Has Code', 'Training Techniques']
 ---
 Reinforcement Learning from Human Feedback significantly enhances Natural
 Language Processing by aligning language models with human expectations. A

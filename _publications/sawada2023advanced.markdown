@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sawada2023advanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.13692"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.13692'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance on

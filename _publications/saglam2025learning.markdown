@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: saglam2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05390"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05390'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in
 in-context learning (ICL), where models adapt to new tasks through

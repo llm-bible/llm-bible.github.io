@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: berlotattwell2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03048"}
-tags: ['RAG', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03048'}
+tags: ['RAG', 'Prompting', 'Tools']
 ---
 Recent advancements in the coding, reasoning, and tool-using abilities of
 LLMs have spurred interest in library learning (i.e., online learning through

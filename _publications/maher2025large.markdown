@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: maher2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02486"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02486'}
+tags: ['Prompting', 'Tools']
 ---
 Recent advancements in prompting techniques for Large Language Models (LLMs)
 have improved their reasoning, planning, and action abilities. This paper

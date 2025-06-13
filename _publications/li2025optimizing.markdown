@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.21819"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.21819'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) with human values and safety
 constraints is challenging, especially when objectives like helpfulness,

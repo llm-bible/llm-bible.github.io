@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hwang2024pc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09117"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09117'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Quantization', 'Prompting', 'Pretraining Methods']
 ---
 Low-rank adaption (LoRA) is a prominent method that adds a small number of
 learnable parameters to the frozen pre-trained weights for parameter-efficient

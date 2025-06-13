@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18695"}
-tags: ['Training Techniques', 'GPT', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18695'}
+tags: ['GPT', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce AutoVER, an Autoregressive model for Visual Entity Recognition.
 Our model extends an autoregressive Multi-modal Large Language Model by

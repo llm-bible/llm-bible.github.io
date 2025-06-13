@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: georgiou2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04742"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04742'}
 tags: ['Reinforcement Learning']
 ---
 The statistical study of human memory requires large-scale experiments,

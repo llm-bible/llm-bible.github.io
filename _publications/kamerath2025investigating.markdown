@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kamerath2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09886"}
-tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09886'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 This paper leverages past sentence processing studies to investigate whether
 monolingual and multilingual LLMs show human-like preferences when presented

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11417"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11417'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Various parameter-efficient fine-tuning (PEFT) techniques have been proposed
 to enable computationally efficient fine-tuning while maintaining model

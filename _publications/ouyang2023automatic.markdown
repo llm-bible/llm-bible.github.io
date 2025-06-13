@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ouyang2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15064"}
-  - {name: "Code", url: "https://github.com/owaski/AutoPlan"}
-tags: ['Agentic', 'Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15064'}
+  - {name: "Code", url: 'https://github.com/owaski/AutoPlan'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code', 'Agentic']
 ---
 Recent large language models (LLMs) are promising for making decisions in
 grounded environments. However, LLMs frequently fail in complex decision-making

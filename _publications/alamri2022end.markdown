@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: alamri2022end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.14512"}
-tags: ['Transformer', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.14512'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Multimodal Models', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Video-based dialog task is a challenging multimodal learning task that has
 received increasing attention over the past few years with state-of-the-art

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023applying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03748"}
-tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03748'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Model Architecture', 'GPT', 'Tools', 'Prompting', 'Reinforcement Learning', 'Interpretability']
 ---
 This study investigates the application of large language models (LLMs),
 specifically GPT-3.5 and GPT-4, with Chain-of-Though (CoT) in the automatic

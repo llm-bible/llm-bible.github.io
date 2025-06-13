@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025faster
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.05431"}
-tags: ['RAG', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.05431'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Context-augmented generation (CAG) techniques, including RAG and ICL, require
 the efficient combination of multiple contexts to generate responses to user

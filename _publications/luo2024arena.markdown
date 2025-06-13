@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024arena
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10627"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10627'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Assessing the effectiveness of large language models (LLMs) presents
 substantial challenges. The method of conducting human-annotated battles in an

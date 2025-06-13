@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14740"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14740'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Quantization', 'Reinforcement Learning']
 ---
 Although Large Language Models (LLMs) have demonstrated remarkable
 capabilities, their massive parameter counts and associated extensive computing

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: askari2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11633"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11633'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Training Techniques']
 ---
 Identifying user intents in information-seeking dialogs is crucial for a
 system to meet user's information needs. Intent prediction (IP) is challenging

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10266"}
-tags: ['Training Techniques', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10266'}
+tags: ['Reinforcement Learning', 'Prompting', 'In-Context Learning', 'Training Techniques']
 ---
 As one of the most exciting features of large language models (LLMs),
 in-context learning is a mixed blessing. While it allows users to

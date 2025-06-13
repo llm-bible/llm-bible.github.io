@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lertvittayakumjorn2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13497"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13497'}
 tags: ['RAG']
 ---
 Generative large language models (LLMs) have been demonstrated to have gaps

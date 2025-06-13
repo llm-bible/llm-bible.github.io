@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dasilva2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.08801"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.08801'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Since its release in November 2022, ChatGPT has shaken up Stack Overflow, the
 premier platform for developers' queries on programming and software

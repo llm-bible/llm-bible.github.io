@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kazemitabaar2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.11314"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11314'}
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 Timely, personalized feedback is essential for students learning programming.
 LLM-powered tools like ChatGPT offer instant support, but reveal direct answers

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kavehzadeh2023sorted
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08968"}
-tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08968'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 (NLP) by excelling at understanding and generating human-like text. However,

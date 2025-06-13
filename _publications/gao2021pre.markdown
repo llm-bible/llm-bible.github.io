@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: gao2021pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08253"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08253'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Pre-trained Transformer language models (LM) have become go-to text
 representation encoders. Prior research fine-tunes deep LMs to encode text

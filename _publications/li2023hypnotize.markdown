@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023hypnotize
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.03191"}
-  - {name: "Code", url: "https://github.com/tmlr-group/DeepInception"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.03191'}
+  - {name: "Code", url: 'https://github.com/tmlr-group/DeepInception'}
+tags: ['Has Code', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Responsible AI']
 ---
 Large language models (LLMs) have succeeded significantly in various
 applications but remain susceptible to adversarial jailbreaks that void their

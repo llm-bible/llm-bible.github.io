@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2017
 bibkey: liu2017phase
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1710.10504"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1710.10504'}
 tags: ['Attention Mechanism', 'Model Architecture', 'Merging']
 ---
 Attention models have been intensively studied to improve NLP tasks such as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024dissecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15360"}
-tags: ['Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15360'}
+tags: ['Interpretability and Explainability', 'Transformer', 'Applications', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based large language models have achieved remarkable performance
 across various natural language processing tasks. However, they often struggle

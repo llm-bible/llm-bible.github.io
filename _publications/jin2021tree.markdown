@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: jin2021tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.12300"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.12300'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Text generation from AMR requires mapping a semantic graph to a string that
 it annotates. Transformer-based graph encoders, however, poorly capture vertex

@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: govindarajan2023lil
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.17591"}
-  - {name: "Code", url: "https://github.com/venkatasg/Lil-Bevo"}
-  - {name: "Code", url: "https://huggingface.co/collections/venkatasg/babylm-653591cdb66f4bf68922873a"}
-tags: ['Fine-Tuning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.17591'}
+  - {name: "Code", url: 'https://github.com/venkatasg/Lil-Bevo'}
+  - {name: "Code", url: 'https://huggingface.co/collections/venkatasg/babylm-653591cdb66f4bf68922873a'}
+tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'BERT', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We present Lil-Bevo, our submission to the BabyLM Challenge. We pretrained
 our masked language models with three ingredients: an initial pretraining with

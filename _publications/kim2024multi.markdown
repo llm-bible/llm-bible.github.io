@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17288"}
-  - {name: "Code", url: "https://github.com/snumprlab/flare"}
-tags: ['Few-Shot', 'Agentic', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17288'}
+  - {name: "Code", url: 'https://github.com/snumprlab/flare'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Has Code', 'Agentic']
 ---
 Learning a perception and reasoning module for robotic assistants to plan
 steps to perform complex tasks based on natural language instructions often

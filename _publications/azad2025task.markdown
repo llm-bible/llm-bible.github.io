@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: azad2025task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08585"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08585'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite advancements in multimodal large language models (MLLMs), current
 approaches struggle in medium-to-long video understanding due to frame and

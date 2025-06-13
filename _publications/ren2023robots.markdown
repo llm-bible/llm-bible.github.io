@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ren2023robots
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.01928"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.01928'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Tools', 'Merging']
 ---
 Large language models (LLMs) exhibit a wide range of promising capabilities
 -- from step-by-step planning to commonsense reasoning -- that may provide

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12393"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12393'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Distillation']
 ---
 Chain-of-Thought (CoT) reasoning has enabled Large Language Model (LLM) to
 achieve remarkable performance in various NLP tasks, including arithmetic

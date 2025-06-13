@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2021
 bibkey: jiang2021enriching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.01317"}
-  - {name: "Code", url: "https://github.com/jiangycTarheel/TPT-Summ"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.01317'}
+  - {name: "Code", url: 'https://github.com/jiangycTarheel/TPT-Summ'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Abstractive summarization, the task of generating a concise summary of input
 documents, requires: (1) reasoning over the source document to determine the

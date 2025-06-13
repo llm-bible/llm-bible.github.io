@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: muhtar2024lhrs
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.02544"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.02544'}
 tags: ['RAG', 'Multimodal Models', 'Applications']
 ---
 The revolutionary capabilities of large language models (LLMs) have paved the

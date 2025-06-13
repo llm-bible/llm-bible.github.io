@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024ts
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20215"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20215'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Mainstream approaches to aligning large language models (LLMs) heavily rely
 on human preference data, particularly when models require periodic updates.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: fu2022complexity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.00720"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.00720'}
+tags: ['RAG', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 We study the task of prompting large-scale language models to perform
 multi-step reasoning. Existing work shows that when prompted with a chain of

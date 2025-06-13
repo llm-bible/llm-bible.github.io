@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: im2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.18742"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.18742'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Aligning large language models (LLMs) with human intentions has become a
 critical task for safely deploying models in real-world systems. While existing

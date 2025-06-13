@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qu2024coursegpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.04781"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.04781'}
+tags: ['ACL', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'TACL', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated astonishing capabilities in
 natural language processing (NLP) tasks, sparking interest in their application

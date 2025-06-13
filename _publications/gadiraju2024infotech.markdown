@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gadiraju2024infotech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.16412"}
-tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16412'}
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Tools', 'Multimodal Models']
 ---
 This pilot study presents the development of the InfoTech Assistant, a
 domain-specific, multimodal chatbot engineered to address queries in bridge

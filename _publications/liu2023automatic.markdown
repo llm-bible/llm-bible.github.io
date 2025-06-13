@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13246"}
-  - {name: "Code", url: "https://github.com/lunyiliu/CoachLM)"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13246'}
+  - {name: "Code", url: 'https://github.com/lunyiliu/CoachLM)'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Instruction tuning is crucial for enabling Language Learning Models (LLMs) in
 responding to human instructions. The quality of instruction pairs used for

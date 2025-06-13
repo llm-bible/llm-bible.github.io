@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tennenholtz2024embedding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00024"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00024'}
+tags: ['Agentic', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Survey Paper', 'Reinforcement Learning']
 ---
 We propose a novel approach for training large language models (LLMs) to
 adhere to objectives defined within a latent embedding space. Our method

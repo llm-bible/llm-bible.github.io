@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025keep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10167"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10167'}
 tags: ['Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) exhibit strong reasoning abilities, often

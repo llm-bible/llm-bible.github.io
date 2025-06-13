@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024wanglab
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14567"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14567'}
 tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Tools']
 ---
 This paper outlines our submission to the MEDIQA2024 Multilingual and

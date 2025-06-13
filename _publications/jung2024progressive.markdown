@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jung2024progressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.21571"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.21571'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) encounter significant challenges in continual

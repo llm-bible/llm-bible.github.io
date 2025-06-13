@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rescala2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00750"}
-  - {name: "Code", url: "https://go.epfl.ch/persuasion-llm)"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00750'}
+  - {name: "Code", url: 'https://go.epfl.ch/persuasion-llm)'}
 tags: ['Has Code', 'Uncategorized']
 ---
 The capabilities of large language models (LLMs) have raised concerns about

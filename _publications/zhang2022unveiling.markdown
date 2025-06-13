@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.04301"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.04301'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 We propose a synthetic reasoning task, LEGO (Learning Equality and Group
 Operations), that encapsulates the problem of following a chain of reasoning,

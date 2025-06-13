@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hada2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01667"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01667'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'GPT', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 With the rising human-like precision of Large Language Models (LLMs) in
 numerous tasks, their utilization in a variety of real-world applications is

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.16229"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.16229'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs), despite their breakthroughs on many challenging

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luhtaru2024err
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05493"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05493'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This study explores enhancing grammatical error correction (GEC) through
 artificial error generation (AEG) using language models (LMs). Specifically, we

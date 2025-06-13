@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024news
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07520"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07520'}
 tags: ['RAG', 'Tools']
 ---
 Large Language Models (LLMs) have fast become an essential tools to many

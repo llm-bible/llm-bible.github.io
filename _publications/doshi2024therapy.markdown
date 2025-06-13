@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: doshi2024therapy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13748"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13748'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present TheraGen, an advanced AI-powered mental health chatbot utilizing
 the LLaMA 2 7B model. This approach builds upon recent advancements in language

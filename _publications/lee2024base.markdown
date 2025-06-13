@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024base
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00693"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00693'}
 tags: ['Efficiency and Optimization']
 ---
 While learning to align Large Language Models (LLMs) with human preferences

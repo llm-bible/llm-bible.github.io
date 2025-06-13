@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: cheng2025humt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13259"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13259'}
 tags: ['Uncategorized']
 ---
 Should LLMs generate language that makes them seem human? Human-like language might improve user experience, but might also lead to deception, overreliance, and stereotyping. Assessing these potential impacts requires a systematic way to measure human-like tone in LLM outputs. We introduce HumT and SocioT, metrics for human-like tone and other dimensions of social perceptions in text data based on relative probabilities from an LLM. By measuring HumT across preference and usage datasets, we find that users prefer less human-like outputs from LLMs in many contexts. HumT also offers insights into the perceptions and impacts of anthropomorphism: human-like LLM outputs are highly correlated with warmth, social closeness, femininity, and low status, which are closely linked to the aforementioned harms. We introduce DumT, a method using HumT to systematically control and reduce the degree of human-like tone while preserving model performance. DumT offers a practical approach for mitigating risks associated with anthropomorphic language generation.

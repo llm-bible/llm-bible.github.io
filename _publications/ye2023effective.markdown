@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09533"}
-tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09533'}
+tags: ['Reinforcement Learning', 'Prompting', 'Fine-Tuning', 'Tools']
 ---
 Large language models (LLMs) have achieved remarkable advancements in natural
 language understanding and generation. However, one major issue towards their

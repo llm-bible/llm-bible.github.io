@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024identity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.18039"}
-  - {name: "Code", url: "https://github.com/microsoft/LMOps/tree/main/reslora"}
-tags: ['Fine-Tuning', 'Tools', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.18039'}
+  - {name: "Code", url: 'https://github.com/microsoft/LMOps/tree/main/reslora'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 As one of the most popular parameter-efficient fine-tuning (PEFT) methods,
 low-rank adaptation (LoRA) is commonly applied to fine-tune large language

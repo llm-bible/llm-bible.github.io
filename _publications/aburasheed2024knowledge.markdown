@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aburasheed2024knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03008"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03008'}
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
 ---
 In the era of personalized education, the provision of comprehensible
 explanations for learning recommendations is of a great value to enhance the

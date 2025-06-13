@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: priyanshu2024silent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10371"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10371'}
+tags: ['ACL', 'Ethics and Bias', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) ascend in popularity, offering information
 with unprecedented convenience compared to traditional search engines, we delve

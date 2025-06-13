@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gu2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.04700"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.04700'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Model editing is a technique that edits the large language models (LLMs) with
 updated knowledge to alleviate hallucinations without resource-intensive

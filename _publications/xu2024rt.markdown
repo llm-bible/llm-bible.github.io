@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024rt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05212"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05212'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Recent advances in Large Language Models (LLMs) have showcased their
 remarkable reasoning capabilities, making them influential across various

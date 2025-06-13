@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gonçalves2023understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05662"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05662'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Quantization', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) trained with self-supervision on vast corpora of
 web text fit to the social biases of that text. Without intervention, these

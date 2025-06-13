@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tarasov2024distilling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01812"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01812'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated proficiency in their reasoning
 abilities, yet their large size presents scalability challenges and limits any

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prakriya2024accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06131"}
-tags: ['Efficiency and Optimization', 'GPT', 'Survey Paper', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06131'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Survey Paper', 'Pretraining Methods']
 ---
 Traditional Large Language Model (LLM) pretraining relies on autoregressive
 language modeling with randomly sampled data from web-scale datasets. Inspired

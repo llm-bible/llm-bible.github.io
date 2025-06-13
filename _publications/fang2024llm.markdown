@@ -6,7 +6,7 @@ conference: "ACM International Conference on Intelligent Virtual Agents (IVA 202
 year: 2024
 bibkey: fang2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08067"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08067'}
 tags: ['Tools']
 ---
 The Wizard of Oz (WoZ) method is a widely adopted research approach where a

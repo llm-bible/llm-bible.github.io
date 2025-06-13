@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zisman2024n
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01958"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01958'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning allows models like transformers to adapt to new tasks
 from a few examples without updating their weights, a desirable trait for

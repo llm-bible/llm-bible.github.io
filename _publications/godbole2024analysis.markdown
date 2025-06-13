@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: godbole2024analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10490"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10490'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 In text generation, hallucinations refer to the generation of seemingly

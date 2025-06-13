@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.04941"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.04941'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Prompting']
 ---
 Advances in automated essay scoring (AES) have traditionally relied on
 labeled essays, requiring tremendous cost and expertise for their acquisition.

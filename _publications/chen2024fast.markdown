@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20175"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20175'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The rapid development of large language models (LLMs) in recent years has
 largely focused on English, resulting in models that respond exclusively in

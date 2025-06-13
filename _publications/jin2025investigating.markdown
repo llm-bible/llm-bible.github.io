@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: jin2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00843"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00843'}
 tags: ['Uncategorized']
 ---
 Mathematics learning entails mastery of both content knowledge and cognitive

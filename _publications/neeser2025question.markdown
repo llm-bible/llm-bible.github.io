@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: neeser2025question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10976"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10976'}
 tags: ['RAG']
 ---
 We present QuOTE (Question-Oriented Text Embeddings), a novel enhancement to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chaudhary2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09269"}
-tags: ['Security', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09269'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Applications']
 ---
 Traditional evaluation metrics like BLEU and ROUGE fall short when capturing
 the nuanced qualities of generated text, particularly when there is no single

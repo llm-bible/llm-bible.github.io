@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023blip
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2301.12597v3"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2301.12597v3'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 The cost of vision-and-language pre-training has become increasingly
 prohibitive due to end-to-end training of large-scale models. This paper

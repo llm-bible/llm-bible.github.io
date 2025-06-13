@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: deiseroth2022logic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.13518"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.13518'}
 tags: ['Tools']
 ---
 Text-to-image models have recently achieved remarkable success with seemingly

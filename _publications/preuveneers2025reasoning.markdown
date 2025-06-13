@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: preuveneers2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12090"}
-tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12090'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 We present a novel framework that bridges the gap between the
 interpretability of decision trees and the advanced reasoning capabilities of

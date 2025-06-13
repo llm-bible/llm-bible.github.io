@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mao2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.08387"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.08387'}
 tags: ['Efficiency and Optimization', 'Distillation']
 ---
 Large-scale language-agnostic sentence embedding models such as LaBSE (Feng

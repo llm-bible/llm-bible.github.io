@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09946"}
-tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09946'}
+tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Reasoning Models (LRMs) like DeepSeek-R1 and OpenAI-o1 have
 demonstrated remarkable reasoning capabilities, raising important questions

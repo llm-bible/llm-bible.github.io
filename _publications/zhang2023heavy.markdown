@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023heavy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14048"}
-  - {name: "Code", url: "https://github.com/FMInference/H2O"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14048'}
+  - {name: "Code", url: 'https://github.com/FMInference/H2O'}
+tags: ['Attention Mechanism', 'Has Code', 'ACL', 'GPT', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs), despite their recent impressive
 accomplishments, are notably cost-prohibitive to deploy, particularly for

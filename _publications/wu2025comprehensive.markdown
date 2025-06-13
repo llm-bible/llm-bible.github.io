@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05244"}
-tags: ['Applications', 'Tools', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05244'}
+tags: ['Language Modeling', 'Applications', 'Tools']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced text generation capabilities, yet evaluating their performance in

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21348"}
-tags: ['Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21348'}
+tags: ['RAG', 'Applications', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 With the increasing application of large language models (LLMs) in the
 medical domain, evaluating these models' performance using benchmark datasets

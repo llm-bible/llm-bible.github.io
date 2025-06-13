@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: lang2022co
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.00828"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.00828'}
+tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 We demonstrate that co-training (Blum & Mitchell, 1998) can improve the
 performance of prompt-based learning by using unlabeled data. While prompting

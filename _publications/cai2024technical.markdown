@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024technical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17297"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17297'}
+tags: ['Agentic', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The evolution of Large Language Models (LLMs) like ChatGPT and GPT-4 has
 sparked discussions on the advent of Artificial General Intelligence (AGI).

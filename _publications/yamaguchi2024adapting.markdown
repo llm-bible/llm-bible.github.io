@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yamaguchi2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11704"}
-tags: ['Training Techniques', 'Pre-Training', 'Responsible AI']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11704'}
+tags: ['Pre-Training', 'Responsible AI', 'Training Techniques']
 ---
 Vocabulary expansion (VE) is the de-facto approach to language adaptation of
 large language models (LLMs) by adding new tokens and continuing pre-training

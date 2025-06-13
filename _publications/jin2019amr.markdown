@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: jin2019amr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1912.01682"}
-tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1912.01682'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Text generation from AMR involves emitting sentences that reflect the meaning
 of their AMR annotations. Neural sequence-to-sequence models have successfully

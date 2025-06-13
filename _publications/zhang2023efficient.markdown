@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08303"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08303'}
 tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Toxic content detection is crucial for online services to remove

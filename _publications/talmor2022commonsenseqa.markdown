@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: talmor2022commonsenseqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.05320"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Security', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.05320'}
+tags: ['Few-Shot', 'Security', 'Model Architecture', 'GPT', 'Tools']
 ---
 Constructing benchmarks that test the abilities of modern natural language
 understanding models is difficult - pre-trained language models exploit

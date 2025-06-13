@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: loh2023harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08017"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08017'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various information-seeking and reasoning tasks. These computational systems

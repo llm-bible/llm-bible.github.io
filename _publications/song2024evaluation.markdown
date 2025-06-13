@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10457"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10457'}
 tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Current evaluations of large language models (LLMs) often overlook

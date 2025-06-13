@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: aynetdinov2024automated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17072"}
-tags: ['Applications', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17072'}
+tags: ['Language Modeling', 'Applications']
 ---
 Instruction-tuned Large Language Models (LLMs) have recently showcased
 remarkable advancements in their ability to generate fitting responses to

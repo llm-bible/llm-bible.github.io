@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lassche2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00034"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00034'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Companies support their customers using live chats and chatbots to gain their
 loyalty. AFAS is a Dutch company aiming to leverage the opportunity large

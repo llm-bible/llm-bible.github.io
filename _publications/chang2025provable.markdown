@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025provable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02102"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02102'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 The in-context learning capabilities of modern language models have motivated
 a deeper mathematical understanding of sequence models. A line of recent work

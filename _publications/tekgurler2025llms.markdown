@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tekgurler2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11898"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11898'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) have demonstrated remarkable adaptability in
 performing various tasks, including machine translation (MT), without explicit

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024aquila
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.06142"}
-tags: ['Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.06142'}
+tags: ['Prompting', 'Tools']
 ---
 The recent development of vision language models (VLMs) has led to
 significant advances in visual-language integration through visual instruction

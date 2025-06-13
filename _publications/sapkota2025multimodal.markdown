@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: sapkota2025multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18648"}
-  - {name: "Code", url: "https://github.com/WSUAgRobotics/data-aug-multi-modal-llm"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18648'}
+  - {name: "Code", url: 'https://github.com/WSUAgRobotics/data-aug-multi-modal-llm'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Applications', 'GPT', 'Model Architecture', 'Multimodal Models', 'Survey Paper']
 ---
 In the past five years, research has shifted from traditional Machine
 Learning (ML) and Deep Learning (DL) approaches to leveraging Large Language

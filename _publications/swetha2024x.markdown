@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: swetha2024x
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.13851"}
-tags: ['Transformer', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.13851'}
+tags: ['Multimodal Models', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have
 revolutionized the field of vision-language understanding by integrating visual

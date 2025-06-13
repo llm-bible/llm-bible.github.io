@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: islam2025deepseek
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07905"}
-tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Merging', 'Security', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07905'}
+tags: ['Efficiency and Optimization', 'Security', 'Tools', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Multimodal Large Language Models (MLLMs) represent the cutting edge of AI
 technology, with DeepSeek models emerging as a leading open-source alternative

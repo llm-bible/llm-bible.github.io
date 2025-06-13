@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024refine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12890"}
-tags: ['Fine-Tuning', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12890'}
+tags: ['RAG', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Retrieval augmented generation (RAG) pipelines are commonly used in tasks
 such as question-answering (QA), relying on retrieving relevant documents from

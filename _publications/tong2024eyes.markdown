@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tong2024eyes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06209"}
-tags: ['Pre-Training', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06209'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'GPT', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Is vision good enough for language? Recent advancements in multimodal models
 primarily stem from the powerful reasoning abilities of large language models

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: noever2020chess
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2008.04057"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2008.04057'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This work demonstrates that natural language transformers can support more
 generic strategic modeling, particularly for text-archived games. In addition

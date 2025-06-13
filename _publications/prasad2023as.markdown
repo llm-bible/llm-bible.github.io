@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: prasad2023as
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05772"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05772'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Large Language Models (LLMs) are increasingly being used for interactive
 decision-making tasks requiring planning and adapting to the environment.

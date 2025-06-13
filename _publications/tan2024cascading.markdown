@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024cascading
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18449"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18449'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Generating event graphs from long documents is challenging due to the
 inherent complexity of multiple tasks involved such as detecting events,

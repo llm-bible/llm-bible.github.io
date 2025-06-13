@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bronnec2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10693"}
-tags: ['Applications', 'Tools', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10693'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Applications', 'Tools']
 ---
 We introduce a novel evaluation framework for Large Language Models (LLMs)
 such as \textsc\{Llama-2\} and \textsc\{Mistral\}, focusing on importing Precision

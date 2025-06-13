@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: theophilou2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.01540"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.01540'}
 tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Artificial intelligence's (AI) progress holds great promise in tackling

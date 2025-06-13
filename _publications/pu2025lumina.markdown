@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pu2025lumina
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04903"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04903'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present Lunima-OmniLV (abbreviated as OmniLV), a universal multimodal
 multi-task framework for low-level vision that addresses over 100 sub-tasks

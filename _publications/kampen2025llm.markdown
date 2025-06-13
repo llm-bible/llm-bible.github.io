@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kampen2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08211"}
-tags: ['GPT', 'Prompting', 'Ethics and Bias', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08211'}
+tags: ['Ethics and Bias', 'GPT', 'Prompting', 'Model Architecture']
 ---
 In this paper, we conducted a Multi-Perspective Comparative Narrative
 Analysis (CNA) on three prominent LLMs: GPT-3.5, PaLM2, and Llama2. We applied

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023autoeval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14906"}
-  - {name: "Code", url: "https://github.com/Xiuyuan-Chen/AutoEval-Video"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14906'}
+  - {name: "Code", url: 'https://github.com/Xiuyuan-Chen/AutoEval-Video'}
+tags: ['Has Code', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 We propose a novel and challenging benchmark, AutoEval-Video, to
 comprehensively evaluate large vision-language models in open-ended video

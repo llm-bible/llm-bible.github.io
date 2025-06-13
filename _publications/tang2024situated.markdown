@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024situated
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08126"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08126'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Large Language Models (LLMs) trained on massive corpora have shown remarkable
 success in knowledge-intensive tasks. Yet, most of them rely on pre-stored

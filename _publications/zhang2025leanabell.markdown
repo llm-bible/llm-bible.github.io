@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025leanabell
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06122"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06122'}
+tags: ['Reinforcement Learning', 'Agentic', 'Training Techniques']
 ---
 Recent advances in automated theorem proving (ATP) through LLMs have
 highlighted the potential of formal reasoning with Lean 4 codes. However, ATP

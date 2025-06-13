@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: feng2022topic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.05373"}
-tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.05373'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture']
 ---
 To alleviate the problem of structured databases' limited coverage, recent
 task-oriented dialogue systems incorporate external unstructured knowledge to

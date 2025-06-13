@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08740"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08740'}
+tags: ['Prompting', 'Agentic']
 ---
 Large language models (LLMs) have shown increasing capacity at planning and
 executing a high-level goal in a live computer environment (e.g. MiniWoB++). To

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024omni
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07985"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07985'}
 tags: ['Uncategorized']
 ---
 Recent advancements in large language models (LLMs) have led to significant

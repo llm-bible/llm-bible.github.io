@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: su2024mission
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01420"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01420'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are trained on a deluge of text data with
 limited quality control. As a result, LLMs can exhibit unintended or even

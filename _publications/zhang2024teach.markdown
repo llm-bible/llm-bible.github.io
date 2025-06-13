@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024teach
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10999"}
-  - {name: "Code", url: "https://github.com/zlkqz/auto_eval"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10999'}
+  - {name: "Code", url: 'https://github.com/zlkqz/auto_eval'}
+tags: ['Has Code', 'Language Modeling', 'Few-Shot', 'Security', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 With the rapid development of large language models (LLM), the evaluation of
 LLM becomes increasingly important. Measuring text generation tasks such as

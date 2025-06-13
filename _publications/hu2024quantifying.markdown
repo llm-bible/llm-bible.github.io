@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10811"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10811'}
 tags: ['Prompting']
 ---
 Large language models (LLMs) have shown remarkable promise in simulating

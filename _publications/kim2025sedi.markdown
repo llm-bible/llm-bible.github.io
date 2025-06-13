@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025sedi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04774"}
-tags: ['Training Techniques', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04774'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 The rapid evolution of Large Language Models (LLMs) has enabled the industry
 to develop various AI-based services. Instruction tuning is considered

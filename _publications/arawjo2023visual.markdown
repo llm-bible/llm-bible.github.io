@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: arawjo2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09128"}
-tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09128'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Tools']
 ---
 Evaluating outputs of large language models (LLMs) is challenging, requiring
 making -- and making sense of -- many responses. Yet tools that go beyond basic

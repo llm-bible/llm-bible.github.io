@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024sharpness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01548"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01548'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Large language models (LLMs) frequently hallucinate and produce factual
 errors, yet our understanding of why they make these errors remains limited. In

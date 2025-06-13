@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ko2025ferg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23371"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23371'}
+tags: ['Efficiency and Optimization', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 One of the key tasks in machine learning for tabular data is feature
 engineering. Although it is vital for improving the performance of models, it

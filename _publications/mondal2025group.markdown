@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mondal2025group
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08035"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08035'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 LLMs often fail to meet the specialized needs of distinct user groups due to
 their one-size-fits-all training paradigm \cite\{lucy-etal-2024-one\} and there

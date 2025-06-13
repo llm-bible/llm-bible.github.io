@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: fu2021violet
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.12681"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.12681'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 A great challenge in video-language (VidL) modeling lies in the disconnection
 between fixed video representations extracted from image/video understanding

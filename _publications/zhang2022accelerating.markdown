@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.12469"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.12469'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Pretraining Methods']
 ---
 In recent years, large pre-trained Transformer-based language models have led
 to dramatic improvements in many natural language understanding tasks. To train

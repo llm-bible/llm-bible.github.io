@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025cultural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08820"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08820'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) more deeply integrate into human life across
 various regions, aligning them with pluralistic cultures is crucial for

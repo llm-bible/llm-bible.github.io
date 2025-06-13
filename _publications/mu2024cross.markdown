@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mu2024cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.01890"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.01890'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
 ---
 As large language models (LLMs) evolve, the increase in model depth and
 parameter number leads to substantial redundancy. To enhance the efficiency of

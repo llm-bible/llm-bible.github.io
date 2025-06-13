@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: naman2025analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01273"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01273'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are becoming increasingly competent across
 various domains, educators are showing a growing interest in integrating these

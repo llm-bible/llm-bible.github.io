@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: savage2023diagnostic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.06834"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.06834'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Interpretability']
 ---
 One of the major barriers to using large language models (LLMs) in medicine
 is the perception they use uninterpretable methods to make clinical decisions

@@ -6,8 +6,8 @@ conference: "Presented at Deployable AI Workshop at AAAI-2024"
 year: 2024
 bibkey: ajwani2024plug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05143"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05143'}
+tags: ['Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) have shown exceptional
 language generation capabilities in response to text-based prompts. However,

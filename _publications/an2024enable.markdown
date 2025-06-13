@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: an2024enable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00655"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00655'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Transformer', 'Model Architecture']
 ---
 Current large language models (LLMs) primarily utilize next-token prediction
 method for inference, which significantly impedes their processing speed. In

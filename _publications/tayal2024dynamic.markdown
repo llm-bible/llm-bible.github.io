@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tayal2024dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.11413"}
-tags: ['RAG', 'Agentic', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.11413'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Prompting']
 ---
 When interacting with Retrieval-Augmented Generation (RAG)-based
 conversational agents, the users must carefully craft their queries to be

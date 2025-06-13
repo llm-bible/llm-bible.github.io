@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hamdan2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14391"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14391'}
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) undergo a three-phase training process:
 unsupervised pre-training, supervised fine-tuning (SFT), and learning from

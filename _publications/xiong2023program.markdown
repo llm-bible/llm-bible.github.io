@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiong2023program
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.05727"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.05727'}
 tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recent development of large language models (LLMs) for code like CodeX and

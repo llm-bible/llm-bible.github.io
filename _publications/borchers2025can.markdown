@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: borchers2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05570"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05570'}
+tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) hold promise as dynamic instructional aids. Yet,
 it remains unclear whether LLMs can replicate the adaptivity of intelligent

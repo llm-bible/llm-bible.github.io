@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wen2022explanation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.08035"}
-tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.08035'}
+tags: ['Attention Mechanism', 'Agentic', 'Interpretability and Explainability', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability']
 ---
 Growing attention has been paid in Conversational Recommendation System
 (CRS), which works as a conversation-based and recommendation task-oriented

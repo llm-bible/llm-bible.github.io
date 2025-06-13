@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16040"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16040'}
 tags: ['Reinforcement Learning']
 ---
 Recently, Test-Time Scaling Large Language Models (LLMs), such as DeepSeek-R1

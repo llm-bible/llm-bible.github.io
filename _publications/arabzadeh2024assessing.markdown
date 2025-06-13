@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: arabzadeh2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.02178"}
-  - {name: "Code", url: "https://bit.ly/3w3yKcS"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.02178'}
+  - {name: "Code", url: 'https://bit.ly/3w3yKcS'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Security', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 The rapid development of Large Language Models (LLMs) has led to a surge in
 applications that facilitate collaboration among multiple agents, assisting

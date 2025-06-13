@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025kedrec
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.20350"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.20350'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Drug discovery is a critical task in biomedical natural language processing
 (NLP), yet explainable drug discovery remains underexplored. Meanwhile, large

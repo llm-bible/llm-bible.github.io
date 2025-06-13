@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025merger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16094"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16094'}
 tags: ['Security', 'Tools', 'Merging']
 ---
 Model merging has emerged as a promising approach for updating large language

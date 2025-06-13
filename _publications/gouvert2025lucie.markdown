@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gouvert2025lucie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12294"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12294'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
 ---
 We present both the Lucie Training Dataset and the Lucie-7B foundation model.
 The Lucie Training Dataset is a multilingual collection of textual corpora

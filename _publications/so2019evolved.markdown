@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: so2019evolved
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1901.11117"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'WMT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1901.11117'}
+tags: ['WMT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent works have highlighted the strength of the Transformer architecture on
 sequence tasks while, at the same time, neural architecture search (NAS) has

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00856"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00856'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Node-based programming languages are increasingly popular in media arts
 coding domains. These languages are designed to be accessible to users with

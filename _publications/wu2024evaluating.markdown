@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024evaluating
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2406.16449v4"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2406.16449v4'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 The issue of hallucinations is a prevalent concern in existing Large
 Vision-Language Models (LVLMs). Previous efforts have primarily focused on

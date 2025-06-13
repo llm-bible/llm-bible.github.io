@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alon2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13501"}
-tags: ['Fine-Tuning', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13501'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) were shown to struggle with long-term planning,
 which may be caused by the limited way in which they explore the space of

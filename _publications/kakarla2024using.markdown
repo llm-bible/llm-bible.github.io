@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kakarla2024using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.03238"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.03238'}
 tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 Research suggests that tutors should adopt a strategic approach when

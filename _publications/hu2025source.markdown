@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: hu2025source
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10494"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10494'}
+tags: ['RAG', 'Applications', 'Training Techniques']
 ---
 LLMs have paved the way for truly simple document-level machine translation,
 but challenges such as omission errors remain. In this paper, we study a simple

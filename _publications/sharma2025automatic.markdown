@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: sharma2025automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05070"}
-  - {name: "Code", url: "https://github.com/microsoft/promptpex"}
-tags: ['Has Code', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05070'}
+  - {name: "Code", url: 'https://github.com/microsoft/promptpex'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code', 'Applications']
 ---
 Large language models (LLMs) are being used in many applications and prompts
 for these models are integrated into software applications as code-like

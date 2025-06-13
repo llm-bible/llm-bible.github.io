@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: meng2022tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.03044"}
-tags: ['GPT', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.03044'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Recent studies have revealed the intriguing few-shot learning ability of
 pretrained language models (PLMs): They can quickly adapt to a new task when

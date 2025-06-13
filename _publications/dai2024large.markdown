@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11541"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11541'}
+tags: ['Attention Mechanism', 'Security', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 When we integrate factual knowledge from knowledge graphs (KGs) into large
 language models (LLMs) to enhance their performance, the cost of injection

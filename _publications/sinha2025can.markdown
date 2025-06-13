@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sinha2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19414"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19414'}
 tags: ['Agentic']
 ---
 There is growing excitement about the potential of Language Models (LMs) to

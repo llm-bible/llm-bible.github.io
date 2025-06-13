@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ruiz2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20297"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'ACL', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20297'}
+tags: ['ACL', 'RAG', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In recent years, the widespread adoption of Large Language Models (LLMs) has
 sparked interest in their potential for application within the military domain.

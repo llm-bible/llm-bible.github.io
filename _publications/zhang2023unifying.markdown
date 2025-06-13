@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023unifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07989"}
-  - {name: "Code", url: "https://github.com/codefuse-ai/Awesome-Code-LLM"}
-tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07989'}
+  - {name: "Code", url: 'https://github.com/codefuse-ai/Awesome-Code-LLM'}
+tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Survey Paper', 'Pretraining Methods']
 ---
 In this work we systematically review the recent advancements in software
 engineering with language models, covering 70+ models, 40+ evaluation tasks,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: amouyal2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05455"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05455'}
 tags: ['GPT', 'Model Architecture']
 ---
 In psycholinguistics, the creation of controlled materials is crucial to

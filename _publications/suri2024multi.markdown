@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: suri2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.10704"}
-tags: ['Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.10704'}
+tags: ['RAG', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Understanding information from a collection of multiple documents,
 particularly those with visually rich elements, is important for

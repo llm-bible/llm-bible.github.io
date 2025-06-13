@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: peng2023spoken
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14536"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14536'}
+tags: ['Few-Shot', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 People have long hoped for a conversational system that can assist in
 real-life situations, and recent progress on large language models (LLMs) is

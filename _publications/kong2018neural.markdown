@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: kong2018neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1811.08541"}
-tags: ['Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1811.08541'}
+tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Reinforcement Learning']
 ---
 Although Neural Machine Translation (NMT) models have advanced
 state-of-the-art performance in machine translation, they face problems like

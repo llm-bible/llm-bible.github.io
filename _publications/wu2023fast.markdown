@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.05920"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.05920'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) power a new generation of interactive AI
 applications exemplified by ChatGPT. The interactive nature of these

@@ -6,9 +6,9 @@ conference: "ICML 2023"
 year: 2022
 bibkey: shrivastava2022repository
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.12839"}
-  - {name: "Code", url: "https://github.com/shrivastavadisha/repo_level_prompt_generation"}
-tags: ['Tools', 'Reinforcement Learning', 'ACL', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.12839'}
+  - {name: "Code", url: 'https://github.com/shrivastavadisha/repo_level_prompt_generation'}
+tags: ['Has Code', 'ACL', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 With the success of large language models (LLMs) of code and their use as
 code assistants (e.g. Codex used in GitHub Copilot), techniques for introducing

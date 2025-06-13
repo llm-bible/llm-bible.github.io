@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: phukan2024peering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.17980"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.17980'}
+tags: ['RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
 ---
 With the enhancement in the field of generative artificial intelligence (AI),
 contextual question answering has become extremely relevant. Attributing model

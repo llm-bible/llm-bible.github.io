@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023point
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00615"}
-  - {name: "Code", url: "https://github.com/ZiyuGuo99/Point-Bind_Point-LLM"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00615'}
+  - {name: "Code", url: 'https://github.com/ZiyuGuo99/Point-Bind_Point-LLM'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce Point-Bind, a 3D multi-modality model aligning point clouds with
 2D image, language, audio, and video. Guided by ImageBind, we construct a joint

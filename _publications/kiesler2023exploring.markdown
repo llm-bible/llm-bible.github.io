@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: kiesler2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00029"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00029'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Ever since the emergence of large language models (LLMs) and related

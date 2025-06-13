@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: wang2020encoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.11689"}
-tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.11689'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 We propose a novel Transformer encoder-based architecture with syntactical
 knowledge encoded for intent detection and slot filling. Specifically, we

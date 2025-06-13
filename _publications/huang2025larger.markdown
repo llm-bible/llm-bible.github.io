@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: huang2025larger
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01864"}
-tags: ['Tools', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01864'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Preference learning is critical for aligning large language models (LLMs)
 with human values, with the quality of preference datasets playing a crucial

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024llmcl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12541"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12541'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 While large-scale language models (LLMs) have demonstrated remarkable
 capabilities in specific natural language processing (NLP) tasks, they may

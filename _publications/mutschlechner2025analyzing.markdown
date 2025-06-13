@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: mutschlechner2025analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06496"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06496'}
 tags: ['Few-Shot', 'Prompting']
 ---
 This study evaluates the forecasting performance of recent language models

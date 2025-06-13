@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wen2025breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.07237"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.07237'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive performance across a range
 of natural language processing tasks. However, their vast number of parameters

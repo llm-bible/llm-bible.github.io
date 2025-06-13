@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tang2025framework
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13081"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13081'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large Language Models (LLMs) are acquiring a wider range of capabilities,
 including understanding and responding in multiple languages. While they

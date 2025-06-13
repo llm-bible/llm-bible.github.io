@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023sparsity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15033"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15033'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Applications', 'Tools', 'Reinforcement Learning', 'Interpretability']
 ---
 Large Language Models (LLMs) have achieved unprecedented breakthroughs in
 various natural language processing domains. However, the enigmatic

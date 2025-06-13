@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023customizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13381"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13381'}
+tags: ['Attention Mechanism', 'Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) have demonstrated impressive
 capabilities in a variety of natural language processing (NLP) tasks.

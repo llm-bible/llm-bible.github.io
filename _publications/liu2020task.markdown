@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: liu2020task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2007.08772"}
-tags: ['GPT', 'Applications', 'WMT', 'Training Techniques', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2007.08772'}
+tags: ['SLT', 'WMT', 'GPT', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Non-autoregressive translation (NAT) achieves faster inference speed but at
 the cost of worse accuracy compared with autoregressive translation (AT). Since

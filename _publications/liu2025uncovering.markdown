@@ -6,8 +6,8 @@ conference: "LLM4ECommerce Workshop at The Web Conference 2025"
 year: 2025
 bibkey: liu2025uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07761"}
-tags: ['RAG', 'RecSys', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07761'}
+tags: ['Reinforcement Learning', 'RAG', 'RecSys', 'Prompting']
 ---
 Cross-Domain Recommendation (CDR) seeks to enhance item retrieval in
 low-resource domains by transferring knowledge from high-resource domains.

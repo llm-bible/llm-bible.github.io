@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: orvalho2025are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.10443"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.10443'}
 tags: ['Security']
 ---
 Understanding the reasoning and robustness of Large Language Models (LLMs) is critical for their reliable use in programming tasks. While recent studies have assessed LLMs' ability to predict program outputs, most focus solely on the accuracy of those predictions, without evaluating the reasoning behind them. Moreover, it has been observed on mathematical reasoning tasks that LLMs can arrive at correct answers through flawed logic, raising concerns about similar issues in code understanding.

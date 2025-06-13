@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.20246"}
-  - {name: "Code", url: "https://github.com/microsoft/MathOctopus"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.20246'}
+  - {name: "Code", url: 'https://github.com/microsoft/MathOctopus'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Existing research predominantly focuses on developing powerful language
 learning models (LLMs) for mathematical reasoning within monolingual languages,

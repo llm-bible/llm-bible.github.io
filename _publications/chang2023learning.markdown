@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11816"}
-  - {name: "Code", url: "https://github.com/Cornell-RL/tril"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11816'}
+  - {name: "Code", url: 'https://github.com/Cornell-RL/tril'}
+tags: ['Agentic', 'Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement learning (RL) has emerged as a powerful paradigm for
 fine-tuning Large Language Models (LLMs) for text generation. In particular,

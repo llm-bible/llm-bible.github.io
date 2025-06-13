@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: bhatt2021universality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.07140"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.07140'}
+tags: ['Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'Training Techniques', 'BERT', 'Survey Paper', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Deep Contextual Language Models (LMs) like ELMO, BERT, and their successors
 dominate the landscape of Natural Language Processing due to their ability to

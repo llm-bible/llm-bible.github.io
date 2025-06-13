@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nie2025weak
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04785"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04785'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Efficiently leveraging of the capabilities of contemporary large language
 models (LLMs) is increasingly challenging, particularly when direct fine-tuning

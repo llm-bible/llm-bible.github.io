@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024coderag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14497"}
-tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14497'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Tools']
 ---
 While language models (LMs) have proven remarkably adept at generating code,
 many programs are challenging for LMs to generate using their parametric

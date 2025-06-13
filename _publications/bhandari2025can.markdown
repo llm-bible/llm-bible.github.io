@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: bhandari2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11843"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11843'}
 tags: ['Agentic', 'Tools']
 ---
 Large Language Models (LLMs) are widely used as conversational agents,

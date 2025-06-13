@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: m2025continuous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12876"}
-tags: ['Tools', 'Agentic', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12876'}
+tags: ['Reinforcement Learning', 'Agentic', 'Model Architecture', 'Tools']
 ---
 Creating personalized and adaptable conversational AI remains a key
 challenge. This paper introduces a Continuous Learning Conversational AI (CLCA)

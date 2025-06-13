@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wen2023development
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.15290"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15290'}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents the development and evaluation of ChatHome, a
 domain-specific language model (DSLM) designed for the intricate field of home

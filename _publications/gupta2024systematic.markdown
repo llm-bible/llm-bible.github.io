@@ -6,8 +6,8 @@ conference: "In Proceedings of the 2024 Conference on Empirical Methods in Natur
 year: 2024
 bibkey: gupta2024systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15386"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15386'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Long-context large language models (LC LLMs) promise to increase reliability
 of LLMs in real-world tasks requiring processing and understanding of long

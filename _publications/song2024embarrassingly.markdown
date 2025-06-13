@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: song2024embarrassingly
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08237"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08237'}
 tags: ['Training Techniques', 'RAG', 'Tools', 'Model Architecture']
 ---
 It is well known that LLM-based systems are data-hungry. Recent LLM-based TTS

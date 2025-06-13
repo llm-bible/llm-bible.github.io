@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: jiang2020token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2003.11963"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2003.11963'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Natural Language Generation (NLG) models are prone to generating repetitive
 utterances. In this work, we study the repetition problem for encoder-decoder

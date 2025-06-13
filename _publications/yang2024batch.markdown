@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024batch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08713"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08713'}
+tags: ['Attention Mechanism', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Text-to-image models have shown remarkable progress in generating
 high-quality images from user-provided prompts. Despite this, the quality of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: lu2022learn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.09513"}
-  - {name: "Code", url: "https://scienceqa.github.io"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Has Code', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.09513'}
+  - {name: "Code", url: 'https://scienceqa.github.io'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Applications', 'Multimodal Models']
 ---
 When answering a question, humans utilize the information available across
 different modalities to synthesize a consistent and complete chain of thought

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023position
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13437"}
-  - {name: "Code", url: "https://github.com/PVIT-official/PVIT"}
-tags: ['Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13437'}
+  - {name: "Code", url: 'https://github.com/PVIT-official/PVIT'}
+tags: ['Has Code', 'Multimodal Models']
 ---
 Recently, Multimodal Large Language Models (MLLMs) that enable Large Language
 Models (LLMs) to interpret images through visual instruction tuning have

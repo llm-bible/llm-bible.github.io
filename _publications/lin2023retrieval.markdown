@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023retrieval
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.11131"}
-  - {name: "Code", url: "https://github.com/LaVieEnRose365/ReLLa"}
-tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Attention Mechanism', 'Has Code', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.11131'}
+  - {name: "Code", url: 'https://github.com/LaVieEnRose365/ReLLa'}
+tags: ['Attention Mechanism', 'Has Code', 'Few-Shot', 'Training Techniques', 'Tools', 'Model Architecture', 'RecSys', 'Reinforcement Learning']
 ---
 With large language models (LLMs) achieving remarkable breakthroughs in
 natural language processing (NLP) domains, LLM-enhanced recommender systems

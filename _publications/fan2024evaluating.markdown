@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fan2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14368"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14368'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) show promise in generating code comments for
 novice programmers, but their educational effectiveness remains

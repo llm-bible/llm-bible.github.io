@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: burns2019language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.06327"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.06327'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Shouldn't language and vision features be treated equally in vision-language
 (VL) tasks? Many VL approaches treat the language component as an afterthought,

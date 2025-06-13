@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jindal2024efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02247"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'NeurIPS', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02247'}
+tags: ['NeurIPS', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 LLMOps incur significant costs due to hardware requirements, hindering their
 widespread accessibility. Additionally, a lack of transparency in model

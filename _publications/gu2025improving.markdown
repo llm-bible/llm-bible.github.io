@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: gu2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19672"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19672'}
+tags: ['Attention Mechanism', 'Security', 'GPT', 'Model Architecture', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs), built upon LLMs, have recently
 gained attention for their capabilities in image recognition and understanding.

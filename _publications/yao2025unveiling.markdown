@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yao2025unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04667"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04667'}
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 The integration of explicit Chain-of-Thought (CoT) reasoning into training
 large language models (LLMs) has advanced their reasoning capabilities, yet the

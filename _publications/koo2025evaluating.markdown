@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: koo2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.10995"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.10995'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 To accurately understand the intention of an utterance is crucial in
 conversational communication. As conversational artificial intelligence models

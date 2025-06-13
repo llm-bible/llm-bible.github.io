@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: vo2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14602"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14602'}
 tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent studies have provided empirical evidence of the wide-ranging potential

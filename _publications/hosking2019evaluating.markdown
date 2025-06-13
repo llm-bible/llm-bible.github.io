@@ -6,8 +6,8 @@ conference: "Proceedings of the 2019 Conference of the North American Chapter of
 year: 2019
 bibkey: hosking2019evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1902.11049"}
-tags: ['Agentic', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1902.11049'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent approaches to question generation have used modifications to a Seq2Seq
 architecture inspired by advances in machine translation. Models are trained

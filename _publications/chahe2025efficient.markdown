@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chahe2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10757"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10757'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications', 'Multimodal Models', 'Responsible AI', 'Pretraining Methods']
 ---
 Vision-language models (VLMs) show promise for autonomous driving but often
 lack transparent reasoning capabilities that are critical for safety. We

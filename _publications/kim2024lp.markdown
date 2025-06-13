@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024lp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.11289"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.11289'}
 tags: ['Tools']
 ---
 Creating high-quality, large-scale datasets for large language models (LLMs)

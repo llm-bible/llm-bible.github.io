@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: he2021parallel
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.12487"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.12487'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Lexically constrained text generation aims to control the generated text by

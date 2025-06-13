@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: devasier2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12516"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12516'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Frame-semantic parsing is a critical task in natural language understanding,
 yet the ability of large language models (LLMs) to extract frame-semantic

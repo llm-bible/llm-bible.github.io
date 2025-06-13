@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tong2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07234"}
-tags: ['Applications', 'Security', 'Language Modeling', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07234'}
+tags: ['Reinforcement Learning', 'Language Modeling', 'Security', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated significant potential and
 effectiveness across multiple application domains. To assess the performance of

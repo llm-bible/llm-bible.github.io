@@ -6,8 +6,8 @@ conference: "Proceedings of the Joint Workshop of the 5th Financial Technology a
 year: 2023
 bibkey: fang2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.13517"}
-tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.13517'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT']
 ---
 Open intent detection, a crucial aspect of natural language understanding,
 involves the identification of previously unseen intents in user-generated

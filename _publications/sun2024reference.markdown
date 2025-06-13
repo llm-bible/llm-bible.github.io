@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024reference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10215"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10215'}
 tags: ['Tools']
 ---
 Large Language Models (LLMs) are increasingly used to assess NLP tasks due to

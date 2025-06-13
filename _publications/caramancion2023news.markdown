@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: caramancion2023news
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.17176"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.17176'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 This study aimed to evaluate the proficiency of prominent Large Language

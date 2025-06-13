@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: alrfou2018character
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.04444"}
-tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.04444'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 LSTMs and other RNN variants have shown strong performance on character-level
 language modeling. These models are typically trained using truncated

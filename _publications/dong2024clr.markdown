@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024clr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17558"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17558'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) have demonstrated their remarkable performance
 across various language understanding tasks. While emerging benchmarks have

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04460"}
-  - {name: "Code", url: "https://github.com/ShangDataLab/Smooth-Control"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04460'}
+  - {name: "Code", url: 'https://github.com/ShangDataLab/Smooth-Control'}
+tags: ['Has Code', 'Language Modeling', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Controlling the attribute intensity of text generation is crucial across
 scenarios (e.g., writing conciseness, chatting emotion, and explanation

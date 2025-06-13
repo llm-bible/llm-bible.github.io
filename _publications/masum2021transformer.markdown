@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: masum2021transformer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.03937"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.03937'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 An AI chatbot provides an impressive response after learning from the trained
 dataset. In this decade, most of the research work demonstrates that deep

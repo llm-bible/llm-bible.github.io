@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: peng2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06099"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06099'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Objective To solve major clinical natural language processing (NLP) tasks
 using a unified text-to-text learning architecture based on a generative large

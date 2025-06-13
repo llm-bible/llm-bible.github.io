@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pafla2024unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.07725"}
-tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.07725'}
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 The field of eXplainable artificial intelligence (XAI) has produced a
 plethora of methods (e.g., saliency-maps) to gain insight into artificial

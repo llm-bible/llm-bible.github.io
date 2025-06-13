@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: marjieh2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.01308"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.01308'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Determining the extent to which the perceptual world can be recovered from
 language is a longstanding problem in philosophy and cognitive science. We show

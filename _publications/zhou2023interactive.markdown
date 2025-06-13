@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13304"}
-  - {name: "Code", url: "https://github.com/aiwaves-cn/RecurrentGPT"}
-  - {name: "Code", url: "https://www.aiwaves.org/recurrentgpt"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13304'}
+  - {name: "Code", url: 'https://github.com/aiwaves-cn/RecurrentGPT'}
+  - {name: "Code", url: 'https://www.aiwaves.org/recurrentgpt'}
+tags: ['Has Code', 'Transformer', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 The fixed-size context of Transformer makes GPT models incapable of
 generating arbitrarily long text. In this paper, we introduce RecurrentGPT, a

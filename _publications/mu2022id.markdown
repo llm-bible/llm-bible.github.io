@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: mu2022id
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2206.02323"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2206.02323'}
 tags: ['Training Techniques', 'Pre-Training', 'Model Architecture']
 ---
 Recently, sequential recommendation has emerged as a widely studied topic.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: veselovsky2025localized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10191"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10191'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Just as humans display language patterns influenced by their native tongue
 when speaking new languages, LLMs often default to English-centric responses

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pastorino2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11621"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11621'}
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Previous studies on framing have relied on manual analysis or fine-tuning
 models with limited annotated datasets. However, pre-trained models, with their

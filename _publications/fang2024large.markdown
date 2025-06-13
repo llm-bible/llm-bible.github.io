@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fang2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09334"}
-tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09334'}
+tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Applications']
 ---
 A wide range of real-world applications is characterized by their symbolic
 nature, necessitating a strong capability for symbolic reasoning. This paper

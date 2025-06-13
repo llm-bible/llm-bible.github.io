@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pal2023adventures
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10882"}
-tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10882'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 Modern large language models (LLMs) that rely on attention mechanisms are
 typically trained with fixed context lengths which enforce upper limits on the

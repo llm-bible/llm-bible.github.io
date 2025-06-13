@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: zhang2018regularizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1808.04064"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1808.04064'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Although Neural Machine Translation (NMT) has achieved remarkable progress in
 the past several years, most NMT systems still suffer from a fundamental

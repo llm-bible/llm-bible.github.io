@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: niu2020simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2001.05467"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2001.05467'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Many sequence-to-sequence dialogue models tend to generate safe,
 uninformative responses. There have been various useful efforts on trying to

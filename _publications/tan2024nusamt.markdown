@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024nusamt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07830"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07830'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated exceptional promise in
 translation tasks for high-resource languages. However, their performance in

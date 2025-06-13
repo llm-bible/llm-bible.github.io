@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: romero2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.07377"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.07377'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI']
 ---
 Previous research on emergence in large language models shows these display
 apparent human-like abilities and psychological latent traits. However, results

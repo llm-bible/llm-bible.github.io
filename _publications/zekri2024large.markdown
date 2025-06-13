@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zekri2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02724"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02724'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) are remarkably efficient across a wide range of
 natural language processing tasks and well beyond them. However, a

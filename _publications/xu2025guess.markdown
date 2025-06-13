@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025guess
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08193"}
-  - {name: "Code", url: "https://github.com/airaer1998/RPA_Thought"}
-tags: ['Agentic', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08193'}
+  - {name: "Code", url: 'https://github.com/airaer1998/RPA_Thought'}
+tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Recent advances in LLM-based role-playing language agents (RPLAs) have
 attracted broad attention in various applications. While chain-of-thought

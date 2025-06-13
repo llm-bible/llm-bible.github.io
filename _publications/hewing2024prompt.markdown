@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hewing2024prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05127"}
-tags: ['Tools', 'Survey Paper', 'RAG', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05127'}
+tags: ['Few-Shot', 'RAG', 'Tools', 'Prompting', 'Survey Paper']
 ---
 The rise of large language models (LLMs) has highlighted the importance of
 prompt engineering as a crucial technique for optimizing model outputs. While

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023penetrative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09605"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09605'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recent developments in Large Language Models (LLMs) have demonstrated their
 remarkable capabilities across a range of tasks. Questions, however, persist

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nair2025unmasking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04146"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04146'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Existing large language models (LLMs) are advancing rapidly and produce
 outstanding results in image generation tasks, yet their content safety checks

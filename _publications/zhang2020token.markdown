@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.11018"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.11018'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Neural machine translation with millions of parameters is vulnerable to
 unfamiliar inputs. We propose Token Drop to improve generalization and avoid

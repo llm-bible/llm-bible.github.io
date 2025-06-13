@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: kojima2022large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2205.11916v4"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Scaling Laws', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2205.11916v4'}
+tags: ['Large-Scale Training', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Scaling Laws', 'Prompting', 'Pre-Training']
 ---
 Pretrained large language models (LLMs) are widely used in many sub-fields of
 natural language processing (NLP) and generally known as excellent few-shot

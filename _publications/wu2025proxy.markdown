@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025proxy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10125"}
-tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10125'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'GPT', 'Merging', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multimodal autoregressive (AR) models, based on next-token prediction and
 transformer architecture, have demonstrated remarkable capabilities in various

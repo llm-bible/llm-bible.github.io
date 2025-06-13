@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: hadifar2021million
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.07944"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.07944'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 In online domain-specific customer service applications, many companies
 struggle to deploy advanced NLP models successfully, due to the limited

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiu2025subject
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15786"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15786'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture']
 ---
 Decoding functional magnetic resonance imaging (fMRI) signals into text has
 been a key challenge in the neuroscience community, with the potential to

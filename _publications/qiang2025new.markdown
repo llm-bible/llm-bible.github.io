@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: qiang2025new
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15268"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15268'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 Lexical Simplification (LS) methods use a three-step pipeline: complex word

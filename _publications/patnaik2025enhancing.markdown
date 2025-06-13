@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patnaik2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00591"}
-tags: ['Training Techniques', 'Efficiency and Optimization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00591'}
+tags: ['Efficiency and Optimization', 'Training Techniques']
 ---
 Visual layouts are essential in graphic design fields such as advertising,
 posters, and web interfaces. The application of generative models for

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: wen2023knowledge
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.09729"}
-  - {name: "Code", url: "https://github.com/wyl-willing/MindMap"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Merging', 'Interpretability', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.09729'}
+  - {name: "Code", url: 'https://github.com/wyl-willing/MindMap'}
+tags: ['Has Code', 'RAG', 'Security', 'Applications', 'Merging', 'Tools', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 Large language models (LLMs) have achieved remarkable performance in natural
 language understanding and generation tasks. However, they often suffer from

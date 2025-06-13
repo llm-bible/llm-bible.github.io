@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025classroom
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02780"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02780'}
+tags: ['Reinforcement Learning', 'Prompting', 'Agentic']
 ---
 Student simulation supports educators to improve teaching by interacting with
 virtual students. However, most existing approaches ignore the modulation

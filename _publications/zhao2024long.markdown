@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05854"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05854'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Long-tail recognition is challenging because it requires the model to learn
 good representations from tail categories and address imbalances across all

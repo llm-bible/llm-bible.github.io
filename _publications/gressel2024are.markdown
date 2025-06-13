@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gressel2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09569"}
-tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09569'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated an alarming ability to
 impersonate humans in conversation, raising concerns about their potential

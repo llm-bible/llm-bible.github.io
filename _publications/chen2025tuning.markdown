@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025tuning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.12877"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.12877'}
 tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 Large language models (LLMs) have emerged as powerful tools in natural

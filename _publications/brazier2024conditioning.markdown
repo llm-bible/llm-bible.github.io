@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: brazier2024conditioning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.03150"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.03150'}
 tags: ['Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have shown remarkable performance in Natural

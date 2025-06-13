@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: alavi2024minecraft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21627"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21627'}
 tags: ['Uncategorized']
 ---
 We propose a novel approach that uses large language models (LLMs) to

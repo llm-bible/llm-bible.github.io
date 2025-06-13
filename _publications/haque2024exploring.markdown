@@ -6,8 +6,8 @@ conference: "AI and Ethics (2024)"
 year: 2024
 bibkey: haque2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14643"}
-tags: ['Responsible AI', 'Transformer', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14643'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
 ---
 Artificial intelligence has been around for a while, but suddenly it has
 received more attention than ever before. Thanks to innovations from companies

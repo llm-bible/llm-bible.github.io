@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024unsupervised
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02781"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02781'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Tools', 'Training Techniques', 'Prompting', 'Multimodal Models', 'Pre-Training']
 ---
 Prompt learning has emerged as a valuable technique in enhancing
 vision-language models (VLMs) such as CLIP for downstream tasks in specific

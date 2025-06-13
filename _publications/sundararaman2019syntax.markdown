@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: sundararaman2019syntax
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.06156"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.06156'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'WMT', 'Model Architecture', 'Training Techniques', 'BERT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Attention-based models have shown significant improvement over traditional
 algorithms in several NLP tasks. The Transformer, for instance, is an

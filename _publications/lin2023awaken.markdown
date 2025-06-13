@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023awaken
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06495"}
-  - {name: "Code", url: "https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06495'}
+  - {name: "Code", url: 'https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Conditional graphic layout generation, which automatically maps user
 constraints to high-quality layouts, has attracted widespread attention today.

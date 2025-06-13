@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: du2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10747"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10747'}
+tags: ['Few-Shot', 'RAG', 'Security', 'Tools', 'Reinforcement Learning']
 ---
 Recommending suitable jobs to users is a critical task in online recruitment
 platforms, as it can enhance users' satisfaction and the platforms'

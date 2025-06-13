@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024mg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17770"}
-  - {name: "Code", url: "https://github.com/PhoenixZ810/MG-LLaVA"}
-tags: ['Multimodal Models', 'Has Code', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17770'}
+  - {name: "Code", url: 'https://github.com/PhoenixZ810/MG-LLaVA'}
+tags: ['Has Code', 'Multimodal Models', 'Merging']
 ---
 Multi-modal large language models (MLLMs) have made significant strides in
 various visual understanding tasks. However, the majority of these models are

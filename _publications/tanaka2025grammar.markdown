@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: tanaka2025grammar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15783"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15783'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Game Description Generation (GDG) is the task of generating a game
 description written in a Game Description Language (GDL) from natural language

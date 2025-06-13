@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wu2021identifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2104.08410"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08410'}
+tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 There is growing evidence that pretrained language models improve
 task-specific fine-tuning not just for the languages seen in pretraining, but

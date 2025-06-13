@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07589"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07589'}
+tags: ['RAG', 'Efficiency and Optimization', 'Fairness', 'Training Techniques', 'Fine-Tuning', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) is widely adopted for its effectiveness
 and cost-efficiency in mitigating hallucinations and enhancing the

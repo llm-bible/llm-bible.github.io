@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shum2023automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.12822"}
-  - {name: "Code", url: "https://github.com/SHUMKASHUN/Automate-CoT"}
-tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.12822'}
+  - {name: "Code", url: 'https://github.com/SHUMKASHUN/Automate-CoT'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Applications', 'Prompting', 'Pruning', 'Reinforcement Learning']
 ---
 Chain-of-thought (CoT) advances the reasoning abilities of large language
 models (LLMs) and achieves superior performance in complex reasoning tasks.

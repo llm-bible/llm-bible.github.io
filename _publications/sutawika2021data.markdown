@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sutawika2021data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2111.10513"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2111.10513'}
+tags: ['Transformer', 'RAG', 'WMT', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 In this paper, we describe the submission of the joint Samsung Research
 Philippines-Konvergen AI team for the WMT'21 Large Scale Multilingual

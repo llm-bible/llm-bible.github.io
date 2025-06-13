@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: weissburg2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14012"}
-tags: ['Interpretability and Explainability', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14012'}
+tags: ['Ethics and Bias', 'Interpretability and Explainability']
 ---
 With the increasing adoption of large language models (LLMs) in education,
 concerns about inherent biases in these models have gained prominence. We

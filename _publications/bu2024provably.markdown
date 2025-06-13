@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bu2024provably
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02199"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02199'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) have displayed remarkable
 creative prowess and emergence capabilities. Existing empirical studies have

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ziems2024tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06089"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06089'}
+tags: ['Reinforcement Learning', 'Tools', 'Applications']
 ---
 Evaluating the ability of large language models (LLMs) to follow complex
 human-written instructions is essential for their deployment in real-world

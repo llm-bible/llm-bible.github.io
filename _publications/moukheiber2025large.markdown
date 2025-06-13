@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: moukheiber2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02365"}
-tags: ['Fine-Tuning', 'Agentic', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02365'}
+tags: ['Agentic', 'Fairness', 'Training Techniques', 'Fine-Tuning', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 We introduce a novel question-answering (QA) dataset using echocardiogram
 reports sourced from the Medical Information Mart for Intensive Care database.

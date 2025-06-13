@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: jiang2025token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04130"}
-  - {name: "Code", url: "https://research.nvidia.com/labs/lpr/storm"}
-tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04130'}
+  - {name: "Code", url: 'https://research.nvidia.com/labs/lpr/storm'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Recent advances in video-based multimodal large language models (Video-LLMs)
 have significantly improved video understanding by processing videos as

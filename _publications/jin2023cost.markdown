@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.04680"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.04680'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Pruning', 'Pre-Training', 'In-Context Learning']
 ---
 How does scaling the number of parameters in large language models (LLMs)
 affect their core capabilities? We study two natural scaling techniques --

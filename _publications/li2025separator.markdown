@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025separator
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05689"}
-tags: ['Responsible AI', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05689'}
+tags: ['Attention Mechanism', 'RAG', 'Security', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Conversational large language models (LLMs) have gained widespread attention
 due to their instruction-following capabilities. To ensure conversational LLMs

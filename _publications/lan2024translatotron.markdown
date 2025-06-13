@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lan2024translatotron
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02894"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02894'}
 tags: ['Training Techniques', 'Applications', 'Tools']
 ---
 In-image machine translation (IIMT) aims to translate an image containing

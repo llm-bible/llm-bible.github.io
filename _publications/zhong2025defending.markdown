@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhong2025defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08966"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'ACL', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08966'}
+tags: ['Attention Mechanism', 'Agentic', 'ACL', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Tool-Based Agent Systems (TBAS) allow Language Models (LMs) to use external
 tools for tasks beyond their standalone capabilities, such as searching

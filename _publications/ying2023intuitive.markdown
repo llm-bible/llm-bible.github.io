@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ying2023intuitive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.17415"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.17415'}
+tags: ['RAG', 'Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 This study investigates the behaviors of Large Language Models (LLMs) when
 faced with conflicting prompts versus their internal memory. This will not only

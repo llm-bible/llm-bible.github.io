@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shi2023large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2302.00093v3"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2302.00093v3'}
 tags: ['Prompting']
 ---
 Large language models have achieved impressive performance on various natural

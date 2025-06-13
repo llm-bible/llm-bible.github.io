@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024example
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11447"}
-tags: ['Training Techniques', 'GPT', 'Efficiency and Optimization', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11447'}
+tags: ['GPT', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 By allowing models to predict without task-specific training, in-context
 learning (ICL) with pretrained LLMs has enormous potential in NLP. However, a

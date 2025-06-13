@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sengupta2024robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04358"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04358'}
+tags: ['Security', 'Model Architecture', 'BERT', 'Training Techniques', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are highly resource-intensive to fine-tune due
 to their enormous size. While low-rank adaptation is a prominent

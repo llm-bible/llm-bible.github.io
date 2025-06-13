@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cui2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.01928"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.01928'}
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Humans can naturally reason from superficial state differences (e.g. ground
 wetness) to transformations descriptions (e.g. raining) according to their life

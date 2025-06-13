@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.19212"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.19212'}
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Large language models have shown success as a tutor in education in various
 fields. Educating patients about their clinical visits plays a pivotal role in

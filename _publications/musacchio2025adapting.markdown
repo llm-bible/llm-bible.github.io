@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: musacchio2025adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09313"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09313'}
+tags: ['Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---
 In the current literature, most embedding models are based on the
 encoder-only transformer architecture to extract a dense and meaningful

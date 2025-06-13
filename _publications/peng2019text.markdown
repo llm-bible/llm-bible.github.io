@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: peng2019text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1904.04428"}
-tags: ['Applications', 'Training Techniques', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1904.04428'}
+tags: ['Language Modeling', 'Applications', 'Training Techniques']
 ---
 We propose a novel conditioned text generation model. It draws inspiration
 from traditional template-based text generation techniques, where the source

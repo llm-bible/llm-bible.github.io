@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17857"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17857'}
 tags: ['RAG', 'Agentic', 'Tools']
 ---
 Previous research has shown that humans are more receptive towards language

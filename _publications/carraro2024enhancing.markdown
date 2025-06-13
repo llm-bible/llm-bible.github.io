@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: carraro2024enhancing
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2401.11506v2"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2401.11506v2'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 It has long been recognized that it is not enough for a Recommender System
 (RS) to provide recommendations based only on their relevance to users. Among

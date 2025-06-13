@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14201"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14201'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Tokenization', 'Pretraining Methods']
 ---
 We introduce Goat, a fine-tuned LLaMA model that significantly outperforms
 GPT-4 on a range of arithmetic tasks. Fine-tuned on a synthetically generated

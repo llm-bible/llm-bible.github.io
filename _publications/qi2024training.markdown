@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qi2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02337"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02337'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown remarkable potential as autonomous
 agents, particularly in web-based tasks. However, existing LLM web agents

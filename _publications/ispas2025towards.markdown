@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ispas2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16161"}
-tags: ['Tools', 'GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16161'}
+tags: ['Language Modeling', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models are prompting us to view more NLP tasks from a
 generative perspective. At the same time, they offer a new way of accessing

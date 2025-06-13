@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: déjean2024let
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11536"}
-tags: ['RAG', 'Training Techniques', 'Security', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11536'}
+tags: ['Reinforcement Learning', 'RAG', 'Security', 'Training Techniques']
 ---
 In this paper, we investigate how efficiently large language models (LLM) can
 be trained to check whether an answer is already stored in their parametric

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ke2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.18702"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.18702'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Since the natural language processing (NLP) community started to make large
 language models (LLMs) act as a critic to evaluate the quality of generated

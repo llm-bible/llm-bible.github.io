@@ -6,8 +6,8 @@ conference: "Proceedings of the 2023 Conference on Empirical Methods in Natural 
 year: 2023
 bibkey: chen2023transforming
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.07766"}
-tags: ['Training Techniques', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.07766'}
+tags: ['Training Techniques', 'Tools', 'Applications']
 ---
 Temporal Logic (TL) can be used to rigorously specify complex high-level
 specification for systems in many engineering applications. The translation

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: vandam2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.15185"}
-  - {name: "Code", url: "https://github.com/AISE-TUDelft/HaskellCCEval)"}
-tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.15185'}
+  - {name: "Code", url: 'https://github.com/AISE-TUDelft/HaskellCCEval)'}
+tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training']
 ---
 Language model-based code completion models have quickly grown in use,
 helping thousands of developers write code in many different programming

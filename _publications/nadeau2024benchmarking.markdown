@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nadeau2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09785"}
-tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09785'}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Responsible AI']
 ---
 This paper introduces fourteen novel datasets for the evaluation of Large
 Language Models' safety in the context of enterprise tasks. A method was

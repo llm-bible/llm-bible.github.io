@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025see
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09809"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09809'}
+tags: ['Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent developments in multimodal large language models (MLLM) have equipped
 language models to reason about vision and language jointly. This permits MLLMs

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025scale
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15499"}
-  - {name: "Code", url: "https://github.com/kaihemo/SDD"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15499'}
+  - {name: "Code", url: 'https://github.com/kaihemo/SDD'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Training stability is a persistent challenge in the pre-training of large
 language models (LLMs), particularly for architectures such as Post-Norm

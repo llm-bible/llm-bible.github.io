@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wang2022code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.12810"}
-tags: ['Applications', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.12810'}
+tags: ['Few-Shot', 'RAG', 'Applications', 'Training Techniques', 'Prompting']
 ---
 Large Language Model (LLM) trained on a mixture of text and code has
 demonstrated impressive capability in translating natural language (NL) into

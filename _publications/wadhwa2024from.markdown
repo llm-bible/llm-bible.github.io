@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wadhwa2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12824"}
-tags: ['Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12824'}
+tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Retrieval Augmented Generation (RAG) enriches the ability of language models
 to reason using external context to augment responses for a given user prompt.

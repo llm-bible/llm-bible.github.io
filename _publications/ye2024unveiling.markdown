@@ -6,9 +6,9 @@ conference: "Proceedings of the 62nd Annual Meeting of the Association for Compu
 year: 2024
 bibkey: ye2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10753"}
-  - {name: "Code", url: "https://github.com/Junjie-Ye/ToolSword"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10753'}
+  - {name: "Code", url: 'https://github.com/Junjie-Ye/ToolSword'}
+tags: ['Has Code', 'RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Merging', 'Reinforcement Learning', 'Responsible AI']
 ---
 Tool learning is widely acknowledged as a foundational approach or deploying
 large language models (LLMs) in real-world scenarios. While current research

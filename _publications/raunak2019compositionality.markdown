@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: raunak2019compositionality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.01497"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.01497'}
+tags: ['Pre-Training', 'Applications', 'Training Techniques']
 ---
 We investigate two specific manifestations of compositionality in Neural
 Machine Translation (NMT) : (1) Productivity - the ability of the model to

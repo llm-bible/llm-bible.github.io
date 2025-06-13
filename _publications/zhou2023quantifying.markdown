@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15727"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15727'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been proven capable of memorizing their
 training data, which can be extracted through specifically designed prompts. As

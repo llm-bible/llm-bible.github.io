@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023knn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.10771"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.10771'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 Task-Oriented Parsing (TOP) enables conversational assistants to interpret

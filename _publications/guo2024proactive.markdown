@@ -6,7 +6,7 @@ conference: "Proceedings of the 2024 Conference on Empirical Methods in Natural 
 year: 2024
 bibkey: guo2024proactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01363"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01363'}
 tags: ['Reinforcement Learning']
 ---
 Conversational Question Generation (CQG) enhances the interactivity of

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ustalov2024really
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11314"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11314'}
 tags: ['Tools']
 ---
 The rapid advancement of natural language processing (NLP) technologies, such

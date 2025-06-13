@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qi2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11118"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11118'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 We present our approach to the PerAnsSumm Shared Task, which involves
 perspective span identification and perspective-aware summarization in

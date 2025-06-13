@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: nissani2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00654"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00654'}
 tags: ['Reinforcement Learning']
 ---
 A lively ongoing debate is taking place, since the extraordinary emergence of

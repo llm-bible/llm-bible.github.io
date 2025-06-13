@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: meng2025per
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14504"}
-tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14504'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have demonstrated remarkable
 capabilities across a range of multimodal tasks. However, their inference

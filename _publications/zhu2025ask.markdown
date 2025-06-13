@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhu2025ask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07143"}
-  - {name: "Code", url: "https://github.com/SuperMedIntel/AskPatients"}
-tags: ['Tools', 'Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07143'}
+  - {name: "Code", url: 'https://github.com/SuperMedIntel/AskPatients'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools']
 ---
 Accurate and efficient diagnosis in online medical consultations remains a
 challenge for current large language models. These models often rely on

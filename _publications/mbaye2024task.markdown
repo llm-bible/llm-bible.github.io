@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mbaye2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11203"}
-tags: ['Agentic', 'Reinforcement Learning', 'Model Architecture', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11203'}
+tags: ['Reinforcement Learning', 'Agentic', 'Model Architecture', 'Tools']
 ---
 In recent years, we are seeing considerable interest in conversational agents
 with the rise of large language models (LLMs). Although they offer considerable

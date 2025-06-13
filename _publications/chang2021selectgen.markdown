@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chang2021selectgen
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.06614"}
-tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.06614'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Applications']
 ---
 We propose a shared task on training instance selection for few-shot neural
 text generation. Large-scale pretrained language models have led to dramatic

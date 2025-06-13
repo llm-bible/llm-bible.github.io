@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: castaldo2025extending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.03045"}
-tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.03045'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Applications']
 ---
 Post-editing machine translation (MT) for creative texts, such as literature,
 requires balancing efficiency with the preservation of creativity and style.

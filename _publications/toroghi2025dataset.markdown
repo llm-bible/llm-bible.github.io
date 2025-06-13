@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: toroghi2025dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14462"}
-tags: ['Security', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14462'}
+tags: ['Reinforcement Learning', 'Security', 'Applications']
 ---
 The rise of Large Language Models (LLMs) has redefined the AI landscape,
 particularly due to their ability to encode factual and commonsense knowledge,

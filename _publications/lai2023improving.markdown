@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lai2023improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07699"}
-  - {name: "Code", url: "https://github.com/apple/ml-veclip"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07699'}
+  - {name: "Code", url: 'https://github.com/apple/ml-veclip'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Pre-Training']
 ---
 Large-scale web-crawled datasets are fundamental for the success of
 pre-training vision-language models, such as CLIP. However, the inherent noise

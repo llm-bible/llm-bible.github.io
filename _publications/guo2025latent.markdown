@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: guo2025latent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18617"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18617'}
+tags: ['Agentic', 'Security', 'GPT', 'Model Architecture', 'Tools', 'Reinforcement Learning']
 ---
 With the growing demand for personalized AI solutions, customized LLMs have
 become a preferred choice for businesses and individuals, driving the

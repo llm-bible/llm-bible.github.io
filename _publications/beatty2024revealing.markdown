@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: beatty2024revealing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16927"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16927'}
+tags: ['Fairness', 'GPT', 'Model Architecture', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 As large language models (LLMs) become integral to recruitment processes,
 concerns about AI-induced bias have intensified. This study examines biases in

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024devils
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16724"}
-  - {name: "Code", url: "https://github.com/ZhangqiJiang07/middle_layers_indicating_hallucinations"}
-tags: ['Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16724'}
+  - {name: "Code", url: 'https://github.com/ZhangqiJiang07/middle_layers_indicating_hallucinations'}
+tags: ['Attention Mechanism', 'Has Code', 'Training Techniques', 'Model Architecture', 'Multimodal Models']
 ---
 Hallucinations in Large Vision-Language Models (LVLMs) significantly
 undermine their reliability, motivating researchers to explore the causes of

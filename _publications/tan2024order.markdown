@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tan2024order
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16983"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16983'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'In-Context Learning']
 ---
 Multimodal Large Language Models (MLLMs) utilize multimodal contexts
 consisting of text, images, or videos to solve various multimodal tasks.

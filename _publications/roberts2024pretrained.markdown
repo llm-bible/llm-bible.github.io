@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: roberts2024pretrained
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00894"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00894'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While Transformers underpin modern large language models (LMs), there is a
 growing list of alternative architectures with new capabilities, promises, and

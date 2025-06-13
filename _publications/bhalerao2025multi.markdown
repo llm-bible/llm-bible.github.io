@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: bhalerao2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15972"}
-  - {name: "Code", url: "https://github.com/OanaIgnat/MosAIG"}
-tags: ['Agentic', 'Tools', 'RAG', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15972'}
+  - {name: "Code", url: 'https://github.com/OanaIgnat/MosAIG'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Tools', 'Multimodal Models']
 ---
 Large Language Models (LLMs) demonstrate impressive performance across
 various multimodal tasks. However, their effectiveness in cross-cultural

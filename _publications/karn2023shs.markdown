@@ -6,8 +6,8 @@ conference: "BioNLP 2023 Co-located with ACL 2023"
 year: 2023
 bibkey: karn2023shs
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.03264"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.03264'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Instruction-tuned generative Large language models (LLMs) like ChatGPT and
 Bloomz possess excellent generalization abilities, but they face limitations in

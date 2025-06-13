@@ -6,8 +6,8 @@ conference: "CAC 2022"
 year: 2022
 bibkey: zhu2022text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08763"}
-tags: ['Interpretability and Explainability', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08763'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Applications', 'Model Architecture']
 ---
 The ability of reasoning over evidence has received increasing attention in
 question answering (QA). Recently, natural language database (NLDB) conducts

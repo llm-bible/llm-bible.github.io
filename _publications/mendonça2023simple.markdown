@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mendonça2023simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16797"}
-tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16797'}
+tags: ['Reinforcement Learning', 'Prompting', 'Security', 'Tools']
 ---
 Despite significant research effort in the development of automatic dialogue
 evaluation metrics, little thought is given to evaluating dialogues other than

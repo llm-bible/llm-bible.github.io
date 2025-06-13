@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bui2024two
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09152"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09152'}
 tags: ['GPT', 'Model Architecture']
 ---
 Hallucination detection in Large Language Models (LLMs) is crucial for

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024derailer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.13940"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.13940'}
+tags: ['Reinforcement Learning', 'Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 Large Language Models (LLMs) have shown impressive reasoning capabilities,
 yet existing prompting methods face a critical trade-off: simple approaches

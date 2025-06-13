@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ebrahimi2024fairness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00198"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Training Techniques', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00198'}
+tags: ['RAG', 'Fairness', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Pre-trained Large Language Models (LLMs) have significantly advanced natural
 language processing capabilities but are susceptible to biases present in their

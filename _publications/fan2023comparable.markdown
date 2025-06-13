@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: fan2023comparable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.07476"}
-tags: ['In-Context Learning', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.07476'}
+tags: ['Ethics and Bias', 'Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) is an important paradigm for adapting Large
 Language Models (LLMs) to downstream tasks through a few demonstrations.

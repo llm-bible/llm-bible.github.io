@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024deep
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17498"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17498'}
+tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recently, O1-like models have emerged as representative examples,
 illustrating the effectiveness of long chain-of-thought (CoT) in reasoning

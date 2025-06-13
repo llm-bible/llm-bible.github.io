@@ -6,9 +6,9 @@ conference: "The Eleventh International Conference on Learning Representations (
 year: 2023
 bibkey: lan2023copy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.06962"}
-  - {name: "Code", url: "https://github.com/gmftbyGMFTBY/Copyisallyouneed}."}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.06962'}
+  - {name: "Code", url: 'https://github.com/gmftbyGMFTBY/Copyisallyouneed}.'}
+tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'GPT', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The dominant text generation models compose the output by sequentially
 selecting words from a fixed vocabulary. In this paper, we formulate text

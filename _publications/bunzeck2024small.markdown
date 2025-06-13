@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bunzeck2024small
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01487"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01487'}
 tags: ['Tokenization', 'Model Architecture']
 ---
 Recent work investigates whether LMs learn human-like linguistic

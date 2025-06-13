@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: dasgupta2025measuring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.09482"}
-  - {name: "Code", url: "https://github.com/sharanya-dasgupta001/hallushift"}
-tags: ['Attention Mechanism', 'Has Code', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.09482'}
+  - {name: "Code", url: 'https://github.com/sharanya-dasgupta001/hallushift'}
+tags: ['Attention Mechanism', 'Prompting', 'Has Code', 'Model Architecture']
 ---
 Large Language Models (LLMs) have recently garnered widespread attention due
 to their adeptness at generating innovative responses to the given prompts

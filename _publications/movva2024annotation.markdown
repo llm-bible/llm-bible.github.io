@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: movva2024annotation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.06369"}
-tags: ['Responsible AI', 'RAG', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.06369'}
+tags: ['RAG', 'GPT', 'Responsible AI', 'Model Architecture']
 ---
 Do LLMs align with human perceptions of safety? We study this question via
 annotation alignment, the extent to which LLMs and humans agree when annotating

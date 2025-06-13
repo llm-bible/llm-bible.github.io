@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: khanov2024alignment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01694"}
-  - {name: "Code", url: "https://github.com/deeplearning-wisc/args"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01694'}
+  - {name: "Code", url: 'https://github.com/deeplearning-wisc/args'}
+tags: ['Has Code', 'RAG', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Aligning large language models with human objectives is paramount, yet common
 approaches including RLHF suffer from unstable and resource-intensive training.

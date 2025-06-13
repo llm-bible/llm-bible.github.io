@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023then
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11186"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Prompting', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11186'}
+tags: ['Prompting', 'Pruning', 'Efficiency and Optimization', 'Quantization']
 ---
 While the numerous parameters in Large Language Models (LLMs) contribute to
 their superior performance, this massive scale makes them inefficient and

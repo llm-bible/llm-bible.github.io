@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: takayama2025effectiveness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06765"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06765'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We compare the effectiveness of zero-shot Chain-of-Thought (CoT) prompting in
 Japanese and English using ChatGPT-3.5 and 4o-mini. The technique of zero-shot

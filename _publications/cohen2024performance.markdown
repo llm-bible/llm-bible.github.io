@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cohen2024performance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14133"}
-tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14133'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Tools', 'Multimodal Models']
 ---
 Vision-language models (VLMs) excel at extracting and reasoning about
 information from images. Yet, their capacity to leverage internal knowledge

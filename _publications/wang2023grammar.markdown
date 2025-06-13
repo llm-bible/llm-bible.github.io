@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023grammar
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19234"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19234'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) can learn to perform a wide range of natural

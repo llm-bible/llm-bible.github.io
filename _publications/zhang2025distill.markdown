@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025distill
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19557"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19557'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Distilling large language models (LLMs) typically involves transferring the
 teacher model's responses through supervised fine-tuning (SFT). However, this

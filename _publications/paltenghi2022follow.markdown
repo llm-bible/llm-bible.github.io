@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: paltenghi2022follow
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.05506"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.05506'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'GPT', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 Recent neural models of code, such as OpenAI Codex and AlphaCode, have
 demonstrated remarkable proficiency at code generation due to the underlying

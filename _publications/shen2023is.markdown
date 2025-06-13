@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shen2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.12480"}
-tags: ['Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.12480'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Ethics and Bias']
 ---
 Cross-lingual transfer is important for developing high-quality chatbots in
 multiple languages due to the strongly imbalanced distribution of language

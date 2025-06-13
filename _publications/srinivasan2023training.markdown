@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: srinivasan2023training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.05511"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.05511'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Merging']
 ---
 Large foundation language models have shown their versatility in being able
 to be adapted to perform a wide variety of downstream tasks, such as text

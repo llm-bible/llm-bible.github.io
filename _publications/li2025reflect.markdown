@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025reflect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12271"}
-tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12271'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'Pretraining Methods']
 ---
 The predominant approach to advancing text-to-image generation has been
 training-time scaling, where larger models are trained on more data using

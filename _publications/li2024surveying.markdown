@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024surveying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01806"}
-tags: ['Survey Paper', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01806'}
+tags: ['Reinforcement Learning', 'Prompting', 'Survey Paper']
 ---
 Effective planning is essential for the success of any task, from organizing
 a vacation to routing autonomous vehicles and developing corporate strategies.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ozdayi2023controlling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11759"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11759'}
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
 ---
 Large Language Models (LLMs) are known to memorize significant portions of
 their training data. Parts of this memorized content have been shown to be

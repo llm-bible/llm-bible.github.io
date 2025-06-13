@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: xu2020answer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.00361"}
-tags: ['Agentic', 'Model Architecture', 'Merging', 'ACL', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.00361'}
+tags: ['Attention Mechanism', 'Agentic', 'ACL', 'Model Architecture', 'Merging']
 ---
 A goal-oriented visual dialogue involves multi-turn interactions between two
 agents, Questioner and Oracle. During which, the answer given by Oracle is of

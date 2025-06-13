@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09668"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09668'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Current model testing work has mostly focused on creating test cases.
 Identifying what to test is a step that is largely ignored and poorly

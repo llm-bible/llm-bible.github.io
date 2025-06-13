@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.00359"}
-tags: ['Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.00359'}
+tags: ['Agentic', 'Tools', 'Applications']
 ---
 The applications of large language models (LLMs) have been widely spread
 across all domains. However, the basic abilities such as the controllability of

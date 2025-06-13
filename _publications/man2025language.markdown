@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: man2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00874"}
-tags: ['RAG', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00874'}
+tags: ['Training Techniques', 'RAG', 'Reinforcement Learning', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) based embedding models
 have established new state-of-the-art benchmarks for text embedding tasks,

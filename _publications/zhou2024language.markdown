@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15623"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15623'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Most conventional recommendation methods (e.g., matrix factorization)
 represent user profiles as high-dimensional vectors. Unfortunately, these

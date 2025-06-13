@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sharlin2024context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.17448"}
-tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.17448'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Tools', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are transformer-based machine learning models
 that have shown remarkable performance in tasks for which they were not

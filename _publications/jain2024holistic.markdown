@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jain2024holistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.07974"}
-tags: ['Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.07974'}
+tags: ['Prompting', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) applied to code-related applications have
 emerged as a prominent field, attracting significant interest from both

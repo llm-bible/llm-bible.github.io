@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14925"}
-tags: ['GPT', 'RAG', 'Multimodal Models', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14925'}
+tags: ['RAG', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 This study introduces Purrfessor, an innovative AI chatbot designed to
 provide personalized dietary guidance through interactive, multimodal

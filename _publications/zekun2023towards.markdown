@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zekun2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.14126"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.14126'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Interpretability']
 ---
 Large Language Models (LLM) have made significant advances in the recent past
 becoming more mainstream in Artificial Intelligence (AI) enabled human-facing

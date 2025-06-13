@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bratulić2025what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06256"}
-tags: ['GPT', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06256'}
+tags: ['Language Modeling', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance in
 various tasks, including In-Context Learning (ICL), where the model performs

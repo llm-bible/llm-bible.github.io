@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ahn2023story
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.07575"}
-tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.07575'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Story visualization (SV) is a challenging text-to-image generation task for
 the difficulty of not only rendering visual details from the text descriptions

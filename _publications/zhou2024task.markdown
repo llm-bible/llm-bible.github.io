@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14899"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14899'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 In-context learning (ICL) allows transformer-based language models that are
 pre-trained on general text to quickly learn a specific task with a few "task

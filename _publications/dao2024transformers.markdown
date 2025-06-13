@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dao2024transformers
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2405.21060v1"}
-tags: ['Transformer', 'Tools', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2405.21060v1'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 While Transformers have been the main architecture behind deep learning's
 success in language modeling, state-space models (SSMs) such as Mamba have

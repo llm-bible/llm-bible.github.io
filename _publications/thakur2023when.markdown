@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: thakur2023when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11361"}
-  - {name: "Code", url: "https://github.com/project-miracl/nomiracl"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'ACL', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11361'}
+  - {name: "Code", url: 'https://github.com/project-miracl/nomiracl'}
+tags: ['Has Code', 'ACL', 'RAG', 'Security', 'Model Architecture', 'GPT']
 ---
 Retrieval-Augmented Generation (RAG) grounds Large Language Model (LLM)
 output by leveraging external knowledge sources to reduce factual

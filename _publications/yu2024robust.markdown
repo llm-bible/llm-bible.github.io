@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024robust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.20089"}
-tags: ['Responsible AI', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.20089'}
+tags: ['Security', 'Responsible AI', 'Training Techniques']
 ---
 Large language models (LLMs) are vulnerable to adversarial attacks that can
 elicit harmful responses. Defending against such attacks remains challenging

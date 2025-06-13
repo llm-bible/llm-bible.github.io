@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shiri2024schema
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.01045"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.01045'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Large Language Models (LLMs) demonstrate significant capabilities in
 processing natural language data, promising efficient knowledge extraction from

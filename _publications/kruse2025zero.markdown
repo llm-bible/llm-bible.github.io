@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kruse2025zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18724"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18724'}
+tags: ['Reinforcement Learning', 'Applications', 'Training Techniques']
 ---
 Recent advancements in large language models (LLMs) have shown potential for
 transforming data processing in healthcare, particularly in understanding

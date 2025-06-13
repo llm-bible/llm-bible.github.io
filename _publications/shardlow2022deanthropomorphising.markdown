@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: shardlow2022deanthropomorphising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.11483"}
-tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.11483'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 This work is intended as a voice in the discussion over previous claims that
 a pretrained large language model (LLM) based on the Transformer model

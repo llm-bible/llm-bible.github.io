@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024memorization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23123"}
-  - {name: "Code", url: "https://memkklogic.github.io"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23123'}
+  - {name: "Code", url: 'https://memkklogic.github.io'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) achieve good performance on challenging
 reasoning benchmarks, yet could also make basic reasoning mistakes. This

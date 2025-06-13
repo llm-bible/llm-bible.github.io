@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023emotional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.09042"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.09042'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities across
 numerous disciplines, primarily assessed through tasks in language generation,

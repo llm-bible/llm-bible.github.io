@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: christophe2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14779"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.14779'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 This study presents a comprehensive analysis and comparison of two
 predominant fine-tuning methodologies - full-parameter fine-tuning and

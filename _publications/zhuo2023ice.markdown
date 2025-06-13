@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhuo2023ice
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14317"}
-  - {name: "Code", url: "https://github.com/terryyz/ice-score}},"}
-tags: ['Applications', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14317'}
+  - {name: "Code", url: 'https://github.com/terryyz/ice-score}},'}
+tags: ['Has Code', 'ACL', 'RAG', 'Applications', 'Reinforcement Learning', 'TACL']
 ---
 Recent advancements in the field of natural language generation have
 facilitated the use of large language models to assess the quality of generated

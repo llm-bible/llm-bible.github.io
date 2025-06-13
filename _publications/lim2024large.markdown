@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lim2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.15794"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.15794'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Prompting']
 ---
 Quality-Diversity (QD) approaches are a promising direction to develop
 open-ended processes as they can discover archives of high-quality solutions

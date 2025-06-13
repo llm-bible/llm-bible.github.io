@@ -6,8 +6,8 @@ conference: "EMNLP 2021"
 year: 2019
 bibkey: he2019exposure
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1905.10617"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1905.10617'}
+tags: ['Language Modeling', 'GPT', 'Applications', 'Training Techniques', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Exposure bias has been regarded as a central problem for auto-regressive
 language models (LM). It claims that teacher forcing would cause the test-time

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nananukul2023ontology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05209"}
-tags: ['GPT', 'KDD', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05209'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'KDD']
 ---
 Recent progress in generative AI, including large language models (LLMs) like
 ChatGPT, has opened up significant opportunities in fields ranging from natural

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: patil2025utility
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15082"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15082'}
 tags: ['Tools']
 ---
 User specifications or legal frameworks often require information to be

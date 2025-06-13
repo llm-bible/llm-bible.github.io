@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: deng2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.14717"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.14717'}
 tags: ['RAG', 'Training Techniques']
 ---
 Recent advances in natural language processing have leveraged instruction

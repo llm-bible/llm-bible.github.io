@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: rasool2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08138"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08138'}
 tags: ['Language Modeling', 'Applications']
 ---
 Large language models (LLMs) enable state-of-the-art semantic capabilities to

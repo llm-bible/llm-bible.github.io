@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: grassi2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17531"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17531'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 This paper presents a system for diversity-aware autonomous conversation
 leveraging the capabilities of large language models (LLMs). The system adapts

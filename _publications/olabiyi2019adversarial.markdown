@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: olabiyi2019adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.00925"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.00925'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Open domain neural dialogue models, despite their successes, are known to
 produce responses that lack relevance, diversity, and in many cases coherence.

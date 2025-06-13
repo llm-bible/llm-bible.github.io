@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prather2024interactions
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10759"}
-tags: ['Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10759'}
+tags: ['Prompting', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have upended decades of pedagogy in computing
 education. Students previously learned to code through \textit\{writing\} many

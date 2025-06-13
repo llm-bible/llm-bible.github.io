@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: carranza2025interpretable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08857"}
-tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Security', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08857'}
+tags: ['Interpretability and Explainability', 'RAG', 'Security', 'Model Architecture', 'Tools', 'BERT', 'GPT', 'Applications']
 ---
 This paper introduces a novel approach to Dialogue State Tracking (DST) that
 leverages Large Language Models (LLMs) to generate natural language

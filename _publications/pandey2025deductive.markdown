@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pandey2025deductive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07080"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07080'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Despite great performance on Olympiad-level reasoning problems, frontier
 large language models can still struggle on high school math when presented

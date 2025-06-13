@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prodan2024cutting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16629"}
-tags: ['Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16629'}
+tags: ['Reinforcement Learning', 'Applications', 'Merging']
 ---
 This paper explores the nuanced landscape of generative AI (genAI),
 particularly focusing on neural network-based models like Large Language Models

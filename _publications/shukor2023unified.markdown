@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: shukor2023unified
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2307.16184v2"}
-  - {name: "Code", url: "https://github.com/mshukor/UnIVAL"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Merging', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2307.16184v2'}
+  - {name: "Code", url: 'https://github.com/mshukor/UnIVAL'}
+tags: ['Agentic', 'Has Code', 'Tools', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have made the ambitious quest for generalist
 agents significantly far from being a fantasy. A key hurdle for building such

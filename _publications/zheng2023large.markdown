@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04076"}
-  - {name: "Code", url: "https://github.com/zhaohengz/LLaMP"}
-tags: ['Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04076'}
+  - {name: "Code", url: 'https://github.com/zhaohengz/LLaMP'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Prompting', 'Multimodal Models']
 ---
 Low-shot image classification, where training images are limited or
 inaccessible, has benefited from recent progress on pre-trained vision-language

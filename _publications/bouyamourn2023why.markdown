@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bouyamourn2023why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15355"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15355'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 We show that LLMs hallucinate because their output is not constrained to be
 synonymous with claims for which they have evidence: a condition that we call

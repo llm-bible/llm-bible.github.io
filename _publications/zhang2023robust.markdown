@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023robust
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2309.02057v1"}
-tags: ['Tools', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'RecSys', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2309.02057v1'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Security', 'Fairness', 'Tools', 'Model Architecture', 'Training Techniques', 'Merging', 'RecSys', 'Survey Paper', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 With the rapid growth of information, recommender systems have become
 integral for providing personalized suggestions and overcoming information

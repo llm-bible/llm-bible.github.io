@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liao2025reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.19324"}
-  - {name: "Code", url: "https://github.com/BaohaoLiao/RSD"}
-tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.19324'}
+  - {name: "Code", url: 'https://github.com/BaohaoLiao/RSD'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We introduce Reward-Guided Speculative Decoding (RSD), a novel framework
 aimed at improving the efficiency of inference in large language models (LLMs).

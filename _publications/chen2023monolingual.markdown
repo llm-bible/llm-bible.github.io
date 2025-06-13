@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023monolingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08958"}
-tags: ['Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08958'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Applications']
 ---
 Foundational large language models (LLMs) can be instruction-tuned to perform
 open-domain question answering, facilitating applications like chat assistants.

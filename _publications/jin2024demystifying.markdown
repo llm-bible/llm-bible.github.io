@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jin2024demystifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18856"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Bias Mitigation', 'Training Techniques', 'Pretraining Methods', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18856'}
+tags: ['Fairness', 'Training Techniques', 'Tools', 'Prompting', 'Fine-Tuning', 'Survey Paper', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Large language models (LLMs) represent a transformative class of AI tools
 capable of revolutionizing various aspects of healthcare by generating

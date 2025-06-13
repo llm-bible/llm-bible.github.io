@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: islam2024autocompletion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06088"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06088'}
+tags: ['Language Modeling', 'Transformer', 'GPT', 'BERT', 'Model Architecture', 'Tools', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 The Chief Complaint (CC) is a crucial component of a patient's medical record
 as it describes the main reason or concern for seeking medical care. It

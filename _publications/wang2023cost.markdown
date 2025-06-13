@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.04673"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pruning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.04673'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Pruning', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have sparked significant interest in their
 generative capabilities, leading to the development of various commercial

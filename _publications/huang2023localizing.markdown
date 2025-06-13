@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023localizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12053"}
-  - {name: "Code", url: "https://github.com/FreedomIntelligence/AceGPT"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12053'}
+  - {name: "Code", url: 'https://github.com/FreedomIntelligence/AceGPT'}
+tags: ['Agentic', 'Has Code', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 This paper is devoted to the development of a localized Large Language Model
 (LLM) specifically for Arabic, a language imbued with unique cultural

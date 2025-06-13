@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bakulin2025flexible
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.09175"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.09175'}
+tags: ['Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 The rapid advancement of Large Language Models (LLMs) has introduced
 significant challenges in moderating user-model interactions. While LLMs

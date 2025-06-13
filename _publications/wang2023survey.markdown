@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16789"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16789'}
+tags: ['Model Architecture', 'Applications', 'Merging', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning']
 ---
 Dialogue systems, including task-oriented_dialogue_system (TOD) and
 open-domain_dialogue_system (ODD), have undergone significant transformations,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: antonello2023scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11863"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Scaling Laws']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11863'}
+tags: ['Large-Scale Training', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'BERT', 'GPT', 'Scaling Laws', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Representations from transformer-based unidirectional language models are
 known to be effective at predicting brain responses to natural language.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chowdhury2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.01564"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.01564'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 The choice of input text prompt plays a critical role in the performance of
 Vision-Language Pretrained (VLP) models such as CLIP. We present APoLLo, a

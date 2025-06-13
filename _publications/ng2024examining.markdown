@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: ng2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.17688"}
-  - {name: "Paper", url: "http://doi.org/10.5281/zenodo.12938478"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.17688'}
+  - {name: "Paper", url: 'http://doi.org/10.5281/zenodo.12938478'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 executing tasks based on natural language queries. However, these models,

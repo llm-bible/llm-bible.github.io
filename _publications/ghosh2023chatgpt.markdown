@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ghosh2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.10510"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.10510'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Prompting', 'Applications', 'Ethics and Bias']
 ---
 In this multicultural age, language translation is one of the most performed
 tasks, and it is becoming increasingly AI-moderated and automated. As a novel

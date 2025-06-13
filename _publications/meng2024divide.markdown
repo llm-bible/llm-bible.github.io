@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: meng2024divide
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05190"}
-  - {name: "Code", url: "https://github.com/AiMijie/Divide-and-Conquer"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05190'}
+  - {name: "Code", url: 'https://github.com/AiMijie/Divide-and-Conquer'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown impressive performance in reasoning
 benchmarks with the emergence of Chain-of-Thought (CoT), particularly in

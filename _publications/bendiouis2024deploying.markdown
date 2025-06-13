@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bendiouis2024deploying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14887"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14887'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Since the release of ChatGPT in November 2022, large language models (LLMs)
 have seen considerable success, including in the open-source community, with

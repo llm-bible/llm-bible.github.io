@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cai2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.12806"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.12806'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 The emergence of various medical large language models (LLMs) in the medical
 domain has highlighted the need for unified evaluation standards, as manual

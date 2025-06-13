@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13708"}
-tags: ['Responsible AI', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13708'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large language models (LLMs) achieve state-of-the-art performance on multiple
 language tasks, yet their safety guardrails can be circumvented, leading to

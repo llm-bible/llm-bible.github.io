@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023next
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04498"}
-  - {name: "Code", url: "https://github.com/NExT-ChatV/NExT-Chat"}
-tags: ['RAG', 'Multimodal Models', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04498'}
+  - {name: "Code", url: 'https://github.com/NExT-ChatV/NExT-Chat'}
+tags: ['RAG', 'Has Code', 'Multimodal Models']
 ---
 The development of large language models (LLMs) has greatly advanced the
 field of multimodal understanding, leading to the emergence of large multimodal

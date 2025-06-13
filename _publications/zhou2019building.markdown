@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: zhou2019building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.05365"}
-tags: ['Tools', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.05365'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Reinforcement learning (RL) is an effective approach to learn an optimal
 dialog policy for task-oriented visual dialog systems. A common practice is to

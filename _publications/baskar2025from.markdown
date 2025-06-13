@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: baskar2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12556"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12556'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 In multi-turn dialogues, large language models (LLM) face a critical
 challenge of ensuring coherence while adapting to user-specific information.

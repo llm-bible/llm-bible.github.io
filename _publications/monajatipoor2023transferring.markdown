@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: monajatipoor2023transferring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01311"}
-tags: ['Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01311'}
+tags: ['Prompting', 'Multimodal Models', 'In-Context Learning']
 ---
 Large-scale language models have shown the ability to adapt to a new task via
 conditioning on a few demonstrations (i.e., in-context learning). However, in

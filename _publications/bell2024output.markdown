@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bell2024output
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05305"}
-  - {name: "Code", url: "https://github.com/joaopfonseca/outputscouting)"}
-tags: ['Responsible AI', 'Transformer', 'Tools', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05305'}
+  - {name: "Code", url: 'https://github.com/joaopfonseca/outputscouting)'}
+tags: ['Has Code', 'Transformer', 'Model Architecture', 'Tools', 'Prompting', 'Responsible AI', 'Pretraining Methods']
 ---
 Recent high profile incidents in which the use of Large Language Models
 (LLMs) resulted in significant harm to individuals have brought about a growing

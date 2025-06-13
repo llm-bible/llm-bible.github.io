@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06394"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06394'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Evaluating the reasoning abilities of large language models (LLMs) is
 challenging. Existing benchmarks often depend on static datasets, which are

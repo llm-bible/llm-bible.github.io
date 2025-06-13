@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: qi2025evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01670"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01670'}
+tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 With the rapid development of large language models (LLMs), LLM-as-a-judge
 has emerged as a widely adopted approach for text quality evaluation, including

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: elgedawy2024ocassionally
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00689"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00689'}
+tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 \\( \\)Large Language Models (LLMs) are being increasingly utilized in various
 applications, with code generations being a notable example. While previous

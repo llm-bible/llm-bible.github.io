@@ -6,8 +6,8 @@ conference: "In Proc. IEEE Conference on Computer Vision and Pattern Recognition
 year: 2024
 bibkey: cao2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.02991"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.02991'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pruning', 'Multimodal Models', 'Pretraining Methods']
 ---
 Vision-Language Transformers (VLTs) have shown great success recently, but
 are meanwhile accompanied by heavy computation costs, where a major reason can

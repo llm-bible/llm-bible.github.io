@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jha2025key
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00022"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00022'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Quantization', 'Training Techniques', 'Pruning', 'Reinforcement Learning']
 ---
 Key-value (KV) caching has emerged as a crucial optimization technique for
 accelerating inference in large language models (LLMs). By allowing the

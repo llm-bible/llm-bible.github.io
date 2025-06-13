@@ -6,8 +6,8 @@ conference: "Proceedings of the 2024 Joint International Conference on Computati
 year: 2021
 bibkey: rikters2021revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.02995"}
-tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.02995'}
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 One of the most popular methods for context-aware machine translation (MT) is
 to use separate encoders for the source sentence and context as multiple

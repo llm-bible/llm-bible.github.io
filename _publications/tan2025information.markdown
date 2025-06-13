@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: tan2025information
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10501"}
-  - {name: "Code", url: "https://github.com/ShawnTan86/TokenCarve"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10501'}
+  - {name: "Code", url: 'https://github.com/ShawnTan86/TokenCarve'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal Large Language Models (MLLMs) are becoming increasingly popular,
 while the high computational cost associated with multimodal data input,

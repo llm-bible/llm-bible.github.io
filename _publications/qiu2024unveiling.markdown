@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14459"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Interpretability', 'RecSys', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14459'}
+tags: ['Interpretability and Explainability', 'Pre-Training', 'Applications', 'Training Techniques', 'Tools', 'Fine-Tuning', 'RecSys', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 Conversational Recommender Systems (CRSs) aim to provide personalized
 recommendations through dynamically capturing user preferences in interactive

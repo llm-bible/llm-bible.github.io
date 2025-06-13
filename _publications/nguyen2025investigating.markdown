@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nguyen2025investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18062"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18062'}
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable proficiency in Machine
 Reading Comprehension (MRC) tasks; however, their effectiveness for

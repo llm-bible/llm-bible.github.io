@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024unraveling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07405"}
-tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07405'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Ethics and Bias']
 ---
 Despite Spanish's pivotal role in the global finance industry, a pronounced
 gap exists in Spanish financial natural language processing (NLP) and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: suh2025language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16761"}
-  - {name: "Code", url: "https://github.com/JosephJeesungSuh/subpop"}
-tags: ['Fine-Tuning', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16761'}
+  - {name: "Code", url: 'https://github.com/JosephJeesungSuh/subpop'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) present novel opportunities in public opinion
 research by predicting survey responses in advance during the early stages of

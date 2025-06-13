@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: irugalbandara2024meaning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18146"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18146'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Extending Large Language Models (LLMs) to advanced applications requires
 reliable structured output generation. Existing methods which often rely on

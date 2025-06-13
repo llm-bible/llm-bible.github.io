@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025behavior
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.06636"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.06636'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multi-modal sequential recommendation systems leverage auxiliary signals
 (e.g., text, images) to alleviate data sparsity in user-item interactions.

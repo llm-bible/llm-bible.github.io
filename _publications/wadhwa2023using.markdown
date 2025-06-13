@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wadhwa2023using
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14770"}
-tags: ['Interpretability and Explainability', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14770'}
+tags: ['Reinforcement Learning', 'Prompting', 'Interpretability and Explainability', 'Applications']
 ---
 The rise of large language models (LLMs) has brought a critical need for
 high-quality human-labeled data, particularly for processes like human feedback

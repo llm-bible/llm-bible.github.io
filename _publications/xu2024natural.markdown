@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024natural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16432"}
-  - {name: "Code", url: "https://github.com/SavannahXu79/LinkPrompt}{https://github.com/SavannahXu79/LinkPrompt"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16432'}
+  - {name: "Code", url: 'https://github.com/SavannahXu79/LinkPrompt}{https://github.com/SavannahXu79/LinkPrompt'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Prompt-based learning is a new language model training paradigm that adapts
 the Pre-trained Language Models (PLMs) to downstream tasks, which revitalizes

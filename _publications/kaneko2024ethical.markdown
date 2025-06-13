@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kaneko2024ethical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.14258"}
-  - {name: "Code", url: "https://huggingface.co/datasets/MasahiroKaneko/eagle"}
-tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.14258'}
+  - {name: "Code", url: 'https://huggingface.co/datasets/MasahiroKaneko/eagle'}
+tags: ['Has Code', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Recent studies have demonstrated that large language models (LLMs) have
 ethical-related problems such as social biases, lack of moral reasoning, and

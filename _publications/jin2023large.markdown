@@ -6,9 +6,9 @@ conference: "Transactions on Knowledge and Data Engineering (TKDE) 2024"
 year: 2023
 bibkey: jin2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02783"}
-  - {name: "Code", url: "https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs"}
-tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02783'}
+  - {name: "Code", url: 'https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs'}
+tags: ['Has Code', 'GPT', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large language models (LLMs), such as GPT4 and LLaMA, are creating
 significant advancements in natural language processing, due to their strong

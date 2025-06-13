@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nguyen2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.09400"}
-tags: ['Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09400'}
+tags: ['Training Techniques', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 The driving factors behind the development of large language models (LLMs)
 with impressive learning capabilities are their colossal model sizes and

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kaushal2024surprising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12327"}
-  - {name: "Code", url: "https://github.com/NolanoOrg/SpectraSuite"}
-tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12327'}
+  - {name: "Code", url: 'https://github.com/NolanoOrg/SpectraSuite'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Quantization', 'Pretraining Methods']
 ---
 Rapid advancements in GPU computational power has outpaced memory capacity
 and bandwidth growth, creating bottlenecks in Large Language Model (LLM)

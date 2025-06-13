@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bansal2024comparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00530"}
-  - {name: "Code", url: "https://github.com/Hritikbansal/dove"}
-tags: ['Efficiency and Optimization', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00530'}
+  - {name: "Code", url: 'https://github.com/Hritikbansal/dove'}
+tags: ['Reinforcement Learning', 'Has Code', 'Efficiency and Optimization', 'Applications']
 ---
 A common technique for aligning large language models (LLMs) relies on
 acquiring human preferences by comparing multiple generations conditioned on a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024disentangling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20834"}
-tags: ['Applications', 'Training Techniques', 'Efficiency and Optimization', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20834'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 Aligning Large Language Models (LLMs) with general human preferences has been
 proved crucial in improving the interaction quality between LLMs and human.

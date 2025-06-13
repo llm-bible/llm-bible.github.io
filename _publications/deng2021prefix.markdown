@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: deng2021prefix
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.13066"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.13066'}
 tags: ['Uncategorized']
 ---
 Existing text-to-SQL research only considers complete questions as the input,

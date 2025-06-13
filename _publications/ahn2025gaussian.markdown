@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahn2025gaussian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.11170"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.11170'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization', 'Reinforcement Learning', 'Pre-Training']
 ---
 Ever-growing scale of large language models (LLMs) is pushing for improved efficiency, favoring fully quantized training (FQT) over BF16. While FQT accelerates training, it faces consistency challenges and requires searching over an exponential number of cases, each needing over 200B tokens to ensure stability.
   Pseudo-quantization training (PQT) addresses the issues of FQT, although it is not well-studied. We explore the practical implications of PQT in detail and propose a noise distribution \\(R\\) that is floating-point (FP)-friendly, with ideal properties including stochastic precision annealing. As a result, the proposed method serves as an effective theoretical foundation for low-precision FP parameters through PQT, utilizing efficient fake quantization via an addition and subsequent FP casting.

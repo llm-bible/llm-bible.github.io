@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pradeep2024initial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09607"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09607'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 This report provides an initial look at partial results from the TREC 2024
 Retrieval-Augmented Generation (RAG) Track. We have identified RAG evaluation

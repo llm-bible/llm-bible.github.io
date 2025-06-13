@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.14353"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14353'}
 tags: ['RAG']
 ---
 The unprecedented performance of large language models (LLMs) requires

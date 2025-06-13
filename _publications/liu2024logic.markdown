@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024logic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.17539"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.17539'}
 tags: ['Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across

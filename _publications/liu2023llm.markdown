@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15224"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15224'}
 tags: ['Agentic', 'Prompting', 'Applications', 'Tools']
 ---
 AI agents powered by Large Language Models (LLMs) have made significant

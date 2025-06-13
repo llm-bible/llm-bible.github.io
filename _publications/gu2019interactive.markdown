@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: gu2019interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1901.01824"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1901.01824'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture']
 ---
 In this paper, we propose an interactive matching network (IMN) for the
 multi-turn response selection task. First, IMN constructs word representations

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sui2025black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06950"}
-tags: ['RAG', 'Reinforcement Learning', 'Masked Language Model', 'Security', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06950'}
+tags: ['Masked Language Model', 'RAG', 'Security', 'BERT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) systems enhance Large Language Models
 (LLMs) by integrating external knowledge bases. However, this integration

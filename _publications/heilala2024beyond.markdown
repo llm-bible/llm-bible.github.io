@@ -6,8 +6,8 @@ conference: "Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (
 year: 2024
 bibkey: heilala2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16376"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16376'}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Generative artificial intelligence (GenAI) can reshape education and
 learning. While large language models (LLMs) like ChatGPT dominate current

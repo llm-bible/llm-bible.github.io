@@ -6,8 +6,8 @@ conference: "Findings of the Association for Computational Linguistics NAACL 202
 year: 2022
 bibkey: feng2022learn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.01546"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.01546'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The Transformer architecture has led to significant gains in machine
 translation. However, most studies focus on only sentence-level translation

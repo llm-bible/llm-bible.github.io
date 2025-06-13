@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhong2023enhancing
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.10250v3"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.10250v3'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Revolutionary advancements in Large Language Models have drastically reshaped
 our interactions with artificial intelligence systems. Despite this, a notable

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: gao2022program
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2211.10435v2"}
-  - {name: "Code", url: "http://reasonwithpal.com/"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2211.10435v2'}
+  - {name: "Code", url: 'http://reasonwithpal.com/'}
 tags: ['Few-Shot', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have recently demonstrated an impressive ability

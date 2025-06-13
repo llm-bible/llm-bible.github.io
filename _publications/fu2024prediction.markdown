@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024prediction
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11534"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11534'}
 tags: ['Agentic', 'Tools']
 ---
 Addressing the disparity between forecasts and actual results can enable

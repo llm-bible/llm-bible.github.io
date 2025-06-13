@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024cause
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11599"}
-tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11599'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Empathetic response generation endows agents with the capability to
 comprehend dialogue contexts and react to expressed emotions. Previous works

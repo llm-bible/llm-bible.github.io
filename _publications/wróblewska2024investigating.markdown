@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wróblewska2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05099"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05099'}
 tags: ['Uncategorized']
 ---
 Selectively processing noisy utterances while effectively disregarding

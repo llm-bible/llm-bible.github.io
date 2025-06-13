@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024sphinx
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05935"}
-  - {name: "Code", url: "https://github.com/Alpha-VLLM/LLaMA2-Accessory"}
-tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05935'}
+  - {name: "Code", url: 'https://github.com/Alpha-VLLM/LLaMA2-Accessory'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Multimodal Models']
 ---
 We propose SPHINX-X, an extensive Multimodality Large Language Model (MLLM)
 series developed upon SPHINX. To improve the architecture and training

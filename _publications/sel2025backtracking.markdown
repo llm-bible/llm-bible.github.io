@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sel2025backtracking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.08919"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.08919'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 various tasks, but ensuring their safety and alignment with human values

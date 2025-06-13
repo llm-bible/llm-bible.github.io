@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: garg2019transfer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1911.04118"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1911.04118'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We propose TANDA, an effective technique for fine-tuning pre-trained
 Transformer models for natural language tasks. Specifically, we first transfer

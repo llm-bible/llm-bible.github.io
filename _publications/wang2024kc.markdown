@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024kc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17532"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17532'}
+tags: ['RAG', 'Prompting', 'Applications', 'Training Techniques']
 ---
 The goal of knowledge graph completion (KGC) is to predict missing facts
 among entities. Previous methods for KGC re-ranking are mostly built on

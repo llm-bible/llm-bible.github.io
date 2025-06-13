@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: recasens2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03353"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03353'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have revolutionized the state-of-the-art of many

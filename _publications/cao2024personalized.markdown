@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cao2024personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00045"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00045'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Researchers have been studying approaches to steer the behavior of Large
 Language Models (LLMs) and build personalized LLMs tailored for various

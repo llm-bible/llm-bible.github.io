@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: blades2025contextually
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18205"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18205'}
+tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Token representation strategies within large-scale neural architectures often
 rely on contextually refined embeddings, yet conventional approaches seldom

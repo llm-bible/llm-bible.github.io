@@ -6,8 +6,8 @@ conference: "Proceedings of the 4th Workshop on Evaluation and Comparison for NL
 year: 2023
 bibkey: mahmoudi2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11552"}
-tags: ['Few-Shot', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11552'}
+tags: ['Reinforcement Learning', 'Few-Shot', 'Prompting', 'Applications']
 ---
 This paper describes the IUST NLP Lab submission to the Prompting Large
 Language Models as Explainable Metrics Shared Task at the Eval4NLP 2023

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: davis2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07702"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07702'}
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Thanks to recent advances in generative AI, we are able to prompt large
 language models (LLMs) to produce texts which are fluent and grammatical. In

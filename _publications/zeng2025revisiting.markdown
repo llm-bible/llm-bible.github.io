@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: zeng2025revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12215"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12215'}
 tags: ['RAG']
 ---
 The advent of test-time scaling in large language models (LLMs), exemplified

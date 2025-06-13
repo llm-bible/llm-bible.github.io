@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: larosa2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13057"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13057'}
+tags: ['Agentic', 'RAG', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 While there have been extensive studies in code generation by large language
 models (LLM), where benchmarks like HumanEval have been surpassed with an

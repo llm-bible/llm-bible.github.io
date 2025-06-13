@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shah2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05288"}
-  - {name: "Code", url: "https://github.com/ProsusAI/stack-eval"}
-tags: ['Survey Paper', 'Ethics and Bias', 'Merging', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05288'}
+  - {name: "Code", url: 'https://github.com/ProsusAI/stack-eval'}
+tags: ['Has Code', 'Merging', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We present two comprehensive benchmarks to evaluate the performance of
 language models in coding assistance tasks, covering code writing, debugging,

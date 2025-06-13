@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04027"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04027'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Training Techniques']
 ---
 This work proposes a simple training-free prompt-free approach to leverage
 large language models (LLMs) for the Chinese spelling correction (CSC) task,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: malekar2024matmul
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.11939"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.11939'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 The advent of 1-bit large language models (LLMs) has attracted considerable
 attention and opened up new research opportunities. However, 1-bit LLMs only

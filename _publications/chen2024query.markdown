@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024query
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19886"}
-  - {name: "Code", url: "https://github.com/shuhao02/RouterDC"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19886'}
+  - {name: "Code", url: 'https://github.com/shuhao02/RouterDC'}
 tags: ['Has Code', 'Pretraining Methods']
 ---
 Recent works show that assembling multiple off-the-shelf large language

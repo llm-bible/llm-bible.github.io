@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024healthcare
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.13408"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.13408'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Responsible AI', 'Pretraining Methods']
 ---
 The copilot framework, which aims to enhance and tailor large language models
 (LLMs) for specific complex tasks without requiring fine-tuning, is gaining

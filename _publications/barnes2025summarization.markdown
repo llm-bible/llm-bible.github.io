@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: barnes2025summarization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17039"}
-tags: ['Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17039'}
+tags: ['Reinforcement Learning', 'Prompting', 'Applications']
 ---
 Studies on evaluation metrics and LLM-as-a-Judge models for automatic text
 summarization have largely been focused on English, limiting our understanding

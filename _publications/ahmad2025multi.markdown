@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmad2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.09103"}
-tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.09103'}
+tags: ['Language Modeling', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 improved text generation capabilities. However, they also present challenges,

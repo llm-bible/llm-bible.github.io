@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025reinforcing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18579"}
-tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18579'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 Sparse attention mechanisms aim to reduce computational overhead by
 selectively processing a subset of salient tokens while preserving model

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: manathunga2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02884"}
-tags: ['Fine-Tuning', 'Few-Shot', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02884'}
+tags: ['Few-Shot', 'Fine-Tuning', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated remarkable adaptability,
 showcasing their capacity to excel in tasks for which they were not explicitly

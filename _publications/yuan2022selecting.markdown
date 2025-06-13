@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yuan2022selecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.11000"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.11000'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have in recent years demonstrated impressive
 prowess in natural language generation. A common practice to improve generation

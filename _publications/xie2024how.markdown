@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12362"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12362'}
 tags: ['Applications']
 ---
 The deployment of large language models (LLMs) in diverse applications

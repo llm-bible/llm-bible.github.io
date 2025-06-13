@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yuan2024graph
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12318"}
-tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12318'}
+tags: ['Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Tools']
 ---
 Natural language explanations (NLEs) are commonly used to provide plausible
 free-text explanations of a model's reasoning about its predictions. However,

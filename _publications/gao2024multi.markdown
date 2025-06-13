@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15606"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15606'}
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The advancement of large language models (LLMs) prompts the development of
 multi-modal agents, which are used as a controller to call external tools,

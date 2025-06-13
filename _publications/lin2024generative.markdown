@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.05868"}
-  - {name: "Code", url: "https://github.com/agiresearch/EmojiCrypt"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.05868'}
+  - {name: "Code", url: 'https://github.com/agiresearch/EmojiCrypt'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Cloud-based Large Language Models (LLMs) such as ChatGPT have become
 increasingly integral to daily operations. Nevertheless, they also introduce

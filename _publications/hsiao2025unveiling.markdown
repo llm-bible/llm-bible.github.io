@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: hsiao2025unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15120"}
-  - {name: "Code", url: "https://github.com/AnnonymousForPapers/CoT_Reasoning_Test"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15120'}
+  - {name: "Code", url: 'https://github.com/AnnonymousForPapers/CoT_Reasoning_Test'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning', 'Pretraining Methods']
 ---
 This study investigates the in-context learning capabilities of various
 decoder-only transformer-based language models with different model sizes and

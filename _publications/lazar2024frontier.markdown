@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lazar2024frontier
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.06750"}
-tags: ['Responsible AI', 'Agentic', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.06750'}
+tags: ['Attention Mechanism', 'Agentic', 'Model Architecture', 'Multimodal Models', 'Ethics and Bias', 'Responsible AI']
 ---
 Some have criticised Generative AI Systems for replicating the familiar
 pathologies of already widely-deployed AI systems. Other critics highlight how

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gopalkrishnan2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.19838"}
-  - {name: "Code", url: "https://github.com/akshaygopalkr/EM-VLM4AD"}
-tags: ['Responsible AI', 'Applications', 'Masked Language Model', 'Has Code', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.19838'}
+  - {name: "Code", url: 'https://github.com/akshaygopalkr/EM-VLM4AD'}
+tags: ['Masked Language Model', 'Has Code', 'Applications', 'Prompting', 'Multimodal Models', 'Responsible AI']
 ---
 Vision-Language Models (VLMs) and Multi-Modal Language models (MMLMs) have
 become prominent in autonomous driving research, as these models can provide

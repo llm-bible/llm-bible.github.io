@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: andriushchenko2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09024"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09024'}
+tags: ['Agentic', 'Security', 'Tools', 'Prompting', 'Responsible AI']
 ---
 The robustness of LLMs to jailbreak attacks, where users design prompts to
 circumvent safety measures and misuse model capabilities, has been studied

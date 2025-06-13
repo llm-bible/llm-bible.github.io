@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sane2024notso
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12173"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12173'}
+tags: ['RAG', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper presents a novel framework for enhancing reasoning capabilities in
 large language models (LLMs) by leveraging iterative reasoning and

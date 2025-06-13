@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: shen2025vlm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07615"}
-  - {name: "Code", url: "https://github.com/om-ai-lab/VLM-R1"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07615'}
+  - {name: "Code", url: 'https://github.com/om-ai-lab/VLM-R1'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently DeepSeek R1 has shown that reinforcement learning (RL) can
 substantially improve the reasoning capabilities of Large Language Models

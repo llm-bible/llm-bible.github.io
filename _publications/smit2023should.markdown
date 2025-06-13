@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: smit2023should
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17371"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17371'}
+tags: ['Prompting', 'Agentic']
 ---
 Recent advancements in large language models (LLMs) underscore their
 potential for responding to inquiries in various domains. However, ensuring

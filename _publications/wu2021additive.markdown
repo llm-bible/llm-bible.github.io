@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wu2021additive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.09084"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.09084'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer is a powerful model for text understanding. However, it is
 inefficient due to its quadratic complexity to input sequence length. Although

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: emery2025task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.00506"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.00506'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 As large language models (LLMs) are increasingly deployed in high-stakes
 domains, detecting hallucinated content\\(\unicode\{x2013\}\\)text that is not

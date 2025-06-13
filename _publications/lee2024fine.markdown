@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.15154"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.15154'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 In machine translation, the problem of ambiguously gendered input has been

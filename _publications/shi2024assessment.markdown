@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024assessment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17830"}
-tags: ['Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17830'}
+tags: ['Reinforcement Learning', 'Multimodal Models']
 ---
 Large Language Models (LLMs) aim to serve as versatile assistants aligned
 with human values, as defined by the principles of being helpful, honest, and

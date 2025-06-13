@@ -6,9 +6,9 @@ conference: "The 2024 International Conference on Robotics and Automation"
 year: 2023
 bibkey: chen2023autoregressive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06531"}
-  - {name: "Code", url: "https://yongchao98.github.io/MIT-REALM-AutoTAMP/"}
-tags: ['GPT', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06531'}
+  - {name: "Code", url: 'https://yongchao98.github.io/MIT-REALM-AutoTAMP/'}
+tags: ['Has Code', 'Few-Shot', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 For effective human-robot interaction, robots need to understand, plan, and
 execute complex, long-horizon tasks described by natural language. Recent

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025codeif
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22688"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22688'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated exceptional performance in
 code generation tasks and have become indispensable programming assistants for

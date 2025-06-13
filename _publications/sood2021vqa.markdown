@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sood2021vqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.13116"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.13116'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 We present VQA-MHUG - a novel 49-participant dataset of multimodal human gaze
 on both images and questions during visual question answering (VQA) collected

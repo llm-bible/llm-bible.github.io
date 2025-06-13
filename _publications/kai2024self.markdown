@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kai2024self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.05930"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.05930'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs) demonstrate great performance in text

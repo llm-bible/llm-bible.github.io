@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023hypothesis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15883"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15883'}
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Interpretability']
 ---
 In this paper, we investigate the retrieval-augmented generation (RAG) based
 on Knowledge Graphs (KGs) to improve the accuracy and reliability of Large

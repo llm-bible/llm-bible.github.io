@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ferrag2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.22732"}
-tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.22732'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent generative reasoning breakthroughs have transformed how large language
 models (LLMs) tackle complex problems by dynamically retrieving and refining

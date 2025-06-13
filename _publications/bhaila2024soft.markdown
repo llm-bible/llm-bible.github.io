@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhaila2024soft
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12038"}
-  - {name: "Code", url: "https://github.com/karuna-bhaila/llm_unlearning"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12038'}
+  - {name: "Code", url: 'https://github.com/karuna-bhaila/llm_unlearning'}
+tags: ['Has Code', 'In-Context Learning', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 The widespread popularity of Large Language Models (LLMs), partly due to
 their unique ability to perform in-context learning, has also brought to light

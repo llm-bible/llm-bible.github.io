@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: karanjai2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09740"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09740'}
+tags: ['Reinforcement Learning', 'GPT', 'Tools', 'Model Architecture']
 ---
 The advent of large language models (LLMs) has marked a significant milestone
 in the realm of artificial intelligence, with their capabilities often matching

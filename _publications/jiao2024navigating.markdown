@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiao2024navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18841"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Interpretability', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18841'}
+tags: ['Fairness', 'Tools', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Responsible AI']
 ---
 This study addresses ethical issues surrounding Large Language Models (LLMs)
 within the field of artificial intelligence. It explores the common ethical

@@ -6,7 +6,7 @@ conference: "Annals of The New York Academy of Sciences; March 2024"
 year: 2024
 bibkey: kambhampati2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04121"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04121'}
 tags: ['Uncategorized']
 ---
 While humans sometimes do show the capability of correcting their own

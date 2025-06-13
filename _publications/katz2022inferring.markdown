@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: katz2022inferring
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2204.13778v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2204.13778v2'}
 tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 A prominent challenge for modern language understanding systems is the

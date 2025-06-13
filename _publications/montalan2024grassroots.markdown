@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: montalan2024grassroots
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15380"}
-tags: ['RAG', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15380'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting']
 ---
 Multilingual large language models (LLMs) today may not necessarily provide
 culturally appropriate and relevant responses to its Filipino users. We

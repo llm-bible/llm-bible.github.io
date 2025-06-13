@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wu2025hardware
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.19747"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.19747'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Model Architecture', 'Fine-Tuning']
 ---
 Low-rank adaptation (LoRA) is a predominant parameter-efficient finetuning
 method to adapt large language models (LLMs) for downstream tasks. In this

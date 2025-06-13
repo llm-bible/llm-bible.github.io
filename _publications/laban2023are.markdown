@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: laban2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.08596"}
-tags: ['RAG', 'Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.08596'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools']
 ---
 The interactive nature of Large Language Models (LLMs) theoretically allows
 models to refine and improve their answers, yet systematic analysis of the

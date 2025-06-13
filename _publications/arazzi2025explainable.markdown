@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: arazzi2025explainable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21700"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21700'}
 tags: ['Security']
 ---
 Large Language Models are fundamental actors in the modern IT landscape

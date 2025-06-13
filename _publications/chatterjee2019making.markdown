@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: chatterjee2019making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1904.00796"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1904.00796'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'BERT', 'Model Architecture']
 ---
 This study aims at solving the Machine Reading Comprehension problem where
 questions have to be answered given a context passage. The challenge is to

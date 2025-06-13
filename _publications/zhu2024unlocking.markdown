@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.06532"}
-  - {name: "Code", url: "https://github.com/DaoD/INTERS"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.06532'}
+  - {name: "Code", url: 'https://github.com/DaoD/INTERS'}
 tags: ['Few-Shot', 'Has Code', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in

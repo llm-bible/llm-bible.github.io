@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024transfer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.17181"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.17181'}
+tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Merging', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this report, we explore the potential for text diffusion to replace
 autoregressive (AR) decoding for the training and deployment of large language

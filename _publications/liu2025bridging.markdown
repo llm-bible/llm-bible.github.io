@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.17715"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.17715'}
 tags: ['Uncategorized']
 ---
 Effective conversational systems are expected to dynamically generate

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024incomplete
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03028"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03028'}
+tags: ['Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Modern language models (LMs) can learn to perform new tasks in different
 ways: in instruction following, the target task is described explicitly in

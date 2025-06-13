@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shen2024safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07471"}
-  - {name: "Code", url: "https://github.com/hanshen95/SEAL"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07471'}
+  - {name: "Code", url: 'https://github.com/hanshen95/SEAL'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning on task-specific data to boost downstream performance is a
 crucial step for leveraging Large Language Models (LLMs). However, previous

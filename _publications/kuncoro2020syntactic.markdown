@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: kuncoro2020syntactic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.13482"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.13482'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'BERT', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Textual representation learners trained on large amounts of data have
 achieved notable success on downstream tasks; intriguingly, they have also

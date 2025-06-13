@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024datacomp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11794"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11794'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce DataComp for Language Models (DCLM), a testbed for controlled
 dataset experiments with the goal of improving language models. As part of

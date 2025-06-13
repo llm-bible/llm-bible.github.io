@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kodali2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05572"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05572'}
+tags: ['GPT', 'Model Architecture', 'BERT', 'Training Techniques', 'Reinforcement Learning']
 ---
 Current computational approaches for analysing or generating code-mixed
 sentences do not explicitly model ``naturalness'' or ``acceptability'' of

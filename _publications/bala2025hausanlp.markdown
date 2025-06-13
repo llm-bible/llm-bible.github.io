@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: bala2025hausanlp
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19650"}
-tags: ['BERT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19650'}
+tags: ['Reinforcement Learning', 'BERT', 'Model Architecture']
 ---
 This paper presents our findings of the Multilingual Shared Task on
 Hallucinations and Related Observable Overgeneration Mistakes, MU-SHROOM, which

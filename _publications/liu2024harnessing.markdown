@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13824"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13824'}
 tags: ['Agentic', 'Multimodal Models']
 ---
 Text-rich visual understanding-the ability to process environments where

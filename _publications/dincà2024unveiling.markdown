@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dincà2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.16700"}
-  - {name: "Code", url: "https://github.com/Moreno98/GradBias"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Has Code', 'Fairness', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.16700'}
+  - {name: "Code", url: 'https://github.com/Moreno98/GradBias'}
+tags: ['Has Code', 'RAG', 'Fairness', 'Tools', 'Applications', 'Prompting', 'Bias Mitigation', 'Ethics and Bias', 'Responsible AI']
 ---
 Recent progress in Text-to-Image (T2I) generative models has enabled
 high-quality image generation. As performance and accessibility increase, these

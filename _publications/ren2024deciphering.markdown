@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ren2024deciphering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.18812"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.18812'}
+tags: ['Transformer', 'Model Architecture', 'Tools', 'Training Techniques', 'Merging', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Deciphering the human visual experience through brain activities captured by
 fMRI represents a compelling and cutting-edge challenge in the field of

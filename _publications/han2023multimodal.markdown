@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: han2023multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.16483"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16483'}
+tags: ['RAG', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multi-modal large language models have demonstrated impressive performances
 on most vision-language tasks. However, the model generally lacks the

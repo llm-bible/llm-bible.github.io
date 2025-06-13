@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: choi2024safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10014"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10014'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning Large Language Models (LLMs) has emerged as a common practice for
 tailoring models to individual needs and preferences. The choice of datasets

@@ -6,9 +6,9 @@ conference: "Findings of the Association for Computational Linguistics EMNLP 202
 year: 2024
 bibkey: hua2024assistive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.01737"}
-  - {name: "Code", url: "https://github.com/tk1363704/SADAS"}
-tags: ['Agentic', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.01737'}
+  - {name: "Code", url: 'https://github.com/tk1363704/SADAS'}
+tags: ['Agentic', 'Has Code', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 We develop assistive agents based on Large Language Models (LLMs) that aid
 interlocutors in business negotiations. Specifically, we simulate business

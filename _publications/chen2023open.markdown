@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.08688"}
-tags: ['Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.08688'}
+tags: ['Training Techniques', 'Reinforcement Learning', 'Applications', 'Tools']
 ---
 We release and introduce the TigerBot family of large language models (LLMs),
 consisting of base and chat models, sized from 7, 13, 70 and 180 billion

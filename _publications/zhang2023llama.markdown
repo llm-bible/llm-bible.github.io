@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023llama
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.16199"}
-  - {name: "Code", url: "https://github.com/OpenGVLab/LLaMA-Adapter"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.16199'}
+  - {name: "Code", url: 'https://github.com/OpenGVLab/LLaMA-Adapter'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We present LLaMA-Adapter, a lightweight adaption method to efficiently
 fine-tune LLaMA into an instruction-following model. Using 52K self-instruct

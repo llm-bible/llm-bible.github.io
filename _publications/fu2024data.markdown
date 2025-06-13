@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fu2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10171"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10171'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 We study the continual pretraining recipe for scaling language models'
 context lengths to 128K, with a focus on data engineering. We hypothesize that

@@ -6,8 +6,8 @@ conference: "COLING 2025"
 year: 2023
 bibkey: kumar2023bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17740"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17740'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized various domains but still
 struggle with non-Latin scripts and low-resource languages. This paper

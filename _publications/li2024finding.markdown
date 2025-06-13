@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024finding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.16012"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.16012'}
 tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Metaphors are considered to pose challenges for a wide spectrum of NLP tasks.

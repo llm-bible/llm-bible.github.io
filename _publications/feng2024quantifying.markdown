@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024quantifying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09572"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09572'}
 tags: ['Agentic']
 ---
 Quantifying the uncertainty in the factual parametric knowledge of Large

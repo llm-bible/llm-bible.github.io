@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: campos2021curriculum
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.02170"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.02170'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Pretraining Methods']
 ---
 Language Models like ELMo and BERT have provided robust representations of
 natural language, which serve as the language understanding component for a

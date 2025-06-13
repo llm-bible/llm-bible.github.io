@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025ascending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14891"}
-  - {name: "Code", url: "https://github.com/LHL3341/MetaLadder"}
-tags: ['RAG', 'Tools', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14891'}
+  - {name: "Code", url: 'https://github.com/LHL3341/MetaLadder'}
+tags: ['RAG', 'Has Code', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated promising capabilities in
 solving mathematical reasoning tasks, leveraging Chain-of-Thought (CoT) data as

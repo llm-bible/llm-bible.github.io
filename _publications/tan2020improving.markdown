@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: tan2020improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.06775"}
-  - {name: "Code", url: "https://github.com/airsplay/vokenization"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.06775'}
+  - {name: "Code", url: 'https://github.com/airsplay/vokenization'}
+tags: ['Has Code', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training']
 ---
 Humans learn language by listening, speaking, writing, reading, and also, via
 interaction with the multimodal real world. Existing language pre-training

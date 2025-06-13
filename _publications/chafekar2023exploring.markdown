@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chafekar2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03483"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03483'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 There has been a lot of work in question generation where different methods
 to provide target answers as input, have been employed. This experimentation

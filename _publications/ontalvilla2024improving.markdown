@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ontalvilla2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11148"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11148'}
+tags: ['Language Modeling', 'Ethics and Bias', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Despite the impressive performance of autoregressive Language Models (LM) it
 has been shown that due to reporting bias, LMs lack visual knowledge, i.e. they

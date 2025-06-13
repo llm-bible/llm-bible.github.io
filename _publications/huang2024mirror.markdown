@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024mirror
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10857"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10857'}
 tags: ['Reinforcement Learning']
 ---
 Self-Consistency, a widely-used decoding strategy, significantly boosts the

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024control
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.13008"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.13008'}
 tags: ['RAG', 'Prompting']
 ---
 This study addresses the hallucination problem in large language models

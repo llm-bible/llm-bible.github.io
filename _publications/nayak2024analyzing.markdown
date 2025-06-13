@@ -6,8 +6,8 @@ conference: "Computer Science Information Technology (CS IT) ISSN 2231 - 5403 Vo
 year: 2024
 bibkey: nayak2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01784"}
-tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01784'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 This paper describes our approach to hierarchical multi-label detection of
 persuasion techniques in meme texts. Our model, developed as a part of the

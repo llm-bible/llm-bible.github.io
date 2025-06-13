@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.04921"}
-tags: ['Agentic', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.04921'}
+tags: ['Agentic', 'Tools', 'Merging', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 Reasoning lies at the heart of intelligence, shaping the ability to make
 decisions, draw conclusions, and generalize across domains. In artificial

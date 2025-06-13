@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00981"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00981'}
 tags: ['Uncategorized']
 ---
 Translating natural language to visualization (NL2VIS) has shown great

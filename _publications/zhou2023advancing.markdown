@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06803"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06803'}
+tags: ['Reinforcement Learning', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent advances in general purpose pre-trained language models have shown
 great potential in commonsense reasoning. However, current works still perform

@@ -6,7 +6,7 @@ conference: "Synthese Vol. 204 71 (2024)"
 year: 2024
 bibkey: grindrod2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.09576"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.09576'}
 tags: ['GPT', 'Model Architecture']
 ---
 Do large language models like Chat-GPT or LLaMa meaningfully use the words

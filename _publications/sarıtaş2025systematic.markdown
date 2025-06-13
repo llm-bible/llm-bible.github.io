@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sarıtaş2025systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08796"}
-tags: ['Tools', 'Survey Paper', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08796'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Merging', 'Prompting', 'Survey Paper']
 ---
 In recent years, evaluating the Theory of Mind (ToM) capabilities of large
 language models (LLMs) has received significant attention within the research

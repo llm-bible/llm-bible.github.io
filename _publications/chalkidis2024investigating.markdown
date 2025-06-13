@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chalkidis2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08495"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08495'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 In light of the recent 2024 European Parliament elections, we are
 investigating if LLMs can be used as Voting Advice Applications (VAAs). We

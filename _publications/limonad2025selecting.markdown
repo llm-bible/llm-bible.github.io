@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: limonad2025selecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.21032"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.21032'}
 tags: ['Interpretability and Explainability', 'Survey Paper']
 ---
 The perceived quality of the explanations accompanying e-government services

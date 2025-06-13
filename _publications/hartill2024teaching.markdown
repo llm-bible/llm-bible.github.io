@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hartill2024teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.16985"}
-tags: ['RAG', 'Training Techniques', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.16985'}
+tags: ['Training Techniques', 'RAG', 'Applications']
 ---
 Pretrained large Language Models (LLMs) are able to answer questions that are
 unlikely to have been encountered during training. However a diversity of

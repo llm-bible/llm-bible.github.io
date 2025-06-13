@@ -6,8 +6,8 @@ conference: "Proceedings of the 2021 Conference of the North American Chapter of
 year: 2020
 bibkey: wrzalik2020complementary
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.10252"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.10252'}
+tags: ['Transformer', 'RAG', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Many recent approaches towards neural information retrieval mitigate their
 computational costs by using a multi-stage ranking pipeline. In the first

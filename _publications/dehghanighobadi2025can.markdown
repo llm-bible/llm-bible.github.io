@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: dehghanighobadi2025can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18156"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18156'}
 tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Prompting']
 ---
 Explanations are an important tool for gaining insights into the behavior of

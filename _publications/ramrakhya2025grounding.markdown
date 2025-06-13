@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ramrakhya2025grounding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.00907"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.00907'}
+tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Embodied agents operating in real-world environments must interpret ambiguous
 and under-specified human instructions. A capable household robot should

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.09727"}
-tags: ['Agentic', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.09727'}
+tags: ['Prompting', 'Agentic']
 ---
 Current Large Language Models (LLMs) are not only limited to some maximum
 context length, but also are not able to robustly consume long inputs. To

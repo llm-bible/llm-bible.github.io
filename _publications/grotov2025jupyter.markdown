@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: grotov2025jupyter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.12365"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.12365'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 In this work, we present a benchmark that consists of Jupyter notebooks
 development trajectories and allows measuring how large language models (LLMs)

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: simhi2025trust
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12964"}
-  - {name: "Code", url: "https://github.com/technion-cs-nlp/Trust_me_Im_wrong"}
-tags: ['Responsible AI', 'RAG', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12964'}
+  - {name: "Code", url: 'https://github.com/technion-cs-nlp/Trust_me_Im_wrong'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Responsible AI']
 ---
 Large Language Models (LLMs) often generate outputs that lack grounding in
 real-world facts, a phenomenon known as hallucinations. Prior research has

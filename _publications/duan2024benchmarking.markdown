@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: duan2024benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.15890"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.15890'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 As synthetic data becomes increasingly prevalent in training language models,
 particularly through generated dialogue, concerns have emerged that these

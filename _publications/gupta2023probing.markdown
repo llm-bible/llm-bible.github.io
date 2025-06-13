@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023probing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07384"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07384'}
 tags: ['Reinforcement Learning']
 ---
 With their increasing size, large language models (LLMs) are becoming

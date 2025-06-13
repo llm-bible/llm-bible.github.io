@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: schwabe2025q
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01385"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01385'}
 tags: ['RAG', 'Applications']
 ---
 Question answering (QA) requires accurately aligning user questions with

@@ -6,8 +6,8 @@ conference: "Proceedings of the British Machine Vision Conference (250) 2018"
 year: 2018
 bibkey: farazi2018reciprocal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.04247"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.04247'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Merging']
 ---
 Existing attention mechanisms either attend to local image grid or object
 level features for Visual Question Answering (VQA). Motivated by the

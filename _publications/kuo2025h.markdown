@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kuo2025h
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12893"}
-tags: ['Responsible AI', 'RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12893'}
+tags: ['RAG', 'Responsible AI', 'Security', 'Prompting']
 ---
 Large Reasoning Models (LRMs) have recently extended their powerful reasoning
 capabilities to safety checks-using chain-of-thought reasoning to decide

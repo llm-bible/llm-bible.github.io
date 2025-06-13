@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024translating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14504"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14504'}
+tags: ['Reinforcement Learning', 'Applications', 'Tools']
 ---
 LLMs are increasingly being deployed for multilingual applications and have
 demonstrated impressive translation capabilities between several low and

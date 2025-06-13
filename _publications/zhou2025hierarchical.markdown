@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhou2025hierarchical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.11513"}
-  - {name: "Code", url: "https://ziqinzhou66.github.io/project/HiTVideo"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.11513'}
+  - {name: "Code", url: 'https://ziqinzhou66.github.io/project/HiTVideo'}
+tags: ['Has Code', 'Efficiency and Optimization', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 Text-to-video generation poses significant challenges due to the inherent
 complexity of video data, which spans both temporal and spatial dimensions. It

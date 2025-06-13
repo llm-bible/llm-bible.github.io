@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00656"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00656'}
+tags: ['RAG', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The recent advancements in large language models (LLMs) have revolutionized
 the field of natural language processing, progressively broadening their scope

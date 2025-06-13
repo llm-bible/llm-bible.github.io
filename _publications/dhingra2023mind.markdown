@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: dhingra2023mind
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.11436v2"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.11436v2'}
+tags: ['Attention Mechanism', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 Cognitive psychology delves on understanding perception, attention, memory,
 language, problem-solving, decision-making, and reasoning. Large language

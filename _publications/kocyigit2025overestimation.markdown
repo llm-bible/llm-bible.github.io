@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kocyigit2025overestimation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18771"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18771'}
+tags: ['Pre-Training', 'Applications', 'Training Techniques']
 ---
 Data contamination -- the accidental consumption of evaluation examples
 within the pre-training data -- can undermine the validity of evaluation

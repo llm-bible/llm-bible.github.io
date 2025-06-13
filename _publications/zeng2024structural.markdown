@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zeng2024structural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15266"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15266'}
 tags: ['Agentic', 'Applications']
 ---
 Memory plays a pivotal role in enabling large language model~(LLM)-based

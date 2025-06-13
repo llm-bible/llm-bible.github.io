@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024decoprompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07457"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07457'}
 tags: ['RAG', 'Prompting', 'Applications']
 ---
 While large language models (LLMs) have demonstrated increasing power, they

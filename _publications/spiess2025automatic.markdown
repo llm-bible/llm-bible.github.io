@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: spiess2025automatic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04365"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04365'}
+tags: ['Agentic', 'Few-Shot', 'Efficiency and Optimization', 'Tools', 'Prompting']
 ---
 The performance of large language models (LLMs) depends on how they are
 prompted, with choices spanning both the high-level prompting pattern (e.g.,

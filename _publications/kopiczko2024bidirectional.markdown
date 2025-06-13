@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kopiczko2024bidirectional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14862"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14862'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Fine-Tuning', 'Prompting']
 ---
 We introduce Bitune, a method that improves instruction-tuning of pretrained
 decoder-only large language models, leading to consistent gains on downstream

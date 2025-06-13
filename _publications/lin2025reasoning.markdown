@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02007"}
-tags: ['Security', 'Training Techniques', 'Ethics and Bias', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02007'}
+tags: ['Ethics and Bias', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Since the inception of Large Language Models (LLMs), the quest to efficiently
 train them for superior reasoning capabilities has been a pivotal challenge.

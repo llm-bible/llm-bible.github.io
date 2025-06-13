@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: chrysostomou2021enjoy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.13759"}
-tags: ['Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.13759'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Pretrained transformer-based models such as BERT have demonstrated
 state-of-the-art predictive performance when adapted into a range of natural

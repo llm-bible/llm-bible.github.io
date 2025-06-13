@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: regan2024massive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19285"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19285'}
 tags: ['Applications']
 ---
 Abstract Meaning Representation (AMR) is a semantic formalism that captures

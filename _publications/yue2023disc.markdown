@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yue2023disc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11325"}
-  - {name: "Code", url: "https://github.com/FudanDISC/DISC-LawLLM"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11325'}
+  - {name: "Code", url: 'https://github.com/FudanDISC/DISC-LawLLM'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 We propose DISC-LawLLM, an intelligent legal system utilizing large language
 models (LLMs) to provide a wide range of legal services. We adopt legal

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02971"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02971'}
 tags: ['Reinforcement Learning']
 ---
 This study examines how large language models (LLMs) resolve relative clause

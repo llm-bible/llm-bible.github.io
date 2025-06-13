@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: finkelstein2024introducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.06537"}
-tags: ['Efficiency and Optimization', 'Applications', 'WMT', 'Training Techniques', 'Few-Shot', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.06537'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'WMT', 'Distillation', 'Training Techniques', 'Applications']
 ---
 Recent research in neural machine translation (NMT) has shown that training
 on high-quality machine-generated data can outperform training on

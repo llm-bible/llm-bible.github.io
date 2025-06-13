@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: an2022contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.14690"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.14690'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Recently, contrastive learning attracts increasing interests in neural text
 generation as a new solution to alleviate the exposure bias problem. It

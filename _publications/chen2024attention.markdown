@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024attention
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02642"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02642'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Information retrieval (IR) systems have played a vital role in modern digital
 life and have cemented their continued usefulness in this new era of generative

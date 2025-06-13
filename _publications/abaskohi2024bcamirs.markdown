@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: abaskohi2024bcamirs
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03022"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03022'}
+tags: ['Model Architecture', 'BERT', 'Tools', 'Fine-Tuning', 'GPT', 'Multimodal Models']
 ---
 Memes, combining text and images, frequently use metaphors to convey
 persuasive messages, shaping public opinion. Motivated by this, our team

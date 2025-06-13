@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nag2024cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.05434"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.05434'}
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit impressive zero/few-shot inference and
 generation quality for high-resource languages (HRLs). A few of them have been

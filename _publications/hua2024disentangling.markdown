@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hua2024disentangling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02787"}
-  - {name: "Code", url: "https://github.com/agiresearch/ContextHub"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02787'}
+  - {name: "Code", url: 'https://github.com/agiresearch/ContextHub'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This study intends to systematically disentangle pure logic reasoning and
 text understanding by investigating the contrast across abstract and

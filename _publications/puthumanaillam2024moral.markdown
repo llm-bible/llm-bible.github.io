@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: puthumanaillam2024moral
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.14683"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.14683'}
+tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 This paper examines the challenges associated with achieving life-long
 superalignment in AI systems, particularly large language models (LLMs).

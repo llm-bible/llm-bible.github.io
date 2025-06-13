@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gatto2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06541"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06541'}
+tags: ['RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Amidst the sharp rise in the evaluation of large language models (LLMs) on
 various tasks, we find that semantic textual similarity (STS) has been

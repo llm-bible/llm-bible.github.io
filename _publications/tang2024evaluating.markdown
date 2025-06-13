@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.13582"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.13582'}
 tags: ['RAG']
 ---
 Knowledge utilization is a critical aspect of LLMs, and understanding how

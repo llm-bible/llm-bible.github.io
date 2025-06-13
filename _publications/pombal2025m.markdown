@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pombal2025m
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.04953"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.04953'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Training Techniques']
 ---
 The use of language models for automatically evaluating long-form text
 (LLM-as-a-judge) is becoming increasingly common, yet most LLM judges are

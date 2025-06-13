@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.16587"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.16587'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Large language models (LLMs) show early signs of artificial general
 intelligence but struggle with hallucinations. One promising solution to

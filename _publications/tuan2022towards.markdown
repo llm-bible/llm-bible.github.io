@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: tuan2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.10610"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.10610'}
+tags: ['Transformer', 'Model Architecture', 'Applications', 'Tools', 'Pretraining Methods']
 ---
 Users interacting with voice assistants today need to phrase their requests
 in a very specific manner to elicit an appropriate response. This limits the

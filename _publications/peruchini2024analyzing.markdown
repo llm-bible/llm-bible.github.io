@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peruchini2024analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.12862"}
-tags: ['Fine-Tuning', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.12862'}
+tags: ['GPT', 'Fine-Tuning', 'Prompting', 'Model Architecture']
 ---
 This study consists of qualitative empirical research, conducted through
 exploratory tests with two different Large Language Models (LLMs) chatbots:

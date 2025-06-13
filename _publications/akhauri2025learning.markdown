@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: akhauri2025learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.16379"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.16379'}
+tags: ['Agentic', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reasoning in large language models (LLMs) tends to produce substantially
 longer token generation sequences than simpler language modeling tasks. This

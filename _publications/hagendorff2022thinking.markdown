@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: hagendorff2022thinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.05206"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.05206'}
 tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) are currently at the forefront of intertwining

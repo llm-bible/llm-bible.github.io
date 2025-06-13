@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.06551"}
-tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.06551'}
+tags: ['RAG', 'Security', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Employing Large Language Models (LLMs) to assess the quality of generated
 responses, such as prompting instruct-tuned models or fine-tuning judge models,

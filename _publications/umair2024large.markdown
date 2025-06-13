@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: umair2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16044"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16044'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Turn-taking is a fundamental mechanism in human communication that ensures
 smooth and coherent verbal interactions. Recent advances in Large Language

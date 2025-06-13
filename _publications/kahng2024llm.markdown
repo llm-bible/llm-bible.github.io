@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kahng2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.10524"}
-tags: ['Interpretability and Explainability', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10524'}
+tags: ['Reinforcement Learning', 'Interpretability and Explainability']
 ---
 Automatic side-by-side evaluation has emerged as a promising approach to
 evaluating the quality of responses from large language models (LLMs). However,

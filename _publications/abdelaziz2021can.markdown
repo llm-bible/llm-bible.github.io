@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: abdelaziz2021can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.07452"}
-tags: ['BERT', 'Training Techniques', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.07452'}
+tags: ['Training Techniques', 'BERT', 'Applications', 'Model Architecture']
 ---
 Code understanding is an increasingly important application of Artificial
 Intelligence. A fundamental aspect of understanding code is understanding text

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: maity2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17397"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17397'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Question generation in education is a time-consuming and cognitively
 demanding task, as it requires creating questions that are both contextually

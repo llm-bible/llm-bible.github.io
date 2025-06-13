@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024break
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06699"}
-tags: ['Security', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06699'}
+tags: ['Reinforcement Learning', 'Security', 'Multimodal Models']
 ---
 Large vision-language models (LVLMs) integrate visual information into large
 language models, showcasing remarkable multi-modal conversational capabilities.

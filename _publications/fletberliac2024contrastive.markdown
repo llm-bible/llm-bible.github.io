@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: fletberliac2024contrastive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19185"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19185'}
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Applications']
 ---
 Reinforcement Learning (RL) has been used to finetune Large Language Models
 (LLMs) using a reward model trained from preference data, to better align with

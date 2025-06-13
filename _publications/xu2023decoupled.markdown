@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023decoupled
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10061"}
-tags: ['Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10061'}
+tags: ['Attention Mechanism', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Prompting', 'Multimodal Models']
 ---
 Prompt learning has emerged as an efficient and effective approach for
 transferring foundational Vision-Language Models (e.g., CLIP) to downstream

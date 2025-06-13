@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2021
 bibkey: kharitonov2021text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.03264"}
-  - {name: "Code", url: "https://speechbot.github.io/pgslm"}
-  - {name: "Code", url: "https://github.com/pytorch/fairseq/tree/main/examples/textless_nlp/pgslm"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.03264'}
+  - {name: "Code", url: 'https://speechbot.github.io/pgslm'}
+  - {name: "Code", url: 'https://github.com/pytorch/fairseq/tree/main/examples/textless_nlp/pgslm'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training', 'Pretraining Methods']
 ---
 Speech pre-training has primarily demonstrated efficacy on classification
 tasks, while its capability of generating novel speech, similar to how GPT-2

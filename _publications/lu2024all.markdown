@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lu2024all
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14426"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14426'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Pruning', 'Pretraining Methods']
 ---
 Existing pruning techniques for large language models (LLMs) targeting
 domain-specific applications typically follow a two-stage process: pruning the

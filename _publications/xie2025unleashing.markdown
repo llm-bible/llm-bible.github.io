@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xie2025unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.07334"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.07334'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Tools', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 We present Autoregressive Representation Alignment (ARRA), a new training
 framework that unlocks global-coherent text-to-image generation in

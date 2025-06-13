@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: peng2025advancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.20672"}
-tags: ['RAG', 'Attention Mechanism', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.20672'}
+tags: ['Attention Mechanism', 'RAG', 'Prompting', 'Model Architecture']
 ---
 Recently, state-of-the-art text-to-image generation models, such as Flux and
 Ideogram 2.0, have made significant progress in sentence-level visual text

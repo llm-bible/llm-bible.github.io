@@ -6,8 +6,8 @@ conference: "Advances in Neural Information Processing Systems 36 (NeurIPS 2022)
 year: 2022
 bibkey: takagi2022effect
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.09817"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.09817'}
+tags: ['Agentic', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 We empirically investigate how pre-training on data of different modalities,
 such as language and vision, affects fine-tuning of Transformer-based models to

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: weber2023icl
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04945"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04945'}
 tags: ['Prompting']
 ---
 Just like the previous generation of task-tuned models, large language models

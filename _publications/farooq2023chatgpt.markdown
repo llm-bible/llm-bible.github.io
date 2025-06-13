@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: farooq2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14519"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14519'}
 tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 This study explores the problem solving capabilities of ChatGPT and its

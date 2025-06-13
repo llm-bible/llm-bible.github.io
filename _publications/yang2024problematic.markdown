@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024problematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11214"}
-  - {name: "Code", url: "https://github.com/yeyimilk/LLMGPT4o"}
-tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Tokenization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11214'}
+  - {name: "Code", url: 'https://github.com/yeyimilk/LLMGPT4o'}
+tags: ['Has Code', 'Security', 'GPT', 'Model Architecture', 'Training Techniques', 'Tools', 'Ethics and Bias', 'Tokenization']
 ---
 Recent advancements in large language models(LLMs), such as GPT-4 and GPT-4o,
 have shown exceptional performance, especially in languages with abundant

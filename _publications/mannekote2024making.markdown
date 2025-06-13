@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mannekote2024making
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.07794"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.07794'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Indirect User Requests (IURs), such as "It's cold in here" instead of "Could
 you please increase the temperature?" are common in human-human task-oriented

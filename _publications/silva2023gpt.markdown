@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: silva2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06225"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06225'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding across various domains, including healthcare and

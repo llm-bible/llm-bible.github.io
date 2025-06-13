@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023umass
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.16931"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.16931'}
 tags: ['GPT', 'Model Architecture']
 ---
 This paper presents UMASS_BioNLP team participation in the MEDIQA-Chat 2023

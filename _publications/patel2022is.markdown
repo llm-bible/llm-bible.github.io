@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: patel2022is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.12538"}
-  - {name: "Code", url: "https://github.com/Pruthvi98/QuestionDecomposition"}
-tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.12538'}
+  - {name: "Code", url: 'https://github.com/Pruthvi98/QuestionDecomposition'}
+tags: ['GPT', 'Has Code', 'BERT', 'Model Architecture']
 ---
 Large Language Models (LMs) have achieved state-of-the-art performance on
 many Natural Language Processing (NLP) benchmarks. With the growing number of

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: bansal2023peering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.15812"}
-  - {name: "Code", url: "https://github.com/Hritikbansal/sparse_feedback"}
-tags: ['RAG', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.15812'}
+  - {name: "Code", url: 'https://github.com/Hritikbansal/sparse_feedback'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Ethics and Bias']
 ---
 Aligning large language models (LLMs) with human values and intents
 critically involves the use of human or AI feedback. While dense feedback

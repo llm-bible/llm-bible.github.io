@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: peng2020building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.05298"}
-  - {name: "Code", url: "https://aka.ms/soloist"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.05298'}
+  - {name: "Code", url: 'https://aka.ms/soloist'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present a new method SOLOIST that uses transfer learning and machine
 teaching to build task bots at scale. We parameterize classical modular

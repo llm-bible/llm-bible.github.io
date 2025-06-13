@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: sun2024you
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.05254"}
-  - {name: "Code", url: "https://aka.ms/YOCO"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.05254'}
+  - {name: "Code", url: 'https://aka.ms/YOCO'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce a decoder-decoder architecture, YOCO, for large language models,
 which only caches key-value pairs once. It consists of two components, i.e., a

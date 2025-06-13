@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: breuer2024data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03881"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03881'}
 tags: ['Prompting', 'Applications', 'Merging']
 ---
 Considering query variance in information retrieval (IR) experiments is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: han2022natural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.00840"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.00840'}
+tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable performance on a
 variety of natural language understanding tasks. However, existing benchmarks

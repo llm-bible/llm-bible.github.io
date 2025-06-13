@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024formal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.00798"}
-  - {name: "Code", url: "https://github.com/agiresearch/Formal-LLM"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.00798'}
+  - {name: "Code", url: 'https://github.com/agiresearch/Formal-LLM'}
 tags: ['Agentic', 'Has Code', 'Tools']
 ---
 Recent advancements on Large Language Models (LLMs) enable AI Agents to

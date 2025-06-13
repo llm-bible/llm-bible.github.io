@@ -6,8 +6,8 @@ conference: "MM 2024 Proceedings of the 32nd ACM International Conference on Mul
 year: 2024
 bibkey: zhang2024entailment
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05821"}
-tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05821'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models']
 ---
 With the rise of large-scale language models (LLMs), it is currently popular
 and effective to convert multimodal information into text descriptions for

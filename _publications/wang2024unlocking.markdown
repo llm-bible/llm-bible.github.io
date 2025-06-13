@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.13853"}
-tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.13853'}
+tags: ['Language Modeling', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'Pretraining Methods']
 ---
 Pretrained large language models (LLMs) have revolutionized natural language
 processing (NLP) tasks such as summarization, question answering, and

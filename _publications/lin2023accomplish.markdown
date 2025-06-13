@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023accomplish
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.00384"}
-tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.00384'}
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 As the ever-increasing token limits of large language models (LLMs) have
 enabled long context as input, prompting with single data samples might no

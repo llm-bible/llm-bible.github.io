@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qian2023experiential
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17025"}
-  - {name: "Code", url: "https://github.com/OpenBMB/ChatDev"}
-tags: ['Agentic', 'Has Code', 'Agent', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17025'}
+  - {name: "Code", url: 'https://github.com/OpenBMB/ChatDev'}
+tags: ['Agentic', 'Has Code', 'Tools', 'Agent']
 ---
 Recent advancements in large language models (LLMs) have brought significant
 changes to various domains, especially through LLM-driven autonomous agents. A

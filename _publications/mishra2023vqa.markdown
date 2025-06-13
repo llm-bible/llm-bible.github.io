@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: mishra2023vqa
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.14777"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.14777'}
+tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
 ---
 The use of complex attention modules has improved the performance of the
 Visual Question Answering (VQA) task. This work aims to learn an improved

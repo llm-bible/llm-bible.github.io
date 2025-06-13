@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: macke2024testing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03114"}
-tags: ['Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03114'}
+tags: ['Reinforcement Learning', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated impressive abilities in recent
 years with regards to code generation and understanding. However, little work

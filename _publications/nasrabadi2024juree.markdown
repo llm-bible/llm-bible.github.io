@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nasrabadi2024juree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08442"}
-tags: ['Responsible AI', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08442'}
+tags: ['Interpretability and Explainability', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Applications', 'Merging', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 We introduce JurEE, an ensemble of efficient, encoder-only transformer models
 designed to strengthen safeguards in AI-User interactions within LLM-based

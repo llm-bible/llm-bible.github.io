@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: cho2025assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.18798"}
-tags: ['Applications', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.18798'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Applications']
 ---
 Multiple-choice benchmarks, consisting of various prompts and choices, are
 among the most widely used methods to assess a language model's natural

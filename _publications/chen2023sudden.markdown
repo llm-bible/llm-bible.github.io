@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023sudden
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.07311"}
-tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.07311'}
+tags: ['Attention Mechanism', 'Masked Language Model', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Most interpretability research in NLP focuses on understanding the behavior
 and features of a fully trained model. However, certain insights into model

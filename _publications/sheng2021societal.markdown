@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: sheng2021societal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2105.04054"}
-tags: ['Pre-Training', 'Agentic', 'Tools', 'Applications', 'Ethics and Bias', 'Survey Paper', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2105.04054'}
+tags: ['Attention Mechanism', 'Agentic', 'Pre-Training', 'Fairness', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Survey Paper', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Technology for language generation has advanced rapidly, spurred by
 advancements in pre-training large models on massive amounts of data and the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01141"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01141'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 Chain-of-thought prompting has emerged as a powerful technique for enabling
 large language models (LLMs) to solve complex reasoning tasks. However, these

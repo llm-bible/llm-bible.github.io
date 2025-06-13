@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alhanai2024bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.12417"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.12417'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable performance across various
 tasks, yet significant disparities remain for non-English languages, and

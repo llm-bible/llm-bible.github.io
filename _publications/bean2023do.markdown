@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bean2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.07225"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.07225'}
+tags: ['GPT', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have made rapid improvement on medical
 benchmarks, but their unreliability remains a persistent challenge for safe

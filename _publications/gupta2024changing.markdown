@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: gupta2024changing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19470"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19470'}
 tags: ['RAG', 'Security', 'Applications']
 ---
 As large language models (LLMs) have grown in prevalence, particular

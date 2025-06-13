@@ -6,8 +6,8 @@ conference: "Proceedings of the ACM on Programming Languages Volume 8 2024; Issu
 year: 2024
 bibkey: blinn2024statically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.00921"}
-tags: ['Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.00921'}
+tags: ['Reinforcement Learning', 'Prompting', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) have reshaped the landscape of program
 synthesis. However, contemporary LLM-based code completion systems often

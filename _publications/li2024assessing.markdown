@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024assessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19065"}
-  - {name: "Code", url: "https://github.com/LwbXc/STBench"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'KDD', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19065'}
+  - {name: "Code", url: 'https://github.com/LwbXc/STBench'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'Applications', 'Fine-Tuning', 'Training Techniques', 'GPT', 'Prompting', 'KDD', 'Ethics and Bias', 'In-Context Learning', 'Pretraining Methods']
 ---
 The rapid evolution of large language models (LLMs) holds promise for
 reforming the methodology of spatio-temporal data mining. However, current

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liskavets2025task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13374"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13374'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 The rise of Large Language Models (LLMs) has led to significant interest in
 prompt compression, a technique aimed at reducing the length of input prompts

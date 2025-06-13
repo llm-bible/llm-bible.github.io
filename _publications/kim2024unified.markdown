@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00943"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00943'}
 tags: ['Tools']
 ---
 This paper introduces Evalverse, a novel library that streamlines the

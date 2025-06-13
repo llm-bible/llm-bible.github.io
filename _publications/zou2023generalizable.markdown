@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zou2023generalizable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06692"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06692'}
 tags: ['Prompting']
 ---
 Large language models (LLMs) have unveiled remarkable reasoning capabilities

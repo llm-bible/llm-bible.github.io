@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kawarada2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02466"}
-tags: ['Applications', 'Prompting', 'Language Modeling']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02466'}
+tags: ['Prompting', 'Language Modeling', 'Applications']
 ---
 Large language models (LLMs) have been applied to a wide range of
 data-to-text generation tasks, including tables, graphs, and time-series

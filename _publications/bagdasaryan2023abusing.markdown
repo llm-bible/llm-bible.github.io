@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bagdasaryan2023abusing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.10490"}
-tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.10490'}
+tags: ['GPT', 'Security', 'Prompting', 'Model Architecture']
 ---
 We demonstrate how images and sounds can be used for indirect prompt and
 instruction injection in multi-modal LLMs. An attacker generates an adversarial

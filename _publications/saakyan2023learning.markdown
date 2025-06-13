@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: saakyan2023learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08583"}
-tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Interpretability', 'In-Context Learning', 'Few-Shot', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08583'}
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Efficiency and Optimization', 'Distillation', 'Prompting', 'Ethics and Bias', 'Interpretability', 'In-Context Learning']
 ---
 While state-of-the-art large language models (LLMs) can excel at adapting
 text from one style to another, current work does not address the

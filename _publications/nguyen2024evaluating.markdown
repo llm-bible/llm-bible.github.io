@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.13802"}
-  - {name: "Code", url: "https://github.com/aitomatic/semikong"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.13802'}
+  - {name: "Code", url: 'https://github.com/aitomatic/semikong'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated the potential to address some
 issues within the semiconductor industry. However, they are often

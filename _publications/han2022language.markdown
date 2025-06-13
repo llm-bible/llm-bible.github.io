@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: han2022language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.02691"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.02691'}
+tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Training Techniques', 'BERT', 'Pre-Training', 'Pretraining Methods']
 ---
 Transformers are widely used in NLP tasks. However, current approaches to
 leveraging transformers to understand language expose one weak spot: Number

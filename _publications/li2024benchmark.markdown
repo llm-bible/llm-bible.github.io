@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.18174"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.18174'}
 tags: ['Agentic', 'Tools']
 ---
 Recent advancements have underscored the potential of large language model

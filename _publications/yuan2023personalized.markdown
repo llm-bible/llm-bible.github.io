@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yuan2023personalized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17257"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17257'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 With the rapid development of large language models, AI assistants like
 ChatGPT have become increasingly integrated into people's works and lives but

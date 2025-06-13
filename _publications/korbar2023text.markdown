@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: korbar2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.11897"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.11897'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper we present a text-conditioned video resampler (TCR) module that
 uses a pre-trained and frozen visual encoder and large language model (LLM) to

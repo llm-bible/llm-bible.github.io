@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: atuhurra2024leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.00693"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.00693'}
+tags: ['RAG', 'Applications', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The emergence of large language models (LLM) and, consequently, vision
 language models (VLM) has ignited new imaginations among robotics researchers.

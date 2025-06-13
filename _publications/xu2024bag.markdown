@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024bag
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09324"}
-  - {name: "Code", url: "https://github.com/usail-hkust/JailTrickBench"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09324'}
+  - {name: "Code", url: 'https://github.com/usail-hkust/JailTrickBench'}
+tags: ['Has Code', 'RAG', 'Security', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Although Large Language Models (LLMs) have demonstrated significant
 capabilities in executing complex tasks in a zero-shot manner, they are

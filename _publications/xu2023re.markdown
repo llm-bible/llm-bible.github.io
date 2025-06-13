@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023re
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06275"}
-  - {name: "Code", url: "https://github.com/Tebmer/Rereading-LLM-Reasoning/"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06275'}
+  - {name: "Code", url: 'https://github.com/Tebmer/Rereading-LLM-Reasoning/'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 To enhance the reasoning capabilities of off-the-shelf Large Language Models
 (LLMs), we introduce a simple, yet general and effective prompting method, Re2,

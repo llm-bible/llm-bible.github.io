@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: mercorio2024disce
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17535"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17535'}
 tags: ['Applications']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly

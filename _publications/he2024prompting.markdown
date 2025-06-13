@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: he2024prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04512"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Quantization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04512'}
+tags: ['Few-Shot', 'RAG', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Quantization', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Objective: This paper aims to prompt large language models (LLMs) for
 clinical temporal relation extraction (CTRE) in both few-shot and fully

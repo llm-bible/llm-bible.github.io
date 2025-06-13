@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14036"}
-  - {name: "Code", url: "https://github.com/ChristianYang37/chiwun/tree/main/src/NTK-Attention"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14036'}
+  - {name: "Code", url: 'https://github.com/ChristianYang37/chiwun/tree/main/src/NTK-Attention'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Prompting and context-based fine-tuning methods, which we call Prefix
 Learning, have been proposed to enhance the performance of language models on

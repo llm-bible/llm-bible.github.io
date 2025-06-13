@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: noukhovitch2024asynchronous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18252"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18252'}
+tags: ['Reinforcement Learning', 'Security', 'Efficiency and Optimization', 'Training Techniques']
 ---
 The dominant paradigm for RLHF is online and on-policy RL: synchronously
 generating from the large language model (LLM) policy, labelling with a reward

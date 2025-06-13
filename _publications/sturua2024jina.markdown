@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sturua2024jina
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.10173"}
-tags: ['Fine-Tuning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.10173'}
+tags: ['Reinforcement Learning', 'Fine-Tuning']
 ---
 We introduce jina-embeddings-v3, a novel text embedding model with 570
 million parameters, achieves state-of-the-art performance on multilingual data

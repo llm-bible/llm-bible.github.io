@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024quantizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12065"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12065'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Quantization', 'Applications']
 ---
 Large Language Models (LLMs) face significant deployment challenges due to
 their substantial memory requirements and the computational demands of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20774"}
-tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20774'}
+tags: ['Security', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 In line with the principle of honesty, there has been a growing effort to
 train large language models (LLMs) to generate outputs containing epistemic

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023get
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.06867"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.06867'}
 tags: ['RAG', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting methods have enabled large language models

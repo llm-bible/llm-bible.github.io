@@ -6,8 +6,8 @@ conference: "2024 12th International Conference on Affective Computing and Intel
 year: 2024
 bibkey: chochlakis2024strong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17125"}
-tags: ['Pre-Training', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17125'}
+tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'Pre-Training', 'In-Context Learning']
 ---
 In-context Learning (ICL) has emerged as a powerful paradigm for performing
 natural language tasks with Large Language Models (LLM) without updating the

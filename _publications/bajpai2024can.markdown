@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: bajpai2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.14037"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.14037'}
 tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) and AI assistants driven by these models are

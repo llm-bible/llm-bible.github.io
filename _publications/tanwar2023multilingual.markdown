@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: tanwar2023multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.05940"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.05940'}
 tags: ['Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) unfolds as large language models become capable of

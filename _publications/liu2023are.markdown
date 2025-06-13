@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.08591"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.08591'}
 tags: ['Applications']
 ---
 Large language models (LLMs) are highly adept at question answering and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: pudipeddi2020training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.05645"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.05645'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Widely popular transformer-based NLP models such as BERT and Turing-NLG have
 enormous capacity trending to billions of parameters. Current execution methods

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: pride2023core
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.04683"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.04683'}
+tags: ['Arxiv', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 In this paper, we present CORE-GPT, a novel question-answering platform that
 combines GPT-based language models and more than 32 million full-text open

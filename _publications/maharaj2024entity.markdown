@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: maharaj2024entity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.14748"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.14748'}
+tags: ['Applications', 'Tools']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced their ability to understand both natural language and code, driving

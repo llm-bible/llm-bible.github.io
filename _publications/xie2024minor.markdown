@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024minor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10642"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10642'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Applications']
 ---
 Instruct LLM provide a paradigm used in large scale language model to align
 LLM to human preference. The paradigm contains supervised fine tuning and

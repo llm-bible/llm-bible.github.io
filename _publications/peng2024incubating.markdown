@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024incubating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.10877"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.10877'}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Prompting', 'GPT']
 ---
 In this paper, we aim to generate text classification data given arbitrary
 class definitions (i.e., user instruction), so one can train a small text

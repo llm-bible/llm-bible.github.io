@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023take
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06117"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06117'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 We present Step-Back Prompting, a simple prompting technique that enables
 LLMs to do abstractions to derive high-level concepts and first principles from

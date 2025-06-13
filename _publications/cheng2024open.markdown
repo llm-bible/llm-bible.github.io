@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cheng2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18243"}
-tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18243'}
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Despite advancements in Large Language Models (LLMs) and Large Multimodal
 Models (LMMs), their integration into language-grounded, human-like embodied

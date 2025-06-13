@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: johnson2024primer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04503"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04503'}
 tags: ['Applications']
 ---
 This paper provides a primer on Large Language Models (LLMs) and identifies

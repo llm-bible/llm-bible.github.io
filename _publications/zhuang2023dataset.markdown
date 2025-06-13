@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhuang2023dataset
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.13304"}
-tags: ['Pre-Training', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.13304'}
+tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pre-Training']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance in
 various NLP tasks, but they still suffer from challenges such as hallucination

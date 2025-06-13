@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: li2025reflection
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.02631"}
-tags: ['Tools', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.02631'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Human-AI collaborative tools attract attentions from the data storytelling
 community to lower the barrier of expertise and streamline the workflow. The

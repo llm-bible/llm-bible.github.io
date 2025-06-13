@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: buehler2024preference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12375"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12375'}
+tags: ['Agentic', 'Language Modeling', 'Efficiency and Optimization', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
 ---
 PRefLexOR (Preference-based Recursive Language Modeling for Exploratory
 Optimization of Reasoning) combines preference optimization with concepts from

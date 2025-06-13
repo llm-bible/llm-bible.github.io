@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10223"}
-  - {name: "Code", url: "https://github.com/GCYZSL/O3-LLM-UNLEARNING"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Merging', 'Reinforcement Learning', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10223'}
+  - {name: "Code", url: 'https://github.com/GCYZSL/O3-LLM-UNLEARNING'}
+tags: ['Has Code', 'Security', 'Tools', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI']
 ---
 While large language models have demonstrated impressive performance across
 various domains and tasks, their security issues have become increasingly

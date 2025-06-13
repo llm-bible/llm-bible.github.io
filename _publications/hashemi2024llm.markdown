@@ -6,7 +6,7 @@ conference: "Proceedings of ACL 2024 (Volume 1 Long Papers) pp. 13806-13834"
 year: 2024
 bibkey: hashemi2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00274"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00274'}
 tags: ['Training Techniques', 'Prompting', 'Applications', 'Tools']
 ---
 This paper introduces a framework for the automated evaluation of natural

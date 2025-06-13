@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.13538"}
-  - {name: "Code", url: "https://github.com/yangzhch6/AlignedCoT"}
-tags: ['Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.13538'}
+  - {name: "Code", url: 'https://github.com/yangzhch6/AlignedCoT'}
+tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models prompting, such as using in-context demonstrations, is
 a mainstream technique for invoking LLMs to perform high-performance and solid

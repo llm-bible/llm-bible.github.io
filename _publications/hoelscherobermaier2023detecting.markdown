@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hoelscherobermaier2023detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.17553"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.17553'}
 tags: ['Training Techniques']
 ---
 Recent model editing techniques promise to mitigate the problem of memorizing

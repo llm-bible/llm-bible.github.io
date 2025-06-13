@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: bonifacio2022data
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2202.05144"}
-  - {name: "Code", url: "https://github.com/zetaalphavector/inpars"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2202.05144'}
+  - {name: "Code", url: 'https://github.com/zetaalphavector/inpars'}
+tags: ['Has Code', 'Transformer', 'Few-Shot', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The information retrieval community has recently witnessed a revolution due
 to large pretrained transformer models. Another key ingredient for this

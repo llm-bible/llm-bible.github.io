@@ -6,8 +6,8 @@ conference: "11th International Conference on Affective Computing and Intelligen
 year: 2023
 bibkey: yongsatianchot2023next
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18322"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18322'}
+tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLM) have recently been shown to perform well at
 various tasks from language understanding, reasoning, storytelling, and

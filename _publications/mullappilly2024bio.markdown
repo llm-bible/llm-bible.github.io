@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: mullappilly2024bio
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07769"}
-  - {name: "Code", url: "https://github.com/mbzuai-oryx/BiMediX2"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07769'}
+  - {name: "Code", url: 'https://github.com/mbzuai-oryx/BiMediX2'}
+tags: ['Has Code', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This paper introduces BiMediX2, a bilingual (Arabic-English) Bio-Medical
 EXpert Large Multimodal Model (LMM) with a unified architecture that integrates

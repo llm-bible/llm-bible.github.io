@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.16418"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.16418'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities across
 various tasks, leveraging advanced reasoning. Yet, they struggle with

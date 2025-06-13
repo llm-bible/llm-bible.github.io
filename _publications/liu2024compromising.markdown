@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024compromising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02882"}
-tags: ['Agentic', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02882'}
+tags: ['Agentic', 'Language Modeling', 'Security', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have transformed the development of embodied
 intelligence. By providing a few contextual demonstrations, developers can

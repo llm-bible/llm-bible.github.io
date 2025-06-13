@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ramji2024inductive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17819"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17819'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Evaluating large language models (LLMs) on their linguistic reasoning
 capabilities is an important task to understand the gaps in their skills that

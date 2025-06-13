@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024scaling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.19705"}
-  - {name: "Code", url: "https://github.com/CAS-SIAT-XinHai/CollectiveSFT"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.19705'}
+  - {name: "Code", url: 'https://github.com/CAS-SIAT-XinHai/CollectiveSFT'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 The rapid progress in Large Language Models (LLMs) has prompted the creation
 of numerous benchmarks to evaluate their capabilities.This study focuses on the

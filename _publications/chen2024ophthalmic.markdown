@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024ophthalmic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.00840"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.00840'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 Artificial intelligence (AI) has gained significant attention in healthcare
 consultation due to its potential to improve clinical workflow and enhance

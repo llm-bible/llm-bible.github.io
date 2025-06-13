@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rahn2024controlling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00244"}
-tags: ['Fine-Tuning', 'Agentic', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00244'}
+tags: ['Agentic', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 The rise of large language models (LLMs) has prompted increasing interest in
 their use as in-context learning agents. At the core of agentic behavior is the

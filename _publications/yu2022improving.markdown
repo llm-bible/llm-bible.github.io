@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: yu2022improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2211.16773"}
-tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2211.16773'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Agentic', 'Training Techniques']
 ---
 In task-oriented dialogs (TOD), reinforcement learning (RL) algorithms train
 a model to directly optimize response for task-related metrics. However, RL

@@ -6,8 +6,8 @@ conference: "EMNLP CustomNLP4U 2024"
 year: 2024
 bibkey: zhu2024trustful
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.07870"}
-tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.07870'}
+tags: ['Language Modeling', 'RAG', 'Security', 'GPT', 'Model Architecture', 'Applications']
 ---
 Although people are impressed by the content generation skills of large
 language models, the use of LLMs, such as ChatGPT, is limited by the domain

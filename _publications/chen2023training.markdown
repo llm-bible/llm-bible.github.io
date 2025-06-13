@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.08701"}
-tags: ['Fine-Tuning', 'Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.08701'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Model Architecture', 'GPT']
 ---
 Large language models (LLMs) strengthen instruction-following capability
 through instruction-finetuning (IFT) on supervised instruction/response data.

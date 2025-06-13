@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: singh2024robustness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.08989"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Security', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.08989'}
+tags: ['Security', 'BERT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Having a clean dataset has been the foundational assumption of most natural
 language processing (NLP) systems. However, properly written text is rarely

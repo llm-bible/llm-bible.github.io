@@ -6,8 +6,8 @@ conference: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/e0e95668
 year: 2024
 bibkey: dutta2024accuracy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09141"}
-tags: ['Efficiency and Optimization', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09141'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Quantization']
 ---
 When Large Language Models (LLMs) are compressed using techniques such as
 quantization, the predominant way to demonstrate the validity of such

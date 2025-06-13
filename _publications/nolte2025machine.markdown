@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nolte2025machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01630"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01630'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT']
 ---
 Does GPT know you? The answer depends on your level of public recognition;
 however, if your information was available on a website, the answer is probably

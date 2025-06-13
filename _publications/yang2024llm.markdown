@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05464"}
-tags: ['Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05464'}
+tags: ['Agentic', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 Accurate and efficient question-answering systems are essential for
 delivering high-quality patient care in the medical field. While Large Language

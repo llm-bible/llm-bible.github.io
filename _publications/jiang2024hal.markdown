@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024hal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.15721"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.15721'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Large Vision Language Models exhibit remarkable capabilities but struggle
 with hallucinations inconsistencies between images and their descriptions.

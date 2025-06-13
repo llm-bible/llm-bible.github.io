@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: khaokaew2023interactive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.16242"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.16242'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Reinforcement Learning']
 ---
 This paper explores the intersection of technology and sleep pattern
 comprehension, presenting a cutting-edge two-stage framework that harnesses the

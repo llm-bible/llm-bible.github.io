@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: hao2024training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06769"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06769'}
 tags: ['Training Techniques']
 ---
 Large language models (LLMs) are restricted to reason in the "language

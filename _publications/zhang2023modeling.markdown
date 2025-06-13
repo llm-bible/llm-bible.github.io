@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.01626"}
-tags: ['Training Techniques', 'BERT', 'Pre-Training', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.01626'}
+tags: ['Training Techniques', 'Pre-Training', 'BERT', 'Model Architecture']
 ---
 Recently multi-lingual pre-trained language models (PLM) such as mBERT and
 XLM-R have achieved impressive strides in cross-lingual dense retrieval.

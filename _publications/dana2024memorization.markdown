@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dana2024memorization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10115"}
-tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10115'}
+tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent research has explored the memorization capacity of multi-head
 attention, but these findings are constrained by unrealistic limitations on the

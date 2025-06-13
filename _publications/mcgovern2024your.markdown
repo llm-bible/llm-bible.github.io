@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mcgovern2024your
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.14057"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.14057'}
+tags: ['Arxiv', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 It has been shown that finetuned transformers and other supervised detectors
 effectively distinguish between human and machine-generated text in some

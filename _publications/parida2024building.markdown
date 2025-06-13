@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: parida2024building
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09855"}
-tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09855'}
+tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning', 'Applications']
 ---
 Large language models (LLMs) demonstrated transformative capabilities in many
 applications that require automatically generating responses based on human

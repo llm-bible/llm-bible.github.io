@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pang2024anchor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.07616"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07616'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) predominantly employ decoder-only transformer
 architectures, necessitating the retention of keys/values information for

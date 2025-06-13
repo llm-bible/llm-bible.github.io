@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024quantized
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07159"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07159'}
 tags: ['RAG', 'Training Techniques']
 ---
 Finetuning large language models (LLMs) has been empirically effective on a

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024harnessing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.15650"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.15650'}
+tags: ['Transformer', 'RAG', 'Security', 'Model Architecture', 'Applications', 'Training Techniques', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Text classification is crucial for applications such as sentiment analysis
 and toxic text filtering, but it still faces challenges due to the complexity

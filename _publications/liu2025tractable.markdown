@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025tractable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.07616"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.07616'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 Non-autoregressive (NAR) generative models are valuable because they can
 handle diverse conditional generation tasks in a more principled way than their

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.10323"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.10323'}
 tags: ['Prompting']
 ---
 Most public instruction finetuning datasets are relatively small compared to

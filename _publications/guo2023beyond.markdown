@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04072"}
-tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04072'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Alignment with human preference is a desired property of large language
 models (LLMs). Currently, the main alignment approach is based on reinforcement

@@ -6,8 +6,8 @@ conference: "JMIR Form Res 2024;8e58418"
 year: 2024
 bibkey: so2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17428"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17428'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Background: Advancements in large language models (LLMs) have opened new
 possibilities in psychiatric interviews, an underexplored area where LLMs could

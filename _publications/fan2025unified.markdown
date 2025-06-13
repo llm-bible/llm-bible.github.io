@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.13436"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.13436'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 We present UniFluid, a unified autoregressive framework for joint visual
 generation and understanding leveraging continuous visual tokens. Our unified

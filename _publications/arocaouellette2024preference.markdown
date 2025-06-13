@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: arocaouellette2024preference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06273"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06273'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Accommodating human preferences is essential for creating AI agents that
 deliver personalized and effective interactions. Recent work has shown the

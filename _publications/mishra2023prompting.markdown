@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: mishra2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11790"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11790'}
 tags: ['RAG', 'Prompting']
 ---
 Prompting with natural language instructions has recently emerged as a

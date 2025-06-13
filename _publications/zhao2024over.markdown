@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024over
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17334"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17334'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advances in Iterative Vision-and-Language Navigation (IVLN) introduce
 a more meaningful and practical paradigm of VLN by maintaining the agent's

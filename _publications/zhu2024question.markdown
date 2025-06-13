@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024question
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07817"}
-  - {name: "Code", url: "https://github.com/NJUNLP/QAlign"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07817'}
+  - {name: "Code", url: 'https://github.com/NJUNLP/QAlign'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Training Techniques']
 ---
 Large language models show compelling performance on reasoning tasks but they
 tend to perform much worse in languages other than English. This is

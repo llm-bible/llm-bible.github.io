@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zheng2025spurious
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13453"}
-tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13453'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Recent advancements in large language models (LLMs) reveal a perplexing
 phenomenon in continual learning: despite extensive training, models experience

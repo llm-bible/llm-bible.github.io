@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: pegolotti2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.03738"}
-  - {name: "Code", url: "https://github.com/IST-DASLab/QIGen"}
-tags: ['Model Architecture', 'Has Code', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.03738'}
+  - {name: "Code", url: 'https://github.com/IST-DASLab/QIGen'}
+tags: ['Reinforcement Learning', 'Has Code', 'Applications', 'Model Architecture']
 ---
 We present ongoing work on a new automatic code generation approach for
 supporting quantized generative inference on LLMs such as LLaMA or OPT on

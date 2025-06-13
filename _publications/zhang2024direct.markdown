@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01258"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01258'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Preference modeling techniques, such as direct preference optimization (DPO),
 has shown effective in enhancing the generalization abilities of large language

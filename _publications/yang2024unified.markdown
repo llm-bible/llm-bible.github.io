@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20916"}
-  - {name: "Code", url: "https://github.com/NeuSpeech/NeuGPT}{NeuSpeech/NeuGPT"}
-  - {name: "Code", url: "https://github.com/NeuSpeech/NeuGPT)"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20916'}
+  - {name: "Code", url: 'https://github.com/NeuSpeech/NeuGPT}{NeuSpeech/NeuGPT'}
+  - {name: "Code", url: 'https://github.com/NeuSpeech/NeuGPT)'}
 tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 This paper introduces NeuGPT, a groundbreaking multi-modal language

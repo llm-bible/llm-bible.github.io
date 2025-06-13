@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024diagnose
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.01751"}
-  - {name: "Code", url: "https://github.com/cxcscmu/RAGViz"}
-  - {name: "Code", url: "https://youtu.be/cTAbuTu6ur4"}
-tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.01751'}
+  - {name: "Code", url: 'https://github.com/cxcscmu/RAGViz'}
+  - {name: "Code", url: 'https://youtu.be/cTAbuTu6ur4'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 Retrieval-augmented generation (RAG) combines knowledge from domain-specific
 sources into large language models to ground answer generation. Current RAG

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: sultan2024scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.01139"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.01139'}
 tags: ['RAG', 'Training Techniques', 'Merging']
 ---
 Analogy-making is central to human cognition, allowing us to adapt to novel

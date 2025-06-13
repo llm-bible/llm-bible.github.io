@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024large
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2402.09176v1"}
-tags: ['Training Techniques', 'RecSys']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2402.09176v1'}
+tags: ['RecSys', 'Training Techniques']
 ---
 Recommending cold items is a long-standing challenge for collaborative
 filtering models because these cold items lack historical user interactions to

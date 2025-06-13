@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01866"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01866'}
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 The rapid pace of large-scale software development places increasing demands
 on traditional testing methodologies, often leading to bottlenecks in

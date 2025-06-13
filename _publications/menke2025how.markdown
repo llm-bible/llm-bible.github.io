@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: menke2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17365"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17365'}
 tags: ['Responsible AI', 'Model Architecture']
 ---
 Recent incidents highlight safety risks in Large Language Models (LLMs),

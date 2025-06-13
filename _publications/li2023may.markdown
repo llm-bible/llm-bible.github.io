@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023may
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.06161"}
-tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.06161'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The BigCode community, an open-scientific collaboration working on the
 responsible development of Large Language Models for Code (Code LLMs),

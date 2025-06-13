@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: salewski2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.05043"}
-  - {name: "Code", url: "https://github.com/ExplainableML/ZS-A2T"}
-tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.05043'}
+  - {name: "Code", url: 'https://github.com/ExplainableML/ZS-A2T'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Prompting', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Converting a model's internals to text can yield human-understandable
 insights about the model. Inspired by the recent success of training-free

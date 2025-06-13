@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: park2024toward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15107"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15107'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Reinforcement Learning']
 ---
 Retrieval Augmented Language Models (RALMs) have gained significant attention
 for their ability to generate accurate answer and improve efficiency. However,

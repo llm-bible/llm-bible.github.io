@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gao2023retrieval
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2312.10997v5"}
-tags: ['RAG', 'Tools', 'Survey Paper', 'Reinforcement Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2312.10997v5'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools', 'Survey Paper']
 ---
 Large Language Models (LLMs) showcase impressive capabilities but encounter
 challenges like hallucination, outdated knowledge, and non-transparent,

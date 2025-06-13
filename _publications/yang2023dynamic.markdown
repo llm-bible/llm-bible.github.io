@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.05295"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.05295'}
+tags: ['Transformer', 'SLT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Quantization', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance on a
 range of Natural Language Processing (NLP) tasks. Unfortunately, the immense

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: chen2025adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01090"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01090'}
 tags: ['Reinforcement Learning']
 ---
 Chinese literary classics hold significant cultural and educational value,

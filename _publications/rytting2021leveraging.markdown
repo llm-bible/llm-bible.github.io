@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: rytting2021leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.02370"}
-tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.02370'}
+tags: ['RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large natural language models (such as GPT-3 or T5) demonstrate impressive
 abilities across a range of general NLP tasks. Here, we show that the knowledge

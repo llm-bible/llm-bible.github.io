@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024yulan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17743"}
-  - {name: "Code", url: "https://github.com/RUC-GSAI/YuLan-Mini"}
-tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17743'}
+  - {name: "Code", url: 'https://github.com/RUC-GSAI/YuLan-Mini'}
+tags: ['Pre-Training', 'Has Code', 'Efficiency and Optimization', 'Training Techniques']
 ---
 Effective pre-training of large language models (LLMs) has been challenging
 due to the immense resource demands and the complexity of the technical

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024defending
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06363"}
-  - {name: "Code", url: "https://github.com/Sizhe-Chen/StruQ"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06363'}
+  - {name: "Code", url: 'https://github.com/Sizhe-Chen/StruQ'}
+tags: ['Has Code', 'Security', 'Training Techniques', 'Applications', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in Large Language Models (LLMs) enable exciting
 LLM-integrated applications, which perform text-based tasks by utilizing their

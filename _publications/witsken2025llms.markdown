@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: witsken2025llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.18995"}
-tags: ['BERT', 'Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.18995'}
+tags: ['GPT', 'BERT', 'Tools', 'Model Architecture']
 ---
 We randomly deploy questions constructed with and without use of the LLM tool
 and gauge the ability of the students to correctly answer, as well as their

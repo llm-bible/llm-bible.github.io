@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.23798"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.23798'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Various layer-skipping methods have been proposed to accelerate token
 generation in large language models (LLMs). However, they have overlooked a

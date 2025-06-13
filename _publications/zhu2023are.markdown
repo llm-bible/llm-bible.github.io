@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18783"}
-tags: ['Training Techniques', 'Survey Paper', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18783'}
+tags: ['Training Techniques', 'Applications', 'Survey Paper']
 ---
 Narrative understanding involves capturing the author's cognitive processes,
 providing insights into their knowledge, intentions, beliefs, and desires.

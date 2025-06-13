@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: su2025parametric
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.15915"}
-  - {name: "Code", url: "https://github.com/oneal2000/PRAG"}
-tags: ['RAG', 'Efficiency and Optimization', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.15915'}
+  - {name: "Code", url: 'https://github.com/oneal2000/PRAG'}
+tags: ['RAG', 'Has Code', 'Efficiency and Optimization']
 ---
 Retrieval-augmented generation (RAG) techniques have emerged as a promising
 solution to enhance the reliability of large language models (LLMs) by

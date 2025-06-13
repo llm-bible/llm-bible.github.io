@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: handa2023help
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10637"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10637'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 Teachers' growth mindset supportive language (GMSL)--rhetoric emphasizing
 that one's skills can be improved over time--has been shown to significantly

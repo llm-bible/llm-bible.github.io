@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024direct
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11199"}
-tags: ['Interpretability and Explainability', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11199'}
+tags: ['Prompting', 'Interpretability and Explainability', 'Applications']
 ---
 Large language models (LLMs) demonstrate strong reasoning abilities when
 prompted to generate chain-of-thought (CoT) explanations alongside answers.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: tay2022transcending
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2210.11399v2"}
-tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2210.11399v2'}
+tags: ['Large-Scale Training', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques', 'Scaling Laws', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
 ---
 Scaling language models improves performance but comes with significant
 computational costs. This paper proposes UL2R, a method that substantially

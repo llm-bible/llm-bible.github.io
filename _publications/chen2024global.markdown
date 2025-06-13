@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024global
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.04788"}
-tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.04788'}
+tags: ['Reinforcement Learning', 'RAG', 'Efficiency and Optimization', 'Tools']
 ---
 Efficiently deploying large language models (LLMs) in real-world scenarios
 remains a critical challenge, primarily due to hardware heterogeneity,

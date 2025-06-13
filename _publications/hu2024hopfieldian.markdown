@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024hopfieldian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12255"}
-tags: ['Interpretability and Explainability', 'Few-Shot', 'Tools', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12255'}
+tags: ['Few-Shot', 'Interpretability and Explainability', 'Prompting', 'Tools']
 ---
 Chain-of-Thought (CoT) holds a significant place in augmenting the reasoning
 performance for large language models (LLMs). While some studies focus on

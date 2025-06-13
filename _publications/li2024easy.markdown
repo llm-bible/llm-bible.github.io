@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024easy
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09775"}
-tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09775'}
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Ethics and Bias', 'Interpretability']
 ---
 Recently, there has been a growing trend of employing large language models
 (LLMs) to judge the quality of other LLMs. Many studies have adopted

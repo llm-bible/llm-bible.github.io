@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: choi2025revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02877"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02877'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models, which suffer from high computational
 costs, advance so quickly that techniques proposed to streamline earlier

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lau2024diversity
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.15238"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.15238'}
+tags: ['Training Techniques', 'Prompting', 'Tools', 'Merging']
 ---
 Large Language Models still encounter substantial challenges in reasoning
 tasks, especially for smaller models, which many users may be restricted to due

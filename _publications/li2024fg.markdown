@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024fg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06304"}
-tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06304'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 Hallucinations in large language models (LLMs) pose significant challenges in
 tasks requiring complex multi-step reasoning, such as mathematical

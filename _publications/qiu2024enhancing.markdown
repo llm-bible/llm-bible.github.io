@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.04735"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.04735'}
 tags: ['RAG', 'Multimodal Models', 'Applications']
 ---
 Vision-extended LLMs have made significant strides in Visual Question

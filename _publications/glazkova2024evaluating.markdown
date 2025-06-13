@@ -6,8 +6,8 @@ conference: "2024 Ivannikov Ispras Open Conference (ISPRAS) Moscow Russian Feder
 year: 2024
 bibkey: glazkova2024evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14896"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14896'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) play a crucial role in natural language
 processing (NLP) tasks, improving the understanding, generation, and

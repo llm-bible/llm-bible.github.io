@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: kim2025one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.01996"}
-tags: ['Training Techniques', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.01996'}
+tags: ['Reinforcement Learning', 'Training Techniques', 'Merging']
 ---
 We present ONERULER, a multilingual benchmark designed to evaluate
 long-context language models across 26 languages. ONERULER adapts the

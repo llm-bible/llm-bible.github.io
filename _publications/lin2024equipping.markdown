@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024equipping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.01470"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Merging', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.01470'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Reinforcement learning from human feedback (RLHF) is a popular strategy for
 aligning large language models (LLMs) with desired behaviors. Reward modeling

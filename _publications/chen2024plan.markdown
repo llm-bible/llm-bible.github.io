@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024plan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23875"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23875'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Efficiency and Optimization', 'Applications']
 ---
 Large Language Models (LLMs) have shown remarkable reasoning capabilities on
 complex tasks, but they still suffer from out-of-date knowledge,

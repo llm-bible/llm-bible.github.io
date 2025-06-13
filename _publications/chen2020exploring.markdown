@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: chen2020exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.10033"}
-tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.10033'}
+tags: ['Agentic', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Query reformulation aims to alter noisy or ambiguous text sequences into
 coherent ones closer to natural language questions. This is to prevent errors

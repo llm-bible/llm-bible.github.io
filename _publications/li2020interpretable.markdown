@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020interpretable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.14645"}
-tags: ['Interpretability and Explainability', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.14645'}
+tags: ['Interpretability and Explainability', 'Applications', 'Tools']
 ---
 End-to-end neural networks have achieved promising performances in natural
 language generation (NLG). However, they are treated as black boxes and lack

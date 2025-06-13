@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yin2025best
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04606"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04606'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in text-to-video (T2V) generation have been driven by two
 competing paradigms: autoregressive language models and diffusion models.

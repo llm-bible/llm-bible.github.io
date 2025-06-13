@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: estornell2024acc
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00053"}
-tags: ['Tools', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00053'}
+tags: ['Reinforcement Learning', 'Agentic', 'Tools']
 ---
 Large language models (LLMs) have demonstrated a remarkable ability to serve
 as general-purpose tools for various language-based tasks. Recent works have

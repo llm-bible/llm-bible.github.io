@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shu2023fusion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09204"}
-tags: ['RAG', 'Merging', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09204'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Merging']
 ---
 Evaluating natural language systems poses significant challenges,
 particularly in the realms of natural language understanding and high-level

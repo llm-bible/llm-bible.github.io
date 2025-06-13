@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lee2023can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13788"}
-  - {name: "Code", url: "https://github.com/xfactlab/emnlp2023-LLM-Disagreement"}
-tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'EMNLP', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13788'}
+  - {name: "Code", url: 'https://github.com/xfactlab/emnlp2023-LLM-Disagreement'}
+tags: ['Has Code', 'Training Techniques', 'EMNLP', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown impressive achievements in solving a
 broad range of tasks. Augmented by instruction fine-tuning, LLMs have also been

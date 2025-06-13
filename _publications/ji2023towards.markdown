@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ji2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06271"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06271'}
 tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have shown promise for generative and

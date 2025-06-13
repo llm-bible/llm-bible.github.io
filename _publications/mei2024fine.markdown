@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mei2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02684"}
-tags: ['Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02684'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 As Large Language Models (LLMs) grow increasingly powerful, ensuring their
 safety and alignment with human values remains a critical challenge. Ideally,

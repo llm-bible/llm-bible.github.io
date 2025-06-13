@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: po2024low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.05413"}
-  - {name: "Code", url: "https://github.com/cityuhkai/SBoRA"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.05413'}
+  - {name: "Code", url: 'https://github.com/cityuhkai/SBoRA'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces Standard Basis LoRA (SBoRA), a novel
 parameter-efficient fine-tuning approach for Large Language Models that builds

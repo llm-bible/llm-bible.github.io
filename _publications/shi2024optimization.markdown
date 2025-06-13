@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shi2024optimization
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.17710"}
-  - {name: "Code", url: "https://github.com/ShiJiawenwen/JudgeDeceiver"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.17710'}
+  - {name: "Code", url: 'https://github.com/ShiJiawenwen/JudgeDeceiver'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Security', 'Applications', 'Prompting', 'Reinforcement Learning']
 ---
 LLM-as-a-Judge uses a large language model (LLM) to select the best response
 from a set of candidates for a given question. LLM-as-a-Judge has many

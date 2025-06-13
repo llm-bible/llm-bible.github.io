@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ozaki2025text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.18269"}
-tags: ['Interpretability and Explainability', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.18269'}
+tags: ['Prompting', 'Interpretability and Explainability']
 ---
 Generating images from prompts containing specific entities requires models
 to retain as much entity-specific knowledge as possible. However, fully

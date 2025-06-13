@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lin2024mala
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13303"}
-tags: ['RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.13303'}
+tags: ['RAG', 'Training Techniques', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have advanced the state of the art in natural
 language processing. However, their predominant design for English or a limited

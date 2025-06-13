@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: kim2023chain
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.03628"}
-  - {name: "Code", url: "https://github.com/SeungoneKim/CoTEVer"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.03628'}
+  - {name: "Code", url: 'https://github.com/SeungoneKim/CoTEVer'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Applications', 'Prompting', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Chain-of-thought (CoT) prompting enables large language models (LLMs) to
 solve complex reasoning tasks by generating an explanation before the final

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cai2024role
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02892"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02892'}
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 reasoning tasks, yet their reliance on static prompt structures and limited

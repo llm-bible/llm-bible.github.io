@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024vila
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.04429"}
-tags: ['Tools', 'GPT', 'Merging', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.04429'}
+tags: ['Training Techniques', 'Tools', 'GPT', 'Merging', 'Pretraining Methods']
 ---
 VILA-U is a Unified foundation model that integrates Video, Image, Language
 understanding and generation. Traditional visual language models (VLMs) use

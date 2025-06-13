@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: robinson2025framing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.04840"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.04840'}
+tags: ['Reinforcement Learning', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) are increasingly deployed across diverse
 contexts to support decision-making. While existing evaluations effectively

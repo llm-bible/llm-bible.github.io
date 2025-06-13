@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: ravaut2023context
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.10570"}
-  - {name: "Code", url: "https://github.com/ntunlp/MiddleSum"}
-tags: ['Survey Paper', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.10570'}
+  - {name: "Code", url: 'https://github.com/ntunlp/MiddleSum'}
+tags: ['Has Code', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large language models (LLMs) excel in abstractive summarization tasks,
 delivering fluent and pertinent summaries. Recent advancements have extended

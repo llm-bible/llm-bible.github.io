@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: jaiswal2024ffn
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.03865"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.03865'}
 tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Autoregressive Large Language Models (e.g., LLaMa, GPTs) are omnipresent

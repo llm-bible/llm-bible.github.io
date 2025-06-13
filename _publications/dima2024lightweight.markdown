@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dima2024lightweight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04269"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04269'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting']
 ---
 The remarkable achievements obtained by open-source large language models
 (LLMs) in recent years have predominantly been concentrated on tasks involving

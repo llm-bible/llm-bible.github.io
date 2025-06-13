@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: wei2021finetuned
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2109.01652v5"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2109.01652v5'}
 tags: ['Few-Shot', 'GPT', 'Model Architecture']
 ---
 This paper explores a simple method for improving the zero-shot learning

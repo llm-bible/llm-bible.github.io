@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: gao2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10906"}
-  - {name: "Code", url: "https://github.com/NJUNLP/Cross-Lingual-Context-Retrieval"}
-tags: ['Pre-Training', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10906'}
+  - {name: "Code", url: 'https://github.com/NJUNLP/Cross-Lingual-Context-Retrieval'}
+tags: ['Has Code', 'Interpretability and Explainability', 'ACL', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Pre-Training', 'Pretraining Methods']
 ---
 The ability of cross-lingual context retrieval is a fundamental aspect of
 cross-lingual alignment of large language models (LLMs), where the model

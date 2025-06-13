@@ -6,7 +6,7 @@ conference: "Findings of the Association for Computational Linguistics NAACL 202
 year: 2024
 bibkey: purason2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18902"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18902'}
 tags: ['Uncategorized']
 ---
 The advancement of large language models (LLMs) has predominantly focused on

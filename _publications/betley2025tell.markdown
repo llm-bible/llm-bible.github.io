@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: betley2025tell
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11120"}
-tags: ['Responsible AI', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11120'}
+tags: ['Security', 'Responsible AI', 'Training Techniques']
 ---
 We study behavioral self-awareness -- an LLM's ability to articulate its
 behaviors without requiring in-context examples. We finetune LLMs on datasets

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: leng2024long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.03538"}
-tags: ['RAG', 'Survey Paper', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.03538'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications', 'Survey Paper']
 ---
 Retrieval Augmented Generation (RAG) has emerged as a crucial technique for
 enhancing the accuracy of Large Language Models (LLMs) by incorporating

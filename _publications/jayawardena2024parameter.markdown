@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: jayawardena2024parameter
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12596"}
-tags: ['ACL', 'TACL', 'Efficiency and Optimization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12596'}
+tags: ['Distillation', 'Efficiency and Optimization', 'TACL', 'ACL']
 ---
 Over the past year, the field of Natural Language Generation (NLG) has
 experienced an exponential surge, largely due to the introduction of Large

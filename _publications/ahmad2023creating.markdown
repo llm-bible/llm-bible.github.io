@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ahmad2023creating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01463"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01463'}
 tags: ['Ethics and Bias']
 ---
 Large language models have proliferated across multiple domains in as short

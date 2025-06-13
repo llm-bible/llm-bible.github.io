@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: alhafni2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11917"}
-tags: ['COLING', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11917'}
+tags: ['Reinforcement Learning', 'COLING', 'Applications']
 ---
 The role of large language models (LLMs) in education is an increasing area
 of interest today, considering the new opportunities they offer for teaching,

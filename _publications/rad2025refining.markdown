@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rad2025refining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13080"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Survey Paper', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13080'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Security', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Survey Paper', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated powerful capabilities that
 render them valuable in different applications, including conversational AI

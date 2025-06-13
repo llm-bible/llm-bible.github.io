@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024mllm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.10727"}
-  - {name: "Code", url: "https://github.com/MLLM-Tool/MLLM-Tool"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.10727'}
+  - {name: "Code", url: 'https://github.com/MLLM-Tool/MLLM-Tool'}
+tags: ['Agentic', 'Has Code', 'Tools', 'Fine-Tuning', 'Multimodal Models']
 ---
 Recently, the astonishing performance of large language models (LLMs) in
 natural language comprehension and generation tasks triggered lots of

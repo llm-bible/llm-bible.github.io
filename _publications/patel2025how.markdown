@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: patel2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14678"}
-tags: ['Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14678'}
+tags: ['Applications', 'Tools']
 ---
 The pace of evolution of Large Language Models (LLMs) necessitates new
 approaches for rigorous and comprehensive evaluation. Traditional human

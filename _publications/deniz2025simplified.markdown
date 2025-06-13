@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: deniz2025simplified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.14985"}
-tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Security', 'Training Techniques', 'Fairness', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.14985'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Training Techniques', 'GPT', 'Distillation', 'Fairness', 'Bias Mitigation', 'Ethics and Bias', 'Responsible AI']
 ---
 Evaluating Large Language Models (LLMs) for safety and security remains a
 complex task, often requiring users to navigate a fragmented landscape of ad

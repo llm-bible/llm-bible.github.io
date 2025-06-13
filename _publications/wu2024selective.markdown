@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.10059"}
-tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.10059'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Recent advances in retrieval-augmented generation (RAG) have initiated a new
 era in repository-level code completion. However, the invariable use of

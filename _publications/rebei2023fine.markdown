@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: rebei2023fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.02251"}
-tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.02251'}
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Pretraining Methods']
 ---
 The ability to generate SQL queries from natural language has significant
 implications for making data accessible to non-specialists. This paper presents

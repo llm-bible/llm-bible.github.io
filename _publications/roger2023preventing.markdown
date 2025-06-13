@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: roger2023preventing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.18512"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.18512'}
 tags: ['Uncategorized']
 ---
 Large language models (LLMs) often benefit from intermediate steps of

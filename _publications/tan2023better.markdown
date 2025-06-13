@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: tan2023better
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.01114"}
-  - {name: "Code", url: "https://github.com/tyang816/MedChatZH"}
-tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.01114'}
+  - {name: "Code", url: 'https://github.com/tyang816/MedChatZH'}
+tags: ['Has Code', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative large language models (LLMs) have shown great success in various
 applications, including question-answering (QA) and dialogue systems. However,

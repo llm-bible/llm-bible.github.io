@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: louie2024roleplay
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00870"}
-  - {name: "Code", url: "https://roleplay-doh.github.io/"}
-tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00870'}
+  - {name: "Code", url: 'https://roleplay-doh.github.io/'}
+tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent works leverage LLMs to roleplay realistic social scenarios, aiding
 novices in practicing their social skills. However, simulating sensitive

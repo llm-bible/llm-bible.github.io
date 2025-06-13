@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: razavi2025benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.06065"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.06065'}
 tags: ['Prompting']
 ---
 Large language Models (LLMs) are highly sensitive to variations in prompt

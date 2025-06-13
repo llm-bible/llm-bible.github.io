@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025tell
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.01387"}
-tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Security', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.01387'}
+tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'RAG', 'Security', 'Tools', 'Model Architecture', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Interpretability']
 ---
 Although Deep Reinforcement Learning (DRL) and Large Language Models (LLMs)
 each show promise in addressing decision-making challenges in autonomous

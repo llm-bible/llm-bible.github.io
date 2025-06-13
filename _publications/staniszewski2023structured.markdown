@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: staniszewski2023structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.17296"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.17296'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent advancements in long-context large language models have attracted
 significant attention, yet their practical applications often suffer from

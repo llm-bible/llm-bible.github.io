@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fan2025g
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.10367"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.10367'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Due to the limited computational resources, most Large Language Models (LLMs)
 developers can only fine-tune Small Language Models (SLMs) on their own data.

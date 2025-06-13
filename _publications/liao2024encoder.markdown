@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liao2024encoder
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06679"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06679'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 In the realm of Large Language Models (LLMs), the ability to process long
 contexts is increasingly crucial for tasks such as multi-round dialogues, code

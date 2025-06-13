@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: rabbani2025transfer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06863"}
-tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06863'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Tools']
 ---
 Despite the artificial intelligence (AI) revolution, deep learning has yet to
 achieve much success with tabular data due to heterogeneous feature space and

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mushtaque2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01242"}
-tags: ['Transformer', 'Model Architecture', 'RecSys', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01242'}
+tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Model Architecture', 'RecSys', 'Multimodal Models', 'Pretraining Methods']
 ---
 Transformer based models are increasingly being used in various domains
 including recommender systems (RS). Pretrained transformer models such as BERT

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: punjwani2025weight
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10646"}
-tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10646'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable reasoning
 capabilities when prompted with strategies such as Chain-of-Thought (CoT).

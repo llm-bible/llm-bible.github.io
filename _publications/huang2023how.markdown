@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.19847"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.19847'}
+tags: ['SLT', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Pretrained language models (PLMs) have produced substantial improvements in
 discourse-aware neural machine translation (NMT), for example, improved

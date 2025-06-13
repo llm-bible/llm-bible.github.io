@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: singh2025options
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.16111"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.16111'}
+tags: ['Transformer', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Long-context multiple-choice question answering tasks require robust
 reasoning over extensive text sources. Since most of the pre-trained

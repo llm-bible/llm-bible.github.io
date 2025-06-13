@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ventura2023navigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01929"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01929'}
 tags: ['Prompting', 'Applications', 'Merging']
 ---
 Text-To-Image (TTI) models, such as DALL-E and StableDiffusion, have

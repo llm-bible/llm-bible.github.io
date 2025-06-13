@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12787"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12787'}
+tags: ['Language Modeling', 'Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 This study introduces the leveled-text generation task, aiming to rewrite
 educational materials to specific readability levels while preserving meaning.

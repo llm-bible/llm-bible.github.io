@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023dynamic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.13753"}
-tags: ['Ethics and Bias', 'Applications', 'Language Modeling', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.13753'}
+tags: ['Language Modeling', 'Security', 'Applications', 'Training Techniques', 'Ethics and Bias']
 ---
 State-of-the-art neural text generation models are typically trained to
 maximize the likelihood of each token in the ground-truth sequence conditioned

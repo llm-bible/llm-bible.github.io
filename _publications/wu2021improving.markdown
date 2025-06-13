@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: wu2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.05002"}
-tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.05002'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Tools', 'Model Architecture']
 ---
 Extractive Reading Comprehension (ERC) has made tremendous advances enabled
 by the availability of large-scale high-quality ERC training data. Despite of

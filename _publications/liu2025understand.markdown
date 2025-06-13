@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025understand
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15226"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15226'}
 tags: ['Uncategorized']
 ---
 Which large language model (LLM) is better? Every evaluation tells a story,

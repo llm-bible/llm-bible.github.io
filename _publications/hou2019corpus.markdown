@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: hou2019corpus
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.04448"}
-tags: ['Agentic', 'Tools', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.04448'}
+tags: ['Agentic', 'ACL', 'RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'TACL']
 ---
 Recent reinforcement learning algorithms for task-oriented dialogue system
 absorbs a lot of interest. However, an unavoidable obstacle for training such

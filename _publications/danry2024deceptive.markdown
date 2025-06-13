@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: danry2024deceptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.00024"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.00024'}
 tags: ['Interpretability and Explainability']
 ---
 Advanced Artificial Intelligence (AI) systems, specifically large language

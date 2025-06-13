@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: alnuhait2023emotion
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.07316v1"}
-  - {name: "Code", url: "https://github.com/qywu/FaceChat"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.07316v1'}
+  - {name: "Code", url: 'https://github.com/qywu/FaceChat'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 While current dialogue systems like ChatGPT have made significant
 advancements in text-based interactions, they often overlook the potential of

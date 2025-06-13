@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: moon2024find
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.19450"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.19450'}
 tags: ['Uncategorized']
 ---
 One of the key strengths of Large Language Models (LLMs) is their ability to

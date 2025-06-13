@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024preparing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.09192"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.09192'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 The rapid progress of Transformers in artificial intelligence has come at the
 cost of increased resource consumption and greenhouse gas emissions due to

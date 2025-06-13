@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: khan2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.03004"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.03004'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Recently, pre-trained large language models (LLMs) have shown impressive
 abilities in generating codes from natural language descriptions, repairing

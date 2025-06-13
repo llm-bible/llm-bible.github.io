@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: evans2024large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02977"}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02977'}
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture']
 ---
 Our study explores how well the state-of-the-art Large Language Models
 (LLMs), like GPT-4 and Mistral, can assess the quality of scientific summaries

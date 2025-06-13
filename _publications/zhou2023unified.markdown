@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.06791"}
-  - {name: "Code", url: "https://github.com/mightyzau/InfMLLM"}
-tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.06791'}
+  - {name: "Code", url: 'https://github.com/mightyzau/InfMLLM'}
+tags: ['Has Code', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have proven their remarkable versatility in
 handling a comprehensive range of language-centric applications. To expand

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024geb
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.09900"}
-tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.09900'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Quantization']
 ---
 Recently developed large language models (LLMs) such as ChatGPT, Claude, and
 Llama have demonstrated impressive abilities, and even surpass human-level

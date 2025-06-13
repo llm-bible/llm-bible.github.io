@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02442"}
-  - {name: "Code", url: "https://github.com/XXares/TODO"}
-tags: ['RAG', 'Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02442'}
+  - {name: "Code", url: 'https://github.com/XXares/TODO'}
+tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Efficiency and Optimization']
 ---
 Aligning large language models (LLMs) with human intent is critical for
 enhancing their performance across a variety of tasks. Standard alignment

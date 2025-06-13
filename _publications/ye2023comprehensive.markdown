@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023comprehensive
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.10420v2"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Few-Shot']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.10420v2'}
+tags: ['Attention Mechanism', 'Few-Shot', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning']
 ---
 GPT series models, such as GPT-3, CodeX, InstructGPT, ChatGPT, and so on,
 have gained considerable attention due to their exceptional natural language

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: guo2022visually
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.07937"}
-  - {name: "Code", url: "https://github.com/RUCAIBox/VAWI"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.07937'}
+  - {name: "Code", url: 'https://github.com/RUCAIBox/VAWI'}
+tags: ['Has Code', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Although pre-trained language models~(PLMs) have shown impressive performance
 by text-only self-supervised training, they are found lack of visual semantics

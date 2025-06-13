@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: aggarwal2023sample
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.11860"}
-  - {name: "Code", url: "https://www.sample-step-by-step.info"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.11860'}
+  - {name: "Code", url: 'https://www.sample-step-by-step.info'}
 tags: ['RAG', 'Has Code', 'Applications']
 ---
 A popular approach for improving the correctness of output from large

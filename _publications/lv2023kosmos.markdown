@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lv2023kosmos
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11419"}
-  - {name: "Code", url: "https://aka.ms/kosmos25"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11419'}
+  - {name: "Code", url: 'https://aka.ms/kosmos25'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The automatic reading of text-intensive images represents a significant
 advancement toward achieving Artificial General Intelligence (AGI). In this

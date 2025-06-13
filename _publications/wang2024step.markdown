@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024step
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.02210"}
-tags: ['Fine-Tuning', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.02210'}
+tags: ['Few-Shot', 'Fine-Tuning', 'Multimodal Models']
 ---
 Compositional visual reasoning methods, which translate a complex query into
 a structured composition of feasible visual tasks, have exhibited a strong

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022dq
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2203.11239"}
-tags: ['Applications', 'Efficiency and Optimization', 'Quantization', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2203.11239'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'Quantization']
 ---
 Large-scale pre-trained sequence-to-sequence models like BART and T5 achieve
 state-of-the-art performance on many generative NLP tasks. However, such models

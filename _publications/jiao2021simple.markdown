@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: jiao2021simple
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.06418"}
-tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.06418'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'BERT', 'Model Architecture']
 ---
 The multilingual pre-trained language models (e.g, mBERT, XLM and XLM-R) have
 shown impressive performance on cross-lingual natural language understanding

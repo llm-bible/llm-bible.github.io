@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kowsher2024token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02402"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02402'}
 tags: ['RAG', 'Tools']
 ---
 Conversational modeling using Large Language Models (LLMs) requires a nuanced

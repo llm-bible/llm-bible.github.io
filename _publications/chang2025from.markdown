@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chang2025from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07114"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07114'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Pretraining Methods']
 ---
 With the rapid adoption of LLM-based chatbots, there is a pressing need to
 evaluate what humans and LLMs can achieve together. However, standard

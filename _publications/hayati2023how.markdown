@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hayati2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09799"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09799'}
 tags: ['RAG', 'Prompting']
 ---
 Collecting diverse human opinions is costly and challenging. This leads to a

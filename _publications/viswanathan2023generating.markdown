@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: viswanathan2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.12261"}
-  - {name: "Code", url: "https://github.com/neulab/prompt2model"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12261'}
+  - {name: "Code", url: 'https://github.com/neulab/prompt2model'}
+tags: ['Has Code', 'Few-Shot', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) enable system builders today to create competent
 NLP systems through prompting, where they only need to describe the task in

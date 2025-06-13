@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024spread
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.04412"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.04412'}
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 Aligning large language models (LLMs) with human preferences becomes a key
 component to obtaining state-of-the-art performance, but it yields a huge cost

@@ -6,8 +6,8 @@ conference: "CHI 25 Proceedings of the 2025 CHI Conference on Human Factors in C
 year: 2024
 bibkey: song2024fostering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09662"}
-tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09662'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Tools']
 ---
 Expressing stressful experiences in words is proven to improve mental and
 physical health, but individuals often disengage with writing interventions as

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhao2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19808"}
-tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19808'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 As large language models (LLMs) become increasingly advanced, their ability
 to exhibit compositional generalization -- the capacity to combine learned

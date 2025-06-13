@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: jeong2023chatbot
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16233"}
-  - {name: "Code", url: "https://github.com/srafsasm/InfoRichBot"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16233'}
+  - {name: "Code", url: 'https://github.com/srafsasm/InfoRichBot'}
+tags: ['Agentic', 'Has Code', 'RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Recent Large Language Models (LLMs) have shown remarkable capabilities in
 mimicking fictional characters or real humans in conversational settings.

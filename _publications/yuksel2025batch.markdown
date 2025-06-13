@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: yuksel2025batch
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.04315"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/ChamaleonLLM/"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.04315'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/ChamaleonLLM/'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) have shown remarkable
 performance across diverse tasks. However, these models are typically deployed

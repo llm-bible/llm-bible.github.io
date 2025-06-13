@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023paradigm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.11674"}
-tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.11674'}
+tags: ['RAG', 'WMT', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative Large Language Models (LLMs) have achieved remarkable advancements
 in various NLP tasks. However, these advances have not been reflected in the

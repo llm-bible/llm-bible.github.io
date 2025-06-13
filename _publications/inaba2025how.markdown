@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: inaba2025how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06394"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06394'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) demonstrate remarkable multilingual capabilities
 and broad knowledge. However, the internal mechanisms underlying the

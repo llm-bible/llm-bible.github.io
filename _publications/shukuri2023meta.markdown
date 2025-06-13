@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shukuri2023meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.13715"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.13715'}
 tags: ['Applications']
 ---
 Utilizing Large Language Models (LLMs) facilitates the creation of flexible

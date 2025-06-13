@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zou2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10701"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10701'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Recently, there has been a growing interest among large language model (LLM)
 developers in LLM-based document reading systems, which enable users to upload

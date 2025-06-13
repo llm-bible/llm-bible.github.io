@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhou2022learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.16865"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.16865'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Explicit decomposition modeling, which involves breaking down complex tasks
 into more straightforward and often more interpretable sub-tasks, has long been

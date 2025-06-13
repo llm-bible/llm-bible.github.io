@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yu2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07745"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07745'}
+tags: ['Agentic', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite powerful text generation capabilities, large language models (LLMs)
 still need to learn how to utilize external tools to solve complex tasks, a

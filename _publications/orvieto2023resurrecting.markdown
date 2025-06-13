@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: orvieto2023resurrecting
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2303.06349v1"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Tools']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2303.06349v1'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 Recurrent Neural Networks (RNNs) offer fast inference on long sequences but
 are hard to optimize and slow to train. Deep state-space models (SSMs) have

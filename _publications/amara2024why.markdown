@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: amara2024why
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01690"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01690'}
+tags: ['Reinforcement Learning', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 The various limitations of Generative AI, such as hallucinations and model
 failures, have made it crucial to understand the role of different modalities

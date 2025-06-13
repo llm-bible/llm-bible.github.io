@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lai2024align
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.06754"}
-  - {name: "Code", url: "https://ALaRM-fdu.github.io"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.06754'}
+  - {name: "Code", url: 'https://ALaRM-fdu.github.io'}
+tags: ['Agentic', 'Has Code', 'Language Modeling', 'Model Architecture', 'Applications', 'Tools', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 We introduce ALaRM, the first framework modeling hierarchical rewards in
 reinforcement learning from human feedback (RLHF), which is designed to enhance

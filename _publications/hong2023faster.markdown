@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hong2023faster
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.01282"}
-tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.01282'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
 ---
 As the Large Language Model (LLM) becomes increasingly important in various
 domains. However, the following challenges still remain unsolved in

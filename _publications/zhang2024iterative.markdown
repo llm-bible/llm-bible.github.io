@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11290"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/ITEM-B486/"}
-tags: ['RAG', 'Tools', 'Has Code', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11290'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/ITEM-B486/'}
+tags: ['RAG', 'Has Code', 'Applications', 'Tools']
 ---
 Utility and topical relevance are critical measures in information retrieval
 (IR), reflecting system and user perspectives, respectively. While topical

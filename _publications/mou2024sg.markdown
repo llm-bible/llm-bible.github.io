@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mou2024sg
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21965"}
-tags: ['Responsible AI', 'Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21965'}
+tags: ['Few-Shot', 'Applications', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Ensuring the safety of large language model (LLM) applications is essential
 for developing trustworthy artificial intelligence. Current LLM safety

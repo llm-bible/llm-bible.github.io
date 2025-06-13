@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: younsi2025accurate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19981"}
-tags: ['RAG', 'Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19981'}
+tags: ['Reinforcement Learning', 'RAG', 'Agentic']
 ---
 Achieving both accuracy and diverse reasoning remains challenging for Large
 Language Models (LLMs) in complex domains like mathematics. A key bottleneck is

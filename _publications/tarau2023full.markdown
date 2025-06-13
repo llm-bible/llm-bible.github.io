@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: tarau2023full
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.14077"}
-tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'ACL', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.14077'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'ACL', 'Applications', 'Fine-Tuning', 'Prompting']
 ---
 We automate deep step-by step reasoning in an LLM dialog thread by
 recursively exploring alternatives (OR-nodes) and expanding details (AND-nodes)

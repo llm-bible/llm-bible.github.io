@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: sarkar2025conversational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16789"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16789'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Human-LLM conversations are increasingly becoming more pervasive in peoples'
 professional and personal lives, yet many users still struggle to elicit

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: elements2024plamo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.07563"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.07563'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We introduce PLaMo-100B, a large-scale language model designed for Japanese
 proficiency. The model was trained from scratch using 2 trillion tokens, with

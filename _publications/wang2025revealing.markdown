@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025revealing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.14838"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.14838'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Large Language Models have demonstrated superior performance across a wide
 range of tasks, but they still exhibit undesirable errors due to incorrect

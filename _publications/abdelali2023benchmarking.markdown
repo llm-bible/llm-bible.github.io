@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: abdelali2023benchmarking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14982"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14982'}
 tags: ['Few-Shot', 'GPT', 'Model Architecture']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly

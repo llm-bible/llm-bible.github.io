@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liang2024integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06203"}
-tags: ['Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06203'}
+tags: ['Language Modeling', 'RAG', 'Applications', 'Training Techniques', 'Prompting']
 ---
 Generating high-quality, in-depth textual documents, such as academic papers,
 news articles, Wikipedia entries, and books, remains a significant challenge

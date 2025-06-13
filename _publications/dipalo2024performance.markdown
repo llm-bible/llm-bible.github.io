@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dipalo2024performance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.05045"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.05045'}
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'BERT', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) face significant challenges at inference time
 due to their high computational demands. To address this, we present

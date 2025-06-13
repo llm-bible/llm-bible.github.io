@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sugiharto2023relative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.03429"}
-tags: ['Transformer', 'Tools', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.03429'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 The Attention module finds common usage in language modeling, presenting
 distinct challenges within the broader scope of Natural Language Processing.

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2019
 bibkey: hardalov2019beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1908.01519"}
-tags: ['Training Techniques', 'BERT', 'Pre-Training', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1908.01519'}
+tags: ['Training Techniques', 'Pre-Training', 'BERT', 'Model Architecture']
 ---
 Recently, reading comprehension models achieved near-human performance on
 large-scale datasets such as SQuAD, CoQA, MS Macro, RACE, etc. This is largely

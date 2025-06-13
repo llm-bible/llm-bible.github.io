@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024ensembling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.12746"}
-  - {name: "Code", url: "https://github.com/limiaoyu/DietCoke"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.12746'}
+  - {name: "Code", url: 'https://github.com/limiaoyu/DietCoke'}
 tags: ['Has Code', 'Merging']
 ---
 Knowledge-based Visual Question-answering (K-VQA) often requires the use of

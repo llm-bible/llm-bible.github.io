@@ -6,8 +6,8 @@ conference: "KnowledgeNLP@ACL 2024"
 year: 2024
 bibkey: hwang2024document
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.03627"}
-tags: ['RAG', 'Training Techniques', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.03627'}
+tags: ['Training Techniques', 'RAG', 'Tools']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 improved their performance across various Natural Language Processing (NLP)

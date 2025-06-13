@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zubkova2025leveraging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.04899"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.04899'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Bearing in mind the limited parametric knowledge of Large Language Models
 (LLMs), retrieval-augmented generation (RAG) which supplies them with the

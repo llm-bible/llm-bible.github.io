@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: santilli2023italian
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.16456"}
-  - {name: "Code", url: "https://github.com/teelinsan/camoscio"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.16456'}
+  - {name: "Code", url: 'https://github.com/teelinsan/camoscio'}
+tags: ['Has Code', 'Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 In recent years Large Language Models (LLMs) have increased the state of the
 art on several natural language processing tasks. However, their accessibility

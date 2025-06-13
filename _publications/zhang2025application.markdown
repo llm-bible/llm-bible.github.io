@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhang2025application
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20068"}
-tags: ['Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20068'}
+tags: ['Agentic', 'Tools', 'Applications']
 ---
 The integration of Large Language Models (LLMs) into diverse applications,
 ranging from interactive chatbots and cloud AIOps to intelligent agents, has

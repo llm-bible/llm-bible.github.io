@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bhattarai2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.05159"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.05159'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 We introduce a novel method to enhance cross-language code translation from
 Fortran to C++ by integrating task-specific embedding alignment into a

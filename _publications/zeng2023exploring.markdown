@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06714"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06714'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown great capabilities in various tasks
 but also exhibited memorization of training data, raising tremendous privacy

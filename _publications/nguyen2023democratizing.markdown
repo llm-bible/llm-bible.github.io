@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: nguyen2023democratizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11372"}
-tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11372'}
+tags: ['Few-Shot', 'RAG', 'GPT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models (LLMs) are known to effectively perform tasks by simply
 observing few exemplars. However, in low-resource languages, obtaining such

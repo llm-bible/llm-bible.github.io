@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: white2022mixed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.01749"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.01749'}
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Language use differs dramatically from context to context. To some degree,
 modern language models like GPT-3 are able to account for such variance by

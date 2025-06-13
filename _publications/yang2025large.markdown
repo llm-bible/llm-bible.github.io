@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yang2025large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.19444"}
-tags: ['Pre-Training', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.19444'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training']
 ---
 Pre-trained code models rely heavily on high-quality pre-training data,
 particularly human-written reference comments that bridge code and natural

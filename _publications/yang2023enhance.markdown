@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023enhance
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13267"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13267'}
 tags: ['Prompting']
 ---
 Pre-trained visual language models (VLM) have shown excellent performance in

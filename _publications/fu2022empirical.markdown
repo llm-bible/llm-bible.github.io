@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: fu2022empirical
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2209.01540"}
-tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2209.01540'}
+tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Masked visual modeling (MVM) has been recently proven effective for visual
 pre-training. While similar reconstructive objectives on video inputs (e.g.,

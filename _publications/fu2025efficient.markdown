@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fu2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11809"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11809'}
+tags: ['Training Techniques', 'Reinforcement Learning', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Simultaneous speech translation (SimulST) produces translations incrementally
 while processing partial speech input. Although large language models (LLMs)

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ruiz2025temporal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.07646"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.07646'}
 tags: ['Training Techniques']
 ---
 The applicability of Large Language Models (LLMs) in temporal reasoning tasks

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: phung2023automating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.03780"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.03780'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Generative AI and large language models hold great promise in enhancing
 programming education by automatically generating individualized feedback for

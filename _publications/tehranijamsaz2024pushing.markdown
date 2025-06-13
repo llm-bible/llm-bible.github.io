@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tehranijamsaz2024pushing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.20527"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.20527'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have renewed interest in
 automatic programming language translation. Encoder-decoder transformer models,

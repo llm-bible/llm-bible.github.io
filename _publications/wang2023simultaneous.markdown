@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023simultaneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.06706"}
-tags: ['Efficiency and Optimization', 'Applications', 'TACL', 'Reinforcement Learning', 'ACL', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.06706'}
+tags: ['ACL', 'Efficiency and Optimization', 'Security', 'Applications', 'Reinforcement Learning', 'TACL']
 ---
 Real-world simultaneous machine translation (SimulMT) systems face more
 challenges than just the quality-latency trade-off. They also need to address

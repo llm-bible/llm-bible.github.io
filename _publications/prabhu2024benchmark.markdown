@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: prabhu2024benchmark
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.17158"}
-  - {name: "Code", url: "https://github.com/VenkteshV/DEXTER"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.17158'}
+  - {name: "Code", url: 'https://github.com/VenkteshV/DEXTER'}
 tags: ['Has Code', 'Applications']
 ---
 Open-domain complex Question Answering (QA) is a difficult task with

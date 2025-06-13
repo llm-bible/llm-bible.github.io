@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: guo2024bias
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.10915"}
-tags: ['Responsible AI', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.10915'}
+tags: ['Applications', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 but their susceptibility to biases poses significant challenges. This

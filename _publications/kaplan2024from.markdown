@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kaplan2024from
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05864"}
-tags: ['Security', 'Training Techniques', 'Tokenization', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05864'}
+tags: ['Reinforcement Learning', 'Security', 'Tokenization', 'Training Techniques']
 ---
 Natural language is composed of words, but modern large language models
 (LLMs) process sub-words as input. A natural question raised by this

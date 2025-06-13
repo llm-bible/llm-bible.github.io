@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: cahyawijaya2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16512"}
-  - {name: "Code", url: "https://github.com/SamuelCahyawijaya/in-context-alignment"}
-tags: ['Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16512'}
+  - {name: "Code", url: 'https://github.com/SamuelCahyawijaya/in-context-alignment'}
+tags: ['Has Code', 'Few-Shot', 'Prompting', 'Reinforcement Learning', 'In-Context Learning']
 ---
 In-context learning (ICL) empowers large language models (LLMs) to perform
 diverse tasks in underrepresented languages using only short in-context

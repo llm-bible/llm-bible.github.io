@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: gilabert2024mt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.11615"}
-tags: ['Tools', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.11615'}
+tags: ['Security', 'Applications', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 We introduce MT-LENS, a framework designed to evaluate Machine Translation
 (MT) systems across a variety of tasks, including translation quality, gender

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: joshi2025towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.10077"}
-tags: ['Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.10077'}
+tags: ['Reinforcement Learning', 'Prompting']
 ---
 Commonsense reasoning deals with the implicit knowledge that is well
 understood by humans and typically acquired via interactions with the world. In

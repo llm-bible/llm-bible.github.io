@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhan2025multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.15954"}
-tags: ['Tools', 'Applications', 'RAG', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.15954'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Objective: To optimize in-context learning in biomedical natural language
 processing by improving example selection. Methods: We introduce a novel

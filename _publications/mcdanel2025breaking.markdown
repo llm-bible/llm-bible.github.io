@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: mcdanel2025breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.01572"}
-tags: ['Tools', 'Efficiency and Optimization', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.01572'}
+tags: ['Efficiency and Optimization', 'Applications', 'Tools']
 ---
 Speculative decoding accelerates large language model inference by using
 smaller draft models to generate candidate tokens for parallel verification.

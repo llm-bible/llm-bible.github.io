@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: kong2018fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1809.09296"}
-tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1809.09296'}
+tags: ['Transformer', 'SLT', 'WMT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Mixture of Softmaxes (MoS) has been shown to be effective at addressing the
 expressiveness limitation of Softmax-based models. Despite the known advantage,

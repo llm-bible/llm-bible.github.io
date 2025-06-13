@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: zhong2025bootstrapping
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.18858"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.18858'}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 complex reasoning tasks, yet generating reliable reasoning processes remains a

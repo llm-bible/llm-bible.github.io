@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: huang2024autonomous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.08987"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.08987'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multi-objective optimization problems (MOPs) are ubiquitous in real-world
 applications, presenting a complex challenge of balancing multiple conflicting

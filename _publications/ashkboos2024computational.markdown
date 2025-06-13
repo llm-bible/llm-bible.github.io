@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ashkboos2024computational
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.19456"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.19456'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
 ---
 While large language models (LLMs) dominate the AI landscape, Small-scale
 large Language Models (SLMs) are gaining attention due to cost and efficiency

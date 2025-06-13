@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiu2023single
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.00450v2"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.00450v2'}
+tags: ['Attention Mechanism', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Developing specialized dialogue systems for mental health support requires
 multi-turn conversation data, which has recently garnered increasing attention.

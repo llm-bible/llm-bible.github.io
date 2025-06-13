@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: chu2025integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16013"}
-tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16013'}
+tags: ['Model Architecture', 'Applications', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Flexible instruction-guided 6-DoF grasping is a significant yet challenging
 task for real-world robotic systems. Existing methods utilize the contextual

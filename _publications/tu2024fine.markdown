@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tu2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14809"}
-tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14809'}
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable effectiveness across
 various domains, with data augmentation methods utilizing GPT for synthetic

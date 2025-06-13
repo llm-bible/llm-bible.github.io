@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.06762"}
-tags: ['Responsible AI', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.06762'}
+tags: ['Reinforcement Learning', 'Applications', 'Responsible AI', 'Training Techniques']
 ---
 Aligned large language models (LLMs) demonstrate exceptional capabilities in
 task-solving, following instructions, and ensuring safety. However, the

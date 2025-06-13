@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: benaddi2024model
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.00049"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.00049'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'Tools', 'GPT']
 ---
 A chatbot is an intelligent software application that automates conversations
 and engages users in natural language through messaging platforms. Leveraging

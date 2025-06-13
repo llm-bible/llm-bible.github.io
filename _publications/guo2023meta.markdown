@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023meta
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.14592"}
-  - {name: "Code", url: "http://github.com/octaviaguo/Style-LLM"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14592'}
+  - {name: "Code", url: 'http://github.com/octaviaguo/Style-LLM'}
+tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Language style is often used by writers to convey their intentions,
 identities, and mastery of language. In this paper, we show that current large

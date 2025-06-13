@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lin2025generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.02810"}
-tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.02810'}
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 With powerful large language models (LLMs) demonstrating superhuman reasoning
 capabilities, a critical question arises: Do LLMs genuinely reason, or do they

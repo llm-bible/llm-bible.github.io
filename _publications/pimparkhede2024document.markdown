@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pimparkhede2024document
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.11925"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.11925'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent developments show that Large Language Models (LLMs) produce
 state-of-the-art performance on natural language (NL) to code generation for

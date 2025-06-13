@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: vaidya2025analysis
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.13912"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.13912'}
+tags: ['Reinforcement Learning', 'Responsible AI', 'Training Techniques']
 ---
 This report evaluates the performance of text-in text-out Large Language
 Models (LLMs) to understand and generate Indic languages. This evaluation is

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: biedma2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.12744"}
-tags: ['Responsible AI', 'Training Techniques', 'RAG', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.12744'}
+tags: ['Training Techniques', 'RAG', 'Responsible AI', 'Tools']
 ---
 Recent advancements in Large Language Models (LLMs) have revolutionized the
 AI field but also pose potential safety and ethical risks. Deciphering LLMs'

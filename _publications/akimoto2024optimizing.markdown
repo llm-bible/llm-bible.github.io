@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: akimoto2024optimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.12325"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.12325'}
 tags: ['Training Techniques']
 ---
 In this paper, we address the challenge of optimizing training setups for

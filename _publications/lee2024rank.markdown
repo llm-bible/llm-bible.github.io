@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: lee2024rank
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.01129"}
-  - {name: "Code", url: "https://github.com/aiha-lab/RILQ"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.01129'}
+  - {name: "Code", url: 'https://github.com/aiha-lab/RILQ'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Merging', 'Quantization', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Low-rank adaptation (LoRA) has become the dominant method for
 parameter-efficient LLM fine-tuning, with LoRA-based quantization error

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: qiao2023code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17541"}
-  - {name: "Code", url: "https://github.com/microsoft/TaskWeaver/"}
-tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Agent', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17541'}
+  - {name: "Code", url: 'https://github.com/microsoft/TaskWeaver/'}
+tags: ['Agentic', 'Has Code', 'Agent', 'RAG', 'Security', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown impressive abilities in natural
 language understanding and generation, leading to their widespread use in

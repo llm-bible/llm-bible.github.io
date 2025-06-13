@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: li2021versatile
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.05692"}
-tags: ['Transformer', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.05692'}
+tags: ['Multimodal Models', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 User interface modeling is inherently multimodal, which involves several
 distinct types of data: images, structures and language. The tasks are also

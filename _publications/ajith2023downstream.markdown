@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ajith2023downstream
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09816"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09816'}
 tags: ['RAG', 'Applications']
 ---
 Watermarking involves implanting an imperceptible signal into generated text

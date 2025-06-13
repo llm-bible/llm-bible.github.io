@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024cost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14574"}
-tags: ['Fine-Tuning', 'Agentic', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14574'}
+tags: ['Agentic', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recently, as Large Language Models (LLMs) have shown impressive emerging
 capabilities and gained widespread popularity, research on LLM-based search

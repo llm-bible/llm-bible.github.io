@@ -6,8 +6,8 @@ conference: "Findings of ACL 2023 pp. 13152-13168"
 year: 2022
 bibkey: dong2022code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10754"}
-tags: ['Tools', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10754'}
+tags: ['Reinforcement Learning', 'Prompting', 'Tools']
 ---
 Story generation and understanding -- as with all NLG/NLU tasks -- has seen a
 surge in neurosymbolic work. Researchers have recognized that, while large

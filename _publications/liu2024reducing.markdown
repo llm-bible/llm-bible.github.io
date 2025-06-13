@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024reducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15778"}
-tags: ['Multimodal Models', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15778'}
+tags: ['Reinforcement Learning', 'Multimodal Models', 'Applications']
 ---
 Hallucination poses a challenge to the deployment of large vision-language
 models (LVLMs) in applications. Unlike in large language models (LLMs),

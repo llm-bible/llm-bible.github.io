@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: haziza2025accelerating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16672"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16672'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we demonstrate how to leverage 2:4 sparsity, a popular
 hardware-accelerated GPU sparsity pattern, to activations to accelerate large

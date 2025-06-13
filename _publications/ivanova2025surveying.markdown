@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ivanova2025surveying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.05008"}
-tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.05008'}
+tags: ['Tools', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
 ---
 The rapid development of AI-driven tools, particularly large language models
 (LLMs), is reshaping professional writing. Still, key aspects of their adoption

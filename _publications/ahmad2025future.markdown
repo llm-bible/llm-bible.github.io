@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ahmad2025future
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.05487"}
-tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.05487'}
+tags: ['GPT', 'Tools', 'Applications', 'Model Architecture', 'Merging']
 ---
 The field of Artificial Intelligence (AI) continues to drive transformative
 innovations, with significant progress in conversational interfaces, autonomous

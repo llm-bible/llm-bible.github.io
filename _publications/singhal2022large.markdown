@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: singhal2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.13138"}
-tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.13138'}
+tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 natural language understanding and generation, but the quality bar for medical

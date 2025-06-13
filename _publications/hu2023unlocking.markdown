@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.09821"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.09821'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 Dialogue systems and large language models (LLMs) have gained considerable
 attention. However, the direct utilization of LLMs as task-oriented dialogue

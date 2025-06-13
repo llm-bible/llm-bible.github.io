@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: schubert2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03969"}
-tags: ['Agentic', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03969'}
+tags: ['Reinforcement Learning', 'Agentic', 'Prompting', 'In-Context Learning']
 ---
 We study the in-context learning dynamics of large language models (LLMs)
 using three instrumental learning tasks adapted from cognitive psychology. We

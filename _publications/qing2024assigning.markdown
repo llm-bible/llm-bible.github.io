@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: qing2024assigning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10054"}
-  - {name: "Code", url: "https://github.com/morelife2017/alphalora"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10054'}
+  - {name: "Code", url: 'https://github.com/morelife2017/alphalora'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Parameter-efficient fine-tuning methods, such as Low-Rank Adaptation (LoRA),
 are known to enhance training efficiency in Large Language Models (LLMs). Due

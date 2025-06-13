@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: abramov2025grokking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.20752"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.20752'}
 tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have achieved great success in numerous NLP tasks but continue

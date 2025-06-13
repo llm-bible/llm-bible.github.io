@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hui2024upcycling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.01610"}
-tags: ['Training Techniques', 'Efficiency and Optimization', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.01610'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Merging']
 ---
 Mixture-of-Experts (MoE) shines brightly in large language models (LLMs) and
 demonstrates outstanding performance in plentiful natural language processing

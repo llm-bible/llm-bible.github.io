@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02255"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02255'}
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) and Large Multimodal Models (LMMs) exhibit
 impressive problem-solving skills in many tasks and domains, but their ability

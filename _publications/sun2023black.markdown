@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023black
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.07032"}
-  - {name: "Code", url: "https://github.com/forangel2014/ExpNote"}
-tags: ['Training Techniques', 'Has Code', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.07032'}
+  - {name: "Code", url: 'https://github.com/forangel2014/ExpNote'}
+tags: ['Has Code', 'Tools', 'Training Techniques']
 ---
 Black-box Large Language Models (LLMs) have shown great power in solving
 various tasks and are considered general problem solvers. However, LLMs still

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: han2023one
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03700"}
-  - {name: "Code", url: "https://github.com/csuhan/OneLLM"}
-tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03700'}
+  - {name: "Code", url: 'https://github.com/csuhan/OneLLM'}
+tags: ['Attention Mechanism', 'Has Code', 'RAG', 'Model Architecture', 'Applications', 'Tools', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) have gained significant attention
 due to their strong multimodal understanding capability. However, existing

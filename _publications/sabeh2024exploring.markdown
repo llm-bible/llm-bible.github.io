@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sabeh2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12695"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12695'}
+tags: ['Training Techniques', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Product attribute value identification (PAVI) involves automatically
 identifying attributes and their values from product information, enabling

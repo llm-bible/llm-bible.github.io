@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024debiasing
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2403.05262v2"}
-tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2403.05262v2'}
+tags: ['Fairness', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 In the realms of computer vision and natural language processing, Large
 Vision-Language Models (LVLMs) have become indispensable tools, proficient in

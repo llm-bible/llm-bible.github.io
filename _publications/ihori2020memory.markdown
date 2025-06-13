@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: ihori2020memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.15437"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.15437'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 This paper presents a novel fusion method for integrating an external
 language model (LM) into the Transformer based sequence-to-sequence (seq2seq)

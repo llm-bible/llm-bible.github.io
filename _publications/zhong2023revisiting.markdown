@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhong2023revisiting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15273"}
-tags: ['RAG', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15273'}
+tags: ['Masked Language Model', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
 ---
 Token dropping is a recently-proposed strategy to speed up the pretraining of
 masked language models, such as BERT, by skipping the computation of a subset

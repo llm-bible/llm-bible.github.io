@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pantazopoulos2024lost
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13594"}
-tags: ['Training Techniques', 'Prompting', 'Applications', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13594'}
+tags: ['Prompting', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 An effective method for combining frozen large language models (LLM) and
 visual encoders involves a resampler module that creates a `visual prompt'

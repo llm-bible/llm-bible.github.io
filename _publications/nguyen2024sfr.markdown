@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: nguyen2024sfr
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.09916"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.09916'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT']
 ---
 Retrieval Augmented Generation (RAG), a paradigm that integrates external
 contextual information with large language models (LLMs) to enhance factual

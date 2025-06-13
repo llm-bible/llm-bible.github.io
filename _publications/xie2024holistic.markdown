@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xie2024holistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.12659"}
-  - {name: "Code", url: "https://github.com/The-FinAI/PIXIU"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'IJCAI', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.12659'}
+  - {name: "Code", url: 'https://github.com/The-FinAI/PIXIU'}
+tags: ['Agentic', 'Has Code', 'Language Modeling', 'RAG', 'IJCAI', 'Model Architecture', 'Tools', 'GPT', 'Applications']
 ---
 LLMs have transformed NLP and shown promise in various fields, yet their
 potential in finance is underexplored due to a lack of comprehensive evaluation

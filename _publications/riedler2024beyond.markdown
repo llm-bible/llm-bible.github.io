@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: riedler2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.21943"}
-tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.21943'}
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 answering questions, but they lack domain-specific knowledge and are prone to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23841"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23841'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction-following capabilities in LLMs have progressed significantly,
 enabling more complex user interactions through detailed prompts. However,

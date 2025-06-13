@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ravanelli2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00463"}
-tags: ['INTERSPEECH', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00463'}
+tags: ['INTERSPEECH', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
 ---
 SpeechBrain is an open-source Conversational AI toolkit based on PyTorch,
 focused particularly on speech processing tasks such as speech recognition,

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023paralinguistics
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15316"}
-tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15316'}
+tags: ['Language Modeling', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Multimodal Models', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated superior abilities in tasks
 such as chatting, reasoning, and question-answering. However, standard LLMs may

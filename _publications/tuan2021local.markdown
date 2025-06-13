@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: tuan2021local
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.06528"}
-tags: ['Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.06528'}
+tags: ['Attention Mechanism', 'Language Modeling', 'Interpretability and Explainability', 'Model Architecture', 'Applications', 'Ethics and Bias']
 ---
 In comparison to the interpretation of classification models, the explanation
 of sequence generation models is also an important problem, however it has seen

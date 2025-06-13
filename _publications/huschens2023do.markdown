@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: huschens2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.02524"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.02524'}
 tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 This paper examines how individuals perceive the credibility of content

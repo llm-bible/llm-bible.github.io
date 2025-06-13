@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kempt2023appropriateness
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14553"}
-tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14553'}
+tags: ['GPT', 'Applications', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Responsible AI']
 ---
 The strive to make AI applications "safe" has led to the development of
 safety-measures as the main or even sole normative requirement of their

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023editing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13172"}
-  - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
-tags: ['Fine-Tuning', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13172'}
+  - {name: "Code", url: 'https://github.com/zjunlp/EasyEdit'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Has Code']
 ---
 Despite the ability to train capable LLMs, the methodology for maintaining
 their relevancy and rectifying errors remains elusive. To this end, the past

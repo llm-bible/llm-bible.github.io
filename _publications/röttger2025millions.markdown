@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: röttger2025millions
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.08395"}
-tags: ['Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.08395'}
+tags: ['Ethics and Bias', 'Prompting']
 ---
 Large language models (LLMs) are helping millions of users write texts about
 diverse issues, and in doing so expose users to different ideas and

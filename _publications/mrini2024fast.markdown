@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: mrini2024fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08639"}
-  - {name: "Code", url: "https://github.com/tiktok/fast_prompt_alignment"}
-tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08639'}
+  - {name: "Code", url: 'https://github.com/tiktok/fast_prompt_alignment'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Text-to-image generation has advanced rapidly, yet aligning complex textual
 prompts with generated visuals remains challenging, especially with intricate

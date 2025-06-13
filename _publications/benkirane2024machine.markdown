@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: benkirane2024machine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.16470"}
-tags: ['RAG', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.16470'}
+tags: ['Reinforcement Learning', 'RAG', 'Applications']
 ---
 Recent advancements in massively multilingual machine translation systems
 have significantly enhanced translation accuracy; however, even the best

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: dao2025enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.11001"}
-tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Security']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.11001'}
+tags: ['Agentic', 'RAG', 'Security', 'Tools', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) improves Large Language Model (LLM)
 performance on knowledge-intensive tasks but depends heavily on initial search

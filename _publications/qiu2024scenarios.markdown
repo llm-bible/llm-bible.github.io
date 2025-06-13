@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: qiu2024scenarios
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.05035"}
-tags: ['Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.05035'}
+tags: ['Prompting', 'Interpretability and Explainability', 'In-Context Learning']
 ---
 Large language models (LLMs) can be used to generate natural language
 explanations (NLE) that are adapted to different users' situations. However,

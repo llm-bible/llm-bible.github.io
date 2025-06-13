@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.01798"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.01798'}
 tags: ['Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have emerged as a groundbreaking technology with

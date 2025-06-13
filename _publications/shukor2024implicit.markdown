@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: shukor2024implicit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.16700"}
-  - {name: "Code", url: "https://github.com/mshukor/ima-lmms"}
-tags: ['Multimodal Models', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.16700'}
+  - {name: "Code", url: 'https://github.com/mshukor/ima-lmms'}
+tags: ['Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance on
 multimodal tasks, without any multimodal finetuning. They are the building

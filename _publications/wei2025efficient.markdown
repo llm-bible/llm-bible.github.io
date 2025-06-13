@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: wei2025efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.05142"}
-  - {name: "Code", url: "https://github.com/Joinn99/RocketEval-ICLR"}
-tags: ['GPT', 'ICLR', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.05142'}
+  - {name: "Code", url: 'https://github.com/Joinn99/RocketEval-ICLR'}
+tags: ['Has Code', 'RAG', 'Security', 'Model Architecture', 'GPT', 'Ethics and Bias', 'ICLR']
 ---
 Evaluating large language models (LLMs) in diverse and challenging scenarios
 is essential to align them with human preferences. To mitigate the prohibitive

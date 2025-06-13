@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024forewarned
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.16736"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.16736'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large language models (LLMs) have significantly benefited from training on
 diverse, high-quality task-specific data, leading to impressive performance

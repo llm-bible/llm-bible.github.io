@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: li2020multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.12829"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.12829'}
+tags: ['Attention Mechanism', 'Language Modeling', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Multimodal Models']
 ---
 We present a simple yet effective approach to build multilingual
 speech-to-text (ST) translation by efficient transfer learning from pretrained

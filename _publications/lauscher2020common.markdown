@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: lauscher2020common
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.11787"}
-  - {name: "Code", url: "https://github.com/wluper/retrograph"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.11787'}
+  - {name: "Code", url: 'https://github.com/wluper/retrograph'}
+tags: ['Has Code', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Following the major success of neural language models (LMs) such as BERT or
 GPT-2 on a variety of language understanding tasks, recent work focused on

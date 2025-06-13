@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: lam2024closer
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.00284"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.00284'}
 tags: ['Tools']
 ---
 The emergence of Large Language Models (LLMs) has demonstrated promising

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024neutralizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.18280"}
-tags: ['RAG', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.18280'}
+tags: ['RAG', 'Prompting', 'Security']
 ---
 Large language models (LLMs) have seen significant advancements, achieving
 superior performance in various Natural Language Processing (NLP) tasks, from

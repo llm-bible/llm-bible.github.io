@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: krishna2024unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.12941"}
-tags: ['RAG', 'Tools', 'Merging', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.12941'}
+tags: ['Reinforcement Learning', 'RAG', 'Tools', 'Merging']
 ---
 Large Language Models (LLMs) have demonstrated significant performance
 improvements across various cognitive tasks. An emerging application is using

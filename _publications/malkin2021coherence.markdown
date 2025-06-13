@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: malkin2021coherence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.08294"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.08294'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Model Architecture']
 ---
 Long-range semantic coherence remains a challenge in automatic language
 generation and understanding. We demonstrate that large language models have

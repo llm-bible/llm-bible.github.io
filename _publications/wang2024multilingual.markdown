@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23956"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23956'}
 tags: ['Training Techniques', 'Pretraining Methods']
 ---
 English, as a very high-resource language, enables the pretraining of

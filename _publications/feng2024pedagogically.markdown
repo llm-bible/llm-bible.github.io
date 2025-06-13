@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: feng2024pedagogically
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.10246"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.10246'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Reinforcement Learning']
 ---
 The growing enrollments in computer science courses and increase in class
 sizes necessitate scalable, automated tutoring solutions to adequately support

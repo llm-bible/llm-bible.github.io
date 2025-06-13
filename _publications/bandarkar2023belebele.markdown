@@ -6,8 +6,8 @@ conference: "Proceedings of the 62nd Annual Meeting of the Association for Compu
 year: 2023
 bibkey: bandarkar2023belebele
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.16884"}
-tags: ['RAG', 'Applications', 'Masked Language Model']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.16884'}
+tags: ['RAG', 'Masked Language Model', 'Applications']
 ---
 We present Belebele, a multiple-choice machine reading comprehension (MRC)
 dataset spanning 122 language variants. Significantly expanding the language

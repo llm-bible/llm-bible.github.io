@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bucur2023utilizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.02313"}
-tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.02313'}
+tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 In this work, we present the contribution of the BLUE team in the eRisk Lab
 task on searching for symptoms of depression. The task consists of retrieving

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: pastorino2025frame
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2505.05406"}
-tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2505.05406'}
+tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Framing in media critically shapes public perception by selectively
 emphasizing some details while downplaying others. With the rise of large

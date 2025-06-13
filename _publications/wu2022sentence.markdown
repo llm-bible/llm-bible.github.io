@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022sentence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08474"}
-  - {name: "Code", url: "https://github.com/chengzhipanpan/PaSeR"}
-tags: ['Pre-Training', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08474'}
+  - {name: "Code", url: 'https://github.com/chengzhipanpan/PaSeR'}
+tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Though offering amazing contextualized token-level representations, current
 pre-trained language models take less attention on accurately acquiring

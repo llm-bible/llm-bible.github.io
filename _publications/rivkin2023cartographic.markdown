@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: rivkin2023cartographic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11865"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11865'}
 tags: ['RAG']
 ---
 This work explores the capacity of large language models (LLMs) to address

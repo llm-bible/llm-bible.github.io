@@ -6,9 +6,9 @@ conference: "LREC-COLING 2024"
 year: 2024
 bibkey: ni2024multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.16389"}
-  - {name: "Code", url: "https://github.com/AI-for-Science/MoZi"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.16389'}
+  - {name: "Code", url: 'https://github.com/AI-for-Science/MoZi'}
+tags: ['Reinforcement Learning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated impressive performance in
 various natural language processing (NLP) tasks. However, there is limited

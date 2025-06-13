@@ -6,9 +6,9 @@ conference: "COLING2025"
 year: 2024
 bibkey: ma2024detecting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.08414"}
-  - {name: "Code", url: "https://github.com/Anton-Jiayuan-MA/Manip-IAP"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.08414'}
+  - {name: "Code", url: 'https://github.com/Anton-Jiayuan-MA/Manip-IAP'}
+tags: ['Reinforcement Learning', 'Prompting', 'Has Code']
 ---
 Mental manipulation severely undermines mental wellness by covertly and
 negatively distorting decision-making. While there is an increasing interest in

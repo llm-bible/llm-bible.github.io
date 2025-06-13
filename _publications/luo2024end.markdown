@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luo2024end
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.12451"}
-tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.12451'}
+tags: ['Agentic', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Reinforcement Learning']
 ---
 Neuro-symbolic reinforcement learning (NS-RL) has emerged as a promising
 paradigm for explainable decision-making, characterized by the interpretability

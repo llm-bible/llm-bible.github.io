@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zheng2024breaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02118"}
-tags: ['Training Techniques', 'Pre-Training', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02118'}
+tags: ['Pre-Training', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, Large Language Models (LLMs) have made significant strides
 towards Artificial General Intelligence. However, training these models from

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wen2025exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.13700"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.13700'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 Recent advances in large language models (LLMs) have shown great potential in
 automating the process of visualization authoring through simple natural

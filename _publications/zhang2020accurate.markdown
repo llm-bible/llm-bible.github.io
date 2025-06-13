@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: zhang2020accurate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2012.15086"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15086'}
+tags: ['Attention Mechanism', 'RAG', 'Model Architecture', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Word representation is a fundamental component in neural language
 understanding models. Recently, pre-trained language models (PrLMs) offer a new

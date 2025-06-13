@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: cho2024typos
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.13948"}
-tags: ['RAG', 'Security', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.13948'}
+tags: ['Reinforcement Learning', 'RAG', 'Security', 'Applications']
 ---
 The robustness of recent Large Language Models (LLMs) has become increasingly
 crucial as their applicability expands across various domains and real-world

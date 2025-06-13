@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: cao2023successor
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04921"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04921'}
+tags: ['Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning', 'Responsible AI']
 ---
 While large language models (LLMs) have achieved impressive performance in
 generating fluent and realistic text, controlling the generated text so that it

@@ -6,8 +6,8 @@ conference: "The Twelfth International Conference on Learning Representations 20
 year: 2023
 bibkey: ramnath2023tailoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.02805"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.02805'}
+tags: ['Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LMs) are capable of generating free-text rationales to
 aid question answering. However, prior work 1) suggests that useful

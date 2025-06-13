@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: levin2025effective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.02138"}
-tags: ['RAG', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.02138'}
+tags: ['RAG', 'Applications', 'Tools']
 ---
 The advent of large language models (LLMs) has paved the way for a new era of
 programming tools with both significant capabilities and risks, as the

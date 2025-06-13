@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: bi2024decoding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.11613"}
-  - {name: "Code", url: "https://deck-llm.meirtz.com)"}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.11613'}
+  - {name: "Code", url: 'https://deck-llm.meirtz.com)'}
+tags: ['Has Code', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 The knowledge within large language models (LLMs) may become outdated
 quickly. While in-context editing (ICE) is currently the most effective method

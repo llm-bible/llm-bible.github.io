@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lee2025reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08772"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08772'}
+tags: ['Agentic', 'RAG', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In offline reinforcement learning (RL), learning from fixed datasets presents
 a promising solution for domains where real-time interaction with the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: becker2024multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.22932"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Agent', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.22932'}
+tags: ['Agentic', 'Agent', 'RAG', 'Efficiency and Optimization', 'Fairness', 'Tools', 'Applications', 'Bias Mitigation', 'Ethics and Bias', 'Responsible AI']
 ---
 In an era where single large language models have dominated the landscape of
 artificial intelligence for years, multi-agent systems arise as new

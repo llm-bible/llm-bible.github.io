@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: parde2019ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1904.03713"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1904.03713'}
 tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 Artificial intelligence is revolutionizing formal education, fueled by

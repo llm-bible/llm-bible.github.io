@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: sirdeshmukh2025realistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17399"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17399'}
 tags: ['RAG', 'Applications']
 ---
 We present MultiChallenge, a pioneering benchmark evaluating large language

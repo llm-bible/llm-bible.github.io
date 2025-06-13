@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kapania2024examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19430"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19430'}
 tags: ['Survey Paper']
 ---
 The recent excitement around generative models has sparked a wave of

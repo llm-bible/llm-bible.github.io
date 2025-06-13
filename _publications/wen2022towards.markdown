@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wen2022towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.08017"}
-tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'RecSys', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.08017'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Fairness', 'Model Architecture', 'RecSys', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 As recommender systems become increasingly sophisticated and complex, they
 often suffer from lack of fairness and transparency. Providing robust and

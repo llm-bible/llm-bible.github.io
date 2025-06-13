@@ -6,8 +6,8 @@ conference: "NeurIPS Safe Generative AI Workshop 2024; Workshop on Socially Resp
 year: 2024
 bibkey: king2024holistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.11579"}
-tags: ['Responsible AI', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'BERT', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.11579'}
+tags: ['Interpretability and Explainability', 'In-Context Learning', 'Model Architecture', 'BERT', 'Tools', 'Prompting', 'Interpretability', 'Responsible AI']
 ---
 Stereotypes are generalised assumptions about societal groups, and even
 state-of-the-art LLMs using in-context learning struggle to identify them

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: feng2025hyper
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.08758"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.08758'}
 tags: ['RAG', 'Applications']
 ---
 Large language models (LLMs) have transformed various sectors, including

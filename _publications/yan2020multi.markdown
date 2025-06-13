@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: yan2020multi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.10743"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.10743'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'WMT', 'Model Architecture', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Transformer models achieve remarkable success in Neural Machine Translation.
 Many efforts have been devoted to deepening the Transformer by stacking several

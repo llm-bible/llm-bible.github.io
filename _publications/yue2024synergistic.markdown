@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: yue2024synergistic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09893"}
-  - {name: "Code", url: "https://github.com/yueshengbin/SMART"}
-tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09893'}
+  - {name: "Code", url: 'https://github.com/yueshengbin/SMART'}
+tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Tools']
 ---
 Recent advancements in Large Language Models (LLMs) have led to significant
 breakthroughs in various natural language processing tasks. However, generating

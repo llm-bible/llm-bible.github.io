@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: darm2025inference
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.14130"}
-tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.14130'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Steering the behavior of Large Language Models (LLMs) remains a challenge,
 particularly in engineering applications where precision and reliability are

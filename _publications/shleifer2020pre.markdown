@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: shleifer2020pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.13002"}
-  - {name: "Code", url: "http://tiny.cc/4iy0tz"}
-tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.13002'}
+  - {name: "Code", url: 'http://tiny.cc/4iy0tz'}
+tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
 ---
 Recent state-of-the-art approaches to summarization utilize large pre-trained
 Transformer models. Distilling these models to smaller student models has

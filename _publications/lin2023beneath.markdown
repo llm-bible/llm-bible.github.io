@@ -6,8 +6,8 @@ conference: "The 2023 Conference on Empirical Methods in Natural Language Proces
 year: 2023
 bibkey: lin2023beneath
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.05434"}
-tags: ['Fine-Tuning', 'Tools', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.05434'}
+tags: ['Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Multimodal Models', 'Pretraining Methods']
 ---
 The age of social media is rife with memes. Understanding and detecting
 harmful memes pose a significant challenge due to their implicit meaning that

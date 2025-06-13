@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024chatglm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.02893"}
-  - {name: "Code", url: "https://github.com/THUDM/ChatGLM-Math"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.02893'}
+  - {name: "Code", url: 'https://github.com/THUDM/ChatGLM-Math'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown excellent mastering of human
 language, but still struggle in real-world applications that require

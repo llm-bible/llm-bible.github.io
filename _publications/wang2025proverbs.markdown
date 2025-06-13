@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: wang2025proverbs
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.11953"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.11953'}
 tags: ['Applications']
 ---
 Despite achieving remarkable performance, machine translation (MT) research

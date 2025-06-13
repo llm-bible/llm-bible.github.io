@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chen2024pseudo
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23678"}
-tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23678'}
+tags: ['RAG', 'Security', 'Model Architecture', 'GPT', 'Tools', 'Prompting']
 ---
 Goal hijacking is a type of adversarial attack on Large Language Models
 (LLMs) where the objective is to manipulate the model into producing a

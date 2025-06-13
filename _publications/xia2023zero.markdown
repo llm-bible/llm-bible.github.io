@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xia2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.15028"}
-  - {name: "Code", url: "https://github.com/hemingkx/ImageNetVC"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15028'}
+  - {name: "Code", url: 'https://github.com/hemingkx/ImageNetVC'}
 tags: ['Few-Shot', 'Has Code']
 ---
 Recently, Large Language Models (LLMs) have been serving as general-purpose

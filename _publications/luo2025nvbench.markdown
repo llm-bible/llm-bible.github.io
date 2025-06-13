@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: luo2025nvbench
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.12880"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.12880'}
 tags: ['Efficiency and Optimization']
 ---
 Natural Language to Visualization (NL2VIS) enables users to create

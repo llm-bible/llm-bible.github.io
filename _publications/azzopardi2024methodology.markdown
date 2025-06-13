@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: azzopardi2024methodology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18906"}
-tags: ['Prompting', 'Ethics and Bias', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18906'}
+tags: ['Ethics and Bias', 'Prompting', 'Merging']
 ---
 Auditing Large Language Models (LLMs) to discover their biases and
 preferences is an emerging challenge in creating Responsible Artificial

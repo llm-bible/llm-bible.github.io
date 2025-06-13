@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: kim2024ontology
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.07088"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.07088'}
 tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Knowledge Graph-to-Text (G2T) generation involves verbalizing structured

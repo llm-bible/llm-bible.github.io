@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: thwal2024clip
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.03871"}
-tags: ['Training Techniques', 'Pre-Training', 'Multimodal Models', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.03871'}
+tags: ['Pre-Training', 'Multimodal Models', 'Training Techniques', 'Pretraining Methods']
 ---
 Beyond the success of Contrastive Language-Image Pre-training (CLIP), recent
 trends mark a shift toward exploring the applicability of lightweight

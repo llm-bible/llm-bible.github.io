@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: xu2025understanding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17965"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17965'}
+tags: ['Reinforcement Learning', 'Agentic', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated exceptional performance on a
 range of downstream NLP tasks by generating text that closely resembles human

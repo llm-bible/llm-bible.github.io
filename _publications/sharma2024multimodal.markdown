@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: sharma2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.09928"}
-tags: ['GPT', 'Tools', 'Multimodal Models', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.09928'}
+tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Tools']
 ---
 This paper introduces M2M Gen, a multi modal framework for generating
 background music tailored to Japanese manga. The key challenges in this task

@@ -6,9 +6,9 @@ conference: "LREC-COLING 2024"
 year: 2023
 bibkey: din2023jump
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.09435"}
-  - {name: "Code", url: "https://github.com/sashayd/mat"}
-tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.09435'}
+  - {name: "Code", url: 'https://github.com/sashayd/mat'}
+tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'GPT', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based language models create hidden representations of their
 inputs at every layer, but only use final-layer representations for prediction.

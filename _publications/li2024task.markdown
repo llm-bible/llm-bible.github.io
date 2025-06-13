@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: li2024task
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06136"}
-tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06136'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) for specific tasks requires
 high-quality, diverse training data relevant to the task. Recent research has

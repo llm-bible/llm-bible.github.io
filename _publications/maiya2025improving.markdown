@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: maiya2025improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.17755"}
-tags: ['RAG', 'Training Techniques', 'Prompting', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.17755'}
+tags: ['Ethics and Bias', 'RAG', 'Prompting', 'Training Techniques']
 ---
 Large Language Models (LLMs) are often used as automated judges to evaluate
 text, but their effectiveness can be hindered by various unintentional biases.

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: clark2025efficiently
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.03717"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.03717'}
 tags: ['RAG', 'Efficiency and Optimization']
 ---
 Expressive robotic behavior is essential for the widespread acceptance of

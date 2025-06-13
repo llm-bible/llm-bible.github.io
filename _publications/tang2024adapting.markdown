@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: tang2024adapting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.07618"}
-  - {name: "Code", url: "https://github.com/FUTUREEEEEE/Dynamic-RAG.git"}
-tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.07618'}
+  - {name: "Code", url: 'https://github.com/FUTUREEEEEE/Dynamic-RAG.git'}
+tags: ['Has Code', 'RAG', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 Despite the superior performance of Large language models on many NLP tasks,
 they still face significant limitations in memorizing extensive world

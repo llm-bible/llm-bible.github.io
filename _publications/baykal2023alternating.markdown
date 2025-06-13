@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: baykal2023alternating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2301.13310"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2301.13310'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 It has been well established that increasing scale in deep transformer

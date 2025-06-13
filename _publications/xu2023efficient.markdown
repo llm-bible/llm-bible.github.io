@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023efficient
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.00526"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.00526'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Quantization', 'Reinforcement Learning']
 ---
 High-dimensional token embeddings underpin Large Language Models (LLMs), as
 they can capture subtle semantic information and significantly enhance the

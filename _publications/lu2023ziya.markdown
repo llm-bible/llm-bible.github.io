@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: lu2023ziya
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.08166"}
-  - {name: "Code", url: "https://huggingface.co/IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1"}
-tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08166'}
+  - {name: "Code", url: 'https://huggingface.co/IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1'}
+tags: ['Has Code', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Recent advancements enlarge the capabilities of large language models (LLMs)
 in zero-shot image-to-text generation and understanding by integrating

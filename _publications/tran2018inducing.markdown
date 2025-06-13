@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2018
 bibkey: tran2018inducing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1805.10850"}
-tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/1805.10850'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Applications', 'Model Architecture']
 ---
 Machine translation systems require semantic knowledge and grammatical
 understanding. Neural machine translation (NMT) systems often assume this

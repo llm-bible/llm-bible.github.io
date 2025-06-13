@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: tanabe2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.09249"}
-tags: ['Fine-Tuning', 'RAG', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.09249'}
+tags: ['Attention Mechanism', 'RAG', 'Fine-Tuning', 'Model Architecture']
 ---
 The domain adaptation of language models, including large language models
 (LLMs), has become increasingly important as the use of such models continues

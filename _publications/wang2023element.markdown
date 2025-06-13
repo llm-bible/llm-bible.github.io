@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023element
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2305.13412v1"}
-  - {name: "Code", url: "https://github.com/Alsace08/SumCoT"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2305.13412v1'}
+  - {name: "Code", url: 'https://github.com/Alsace08/SumCoT'}
 tags: ['Has Code', 'Applications']
 ---
 Automatic summarization generates concise summaries that contain key ideas of

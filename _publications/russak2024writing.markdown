@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: russak2024writing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.14906"}
-  - {name: "Code", url: "https://github.com/writer/writing-in-the-margins"}
-tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.14906'}
+  - {name: "Code", url: 'https://github.com/writer/writing-in-the-margins'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
 ---
 In this paper, we introduce Writing in the Margins (WiM), a new inference
 pattern for Large Language Models designed to optimize the handling of long

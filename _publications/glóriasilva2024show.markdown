@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: glóriasilva2024show
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.19074"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.19074'}
 tags: ['RAG', 'Multimodal Models']
 ---
 Guiding users through complex procedural plans is an inherently multimodal

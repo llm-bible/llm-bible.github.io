@@ -6,8 +6,8 @@ conference: "Computational Linguistics (2023)"
 year: 2022
 bibkey: chaturvedi2022analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2212.10696"}
-tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10696'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Prompting', 'Applications', 'Pretraining Methods']
 ---
 Transformer-based language models have been shown to be highly effective for
 several NLP tasks. In this paper, we consider three transformer models, BERT,

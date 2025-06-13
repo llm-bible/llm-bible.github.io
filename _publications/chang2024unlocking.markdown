@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chang2024unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01007"}
-tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01007'}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 This booklet, Unlocking the Wisdom of Multi-LLM Collaborative Intelligence,
 serves as an accessible introduction to the full volume The Path to Artificial

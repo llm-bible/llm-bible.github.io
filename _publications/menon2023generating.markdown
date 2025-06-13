@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: menon2023generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.04552"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.04552'}
 tags: ['Multimodal Models', 'Applications', 'Merging']
 ---
 We introduce the new task of generating Illustrated Instructions, i.e.,

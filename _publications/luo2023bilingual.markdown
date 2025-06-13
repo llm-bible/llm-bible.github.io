@@ -6,8 +6,8 @@ conference: "Journal of the American Medical Informatics Association 2024 ocae03
 year: 2023
 bibkey: luo2023bilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.11608"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.11608'}
+tags: ['RAG', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Objective: Most existing fine-tuned biomedical large language models (LLMs)
 focus on enhancing performance in monolingual biomedical question answering and

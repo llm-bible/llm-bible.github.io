@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023round
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.13007"}
-  - {name: "Code", url: "https://github.com/dinobby/ReConcile"}
-tags: ['Agentic', 'GPT', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.13007'}
+  - {name: "Code", url: 'https://github.com/dinobby/ReConcile'}
+tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'GPT', 'Model Architecture', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) still struggle with natural language reasoning
 tasks. Motivated by the society of minds (Minsky, 1988), we propose ReConcile,

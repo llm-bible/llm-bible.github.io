@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: luong2024reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.08967"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.08967'}
+tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 One way to enhance the reasoning capability of Large Language Models (LLMs)
 is to conduct Supervised Fine-Tuning (SFT) using Chain-of-Thought (CoT)

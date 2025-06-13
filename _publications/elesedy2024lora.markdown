@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: elesedy2024lora
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02987"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02987'}
 tags: ['Fine-Tuning', 'Responsible AI', 'Applications']
 ---
 Guardrails have emerged as an alternative to safety alignment for content

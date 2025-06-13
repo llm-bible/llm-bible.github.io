@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: guo2021comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.11483"}
-tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.11483'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'BERT', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently, the development of pre-trained language models has brought natural
 language processing (NLP) tasks to the new state-of-the-art. In this paper we

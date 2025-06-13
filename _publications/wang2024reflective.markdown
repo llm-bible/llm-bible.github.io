@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024reflective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.16427"}
-tags: ['Fine-Tuning', 'Agentic', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.16427'}
+tags: ['Agentic', 'Training Techniques', 'Merging', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are emerging as promising approaches to enhance
 session-based recommendation (SBR), where both prompt-based and

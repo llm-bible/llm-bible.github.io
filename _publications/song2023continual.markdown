@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: song2023continual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.14763"}
-  - {name: "Code", url: "https://github.com/Raincleared-Song/ConPET"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.14763'}
+  - {name: "Code", url: 'https://github.com/Raincleared-Song/ConPET'}
+tags: ['Fine-Tuning', 'Has Code', 'Training Techniques', 'Merging']
 ---
 Continual learning necessitates the continual adaptation of models to newly
 emerging tasks while minimizing the catastrophic forgetting of old ones. This

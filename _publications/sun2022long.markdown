@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2022
 bibkey: sun2022long
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.06031"}
-  - {name: "Code", url: "https://github.com/microsoft/XPretrain"}
-tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.06031'}
+  - {name: "Code", url: 'https://github.com/microsoft/XPretrain'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
 ---
 Large-scale video-language pre-training has shown significant improvement in
 video-language understanding tasks. Previous studies of video-language

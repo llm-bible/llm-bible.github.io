@@ -6,9 +6,9 @@ conference: "Findings of the Association for Computational Linguistics ACL 2024.
 year: 2025
 bibkey: tamayo2025mass
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.02173"}
-  - {name: "Code", url: "https://github.com/dtamayo-nlp/MEMAT"}
-tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.02173'}
+  - {name: "Code", url: 'https://github.com/dtamayo-nlp/MEMAT'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent research has explored methods for updating and modifying factual
 knowledge in large language models, often focusing on specific multi-layer

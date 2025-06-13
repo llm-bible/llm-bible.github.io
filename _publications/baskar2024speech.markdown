@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: baskar2024speech
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14701"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14701'}
 tags: ['RAG', 'Prompting']
 ---
 In this paper, we focus on addressing the constraints faced when applying

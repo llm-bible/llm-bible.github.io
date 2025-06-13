@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: freeman2024exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.06370"}
-tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.06370'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting']
 ---
 Copyright infringement in frontier LLMs has received much attention recently
 due to the New York Times v. OpenAI lawsuit, filed in December 2023. The New

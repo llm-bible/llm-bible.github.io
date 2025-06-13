@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chaudhari2024general
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20485"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20485'}
+tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) expands the capabilities of modern large
 language models (LLMs), by anchoring, adapting, and personalizing their

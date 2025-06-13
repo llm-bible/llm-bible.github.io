@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: afzal2024towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08438"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08438'}
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Tools', 'Merging']
 ---
 Given the growing trend of many organizations integrating Retrieval Augmented
 Generation (RAG) into their operations, we assess RAG on domain-specific data

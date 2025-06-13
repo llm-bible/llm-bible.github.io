@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: miah2024chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.02816"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.02816'}
 tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 In recent years, advanced artificial intelligence technologies, such as

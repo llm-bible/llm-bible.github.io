@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hagendorff2023human
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.07622"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.07622'}
+tags: ['Ethics and Bias', 'GPT', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) are currently at the forefront of intertwining
 AI systems with human communication and everyday life. Therefore, it is of

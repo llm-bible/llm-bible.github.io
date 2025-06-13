@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: brito2025integrating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16457"}
-tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16457'}
+tags: ['Agentic', 'Few-Shot', 'RAG', 'Applications', 'Tools', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods']
 ---
 The integration of large language models (LLMs) into virtual reality (VR)
 environments has opened new pathways for creating more immersive and

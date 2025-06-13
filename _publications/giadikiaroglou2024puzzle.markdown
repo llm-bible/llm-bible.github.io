@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: giadikiaroglou2024puzzle
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.11291"}
-tags: ['Fine-Tuning', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.11291'}
+tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Exploring the capabilities of Large Language Models (LLMs) in puzzle solving
 unveils critical insights into their potential and challenges in AI, marking a

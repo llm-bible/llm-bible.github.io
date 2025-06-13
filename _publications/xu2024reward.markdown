@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xu2024reward
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.08193"}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.08193'}
+tags: ['Agentic', 'Language Modeling', 'RAG', 'Training Techniques', 'Tools', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exhibit impressive capabilities but require
 careful alignment with human preferences. Traditional training-time methods

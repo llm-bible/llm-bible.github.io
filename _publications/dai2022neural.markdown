@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: dai2022neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.00399"}
-tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.00399'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Transformer', 'Training Techniques', 'Model Architecture', 'Applications', 'Pretraining Methods']
 ---
 The ability of pretrained Transformers to remember factual knowledge is
 essential but still limited for existing models. Inspired by existing work that

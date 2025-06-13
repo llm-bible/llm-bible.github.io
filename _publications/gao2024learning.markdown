@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: gao2024learning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.13276"}
-  - {name: "Code", url: "https://github.com/microsoft/SeerAttention"}
-tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.13276'}
+  - {name: "Code", url: 'https://github.com/microsoft/SeerAttention'}
+tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Tools']
 ---
 Attention is the cornerstone of modern Large Language Models (LLMs). Yet its
 quadratic complexity hinders efficiency and scalability, especially for

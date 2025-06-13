@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: yang2024behavior
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.11773"}
-tags: ['Security', 'RecSys']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.11773'}
+tags: ['RecSys', 'Security']
 ---
 Large Language Models (LLMs) have demonstrated great potential in
 Conversational Recommender Systems (CRS). However, the application of LLMs to

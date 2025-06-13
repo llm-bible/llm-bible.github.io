@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xiao2024llms
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02829"}
-tags: ['Agentic', 'Tools', 'RAG', 'Merging', 'Agent', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02829'}
+tags: ['Agentic', 'Agent', 'RAG', 'Tools', 'Merging', 'Prompting']
 ---
 Recent advances in Large Language Models (LLMs) have demonstrated their
 potential as autonomous agents across various tasks. One emerging application

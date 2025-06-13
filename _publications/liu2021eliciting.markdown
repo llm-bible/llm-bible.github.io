@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: liu2021eliciting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.09237"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.09237'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Recent work indicated that pretrained language models (PLMs) such as BERT and
 RoBERTa can be transformed into effective sentence and word encoders even via

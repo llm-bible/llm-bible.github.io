@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dao2024mixed
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15316"}
-tags: ['Fine-Tuning', 'Transformer', 'INTERSPEECH', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15316'}
+tags: ['Transformer', 'INTERSPEECH', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 but their application to speech-based tasks remains challenging due to the

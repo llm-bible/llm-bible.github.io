@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: lin2021scene
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2103.12944"}
-tags: ['Agentic', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2103.12944'}
+tags: ['Agentic', 'Multimodal Models', 'Training Techniques']
 ---
 Humans learn from life events to form intuitions towards the understanding of
 visual environments and languages. Envision that you are instructed by a

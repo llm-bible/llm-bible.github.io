@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: prato2023epik
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15372"}
-  - {name: "Code", url: "https://github.com/chandar-lab/EpiK-Eval"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15372'}
+  - {name: "Code", url: 'https://github.com/chandar-lab/EpiK-Eval'}
 tags: ['Training Techniques', 'Has Code', 'Applications']
 ---
 In the age of artificial intelligence, the role of large language models

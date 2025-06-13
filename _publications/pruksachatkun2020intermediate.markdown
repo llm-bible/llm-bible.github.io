@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: pruksachatkun2020intermediate
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.00628"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00628'}
+tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 While pretrained models such as BERT have shown large gains across natural
 language understanding tasks, their performance can be improved by further

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: shafipour2024compressing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.10714"}
-tags: ['RAG', 'Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.10714'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques']
 ---
 Large Language Models (LLMs) have transformed natural language processing,
 but face significant challenges in widespread deployment due to their high

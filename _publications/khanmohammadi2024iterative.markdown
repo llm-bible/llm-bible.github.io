@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: khanmohammadi2024iterative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.04075"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.04075'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 This study introduces a novel teacher-student architecture utilizing Large
 Language Models (LLMs) to improve prostate cancer radiotherapy symptom

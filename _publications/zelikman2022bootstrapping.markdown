@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zelikman2022bootstrapping
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2203.14465v2"}
-tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2203.14465v2'}
+tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
 ---
 Generating step-by-step "chain-of-thought" rationales improves language model
 performance on complex reasoning tasks like mathematics or commonsense

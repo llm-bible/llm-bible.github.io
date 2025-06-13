@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zandieh2024token
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.06082"}
-tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.06082'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Despite the significant success of large language models (LLMs), their
 extensive memory requirements pose challenges for deploying them in

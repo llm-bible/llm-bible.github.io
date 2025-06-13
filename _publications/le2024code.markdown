@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: le2024code
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02518"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02518'}
+tags: ['Security', 'Responsible AI', 'Applications', 'Tools']
 ---
 Large language models (LLMs) for code are typically trained to align with
 natural language instructions to closely follow their intentions and

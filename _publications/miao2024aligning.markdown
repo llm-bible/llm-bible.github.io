@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: miao2024aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.18585"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.18585'}
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 The last year has witnessed the rapid progress of large language models
 (LLMs) across diverse domains. Among them, CodeLLMs have garnered particular

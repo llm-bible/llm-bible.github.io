@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: peng2024uncertainty
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2402.03366"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2402.03366'}
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'GPT', 'Prompting', 'Interpretability']
 ---
 Providing explanations within the recommendation system would boost user
 satisfaction and foster trust, especially by elaborating on the reasons for

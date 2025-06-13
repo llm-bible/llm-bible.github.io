@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: parmar2025object
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.01424"}
-tags: ['Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.01424'}
+tags: ['Attention Mechanism', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 We introduce a method for composing object-level visual prompts within a
 text-to-image diffusion model. Our approach addresses the task of generating

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023fast
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.04255"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.04255'}
 tags: ['Language Modeling', 'Applications']
 ---
 Generative tasks, such as text generation and question answering, hold a

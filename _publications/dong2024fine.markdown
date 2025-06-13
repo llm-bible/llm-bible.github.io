@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dong2024fine
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10691"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10691'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Quantization', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Since the invention of GPT2--1.5B in 2019, large language models (LLMs) have
 transitioned from specialized models to versatile foundation models. The LLMs

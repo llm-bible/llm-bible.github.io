@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: dang2025reinforcement
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.16219"}
-  - {name: "Code", url: "https://github.com/knoveleng/open-rs"}
-tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.16219'}
+  - {name: "Code", url: 'https://github.com/knoveleng/open-rs'}
+tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Enhancing the reasoning capabilities of large language models (LLMs)
 typically relies on massive computational resources and extensive datasets,

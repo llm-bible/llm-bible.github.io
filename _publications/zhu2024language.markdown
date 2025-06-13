@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02791"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02791'}
 tags: ['RAG']
 ---
 Symbolic planners can discover a sequence of actions from initial to goal

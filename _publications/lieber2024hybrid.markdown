@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: lieber2024hybrid
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2403.19887v2"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2403.19887v2'}
+tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present Jamba, a new base large language model based on a novel hybrid
 Transformer-Mamba mixture-of-experts (MoE) architecture. Specifically, Jamba

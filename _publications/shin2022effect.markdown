@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: shin2022effect
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2204.13509v2"}
-tags: ['GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'http://arxiv.org/abs/2204.13509v2'}
+tags: ['Language Modeling', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Many recent studies on large-scale language models have reported successful
 in-context zero- and few-shot learning ability. However, the in-depth analysis

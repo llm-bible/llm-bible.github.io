@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: petridis2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.15435"}
-tags: ['RAG', 'Tools', 'Prompting', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.15435'}
+tags: ['RAG', 'Prompting', 'Applications', 'Tools']
 ---
 Prototyping AI applications is notoriously difficult. While large language
 model (LLM) prompting has dramatically lowered the barriers to AI prototyping,

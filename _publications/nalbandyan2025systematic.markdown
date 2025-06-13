@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: nalbandyan2025systematic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.00137"}
-tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.00137'}
+tags: ['Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Typical evaluations of Large Language Models (LLMs) report a single metric
 per dataset, often representing the model's best-case performance under

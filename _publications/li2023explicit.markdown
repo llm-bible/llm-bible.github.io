@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023explicit
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.11485"}
-tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.11485'}
+tags: ['Language Modeling', 'Interpretability and Explainability', 'Applications', 'GPT', 'Pretraining Methods']
 ---
 Most existing text generation models follow the sequence-to-sequence
 paradigm. Generative Grammar suggests that humans generate natural language

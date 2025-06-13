@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: khayrallah2020smrt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.00547"}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.00547'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Pretraining Methods']
 ---
 Non-task-oriented dialog models suffer from poor quality and non-diverse
 responses. To overcome limited conversational data, we apply Simulated Multiple

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: huy2023vietnamese
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.14405"}
-  - {name: "Code", url: "https://github.com/tadeephuy/ViMQ"}
-tags: ['Training Techniques', 'Has Code', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14405'}
+  - {name: "Code", url: 'https://github.com/tadeephuy/ViMQ'}
+tags: ['Reinforcement Learning', 'Has Code', 'Training Techniques']
 ---
 Existing medical text datasets usually take the form of question and answer
 pairs that support the task of natural language generation, but lacking the

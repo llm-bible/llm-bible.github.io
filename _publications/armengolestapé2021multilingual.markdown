@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: armengolestapé2021multilingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2108.13349"}
-tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2108.13349'}
+tags: ['Language Modeling', 'Transformer', 'Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Generative Pre-trained Transformers (GPTs) have recently been scaled to
 unprecedented sizes in the history of machine learning. These models, solely

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: ginn2024can
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18895"}
-tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.18895'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods']
 ---
 Interlinear glossed text (IGT) is a popular format in language documentation
 projects, where each morpheme is labeled with a descriptive annotation.

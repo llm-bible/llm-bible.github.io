@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023increasing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.06000"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.06000'}
 tags: ['Tools']
 ---
 Generating texts with a large language model (LLM) consumes massive amounts

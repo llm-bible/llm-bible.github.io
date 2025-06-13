@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.10020"}
-tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.10020'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Survey Paper']
 ---
 This paper presents a comprehensive survey of the taxonomy and evolution of
 multimodal foundation models that demonstrate vision and vision-language

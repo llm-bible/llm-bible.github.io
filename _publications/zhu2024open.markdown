@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhu2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.19853"}
-  - {name: "Code", url: "https://github.com/RUC-GSAI/YuLan-Chat"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Has Code']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.19853'}
+  - {name: "Code", url: 'https://github.com/RUC-GSAI/YuLan-Chat'}
+tags: ['Has Code', 'RAG', 'Tools', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Pre-Training']
 ---
 Large language models (LLMs) have become the foundation of many applications,
 leveraging their extensive capabilities in processing and understanding natural

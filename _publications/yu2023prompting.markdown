@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.01903"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.01903'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Knowledge-based visual question answering (VQA) requires external knowledge
 beyond the image to answer the question. Early studies retrieve required

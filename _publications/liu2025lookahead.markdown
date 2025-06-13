@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2025
 bibkey: liu2025lookahead
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19041"}
-  - {name: "Code", url: "https://github.com/zjunlp/LookAheadTuning"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19041'}
+  - {name: "Code", url: 'https://github.com/zjunlp/LookAheadTuning'}
+tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Responsible AI', 'Pretraining Methods']
 ---
 Fine-tuning enables large language models (LLMs) to adapt to specific
 domains, but often undermines their previously established safety alignment. To

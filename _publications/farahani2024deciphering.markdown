@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: farahani2024deciphering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.05162"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.05162'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Generative language models often struggle with specialized or less-discussed
 knowledge. A potential solution is found in Retrieval-Augmented Generation

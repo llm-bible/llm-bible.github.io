@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: hu2024current
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.02134"}
-tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.02134'}
+tags: ['Language Modeling', 'Few-Shot', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) like ChatGPT show excellent capabilities in
 various natural language processing tasks, especially for text generation. The

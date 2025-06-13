@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xue2024enhanced
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.20927"}
-tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.20927'}
+tags: ['RAG', 'Model Architecture', 'Tools', 'Applications', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal large language models (MLLMs), such as GPT-4o, Gemini, LLaVA, and
 Flamingo, have made significant progress in integrating visual and textual

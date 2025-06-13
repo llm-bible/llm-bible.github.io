@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: singh2023unlocking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2309.12616"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2309.12616'}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias']
 ---
 Language models (LMs) are no longer restricted to ML community, and
 instruction-tuned LMs have led to a rise in autonomous AI agents. As the

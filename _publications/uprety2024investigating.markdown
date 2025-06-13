@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: uprety2024investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.10711"}
-tags: ['Agentic', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.10711'}
+tags: ['Reinforcement Learning', 'Ethics and Bias', 'Agentic', 'Applications']
 ---
 Large Language Models (LLMs) have revolutionised the capability of AI models
 in comprehending and generating natural language text. They are increasingly

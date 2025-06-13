@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: thawakar2025llamav
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.06186"}
-tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.06186'}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Reasoning is a fundamental capability for solving complex multi-step
 problems, particularly in visual contexts where sequential step-wise

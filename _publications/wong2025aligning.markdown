@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: wong2025aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.15129"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.15129'}
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
 ---
 This paper studies how AI-assisted programming and large language models
 (LLM) improve software developers' ability via AI tools (LLM agents) like

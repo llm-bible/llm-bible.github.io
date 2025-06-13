@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rojasbarahona2024talking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.02354"}
-tags: ['Agentic', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.02354'}
+tags: ['Agentic', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
 ---
 In this dissertation I would like to guide the reader to the research on
 dialogue but more precisely the research I have conducted during my career

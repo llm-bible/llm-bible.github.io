@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: gupta2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.16549"}
-tags: ['Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Security', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.16549'}
+tags: ['Security', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'In-Context Learning']
 ---
 In the In-Context Learning (ICL) setup, various forms of label biases can
 manifest. One such manifestation is majority label bias, which arises when the

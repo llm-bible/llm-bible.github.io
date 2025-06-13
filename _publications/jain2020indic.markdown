@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: jain2020indic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2011.02323"}
-  - {name: "Code", url: "https://huggingface.co/neuralspace-reverie"}
-tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2011.02323'}
+  - {name: "Code", url: 'https://huggingface.co/neuralspace-reverie'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
 ---
 Language models based on the Transformer architecture have achieved
 state-of-the-art performance on a wide range of NLP tasks such as text

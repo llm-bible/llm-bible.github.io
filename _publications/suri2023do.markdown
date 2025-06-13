@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: suri2023do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.04400"}
-tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.04400'}
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 A Large Language Model (LLM) is an artificial intelligence system that has
 been trained on vast amounts of natural language data, enabling it to generate

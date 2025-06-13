@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: sottana2023evaluation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.13800"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.13800'}
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) evaluation is a patchy and inconsistent
 landscape, and it is becoming clear that the quality of automatic evaluation

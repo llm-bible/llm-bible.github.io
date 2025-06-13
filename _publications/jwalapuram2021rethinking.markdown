@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: jwalapuram2021rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.07198"}
-tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.07198'}
+tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Given the claims of improved text generation quality across various
 pre-trained neural models, we consider the coherence evaluation of machine

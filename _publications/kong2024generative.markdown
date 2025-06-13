@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: kong2024generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09709"}
-  - {name: "Code", url: "https://github.com/JiaruiFeng/GOFA"}
-tags: ['Tools', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09709'}
+  - {name: "Code", url: 'https://github.com/JiaruiFeng/GOFA'}
+tags: ['Has Code', 'Language Modeling', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Foundation models, such as Large Language Models (LLMs) or Large Vision
 Models (LVMs), have emerged as one of the most powerful tools in the respective

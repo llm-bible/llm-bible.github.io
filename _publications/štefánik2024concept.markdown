@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: štefánik2024concept
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.09703"}
-tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.09703'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
 ---
 Many recent language models (LMs) are capable of in-context learning (ICL),
 manifested in the LMs' ability to perform a new task solely from

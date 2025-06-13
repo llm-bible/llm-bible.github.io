@@ -6,9 +6,9 @@ conference: "Informatica 2025"
 year: 2024
 bibkey: nakvosas2024open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.12963"}
-  - {name: "Code", url: "https://huggingface.co/neurotechnology"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.12963'}
+  - {name: "Code", url: 'https://huggingface.co/neurotechnology'}
+tags: ['Has Code', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this paper, we propose and describe the first open Llama2 large language
 models (LLMs) for the Lithuanian language, including an accompanying

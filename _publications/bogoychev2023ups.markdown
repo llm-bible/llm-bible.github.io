@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: bogoychev2023ups
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.09709"}
-tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.09709'}
+tags: ['Reinforcement Learning', 'Efficiency and Optimization', 'Applications']
 ---
 Deploying large language models (LLMs) encounters challenges due to intensive
 computational and memory requirements. Our research examines vocabulary

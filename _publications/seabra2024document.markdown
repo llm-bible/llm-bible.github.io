@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: seabra2024document
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17942"}
-tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17942'}
+tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Agentic']
 ---
 We present a question-and-answer (Q\&A) application designed to support the
 contract management process by leveraging combined information from contract

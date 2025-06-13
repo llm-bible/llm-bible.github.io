@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: noorbakhsh2025scalable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.12477"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.12477'}
 tags: ['Prompting', 'Applications']
 ---
 Assessing and enhancing human learning through question-answering is vital,

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: ranasinghe2025llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.15424"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.15424'}
 tags: ['RAG', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) are increasingly being leveraged for generating

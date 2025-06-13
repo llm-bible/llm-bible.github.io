@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: hu2023autonomous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.08129"}
-tags: ['RAG', 'Agentic', 'Applications', 'Tools']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.08129'}
+tags: ['Applications', 'RAG', 'Agentic', 'Tools']
 ---
 In this paper, we propose an autonomous information seeking visual question
 answering framework, AVIS. Our method leverages a Large Language Model (LLM) to

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: deng2023rephrase
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.04205"}
-  - {name: "Code", url: "https://github.com/uclaml/Rephrase-and-Respond"}
-tags: ['Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.04205'}
+  - {name: "Code", url: 'https://github.com/uclaml/Rephrase-and-Respond'}
+tags: ['Prompting', 'Has Code']
 ---
 Misunderstandings arise not only in interpersonal communication but also
 between humans and Large Language Models (LLMs). Such discrepancies can make

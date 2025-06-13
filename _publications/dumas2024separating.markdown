@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: dumas2024separating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.08745"}
-tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.08745'}
+tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 A central question in multilingual language modeling is whether large
 language models (LLMs) develop a universal concept representation, disentangled

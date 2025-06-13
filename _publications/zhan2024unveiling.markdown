@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhan2024unveiling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.20701"}
-tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.20701'}
+tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
 ---
 Large language models (LLMs) demonstrate exceptional instruct-following
 ability to complete various downstream tasks. Although this impressive ability

@@ -6,8 +6,8 @@ conference: "Proceedings of the 39th International Conference on Machine Learnin
 year: 2021
 bibkey: nguyen2021improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.08678"}
-tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.08678'}
+tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Tools', 'Pretraining Methods']
 ---
 Multi-head attention is a driving force behind state-of-the-art transformers,
 which achieve remarkable performance across a variety of natural language

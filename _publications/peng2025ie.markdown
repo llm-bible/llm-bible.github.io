@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: peng2025ie
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11275"}
-tags: ['Training Techniques', 'Few-Shot', 'Pre-Training']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11275'}
+tags: ['Pre-Training', 'Few-Shot', 'Training Techniques']
 ---
 Massive high-quality data, both pre-training raw texts and post-training
 annotations, have been carefully prepared to incubate advanced large language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: bauer2021analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2112.08637"}
-tags: ['Pre-Training', 'Ethics and Bias', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2112.08637'}
+tags: ['Pre-Training', 'Few-Shot', 'Training Techniques', 'Prompting', 'Ethics and Bias']
 ---
 Prompting inputs with natural language task descriptions has emerged as a
 popular mechanism to elicit reasonably accurate outputs from large-scale

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: davide2024ai
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.09385"}
-tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Merging']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.09385'}
+tags: ['ACL', 'RAG', 'Model Architecture', 'Tools', 'GPT', 'Merging', 'Survey Paper', 'Reinforcement Learning']
 ---
 We tasked 16 state-of-the-art large language models (LLMs) with estimating
 the likelihood of Artificial General Intelligence (AGI) emerging by 2030. To

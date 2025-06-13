@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shah2023text
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.01261"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.01261'}
 tags: ['RAG', 'Training Techniques']
 ---
 We present ParrotTTS, a modularized text-to-speech synthesis model leveraging

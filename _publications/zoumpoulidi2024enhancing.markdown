@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zoumpoulidi2024enhancing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.04094"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.04094'}
 tags: ['RAG', 'Prompting']
 ---
 Despite the continuous progress of Large Language Models (LLMs) across

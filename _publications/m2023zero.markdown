@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: m2023zero
 additional_links:
-  - {name: "Paper", url: "http://arxiv.org/abs/2309.01026v2"}
+  - {name: "Paper", url: 'http://arxiv.org/abs/2309.01026v2'}
 tags: ['RAG', 'Multimodal Models']
 ---
 We present a method for zero-shot recommendation of multimodal non-stationary

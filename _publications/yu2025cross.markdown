@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2025
 bibkey: yu2025cross
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01857"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01857'}
 tags: ['Training Techniques', 'Ethics and Bias', 'Tools']
 ---
 Chain-of-thought (CoT) has emerged as a critical mechanism for enhancing

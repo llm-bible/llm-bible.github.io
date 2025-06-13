@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhou2024star
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.14497"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.14497'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
 ---
 The efficacy of large language models (LLMs) on downstream tasks usually
 hinges on instruction tuning, which relies critically on the quality of

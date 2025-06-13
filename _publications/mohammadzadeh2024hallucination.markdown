@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: mohammadzadeh2024hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.15460"}
-tags: ['Training Techniques', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.15460'}
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 As large language models (LLMs) are increasingly deployed across various
 industries, concerns regarding their reliability, particularly due to

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: rabeyah2024do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.15560"}
-tags: ['ACL', 'RAG']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.15560'}
+tags: ['RAG', 'ACL']
 ---
 This paper investigates whether large language models (LLMs) show agreement
 in assessing creativity in responses to the Alternative Uses Test (AUT). While

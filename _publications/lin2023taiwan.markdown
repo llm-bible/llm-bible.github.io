@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023taiwan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.17487"}
-tags: ['RAG', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.17487'}
+tags: ['Reinforcement Learning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 In the realm of language models, the nuanced linguistic and cultural
 intricacies of Traditional Chinese, as spoken in Taiwan, have been largely

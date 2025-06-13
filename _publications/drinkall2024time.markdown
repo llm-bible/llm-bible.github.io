@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: drinkall2024time
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.18543"}
-tags: ['Training Techniques', 'Pre-Training', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.18543'}
+tags: ['Training Techniques', 'Pre-Training', 'Model Architecture', 'GPT']
 ---
 Large language models (LLMs) are often trained on extensive, temporally
 indiscriminate text corpora, reflecting the lack of datasets with temporal

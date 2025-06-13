@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: lu2025agentic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11271"}
-tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11271'}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT']
 ---
 Solving complex reasoning tasks may involve visual understanding, domain
 knowledge retrieval, numerical calculation, and multi-step reasoning. Existing

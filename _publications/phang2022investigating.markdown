@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: phang2022investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.04347"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.04347'}
+tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 While large pretrained Transformer models have proven highly capable at
 tackling natural language tasks, handling long sequence inputs continues to be

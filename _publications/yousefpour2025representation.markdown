@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: yousefpour2025representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2504.01550"}
-tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2504.01550'}
+tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have emerged as powerful tools, but their
 inherent safety risks - ranging from harmful content generation to broader

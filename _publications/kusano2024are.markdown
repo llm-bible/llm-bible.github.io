@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kusano2024are
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.14454"}
-tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.14454'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 In large language models (LLM)-based recommendation systems (LLM-RSs),
 accurately predicting user preferences by leveraging the general knowledge of

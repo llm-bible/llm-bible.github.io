@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: mehri2021schema
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2106.07056"}
-tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2106.07056'}
+tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture', 'Fine-Tuning']
 ---
 Developing mechanisms that flexibly adapt dialog systems to unseen tasks and
 domains is a major challenge in dialog research. Neural models implicitly

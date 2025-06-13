@@ -6,10 +6,10 @@ conference: "Arxiv"
 year: 2024
 bibkey: wang2024recipes
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.00634"}
-  - {name: "Code", url: "https://tarsier-vlm.github.io/)"}
-  - {name: "Code", url: "https://github.com/bytedance/tarsier"}
-tags: ['Training Techniques', 'GPT', 'Has Code', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.00634'}
+  - {name: "Code", url: 'https://tarsier-vlm.github.io/)'}
+  - {name: "Code", url: 'https://github.com/bytedance/tarsier'}
+tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'GPT']
 ---
 Generating fine-grained video descriptions is a fundamental challenge in
 video understanding. In this work, we introduce Tarsier, a family of

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: bae2024collective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.02428"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.02428'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Generating a long story of several thousand words with narrative coherence
 using Large Language Models (LLMs) has been a challenging task. Previous

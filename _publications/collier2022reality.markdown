@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: collier2022reality
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2208.11981"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2208.11981'}
 tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) harness linguistic

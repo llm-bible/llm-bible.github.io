@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: chittyvenkata2024llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.00136"}
-tags: ['Language Modeling', 'Tools', 'Applications']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.00136'}
+tags: ['Language Modeling', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have propelled groundbreaking advancements
 across several domains and are commonly used for text generation applications.

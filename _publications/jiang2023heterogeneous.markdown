@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023heterogeneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.09949"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.09949'}
 tags: ['RAG', 'Model Architecture']
 ---
 A Retrieval-Augmented Language Model (RALM) combines a large language model

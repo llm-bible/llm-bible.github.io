@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: belcak2023examining
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2306.01009"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01009'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
 ---
 We conduct a preliminary inquiry into the ability of generative transformer
 models to deductively reason from premises provided. We observe notable

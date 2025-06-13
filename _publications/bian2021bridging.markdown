@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: bian2021bridging
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2107.08582"}
-tags: ['Pre-Training', 'Tools', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2107.08582'}
+tags: ['Masked Language Model', 'Training Techniques', 'Tools', 'Pre-Training', 'Pretraining Methods']
 ---
 Despite recent success in machine reading comprehension (MRC), learning
 high-quality MRC models still requires large-scale labeled training data, even

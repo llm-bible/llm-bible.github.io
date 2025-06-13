@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: chang2023prompting
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.02971"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.02971'}
+tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
 ---
 Prompting and adapter tuning have emerged as efficient alternatives to
 fine-tuning (FT) methods. However, existing studies on speech prompting focused

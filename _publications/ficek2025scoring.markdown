@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: ficek2025scoring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.13820"}
-tags: ['Agentic', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.13820'}
+tags: ['Reinforcement Learning', 'Agentic']
 ---
 Synthetic verification techniques such as generating test cases and reward
 modelling are common ways to enhance the coding capabilities of large language

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: shetty2023growing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.15157"}
-tags: ['Tools', 'GPT', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.15157'}
+tags: ['GPT', 'Tools', 'Model Architecture']
 ---
 Programmers often search for usage examples for API methods. A tool that
 could generate realistic, idiomatic, and contextual usage examples for one or

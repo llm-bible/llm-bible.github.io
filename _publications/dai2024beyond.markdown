@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: dai2024beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2405.19737"}
-  - {name: "Code", url: "https://github.com/C-W-D/EDIT"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2405.19737'}
+  - {name: "Code", url: 'https://github.com/C-W-D/EDIT'}
+tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Prompting', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) scale up and gain powerful Chain-of-Thoughts
 (CoTs) reasoning abilities, practical resource constraints drive efforts to

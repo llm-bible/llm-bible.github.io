@@ -6,8 +6,8 @@ conference: "NeurIPS Workshop on Efficient Natural Language and Speech Processin
 year: 2023
 bibkey: tarasiewicz2023adversarial
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2307.11785"}
-tags: ['Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2307.11785'}
+tags: ['Agentic', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The recent emergence of deep learning methods has enabled the research
 community to achieve state-of-the art results in several domains including

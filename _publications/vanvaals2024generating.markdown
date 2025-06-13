@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: vanvaals2024generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2412.17669"}
-tags: ['RAG', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2412.17669'}
+tags: ['Reinforcement Learning', 'RAG']
 ---
 Broca's aphasia is a type of aphasia characterized by non-fluent, effortful
 and fragmented speech production with relatively good comprehension. Since

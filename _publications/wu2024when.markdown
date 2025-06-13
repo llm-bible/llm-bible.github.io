@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: wu2024when
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.06601"}
-  - {name: "Code", url: "https://anonymous.4open.science/r/SM-1E76"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.06601'}
+  - {name: "Code", url: 'https://anonymous.4open.science/r/SM-1E76'}
 tags: ['Has Code', 'Uncategorized']
 ---
 Hallucination is a major challenge for large language models (LLMs),

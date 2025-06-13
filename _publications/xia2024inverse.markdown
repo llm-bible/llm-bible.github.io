@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: xia2024inverse
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2408.14874"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2408.14874'}
+tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Reinforcement Learning from Human Feedback (RLHF) has proven effective in
 aligning large language models with human intentions, yet it often relies on

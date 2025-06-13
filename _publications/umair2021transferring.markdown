@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: umair2021transferring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.07382"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.07382'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We introduce semantic form mid-tuning, an approach for transferring semantic

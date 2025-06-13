@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2019
 bibkey: ilić2019designing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/1909.09531"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/1909.09531'}
 tags: ['Applications', 'Model Architecture']
 ---
 In this work we explore a deep learning-based dialogue system that generates

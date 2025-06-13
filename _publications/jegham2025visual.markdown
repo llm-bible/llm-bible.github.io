@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: jegham2025visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.16428"}
-tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Ethics and Bias']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.16428'}
+tags: ['Ethics and Bias', 'GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Traditional evaluations of multimodal large language models (LLMs) have been
 limited by their focus on single-image reasoning, failing to assess crucial

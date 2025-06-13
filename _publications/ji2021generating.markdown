@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: ji2021generating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2110.05999"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2110.05999'}
 tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Despite the recent advances in applying pre-trained language models to

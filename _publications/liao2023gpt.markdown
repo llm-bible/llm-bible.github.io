@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liao2023gpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2312.03543"}
-tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2312.03543'}
+tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'GPT', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In the field of autonomous vehicles (AVs), accurately discerning commander
 intent and executing linguistic commands within a visual context presents a

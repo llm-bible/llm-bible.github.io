@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024controllable
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.00361"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.00361'}
 tags: ['Training Techniques']
 ---
 Data augmentation (DA) is crucial to mitigate model training instability and

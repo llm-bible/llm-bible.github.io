@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: wan2024positional
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.23609"}
-  - {name: "Code", url: "https://github.com/meetdavidwan/longformfact"}
-tags: ['Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.23609'}
+  - {name: "Code", url: 'https://github.com/meetdavidwan/longformfact'}
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Applications', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) often exhibit positional bias in long-context
 settings, under-attending to information in the middle of inputs. We

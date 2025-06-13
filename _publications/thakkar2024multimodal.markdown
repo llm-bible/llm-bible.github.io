@@ -6,7 +6,7 @@ conference: "LREC-COLING 2024 - The 2024 Joint International Conference on Compu
 year: 2024
 bibkey: thakkar2024multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.01753"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.01753'}
 tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 In recent years, multimodal natural language processing, aimed at learning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2021
 bibkey: steitz2021crossmodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2109.04422"}
-tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2109.04422'}
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Applications', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reasoning over multiple modalities, e.g. in Visual Question Answering (VQA),
 requires an alignment of semantic concepts across domains. Despite the

@@ -6,8 +6,8 @@ conference: "2024 International Symposium on the Tsetlin Machine (ISTM)"
 year: 2024
 bibkey: yadav2024pruning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2411.04557"}
-tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'Pruning', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2411.04557'}
+tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Interpretability']
 ---
 Designing an explainable model becomes crucial now for Natural Language
 Processing(NLP) since most of the state-of-the-art machine learning models

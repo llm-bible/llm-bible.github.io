@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: weng2023user
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.10252"}
-tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10252'}
+tags: ['Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the burgeoning development in the realm of large language models (LLMs),
 the demand for efficient incremental training tailored to specific industries

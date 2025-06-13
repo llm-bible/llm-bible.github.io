@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: coman2023strong
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.14708"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.14708'}
+tags: ['Attention Mechanism', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Applications']
 ---
 Unlike the Open Domain Question Answering (ODQA) setting, the conversational
 (ODConvQA) domain has received limited attention when it comes to reevaluating

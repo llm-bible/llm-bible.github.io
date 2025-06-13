@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: guo2020incorporating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2010.06138"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2010.06138'}
+tags: ['Language Modeling', 'SLT', 'RAG', 'WMT', 'Tools', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'BERT', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 While large scale pre-trained language models such as BERT have achieved
 great success on various natural language understanding tasks, how to

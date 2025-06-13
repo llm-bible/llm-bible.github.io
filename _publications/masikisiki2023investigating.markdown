@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: masikisiki2023investigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2310.00272"}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2310.00272'}
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models, such as Generative Pre-trained Transformer 3 (aka.
 GPT-3), have been developed to understand language through the analysis of

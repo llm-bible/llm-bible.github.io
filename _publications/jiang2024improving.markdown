@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2024
 bibkey: jiang2024improving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.07284"}
-  - {name: "Code", url: "https://github.com/microsoft/LMOps"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2401.07284'}
+  - {name: "Code", url: 'https://github.com/microsoft/LMOps'}
+tags: ['Has Code', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
 ---
 To enhance the domain-specific capabilities of large language models,
 continued pre-training on a domain-specific corpus is a prevalent method.

@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2020
 bibkey: lei2020memory
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2005.05402"}
-  - {name: "Code", url: "https://github.com/jayleicn/recurrent-transformer"}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2005.05402'}
+  - {name: "Code", url: 'https://github.com/jayleicn/recurrent-transformer'}
+tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 Generating multi-sentence descriptions for videos is one of the most
 challenging captioning tasks due to its high requirements for not only visual

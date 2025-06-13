@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: arora2023adapt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2308.02582"}
-tags: ['RAG', 'Training Techniques', 'Few-Shot', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2308.02582'}
+tags: ['Few-Shot', 'RAG', 'Prompting', 'Training Techniques']
 ---
 Cross-domain and cross-compositional generalization of Text-to-SQL semantic
 parsing is a challenging task. Existing Large Language Model (LLM) based

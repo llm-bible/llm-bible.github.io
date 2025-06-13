@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: scarlatos2025training
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.06424"}
-tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.06424'}
+tags: ['RAG', 'Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Generative artificial intelligence (AI) has the potential to scale up
 personalized tutoring through large language models (LLMs). Recent AI tutors

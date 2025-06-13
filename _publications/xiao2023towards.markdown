@@ -6,9 +6,9 @@ conference: "Arxiv"
 year: 2023
 bibkey: xiao2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2311.15614"}
-  - {name: "Code", url: "https://github.com/Justherozen/FreeAL"}
-tags: ['Tools', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2311.15614'}
+  - {name: "Code", url: 'https://github.com/Justherozen/FreeAL'}
+tags: ['Has Code', 'Training Techniques', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Collecting high-quality labeled data for model training is notoriously
 time-consuming and labor-intensive for various NLP tasks. While copious

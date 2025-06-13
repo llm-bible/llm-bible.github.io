@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: pan2024dense
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.05567"}
-tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2404.05567'}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'GPT', 'Tools', 'Pretraining Methods']
 ---
 Mixture-of-Experts (MoE) language models can reduce computational costs by
 2-4\\(\times\\) compared to dense models without sacrificing performance, making

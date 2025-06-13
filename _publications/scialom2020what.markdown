@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2020
 bibkey: scialom2020what
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2002.10832"}
-tags: ['Pre-Training', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'BERT', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2002.10832'}
+tags: ['Language Modeling', 'RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Multimodal Models', 'Pre-Training']
 ---
 Pre-trained language models have recently contributed to significant advances
 in NLP tasks. Recently, multi-modal versions of BERT have been developed, using

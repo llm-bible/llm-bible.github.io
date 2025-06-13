@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: yan2024spontaneous
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2409.01524"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2409.01524'}
 tags: ['Training Techniques']
 ---
 Self-correction is a novel method that can stimulate the potential reasoning

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022modeling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2210.08431"}
-tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'SLT']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.08431'}
+tags: ['Attention Mechanism', 'Transformer', 'SLT', 'RAG', 'Model Architecture', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Document-level machine translation leverages inter-sentence dependencies to
 produce more coherent and consistent translations. However, these models,

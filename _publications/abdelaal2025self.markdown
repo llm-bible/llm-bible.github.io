@@ -6,8 +6,8 @@ conference: "Industrial Track of 21st Conference on Database Systems for Busines
 year: 2025
 bibkey: abdelaal2025self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2501.17584"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2501.17584'}
+tags: ['RAG', 'Training Techniques', 'Applications', 'Model Architecture', 'Prompting']
 ---
 This paper introduces GLLM, an innovative tool that leverages Large Language
 Models (LLMs) to automatically generate G-code from natural language

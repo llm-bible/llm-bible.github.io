@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023jailbreaking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2305.13860"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13860'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs), like ChatGPT, have demonstrated vast potential
 but also introduce challenges related to content constraints and potential

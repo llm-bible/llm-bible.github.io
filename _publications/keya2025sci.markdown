@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: keya2025sci
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2503.19257"}
-tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2503.19257'}
+tags: ['RAG', 'GPT', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 Every scientific discovery starts with an idea inspired by prior work,
 interdisciplinary concepts, and emerging challenges. Recent advancements in

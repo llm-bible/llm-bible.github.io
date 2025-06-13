@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: kannan2024timeline
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2410.06225"}
-tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2410.06225'}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
 ---
 The ability to steer AI behavior is crucial to preventing its long term
 dangerous and catastrophic potential. Representation Engineering (RepE) has

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2025
 bibkey: fang2025graphgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2502.11925"}
-tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2502.11925'}
+tags: ['GPT', 'Tools', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---
 The rapid development of Multimodal Large Language Models (MLLMs) has enabled
 the integration of multiple modalities, including texts and images, within the

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: zhang2022selective
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2201.01631"}
-tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2201.01631'}
+tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture']
 ---
 Existing document-level neural machine translation (NMT) models have
 sufficiently explored different context settings to provide guidance for target

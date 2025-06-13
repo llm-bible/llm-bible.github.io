@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: zhang2024minimizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2407.09943"}
-tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2407.09943'}
+tags: ['Transformer', 'Few-Shot', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'Pruning', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent research has demonstrated the feasibility of training efficient intent
 detectors based on pre-trained language model~(PLM) with limited labeled data.

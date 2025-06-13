@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: feng2023sentence
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.11957"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.11957'}
 tags: ['Few-Shot']
 ---
 Sentence Simplification aims to rephrase complex sentences into simpler

@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2023
 bibkey: kosinski2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2302.02083"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2302.02083'}
+tags: ['Prompting', 'GPT', 'Model Architecture']
 ---
 Eleven Large Language Models (LLMs) were assessed using a custom-made battery
 of false-belief tasks, considered a gold standard in testing Theory of Mind

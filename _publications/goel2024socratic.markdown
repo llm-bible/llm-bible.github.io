@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2024
 bibkey: goel2024socratic
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2403.03029"}
-tags: ['Tools', 'Reinforcement Learning']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2403.03029'}
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Reframing a negative into a positive thought is at the crux of several
 cognitive approaches to mental health and psychotherapy that could be made more

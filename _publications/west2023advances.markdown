@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: west2023advances
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.17012"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2303.17012'}
 tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT is built on a large language model trained on an enormous corpus of

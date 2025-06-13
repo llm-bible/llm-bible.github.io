@@ -6,8 +6,8 @@ conference: "Arxiv"
 year: 2022
 bibkey: qi2022self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2205.11162"}
-tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
+  - {name: "Paper", url: 'https://arxiv.org/abs/2205.11162'}
+tags: ['Language Modeling', 'RAG', 'Efficiency and Optimization', 'Distillation', 'Applications', 'Training Techniques', 'GPT', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
 ---
 Non-Autoregressive generation is a sequence generation paradigm, which
 removes the dependency between target tokens. It could efficiently reduce the

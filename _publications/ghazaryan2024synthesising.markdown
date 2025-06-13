@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: ghazaryan2024synthesising
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.14425"}
+  - {name: "Paper", url: 'https://arxiv.org/abs/2406.14425'}
 tags: ['RAG', 'Applications']
 ---
 Question Answering (QA) datasets have been instrumental in developing and
