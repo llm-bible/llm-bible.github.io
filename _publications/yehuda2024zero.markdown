@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Interrogatellm: Zero-resource Hallucination Detection In Llm-generated Answers'
+authors: Yakir Yehuda, Itzik Malkiel, Oren Barkan, Jonathan Weill, Royi Ronen, Noam Koenigstein
+conference: "https://aclanthology.org/2024.acl-long.506/"
+year: 2024
+bibkey: yehuda2024zero
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.02889"}
+tags: ['Tools', 'Reinforcement Learning']
+---
+Despite the many advances of Large Language Models (LLMs) and their
+unprecedented rapid evolution, their impact and integration into every facet of
+our daily lives is limited due to various reasons. One critical factor
+hindering their widespread adoption is the occurrence of hallucinations, where
+LLMs invent answers that sound realistic, yet drift away from factual truth. In
+this paper, we present a novel method for detecting hallucinations in large
+language models, which tackles a critical issue in the adoption of these models
+in various real-world scenarios. Through extensive evaluations across multiple
+datasets and LLMs, including Llama-2, we study the hallucination levels of
+various recent LLMs and demonstrate the effectiveness of our method to
+automatically detect them. Notably, we observe up to 87% hallucinations for
+Llama-2 in a specific experiment, where our method achieves a Balanced Accuracy
+of 81%, all without relying on external knowledge.

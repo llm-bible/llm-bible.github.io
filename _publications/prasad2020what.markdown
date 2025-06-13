@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'To What Extent Do Human Explanations Of Model Behavior Align With Actual Model Behavior?'
+authors: Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela, Adina Williams
+conference: "Arxiv"
+year: 2020
+bibkey: prasad2020what
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2012.13354"}
+tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability']
+---
+Given the increasingly prominent role NLP models (will) play in our lives, it
+is important for human expectations of model behavior to align with actual
+model behavior. Using Natural Language Inference (NLI) as a case study, we
+investigate the extent to which human-generated explanations of models'
+inference decisions align with how models actually make these decisions. More
+specifically, we define three alignment metrics that quantify how well natural
+language explanations align with model sensitivity to input words, as measured
+by integrated gradients. Then, we evaluate eight different models (the base and
+large versions of BERT, RoBERTa and ELECTRA, as well as anRNN and bag-of-words
+model), and find that the BERT-base model has the highest alignment with
+human-generated explanations, for all alignment metrics. Focusing in on
+transformers, we find that the base versions tend to have higher alignment with
+human-generated explanations than their larger counterparts, suggesting that
+increasing the number of model parameters leads, in some cases, to worse
+alignment with human explanations. Finally, we find that a model's alignment
+with human explanations is not predicted by the model's accuracy, suggesting
+that accuracy and alignment are complementary ways to evaluate models.

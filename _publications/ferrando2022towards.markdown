@@ -1,0 +1,22 @@
+---
+layout: publication
+title: 'Towards Opening The Black Box Of Neural Machine Translation: Source And Target Interpretations Of The Transformer'
+authors: Javier Ferrando, Gerard I. Gállego, Belen Alastruey, Carlos Escolano, Marta R. Costa-jussà
+conference: "Arxiv"
+year: 2022
+bibkey: ferrando2022towards
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2205.11631"}
+tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications']
+---
+In Neural Machine Translation (NMT), each token prediction is conditioned on
+the source sentence and the target prefix (what has been previously translated
+at a decoding step). However, previous work on interpretability in NMT has
+mainly focused solely on source sentence tokens' attributions. Therefore, we
+lack a full understanding of the influences of every input token (source
+sentence and target prefix) in the model predictions. In this work, we propose
+an interpretability method that tracks input tokens' attributions for both
+contexts. Our method, which can be extended to any encoder-decoder
+Transformer-based model, allows us to better comprehend the inner workings of
+current NMT models. We apply the proposed method to both bilingual and
+multilingual Transformers and present insights into their behaviour.

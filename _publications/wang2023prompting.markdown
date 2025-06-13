@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Fashionlogo: Prompting Multimodal Large Language Models For Fashion Logo Embeddings'
+authors: Zhen Wang, Da Li, Yulin Su, Min Yang, Minghui Qiu, Walton Wang
+conference: "Arxiv"
+year: 2023
+bibkey: wang2023prompting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.09012"}
+tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+---
+Logo embedding models convert the product logos in images into vectors,
+enabling their utilization for logo recognition and detection within e-commerce
+platforms. This facilitates the enforcement of intellectual property rights and
+enhances product search capabilities. However, current methods treat logo
+embedding as a purely visual problem. A noteworthy issue is that visual models
+capture features more than logos. Instead, we view this as a multimodal task,
+using text as auxiliary information to facilitate the visual model's
+understanding of the logo. The emerging Multimodal Large Language Models
+(MLLMs) have demonstrated remarkable capabilities in both visual and textual
+understanding. Inspired by this, we propose an approach, \textbf\{FashionLOGO\},
+to explore how to prompt MLLMs to generate appropriate text for product images,
+which can help visual models achieve better logo embeddings. We adopt a
+cross-attention transformer block that enables visual embedding to
+automatically learn supplementary knowledge from textual embedding. Our
+extensive experiments on real-world datasets prove that FashionLOGO is capable
+of generating generic and robust logo embeddings, achieving state-of-the-art
+performance in all benchmarks.

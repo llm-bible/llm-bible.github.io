@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Benchmarking And Building Long-context Retrieval Models With Loco And M2-BERT'
+authors: Jon Saad-falcon, Daniel Y. Fu, Simran Arora, Neel Guha, Christopher Ré
+conference: "Arxiv"
+year: 2024
+bibkey: saadfalcon2024benchmarking
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.07440"}
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer']
+---
+Retrieval pipelines-an integral component of many machine learning
+systems-perform poorly in domains where documents are long (e.g., 10K tokens or
+more) and where identifying the relevant document requires synthesizing
+information across the entire text. Developing long-context retrieval encoders
+suitable for these domains raises three challenges: (1) how to evaluate
+long-context retrieval performance, (2) how to pretrain a base language model
+to represent both short contexts (corresponding to queries) and long contexts
+(corresponding to documents), and (3) how to fine-tune this model for retrieval
+under the batch size limitations imposed by GPU memory constraints. To address
+these challenges, we first introduce LoCoV1, a novel 12 task benchmark
+constructed to measure long-context retrieval where chunking is not possible or
+not effective. We next present the M2-BERT retrieval encoder, an 80M parameter
+state-space encoder model built from the Monarch Mixer architecture, capable of
+scaling to documents up to 32K tokens long. We describe a pretraining data
+mixture which allows this encoder to process both short and long context
+sequences, and a finetuning approach that adapts this base model to retrieval
+with only single-sample batches. Finally, we validate the M2-BERT retrieval
+encoder on LoCoV1, finding that it outperforms competitive Transformer-based
+models by at least 23.3 points, despite containing upwards of 90x fewer
+parameters.

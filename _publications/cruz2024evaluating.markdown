@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Evaluating Language Models As Risk Scores'
+authors: André F. Cruz, Moritz Hardt, Celestine Mendler-dünner
+conference: "NeurIPS 2024"
+year: 2024
+bibkey: cruz2024evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.14614"}
+tags: ['Prompting', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+---
+Current question-answering benchmarks predominantly focus on accuracy in
+realizable prediction tasks. Conditioned on a question and answer-key, does the
+most likely token match the ground truth? Such benchmarks necessarily fail to
+evaluate LLMs' ability to quantify ground-truth outcome uncertainty. In this
+work, we focus on the use of LLMs as risk scores for unrealizable prediction
+tasks. We introduce folktexts, a software package to systematically generate
+risk scores using LLMs, and evaluate them against US Census data products. A
+flexible API enables the use of different prompting schemes, local or
+web-hosted models, and diverse census columns that can be used to compose
+custom prediction tasks. We evaluate 17 recent LLMs across five proposed
+benchmark tasks. We find that zero-shot risk scores produced by multiple-choice
+question-answering have high predictive signal but are widely miscalibrated.
+Base models consistently overestimate outcome uncertainty, while
+instruction-tuned models underestimate uncertainty and produce over-confident
+risk scores. In fact, instruction-tuning polarizes answer distribution
+regardless of true underlying data uncertainty. This reveals a general
+inability of instruction-tuned LLMs to express data uncertainty using
+multiple-choice answers. A separate experiment using verbalized chat-style risk
+queries yields substantially improved calibration across instruction-tuned
+models. These differences in ability to quantify data uncertainty cannot be
+revealed in realizable settings, and highlight a blind-spot in the current
+evaluation ecosystem that folktexts covers.

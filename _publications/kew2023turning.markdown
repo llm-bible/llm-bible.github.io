@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Turning English-centric Llms Into Polyglots: How Much Multilinguality Is Needed?'
+authors: Tannon Kew, Florian Schottmann, Rico Sennrich
+conference: "Arxiv"
+year: 2023
+bibkey: kew2023turning
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.12683"}
+  - {name: "Code", url: "https://github.com/ZurichNLP/multilingual-instruction-tuning"}
+tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+---
+The vast majority of today's large language models (LLMs) are
+English-centric, having been pretrained predominantly on English text. Yet, in
+order to meet user expectations, models need to be able to respond
+appropriately in multiple languages once deployed in downstream applications.
+This requires strong cross-lingual transfer abilities. In this work, we
+investigate the minimal amount of multilinguality required during finetuning to
+elicit cross-lingual generalisation in English-centric LLMs. In experiments
+across four LLMs, we find that multilingual instruction tuning with as few as
+two to three languages is both necessary and sufficient to elicit effective
+cross-lingual generalisation, with the limiting factor being the degree to
+which a target language is seen during pretraining. Evaluations on five
+different tasks further reveal that multilingual instruction tuning is most
+beneficial for generative tasks that assume input/output language agreement,
+such as in chat settings, while being of less importance for highly structured
+classification-style tasks. Our code and data is available at
+https://github.com/ZurichNLP/multilingual-instruction-tuning.

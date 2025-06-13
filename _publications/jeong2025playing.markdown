@@ -1,0 +1,37 @@
+---
+layout: publication
+title: 'Playing The Fool: Jailbreaking Llms And Multimodal Llms With Out-of-distribution Strategy'
+authors: Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
+conference: "Arxiv"
+year: 2025
+bibkey: jeong2025playing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2503.20823"}
+  - {name: "Code", url: "https://github.com/naver-ai/JOOD"}
+tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'GPT', 'Ethics and Bias', 'Has Code']
+---
+Despite the remarkable versatility of Large Language Models (LLMs) and
+Multimodal LLMs (MLLMs) to generalize across both language and vision tasks,
+LLMs and MLLMs have shown vulnerability to jailbreaking, generating textual
+outputs that undermine safety, ethical, and bias standards when exposed to
+harmful or sensitive inputs. With the recent advancement of safety alignment
+via preference-tuning from human feedback, LLMs and MLLMs have been equipped
+with safety guardrails to yield safe, ethical, and fair responses with regard
+to harmful inputs. However, despite the significance of safety alignment,
+research on the vulnerabilities remains largely underexplored. In this paper,
+we investigate the unexplored vulnerability of the safety alignment, examining
+its ability to consistently provide safety guarantees for
+out-of-distribution(OOD)-ifying harmful inputs that may fall outside the
+aligned data distribution. Our key observation is that OOD-ifying the vanilla
+harmful inputs highly increases the uncertainty of the model to discern the
+malicious intent within the input, leading to a higher chance of being
+jailbroken. Exploiting this vulnerability, we propose JOOD, a new Jailbreak
+framework via OOD-ifying inputs beyond the safety alignment. We explore various
+off-the-shelf visual and textual transformation techniques for OOD-ifying the
+harmful inputs. Notably, we observe that even simple mixing-based techniques
+such as image mixup prove highly effective in increasing the uncertainty of the
+model, thereby facilitating the bypass of the safety alignment. Experiments
+across diverse jailbreak scenarios demonstrate that JOOD effectively jailbreaks
+recent proprietary LLMs and MLLMs such as GPT-4 and o1 with high attack success
+rate, which previous attack approaches have consistently struggled to
+jailbreak. Code is available at https://github.com/naver-ai/JOOD.

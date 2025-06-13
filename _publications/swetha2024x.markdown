@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'X-former: Unifying Contrastive And Reconstruction Learning For Mllms'
+authors: Sirnam Swetha, Jinyu Yang, Tal Neiman, Mamshad Nayeem Rizve, Son Tran, Benjamin Yao, Trishul Chilimbi, Mubarak Shah
+conference: "Arxiv"
+year: 2024
+bibkey: swetha2024x
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.13851"}
+tags: ['Pretraining Methods', 'Multimodal Models', 'Model Architecture', 'Transformer']
+---
+Recent advancements in Multimodal Large Language Models (MLLMs) have
+revolutionized the field of vision-language understanding by integrating visual
+perception capabilities into Large Language Models (LLMs). The prevailing trend
+in this field involves the utilization of a vision encoder derived from
+vision-language contrastive learning (CL), showing expertise in capturing
+overall representations while facing difficulties in capturing detailed local
+patterns. In this work, we focus on enhancing the visual representations for
+MLLMs by combining high-frequency and detailed visual representations, obtained
+through masked image modeling (MIM), with semantically-enriched low-frequency
+representations captured by CL. To achieve this goal, we introduce X-Former
+which is a lightweight transformer module designed to exploit the complementary
+strengths of CL and MIM through an innovative interaction mechanism.
+Specifically, X-Former first bootstraps vision-language representation learning
+and multimodal-to-multimodal generative learning from two frozen vision
+encoders, i.e., CLIP-ViT (CL-based) and MAE-ViT (MIM-based). It further
+bootstraps vision-to-language generative learning from a frozen LLM to ensure
+visual features from X-Former can be interpreted by the LLM. To demonstrate the
+effectiveness of our approach, we assess its performance on tasks demanding
+detailed visual understanding. Extensive evaluations indicate that X-Former
+excels in visual reasoning tasks involving both structural and semantic
+categories in the GQA dataset. Assessment on fine-grained visual perception
+benchmark further confirms its superior capabilities in visual understanding.

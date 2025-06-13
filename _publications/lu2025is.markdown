@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'Smartbench: Is Your LLM Truly A Good Chinese Smartphone Assistant?'
+authors: Xudong Lu, Haohao Gao, Renshou Wu, Shuai Ren, Xiaoxin Chen, Hongsheng Li, Fangyuan Li
+conference: "Arxiv"
+year: 2025
+bibkey: lu2025is
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2503.06029"}
+  - {name: "Code", url: "https://github.com/Lucky-Lance/SmartBench"}
+tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+---
+Large Language Models (LLMs) have become integral to daily life, especially
+advancing as intelligent assistants through on-device deployment on
+smartphones. However, existing LLM evaluation benchmarks predominantly focus on
+objective tasks like mathematics and coding in English, which do not
+necessarily reflect the practical use cases of on-device LLMs in real-world
+mobile scenarios, especially for Chinese users. To address these gaps, we
+introduce SmartBench, the first benchmark designed to evaluate the capabilities
+of on-device LLMs in Chinese mobile contexts. We analyze functionalities
+provided by representative smartphone manufacturers and divide them into five
+categories: text summarization, text Q\&A, information extraction, content
+creation, and notification management, further detailed into 20 specific tasks.
+For each task, we construct high-quality datasets comprising 50 to 200
+question-answer pairs that reflect everyday mobile interactions, and we develop
+automated evaluation criteria tailored for these tasks. We conduct
+comprehensive evaluations of on-device LLMs and MLLMs using SmartBench and also
+assess their performance after quantized deployment on real smartphone NPUs.
+Our contributions provide a standardized framework for evaluating on-device
+LLMs in Chinese, promoting further development and optimization in this
+critical area. Code and data will be available at
+https://github.com/Lucky-Lance/SmartBench.

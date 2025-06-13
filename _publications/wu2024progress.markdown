@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Progress Or Regress? Self-improvement Reversal In Post-training'
+authors: Ting Wu, Xuefeng Li, Pengfei Liu
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024progress
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.05013"}
+tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+---
+Self-improvement through post-training methods such as iterative preference
+learning has been acclaimed for enhancing the problem-solving capabilities
+(e.g., mathematical reasoning) of Large Language Models (LLMs) without human
+intervention. However, as exploration deepens, it becomes crucial to assess
+whether these improvements genuinely signify progress in solving more
+challenging problems or if they could lead to unintended regressions. To
+address this, we propose a comprehensive evaluative framework that goes beyond
+the superficial pass@1 metric to scrutinize the underlying enhancements of
+post-training paradigms for self-improvement. Through rigorous experimentation
+and analysis across diverse problem-solving tasks, the empirical results point
+out the phenomenon of *self-improvement reversal*, where models showing
+improved performance across benchmarks will paradoxically exhibit declines in
+broader, essential capabilities, like output diversity and out-of-distribution
+(OOD) generalization. These findings indicate that current self-improvement
+practices through post-training are inadequate for equipping models to tackle
+more complex problems. Furthermore, they underscore the necessity of our
+critical evaluation metrics in discerning the *progress or regress*
+dichotomy for self-improving LLMs.

@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Persistent Pre-training Poisoning Of Llms'
+authors: Yiming Zhang, Javier Rando, Ivan Evtimov, Jianfeng Chi, Eric Michael Smith, Nicholas Carlini, Florian Tramèr, Daphne Ippolito
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024persistent
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.13722"}
+tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+---
+Large language models are pre-trained on uncurated text datasets consisting
+of trillions of tokens scraped from the Web. Prior work has shown that: (1)
+web-scraped pre-training datasets can be practically poisoned by malicious
+actors; and (2) adversaries can compromise language models after poisoning
+fine-tuning datasets. Our work evaluates for the first time whether language
+models can also be compromised during pre-training, with a focus on the
+persistence of pre-training attacks after models are fine-tuned as helpful and
+harmless chatbots (i.e., after SFT and DPO). We pre-train a series of LLMs from
+scratch to measure the impact of a potential poisoning adversary under four
+different attack objectives (denial-of-service, belief manipulation,
+jailbreaking, and prompt stealing), and across a wide range of model sizes
+(from 600M to 7B). Our main result is that poisoning only 0.1% of a model's
+pre-training dataset is sufficient for three out of four attacks to measurably
+persist through post-training. Moreover, simple attacks like denial-of-service
+persist through post-training with a poisoning rate of only 0.001%.

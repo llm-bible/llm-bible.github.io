@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Let Models Speak Ciphers: Multiagent Debate Through Embeddings'
+authors: Chau Pham, Boyi Liu, Yingxiang Yang, Zhengyu Chen, Tianyi Liu, Jianbo Yuan, Bryan A. Plummer, Zhaoran Wang, Hongxia Yang
+conference: "Arxiv"
+year: 2023
+bibkey: pham2023let
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.06272"}
+tags: ['Agentic', 'Security', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+---
+Discussion and debate among Large Language Models (LLMs) have gained
+considerable attention due to their potential to enhance the reasoning ability
+of LLMs. Although natural language is an obvious choice for communication due
+to LLM's language understanding capability, the token sampling step needed when
+generating natural language poses a potential risk of information loss, as it
+uses only one token to represent the model's belief across the entire
+vocabulary. In this paper, we introduce a communication regime named CIPHER
+(Communicative Inter-Model Protocol Through Embedding Representation) to
+address this issue. Specifically, we remove the token sampling step from LLMs
+and let them communicate their beliefs across the vocabulary through the
+expectation of the raw transformer output embeddings. Remarkably, by deviating
+from natural language, CIPHER offers an advantage of encoding a broader
+spectrum of information without any modification to the model weights,
+outperforming the state-of-the-art LLM debate methods using natural language by
+0.5-5.0% across five reasoning tasks and multiple open-source LLMs of varying
+sizes. This showcases the superiority and robustness of embeddings as an
+alternative "language" for communication among LLMs. We anticipate that CIPHER
+will inspire further exploration for the design of interactions within LLM
+agent systems, offering a new direction that could significantly influence
+future developments in the field.

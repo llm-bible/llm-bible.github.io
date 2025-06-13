@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'E2LLM: Encoder Elongated Large Language Models For Long-context Understanding And Reasoning'
+authors: Zihan Liao, Jun Wang, Hang Yu, Lingxiao Wei, Jianguo Li, Jun Wang, Wei Zhang
+conference: "Arxiv"
+year: 2024
+bibkey: liao2024encoder
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.06679"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+---
+In the realm of Large Language Models (LLMs), the ability to process long
+contexts is increasingly crucial for tasks such as multi-round dialogues, code
+generation, and document summarization. This paper addresses the challenges of
+enhancing the long-context performance, reducing computational complexity, and
+leveraging pretrained models collectively termed the "impossible triangle." We
+introduce E2LLM (Encoder Elongated Large Language Models), a novel approach
+that effectively navigates this paradox. The method involves splitting long
+contexts into chunks, compressing each into embedding vectors via a pretrained
+text encoder, and utilizing an adapter to align these representations with a
+decoder-only LLM. Two training objectives, focusing on reconstruction of the
+encoder output and long-context instruction fine-tuning, are employed to
+facilitate the understanding of soft prompts by the LLM. Experimental results
+demonstrate that E2LLM achieves superior performance in long-context scenarios
+while balancing efficiency, performance, and compatibility with pretrained
+models. Our framework thus represents a significant advancement in the field,
+contributing to effective long-text modeling.

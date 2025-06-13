@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Peapod: Personalized Prompt Distillation For Generative Recommendation'
+authors: Jerome Ramos, Bin Wu, Aldo Lipani
+conference: "Arxiv"
+year: 2024
+bibkey: ramos2024personalized
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.05033"}
+tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Distillation', 'RecSys', 'Interpretability and Explainability', 'Prompting']
+---
+Recently, researchers have investigated the capabilities of Large Language
+Models (LLMs) for generative recommender systems. Existing LLM-based
+recommender models are trained by adding user and item IDs to a discrete prompt
+template. However, the disconnect between IDs and natural language makes it
+difficult for the LLM to learn the relationship between users. To address this
+issue, we propose a PErsonAlized PrOmpt Distillation (PeaPOD) approach, to
+distill user preferences as personalized soft prompts. Considering the
+complexities of user preferences in the real world, we maintain a shared set of
+learnable prompts that are dynamically weighted based on the user's interests
+to construct the user-personalized prompt in a compositional manner.
+Experimental results on three real-world datasets demonstrate the effectiveness
+of our PeaPOD model on sequential recommendation, top-n recommendation, and
+explanation generation tasks.

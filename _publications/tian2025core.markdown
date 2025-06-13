@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Core-mmrag: Cross-source Knowledge Reconciliation For Multimodal RAG'
+authors: Yang Tian, Fan Liu, Jingyuan Zhang, Victoria W., Yupeng Hu, Liqiang Nie
+conference: "Arxiv"
+year: 2025
+bibkey: tian2025core
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2506.02544"}
+tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models']
+---
+Multimodal Retrieval-Augmented Generation (MMRAG) has been introduced to enhance Multimodal Large Language Models by incorporating externally retrieved multimodal knowledge, but it introduces two challenges: Parametric-Retrieved Knowledge Inconsistency (PRKI), where discrepancies between parametric and retrieved knowledge create uncertainty in determining reliability, and Visual-Textual Knowledge Inconsistency (VTKI), where misalignment between visual and textual sources disrupts entity representation. To address these challenges, we propose Cross-source knowledge \textbf\{Re\}conciliation for Multimodal RAG (CoRe-MMRAG), a novel end-to-end framework that effectively reconciles inconsistencies across knowledge sources. CoRe-MMRAG follows a four-stage pipeline: it first generates an internal response from parametric knowledge, then selects the most relevant multimodal evidence via joint similarity assessment, generates an external response, and finally integrates both to produce a reliable answer. Additionally, a specialized training paradigm enhances knowledge source discrimination, multimodal integration, and unified answer generation. Experiments on KB-VQA benchmarks show that CoRe-MMRAG achieves substantial improvements over baseline methods, achieving 5.6% and 9.3% performance gains on InfoSeek and Encyclopedic-VQA, respectively.

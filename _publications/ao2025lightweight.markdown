@@ -1,0 +1,35 @@
+---
+layout: publication
+title: 'Lightprof: A Lightweight Reasoning Framework For Large Language Model On Knowledge Graph'
+authors: Tu Ao, Yanhua Yu, Yuling Wang, Yang Deng, Zirui Guo, Liang Pang, Pinghui Wang, Tat-seng Chua, Xiao Zhang, Zhen Cai
+conference: "Arxiv"
+year: 2025
+bibkey: ao2025lightweight
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2504.03137"}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+---
+Large Language Models (LLMs) have impressive capabilities in text
+understanding and zero-shot reasoning. However, delays in knowledge updates may
+cause them to reason incorrectly or produce harmful results. Knowledge Graphs
+(KGs) provide rich and reliable contextual information for the reasoning
+process of LLMs by structurally organizing and connecting a wide range of
+entities and relations. Existing KG-based LLM reasoning methods only inject
+KGs' knowledge into prompts in a textual form, ignoring its structural
+information. Moreover, they mostly rely on close-source models or open-source
+models with large parameters, which poses challenges to high resource
+consumption. To address this, we propose a novel Lightweight and efficient
+Prompt learning-ReasOning Framework for KGQA (LightPROF), which leverages the
+full potential of LLMs to tackle complex reasoning tasks in a
+parameter-efficient manner. Specifically, LightPROF follows a
+"Retrieve-Embed-Reason process", first accurately, and stably retrieving the
+corresponding reasoning graph from the KG through retrieval module. Next,
+through a Transformer-based Knowledge Adapter, it finely extracts and
+integrates factual and structural information from the KG, then maps this
+information to the LLM's token embedding space, creating an LLM-friendly prompt
+to be used by the LLM for the final reasoning. Additionally, LightPROF only
+requires training Knowledge Adapter and can be compatible with any open-source
+LLM. Extensive experiments on two public KGQA benchmarks demonstrate that
+LightPROF achieves superior performance with small-scale LLMs. Furthermore,
+LightPROF shows significant advantages in terms of input token count and
+reasoning time.

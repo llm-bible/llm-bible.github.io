@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'From Multimodal Llms To Generalist Embodied Agents: Methods And Lessons'
+authors: Andrew Szot, Bogdan Mazoure, Omar Attia, Aleksei Timofeev, Harsh Agrawal, Devon Hjelm, Zhe Gan, Zsolt Kira, Alexander Toshev
+conference: "Arxiv"
+year: 2024
+bibkey: szot2024from
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.08442"}
+tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning']
+---
+We examine the capability of Multimodal Large Language Models (MLLMs) to
+tackle diverse domains that extend beyond the traditional language and vision
+tasks these models are typically trained on. Specifically, our focus lies in
+areas such as Embodied AI, Games, UI Control, and Planning. To this end, we
+introduce a process of adapting an MLLM to a Generalist Embodied Agent (GEA).
+GEA is a single unified model capable of grounding itself across these varied
+domains through a multi-embodiment action tokenizer. GEA is trained with
+supervised learning on a large dataset of embodied experiences and with online
+RL in interactive simulators. We explore the data and algorithmic choices
+necessary to develop such a model. Our findings reveal the importance of
+training with cross-domain data and online RL for building generalist agents.
+The final GEA model achieves strong generalization performance to unseen tasks
+across diverse benchmarks compared to other generalist models and
+benchmark-specific approaches.

@@ -1,0 +1,23 @@
+---
+layout: publication
+title: 'Cache & Distil: Optimising API Calls To Large Language Models'
+authors: Guillem Ramírez, Matthias Lindemann, Alexandra Birch, Ivan Titov
+conference: "Findings of the Association for Computational Linguistics ACL 2024"
+year: 2023
+bibkey: ramírez2023cache
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.13561"}
+tags: ['Tools']
+---
+Large-scale deployment of generative AI tools often depends on costly API
+calls to a Large Language Model (LLM) to fulfil user queries. To curtail the
+frequency of these calls, one can employ a smaller language model -- a student
+-- which is continuously trained on the responses of the LLM. This student
+gradually gains proficiency in independently handling an increasing number of
+user requests, a process we term neural caching. The crucial element in neural
+caching is a policy that decides which requests should be processed by the
+student alone and which should be redirected to the LLM, subsequently aiding
+the student's learning. In this study, we focus on classification tasks, and we
+consider a range of classic active learning-based selection criteria as the
+policy. Our experiments suggest that Margin Sampling and Query by Committee
+bring consistent benefits across tasks and budgets.

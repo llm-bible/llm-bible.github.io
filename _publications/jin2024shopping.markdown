@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Shopping MMLU: A Massive Multi-task Online Shopping Benchmark For Large Language Models'
+authors: Yilun Jin, Zheng Li, Chenwei Zhang, Tianyu Cao, Yifan Gao, Pratik Jayarao, Mao Li, Xin Liu, Ritesh Sarkhel, Xianfeng Tang, Haodong Wang, Zhengyang Wang, Wenju Xu, Jingfeng Yang, Qingyu Yin, Xian Li, Priyanka Nigam, Yi Xu, Kai Chen, Qiang Yang, Meng Jiang, Bing Yin
+conference: "Arxiv"
+year: 2024
+bibkey: jin2024shopping
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.20745"}
+  - {name: "Code", url: "https://github.com/KL4805/ShoppingMMLU"}
+tags: ['Has Code', 'KDD', 'Few-Shot', 'Reinforcement Learning']
+---
+Online shopping is a complex multi-task, few-shot learning problem with a
+wide and evolving range of entities, relations, and tasks. However, existing
+models and benchmarks are commonly tailored to specific tasks, falling short of
+capturing the full complexity of online shopping. Large Language Models (LLMs),
+with their multi-task and few-shot learning abilities, have the potential to
+profoundly transform online shopping by alleviating task-specific engineering
+efforts and by providing users with interactive conversations. Despite the
+potential, LLMs face unique challenges in online shopping, such as
+domain-specific concepts, implicit knowledge, and heterogeneous user behaviors.
+Motivated by the potential and challenges, we propose Shopping MMLU, a diverse
+multi-task online shopping benchmark derived from real-world Amazon data.
+Shopping MMLU consists of 57 tasks covering 4 major shopping skills: concept
+understanding, knowledge reasoning, user behavior alignment, and
+multi-linguality, and can thus comprehensively evaluate the abilities of LLMs
+as general shop assistants. With Shopping MMLU, we benchmark over 20 existing
+LLMs and uncover valuable insights about practices and prospects of building
+versatile LLM-based shop assistants. Shopping MMLU can be publicly accessed at
+https://github.com/KL4805/ShoppingMMLU. In addition, with Shopping MMLU, we
+host a competition in KDD Cup 2024 with over 500 participating teams. The
+winning solutions and the associated workshop can be accessed at our website
+https://amazon-kddcup24.github.io/.

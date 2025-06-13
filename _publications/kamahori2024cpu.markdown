@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Fiddler: CPU-GPU Orchestration For Fast Inference Of Mixture-of-experts Models'
+authors: Keisuke Kamahori, Tian Tang, Yile Gu, Kan Zhu, Baris Kasikci
+conference: "Arxiv"
+year: 2024
+bibkey: kamahori2024cpu
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.07033"}
+  - {name: "Code", url: "https://github.com/efeslab/fiddler"}
+tags: ['Model Architecture', 'Has Code']
+---
+Large Language Models (LLMs) with the Mixture-of-Experts (MoE) architectures
+have shown promising performance on various tasks. However, due to the huge
+model sizes, running them in resource-constrained environments where the GPU
+memory is not abundant is challenging. Some existing systems propose to use CPU
+resources to solve that, but they either suffer from the significant overhead
+of frequently moving data between CPU and GPU, or fail to consider distinct
+characteristics of CPUs and GPUs. This paper proposes Fiddler, a
+resource-efficient inference system for MoE models with limited GPU resources.
+Fiddler strategically utilizes CPU and GPU resources by determining the optimal
+execution strategy. Our evaluation shows that, unlike state-of-the-art systems
+that optimize for specific scenarios such as single batch inference or long
+prefill, Fiddler performs better in all scenarios. Compared against different
+baselines, Fiddler achieves 1.26 times speed up in single batch inference, 1.30
+times in long prefill processing, and 11.57 times in beam search inference. The
+code of Fiddler is publicly available at https://github.com/efeslab/fiddler.

@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'HLT-MT: High-resource Language-specific Training For Multilingual Neural Machine Translation'
+authors: Jian Yang, Yuwei Yin, Shuming Ma, Dongdong Zhang, Zhoujun Li, Furu Wei
+conference: "Arxiv"
+year: 2022
+bibkey: yang2022hlt
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2207.04906"}
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+---
+Multilingual neural machine translation (MNMT) trained in multiple language
+pairs has attracted considerable attention due to fewer model parameters and
+lower training costs by sharing knowledge among multiple languages.
+Nonetheless, multilingual training is plagued by language interference
+degeneration in shared parameters because of the negative interference among
+different translation directions, especially on high-resource languages. In
+this paper, we propose the multilingual translation model with the
+high-resource language-specific training (HLT-MT) to alleviate the negative
+interference, which adopts the two-stage training with the language-specific
+selection mechanism. Specifically, we first train the multilingual model only
+with the high-resource pairs and select the language-specific modules at the
+top of the decoder to enhance the translation quality of high-resource
+directions. Next, the model is further trained on all available corpora to
+transfer knowledge from high-resource languages (HRLs) to low-resource
+languages (LRLs). Experimental results show that HLT-MT outperforms various
+strong baselines on WMT-10 and OPUS-100 benchmarks. Furthermore, the analytic
+experiments validate the effectiveness of our method in mitigating the negative
+interference in multilingual training.

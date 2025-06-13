@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Rolling The DICE On Idiomaticity: How Llms Fail To Grasp Context'
+authors: Maggie Mi, Aline Villavicencio, Nafise Sadat Moosavi
+conference: "Arxiv"
+year: 2024
+bibkey: mi2024rolling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.16069"}
+tags: ['Uncategorized']
+---
+Human processing of idioms relies on understanding the contextual sentences
+in which idioms occur, as well as language-intrinsic features such as frequency
+and speaker-intrinsic factors like familiarity. While LLMs have shown high
+performance on idiomaticity detection tasks, this success may be attributed to
+reasoning shortcuts in existing datasets. To this end, we construct a novel,
+controlled contrastive dataset designed to test whether LLMs can effectively
+use context to disambiguate idiomatic meaning. Additionally, we explore how
+collocational frequency and sentence probability influence model performance.
+Our findings reveal that LLMs often fail to resolve idiomaticity when it is
+required to attend to the surrounding context, and that models perform better
+on sentences that have higher likelihood. The collocational frequency of
+expressions also impacts performance. We make our code and dataset publicly
+available.

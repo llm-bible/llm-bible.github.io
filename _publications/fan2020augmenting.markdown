@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Augmenting Transformers With Knn-based Composite Memory For Dialogue'
+authors: Angela Fan, Claire Gardent, Chloe Braud, Antoine Bordes
+conference: "Arxiv"
+year: 2020
+bibkey: fan2020augmenting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2004.12744"}
+tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+---
+Various machine learning tasks can benefit from access to external
+information of different modalities, such as text and images. Recent work has
+focused on learning architectures with large memories capable of storing this
+knowledge. We propose augmenting generative Transformer neural networks with
+KNN-based Information Fetching (KIF) modules. Each KIF module learns a read
+operation to access fixed external knowledge. We apply these modules to
+generative dialog modeling, a challenging task where information must be
+flexibly retrieved and incorporated to maintain the topic and flow of
+conversation. We demonstrate the effectiveness of our approach by identifying
+relevant knowledge required for knowledgeable but engaging dialog from
+Wikipedia, images, and human-written dialog utterances, and show that
+leveraging this retrieved information improves model performance, measured by
+automatic and human evaluation.

@@ -1,0 +1,22 @@
+---
+layout: publication
+title: 'La-rag:enhancing Llm-based ASR Accuracy With Retrieval-augmented Generation'
+authors: Shaojun Li, Hengchao Shang, Daimeng Wei, Jiaxin Guo, Zongyao Li, Xianghui He, Min Zhang, Hao Yang
+conference: "Arxiv"
+year: 2024
+bibkey: li2024la
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.08597"}
+tags: ['Prompting', 'RAG', 'In-Context Learning', 'INTERSPEECH']
+---
+Recent advancements in integrating speech information into large language
+models (LLMs) have significantly improved automatic speech recognition (ASR)
+accuracy. However, existing methods often constrained by the capabilities of
+the speech encoders under varied acoustic conditions, such as accents. To
+address this, we propose LA-RAG, a novel Retrieval-Augmented Generation (RAG)
+paradigm for LLM-based ASR. LA-RAG leverages fine-grained token-level speech
+datastores and a speech-to-speech retrieval mechanism to enhance ASR accuracy
+via LLM in-context learning (ICL) capabilities. Experiments on Mandarin and
+various Chinese dialect datasets demonstrate significant improvements in ASR
+accuracy compared to existing methods, validating the effectiveness of our
+approach, especially in handling accent variations.

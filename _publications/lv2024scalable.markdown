@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Scalable Efficient Training Of Large Language Models With Low-dimensional Projected Attention'
+authors: Xingtai Lv, Ning Ding, Kaiyan Zhang, Ermo Hua, Ganqu Cui, Bowen Zhou
+conference: "Arxiv"
+year: 2024
+bibkey: lv2024scalable
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2411.02063"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+---
+Improving the effectiveness and efficiency of large language models (LLMs)
+simultaneously is a critical yet challenging research goal. In this paper, we
+find that low-rank pre-training, normally considered as efficient methods that
+will compromise performance, can be scalably effective when reduced parameters
+are precisely targeted. Specifically, applying the low-dimensional module only
+to the attention layer -- resolves this issue and enhances both effectiveness
+and efficiency. We refer to this structure as Low-dimensional Projected
+Attention (LPA) and provide an explanatory analysis. Through extensive
+experimentation at parameter scales of 130M, 370M, and scaling up to 3B, we
+have validated the effectiveness and scalability of LPA. Our results show that
+LPA model can save up to 12.4% in time while achieving an approximate 5%
+improvement in test perplexity (ppl) and on downstream tasks compared with the
+vanilla Transformer.

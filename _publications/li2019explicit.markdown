@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Explicit Sentence Compression For Neural Machine Translation'
+authors: Zuchao Li, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, Zhuosheng Zhang, Hai Zhao
+conference: "Arxiv"
+year: 2019
+bibkey: li2019explicit
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1912.11980"}
+tags: ['WMT', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+---
+State-of-the-art Transformer-based neural machine translation (NMT) systems
+still follow a standard encoder-decoder framework, in which source sentence
+representation can be well done by an encoder with self-attention mechanism.
+Though Transformer-based encoder may effectively capture general information in
+its resulting source sentence representation, the backbone information, which
+stands for the gist of a sentence, is not specifically focused on. In this
+paper, we propose an explicit sentence compression method to enhance the source
+sentence representation for NMT. In practice, an explicit sentence compression
+goal used to learn the backbone information in a sentence. We propose three
+ways, including backbone source-side fusion, target-side fusion, and both-side
+fusion, to integrate the compressed sentence into NMT. Our empirical tests on
+the WMT English-to-French and English-to-German translation tasks show that the
+proposed sentence compression method significantly improves the translation
+performances over strong baselines.

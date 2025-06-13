@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Layer By Layer: Uncovering Where Multi-task Learning Happens In Instruction-tuned Large Language Models'
+authors: Zheng Zhao, Yftah Ziser, Shay B. Cohen
+conference: "Arxiv"
+year: 2024
+bibkey: zhao2024layer
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.20008"}
+tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+---
+Fine-tuning pre-trained large language models (LLMs) on a diverse array of
+tasks has become a common approach for building models that can solve various
+natural language processing (NLP) tasks. However, where and to what extent
+these models retain task-specific knowledge remains largely unexplored. This
+study investigates the task-specific information encoded in pre-trained LLMs
+and the effects of instruction tuning on their representations across a diverse
+set of over 60 NLP tasks. We use a set of matrix analysis tools to examine the
+differences between the way pre-trained and instruction-tuned LLMs store
+task-specific information. Our findings reveal that while some tasks are
+already encoded within the pre-trained LLMs, others greatly benefit from
+instruction tuning. Additionally, we pinpointed the layers in which the model
+transitions from high-level general representations to more task-oriented
+representations. This finding extends our understanding of the governing
+mechanisms of LLMs and facilitates future research in the fields of
+parameter-efficient transfer learning and multi-task learning.

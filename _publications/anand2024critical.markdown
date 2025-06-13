@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'A Critical Study Of What Code-llms (do Not) Learn'
+authors: Abhinav Anand, Shweta Verma, Krishna Narasimhan, Mira Mezini
+conference: "Arxiv"
+year: 2024
+bibkey: anand2024critical
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.11930"}
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+---
+Large Language Models trained on code corpora (code-LLMs) have demonstrated
+impressive performance in various coding assistance tasks. However, despite
+their increased size and training dataset, code-LLMs still have limitations
+such as suggesting codes with syntactic errors, variable misuse etc. Some
+studies argue that code-LLMs perform well on coding tasks because they use
+self-attention and hidden representations to encode relations among input
+tokens. However, previous works have not studied what code properties are not
+encoded by code-LLMs. In this paper, we conduct a fine-grained analysis of
+attention maps and hidden representations of code-LLMs. Our study indicates
+that code-LLMs only encode relations among specific subsets of input tokens.
+Specifically, by categorizing input tokens into syntactic tokens and
+identifiers, we found that models encode relations among syntactic tokens and
+among identifiers, but they fail to encode relations between syntactic tokens
+and identifiers. We also found that fine-tuned models encode these relations
+poorly compared to their pre-trained counterparts. Additionally, larger models
+with billions of parameters encode significantly less information about code
+than models with only a few hundred million parameters.

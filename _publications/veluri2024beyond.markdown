@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Beyond Turn-based Interfaces: Synchronous Llms As Full-duplex Dialogue Agents'
+authors: Bandhav Veluri, Benjamin N Peloquin, Bokai Yu, Hongyu Gong, Shyamnath Gollakota
+conference: "Arxiv"
+year: 2024
+bibkey: veluri2024beyond
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.15594"}
+tags: ['Agentic', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+---
+Despite broad interest in modeling spoken dialogue agents, most approaches
+are inherently "half-duplex" -- restricted to turn-based interaction with
+responses requiring explicit prompting by the user or implicit tracking of
+interruption or silence events. Human dialogue, by contrast, is "full-duplex"
+allowing for rich synchronicity in the form of quick and dynamic turn-taking,
+overlapping speech, and backchanneling. Technically, the challenge of achieving
+full-duplex dialogue with LLMs lies in modeling synchrony as pre-trained LLMs
+do not have a sense of "time". To bridge this gap, we propose Synchronous LLMs
+for full-duplex spoken dialogue modeling. We design a novel mechanism to
+integrate time information into Llama3-8b so that they run synchronously with
+the real-world clock. We also introduce a training recipe that uses 212k hours
+of synthetic spoken dialogue data generated from text dialogue data to create a
+model that generates meaningful and natural spoken dialogue, with just 2k hours
+of real-world spoken dialogue data. Synchronous LLMs outperform
+state-of-the-art in dialogue meaningfulness while maintaining naturalness.
+Finally, we demonstrate the model's ability to participate in full-duplex
+dialogue by simulating interaction between two agents trained on different
+datasets, while considering Internet-scale latencies of up to 240 ms. Webpage:
+https://syncllm.cs.washington.edu/.

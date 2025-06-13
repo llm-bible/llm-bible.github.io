@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Tic-lm: A Web-scale Benchmark For Time-continual LLM Pretraining'
+authors: Jeffrey Li, Mohammadreza Armandpour, Iman Mirzadeh, Sachin Mehta, Vaishaal Shankar, Raviteja Vemulapalli, Samy Bengio, Oncel Tuzel, Mehrdad Farajtabar, Hadi Pouransari, Fartash Faghri
+conference: "Arxiv"
+year: 2025
+bibkey: li2025tic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2504.02107"}
+tags: ['Pretraining Methods', 'Language Modeling', 'Training Techniques', 'GPT']
+---
+Large Language Models (LLMs) trained on historical web data inevitably become
+outdated. We investigate evaluation strategies and update methods for LLMs as
+new data becomes available. We introduce a web-scale dataset for time-continual
+pretraining of LLMs derived from 114 dumps of Common Crawl (CC) - orders of
+magnitude larger than previous continual language modeling benchmarks. We also
+design time-stratified evaluations across both general CC data and specific
+domains (Wikipedia, StackExchange, and code documentation) to assess how well
+various continual learning methods adapt to new data while retaining past
+knowledge. Our findings demonstrate that, on general CC data, autoregressive
+meta-schedules combined with a fixed-ratio replay of older data can achieve
+comparable held-out loss to re-training from scratch, while requiring
+significantly less computation (2.6x). However, the optimal balance between
+incorporating new data and replaying old data differs as replay is crucial to
+avoid forgetting on generic web data but less so on specific domains.

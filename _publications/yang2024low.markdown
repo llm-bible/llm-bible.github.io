@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Loretta: Low-rank Economic Tensor-train Adaptation For Ultra-low-parameter Fine-tuning Of Large Language Models'
+authors: Yifan Yang, Jiajun Zhou, Ngai Wong, Zheng Zhang
+conference: "Arxiv"
+year: 2024
+bibkey: yang2024low
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.11417"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+---
+Various parameter-efficient fine-tuning (PEFT) techniques have been proposed
+to enable computationally efficient fine-tuning while maintaining model
+performance. However, existing PEFT methods are still limited by the growing
+number of trainable parameters with the rapid deployment of Large Language
+Models (LLMs). To address this challenge, we present LoRETTA, an
+ultra-parameter-efficient framework that significantly reduces trainable
+parameters through tensor-train decomposition. Specifically, we propose two
+methods, named \{LoRETTA\}\\(_\{adp\}\\) and \{LoRETTA\}\\(_\{rep\}\\). The former employs
+tensorized adapters, offering a high-performance yet lightweight approach for
+the fine-tuning of LLMs. The latter emphasizes fine-tuning via weight
+parameterization with a set of small tensor factors. LoRETTA achieves
+comparable or better performance than most widely used PEFT methods with up to
+\\(100\times\\) fewer parameters on the LLaMA-2-7B models. Furthermore, empirical
+results demonstrate that the proposed method effectively improves training
+efficiency, enjoys better multi-task learning performance, and enhances the
+anti-overfitting capability. Plug-and-play codes built upon the Huggingface
+framework and PEFT library will be released.

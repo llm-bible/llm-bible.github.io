@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Chat-scene: Bridging 3D Scene And Large Language Models With Object Identifiers'
+authors: Haifeng Huang, Yilun Chen, Zehan Wang, Rongjie Huang, Runsen Xu, Tai Wang, Luping Liu, Xize Cheng, Yang Zhao, Jiangmiao Pang, Zhou Zhao
+conference: "Arxiv"
+year: 2023
+bibkey: huang2023chat
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.08168"}
+tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+---
+Recent advancements in 3D Large Language Models (LLMs) have demonstrated
+promising capabilities for 3D scene understanding. However, previous methods
+exhibit deficiencies in general referencing and grounding capabilities for
+intricate scene comprehension. In this paper, we introduce the use of object
+identifiers and object-centric representations to interact with scenes at the
+object level. Specifically, we decompose the input 3D scene into a set of
+object proposals, each assigned a unique identifier token, which enables
+efficient object referencing and grounding during user-assistant interactions.
+Given the scarcity of scene-language data, we model the scene embeddings as a
+sequence of explicit object-level embeddings, derived from semantic-rich 2D or
+3D representations. By employing object identifiers, we transform diverse 3D
+scene-language tasks into a unified question-answering format, facilitating
+joint training without the need for additional task-specific heads. With
+minimal fine-tuning on all downstream tasks, our model significantly
+outperforms existing methods on benchmarks including ScanRefer, Multi3DRefer,
+Scan2Cap, ScanQA, and SQA3D.

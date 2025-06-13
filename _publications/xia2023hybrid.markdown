@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Hybrid-raca: Hybrid Retrieval-augmented Composition Assistance For Real-time Text Prediction'
+authors: Menglin Xia, Xuchao Zhang, Camille Couturier, Guoqing Zheng, Saravan Rajmohan, Victor Ruhle
+conference: "Arxiv"
+year: 2023
+bibkey: xia2023hybrid
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.04215"}
+tags: ['RAG', 'Applications']
+---
+Large language models (LLMs) enhanced with retrieval augmentation has shown
+great performance in many applications. However, the computational demands for
+these models pose a challenge when applying them to real-time tasks, such as
+composition assistance. To address this, we propose Hybrid Retrieval-Augmented
+Composition Assistance (Hybrid-RACA), a novel system for real-time text
+prediction that efficiently combines a cloud-based LLM with a smaller
+client-side model through retrieval augmented memory. This integration enables
+the client model to generate better responses, benefiting from the LLM's
+capabilities and cloud-based data. Meanwhile, via a novel asynchronous memory
+update mechanism, the client model can deliver real-time completions to user
+inputs without the need to wait for responses from the cloud. Our experiments
+on five datasets demonstrate that Hybrid-RACA offers strong performance while
+maintaining low latency.

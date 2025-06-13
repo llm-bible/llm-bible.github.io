@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'R-PRM: Reasoning-driven Process Reward Modeling'
+authors: Shuaijie She, Junxiao Liu, Yifeng Liu, Jiajun Chen, Xin Huang, Shujian Huang
+conference: "Arxiv"
+year: 2025
+bibkey: she2025r
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2503.21295"}
+tags: ['RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
+---
+Large language models (LLMs) inevitably make mistakes when performing
+step-by-step mathematical reasoning. Process Reward Models (PRMs) have emerged
+as a promising solution by evaluating each reasoning step. However, existing
+PRMs typically output evaluation scores directly, limiting both learning
+efficiency and evaluation accuracy, which is further exacerbated by the
+scarcity of annotated data. To address these issues, we propose
+Reasoning-Driven Process Reward Modeling (R-PRM). First, we leverage stronger
+LLMs to generate seed data from limited annotations, effectively bootstrapping
+our model's reasoning capabilities and enabling comprehensive step-by-step
+evaluation. Second, we further enhance performance through preference
+optimization, without requiring additional annotated data. Third, we introduce
+inference-time scaling to fully harness the model's reasoning potential.
+Extensive experiments demonstrate R-PRM's effectiveness: on ProcessBench and
+PRMBench, it surpasses strong baselines by 11.9 and 8.5 points in F1 scores,
+respectively. When applied to guide mathematical reasoning, R-PRM achieves
+consistent accuracy improvements of over 8.5 points across six challenging
+datasets. Further analysis reveals that R-PRM exhibits more comprehensive
+evaluation and stronger generalization capabilities, thereby highlighting its
+significant potential.

@@ -1,0 +1,37 @@
+---
+layout: publication
+title: 'Scaling Sequential Recommendation Models With Transformers'
+authors: Pablo Zivic, Hernan Vazquez, Jorge Sanchez
+conference: "Arxiv"
+year: 2024
+bibkey: zivic2024scaling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.07585"}
+  - {name: "Code", url: "https://github.com/mercadolibre/srt"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'RecSys', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+---
+Modeling user preferences has been mainly addressed by looking at users'
+interaction history with the different elements available in the system.
+Tailoring content to individual preferences based on historical data is the
+main goal of sequential recommendation.
+  The nature of the problem, as well as the good performance observed across
+various domains, has motivated the use of the transformer architecture, which
+has proven effective in leveraging increasingly larger amounts of training data
+when accompanied by an increase in the number of model parameters. This scaling
+behavior has brought a great deal of attention, as it provides valuable
+guidance in the design and training of even larger models.
+  Taking inspiration from the scaling laws observed in training large language
+models, we explore similar principles for sequential recommendation.
+  We use the full Amazon Product Data dataset, which has only been partially
+explored in other studies, and reveal scaling behaviors similar to those found
+in language models. Compute-optimal training is possible but requires a careful
+analysis of the compute-performance trade-offs specific to the application.
+  We also show that performance scaling translates to downstream tasks by
+fine-tuning larger pre-trained models on smaller task-specific domains. Our
+approach and findings provide a strategic roadmap for model training and
+deployment in real high-dimensional preference spaces, facilitating better
+training and inference efficiency.
+  We hope this paper bridges the gap between the potential of transformers and
+the intrinsic complexities of high-dimensional sequential recommendation in
+real-world recommender systems.
+  Code and models can be found at https://github.com/mercadolibre/srt

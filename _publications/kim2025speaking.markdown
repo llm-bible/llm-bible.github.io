@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Speaking Beyond Language: A Large-scale Multimodal Dataset For Learning Nonverbal Cues From Video-grounded Dialogues'
+authors: Youngmin Kim, Jiwan Chung, Jisoo Kim, Sunghyun Lee, Sangkyu Lee, Junhyeok Kim, Cheoljong Yang, Youngjae Yu
+conference: "Arxiv"
+year: 2025
+bibkey: kim2025speaking
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2506.00958"}
+tags: ['RAG', 'Tools', 'Multimodal Models']
+---
+Nonverbal communication is integral to human interaction, with gestures, facial expressions, and body language conveying critical aspects of intent and emotion. However, existing large language models (LLMs) fail to effectively incorporate these nonverbal elements, limiting their capacity to create fully immersive conversational experiences. We introduce MARS, a multimodal language model designed to understand and generate nonverbal cues alongside text, bridging this gap in conversational AI. Our key innovation is VENUS, a large-scale dataset comprising annotated videos with time-aligned text, facial expressions, and body language. Leveraging VENUS, we train MARS with a next-token prediction objective, combining text with vector-quantized nonverbal representations to achieve multimodal understanding and generation within a unified framework. Based on various analyses of the VENUS datasets, we validate its substantial scale and high effectiveness. Our quantitative and qualitative results demonstrate that MARS successfully generates text and nonverbal languages, corresponding to conversational input.

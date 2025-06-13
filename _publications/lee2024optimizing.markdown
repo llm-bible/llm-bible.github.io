@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'LRQ: Optimizing Post-training Quantization For Large Language Models By Learning Low-rank Weight-scaling Matrices'
+authors: Jung Hyun Lee, Jeonghoon Kim, June Yong Yang, Se Jung Kwon, Eunho Yang, Kang Min Yoo, Dongsoo Lee
+conference: "Arxiv"
+year: 2024
+bibkey: lee2024optimizing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.11534"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Quantization', 'Pretraining Methods', 'Transformer']
+---
+With the commercialization of large language models (LLMs), weight-activation
+quantization has emerged to compress and accelerate LLMs, achieving high
+throughput while reducing inference costs. However, existing post-training
+quantization (PTQ) techniques for quantizing weights and activations of LLMs
+still suffer from non-negligible accuracy drops, especially on massive
+multitask language understanding. To address this issue, we propose Low-Rank
+Quantization (LRQ) - a simple yet effective post-training weight quantization
+method for LLMs that reconstructs the outputs of an intermediate Transformer
+block by leveraging low-rank weight-scaling matrices, replacing the
+conventional full weight-scaling matrices that entail as many learnable scales
+as their associated weights. Thanks to parameter sharing via low-rank
+structure, LRQ only needs to learn significantly fewer parameters while
+enabling the individual scaling of weights, thus boosting the generalization
+capability of quantized LLMs. We show the superiority of LRQ over prior LLM PTQ
+works under (i) 8-bit weight and per-tensor activation quantization, (ii) 4-bit
+weight and 8-bit per-token activation quantization, and (iii) low-bit
+weight-only quantization schemes. Our code is available at Software.

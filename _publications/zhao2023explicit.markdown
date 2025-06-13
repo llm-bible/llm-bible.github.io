@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Explicit Planning Helps Language Models In Logical Reasoning'
+authors: Hongyu Zhao, Kangrui Wang, Mo Yu, Hongyuan Mei
+conference: "Arxiv"
+year: 2023
+bibkey: zhao2023explicit
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2303.15714"}
+tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+---
+Language models have been shown to perform remarkably well on a wide range of
+natural language processing tasks. In this paper, we propose LEAP, a novel
+system that uses language models to perform multi-step logical reasoning and
+incorporates explicit planning into the inference procedure. Explicit planning
+enables the system to make more informed reasoning decisions at each step by
+looking ahead into their future effects. Moreover, we propose a training
+strategy that safeguards the planning process from being led astray by spurious
+features. Our full system significantly outperforms other competing methods on
+multiple standard datasets. When using small T5 models as its core selection
+and deduction components, our system performs competitively compared to GPT-3
+despite having only about 1B parameters (i.e., 175 times smaller than GPT-3).
+When using GPT-3.5, it significantly outperforms chain-of-thought prompting on
+the challenging PrOntoQA dataset. We have conducted extensive empirical studies
+to demonstrate that explicit planning plays a crucial role in the system's
+performance.

@@ -1,0 +1,23 @@
+---
+layout: publication
+title: 'From Tools To Teammates: Evaluating Llms In Multi-session Coding Interactions'
+authors: Nathanaël Carraz Rakotonirina, Mohammed Hamdy, Jon Ander Campos, Lucas Weber, Alberto Testoni, Marzieh Fadaee, Sandro Pezzelle, Marco Del Tredici
+conference: "Arxiv"
+year: 2025
+bibkey: rakotonirina2025from
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.13791"}
+tags: ['Model Architecture', 'GPT', 'Tools']
+---
+Large Language Models (LLMs) are increasingly used in working environments
+for a wide range of tasks, excelling at solving individual problems in
+isolation. However, are they also able to effectively collaborate over
+long-term interactions? To investigate this, we introduce MemoryCode, a
+synthetic multi-session dataset designed to test LLMs' ability to track and
+execute simple coding instructions amid irrelevant information, simulating a
+realistic setting. While all the models we tested handle isolated instructions
+well, even the performance of state-of-the-art models like GPT-4o deteriorates
+when instructions are spread across sessions. Our analysis suggests this is due
+to their failure to retrieve and integrate information over long instruction
+chains. Our results highlight a fundamental limitation of current LLMs,
+restricting their ability to collaborate effectively in long interactions.

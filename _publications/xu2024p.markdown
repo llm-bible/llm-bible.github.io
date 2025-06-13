@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'P-RAG: Progressive Retrieval Augmented Generation For Planning On Embodied Everyday Task'
+authors: Weiye Xu, Min Wang, Wengang Zhou, Houqiang Li
+conference: "Arxiv"
+year: 2024
+bibkey: xu2024p
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.11279"}
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Few-Shot']
+---
+Embodied Everyday Task is a popular task in the embodied AI community,
+requiring agents to make a sequence of actions based on natural language
+instructions and visual observations. Traditional learning-based approaches
+face two challenges. Firstly, natural language instructions often lack explicit
+task planning. Secondly, extensive training is required to equip models with
+knowledge of the task environment. Previous works based on Large Language Model
+(LLM) either suffer from poor performance due to the lack of task-specific
+knowledge or rely on ground truth as few-shot samples. To address the above
+limitations, we propose a novel approach called Progressive Retrieval Augmented
+Generation (P-RAG), which not only effectively leverages the powerful language
+processing capabilities of LLMs but also progressively accumulates
+task-specific knowledge without ground-truth. Compared to the conventional RAG
+methods, which retrieve relevant information from the database in a one-shot
+manner to assist generation, P-RAG introduces an iterative approach to
+progressively update the database. In each iteration, P-RAG retrieves the
+latest database and obtains historical information from the previous
+interaction as experiential references for the current interaction. Moreover,
+we also introduce a more granular retrieval scheme that not only retrieves
+similar tasks but also incorporates retrieval of similar situations to provide
+more valuable reference experiences. Extensive experiments reveal that P-RAG
+achieves competitive results without utilizing ground truth and can even
+further improve performance through self-iterations.

@@ -1,0 +1,17 @@
+---
+layout: publication
+title: 'QASE Enhanced Plms: Improved Control In Text Generation For MRC'
+authors: Lin Ai, Zheng Hui, Zizhou Liu, Julia Hirschberg
+conference: "Arxiv"
+year: 2024
+bibkey: ai2024qase
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.04771"}
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+---
+To address the challenges of out-of-control generation in generative models
+for machine reading comprehension (MRC), we introduce the Question-Attended
+Span Extraction (QASE) module. Integrated during the fine-tuning of pre-trained
+generative language models (PLMs), QASE enables these PLMs to match SOTA
+extractive methods and outperform leading LLMs like GPT-4 in MRC tasks, without
+significant increases in computational costs.

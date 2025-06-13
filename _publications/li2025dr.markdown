@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Dr Genre: Reinforcement Learning From Decoupled LLM Feedback For Generic Text Rewriting'
+authors: Yufei Li, John Nham, Ganesh Jawahar, Lei Shu, David Uthus, Yun-hsuan Sung, Chengrun Yang, Itai Rolnick, Yi Qiao, Cong Liu
+conference: "Arxiv"
+year: 2025
+bibkey: li2025dr
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2503.06781"}
+tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+---
+Generic text rewriting is a prevalent large language model (LLM) application
+that covers diverse real-world tasks, such as style transfer, fact correction,
+and email editing. These tasks vary in rewriting objectives (e.g., factual
+consistency vs. semantic preservation), making it challenging to develop a
+unified model that excels across all dimensions. Existing methods often
+specialize in either a single task or a specific objective, limiting their
+generalizability. In this work, we introduce a generic model proficient in
+factuality, stylistic, and conversational rewriting tasks. To simulate
+real-world user rewrite requests, we construct a conversational rewrite
+dataset, ChatRewrite, that presents ``natural''-sounding instructions, from raw
+emails using LLMs. Combined with other popular rewrite datasets, including
+LongFact for the factuality rewrite task and RewriteLM for the stylistic
+rewrite task, this forms a broad benchmark for training and evaluating generic
+rewrite models. To align with task-specific objectives, we propose Dr Genre, a
+Decoupled-reward learning framework for Generic rewriting, that utilizes
+objective-oriented reward models with a task-specific weighting. Evaluation
+shows that \approach delivers higher-quality rewrites across all targeted
+tasks, improving objectives including instruction following (agreement),
+internal consistency (coherence), and minimal unnecessary edits (conciseness).

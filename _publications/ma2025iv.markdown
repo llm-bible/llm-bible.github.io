@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Iv-bench: A Benchmark For Image-grounded Video Perception And Reasoning In Multimodal Llms'
+authors: David Ma, Yuanxing Zhang, Jincheng Ren, Jarvis Guo, Yifan Yao, Zhenlin Wei, Zhenzhu Yang, Zhongyuan Peng, Boyu Feng, Jun Ma, Xiao Gu, Zhoufutu Wen, King Zhu, Yancheng He, Meng Cao, Shiwen Ni, Jiaheng Liu, Wenhao Huang, Ge Zhang, Xiaojie Jin
+conference: "Arxiv"
+year: 2025
+bibkey: ma2025iv
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2504.15415"}
+  - {name: "Code", url: "https://github.com/multimodal-art-projection/IV-Bench"}
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+---
+Existing evaluation frameworks for Multimodal Large Language Models (MLLMs)
+primarily focus on image reasoning or general video understanding tasks,
+largely overlooking the significant role of image context in video
+comprehension. To bridge this gap, we propose IV-Bench, the first comprehensive
+benchmark for evaluating Image-Grounded Video Perception and Reasoning.
+IV-Bench consists of 967 videos paired with 2,585 meticulously annotated
+image-text queries across 13 tasks (7 perception and 6 reasoning tasks) and 5
+representative categories. Extensive evaluations of state-of-the-art
+open-source (e.g., InternVL2.5, Qwen2.5-VL) and closed-source (e.g., GPT-4o,
+Gemini2-Flash and Gemini2-Pro) MLLMs demonstrate that current models
+substantially underperform in image-grounded video Perception and Reasoning,
+merely achieving at most 28.9% accuracy. Further analysis reveals key factors
+influencing model performance on IV-Bench, including inference pattern, frame
+number, and resolution. Additionally, through a simple data synthesis approach,
+we demonstratethe challenges of IV- Bench extend beyond merely aligning the
+data format in the training proecss. These findings collectively provide
+valuable insights for future research. Our codes and data are released in
+https://github.com/multimodal-art-projection/IV-Bench.

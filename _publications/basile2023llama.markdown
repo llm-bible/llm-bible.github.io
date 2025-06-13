@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Llamantino: Llama 2 Models For Effective Text Generation In Italian Language'
+authors: Pierpaolo Basile, Elio Musacchio, Marco Polignano, Lucia Siciliani, Giuseppe Fiameni, Giovanni Semeraro
+conference: "Arxiv"
+year: 2023
+bibkey: basile2023llama
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.09993"}
+tags: ['Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+---
+Large Language Models represent state-of-the-art linguistic models designed
+to equip computers with the ability to comprehend natural language. With its
+exceptional capacity to capture complex contextual relationships, the LLaMA
+(Large Language Model Meta AI) family represents a novel advancement in the
+field of natural language processing by releasing foundational models designed
+to improve the natural language understanding abilities of the transformer
+architecture thanks to their large amount of trainable parameters (7, 13, and
+70 billion parameters). In many natural language understanding tasks, these
+models obtain the same performances as private company models such as OpenAI
+Chat-GPT with the advantage to make publicly available weights and code for
+research and commercial uses. In this work, we investigate the possibility of
+Language Adaptation for LLaMA models, explicitly focusing on addressing the
+challenge of Italian Language coverage. Adopting an open science approach, we
+explore various tuning approaches to ensure a high-quality text generated in
+Italian suitable for common tasks in this underrepresented language in the
+original models' datasets. We aim to release effective text generation models
+with strong linguistic properties for many tasks that seem challenging using
+multilingual or general-purpose LLMs. By leveraging an open science philosophy,
+this study contributes to Language Adaptation strategies for the Italian
+language by introducing the novel LLaMAntino family of Italian LLMs.

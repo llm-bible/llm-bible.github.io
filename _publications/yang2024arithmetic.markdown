@@ -1,0 +1,23 @@
+---
+layout: publication
+title: 'Arithmetic Reasoning With LLM: Prolog Generation & Permutation'
+authors: Xiaocheng Yang, Bingsen Chen, Yik-cheung Tam
+conference: "Arxiv"
+year: 2024
+bibkey: yang2024arithmetic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.17893"}
+tags: ['Training Techniques', 'Reinforcement Learning']
+---
+Instructing large language models (LLMs) to solve elementary school math
+problems has shown great success using Chain of Thought (CoT). However, the CoT
+approach relies on an LLM to generate a sequence of arithmetic calculations
+which can be prone to cascaded calculation errors. We hypothesize that an LLM
+should focus on extracting predicates and generating symbolic formulas from the
+math problem description so that the underlying calculation can be done via an
+external code interpreter. We investigate using LLM to generate Prolog programs
+to solve mathematical questions. Experimental results show that our
+Prolog-based arithmetic problem-solving outperforms CoT generation in the GSM8K
+benchmark across three distinct LLMs. In addition, given the insensitive
+ordering of predicates and symbolic formulas in Prolog, we propose to permute
+the ground truth predicates for more robust LLM training via data augmentation.

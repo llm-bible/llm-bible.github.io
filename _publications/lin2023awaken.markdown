@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Layoutprompter: Awaken The Design Ability Of Large Language Models'
+authors: Jiawei Lin, Jiaqi Guo, Shizhao Sun, Zijiang James Yang, Jian-guang Lou, Dongmei Zhang
+conference: "Arxiv"
+year: 2023
+bibkey: lin2023awaken
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.06495"}
+  - {name: "Code", url: "https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+---
+Conditional graphic layout generation, which automatically maps user
+constraints to high-quality layouts, has attracted widespread attention today.
+Although recent works have achieved promising performance, the lack of
+versatility and data efficiency hinders their practical applications. In this
+work, we propose LayoutPrompter, which leverages large language models (LLMs)
+to address the above problems through in-context learning. LayoutPrompter is
+made up of three key components, namely input-output serialization, dynamic
+exemplar selection and layout ranking. Specifically, the input-output
+serialization component meticulously designs the input and output formats for
+each layout generation task. Dynamic exemplar selection is responsible for
+selecting the most helpful prompting exemplars for a given input. And a layout
+ranker is used to pick the highest quality layout from multiple outputs of
+LLMs. We conduct experiments on all existing layout generation tasks using four
+public datasets. Despite the simplicity of our approach, experimental results
+show that LayoutPrompter can compete with or even outperform state-of-the-art
+approaches on these tasks without any model training or fine-tuning. This
+demonstrates the effectiveness of this versatile and training-free approach. In
+addition, the ablation studies show that LayoutPrompter is significantly
+superior to the training-based baseline in a low-data regime, further
+indicating the data efficiency of LayoutPrompter. Our project is available at
+https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter.

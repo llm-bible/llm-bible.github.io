@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'HELPD: Mitigating Hallucination Of Lvlms By Hierarchical Feedback Learning With Vision-enhanced Penalty Decoding'
+authors: Fan Yuan, Chi Qin, Xiaogang Xu, Piji Li
+conference: "Arxiv"
+year: 2024
+bibkey: yuan2024mitigating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.20429"}
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Attention Mechanism']
+---
+Large Vision-Language Models (LVLMs) have shown remarkable performance on
+many visual-language tasks. However, these models still suffer from multimodal
+hallucination, which means the generation of objects or content that violates
+the images. Many existing work detects hallucination by directly judging
+whether an object exists in an image, overlooking the association between the
+object and semantics. To address this issue, we propose Hierarchical Feedback
+Learning with Vision-enhanced Penalty Decoding (HELPD). This framework
+incorporates hallucination feedback at both object and sentence semantic
+levels. Remarkably, even with a marginal degree of training, this approach can
+alleviate over 15% of hallucination. Simultaneously, HELPD penalizes the output
+logits according to the image attention window to avoid being overly affected
+by generated text. HELPD can be seamlessly integrated with any LVLMs. Our
+experiments demonstrate that the proposed framework yields favorable results
+across multiple hallucination benchmarks. It effectively mitigates
+hallucination for different LVLMs and concurrently improves their text
+generation quality.

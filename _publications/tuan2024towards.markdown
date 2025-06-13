@@ -1,0 +1,22 @@
+---
+layout: publication
+title: 'Towards Safety And Helpfulness Balanced Responses Via Controllable Large Language Models'
+authors: Yi-lin Tuan, Xilun Chen, Eric Michael Smith, Louis Martin, Soumya Batra, Asli Celikyilmaz, William Yang Wang, Daniel M. Bikel
+conference: "Arxiv"
+year: 2024
+bibkey: tuan2024towards
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.01295"}
+tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+---
+As large language models (LLMs) become easily accessible nowadays, the
+trade-off between safety and helpfulness can significantly impact user
+experience. A model that prioritizes safety will cause users to feel less
+engaged and assisted while prioritizing helpfulness will potentially cause
+harm. Possible harms include teaching people how to build a bomb, exposing
+youth to inappropriate content, and hurting users' mental health. In this work,
+we propose to balance safety and helpfulness in diverse use cases by
+controlling both attributes in LLM. We explore training-free and fine-tuning
+methods that do not require extra human annotations and analyze the challenges
+of controlling safety and helpfulness in LLMs. Our experiments demonstrate that
+our method can rewind a learned model and unlock its controllability.

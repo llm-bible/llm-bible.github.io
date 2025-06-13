@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Lost In Multilinguality: Dissecting Cross-lingual Factual Inconsistency In Transformer Language Models'
+authors: Mingyang Wang, Heike Adel, Lukas Lange, Yihong Liu, Ercong Nie, Jannik Strötgen, Hinrich Schütze
+conference: "Arxiv"
+year: 2025
+bibkey: wang2025lost
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2504.04264"}
+tags: ['Masked Language Model', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting']
+---
+Multilingual language models (MLMs) store factual knowledge across languages
+but often struggle to provide consistent responses to semantically equivalent
+prompts in different languages. While previous studies point out this
+cross-lingual inconsistency issue, the underlying causes remain unexplored. In
+this work, we use mechanistic interpretability methods to investigate
+cross-lingual inconsistencies in MLMs. We find that MLMs encode knowledge in a
+language-independent concept space through most layers, and only transition to
+language-specific spaces in the final layers. Failures during the language
+transition often result in incorrect predictions in the target language, even
+when the answers are correct in other languages. To mitigate this inconsistency
+issue, we propose a linear shortcut method that bypasses computations in the
+final layers, enhancing both prediction accuracy and cross-lingual consistency.
+Our findings shed light on the internal mechanisms of MLMs and provide a
+lightweight, effective strategy for producing more consistent factual outputs.

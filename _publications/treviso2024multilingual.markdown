@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Xtower: A Multilingual LLM For Explaining And Correcting Translation Errors'
+authors: Marcos Treviso, Nuno M. Guerreiro, Sweta Agrawal, Ricardo Rei, José Pombal, Tania Vaz, Helena Wu, Beatriz Silva, Daan Van Stigt, André F. T. Martins
+conference: "Arxiv"
+year: 2024
+bibkey: treviso2024multilingual
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.19482"}
+tags: ['RAG', 'Applications', 'Interpretability and Explainability']
+---
+While machine translation (MT) systems are achieving increasingly strong
+performance on benchmarks, they often produce translations with errors and
+anomalies. Understanding these errors can potentially help improve the
+translation quality and user experience. This paper introduces xTower, an open
+large language model (LLM) built on top of TowerBase designed to provide
+free-text explanations for translation errors in order to guide the generation
+of a corrected translation. The quality of the generated explanations by xTower
+are assessed via both intrinsic and extrinsic evaluation. We ask expert
+translators to evaluate the quality of the explanations across two dimensions:
+relatedness towards the error span being explained and helpfulness in error
+understanding and improving translation quality. Extrinsically, we test xTower
+across various experimental setups in generating translation corrections,
+demonstrating significant improvements in translation quality. Our findings
+highlight xTower's potential towards not only producing plausible and helpful
+explanations of automatic translations, but also leveraging them to suggest
+corrected translations.

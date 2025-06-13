@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Inversecoder: Self-improving Instruction-tuned Code Llms With Inverse-instruct'
+authors: Yutong Wu, Di Huang, Wenxuan Shi, Wei Wang, Lingzhe Gao, Shihao Liu, Ziyuan Nan, Kaizhao Yuan, Rui Zhang, Xishan Zhang, Zidong Du, Qi Guo, Yewen Pu, Dawei Yin, Xing Hu, Yunji Chen
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024self
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.05700"}
+tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+---
+Recent advancements in open-source code large language models (LLMs) have
+been driven by fine-tuning on the data generated from powerful closed-source
+LLMs, which are expensive to obtain. This paper explores whether it is possible
+to use a fine-tuned open-source model to generate additional data to augment
+its instruction-tuning dataset. We make two observations: (1) A code snippet
+can serve as the response to different instructions. (2) Instruction-tuned code
+LLMs perform better at translating code into instructions than the reverse.
+Based on these observations, we propose Inverse-Instruct, a data augmentation
+technique that uses a fine-tuned LLM to generate additional instructions of
+code responses from its own training dataset. The additional
+instruction-response pairs are added to the original dataset, and a stronger
+code LLM can be obtained by fine-tuning on the augmented dataset. We
+empirically validate Inverse-Instruct on a range of open-source code models
+(e.g. CodeLlama-Python and DeepSeek-Coder) and benchmarks (e.g., HumanEval(+),
+MBPP(+), DS-1000 and MultiPL-E), showing it consistently improves the base
+models.

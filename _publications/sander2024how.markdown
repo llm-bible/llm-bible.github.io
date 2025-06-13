@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'How Do Transformers Perform In-context Autoregressive Learning?'
+authors: Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré
+conference: "Arxiv"
+year: 2024
+bibkey: sander2024how
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.05787"}
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer']
+---
+Transformers have achieved state-of-the-art performance in language modeling
+tasks. However, the reasons behind their tremendous success are still unclear.
+In this paper, towards a better understanding, we train a Transformer model on
+a simple next token prediction task, where sequences are generated as a
+first-order autoregressive process \\(s_\{t+1\} = W s_t\\). We show how a trained
+Transformer predicts the next token by first learning \\(W\\) in-context, then
+applying a prediction mapping. We call the resulting procedure in-context
+autoregressive learning. More precisely, focusing on commuting orthogonal
+matrices \\(W\\), we first show that a trained one-layer linear Transformer
+implements one step of gradient descent for the minimization of an inner
+objective function, when considering augmented tokens. When the tokens are not
+augmented, we characterize the global minima of a one-layer diagonal linear
+multi-head Transformer. Importantly, we exhibit orthogonality between heads and
+show that positional encoding captures trigonometric relations in the data. On
+the experimental side, we consider the general case of non-commuting orthogonal
+matrices and generalize our theoretical findings.

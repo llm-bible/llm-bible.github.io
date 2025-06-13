@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'Cost-performance Optimization For Processing Low-resource Language Tasks Using Commercial Llms'
+authors: Arijit Nag, Animesh Mukherjee, Niloy Ganguly, Soumen Chakrabarti
+conference: "Arxiv"
+year: 2024
+bibkey: nag2024cost
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.05434"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT']
+---
+Large Language Models (LLMs) exhibit impressive zero/few-shot inference and
+generation quality for high-resource languages (HRLs). A few of them have been
+trained on low-resource languages (LRLs) and give decent performance. Owing to
+the prohibitive costs of training LLMs, they are usually used as a network
+service, with the client charged by the count of input and output tokens. The
+number of tokens strongly depends on the script and language, as well as the
+LLM's subword vocabulary. We show that LRLs are at a pricing disadvantage,
+because the well-known LLMs produce more tokens for LRLs than HRLs. This is
+because most currently popular LLMs are optimized for HRL vocabularies. Our
+objective is to level the playing field: reduce the cost of processing LRLs in
+contemporary LLMs while ensuring that predictive and generative qualities are
+not compromised. As means to reduce the number of tokens processed by the LLM,
+we consider code-mixing, translation, and transliteration of LRLs to HRLs. We
+perform an extensive study using the IndicXTREME classification and six
+generative tasks dataset, covering 15 Indic and 3 other languages, while using
+GPT-4 (one of the costliest LLM services released so far) as a commercial LLM.
+We observe and analyze interesting patterns involving token count, cost, and
+quality across a multitude of languages and tasks. We show that choosing the
+best policy to interact with the LLM can reduce cost by 90% while giving better
+or comparable performance compared to communicating with the LLM in the
+original LRL.

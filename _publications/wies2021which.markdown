@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Which Transformer Architecture Fits My Data? A Vocabulary Bottleneck In Self-attention'
+authors: Noam Wies, Yoav Levine, Daniel Jannai, Amnon Shashua
+conference: "Arxiv"
+year: 2021
+bibkey: wies2021which
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2105.03928"}
+tags: ['Model Architecture', 'Tools', 'TACL', 'Pretraining Methods', 'BERT', 'Transformer', 'ACL', 'Attention Mechanism']
+---
+After their successful debut in natural language processing, Transformer
+architectures are now becoming the de-facto standard in many domains. An
+obstacle for their deployment over new modalities is the architectural
+configuration: the optimal depth-to-width ratio has been shown to dramatically
+vary across data types (e.g., \\(10\\)x larger over images than over language). We
+theoretically predict the existence of an embedding rank bottleneck that limits
+the contribution of self-attention width to the Transformer expressivity. We
+thus directly tie the input vocabulary size and rank to the optimal
+depth-to-width ratio, since a small vocabulary size or rank dictates an added
+advantage of depth over width. We empirically demonstrate the existence of this
+bottleneck and its implications on the depth-to-width interplay of Transformer
+architectures, linking the architecture variability across domains to the often
+glossed-over usage of different vocabulary sizes or embedding ranks in
+different domains. As an additional benefit, our rank bottlenecking framework
+allows us to identify size redundancies of \\(25%-50%\\) in leading NLP models
+such as ALBERT and T5.

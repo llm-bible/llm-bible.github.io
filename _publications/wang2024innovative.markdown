@@ -1,0 +1,34 @@
+---
+layout: publication
+title: 'Innovative Thinking, Infinite Humor: Humor Research Of Large Language Models Through Structured Thought Leaps'
+authors: Han Wang, Yilin Zhao, Dian Li, Xiaohan Wang, Gang Liu, Xuguang Lan, Hui Wang
+conference: "Arxiv"
+year: 2024
+bibkey: wang2024innovative
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.10370"}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+---
+Humor is previously regarded as a gift exclusive to humans for the following
+reasons. Humor is a culturally nuanced aspect of human language, presenting
+challenges for its understanding and generation. Humor generation necessitates
+a multi-hop reasoning process, with each hop founded on proper rationales.
+Although many studies, such as those related to GPT-o1, focus on logical
+reasoning with reflection and correction, they still fall short in humor
+generation. Due to the sparsity of the knowledge graph in creative thinking, it
+is arduous to achieve multi-hop reasoning. Consequently, in this paper, we
+propose a more robust framework for addressing the humor reasoning task, named
+LoL. LoL aims to inject external information to mitigate the sparsity of the
+knowledge graph, thereby enabling multi-hop reasoning. In the first stage of
+LoL, we put forward an automatic instruction-evolution method to incorporate
+the deeper and broader thinking processes underlying humor. Judgment-oriented
+instructions are devised to enhance the model's judgment capability,
+dynamically supplementing and updating the sparse knowledge graph.
+Subsequently, through reinforcement learning, the reasoning logic for each
+online-generated response is extracted using GPT-4o. In this process, external
+knowledge is re-introduced to aid the model in logical reasoning and the
+learning of human preferences. Finally, experimental results indicate that the
+combination of these two processes can enhance both the model's judgment
+ability and its generative capacity. These findings deepen our comprehension of
+the creative capabilities of large language models (LLMs) and offer approaches
+to boost LLMs' creative abilities for cross-domain innovative applications.

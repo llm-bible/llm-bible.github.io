@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Evowiki: Evaluating Llms On Evolving Knowledge'
+authors: Wei Tang, Yixin Cao, Yang Deng, Jiahao Ying, Bo Wang, Yizhe Yang, Yuyue Zhao, Qi Zhang, Xuanjing Huang, Yugang Jiang, Yong Liao
+conference: "Arxiv"
+year: 2024
+bibkey: tang2024evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.13582"}
+tags: ['RAG']
+---
+Knowledge utilization is a critical aspect of LLMs, and understanding how
+they adapt to evolving knowledge is essential for their effective deployment.
+However, existing benchmarks are predominantly static, failing to capture the
+evolving nature of LLMs and knowledge, leading to inaccuracies and
+vulnerabilities such as contamination. In this paper, we introduce EvoWiki, an
+evolving dataset designed to reflect knowledge evolution by categorizing
+information into stable, evolved, and uncharted states. EvoWiki is fully
+auto-updatable, enabling precise evaluation of continuously changing knowledge
+and newly released LLMs. Through experiments with Retrieval-Augmented
+Generation (RAG) and Contunual Learning (CL), we evaluate how effectively LLMs
+adapt to evolving knowledge. Our results indicate that current models often
+struggle with evolved knowledge, frequently providing outdated or incorrect
+responses. Moreover, the dataset highlights a synergistic effect between RAG
+and CL, demonstrating their potential to better adapt to evolving knowledge.
+EvoWiki provides a robust benchmark for advancing future research on the
+knowledge evolution capabilities of large language models.

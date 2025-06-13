@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Distilling Instruction-following Abilities Of Large Language Models With Task-aware Curriculum Planning'
+authors: Yuanhao Yue, Chengyu Wang, Jun Huang, Peng Wang
+conference: "Arxiv"
+year: 2024
+bibkey: yue2024distilling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.13448"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'ACL']
+---
+Instruction tuning aims to align large language models (LLMs) with
+open-domain instructions and human-preferred responses. While several studies
+have explored autonomous approaches to distilling and annotating instructions
+from powerful proprietary LLMs, such as ChatGPT, they often neglect the impact
+of the distributions and characteristics of tasks, together with the varying
+difficulty of instructions in training sets. This oversight can lead to
+imbalanced knowledge capabilities and poor generalization powers of student
+LLMs. To address these challenges, we introduce Task-Aware Curriculum Planning
+for Instruction Refinement (TAPIR), a multi-round distillation framework that
+utilizes an oracle LLM to select instructions that are difficult for a student
+LLM to follow. To balance the student's capabilities, task distributions in
+training sets are adjusted with responses automatically refined according to
+their corresponding tasks. In addition, by incorporating curriculum planning,
+our approach systematically escalates the difficulty levels of tasks,
+progressively enhancing the student LLM's capabilities. We rigorously evaluate
+TAPIR using several widely recognized benchmarks (such as AlpacaEval 2.0,
+MT-Bench, etc.) and multiple student LLMs. Empirical results demonstrate that
+student LLMs, trained with our method and less training data, outperform larger
+instruction-tuned models and strong distillation baselines.

@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Automated Evaluation Of Retrieval-augmented Language Models With Task-specific Exam Generation'
+authors: Gauthier Guinet, Behrooz Omidvar-tehrani, Anoop Deoras, Laurent Callot
+conference: "Arxiv"
+year: 2024
+bibkey: guinet2024automated
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.13622"}
+tags: ['Arxiv', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+---
+We propose a new method to measure the task-specific accuracy of
+Retrieval-Augmented Large Language Models (RAG). Evaluation is performed by
+scoring the RAG on an automatically-generated synthetic exam composed of
+multiple choice questions based on the corpus of documents associated with the
+task. Our method is an automated, cost-efficient, interpretable, and robust
+strategy to select the optimal components for a RAG system. We leverage Item
+Response Theory (IRT) to estimate the quality of an exam and its
+informativeness on task-specific accuracy. IRT also provides a natural way to
+iteratively improve the exam by eliminating the exam questions that are not
+sufficiently informative about a model's ability. We demonstrate our approach
+on four new open-ended Question-Answering tasks based on Arxiv abstracts,
+StackExchange questions, AWS DevOps troubleshooting guides, and SEC filings. In
+addition, our experiments reveal more general insights into factors impacting
+RAG performance like size, retrieval mechanism, prompting and fine-tuning. Most
+notably, our findings show that choosing the right retrieval algorithms often
+leads to bigger performance gains than simply using a larger language model.

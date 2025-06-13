@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Determine-then-ensemble: Necessity Of Top-k Union For Large Language Model Ensembling'
+authors: Yuxuan Yao, Han Wu, Mingyang Liu, Sichun Luo, Xiongwei Han, Jie Liu, Zhijiang Guo, Linqi Song
+conference: "Arxiv"
+year: 2024
+bibkey: yao2024determine
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.03777"}
+tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+---
+Large language models (LLMs) exhibit varying strengths and weaknesses across
+different tasks, prompting recent studies to explore the benefits of ensembling
+models to leverage their complementary advantages. However, existing LLM
+ensembling methods often overlook model compatibility and struggle with
+inefficient alignment of probabilities across the entire vocabulary. In this
+study, we empirically investigate the factors influencing ensemble performance,
+identifying model performance, vocabulary size, and response style as key
+determinants, revealing that compatibility among models is essential for
+effective ensembling. This analysis leads to the development of a simple yet
+effective model selection strategy that identifies compatible models.
+Additionally, we introduce the \textsc\{Uni\}on \textsc\{T\}op-\\(k\\)
+\textsc\{E\}nsembling (\textsc\{UniTE\}), a novel approach that efficiently
+combines models by focusing on the union of the top-k tokens from each model,
+thereby avoiding the need for full vocabulary alignment and reducing
+computational overhead. Extensive evaluations across multiple benchmarks
+demonstrate that \textsc\{UniTE\} significantly enhances performance compared to
+existing methods, offering a more efficient framework for LLM ensembling.

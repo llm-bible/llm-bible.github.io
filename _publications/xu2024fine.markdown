@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Fine-grained Modeling Of Narrative Context: A Coherence Perspective Via Retrospective Questions'
+authors: Liyan Xu, Jiangnan Li, Mo Yu, Jie Zhou
+conference: "Arxiv"
+year: 2024
+bibkey: xu2024fine
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.13551"}
+tags: ['Prompting']
+---
+This work introduces an original and practical paradigm for narrative
+comprehension, stemming from the characteristics that individual passages
+within narratives tend to be more cohesively related than isolated.
+Complementary to the common end-to-end paradigm, we propose a fine-grained
+modeling of narrative context, by formulating a graph dubbed NarCo, which
+explicitly depicts task-agnostic coherence dependencies that are ready to be
+consumed by various downstream tasks. In particular, edges in NarCo encompass
+free-form retrospective questions between context snippets, inspired by human
+cognitive perception that constantly reinstates relevant events from prior
+context. Importantly, our graph formalism is practically instantiated by LLMs
+without human annotations, through our designed two-stage prompting scheme. To
+examine the graph properties and its utility, we conduct three studies in
+narratives, each from a unique angle: edge relation efficacy, local context
+enrichment, and broader application in QA. All tasks could benefit from the
+explicit coherence captured by NarCo.

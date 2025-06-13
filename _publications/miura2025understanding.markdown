@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Understanding And Supporting Formal Email Exchange By Answering Ai-generated Questions'
+authors: Yusuke Miura, Chi-lan Yang, Masaki Kuribayashi, Keigo Matsumoto, Hideaki Kuzuoka, Shigeo Morishima
+conference: "Arxiv"
+year: 2025
+bibkey: miura2025understanding
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.03804"}
+tags: ['Prompting', 'Efficiency and Optimization', 'Reinforcement Learning']
+---
+Replying to formal emails is time-consuming and cognitively demanding, as it
+requires crafting polite phrasing and providing an adequate response to the
+sender's demands. Although systems with Large Language Models (LLMs) were
+designed to simplify the email replying process, users still need to provide
+detailed prompts to obtain the expected output. Therefore, we proposed and
+evaluated an LLM-powered question-and-answer (QA)-based approach for users to
+reply to emails by answering a set of simple and short questions generated from
+the incoming email. We developed a prototype system, ResQ, and conducted
+controlled and field experiments with 12 and 8 participants. Our results
+demonstrated that the QA-based approach improves the efficiency of replying to
+emails and reduces workload while maintaining email quality, compared to a
+conventional prompt-based approach that requires users to craft appropriate
+prompts to obtain email drafts. We discuss how the QA-based approach influences
+the email reply process and interpersonal relationship dynamics, as well as the
+opportunities and challenges associated with using a QA-based approach in
+AI-mediated communication.

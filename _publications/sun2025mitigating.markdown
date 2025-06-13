@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Mitigating Visual Forgetting Via Take-along Visual Conditioning For Multi-modal Long Cot Reasoning'
+authors: Hai-long Sun, Zhun Sun, Houwen Peng, Han-jia Ye
+conference: "Arxiv"
+year: 2025
+bibkey: sun2025mitigating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2503.13360"}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'RAG', 'Pruning', 'Prompting', 'Attention Mechanism']
+---
+Recent advancements in Large Language Models (LLMs) have demonstrated enhanced reasoning capabilities, evolving from Chain-of-Thought (CoT) prompting to advanced, product-oriented solutions like OpenAI o1. During our re-implementation of this model, we noticed that in multimodal tasks requiring visual input (e.g., geometry problems), Multimodal LLMs (MLLMs) struggle to maintain focus on the visual information, in other words, MLLMs suffer from a gradual decline in attention to visual information as reasoning progresses, causing text-over-relied outputs. To investigate this, we ablate image inputs during long-chain reasoning. Concretely, we truncate the reasoning process midway, then re-complete the reasoning process with the input image removed. We observe only a ~2% accuracy drop on MathVista's test-hard subset, revealing the model's textual outputs dominate the following reasoning process. Motivated by this, we propose Take-along Visual Conditioning (TVC), a strategy that shifts image input to critical reasoning stages and compresses redundant visual tokens via dynamic pruning. This methodology helps the model retain attention to the visual components throughout the reasoning. Our approach achieves state-of-the-art performance on average across five mathematical reasoning benchmarks (+3.4 points vs previous sota), demonstrating the effectiveness of TVC in enhancing multimodal reasoning systems.

@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Adapt In Contexts: Retrieval-augmented Domain Adaptation Via In-context Learning'
+authors: Quanyu Long, Wenya Wang, Sinno Jialin Pan
+conference: "Arxiv"
+year: 2023
+bibkey: long2023adapt
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.11551"}
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'RAG', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+---
+Large language models (LLMs) have showcased their capability with few-shot
+inference known as in-context learning. However, in-domain demonstrations are
+not always readily available in real scenarios, leading to cross-domain
+in-context learning. Besides, LLMs are still facing challenges in long-tail
+knowledge in unseen and unfamiliar domains. The above limitations demonstrate
+the necessity of Unsupervised Domain Adaptation (UDA). In this paper, we study
+the UDA problem under an in-context learning setting to adapt language models
+from the source domain to the target domain without any target labels. The core
+idea is to retrieve a subset of cross-domain elements that are the most similar
+to the query, and elicit language model to adapt in an in-context manner by
+learning both target domain distribution and the discriminative task signal
+simultaneously with the augmented cross-domain in-context examples. We devise
+different prompting and training strategies, accounting for different LM
+architectures to learn the target distribution via language modeling. With
+extensive experiments on Sentiment Analysis (SA) and Named Entity Recognition
+(NER) tasks, we thoroughly study the effectiveness of ICL for domain transfer
+and demonstrate significant improvements over baseline models.

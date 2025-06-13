@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Deciphering The Interplay Of Parametric And Non-parametric Memory In Retrieval-augmented Language Models'
+authors: Mehrdad Farahani, Richard Johansson
+conference: "Arxiv"
+year: 2024
+bibkey: farahani2024deciphering
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.05162"}
+tags: ['RAG', 'Reinforcement Learning']
+---
+Generative language models often struggle with specialized or less-discussed
+knowledge. A potential solution is found in Retrieval-Augmented Generation
+(RAG) models which act like retrieving information before generating responses.
+In this study, we explore how the \textsc\{Atlas\} approach, a RAG model, decides
+between what it already knows (parametric) and what it retrieves
+(non-parametric). We use causal mediation analysis and controlled experiments
+to examine how internal representations influence information processing. Our
+findings disentangle the effects of parametric knowledge and the retrieved
+context. They indicate that in cases where the model can choose between both
+types of information (parametric and non-parametric), it relies more on the
+context than the parametric knowledge. Furthermore, the analysis investigates
+the computations involved in *how* the model uses the information from the
+context. We find that multiple mechanisms are active within the model and can
+be detected with mediation analysis: first, the decision of *whether the
+context is relevant*, and second, how the encoder computes output
+representations to support copying when relevant.

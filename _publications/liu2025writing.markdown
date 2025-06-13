@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Writing Like The Best: Exemplar-based Expository Text Generation'
+authors: Yuxiang Liu, Kevin Chen-chuan Chang
+conference: "Arxiv"
+year: 2025
+bibkey: liu2025writing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2505.18859"}
+tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications']
+---
+We introduce the Exemplar-Based Expository Text Generation task, aiming to generate an expository text on a new topic using an exemplar on a similar topic. Current methods fall short due to their reliance on extensive exemplar data, difficulty in adapting topic-specific content, and issues with long-text coherence. To address these challenges, we propose the concept of Adaptive Imitation and present a novel Recurrent Plan-then-Adapt (RePA) framework. RePA leverages large language models (LLMs) for effective adaptive imitation through a fine-grained plan-then-adapt process. RePA also enables recurrent segment-by-segment imitation, supported by two memory structures that enhance input clarity and output coherence. We also develop task-specific evaluation metrics--imitativeness, adaptiveness, and adaptive-imitativeness--using LLMs as evaluators. Experimental results across our collected three diverse datasets demonstrate that RePA surpasses existing baselines in producing factual, consistent, and relevant texts for this task.

@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Xplainllm: A Knowledge-augmented Dataset For Reliable Grounded Explanations In Llms'
+authors: Zichen Chen, Jianda Chen, Ambuj Singh, Misha Sra
+conference: "Arxiv"
+year: 2023
+bibkey: chen2023knowledge
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.08614"}
+tags: ['Model Architecture', 'Tools', 'Ethics and Bias', 'Interpretability', 'BERT', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+---
+Large Language Models (LLMs) have achieved remarkable success in natural
+language tasks, yet understanding their reasoning processes remains a
+significant challenge. We address this by introducing XplainLLM, a dataset
+accompanying an explanation framework designed to enhance LLM transparency and
+reliability. Our dataset comprises 24,204 instances where each instance
+interprets the LLM's reasoning behavior using knowledge graphs (KGs) and graph
+attention networks (GAT), and includes explanations of LLMs such as the
+decoder-only Llama-3 and the encoder-only RoBERTa. XplainLLM also features a
+framework for generating grounded explanations and the debugger-scores for
+multidimensional quality analysis. Our explanations include why-choose and
+why-not-choose components, reason-elements, and debugger-scores that
+collectively illuminate the LLM's reasoning behavior. Our evaluations
+demonstrate XplainLLM's potential to reduce hallucinations and improve grounded
+explanation generation in LLMs. XplainLLM is a resource for researchers and
+practitioners to build trust and verify the reliability of LLM outputs.

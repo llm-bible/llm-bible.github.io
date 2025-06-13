@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Beyond Sight: Towards Cognitive Alignment In LVLM Via Enriched Visual Knowledge'
+authors: Yaqi Zhao, Yuanyang Yin, Lin Li, Mingan Lin, Victor Shea-jay Huang, Siwei Chen, Weipeng Chen, Baoqun Yin, Zenan Zhou, Wentao Zhang
+conference: "Arxiv"
+year: 2024
+bibkey: zhao2024beyond
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2411.16824"}
+tags: ['Multimodal Models', 'Tools']
+---
+Does seeing always mean knowing? Large Vision-Language Models (LVLMs)
+integrate separately pre-trained vision and language components, often using
+CLIP-ViT as vision backbone. However, these models frequently encounter a core
+issue of "cognitive misalignment" between the vision encoder (VE) and the large
+language model (LLM). Specifically, the VE's representation of visual
+information may not fully align with LLM's cognitive framework, leading to a
+mismatch where visual features exceed the language model's interpretive range.
+To address this, we investigate how variations in VE representations influence
+LVLM comprehension, especially when the LLM faces VE-Unknown data-images whose
+ambiguous visual representations challenge the VE's interpretive precision.
+Accordingly, we construct a multi-granularity landmark dataset and
+systematically examine the impact of VE-Known and VE-Unknown data on
+interpretive abilities. Our results show that VE-Unknown data limits LVLM's
+capacity for accurate understanding, while VE-Known data, rich in distinctive
+features, helps reduce cognitive misalignment. Building on these insights, we
+propose Entity-Enhanced Cognitive Alignment (EECA), a method that employs
+multi-granularity supervision to generate visually enriched, well-aligned
+tokens that not only integrate within the LLM's embedding space but also align
+with the LLM's cognitive framework. This alignment markedly enhances LVLM
+performance in landmark recognition. Our findings underscore the challenges
+posed by VE-Unknown data and highlight the essential role of cognitive
+alignment in advancing multimodal systems.

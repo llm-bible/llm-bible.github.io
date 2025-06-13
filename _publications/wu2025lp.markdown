@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'LP-LM: No Hallucinations In Question Answering With Logic Programming'
+authors: Katherine Wu, Yanhong A. Liu
+conference: "EPTCS 416 2025 pp. 69-77"
+year: 2025
+bibkey: wu2025lp
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.09212"}
+tags: ['RAG', 'Applications']
+---
+Large language models (LLMs) are able to generate human-like responses to
+user queries. However, LLMs exhibit inherent limitations, especially because
+they hallucinate. This paper introduces LP-LM, a system that grounds answers to
+questions in known facts contained in a knowledge base (KB), facilitated
+through semantic parsing in Prolog, and always produces answers that are
+reliable.
+  LP-LM generates a most probable constituency parse tree along with a
+corresponding Prolog term for an input question via Prolog definite clause
+grammar (DCG) parsing. The term is then executed against a KB of natural
+language sentences also represented as Prolog terms for question answering. By
+leveraging DCG and tabling, LP-LM runs in linear time in the size of input
+sentences for sufficiently many grammar rules. Performing experiments comparing
+LP-LM with current well-known LLMs in accuracy, we show that LLMs hallucinate
+on even simple questions, unlike LP-LM.

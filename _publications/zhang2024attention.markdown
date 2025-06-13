@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Attention Entropy Is A Key Factor: An Analysis Of Parallel Context Encoding With Full-attention-based Pre-trained Language Models'
+authors: Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, Shuaiyi Li, Dong Yu
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024attention
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.16545"}
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+---
+Large language models have shown remarkable performance across a wide range
+of language tasks, owing to their exceptional capabilities in context modeling.
+The most commonly used method of context modeling is full self-attention, as
+seen in standard decoder-only Transformers. Although powerful, this method can
+be inefficient for long sequences and may overlook inherent input structures.
+To address these problems, an alternative approach is parallel context
+encoding, which splits the context into sub-pieces and encodes them parallelly.
+Because parallel patterns are not encountered during training, naively applying
+parallel encoding leads to performance degradation. However, the underlying
+reasons and potential mitigations are unclear. In this work, we provide a
+detailed analysis of this issue and identify that unusually high attention
+entropy can be a key factor. Furthermore, we adopt two straightforward methods
+to reduce attention entropy by incorporating attention sinks and selective
+mechanisms. Experiments on various tasks reveal that these methods effectively
+lower irregular attention entropy and narrow performance gaps. We hope this
+study can illuminate ways to enhance context modeling mechanisms.

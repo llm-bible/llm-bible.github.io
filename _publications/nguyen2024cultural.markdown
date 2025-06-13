@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Cultural Commonsense Knowledge For Intercultural Dialogues'
+authors: Tuan-phong Nguyen, Simon Razniewski, Gerhard Weikum
+conference: "Arxiv"
+year: 2024
+bibkey: nguyen2024cultural
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.10689"}
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+---
+Despite recent progress, large language models (LLMs) still face the
+challenge of appropriately reacting to the intricacies of social and cultural
+conventions. This paper presents MANGO, a methodology for distilling
+high-accuracy, high-recall assertions of cultural knowledge. We judiciously and
+iteratively prompt LLMs for this purpose from two entry points, concepts and
+cultures. Outputs are consolidated via clustering and generative summarization.
+Running the MANGO method with GPT-3.5 as underlying LLM yields 167K
+high-accuracy assertions for 30K concepts and 11K cultures, surpassing prior
+resources by a large margin in quality and size. In an extrinsic evaluation for
+intercultural dialogues, we explore augmenting dialogue systems with cultural
+knowledge assertions. Notably, despite LLMs inherently possessing cultural
+knowledge, we find that adding knowledge from MANGO improves the overall
+quality, specificity, and cultural sensitivity of dialogue responses, as judged
+by human annotators. Data and code are available for download.

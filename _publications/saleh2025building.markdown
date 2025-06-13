@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Building Trustworthy Multimodal AI: A Review Of Fairness, Transparency, And Ethics In Vision-language Tasks'
+authors: Mohammad Saleh, Azadeh Tabatabaei
+conference: "International Journal of Web Research vol.8 no.2pp.11-24 2025"
+year: 2025
+bibkey: saleh2025building
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2504.13199"}
+tags: ['Responsible AI', 'Multimodal Models', 'Model Architecture', 'Fairness', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+---
+Objective: This review explores the trustworthiness of multimodal artificial intelligence (AI) systems, specifically focusing on vision-language tasks. It addresses critical challenges related to fairness, transparency, and ethical implications in these systems, providing a comparative analysis of key tasks such as Visual Question Answering (VQA), image captioning, and visual dialogue. Background: Multimodal models, particularly vision-language models, enhance artificial intelligence (AI) capabilities by integrating visual and textual data, mimicking human learning processes. Despite significant advancements, the trustworthiness of these models remains a crucial concern, particularly as AI systems increasingly confront issues regarding fairness, transparency, and ethics. Methods: This review examines research conducted from 2017 to 2024 focusing on forenamed core vision-language tasks. It employs a comparative approach to analyze these tasks through the lens of trustworthiness, underlining fairness, explainability, and ethics. This study synthesizes findings from recent literature to identify trends, challenges, and state-of-the-art solutions. Results: Several key findings were highlighted. Transparency: Explainability of vision language tasks is important for user trust. Techniques, such as attention maps and gradient-based methods, have successfully addressed this issue. Fairness: Bias mitigation in VQA and visual dialogue systems is essential for ensuring unbiased outcomes across diverse demographic groups. Ethical Implications: Addressing biases in multilingual models and ensuring ethical data handling is critical for the responsible deployment of vision-language systems. Conclusion: This study underscores the importance of integrating fairness, transparency, and ethical considerations in developing vision-language models within a unified framework.

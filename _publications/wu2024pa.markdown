@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'PA-RAG: RAG Alignment Via Multi-perspective Preference Optimization'
+authors: Jiayi Wu, Hengyi Cai, Lingyong Yan, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin, Ming Gao
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024pa
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.14510"}
+  - {name: "Code", url: "https://github.com/wujwyi/PA-RAG"}
+tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+---
+The emergence of Retrieval-augmented generation (RAG) has alleviated the
+issues of outdated and hallucinatory content in the generation of large
+language models (LLMs), yet it still reveals numerous limitations. When a
+general-purpose LLM serves as the RAG generator, it often suffers from
+inadequate response informativeness, response robustness, and citation quality.
+Past approaches to tackle these limitations, either by incorporating additional
+steps beyond generating responses or optimizing the generator through
+supervised fine-tuning (SFT), still failed to align with the RAG requirement
+thoroughly. Consequently, optimizing the RAG generator from multiple preference
+perspectives while maintaining its end-to-end LLM form remains a challenge. To
+bridge this gap, we propose Multiple Perspective Preference Alignment for
+Retrieval-Augmented Generation (PA-RAG), a method for optimizing the generator
+of RAG systems to align with RAG requirements comprehensively. Specifically, we
+construct high-quality instruction fine-tuning data and multi-perspective
+preference data by sampling varied quality responses from the generator across
+different prompt documents quality scenarios. Subsequently, we optimize the
+generator using SFT and Direct Preference Optimization (DPO). Extensive
+experiments conducted on four question-answer datasets across three LLMs
+demonstrate that PA-RAG can significantly enhance the performance of RAG
+generators. Our code and datasets are available at
+https://github.com/wujwyi/PA-RAG.

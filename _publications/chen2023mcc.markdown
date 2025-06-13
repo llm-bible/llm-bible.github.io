@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'MCC-KD: Multi-cot Consistent Knowledge Distillation'
+authors: Hongzhan Chen, Siyue Wu, Xiaojun Quan, Rui Wang, Ming Yan, Ji Zhang
+conference: "Arxiv"
+year: 2023
+bibkey: chen2023mcc
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.14747"}
+tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'Distillation']
+---
+Large language models (LLMs) have showcased remarkable capabilities in
+complex reasoning through chain of thought (CoT) prompting. Recently, there has
+been a growing interest in transferring these reasoning abilities from LLMs to
+smaller models. However, achieving both the diversity and consistency in
+rationales presents a challenge. In this paper, we focus on enhancing these two
+aspects and propose Multi-CoT Consistent Knowledge Distillation (MCC-KD) to
+efficiently distill the reasoning capabilities. In MCC-KD, we generate multiple
+rationales for each question and enforce consistency among the corresponding
+predictions by minimizing the bidirectional KL-divergence between the answer
+distributions. We investigate the effectiveness of MCC-KD with different model
+architectures (LLaMA/FlanT5) and various model scales (3B/7B/11B/13B) on both
+mathematical reasoning and commonsense reasoning benchmarks. The empirical
+results not only confirm MCC-KD's superior performance on in-distribution
+datasets but also highlight its robust generalization ability on
+out-of-distribution datasets.

@@ -1,0 +1,22 @@
+---
+layout: publication
+title: 'Chated: A Chatbot Leveraging Chatgpt For An Enhanced Learning Experience In Higher Education'
+authors: Kevin Wang, Jason Ramos, Ramon Lawrence
+conference: "Arxiv"
+year: 2023
+bibkey: wang2023chatbot
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.00052"}
+tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Applications']
+---
+With the rapid evolution of Natural Language Processing (NLP), Large Language
+Models (LLMs) like ChatGPT have emerged as powerful tools capable of
+transforming various sectors. Their vast knowledge base and dynamic interaction
+capabilities represent significant potential in improving education by
+operating as a personalized assistant. However, the possibility of generating
+incorrect, biased, or unhelpful answers are a key challenge to resolve when
+deploying LLMs in an education context. This work introduces an innovative
+architecture that combines the strengths of ChatGPT with a traditional
+information retrieval based chatbot framework to offer enhanced student support
+in higher education. Our empirical evaluations underscore the high promise of
+this approach.

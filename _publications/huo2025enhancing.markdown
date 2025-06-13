@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Enhancing Non-english Capabilities Of English-centric Large Language Models Through Deep Supervision Fine-tuning'
+authors: Wenshuai Huo, Xiaocheng Feng, Yichong Huang, Chengpeng Fu, Baohang Li, Yangfan Ye, Zhirui Zhang, Dandan Tu, Duyu Tang, Yunfei Lu, Hui Wang, Bing Qin
+conference: "Arxiv"
+year: 2025
+bibkey: huo2025enhancing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2503.01275"}
+tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+---
+Large language models (LLMs) have demonstrated significant progress in
+multilingual language understanding and generation. However, due to the
+imbalance in training data, their capabilities in non-English languages are
+limited. Recent studies revealed the English-pivot multilingual mechanism of
+LLMs, where LLMs implicitly convert non-English queries into English ones at
+the bottom layers and adopt English for thinking at the middle layers. However,
+due to the absence of explicit supervision for cross-lingual alignment in the
+intermediate layers of LLMs, the internal representations during these stages
+may become inaccurate. In this work, we introduce a deep supervision
+fine-tuning method (DFT) that incorporates additional supervision in the
+internal layers of the model to guide its workflow. Specifically, we introduce
+two training objectives on different layers of LLMs: one at the bottom layers
+to constrain the conversion of the target language into English, and another at
+the middle layers to constrain reasoning in English. To effectively achieve the
+guiding purpose, we designed two types of supervision signals: logits and
+feature, which represent a stricter constraint and a relatively more relaxed
+guidance. Our method guides the model to not only consider the final generated
+result when processing non-English inputs but also ensure the accuracy of
+internal representations. We conducted extensive experiments on typical
+English-centric large models, LLaMA-2 and Gemma-2, and the results on multiple
+multilingual datasets show that our method significantly outperforms
+traditional fine-tuning methods.

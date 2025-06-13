@@ -1,0 +1,36 @@
+---
+layout: publication
+title: 'SOLO: A Single Transformer For Scalable Vision-language Modeling'
+authors: Yangyi Chen, Xingyao Wang, Hao Peng, Heng Ji
+conference: "Arxiv"
+year: 2024
+bibkey: chen2024single
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.06438"}
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+---
+We present SOLO, a single transformer for Scalable visiOn-Language mOdeling.
+Current large vision-language models (LVLMs) such as LLaVA mostly employ
+heterogeneous architectures that connect pre-trained visual encoders with large
+language models (LLMs) to facilitate visual recognition and complex reasoning.
+Although achieving remarkable performance with relatively lightweight training,
+we identify four primary scalability limitations: (1) The visual capacity is
+constrained by pre-trained visual encoders, which are typically an order of
+magnitude smaller than LLMs. (2) The heterogeneous architecture complicates the
+use of established hardware and software infrastructure. (3) Study of scaling
+laws on such architecture must consider three separate components - visual
+encoder, connector, and LLMs, which complicates the analysis. (4) The use of
+existing visual encoders typically requires following a pre-defined
+specification of image inputs pre-processing, for example, by reshaping inputs
+to fixed-resolution square images, which presents difficulties in processing
+and training on high-resolution images or those with unusual aspect ratio. A
+unified single Transformer architecture, like SOLO, effectively addresses these
+scalability concerns in LVLMs; however, its limited adoption in the modern
+context likely stems from the absence of reliable training recipes that balance
+both modalities and ensure stable training for billion-scale models. In this
+paper, we introduce the first open-source training recipe for developing SOLO,
+an open-source 7B LVLM using moderate academic resources. The training recipe
+involves initializing from LLMs, sequential pre-training on ImageNet and
+web-scale data, and instruction fine-tuning on our curated high-quality
+datasets. On extensive evaluation, SOLO demonstrates performance comparable to
+LLaVA-v1.5-7B, particularly excelling in visual mathematical reasoning.

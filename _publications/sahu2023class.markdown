@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Promptmix: A Class Boundary Augmentation Method For Large Language Model Distillation'
+authors: Gaurav Sahu, Olga Vechtomova, Dzmitry Bahdanau, Issam H. Laradji
+conference: "Arxiv"
+year: 2023
+bibkey: sahu2023class
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.14192"}
+  - {name: "Code", url: "https://github.com/ServiceNow/PromptMix-EMNLP-2023"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Distillation', 'EMNLP', 'GPT', 'BERT', 'Has Code', 'Prompting']
+---
+Data augmentation is a widely used technique to address the problem of text
+classification when there is a limited amount of training data. Recent work
+often tackles this problem using large language models (LLMs) like GPT3 that
+can generate new examples given already available ones. In this work, we
+propose a method to generate more helpful augmented data by utilizing the LLM's
+abilities to follow instructions and perform few-shot classifications. Our
+specific PromptMix method consists of two steps: 1) generate challenging text
+augmentations near class boundaries; however, generating borderline examples
+increases the risk of false positives in the dataset, so we 2) relabel the text
+augmentations using a prompting-based LLM classifier to enhance the correctness
+of labels in the generated data. We evaluate the proposed method in challenging
+2-shot and zero-shot settings on four text classification datasets: Banking77,
+TREC6, Subjectivity (SUBJ), and Twitter Complaints. Our experiments show that
+generating and, crucially, relabeling borderline examples facilitates the
+transfer of knowledge of a massive LLM like GPT3.5-turbo into smaller and
+cheaper classifiers like DistilBERT\\(_\{base\}\\) and BERT\\(_\{base\}\\). Furthermore,
+2-shot PromptMix outperforms multiple 5-shot data augmentation methods on the
+four datasets. Our code is available at
+https://github.com/ServiceNow/PromptMix-EMNLP-2023.

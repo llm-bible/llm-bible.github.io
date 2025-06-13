@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Progressive Text-to-image Diffusion With Soft Latent Direction'
+authors: Yuteng Ye, Jiale Cai, Hang Zhou, Guanwen Li, Youjia Zhang, Zikai Song, Chenxing Gao, Junqing Yu, Wei Yang
+conference: "Arxiv"
+year: 2023
+bibkey: ye2023progressive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.09466"}
+tags: ['Merging', 'Tools', 'Reinforcement Learning']
+---
+In spite of the rapidly evolving landscape of text-to-image generation, the
+synthesis and manipulation of multiple entities while adhering to specific
+relational constraints pose enduring challenges. This paper introduces an
+innovative progressive synthesis and editing operation that systematically
+incorporates entities into the target image, ensuring their adherence to
+spatial and relational constraints at each sequential step. Our key insight
+stems from the observation that while a pre-trained text-to-image diffusion
+model adeptly handles one or two entities, it often falters when dealing with a
+greater number. To address this limitation, we propose harnessing the
+capabilities of a Large Language Model (LLM) to decompose intricate and
+protracted text descriptions into coherent directives adhering to stringent
+formats. To facilitate the execution of directives involving distinct semantic
+operations-namely insertion, editing, and erasing-we formulate the Stimulus,
+Response, and Fusion (SRF) framework. Within this framework, latent regions are
+gently stimulated in alignment with each operation, followed by the fusion of
+the responsive latent components to achieve cohesive entity manipulation. Our
+proposed framework yields notable advancements in object synthesis,
+particularly when confronted with intricate and lengthy textual inputs.
+Consequently, it establishes a new benchmark for text-to-image generation
+tasks, further elevating the field's performance standards.

@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Unleashing The Potentials Of Likelihood Composition For Multi-modal Language Models'
+authors: Shitian Zhao, Renrui Zhang, Xu Luo, Yan Wang, Shanghang Zhang, Peng Gao
+conference: "Arxiv"
+year: 2024
+bibkey: zhao2024unleashing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.00363"}
+tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Fine-Tuning']
+---
+Model fusing has always been an important topic, especially in an era where
+large language models (LLM) and multi-modal language models (MLM) with
+different architectures, parameter sizes and training pipelines, are being
+created all the time. In this work, we propose a post-hoc framework, aiming at
+fusing heterogeneous models off-the-shell, which we call \textit\{likelihood
+composition\}, and the basic idea is to compose multiple models' likelihood
+distribution when doing a multi-choice visual-question-answering task. Here the
+core concept, \textit\{likelihood\}, is actually the log-probability of the
+candidate answer. In \textit\{likelihood composition\}, we introduce some basic
+operations: \textit\{debias\}, \textit\{highlight\}, \textit\{majority-vote\} and
+\textit\{ensemble\}. By combining (composing) these basic elements, we get the
+mixed composition methods: \textit\{mix-composition\}. Through conducting
+comprehensive experiments on 9 VQA datasets and 10 MLMs, we prove the
+effectiveness of \textit\{mix-composition\} compared with simple
+\textit\{ensemble\} or \textit\{majority-vote\} methods. In this framework, people
+can propose new basic composition methods and combine them to get the new mixed
+composition methods. We hope our proposed \textit\{likelihood composition\} can
+provide a new perspective of fusing heterogeneous models and inspire the
+exploration under this framework.

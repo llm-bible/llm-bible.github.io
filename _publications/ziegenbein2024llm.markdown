@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Llm-based Rewriting Of Inappropriate Argumentation Using Reinforcement Learning From Machine Feedback'
+authors: Timon Ziegenbein, Gabriella Skitalinskaya, Alireza Bayat Makou, Henning Wachsmuth
+conference: "Arxiv"
+year: 2024
+bibkey: ziegenbein2024llm
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.03363"}
+tags: ['Agentic', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Survey Paper', 'Prompting']
+---
+Ensuring that online discussions are civil and productive is a major
+challenge for social media platforms. Such platforms usually rely both on users
+and on automated detection tools to flag inappropriate arguments of other
+users, which moderators then review. However, this kind of post-hoc moderation
+is expensive and time-consuming, and moderators are often overwhelmed by the
+amount and severity of flagged content. Instead, a promising alternative is to
+prevent negative behavior during content creation. This paper studies how
+inappropriate language in arguments can be computationally mitigated. We
+propose a reinforcement learning-based rewriting approach that balances content
+preservation and appropriateness based on existing classifiers, prompting an
+instruction-finetuned large language model (LLM) as our initial policy. Unlike
+related style transfer tasks, rewriting inappropriate arguments allows deleting
+and adding content permanently. It is therefore tackled on document level
+rather than sentence level. We evaluate different weighting schemes for the
+reward function in both absolute and relative human assessment studies.
+Systematic experiments on non-parallel data provide evidence that our approach
+can mitigate the inappropriateness of arguments while largely preserving their
+content. It significantly outperforms competitive baselines, including few-shot
+learning, prompting, and humans.

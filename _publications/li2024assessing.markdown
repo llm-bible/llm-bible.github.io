@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Stbench: Assessing The Ability Of Large Language Models In Spatio-temporal Analysis'
+authors: Wenbin Li, Di Yao, Ruibo Zhao, Wenjie Chen, Zijie Xu, Chengxue Luo, Chang Gong, Quanliang Jing, Haining Tan, Jingping Bi
+conference: "Arxiv"
+year: 2024
+bibkey: li2024assessing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.19065"}
+  - {name: "Code", url: "https://github.com/LwbXc/STBench"}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'KDD', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+---
+The rapid evolution of large language models (LLMs) holds promise for
+reforming the methodology of spatio-temporal data mining. However, current
+works for evaluating the spatio-temporal understanding capability of LLMs are
+somewhat limited and biased. These works either fail to incorporate the latest
+language models or only focus on assessing the memorized spatio-temporal
+knowledge. To address this gap, this paper dissects LLMs' capability of
+spatio-temporal data into four distinct dimensions: knowledge comprehension,
+spatio-temporal reasoning, accurate computation, and downstream applications.
+We curate several natural language question-answer tasks for each category and
+build the benchmark dataset, namely STBench, containing 13 distinct tasks and
+over 60,000 QA pairs. Moreover, we have assessed the capabilities of 13 LLMs,
+such as GPT-4o, Gemma and Mistral. Experimental results reveal that existing
+LLMs show remarkable performance on knowledge comprehension and spatio-temporal
+reasoning tasks, with potential for further enhancement on other tasks through
+in-context learning, chain-of-though prompting, and fine-tuning. The code and
+datasets of STBench are released on https://github.com/LwbXc/STBench.

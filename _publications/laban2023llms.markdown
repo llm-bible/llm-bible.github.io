@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Llms As Factual Reasoners: Insights From Existing Benchmarks And Beyond'
+authors: Philippe Laban, Wojciech Kryściński, Divyansh Agarwal, Alexander R. Fabbri, Caiming Xiong, Shafiq Joty, Chien-sheng Wu
+conference: "Arxiv"
+year: 2023
+bibkey: laban2023llms
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.14540"}
+tags: ['Model Architecture', 'GPT']
+---
+With the recent appearance of LLMs in practical settings, having methods that
+can effectively detect factual inconsistencies is crucial to reduce the
+propagation of misinformation and improve trust in model outputs. When testing
+on existing factual consistency benchmarks, we find that a few large language
+models (LLMs) perform competitively on classification benchmarks for factual
+inconsistency detection compared to traditional non-LLM methods. However, a
+closer analysis reveals that most LLMs fail on more complex formulations of the
+task and exposes issues with existing evaluation benchmarks, affecting
+evaluation precision. To address this, we propose a new protocol for
+inconsistency detection benchmark creation and implement it in a 10-domain
+benchmark called SummEdits. This new benchmark is 20 times more cost-effective
+per sample than previous benchmarks and highly reproducible, as we estimate
+inter-annotator agreement at about 0.9. Most LLMs struggle on SummEdits, with
+performance close to random chance. The best-performing model, GPT-4, is still
+8% below estimated human performance, highlighting the gaps in LLMs' ability
+to reason about facts and detect inconsistencies when they occur.

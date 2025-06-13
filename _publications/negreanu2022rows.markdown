@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Rows From Many Sources: Enriching Row Completions From Wikidata With A Pre-trained Language Model'
+authors: Carina Negreanu, Alperen Karaoglu, Jack Williams, Shuang Chen, Daniel Fabian, Andrew Gordon, Chin-yew Lin
+conference: "Arxiv"
+year: 2022
+bibkey: negreanu2022rows
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2204.07014"}
+tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+---
+Row completion is the task of augmenting a given table of text and numbers
+with additional, relevant rows. The task divides into two steps: subject
+suggestion, the task of populating the main column; and gap filling, the task
+of populating the remaining columns. We present state-of-the-art results for
+subject suggestion and gap filling measured on a standard benchmark
+(WikiTables). Our idea is to solve this task by harmoniously combining
+knowledge base table interpretation and free text generation. We interpret the
+table using the knowledge base to suggest new rows and generate metadata like
+headers through property linking. To improve candidate diversity, we synthesize
+additional rows using free text generation via GPT-3, and crucially, we exploit
+the metadata we interpret to produce better prompts for text generation.
+Finally, we verify that the additional synthesized content can be linked to the
+knowledge base or a trusted web source such as Wikipedia.

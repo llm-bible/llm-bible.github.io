@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'T-REG: Preference Optimization With Token-level Reward Regularization'
+authors: Wenxuan Zhou, Shujian Zhang, Lingxiao Zhao, Tao Meng
+conference: "Arxiv"
+year: 2024
+bibkey: zhou2024t
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.02685"}
+  - {name: "Code", url: "https://github.com/wzhouad/T-REG"}
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting']
+---
+Reinforcement learning from human feedback (RLHF) has been crucial in
+aligning large language models (LLMs) with human values. Traditionally, RLHF
+involves generating responses to a query and using a reward model to assign a
+reward to the entire response. However, this approach faces challenges due to
+its reliance on a single, sparse reward, which makes it challenging for the
+model to identify which parts of the sequence contribute most significantly to
+the final reward. Recent methods have attempted to address this limitation by
+introducing token-level rewards. However, these methods often rely on either a
+trained credit assignment model or AI annotators, raising concerns about the
+quality and reliability of the rewards. In this paper, we propose token-level
+reward regularization (T-REG), a novel approach that leverages both
+sequence-level and token-level rewards for preference optimization. Harnessing
+the self-refinement capabilities of LLMs, our method uses contrastive prompting
+to enable LLMs to self-generate token-level rewards. These self-generated
+rewards then act as reward regularization, guiding the model to more
+effectively distribute sequence-level rewards across tokens. This facilitates
+better token-level credit assignment and enhances alignment performance.
+Experiments on the instruction following benchmarks, including Alpaca Eval 2
+and Arena-Hard, show that our method consistently outperforms baseline methods
+by up to 3.8% and 4.4%, respectively. We will release the code and models at
+https://github.com/wzhouad/T-REG.

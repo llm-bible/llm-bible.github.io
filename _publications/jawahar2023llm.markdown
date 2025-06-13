@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'LLM Performance Predictors Are Good Initializers For Architecture Search'
+authors: Ganesh Jawahar, Muhammad Abdul-mageed, Laks V. S. Lakshmanan, Dujian Ding
+conference: "Arxiv"
+year: 2023
+bibkey: jawahar2023llm
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.16712"}
+  - {name: "Code", url: "https://github.com/UBC-NLP/llmas"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications']
+---
+In this work, we utilize Large Language Models (LLMs) for a novel use case:
+constructing Performance Predictors (PP) that estimate the performance of
+specific deep neural network architectures on downstream tasks. We create PP
+prompts for LLMs, comprising (i) role descriptions, (ii) instructions for the
+LLM, (iii) hyperparameter definitions, and (iv) demonstrations presenting
+sample architectures with efficiency metrics and `training from scratch'
+performance. In machine translation (MT) tasks, GPT-4 with our PP prompts
+(LLM-PP) achieves a SoTA mean absolute error and a slight degradation in rank
+correlation coefficient compared to baseline predictors. Additionally, we
+demonstrate that predictions from LLM-PP can be distilled to a compact
+regression model (LLM-Distill-PP), which surprisingly retains much of the
+performance of LLM-PP. This presents a cost-effective alternative for
+resource-intensive performance estimation. Specifically, for Neural
+Architecture Search (NAS), we introduce a Hybrid-Search algorithm (HS-NAS)
+employing LLM-Distill-PP for the initial search stages and reverting to the
+baseline predictor later. HS-NAS performs similarly to SoTA NAS, reducing
+search hours by approximately 50%, and in some cases, improving latency,
+GFLOPs, and model size. The code can be found at:
+https://github.com/UBC-NLP/llmas.

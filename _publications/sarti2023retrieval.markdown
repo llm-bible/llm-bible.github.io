@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'RAMP: Retrieval And Attribute-marking Enhanced Prompting For Attribute-controlled Translation'
+authors: Gabriele Sarti, Phu Mon Htut, Xing Niu, Benjamin Hsu, Anna Currey, Georgiana Dinu, Maria Nadejde
+conference: "Proceedings of ACL (2023) 1476-1490"
+year: 2023
+bibkey: sarti2023retrieval
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.17131"}
+tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+---
+Attribute-controlled translation (ACT) is a subtask of machine translation
+that involves controlling stylistic or linguistic attributes (like formality
+and gender) of translation outputs. While ACT has garnered attention in recent
+years due to its usefulness in real-world applications, progress in the task is
+currently limited by dataset availability, since most prior approaches rely on
+supervised methods. To address this limitation, we propose Retrieval and
+Attribute-Marking enhanced Prompting (RAMP), which leverages large multilingual
+language models to perform ACT in few-shot and zero-shot settings. RAMP
+improves generation accuracy over the standard prompting approach by (1)
+incorporating a semantic similarity retrieval component for selecting similar
+in-context examples, and (2) marking in-context examples with attribute
+annotations. Our comprehensive experiments show that RAMP is a viable approach
+in both zero-shot and few-shot settings.

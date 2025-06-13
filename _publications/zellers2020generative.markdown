@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Turingadvice: A Generative And Dynamic Evaluation Of Language Use'
+authors: Rowan Zellers, Ari Holtzman, Elizabeth Clark, Lianhui Qin, Ali Farhadi, Yejin Choi
+conference: "Arxiv"
+year: 2020
+bibkey: zellers2020generative
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2004.03607"}
+tags: ['Training Techniques', 'GPT', 'Tools', 'Model Architecture']
+---
+We propose TuringAdvice, a new challenge task and dataset for language
+understanding models. Given a written situation that a real person is currently
+facing, a model must generate helpful advice in natural language. Our
+evaluation framework tests a fundamental aspect of human language
+understanding: our ability to use language to resolve open-ended situations by
+communicating with each other.
+  Empirical results show that today's models struggle at TuringAdvice, even
+multibillion parameter models finetuned on 600k in-domain training examples.
+The best model, a finetuned T5, writes advice that is at least as helpful as
+human-written advice in only 14% of cases; a much larger non-finetunable GPT3
+model does even worse at 4%. This low performance reveals language
+understanding errors that are hard to spot outside of a generative setting,
+showing much room for progress.

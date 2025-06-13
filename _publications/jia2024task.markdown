@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'The Task Shield: Enforcing Task Alignment To Defend Against Indirect Prompt Injection In LLM Agents'
+authors: Feiran Jia, Tong Wu, Xin Qin, Anna Squicciarini
+conference: "Arxiv"
+year: 2024
+bibkey: jia2024task
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.16682"}
+tags: ['Agentic', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+---
+Large Language Model (LLM) agents are increasingly being deployed as
+conversational assistants capable of performing complex real-world tasks
+through tool integration. This enhanced ability to interact with external
+systems and process various data sources, while powerful, introduces
+significant security vulnerabilities. In particular, indirect prompt injection
+attacks pose a critical threat, where malicious instructions embedded within
+external data sources can manipulate agents to deviate from user intentions.
+While existing defenses based on rule constraints, source spotlighting, and
+authentication protocols show promise, they struggle to maintain robust
+security while preserving task functionality. We propose a novel and orthogonal
+perspective that reframes agent security from preventing harmful actions to
+ensuring task alignment, requiring every agent action to serve user objectives.
+Based on this insight, we develop Task Shield, a test-time defense mechanism
+that systematically verifies whether each instruction and tool call contributes
+to user-specified goals. Through experiments on the AgentDojo benchmark, we
+demonstrate that Task Shield reduces attack success rates (2.07%) while
+maintaining high task utility (69.79%) on GPT-4o.

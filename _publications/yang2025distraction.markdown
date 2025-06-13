@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Distraction Is All You Need For Multimodal Large Language Model Jailbreaking'
+authors: Zuopeng Yang, Jiluan Fan, Anli Yan, Erdun Gao, Xin Lin, Tao Li, Kanghua Mo, Changyu Dong
+conference: "Arxiv"
+year: 2025
+bibkey: yang2025distraction
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.10794"}
+tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'RAG', 'GPT', 'Prompting', 'Applications', 'Attention Mechanism']
+---
+Multimodal Large Language Models (MLLMs) bridge the gap between visual and
+textual data, enabling a range of advanced applications. However, complex
+internal interactions among visual elements and their alignment with text can
+introduce vulnerabilities, which may be exploited to bypass safety mechanisms.
+To address this, we analyze the relationship between image content and task and
+find that the complexity of subimages, rather than their content, is key.
+Building on this insight, we propose the Distraction Hypothesis, followed by a
+novel framework called Contrasting Subimage Distraction Jailbreaking (CS-DJ),
+to achieve jailbreaking by disrupting MLLMs alignment through multi-level
+distraction strategies. CS-DJ consists of two components: structured
+distraction, achieved through query decomposition that induces a distributional
+shift by fragmenting harmful prompts into sub-queries, and visual-enhanced
+distraction, realized by constructing contrasting subimages to disrupt the
+interactions among visual elements within the model. This dual strategy
+disperses the model's attention, reducing its ability to detect and mitigate
+harmful content. Extensive experiments across five representative scenarios and
+four popular closed-source MLLMs, including GPT-4o-mini, GPT-4o, GPT-4V, and
+Gemini-1.5-Flash, demonstrate that CS-DJ achieves average success rates of
+52.40% for the attack success rate and 74.10% for the ensemble attack success
+rate. These results reveal the potential of distraction-based approaches to
+exploit and bypass MLLMs' defenses, offering new insights for attack
+strategies.

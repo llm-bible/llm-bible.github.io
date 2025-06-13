@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Exploring The Sensitivity Of Llms'' Decision-making Capabilities: Insights From Prompt Variation And Hyperparameters'
+authors: Manikanta Loya, Divya Anand Sinha, Richard Futrell
+conference: "Arxiv"
+year: 2023
+bibkey: loya2023exploring
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.17476"}
+tags: ['Prompting', 'Interpretability', 'Fine-Tuning', 'Reinforcement Learning']
+---
+The advancement of Large Language Models (LLMs) has led to their widespread
+use across a broad spectrum of tasks including decision making. Prior studies
+have compared the decision making abilities of LLMs with those of humans from a
+psychological perspective. However, these studies have not always properly
+accounted for the sensitivity of LLMs' behavior to hyperparameters and
+variations in the prompt. In this study, we examine LLMs' performance on the
+Horizon decision making task studied by Binz and Schulz (2023) analyzing how
+LLMs respond to variations in prompts and hyperparameters. By experimenting on
+three OpenAI language models possessing different capabilities, we observe that
+the decision making abilities fluctuate based on the input prompts and
+temperature settings. Contrary to previous findings language models display a
+human-like exploration exploitation tradeoff after simple adjustments to the
+prompt.

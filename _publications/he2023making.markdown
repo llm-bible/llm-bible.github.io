@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Annollm: Making Large Language Models To Be Better Crowdsourced Annotators'
+authors: Xingwei He, Zhenghao Lin, Yeyun Gong, A-long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen
+conference: "Arxiv"
+year: 2023
+bibkey: he2023making
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2303.16854"}
+tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications']
+---
+Many natural language processing (NLP) tasks rely on labeled data to train
+machine learning models with high performance. However, data annotation is
+time-consuming and expensive, especially when the task involves a large amount
+of data or requires specialized domains. Recently, GPT-3.5 series models have
+demonstrated remarkable few-shot and zero-shot ability across various NLP
+tasks. In this paper, we first claim that large language models (LLMs), such as
+GPT-3.5, can serve as an excellent crowdsourced annotator when provided with
+sufficient guidance and demonstrated examples. Accordingly, we propose AnnoLLM,
+an annotation system powered by LLMs, which adopts a two-step approach,
+explain-then-annotate. Concretely, we first prompt LLMs to provide explanations
+for why the specific ground truth answer/label was assigned for a given
+example. Then, we construct the few-shot chain-of-thought prompt with the
+self-generated explanation and employ it to annotate the unlabeled data with
+LLMs. Our experiment results on three tasks, including user input and keyword
+relevance assessment, BoolQ, and WiC, demonstrate that AnnoLLM surpasses or
+performs on par with crowdsourced annotators. Furthermore, we build the first
+conversation-based information retrieval dataset employing AnnoLLM. This
+dataset is designed to facilitate the development of retrieval models capable
+of retrieving pertinent documents for conversational text. Human evaluation has
+validated the dataset's high quality.

@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Robust Natural Language Understanding With Residual Attention Debiasing'
+authors: Fei Wang, James Y. Huang, Tianyi Yan, Wenxuan Zhou, Muhao Chen
+conference: "Arxiv"
+year: 2023
+bibkey: wang2023robust
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.17627"}
+  - {name: "Code", url: "https://github.com/luka-group/READ"}
+tags: ['Model Architecture', 'Bias Mitigation', 'Ethics and Bias', 'BERT', 'Has Code', 'Applications', 'Attention Mechanism']
+---
+Natural language understanding (NLU) models often suffer from unintended
+dataset biases. Among bias mitigation methods, ensemble-based debiasing
+methods, especially product-of-experts (PoE), have stood out for their
+impressive empirical success. However, previous ensemble-based debiasing
+methods typically apply debiasing on top-level logits without directly
+addressing biased attention patterns. Attention serves as the main media of
+feature interaction and aggregation in PLMs and plays a crucial role in
+providing robust prediction. In this paper, we propose REsidual Attention
+Debiasing (READ), an end-to-end debiasing method that mitigates unintended
+biases from attention. Experiments on three NLU tasks show that READ
+significantly improves the performance of BERT-based models on OOD data with
+shortcuts removed, including +12.9% accuracy on HANS, +11.0% accuracy on
+FEVER-Symmetric, and +2.7% F1 on PAWS. Detailed analyses demonstrate the
+crucial role of unbiased attention in robust NLU models and that READ
+effectively mitigates biases in attention. Code is available at
+https://github.com/luka-group/READ.

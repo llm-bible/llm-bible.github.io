@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Tora: A Tool-integrated Reasoning Agent For Mathematical Problem Solving'
+authors: Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
+conference: "Arxiv"
+year: 2023
+bibkey: gou2023tool
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.17452"}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+---
+Large language models have made significant progress in various language
+tasks, yet they still struggle with complex mathematics. In this paper, we
+propose ToRA a series of Tool-integrated Reasoning Agents designed to solve
+challenging mathematical problems by seamlessly integrating natural language
+reasoning with the utilization of external tools (e.g., computation libraries
+and symbolic solvers), thereby amalgamating the analytical prowess of language
+and the computational efficiency of tools. To train ToRA, we curate interactive
+tool-use trajectories on mathematical datasets, apply imitation learning on the
+annotations, and propose output space shaping to further refine models'
+reasoning behavior. As a result, ToRA models significantly outperform
+open-source models on 10 mathematical reasoning datasets across all scales with
+13%-19% absolute improvements on average. Notably, ToRA-7B reaches 44.6% on the
+competition-level dataset MATH, surpassing the best open-source model
+WizardMath-70B by 22% absolute. ToRA-Code-34B is also the first open-source
+model that achieves an accuracy exceeding 50% on MATH, which significantly
+outperforms GPT-4's CoT result, and is competitive with GPT-4 solving problems
+with programs. Additionally, we conduct a comprehensive analysis of the
+benefits and remaining challenges of tool interaction for mathematical
+reasoning, providing valuable insights for future research.

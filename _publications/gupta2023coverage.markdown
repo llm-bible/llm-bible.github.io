@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Coverage-based Example Selection For In-context Learning'
+authors: Shivanshu Gupta, Matt Gardner, Sameer Singh
+conference: "Arxiv"
+year: 2023
+bibkey: gupta2023coverage
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.14907"}
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Prompting', 'In-Context Learning']
+---
+In-context learning (ICL), the ability of large language models to perform
+novel tasks by conditioning on a prompt with a few task examples, requires
+these examples to be informative about the test instance. The standard approach
+of independently ranking and selecting the most similar examples selects
+redundant examples while omitting important information. In this work, we show
+that BERTScore-Recall (BSR) selects better examples that demonstrate more of
+the salient aspects, e.g. reasoning patterns, of the test input. We further
+extend BSR and many standard metrics to easily optimizable set-level metrics,
+giving still better coverage of those salient aspects. On 15 datasets spanning
+6 tasks and with 7 diverse LLMs, we show that (1) BSR is the superior metric
+for in-context example selection across the board, and (2) for compositional
+tasks, set selection using Set-BSR outperforms independent ranking by up to 17
+points on average and, despite being training-free, surpasses methods that
+leverage task or LLM-specific training.

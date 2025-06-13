@@ -1,0 +1,34 @@
+---
+layout: publication
+title: 'Diff-prompt: Diffusion-driven Prompt Generator With Mask Supervision'
+authors: Weicai Yan, Wang Lin, Zirun Guo, Ye Wang, Fangming Feng, Xiaoda Yang, Zehan Wang, Tao Jin
+conference: "Arxiv"
+year: 2025
+bibkey: yan2025diff
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2504.21423"}
+  - {name: "Code", url: "https://github.com/Kelvin-ywc/diff-prompt"}
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
+---
+Prompt learning has demonstrated promising results in fine-tuning pre-trained
+multimodal models. However, the performance improvement is limited when applied
+to more complex and fine-grained tasks. The reason is that most existing
+methods directly optimize the parameters involved in the prompt generation
+process through loss backpropagation, which constrains the richness and
+specificity of the prompt representations. In this paper, we propose
+Diffusion-Driven Prompt Generator (Diff-Prompt), aiming to use the diffusion
+model to generate rich and fine-grained prompt information for complex
+downstream tasks. Specifically, our approach consists of three stages. In the
+first stage, we train a Mask-VAE to compress the masks into latent space. In
+the second stage, we leverage an improved Diffusion Transformer (DiT) to train
+a prompt generator in the latent space, using the masks for supervision. In the
+third stage, we align the denoising process of the prompt generator with the
+pre-trained model in the semantic space, and use the generated prompts to
+fine-tune the model. We conduct experiments on a complex pixel-level downstream
+task, referring expression comprehension, and compare our method with various
+parameter-efficient fine-tuning approaches. Diff-Prompt achieves a maximum
+improvement of 8.87 in R@1 and 14.05 in R@5 compared to the foundation model
+and also outperforms other state-of-the-art methods across multiple metrics.
+The experimental results validate the effectiveness of our approach and
+highlight the potential of using generative models for prompt generation. Code
+is available at https://github.com/Kelvin-ywc/diff-prompt.

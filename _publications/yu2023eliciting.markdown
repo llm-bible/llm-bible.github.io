@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Eliciting In-context Learning In Vision-language Models For Videos Through Curated Data Distributional Properties'
+authors: Keunwoo Peter Yu, Zheyuan Zhang, Fengyuan Hu, Shane Storks, Joyce Chai
+conference: "Arxiv"
+year: 2023
+bibkey: yu2023eliciting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.17041"}
+  - {name: "Code", url: "https://github.com/yukw777/EILEV"}
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training', 'In-Context Learning']
+---
+A major reason behind the recent success of large language models (LLMs) is
+their \textit\{in-context learning\} capability, which makes it possible to
+rapidly adapt them to downstream text-based tasks by prompting them with a
+small number of relevant demonstrations. While large vision-language models
+(VLMs) have recently been developed for tasks requiring both text and images,
+they largely lack in-context learning over visual information, especially in
+understanding and generating text about videos. In this work, we implement
+\textbf\{E\}mergent \textbf\{I\}n-context \textbf\{Le\}arning on \textbf\{V\}ideos
+(\eilev\{\}), a novel training paradigm that induces in-context learning over
+video and text by capturing key properties of pre-training data found by prior
+work to be essential for in-context learning in transformers. In our
+experiments, we show that \eilev-trained models outperform other off-the-shelf
+VLMs in few-shot video narration for novel, rare actions. Furthermore, we
+demonstrate that these key properties of bursty distributions, skewed marginal
+distributions, and dynamic meaning each contribute to varying degrees to VLMs'
+in-context learning capability in narrating procedural videos. Our results,
+analysis, and \eilev\{\}-trained models yield numerous insights about the
+emergence of in-context learning over video and text, creating a foundation for
+future work to optimize and scale VLMs for open-domain video understanding and
+reasoning. Our code and demo are available at
+\url\{https://github.com/yukw777/EILEV\}.

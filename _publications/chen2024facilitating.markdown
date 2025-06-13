@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Facilitating Multi-turn Function Calling For Llms Via Compositional Instruction Tuning'
+authors: Mingyang Chen, Haoze Sun, Tianpeng Li, Fan Yang, Hao Liang, Keer Lu, Bin Cui, Wentao Zhang, Zenan Zhou, Weipeng Chen
+conference: "Arxiv"
+year: 2024
+bibkey: chen2024facilitating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.12952"}
+tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+---
+Large Language Models (LLMs) have exhibited significant potential in
+performing diverse tasks, including the ability to call functions or use
+external tools to enhance their performance. While current research on function
+calling by LLMs primarily focuses on single-turn interactions, this paper
+addresses the overlooked necessity for LLMs to engage in multi-turn function
+calling--critical for handling compositional, real-world queries that require
+planning with functions but not only use functions. To facilitate this, we
+introduce an approach, BUTTON, which generates synthetic compositional
+instruction tuning data via bottom-up instruction construction and top-down
+trajectory generation. In the bottom-up phase, we generate simple atomic tasks
+based on real-world scenarios and build compositional tasks using heuristic
+strategies based on atomic tasks. Corresponding function definitions are then
+synthesized for these compositional tasks. The top-down phase features a
+multi-agent environment where interactions among simulated humans, assistants,
+and tools are utilized to gather multi-turn function calling trajectories. This
+approach ensures task compositionality and allows for effective function and
+trajectory generation by examining atomic tasks within compositional tasks. We
+produce a dataset BUTTONInstruct comprising 8k data points and demonstrate its
+effectiveness through extensive experiments across various LLMs.

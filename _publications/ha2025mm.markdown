@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Mm-poisonrag: Disrupting Multimodal RAG With Local And Global Poisoning Attacks'
+authors: Hyeonjeong Ha, Qiusi Zhan, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Daniel Kang, Heng Ji
+conference: "Arxiv"
+year: 2025
+bibkey: ha2025mm
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.17832"}
+tags: ['Responsible AI', 'Security', 'Multimodal Models', 'Tools', 'RAG', 'Applications']
+---
+Multimodal large language models (MLLMs) equipped with Retrieval Augmented
+Generation (RAG) leverage both their rich parametric knowledge and the dynamic,
+external knowledge to excel in tasks such as Question Answering. While RAG
+enhances MLLMs by grounding responses in query-relevant external knowledge,
+this reliance poses a critical yet underexplored safety risk: knowledge
+poisoning attacks, where misinformation or irrelevant knowledge is
+intentionally injected into external knowledge bases to manipulate model
+outputs to be incorrect and even harmful. To expose such vulnerabilities in
+multimodal RAG, we propose MM-PoisonRAG, a novel knowledge poisoning attack
+framework with two attack strategies: Localized Poisoning Attack (LPA), which
+injects query-specific misinformation in both text and images for targeted
+manipulation, and Globalized Poisoning Attack (GPA) to provide false guidance
+during MLLM generation to elicit nonsensical responses across all queries. We
+evaluate our attacks across multiple tasks, models, and access settings,
+demonstrating that LPA successfully manipulates the MLLM to generate
+attacker-controlled answers, with a success rate of up to 56% on MultiModalQA.
+Moreover, GPA completely disrupts model generation to 0% accuracy with just a
+single irrelevant knowledge injection. Our results highlight the urgent need
+for robust defenses against knowledge poisoning to safeguard multimodal RAG
+frameworks.

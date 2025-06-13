@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Future-guided Incremental Transformer For Simultaneous Translation'
+authors: Shaolei Zhang, Yang Feng, Liangyou Li
+conference: "Arxiv"
+year: 2020
+bibkey: zhang2020future
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2012.12465"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Transformer']
+---
+Simultaneous translation (ST) starts translations synchronously while reading
+source sentences, and is used in many online scenarios. The previous wait-k
+policy is concise and achieved good results in ST. However, wait-k policy faces
+two weaknesses: low training speed caused by the recalculation of hidden states
+and lack of future source information to guide training. For the low training
+speed, we propose an incremental Transformer with an average embedding layer
+(AEL) to accelerate the speed of calculation of the hidden states during
+training. For future-guided training, we propose a conventional Transformer as
+the teacher of the incremental Transformer, and try to invisibly embed some
+future information in the model through knowledge distillation. We conducted
+experiments on Chinese-English and German-English simultaneous translation
+tasks and compared with the wait-k policy to evaluate the proposed method. Our
+method can effectively increase the training speed by about 28 times on average
+at different k and implicitly embed some predictive abilities in the model,
+achieving better translation quality than wait-k baseline.

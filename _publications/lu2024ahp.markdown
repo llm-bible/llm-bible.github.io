@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Ahp-powered LLM Reasoning For Multi-criteria Evaluation Of Open-ended Responses'
+authors: Xiaotian Lu, Jiyi Li, Koh Takeuchi, Hisashi Kashima
+conference: "Arxiv"
+year: 2024
+bibkey: lu2024ahp
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.01246"}
+tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+---
+Question answering (QA) tasks have been extensively studied in the field of
+natural language processing (NLP). Answers to open-ended questions are highly
+diverse and difficult to quantify, and cannot be simply evaluated as correct or
+incorrect, unlike close-ended questions with definitive answers. While large
+language models (LLMs) have demonstrated strong capabilities across various
+tasks, they exhibit relatively weaker performance in evaluating answers to
+open-ended questions. In this study, we propose a method that leverages LLMs
+and the analytic hierarchy process (AHP) to assess answers to open-ended
+questions. We utilized LLMs to generate multiple evaluation criteria for a
+question. Subsequently, answers were subjected to pairwise comparisons under
+each criterion with LLMs, and scores for each answer were calculated in the
+AHP. We conducted experiments on four datasets using both ChatGPT-3.5-turbo and
+GPT-4. Our results indicate that our approach more closely aligns with human
+judgment compared to the four baselines. Additionally, we explored the impact
+of the number of criteria, variations in models, and differences in datasets on
+the results.

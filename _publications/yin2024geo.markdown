@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Safeworld: Geo-diverse Safety Alignment'
+authors: Da Yin, Haoyi Qiu, Kung-hsiang Huang, Kai-wei Chang, Nanyun Peng
+conference: "Arxiv"
+year: 2024
+bibkey: yin2024geo
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.06483"}
+  - {name: "Code", url: "https://github.com/PlusLabNLP/SafeWorld"}
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+---
+In the rapidly evolving field of Large Language Models (LLMs), ensuring
+safety is a crucial and widely discussed topic. However, existing works often
+overlook the geo-diversity of cultural and legal standards across the world. To
+demonstrate the challenges posed by geo-diverse safety standards, we introduce
+SafeWorld, a novel benchmark specifically designed to evaluate LLMs' ability to
+generate responses that are not only helpful but also culturally sensitive and
+legally compliant across diverse global contexts. SafeWorld encompasses 2,342
+test user queries, each grounded in high-quality, human-verified cultural norms
+and legal policies from 50 countries and 493 regions/races. On top of it, we
+propose a multi-dimensional automatic safety evaluation framework that assesses
+the contextual appropriateness, accuracy, and comprehensiveness of responses.
+Our evaluations reveal that current LLMs struggle to meet these criteria. To
+enhance LLMs' alignment with geo-diverse safety standards, we synthesize
+helpful preference pairs for Direct Preference Optimization (DPO) alignment
+training. The preference pair construction aims to encourage LLMs to behave
+appropriately and provide precise references to relevant cultural norms and
+policies when necessary. Our trained SafeWorldLM outperforms all competing
+models, including GPT-4o on all three evaluation dimensions by a large margin.
+Global human evaluators also note a nearly 20% higher winning rate in
+helpfulness and harmfulness evaluation. Our code and data can be found here:
+https://github.com/PlusLabNLP/SafeWorld.

@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Beyond Sparse Rewards: Enhancing Reinforcement Learning With Language Model Critique In Text Generation'
+authors: Meng Cao, Lei Shu, Lei Yu, Yun Zhu, Nevan Wichers, Yinxiao Liu, Lei Meng
+conference: "Arxiv"
+year: 2024
+bibkey: cao2024beyond
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.07382"}
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+---
+Reinforcement learning (RL) can align language models with non-differentiable
+reward signals, such as human preferences. However, a major challenge arises
+from the sparsity of these reward signals - typically, there is only a single
+reward for an entire output. This sparsity of rewards can lead to inefficient
+and unstable learning. To address this challenge, our paper introduces an novel
+framework that utilizes the critique capability of Large Language Models (LLMs)
+to produce intermediate-step rewards during RL training. Our method involves
+coupling a policy model with a critic language model, which is responsible for
+providing comprehensive feedback of each part of the output. This feedback is
+then translated into token or span-level rewards that can be used to guide the
+RL training process. We investigate this approach under two different settings:
+one where the policy model is smaller and is paired with a more powerful critic
+model, and another where a single language model fulfills both roles. We assess
+our approach on three text generation tasks: sentiment control, language model
+detoxification, and summarization. Experimental results show that incorporating
+artificial intrinsic rewards significantly improve both sample efficiency and
+the overall performance of the policy model, supported by both automatic and
+human evaluation.

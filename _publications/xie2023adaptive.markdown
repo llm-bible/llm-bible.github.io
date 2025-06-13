@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Adaptive Chameleon Or Stubborn Sloth: Revealing The Behavior Of Large Language Models In Knowledge Conflicts'
+authors: Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su
+conference: "Arxiv"
+year: 2023
+bibkey: xie2023adaptive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.13300"}
+  - {name: "Code", url: "https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict"}
+tags: ['Ethics and Bias', 'RAG', 'Has Code', 'Tools']
+---
+By providing external information to large language models (LLMs), tool
+augmentation (including retrieval augmentation) has emerged as a promising
+solution for addressing the limitations of LLMs' static parametric memory.
+However, how receptive are LLMs to such external evidence, especially when the
+evidence conflicts with their parametric memory? We present the first
+comprehensive and controlled investigation into the behavior of LLMs when
+encountering knowledge conflicts. We propose a systematic framework to elicit
+high-quality parametric memory from LLMs and construct the corresponding
+counter-memory, which enables us to conduct a series of controlled experiments.
+Our investigation reveals seemingly contradicting behaviors of LLMs. On the one
+hand, different from prior wisdom, we find that LLMs can be highly receptive to
+external evidence even when that conflicts with their parametric memory, given
+that the external evidence is coherent and convincing. On the other hand, LLMs
+also demonstrate a strong confirmation bias when the external evidence contains
+some information that is consistent with their parametric memory, despite being
+presented with conflicting evidence at the same time. These results pose
+important implications that are worth careful consideration for the further
+development and deployment of tool- and retrieval-augmented LLMs. Resources are
+available at https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict.

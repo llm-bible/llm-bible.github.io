@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'Improving Pretraining Data Using Perplexity Correlations'
+authors: Tristan Thrush, Christopher Potts, Tatsunori Hashimoto
+conference: "Arxiv"
+year: 2024
+bibkey: thrush2024improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.05816"}
+  - {name: "Code", url: "https://github.com/TristanThrush/perplexity-correlations"}
+tags: ['Pretraining Methods', 'Training Techniques', 'Has Code', 'Tools']
+---
+Quality pretraining data is often seen as the key to high-performance
+language models. However, progress in understanding pretraining data has been
+slow due to the costly pretraining runs required for data selection
+experiments. We present a framework that avoids these costs and selects
+high-quality pretraining data without any LLM training of our own. Our work is
+based on a simple observation: LLM losses on many pretraining texts are
+correlated with downstream benchmark performance, and selecting
+high-correlation documents is an effective pretraining data selection method.
+We build a new statistical framework for data selection centered around
+estimates of perplexity-benchmark correlations and perform data selection using
+a sample of 90 LLMs taken from the Open LLM Leaderboard on texts from tens of
+thousands of web domains. In controlled pretraining experiments at the 160M
+parameter scale on 8 benchmarks, our approach outperforms DSIR on every
+benchmark, while matching the best data selector found in DataComp-LM, a
+hand-engineered bigram classifier. We have now also updated this paper to
+include results from preregistered experiments with new pretraining data on an
+aggregation of 22 benchmarks up to the 1.4B scale, showing increasing
+improvements of our method over others with more scale. A pip package with full
+documentation can be found here:
+https://github.com/TristanThrush/perplexity-correlations.

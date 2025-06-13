@@ -1,0 +1,21 @@
+---
+layout: publication
+title: 'Harnessing The Power Of Llms: Evaluating Human-ai Text Co-creation Through The Lens Of News Headline Generation'
+authors: Zijian Ding, Alison Smith-renner, Wenjuan Zhang, Joel R. Tetreault, Alejandro Jaimes
+conference: "Arxiv"
+year: 2023
+bibkey: ding2023harnessing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.10706"}
+tags: ['RAG']
+---
+To explore how humans can best leverage LLMs for writing and how interacting
+with these models affects feelings of ownership and trust in the writing
+process, we compared common human-AI interaction types (e.g., guiding system,
+selecting from system outputs, post-editing outputs) in the context of
+LLM-assisted news headline generation. While LLMs alone can generate
+satisfactory news headlines, on average, human control is needed to fix
+undesirable model outputs. Of the interaction methods, guiding and selecting
+model output added the most benefit with the lowest cost (in time and effort).
+Further, AI assistance did not harm participants' perception of control
+compared to freeform editing.

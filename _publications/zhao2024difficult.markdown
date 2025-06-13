@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Difficult Task Yes But Simple Task No: Unveiling The Laziness In Multimodal Llms'
+authors: Sihang Zhao, Youliang Yuan, Xiaoying Tang, Pinjia He
+conference: "Arxiv"
+year: 2024
+bibkey: zhao2024difficult
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.11437"}
+tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+---
+Multimodal Large Language Models (MLLMs) demonstrate a strong understanding
+of the real world and can even handle complex tasks. However, they still fail
+on some straightforward visual question-answering (VQA) problems. This paper
+dives deeper into this issue, revealing that models tend to err when answering
+easy questions (e.g. Yes/No questions) about an image, even though they can
+correctly describe it. We refer to this model behavior discrepancy between
+difficult and simple questions as model laziness. To systematically investigate
+model laziness, we manually construct LazyBench, a benchmark that includes
+Yes/No, multiple choice, short answer questions, and image description tasks
+that are related to the same subjects in the images. Based on LazyBench, we
+observe that laziness widely exists in current advanced MLLMs (e.g. GPT-4o,
+Gemini-1.5-pro, Claude 3 and LLaVA-v1.5-13B), and it is more pronounced on
+stronger models. We also analyze the VQA v2 (LLaVA-v1.5-13B) benchmark and find
+that about half of its failure cases are caused by model laziness, which
+further highlights the importance of ensuring that the model fully utilizes its
+capability. To this end, we conduct preliminary exploration on how to mitigate
+laziness and find that chain of thought (CoT) can effectively address this
+issue.

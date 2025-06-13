@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Latxa: An Open Language Model And Evaluation Suite For Basque'
+authors: Julen Etxaniz, Oscar Sainz, Naiara Perez, Itziar Aldabe, German Rigau, Eneko Agirre, Aitor Ormazabal, Mikel Artetxe, Aitor Soroa
+conference: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1 Long Papers) pages 14952--14972. 2024"
+year: 2024
+bibkey: etxaniz2024open
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.20266"}
+tags: ['Pretraining Methods', 'Training Techniques', 'GPT', 'Model Architecture']
+---
+We introduce Latxa, a family of large language models for Basque ranging from
+7 to 70 billion parameters. Latxa is based on Llama 2, which we continue
+pretraining on a new Basque corpus comprising 4.3M documents and 4.2B tokens.
+Addressing the scarcity of high-quality benchmarks for Basque, we further
+introduce 4 multiple choice evaluation datasets: EusProficiency, comprising
+5,169 questions from official language proficiency exams; EusReading,
+comprising 352 reading comprehension questions; EusTrivia, comprising 1,715
+trivia questions from 5 knowledge areas; and EusExams, comprising 16,774
+questions from public examinations. In our extensive evaluation, Latxa
+outperforms all previous open models we compare to by a large margin. In
+addition, it is competitive with GPT-4 Turbo in language proficiency and
+understanding, despite lagging behind in reading comprehension and
+knowledge-intensive tasks. Both the Latxa family of models, as well as our new
+pretraining corpora and evaluation datasets, are publicly available under open
+licenses. Our suite enables reproducible research on methods to build LLMs for
+low-resource languages.

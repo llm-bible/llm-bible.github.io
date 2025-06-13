@@ -1,0 +1,26 @@
+---
+layout: publication
+title: '\(\textit{dial Beinfo For Faithfulness}\): Improving Factuality Of Information-seeking Dialogue Via Behavioural Fine-tuning'
+authors: Evgeniia Razumovskaia, Ivan Vulić, Pavle Marković, Tomasz Cichy, Qian Zheng, Tsung-hsien Wen, Paweł Budzianowski
+conference: "Arxiv"
+year: 2023
+bibkey: razumovskaia2023beinfo
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.09800"}
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+---
+Factuality is a crucial requirement in information seeking dialogue: the
+system should respond to the user's queries so that the responses are
+meaningful and aligned with the knowledge provided to the system. However, most
+modern large language models suffer from hallucinations, that is, they generate
+responses not supported by or contradicting the knowledge source. To mitigate
+the issue and increase faithfulness of information-seeking dialogue systems, we
+introduce BeInfo, a simple yet effective method that applies behavioural tuning
+to aid information-seeking dialogue. Relying on three standard datasets, we
+show that models tuned with BeInfo\} become considerably more faithful to the
+knowledge source both for datasets and domains seen during BeInfo-tuning, as
+well as on unseen domains, when applied in a zero-shot manner. In addition, we
+show that the models with 3B parameters (e.g., Flan-T5) tuned with BeInfo
+demonstrate strong performance on data from real `production' conversations and
+outperform GPT4 when tuned on a limited amount of such realistic in-domain
+dialogues.

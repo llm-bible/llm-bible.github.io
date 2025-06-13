@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'TPO: Aligning Large Language Models With Multi-branch & Multi-step Preference Trees'
+authors: Weibin Liao, Xu Chu, Yasha Wang
+conference: "Arxiv"
+year: 2024
+bibkey: liao2024aligning
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.12854"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+---
+In the domain of complex reasoning tasks, such as mathematical reasoning,
+recent advancements have proposed the use of Direct Preference Optimization
+(DPO) to suppress output of dispreferred responses, thereby enhancing the
+long-chain reasoning capabilities of large language models (LLMs). To this end,
+these studies employed LLMs to generate preference trees via Tree-of-thoughts
+(ToT) and sample the paired preference responses required by the DPO algorithm.
+However, the DPO algorithm based on binary preference optimization is unable to
+learn multiple responses with varying degrees of preference/dispreference that
+provided by the preference trees, resulting in incomplete preference learning.
+In this work, we introduce Tree Preference Optimization (TPO), that does not
+sample paired preference responses from the preference tree; instead, it
+directly learns from the entire preference tree during the fine-tuning.
+Specifically, TPO formulates the language model alignment as a Preference List
+Ranking problem, where the policy can potentially learn more effectively from a
+ranked preference list of responses given the prompt. In addition, to further
+assist LLMs in identifying discriminative steps within long-chain reasoning and
+increase the relative reward margin in the preference list, TPO utilizes
+Adaptive Step Reward to adjust the reward values of each step in trajectory for
+performing fine-grained preference optimization. We carry out extensive
+experiments on mathematical reasoning tasks to evaluate TPO. The experimental
+results indicate that TPO consistently outperforms DPO across five public large
+language models on four datasets.

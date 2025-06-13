@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'NACL: A General And Effective KV Cache Eviction Framework For Llms At Inference Time'
+authors: Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu
+conference: "Arxiv"
+year: 2024
+bibkey: chen2024general
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.03675"}
+  - {name: "Code", url: "https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL"}
+tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Has Code', 'ACL', 'Applications', 'Attention Mechanism']
+---
+Large Language Models (LLMs) have ignited an innovative surge of AI
+applications, marking a new era of exciting possibilities equipped with
+extended context windows. However, hosting these models is cost-prohibitive
+mainly due to the extensive memory consumption of KV Cache involving
+long-context modeling. Despite several works proposing to evict unnecessary
+tokens from the KV Cache, most of them rely on the biased local statistics of
+accumulated attention scores and report performance using unconvincing metric
+like perplexity on inadequate short-text evaluation. In this paper, we propose
+NACL, a general framework for long-context KV cache eviction that achieves more
+optimal and efficient eviction in a single operation during the encoding phase.
+Due to NACL's efficiency, we combine more accurate attention score statistics
+in PROXY TOKENS EVICTION with the diversified random eviction strategy of
+RANDOM EVICTION, aiming to alleviate the issue of attention bias and enhance
+the robustness in maintaining pivotal tokens for long-context modeling tasks.
+Notably, our method significantly improves the performance on short- and
+long-text tasks by 80% and 76% respectively, reducing KV Cache by up to 50%
+with over 95% performance maintenance. The code is available at
+https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL.

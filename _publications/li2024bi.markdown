@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Amphista: Bi-directional Multi-head Decoding For Accelerating LLM Inference'
+authors: Zeping Li, Xinlong Yang, Ziheng Gao, Ji Liu, Guanchen Li, Zhuang Liu, Dong Li, Jinzhang Peng, Lu Tian, Emad Barsoum
+conference: "Arxiv"
+year: 2024
+bibkey: li2024bi
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.13170"}
+tags: ['Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+---
+Large Language Models (LLMs) inherently use autoregressive decoding, which
+lacks parallelism in inference and results in significantly slow inference
+speed. While methods such as Medusa constructs parallelized heads, they lack
+adequate information interaction across different prediction positions. To
+overcome this limitation, we introduce Amphista, an enhanced speculative
+decoding framework that builds upon Medusa. Specifically, Amphista models an
+Auto-embedding Block capable of parallel inference, incorporating
+bi-directional attention to enable interaction between different drafting
+heads. Additionally, Amphista integrates Staged Adaptation Layers, which ensure
+a seamless transition of semantic information from the target model's
+autoregressive inference to the drafting heads' non-autoregressive inference,
+effectively achieving paradigm shift and feature fusion. Experimental results
+on Vicuna models using MT-Bench and Spec-Bench demonstrate that Amphista
+achieves substantial acceleration while maintaining generation quality. On
+MT-Bench, Amphista delivers up to 2.75\\(\times\\) speedup over vanilla
+autoregressive decoding and 1.40\\(\times\\) over Medusa on Vicuna 33B in
+wall-clock time.

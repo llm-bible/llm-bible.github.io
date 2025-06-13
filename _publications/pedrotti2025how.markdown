@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'How Humans And Llms Organize Conceptual Knowledge: Exploring Subordinate Categories In Italian'
+authors: Andrea Pedrotti, Giulia Rambelli, Caterina Villani, Marianna Bolognesi
+conference: "Arxiv"
+year: 2025
+bibkey: pedrotti2025how
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2505.21301"}
+tags: ['Reinforcement Learning']
+---
+People can categorize the same entity at multiple taxonomic levels, such as basic (bear), superordinate (animal), and subordinate (grizzly bear). While prior research has focused on basic-level categories, this study is the first attempt to examine the organization of categories by analyzing exemplars produced at the subordinate level. We present a new Italian psycholinguistic dataset of human-generated exemplars for 187 concrete words. We then use these data to evaluate whether textual and vision LLMs produce meaningful exemplars that align with human category organization across three key tasks: exemplar generation, category induction, and typicality judgment. Our findings show a low alignment between humans and LLMs, consistent with previous studies. However, their performance varies notably across different semantic domains. Ultimately, this study highlights both the promises and the constraints of using AI-generated exemplars to support psychological and linguistic research.

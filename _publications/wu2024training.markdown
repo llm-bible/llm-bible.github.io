@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Controlmllm: Training-free Visual Prompt Learning For Multimodal Large Language Models'
+authors: Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Guannan Jiang, Xiaoshuai Sun, Rongrong Ji
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024training
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.21534"}
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+---
+In this work, we propose a training-free method to inject visual prompts into
+Multimodal Large Language Models (MLLMs) through test-time optimization of a
+learnable latent variable. We observe that attention, as the core module of
+MLLMs, connects text prompt tokens and visual tokens, ultimately determining
+the final results. Our approach involves adjusting visual tokens from the MLP
+output at test time, controlling the attention response to ensure text prompt
+tokens attend to visual tokens in referring regions. We optimize a learnable
+latent variable based on an energy function, enhancing the strength of
+referring regions in the attention map. This enables detailed region
+description and reasoning without the need for substantial training costs or
+model retraining. Our method offers a promising direction for integrating
+referring abilities into MLLMs, and supports referring with box, mask, scribble
+and point. The results demonstrate that our method exhibits out-of-domain
+generalization and interpretability.

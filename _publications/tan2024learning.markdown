@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Lloco: Learning Long Contexts Offline'
+authors: Sijun Tan, Xiuyu Li, Shishir Patil, Ziyang Wu, Tianjun Zhang, Kurt Keutzer, Joseph E. Gonzalez, Raluca Ada Popa
+conference: "Arxiv"
+year: 2024
+bibkey: tan2024learning
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.07979"}
+  - {name: "Code", url: "https://github.com/jeffreysijuntan/lloco"}
+tags: ['Model Architecture', 'Attention Mechanism', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+---
+Processing long contexts remains a challenge for large language models (LLMs)
+due to the quadratic computational and memory overhead of the self-attention
+mechanism and the substantial KV cache sizes during generation. We propose
+LLoCO, a novel approach to address this problem by learning contexts offline
+through context compression and in-domain parameter-efficient finetuning with
+LoRA. Our method enables an LLM to create a concise representation of the
+original context and efficiently retrieve relevant information to answer
+questions accurately. Our approach extends the effective context window of a 4k
+token LLaMA2-7B model to handle up to 128k tokens. We evaluate our approach on
+several long-context question-answering datasets, demonstrating that LLoCO
+significantly outperforms in-context learning while using \\(30\times\\) fewer
+tokens during inference. LLoCO achieves up to \\(7.62\times\\) speed-up during
+inference and \\(11.52\times\\) higher throughput during finetuning, substantially
+reduces the cost of long document question answering. This makes it a promising
+solution for efficient long context processing. Our code is publicly available
+on https://github.com/jeffreysijuntan/lloco.

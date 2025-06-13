@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Instruction Tuning On Public Government And Cultural Data For Low-resource Language: A Case Study In Kazakh'
+authors: Nurkhan Laiyk, Daniil Orel, Rituraj Joshi, Maiya Goloburda, Yuxia Wang, Preslav Nakov, Fajri Koto
+conference: "Arxiv"
+year: 2025
+bibkey: laiyk2025instruction
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.13647"}
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+---
+Instruction tuning in low-resource languages remains underexplored due to
+limited text data, particularly in government and cultural domains. To address
+this, we introduce and open-source a large-scale (10,600 samples)
+instruction-following (IFT) dataset, covering key institutional and cultural
+knowledge relevant to Kazakhstan. Our dataset enhances LLMs' understanding of
+procedural, legal, and structural governance topics. We employ LLM-assisted
+data generation, comparing open-weight and closed-weight models for dataset
+construction, and select GPT-4o as the backbone. Each entity of our dataset
+undergoes full manual verification to ensure high quality. We also show that
+fine-tuning Qwen, Falcon, and Gemma on our dataset leads to consistent
+performance improvements in both multiple-choice and generative tasks,
+demonstrating the potential of LLM-assisted instruction tuning for low-resource
+languages.

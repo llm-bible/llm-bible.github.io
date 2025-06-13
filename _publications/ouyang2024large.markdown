@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Climedbench: A Large-scale Chinese Benchmark For Evaluating Medical Large Language Models In Clinical Scenarios'
+authors: Zetian Ouyang, Yishuai Qiu, Linlin Wang, Gerard De Melo, Ya Zhang, Yanfeng Wang, Liang He
+conference: "Arxiv"
+year: 2024
+bibkey: ouyang2024large
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.03502"}
+tags: ['Reinforcement Learning']
+---
+With the proliferation of Large Language Models (LLMs) in diverse domains,
+there is a particular need for unified evaluation standards in clinical medical
+scenarios, where models need to be examined very thoroughly. We present
+CliMedBench, a comprehensive benchmark with 14 expert-guided core clinical
+scenarios specifically designed to assess the medical ability of LLMs across 7
+pivot dimensions. It comprises 33,735 questions derived from real-world medical
+reports of top-tier tertiary hospitals and authentic examination exercises. The
+reliability of this benchmark has been confirmed in several ways. Subsequent
+experiments with existing LLMs have led to the following findings: (i) Chinese
+medical LLMs underperform on this benchmark, especially where medical reasoning
+and factual consistency are vital, underscoring the need for advances in
+clinical knowledge and diagnostic accuracy. (ii) Several general-domain LLMs
+demonstrate substantial potential in medical clinics, while the limited input
+capacity of many medical LLMs hinders their practical use. These findings
+reveal both the strengths and limitations of LLMs in clinical scenarios and
+offer critical insights for medical research.

@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Roles Of Scaling And Instruction Tuning In Language Perception: Model Vs. Human Attention'
+authors: Changjiang Gao, Shujian Huang, Jixing Li, Jiajun Chen
+conference: "Arxiv"
+year: 2023
+bibkey: gao2023roles
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.19084"}
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+---
+Recent large language models (LLMs) have revealed strong abilities to
+understand natural language. Since most of them share the same basic structure,
+i.e. the transformer block, possible contributors to their success in the
+training process are scaling and instruction tuning. However, how these factors
+affect the models' language perception is unclear. This work compares the
+self-attention of several existing LLMs (LLaMA, Alpaca and Vicuna) in different
+sizes (7B, 13B, 30B, 65B), together with eye saccade, an aspect of human
+reading attention, to assess the effect of scaling and instruction tuning on
+language perception. Results show that scaling enhances the human resemblance
+and improves the effective attention by reducing the trivial pattern reliance,
+while instruction tuning does not. However, instruction tuning significantly
+enhances the models' sensitivity to instructions. We also find that current
+LLMs are consistently closer to non-native than native speakers in attention,
+suggesting a sub-optimal language perception of all models. Our code and data
+used in the analysis is available on GitHub.

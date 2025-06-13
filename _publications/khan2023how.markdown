@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Q: How To Specialize Large Vision-language Models To Data-scarce VQA Tasks? A: Self-train On Unlabeled Images!'
+authors: Zaid Khan, Vijay Kumar Bg, Samuel Schulter, Xiang Yu, Yun Fu, Manmohan Chandraker
+conference: "Arxiv"
+year: 2023
+bibkey: khan2023how
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.03932"}
+  - {name: "Code", url: "https://github.com/codezakh/SelTDA"}
+tags: ['Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+---
+Finetuning a large vision language model (VLM) on a target dataset after
+large scale pretraining is a dominant paradigm in visual question answering
+(VQA). Datasets for specialized tasks such as knowledge-based VQA or VQA in non
+natural-image domains are orders of magnitude smaller than those for
+general-purpose VQA. While collecting additional labels for specialized tasks
+or domains can be challenging, unlabeled images are often available. We
+introduce SelTDA (Self-Taught Data Augmentation), a strategy for finetuning
+large VLMs on small-scale VQA datasets. SelTDA uses the VLM and target dataset
+to build a teacher model that can generate question-answer pseudolabels
+directly conditioned on an image alone, allowing us to pseudolabel unlabeled
+images. SelTDA then finetunes the initial VLM on the original dataset augmented
+with freshly pseudolabeled images. We describe a series of experiments showing
+that our self-taught data augmentation increases robustness to adversarially
+searched questions, counterfactual examples and rephrasings, improves domain
+generalization, and results in greater retention of numerical reasoning skills.
+The proposed strategy requires no additional annotations or architectural
+modifications, and is compatible with any modern encoder-decoder multimodal
+transformer. Code available at https://github.com/codezakh/SelTDA.

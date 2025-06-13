@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'S3-DST: Structured Open-domain Dialogue Segmentation And State Tracking In The Era Of Llms'
+authors: Sarkar Snigdha Sarathi Das, Chirag Shah, Mengting Wan, Jennifer Neville, Longqi Yang, Reid Andersen, Georg Buscher, Tara Safavi
+conference: "Arxiv"
+year: 2023
+bibkey: das2023structured
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.08827"}
+tags: ['Agentic', 'Security', 'Reinforcement Learning', 'Prompting', 'Applications']
+---
+The traditional Dialogue State Tracking (DST) problem aims to track user
+preferences and intents in user-agent conversations. While sufficient for
+task-oriented dialogue systems supporting narrow domain applications, the
+advent of Large Language Model (LLM)-based chat systems has introduced many
+real-world intricacies in open-domain dialogues. These intricacies manifest in
+the form of increased complexity in contextual interactions, extended dialogue
+sessions encompassing a diverse array of topics, and more frequent contextual
+shifts. To handle these intricacies arising from evolving LLM-based chat
+systems, we propose joint dialogue segmentation and state tracking per segment
+in open-domain dialogue systems. Assuming a zero-shot setting appropriate to a
+true open-domain dialogue system, we propose S3-DST, a structured prompting
+technique that harnesses Pre-Analytical Recollection, a novel grounding
+mechanism we designed for improving long context tracking. To demonstrate the
+efficacy of our proposed approach in joint segmentation and state tracking, we
+evaluate S3-DST on a proprietary anonymized open-domain dialogue dataset, as
+well as publicly available DST and segmentation datasets. Across all datasets
+and settings, S3-DST consistently outperforms the state-of-the-art,
+demonstrating its potency and robustness the next generation of LLM-based chat
+systems.

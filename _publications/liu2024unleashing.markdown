@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Unleashing The Power Of Large Language Models In Zero-shot Relation Extraction Via Self-prompting'
+authors: Siyi Liu, Yang Li, Jiang Li, Shan Yang, Yunshi Lan
+conference: "Arxiv"
+year: 2024
+bibkey: liu2024unleashing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.01154"}
+tags: ['Prompting', 'In-Context Learning', 'Tools']
+---
+Recent research in zero-shot Relation Extraction (RE) has focused on using
+Large Language Models (LLMs) due to their impressive zero-shot capabilities.
+However, current methods often perform suboptimally, mainly due to a lack of
+detailed, context-specific prompts needed for understanding various sentences
+and relations. To address this, we introduce the Self-Prompting framework, a
+novel method designed to fully harness the embedded RE knowledge within LLMs.
+Specifically, our framework employs a three-stage diversity approach to prompt
+LLMs, generating multiple synthetic samples that encapsulate specific relations
+from scratch. These generated samples act as in-context learning samples,
+offering explicit and context-specific guidance to efficiently prompt LLMs for
+RE. Experimental evaluations on benchmark datasets show our approach
+outperforms existing LLM-based zero-shot RE methods. Additionally, our
+experiments confirm the effectiveness of our generation pipeline in producing
+high-quality synthetic data that enhances performance.

@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Modeling Topical Relevance For Multi-turn Dialogue Generation'
+authors: Hainan Zhang, Yanyan Lan, Liang Pang, Hongshen Chen, Zhuoye Ding, Dawei Yin
+conference: "the 29th International Joint Conference on Artificial Intelligence(IJCAI 2020)"
+year: 2020
+bibkey: zhang2020modeling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2009.12735"}
+tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture']
+---
+Topic drift is a common phenomenon in multi-turn dialogue. Therefore, an
+ideal dialogue generation models should be able to capture the topic
+information of each context, detect the relevant context, and produce
+appropriate responses accordingly. However, existing models usually use word or
+sentence level similarities to detect the relevant contexts, which fail to well
+capture the topical level relevance. In this paper, we propose a new model,
+named STAR-BTM, to tackle this problem. Firstly, the Biterm Topic Model is
+pre-trained on the whole training dataset. Then, the topic level attention
+weights are computed based on the topic representation of each context.
+Finally, the attention weights and the topic distribution are utilized in the
+decoding process to generate the corresponding responses. Experimental results
+on both Chinese customer services data and English Ubuntu dialogue data show
+that STAR-BTM significantly outperforms several state-of-the-art methods, in
+terms of both metric-based and human evaluations.

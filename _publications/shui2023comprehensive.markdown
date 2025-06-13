@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'A Comprehensive Evaluation Of Large Language Models On Legal Judgment Prediction'
+authors: Ruihao Shui, Yixin Cao, Xiang Wang, Tat-seng Chua
+conference: "Arxiv"
+year: 2023
+bibkey: shui2023comprehensive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.11761"}
+  - {name: "Code", url: "https://github.com/srhthu/LM-CompEval-Legal"}
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications']
+---
+Large language models (LLMs) have demonstrated great potential for
+domain-specific applications, such as the law domain. However, recent disputes
+over GPT-4's law evaluation raise questions concerning their performance in
+real-world legal tasks. To systematically investigate their competency in the
+law, we design practical baseline solutions based on LLMs and test on the task
+of legal judgment prediction. In our solutions, LLMs can work alone to answer
+open questions or coordinate with an information retrieval (IR) system to learn
+from similar cases or solve simplified multi-choice questions. We show that
+similar cases and multi-choice options, namely label candidates, included in
+prompts can help LLMs recall domain knowledge that is critical for expertise
+legal reasoning. We additionally present an intriguing paradox wherein an IR
+system surpasses the performance of LLM+IR due to limited gains acquired by
+weaker LLMs from powerful IR systems. In such cases, the role of LLMs becomes
+redundant. Our evaluation pipeline can be easily extended into other tasks to
+facilitate evaluations in other domains. Code is available at
+https://github.com/srhthu/LM-CompEval-Legal

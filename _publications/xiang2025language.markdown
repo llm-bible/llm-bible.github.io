@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Retrospex: Language Agent Meets Offline Reinforcement Learning Critic'
+authors: Yufei Xiang, Yiqun Shen, Yeqin Zhang, Cam-tu Nguyen
+conference: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing pages 4650-4666 ACL Anthology 2024"
+year: 2025
+bibkey: xiang2025language
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2505.11807"}
+tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+---
+Large Language Models (LLMs) possess extensive knowledge and commonsense reasoning capabilities, making them valuable for creating powerful agents. However, existing LLM agent frameworks have not fully utilized past experiences for improvement. This work introduces a new LLM-based agent framework called Retrospex, which addresses this challenge by analyzing past experiences in depth. Unlike previous approaches, Retrospex does not directly integrate experiences into the LLM's context. Instead, it combines the LLM's action likelihood with action values estimated by a Reinforcement Learning (RL) Critic, which is trained on past experiences through an offline ''retrospection'' process. Additionally, Retrospex employs a dynamic action rescoring mechanism that increases the importance of experience-based values for tasks that require more interaction with the environment. We evaluate Retrospex in ScienceWorld, ALFWorld and Webshop environments, demonstrating its advantages over strong, contemporary baselines.

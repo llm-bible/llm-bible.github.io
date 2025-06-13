@@ -1,0 +1,34 @@
+---
+layout: publication
+title: 'Agentsquare: Automatic LLM Agent Search In Modular Design Space'
+authors: Yu Shang, Yu Li, Keyu Zhao, Likai Ma, Jiahe Liu, Fengli Xu, Yong Li
+conference: "Arxiv"
+year: 2024
+bibkey: shang2024automatic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.06153"}
+  - {name: "Code", url: "https://github.com/tsinghua-fib-lab/AgentSquare"}
+tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'Has Code', 'Applications']
+---
+Recent advancements in Large Language Models (LLMs) have led to a rapid
+growth of agentic systems capable of handling a wide range of complex tasks.
+However, current research largely relies on manual, task-specific design,
+limiting their adaptability to novel tasks. In this paper, we introduce a new
+research problem: Modularized LLM Agent Search (MoLAS). We propose a modular
+design space that abstracts existing LLM agent designs into four fundamental
+modules with uniform IO interface: Planning, Reasoning, Tool Use, and Memory.
+Building on this design space, we present a novel LLM agent search framework
+called AgentSquare, which introduces two core mechanisms, i.e., module
+evolution and recombination, to efficiently search for optimized LLM agents. To
+further accelerate the process, we design a performance predictor that uses
+in-context surrogate models to skip unpromising agent designs. Extensive
+experiments across six benchmarks, covering the diverse scenarios of web,
+embodied, tool use and game applications, show that AgentSquare substantially
+outperforms hand-crafted agents, achieving an average performance gain of 17.2%
+against best-known human designs. Moreover, AgentSquare can generate
+interpretable design insights, enabling a deeper understanding of agentic
+architecture and its impact on task performance. We believe that the modular
+design space and AgentSquare search framework offer a platform for fully
+exploiting the potential of prior successful designs and consolidating the
+collective efforts of research community. Code repo is available at
+https://github.com/tsinghua-fib-lab/AgentSquare.

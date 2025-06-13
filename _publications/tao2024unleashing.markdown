@@ -1,0 +1,34 @@
+---
+layout: publication
+title: 'Hovle: Unleashing The Power Of Monolithic Vision-language Models With Holistic Vision-language Embedding'
+authors: Chenxin Tao, Shiqian Su, Xizhou Zhu, Chenyu Zhang, Zhe Chen, Jiawen Liu, Wenhai Wang, Lewei Lu, Gao Huang, Yu Qiao, Jifeng Dai
+conference: "Arxiv"
+year: 2024
+bibkey: tao2024unleashing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.16158"}
+  - {name: "Code", url: "https://huggingface.co/OpenGVLab/HoVLE"}
+tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Large-Scale Training', 'Fine-Tuning', 'Has Code']
+---
+The rapid advance of Large Language Models (LLMs) has catalyzed the
+development of Vision-Language Models (VLMs). Monolithic VLMs, which avoid
+modality-specific encoders, offer a promising alternative to the compositional
+ones but face the challenge of inferior performance. Most existing monolithic
+VLMs require tuning pre-trained LLMs to acquire vision abilities, which may
+degrade their language capabilities. To address this dilemma, this paper
+presents a novel high-performance monolithic VLM named HoVLE. We note that LLMs
+have been shown capable of interpreting images, when image embeddings are
+aligned with text embeddings. The challenge for current monolithic VLMs
+actually lies in the lack of a holistic embedding module for both vision and
+language inputs. Therefore, HoVLE introduces a holistic embedding module that
+converts visual and textual inputs into a shared space, allowing LLMs to
+process images in the same way as texts. Furthermore, a multi-stage training
+strategy is carefully designed to empower the holistic embedding module. It is
+first trained to distill visual features from a pre-trained vision encoder and
+text embeddings from the LLM, enabling large-scale training with unpaired
+random images and text tokens. The whole model further undergoes next-token
+prediction on multi-modal data to align the embeddings. Finally, an
+instruction-tuning stage is incorporated. Our experiments show that HoVLE
+achieves performance close to leading compositional models on various
+benchmarks, outperforming previous monolithic models by a large margin. Model
+available at https://huggingface.co/OpenGVLab/HoVLE.

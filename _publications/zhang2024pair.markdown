@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'A Pair Programming Framework For Code Generation Via Multi-plan Exploration And Feedback-driven Refinement'
+authors: Huan Zhang, Wei Cheng, Yuhan Wu, Wei Hu
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024pair
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.05001"}
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Applications']
+---
+Large language models (LLMs) have achieved impressive performance on code
+generation. Although prior studies enhanced LLMs with prompting techniques and
+code refinement, they still struggle with complex programming problems due to
+rigid solution plans. In this paper, we draw on pair programming practices to
+propose PairCoder, a novel LLM-based framework for code generation. PairCoder
+incorporates two collaborative LLM agents, namely a Navigator agent for
+high-level planning and a Driver agent for specific implementation. The
+Navigator is responsible for proposing promising solution plans, selecting the
+current optimal plan, and directing the next iteration round based on execution
+feedback. The Driver follows the guidance of Navigator to undertake initial
+code generation, code testing, and refinement. This interleaved and iterative
+workflow involves multi-plan exploration and feedback-based refinement, which
+mimics the collaboration of pair programmers. We evaluate PairCoder with both
+open-source and closed-source LLMs on various code generation benchmarks.
+Extensive experimental results demonstrate the superior accuracy of PairCoder,
+achieving relative pass@1 improvements of 12.00%-162.43% compared to prompting
+LLMs directly.

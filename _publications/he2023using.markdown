@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Using Natural Language Explanations To Improve Robustness Of In-context Learning'
+authors: Xuanli He, Yuxiang Wu, Oana-maria Camburu, Pasquale Minervini, Pontus Stenetorp
+conference: "Arxiv"
+year: 2023
+bibkey: he2023using
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.07556"}
+tags: ['Security', 'Model Architecture', 'GPT', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+---
+Recent studies demonstrated that large language models (LLMs) can excel in
+many tasks via in-context learning (ICL). However, recent works show that
+ICL-prompted models tend to produce inaccurate results when presented with
+adversarial inputs. In this work, we investigate whether augmenting ICL with
+natural language explanations (NLEs) improves the robustness of LLMs on
+adversarial datasets covering natural language inference and paraphrasing
+identification. We prompt LLMs with a small set of human-generated NLEs to
+produce further NLEs, yielding more accurate results than both a zero-shot-ICL
+setting and using only human-generated NLEs. Our results on five popular LLMs
+(GPT3.5-turbo, Llama2, Vicuna, Zephyr, and Mistral) show that our approach
+yields over 6% improvement over baseline approaches for eight adversarial
+datasets: HANS, ISCS, NaN, ST, PICD, PISP, ANLI, and PAWS. Furthermore,
+previous studies have demonstrated that prompt selection strategies
+significantly enhance ICL on in-distribution test sets. However, our findings
+reveal that these strategies do not match the efficacy of our approach for
+robustness evaluations, resulting in an accuracy drop of 8% compared to the
+proposed approach.

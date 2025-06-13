@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Learning To Generate Answers With Citations Via Factual Consistency Models'
+authors: Rami Aly, Zhiqiang Tang, Samson Tan, George Karypis
+conference: "Arxiv"
+year: 2024
+bibkey: aly2024learning
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.13124"}
+tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+---
+Large Language Models (LLMs) frequently hallucinate, impeding their
+reliability in mission-critical situations. One approach to address this issue
+is to provide citations to relevant sources alongside generated content,
+enhancing the verifiability of generations. However, citing passages accurately
+in answers remains a substantial challenge. This paper proposes a
+weakly-supervised fine-tuning method leveraging factual consistency models
+(FCMs). Our approach alternates between generating texts with citations and
+supervised fine-tuning with FCM-filtered citation data. Focused learning is
+integrated into the objective, directing the fine-tuning process to emphasise
+the factual unit tokens, as measured by an FCM. Results on the ALCE few-shot
+citation benchmark with various instruction-tuned LLMs demonstrate superior
+performance compared to in-context learning, vanilla supervised fine-tuning,
+and state-of-the-art methods, with an average improvement of \\(34.1\\), \\(15.5\\),
+and \\(10.5\\) citation F\\(_1\\) points, respectively. Moreover, in a domain transfer
+setting we show that the obtained citation generation ability robustly
+transfers to unseen datasets. Notably, our citation improvements contribute to
+the lowest factual error rate across baselines.

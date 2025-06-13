@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Nullu: Mitigating Object Hallucinations In Large Vision-language Models Via Halluspace Projection'
+authors: Le Yang, Ziwei Zheng, Boxu Chen, Zhengyu Zhao, Chenhao Lin, Chao Shen
+conference: "Arxiv"
+year: 2024
+bibkey: yang2024mitigating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.13817"}
+  - {name: "Code", url: "https://github.com/Ziwei-Zheng/Nullu"}
+tags: ['Prompting', 'Multimodal Models', 'Has Code']
+---
+Recent studies have shown that large vision-language models (LVLMs) often
+suffer from the issue of object hallucinations (OH). To mitigate this issue, we
+introduce an efficient method that edits the model weights based on an unsafe
+subspace, which we call HalluSpace in this paper. With truthful and
+hallucinated text prompts accompanying the visual content as inputs, the
+HalluSpace can be identified by extracting the hallucinated embedding features
+and removing the truthful representations in LVLMs. By orthogonalizing the
+model weights, input features will be projected into the Null space of the
+HalluSpace to reduce OH, based on which we name our method Nullu. We reveal
+that HalluSpaces generally contain prior information in the large language
+models (LLMs) applied to build LVLMs, which have been shown as essential causes
+of OH in previous studies. Therefore, null space projection suppresses the
+LLMs' priors to filter out the hallucinated features, resulting in contextually
+accurate outputs. Experiments show that our method can effectively mitigate OH
+across different LVLM families without extra inference costs and also show
+strong performance in general LVLM benchmarks. Code is released at
+https://github.com/Ziwei-Zheng/Nullu.

@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Llm4decompile: Decompiling Binary Code With Large Language Models'
+authors: Hanzhuo Tan, Qi Luo, Jing Li, Yuqun Zhang
+conference: "Arxiv"
+year: 2024
+bibkey: tan2024decompiling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.05286"}
+  - {name: "Code", url: "https://github.com/albertan017/LLM4Decompile"}
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'BERT', 'Has Code']
+---
+Decompilation aims to convert binary code to high-level source code, but
+traditional tools like Ghidra often produce results that are difficult to read
+and execute. Motivated by the advancements in Large Language Models (LLMs), we
+propose LLM4Decompile, the first and largest open-source LLM series (1.3B to
+33B) trained to decompile binary code. We optimize the LLM training process and
+introduce the LLM4Decompile-End models to decompile binary directly. The
+resulting models significantly outperform GPT-4o and Ghidra on the HumanEval
+and ExeBench benchmarks by over 100% in terms of re-executability rate.
+Additionally, we improve the standard refinement approach to fine-tune the
+LLM4Decompile-Ref models, enabling them to effectively refine the decompiled
+code from Ghidra and achieve a further 16.2% improvement over the
+LLM4Decompile-End. LLM4Decompile demonstrates the potential of LLMs to
+revolutionize binary code decompilation, delivering remarkable improvements in
+readability and executability while complementing conventional tools for
+optimal results. Our code, dataset, and models are released at
+https://github.com/albertan017/LLM4Decompile

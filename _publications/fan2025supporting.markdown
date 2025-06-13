@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Litlinker: Supporting The Ideation Of Interdisciplinary Contexts With Large Language Models For Teaching Literature In Elementary Schools'
+authors: Haoxiang Fan, Changshuang Zhou, Hao Yu, Xueyang Wu, Jiangyu Gu, Zhenhui Peng
+conference: "Arxiv"
+year: 2025
+bibkey: fan2025supporting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.16097"}
+tags: ['RAG', 'Reinforcement Learning']
+---
+Teaching literature under interdisciplinary contexts (e.g., science, art)
+that connect reading materials has become popular in elementary schools.
+However, constructing such contexts is challenging as it requires teachers to
+explore substantial amounts of interdisciplinary content and link it to the
+reading materials. In this paper, we develop LitLinker via an iterative design
+process involving 13 teachers to facilitate the ideation of interdisciplinary
+contexts for teaching literature. Powered by a large language model (LLM),
+LitLinker can recommend interdisciplinary topics and contextualize them with
+the literary elements (e.g., paragraphs, viewpoints) in the reading materials.
+A within-subjects study (N=16) shows that compared to an LLM chatbot, LitLinker
+can improve the integration depth of different subjects and reduce workload in
+this ideation task. Expert interviews (N=9) also demonstrate LitLinker's
+usefulness for supporting the ideation of interdisciplinary contexts for
+teaching literature. We conclude with concerns and design considerations for
+supporting interdisciplinary teaching with LLMs.

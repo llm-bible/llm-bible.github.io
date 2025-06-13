@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'LEARN: Knowledge Adaptation From Large Language Model To Recommendation For Practical Industrial Application'
+authors: Jian Jia, Yipei Wang, Yan Li, Honggang Chen, Xuehan Bai, Zhaocheng Liu, Jian Liang, Quan Chen, Han Li, Peng Jiang, Kun Gai
+conference: "Arxiv"
+year: 2024
+bibkey: jia2024knowledge
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.03988"}
+tags: ['RAG', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+---
+Contemporary recommendation systems predominantly rely on ID embedding to
+capture latent associations among users and items. However, this approach
+overlooks the wealth of semantic information embedded within textual
+descriptions of items, leading to suboptimal performance and poor
+generalizations. Leveraging the capability of large language models to
+comprehend and reason about textual content presents a promising avenue for
+advancing recommendation systems. To achieve this, we propose an Llm-driven
+knowlEdge Adaptive RecommeNdation (LEARN) framework that synergizes open-world
+knowledge with collaborative knowledge. We address computational complexity
+concerns by utilizing pretrained LLMs as item encoders and freezing LLM
+parameters to avoid catastrophic forgetting and preserve open-world knowledge.
+To bridge the gap between the open-world and collaborative domains, we design a
+twin-tower structure supervised by the recommendation task and tailored for
+practical industrial application. Through experiments on the real large-scale
+industrial dataset and online A/B tests, we demonstrate the efficacy of our
+approach in industry application. We also achieve state-of-the-art performance
+on six Amazon Review datasets to verify the superiority of our method.

@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Adaptable Logical Control For Large Language Models'
+authors: Honghua Zhang, Po-nien Kung, Masahiro Yoshida, Guy Van Den Broeck, Nanyun Peng
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024adaptable
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.13892"}
+tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+---
+Despite the success of Large Language Models (LLMs) on various tasks
+following human instructions, controlling model generation at inference time
+poses a persistent challenge. In this paper, we introduce Ctrl-G, an adaptable
+framework that facilitates tractable and flexible control of LLM generation to
+reliably follow logical constraints. Ctrl-G combines any production-ready LLM
+with a Hidden Markov Model, enabling LLM outputs to adhere to logical
+constraints represented as deterministic finite automata. We show that Ctrl-G,
+when applied to a TULU2-7B model, outperforms GPT3.5 and GPT4 on the task of
+interactive text editing: specifically, for the task of generating text
+insertions/continuations following logical constraints, Ctrl-G achieves over
+30% higher satisfaction rate in human evaluation compared to GPT4. When applied
+to medium-size language models (e.g., GPT2-large), Ctrl-G also beats its
+counterparts for constrained generation by large margins on standard
+benchmarks. Additionally, as a proof-of-concept study, we experiment Ctrl-G on
+the Grade School Math benchmark to assist LLM reasoning, foreshadowing the
+application of Ctrl-G, as well as other constrained generation approaches,
+beyond traditional language generation tasks.

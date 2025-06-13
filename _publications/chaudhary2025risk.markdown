@@ -1,0 +1,21 @@
+---
+layout: publication
+title: 'Risk-averse Finetuning Of Large Language Models'
+authors: Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai
+conference: "Arxiv"
+year: 2025
+bibkey: chaudhary2025risk
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2501.06911"}
+tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+---
+We consider the challenge of mitigating the generation of negative or toxic
+content by the Large Language Models (LLMs) in response to certain prompts. We
+propose integrating risk-averse principles into LLM fine-tuning to minimize the
+occurrence of harmful outputs, particularly rare but significant events. By
+optimizing the risk measure of Conditional Value at Risk (CVaR), our
+methodology trains LLMs to exhibit superior performance in avoiding toxic
+outputs while maintaining effectiveness in generative tasks. Empirical
+evaluations on sentiment modification and toxicity mitigation tasks demonstrate
+the efficacy of risk-averse reinforcement learning with human feedback (RLHF)
+in promoting a safer and more constructive online discourse environment.

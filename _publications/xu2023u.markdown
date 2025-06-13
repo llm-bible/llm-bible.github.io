@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'U-llava: Unifying Multi-modal Tasks Via Large Language Model'
+authors: Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Fanyi Wang, Yanchun Xie, Yi-jie Huang, Yaqian Li
+conference: "Arxiv"
+year: 2023
+bibkey: xu2023u
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.05348"}
+  - {name: "Code", url: "https://github.com/OPPOMKLab/u-LLaVA"}
+tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+---
+Recent advancements in multi-modal large language models (MLLMs) have led to
+substantial improvements in visual understanding, primarily driven by
+sophisticated modality alignment strategies. However, predominant approaches
+prioritize global or regional comprehension, with less focus on fine-grained,
+pixel-level tasks. To address this gap, we introduce u-LLaVA, an innovative
+unifying multi-task framework that integrates pixel, regional, and global
+features to refine the perceptual faculties of MLLMs. We commence by leveraging
+an efficient modality alignment approach, harnessing both image and video
+datasets to bolster the model's foundational understanding across diverse
+visual contexts. Subsequently, a joint instruction tuning method with
+task-specific projectors and decoders for end-to-end downstream training is
+presented. Furthermore, this work contributes a novel mask-based multi-task
+dataset comprising 277K samples, crafted to challenge and assess the
+fine-grained perception capabilities of MLLMs. The overall framework is simple,
+effective, and achieves state-of-the-art performance across multiple
+benchmarks. We also make our model, data, and code publicly accessible at
+https://github.com/OPPOMKLab/u-LLaVA.

@@ -1,0 +1,34 @@
+---
+layout: publication
+title: 'Scaling Up Masked Diffusion Models On Text'
+authors: Shen Nie, Fengqi Zhu, Chao Du, Tianyu Pang, Qian Liu, Guangtao Zeng, Min Lin, Chongxuan Li
+conference: "Arxiv"
+year: 2024
+bibkey: nie2024scaling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2410.18514"}
+  - {name: "Code", url: "https://github.com/ML-GSAI/SMDM"}
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Merging', 'Pretraining Methods', 'Has Code', 'Pre-Training']
+---
+Masked diffusion models (MDMs) have shown promise in language modeling, yet
+their scalability and effectiveness in core language tasks, such as text
+generation and language understanding, remain underexplored. This paper
+establishes the first scaling law for MDMs, demonstrating a scaling rate
+comparable to autoregressive models (ARMs) and a relatively small compute gap.
+Motivated by their scalability, we train a family of MDMs with up to 1.1
+billion (B) parameters to systematically evaluate their performance against
+ARMs of comparable or larger sizes. Fully leveraging the probabilistic
+formulation of MDMs, we propose a simple yet effective unsupervised
+classifier-free guidance that effectively exploits large-scale unpaired data,
+boosting performance for conditional inference. In language understanding, the
+1.1B MDM outperforms the 1.1B TinyLlama model trained on the same data across
+four of eight zero-shot benchmarks. Notably, it achieves competitive math
+reasoning ability with the 7B Llama-2 model on the GSM8K dataset. In text
+generation, MDMs with 16 times more pre-training time offer a flexible
+trade-off against ARMs with the accelerated sampling technique KV-Cache: MDMs
+match ARMs in performance while being 1.4 times faster during sampling.
+Moreover, MDMs address challenging tasks for ARMs by effectively handling
+bidirectional reasoning and adapting to temporal shifts in data. Notably, a
+1.1B MDM breaks the reverse curse encountered by much larger ARMs with
+significantly more data and computation, such as 13B Llama-2 and 175B GPT-3.
+Our code is available at https://github.com/ML-GSAI/SMDM.

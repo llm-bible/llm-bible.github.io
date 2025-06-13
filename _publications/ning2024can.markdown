@@ -1,0 +1,35 @@
+---
+layout: publication
+title: 'Can Llms Learn By Teaching For Better Reasoning? A Preliminary Study'
+authors: Xuefei Ning, Zifu Wang, Shiyao Li, Zinan Lin, Peiran Yao, Tianyu Fu, Matthew B. Blaschko, Guohao Dai, Huazhong Yang, Yu Wang
+conference: "Arxiv"
+year: 2024
+bibkey: ning2024can
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.14629"}
+  - {name: "Code", url: "https://github.com/imagination-research/lbt"}
+  - {name: "Code", url: "https://sites.google.com/view/llm-learning-by-teaching"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+---
+Teaching to improve student models (e.g., knowledge distillation) is an
+extensively studied methodology in LLMs. However, for humans, teaching improves
+not only students but also teachers, by fostering more rigorous and clear
+reasoning as well as knowledge building. We ask: Can LLMs also learn by
+teaching (LbT) for better reasoning? If the answer is yes, we can potentially
+unlock the possibility of continuously advancing the models without solely
+relying on human-produced data or stronger models. In this paper, we provide a
+preliminary exploration on this question. We show that LbT ideas can be
+incorporated into existing LLM training/prompting pipelines and bring
+improvements. Specifically, we design three methods, each mimicking one of the
+three levels of LbT: observing students' feedback, learning from the feedback,
+and learning iteratively, with the goals of improving answer accuracy without
+training or improving models' inherent capability with fine-tuning. We reveal
+some findings: (1) Teaching materials that make it easier for students to learn
+have clearer and more accurate logic when using in-context learning as the
+student's "learning" method; (2) Weak-to-strong generalization: LbT might help
+improve strong models by teaching weak models; (3) Diversity in students might
+help: teaching multiple students could be better than teaching one student or
+the teacher itself. We hope that our exploration can inspire future research on
+LbT and more broadly adopting the advanced techniques in education to improve
+LLMs. The code and website are at https://github.com/imagination-research/lbt
+and https://sites.google.com/view/llm-learning-by-teaching.

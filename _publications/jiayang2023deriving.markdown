@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Storyanalogy: Deriving Story-level Analogies From Large Language Models To Unlock Analogical Understanding'
+authors: Cheng Jiayang, Lin Qiu, Tsz Ho Chan, Tianqing Fang, Weiqi Wang, Chunkit Chan, Dongyu Ru, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang
+conference: "Arxiv"
+year: 2023
+bibkey: jiayang2023deriving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.12874"}
+tags: ['Model Architecture', 'GPT']
+---
+Analogy-making between narratives is crucial for human reasoning. In this
+paper, we evaluate the ability to identify and generate analogies by
+constructing a first-of-its-kind large-scale story-level analogy corpus,
+\textsc\{StoryAnalogy\}, which contains 24K story pairs from diverse domains with
+human annotations on two similarities from the extended Structure-Mapping
+Theory. We design a set of tests on \textsc\{StoryAnalogy\}, presenting the first
+evaluation of story-level analogy identification and generation. Interestingly,
+we find that the analogy identification tasks are incredibly difficult not only
+for sentence embedding models but also for the recent large language models
+(LLMs) such as ChatGPT and LLaMa. ChatGPT, for example, only achieved around
+30% accuracy in multiple-choice questions (compared to over 85% accuracy for
+humans). Furthermore, we observe that the data in \textsc\{StoryAnalogy\} can
+improve the quality of analogy generation in LLMs, where a fine-tuned
+FlanT5-xxl model achieves comparable performance to zero-shot ChatGPT.

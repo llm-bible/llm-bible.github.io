@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'GRAM: Global Reasoning For Multi-page VQA'
+authors: Tsachi Blau, Sharon Fogel, Roi Ronen, Alona Golts, Roy Ganz, Elad Ben Avraham, Aviad Aberdam, Shahar Tsiper, Ron Litman
+conference: "Arxiv"
+year: 2024
+bibkey: blau2024global
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.03411"}
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+---
+The increasing use of transformer-based large language models brings forward
+the challenge of processing long sequences. In document visual question
+answering (DocVQA), leading methods focus on the single-page setting, while
+documents can span hundreds of pages. We present GRAM, a method that seamlessly
+extends pre-trained single-page models to the multi-page setting, without
+requiring computationally-heavy pretraining. To do so, we leverage a
+single-page encoder for local page-level understanding, and enhance it with
+document-level designated layers and learnable tokens, facilitating the flow of
+information across pages for global reasoning. To enforce our model to utilize
+the newly introduced document tokens, we propose a tailored bias adaptation
+method. For additional computational savings during decoding, we introduce an
+optional compression stage using our compression-transformer
+(C-Former),reducing the encoded sequence length, thereby allowing a tradeoff
+between quality and latency. Extensive experiments showcase GRAM's
+state-of-the-art performance on the benchmarks for multi-page DocVQA,
+demonstrating the effectiveness of our approach.

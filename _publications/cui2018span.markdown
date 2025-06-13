@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'A Span-extraction Dataset For Chinese Machine Reading Comprehension'
+authors: Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu
+conference: "EMNLP 2019 5886-5891"
+year: 2018
+bibkey: cui2018span
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1810.07366"}
+  - {name: "Code", url: "https://github.com/ymcui/cmrc2018"}
+tags: ['Has Code', 'RAG', 'Model Architecture', 'Attention Mechanism']
+---
+Machine Reading Comprehension (MRC) has become enormously popular recently
+and has attracted a lot of attention. However, the existing reading
+comprehension datasets are mostly in English. In this paper, we introduce a
+Span-Extraction dataset for Chinese machine reading comprehension to add
+language diversities in this area. The dataset is composed by near 20,000 real
+questions annotated on Wikipedia paragraphs by human experts. We also annotated
+a challenge set which contains the questions that need comprehensive
+understanding and multi-sentence inference throughout the context. We present
+several baseline systems as well as anonymous submissions for demonstrating the
+difficulties in this dataset. With the release of the dataset, we hosted the
+Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC
+2018). We hope the release of the dataset could further accelerate the Chinese
+machine reading comprehension research. Resources are available:
+https://github.com/ymcui/cmrc2018

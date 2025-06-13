@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Do Vision-and-language Transformers Learn Grounded Predicate-noun Dependencies?'
+authors: Mitja Nikolaus, Emmanuelle Salin, Stephane Ayache, Abdellah Fourtassi, Benoit Favre
+conference: "Arxiv"
+year: 2022
+bibkey: nikolaus2022do
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2210.12079"}
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+---
+Recent advances in vision-and-language modeling have seen the development of
+Transformer architectures that achieve remarkable performance on multimodal
+reasoning tasks. Yet, the exact capabilities of these black-box models are
+still poorly understood. While much of previous work has focused on studying
+their ability to learn meaning at the word-level, their ability to track
+syntactic dependencies between words has received less attention. We take a
+first step in closing this gap by creating a new multimodal task targeted at
+evaluating understanding of predicate-noun dependencies in a controlled setup.
+We evaluate a range of state-of-the-art models and find that their performance
+on the task varies considerably, with some models performing relatively well
+and others at chance level. In an effort to explain this variability, our
+analyses indicate that the quality (and not only sheer quantity) of pretraining
+data is essential. Additionally, the best performing models leverage
+fine-grained multimodal pretraining objectives in addition to the standard
+image-text matching objectives. This study highlights that targeted and
+controlled evaluations are a crucial step for a precise and rigorous test of
+the multimodal knowledge of vision-and-language models.

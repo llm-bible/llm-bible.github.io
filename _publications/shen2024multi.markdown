@@ -1,0 +1,37 @@
+---
+layout: publication
+title: 'Toursynbio: A Multi-modal Large Model And Agent Framework To Bridge Text And Protein Sequences For Protein Engineering'
+authors: Yiqing Shen, Zan Chen, Michail Mamalakis, Yungeng Liu, Tianbin Li, Yanzhou Su, Junjun He, Pietro Liò, Yu Guang Wang
+conference: "Arxiv"
+year: 2024
+bibkey: shen2024multi
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.15299"}
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+---
+The structural similarities between protein sequences and natural languages
+have led to parallel advancements in deep learning across both domains. While
+large language models (LLMs) have achieved much progress in the domain of
+natural language processing, their potential in protein engineering remains
+largely unexplored. Previous approaches have equipped LLMs with protein
+understanding capabilities by incorporating external protein encoders, but this
+fails to fully leverage the inherent similarities between protein sequences and
+natural languages, resulting in sub-optimal performance and increased model
+complexity. To address this gap, we present TourSynbio-7B, the first
+multi-modal large model specifically designed for protein engineering tasks
+without external protein encoders. TourSynbio-7B demonstrates that LLMs can
+inherently learn to understand proteins as language. The model is post-trained
+and instruction fine-tuned on InternLM2-7B using ProteinLMDataset, a dataset
+comprising 17.46 billion tokens of text and protein sequence for
+self-supervised pretraining and 893K instructions for supervised fine-tuning.
+TourSynbio-7B outperforms GPT-4 on the ProteinLMBench, a benchmark of 944
+manually verified multiple-choice questions, with 62.18% accuracy. Leveraging
+TourSynbio-7B's enhanced protein sequence understanding capability, we
+introduce TourSynbio-Agent, an innovative framework capable of performing
+various protein engineering tasks, including mutation analysis, inverse
+folding, protein folding, and visualization. TourSynbio-Agent integrates
+previously disconnected deep learning models in the protein engineering domain,
+offering a unified conversational user interface for improved usability.
+Finally, we demonstrate the efficacy of TourSynbio-7B and TourSynbio-Agent
+through two wet lab case studies on vanilla key enzyme modification and steroid
+compound catalysis.

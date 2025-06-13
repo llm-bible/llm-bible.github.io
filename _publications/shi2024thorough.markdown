@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'A Thorough Examination Of Decoding Methods In The Era Of Llms'
+authors: Chufan Shi, Haoran Yang, Deng Cai, Zhisong Zhang, Yifan Wang, Yujiu Yang, Wai Lam
+conference: "Arxiv"
+year: 2024
+bibkey: shi2024thorough
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.06925"}
+tags: ['Quantization', 'Security', 'Efficiency and Optimization']
+---
+Decoding methods play an indispensable role in converting language models
+from next-token predictors into practical task solvers. Prior research on
+decoding methods, primarily focusing on task-specific models, may not extend to
+the current era of general-purpose large language models (LLMs). Moreover, the
+recent influx of decoding strategies has further complicated this landscape.
+This paper provides a comprehensive and multifaceted analysis of various
+decoding methods within the context of LLMs, evaluating their performance,
+robustness to hyperparameter changes, and decoding speeds across a wide range
+of tasks, models, and deployment environments. Our findings reveal that
+decoding method performance is notably task-dependent and influenced by factors
+such as alignment, model size, and quantization. Intriguingly, sensitivity
+analysis exposes that certain methods achieve superior performance at the cost
+of extensive hyperparameter tuning, highlighting the trade-off between
+attaining optimal results and the practicality of implementation in varying
+contexts.

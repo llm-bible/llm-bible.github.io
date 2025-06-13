@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'H-cot: Hijacking The Chain-of-thought Safety Reasoning Mechanism To Jailbreak Large Reasoning Models, Including Openai O1/o3, Deepseek-r1, And Gemini 2.0 Flash Thinking'
+authors: Martin Kuo, Jianyi Zhang, Aolin Ding, Qinsi Wang, Louis Divalentin, Yujia Bao, Wei Wei, Hai Li, Yiran Chen
+conference: "Arxiv"
+year: 2025
+bibkey: kuo2025h
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2502.12893"}
+tags: ['Responsible AI', 'Security', 'Prompting', 'RAG']
+---
+Large Reasoning Models (LRMs) have recently extended their powerful reasoning
+capabilities to safety checks-using chain-of-thought reasoning to decide
+whether a request should be answered. While this new approach offers a
+promising route for balancing model utility and safety, its robustness remains
+underexplored. To address this gap, we introduce Malicious-Educator, a
+benchmark that disguises extremely dangerous or malicious requests beneath
+seemingly legitimate educational prompts. Our experiments reveal severe
+security flaws in popular commercial-grade LRMs, including OpenAI o1/o3,
+DeepSeek-R1, and Gemini 2.0 Flash Thinking. For instance, although OpenAI's o1
+model initially maintains a high refusal rate of about 98%, subsequent model
+updates significantly compromise its safety; and attackers can easily extract
+criminal strategies from DeepSeek-R1 and Gemini 2.0 Flash Thinking without any
+additional tricks. To further highlight these vulnerabilities, we propose
+Hijacking Chain-of-Thought (H-CoT), a universal and transferable attack method
+that leverages the model's own displayed intermediate reasoning to jailbreak
+its safety reasoning mechanism. Under H-CoT, refusal rates sharply
+decline-dropping from 98% to below 2%-and, in some instances, even transform
+initially cautious tones into ones that are willing to provide harmful content.
+We hope these findings underscore the urgent need for more robust safety
+mechanisms to preserve the benefits of advanced reasoning capabilities without
+compromising ethical standards.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Self-give: Associative Thinking From Limited Structured Knowledge For Enhanced Large Language Model Reasoning'
+authors: Jiashu He, Jinxuan Fan, Bowen Jiang, Ignacio Houine, Dan Roth, Alejandro Ribeiro
+conference: "Arxiv"
+year: 2025
+bibkey: he2025self
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2505.15062"}
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+---
+When addressing complex questions that require new information, people often associate the question with existing knowledge to derive a sensible answer. For instance, when evaluating whether melatonin aids insomnia, one might associate "hormones helping mental disorders" with "melatonin being a hormone and insomnia a mental disorder" to complete the reasoning. Large Language Models (LLMs) also require such associative thinking, particularly in resolving scientific inquiries when retrieved knowledge is insufficient and does not directly answer the question. Graph Inspired Veracity Extrapolation (GIVE) addresses this by using a knowledge graph (KG) to extrapolate structured knowledge. However, it involves the construction and pruning of many hypothetical triplets, which limits efficiency and generalizability. We propose Self-GIVE, a retrieve-RL framework that enhances LLMs with automatic associative thinking through reinforcement learning. Self-GIVE extracts structured information and entity sets to assist the model in linking to the queried concepts. We address GIVE's key limitations: (1) extensive LLM calls and token overhead for knowledge extrapolation, (2) difficulty in deploying on smaller LLMs (3B or 7B) due to complex instructions, and (3) inaccurate knowledge from LLM pruning. Specifically, after fine-tuning using self-GIVE with a 135 node UMLS KG, it improves the performance of the Qwen2.5 3B and 7B models by up to \\(\textbf\{28.5%\\)\rightarrow\\(71.4%\}\\) and \\(\textbf\{78.6\\)\rightarrow\\(90.5%\}\\) in samples \\(\textbf\{unseen\}\\) in challenging biomedical QA tasks. In particular, Self-GIVE allows the 7B model to match or outperform GPT3.5 turbo with GIVE, while cutting token usage by over 90%. Self-GIVE enhances the scalable integration of structured retrieval and reasoning with associative thinking.

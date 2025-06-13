@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'An Empirical Analysis On Large Language Models In Debate Evaluation'
+authors: Xinyi Liu, Pinxin Liu, Hangfeng He
+conference: "Arxiv"
+year: 2024
+bibkey: liu2024empirical
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.00050"}
+tags: ['Prompting', 'Ethics and Bias', 'Model Architecture', 'GPT']
+---
+In this study, we investigate the capabilities and inherent biases of
+advanced large language models (LLMs) such as GPT-3.5 and GPT-4 in the context
+of debate evaluation. We discover that LLM's performance exceeds humans and
+surpasses the performance of state-of-the-art methods fine-tuned on extensive
+datasets in debate evaluation. We additionally explore and analyze biases
+present in LLMs, including positional bias, lexical bias, order bias, which may
+affect their evaluative judgments. Our findings reveal a consistent bias in
+both GPT-3.5 and GPT-4 towards the second candidate response presented,
+attributed to prompt design. We also uncover lexical biases in both GPT-3.5 and
+GPT-4, especially when label sets carry connotations such as numerical or
+sequential, highlighting the critical need for careful label verbalizer
+selection in prompt design. Additionally, our analysis indicates a tendency of
+both models to favor the debate's concluding side as the winner, suggesting an
+end-of-discussion bias.

@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'A Study On Multimodal And Interactive Explanations For Visual Question Answering'
+authors: Kamran Alipour, Jurgen P. Schulze, Yi Yao, Avi Ziskind, Giedrius Burachas
+conference: "Proceedings of the Workshop on Artificial Intelligence Safety (SafeAI 2020) co-located with 34th AAAI Conference on Artificial Intelligence (AAAI 2020) New York USA Feb 7 2020"
+year: 2020
+bibkey: alipour2020study
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2003.00431"}
+tags: ['Responsible AI', 'Agentic', 'Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+---
+Explainability and interpretability of AI models is an essential factor
+affecting the safety of AI. While various explainable AI (XAI) approaches aim
+at mitigating the lack of transparency in deep networks, the evidence of the
+effectiveness of these approaches in improving usability, trust, and
+understanding of AI systems are still missing. We evaluate multimodal
+explanations in the setting of a Visual Question Answering (VQA) task, by
+asking users to predict the response accuracy of a VQA agent with and without
+explanations. We use between-subjects and within-subjects experiments to probe
+explanation effectiveness in terms of improving user prediction accuracy,
+confidence, and reliance, among other factors. The results indicate that the
+explanations help improve human prediction accuracy, especially in trials when
+the VQA system's answer is inaccurate. Furthermore, we introduce active
+attention, a novel method for evaluating causal attentional effects through
+intervention by editing attention maps. User explanation ratings are strongly
+correlated with human prediction accuracy and suggest the efficacy of these
+explanations in human-machine AI collaboration tasks.
