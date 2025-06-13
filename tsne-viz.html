@@ -88,7 +88,7 @@ var allData = [];
 var filteredData = [];
 
 // Read the data
-d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/heads/master/tsne_clustered.json')(function(data) {
+d3.json('./tsne_clustered.json')(function(data) {
   allData = data;
 
   // Convert 'year' and 'citations' fields to numbers
