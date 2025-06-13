@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Pali: A Jointly-scaled Multilingual Language-image Model'
-authors: Chen Xi, Wang Xiao, Changpinyo Soravit, Piergiovanni Aj, Padlewski Piotr, Salz Daniel, Goodman Sebastian, Grycner Adam, Mustafa Basil, Beyer Lucas, Kolesnikov Alexander, Puigcerver Joan, Ding Nan, Rong Keran, Akbari Hassan, Mishra Gaurav, Xue Linting, Thapliyal Ashish, Bradbury James, Kuo Weicheng, Seyedhosseini Mojtaba, Jia Chao, Ayan Burcu Karagol, Riquelme Carlos, Steiner Andreas, Angelova Anelia, Zhai Xiaohua, Houlsby Neil, Soricut Radu
+authors: Xi Chen, Xiao Wang, Soravit Changpinyo, Aj Piergiovanni, Piotr Padlewski, Daniel Salz, Sebastian Goodman, Adam Grycner, Basil Mustafa, Lucas Beyer, Alexander Kolesnikov, Joan Puigcerver, Nan Ding, Keran Rong, Hassan Akbari, Gaurav Mishra, Linting Xue, Ashish Thapliyal, James Bradbury, Weicheng Kuo, Mojtaba Seyedhosseini, Chao Jia, Burcu Karagol Ayan, Carlos Riquelme, Andreas Steiner, Anelia Angelova, Xiaohua Zhai, Neil Houlsby, Radu Soricut
 conference: "Arxiv"
 year: 2022
-citations: 150
 bibkey: chen2022jointly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.06794"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer']
 ---
 Effective scaling and a flexible task interface enable large language models
 to excel at many tasks. We present PaLI (Pathways Language and Image model), a

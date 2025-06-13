@@ -1,37 +1,28 @@
 ---
 layout: publication
-title: 'A Survey Of Large Language Models'
-authors: Zhao Wayne Xin, Zhou Kun, Li Junyi, Tang Tianyi, Wang Xiaolei, Hou Yupeng, Min Yingqian, Zhang Beichen, Zhang Junjie, Dong Zican, Du Yifan, Yang Chen, Chen Yushuo, Chen Zhipeng, Jiang Jinhao, Ren Ruiyang, Li Yifan, Tang Xinyu, Liu Zikang, Liu Peiyu, Nie Jian-yun, Wen Ji-rong
+title: 'An In-depth Survey Of Large Language Model-based Artificial Intelligence Agents'
+authors: Pengyu Zhao, Zijian Jin, Ning Cheng
 conference: "Arxiv"
 year: 2023
-citations: 1022
 bibkey: zhao2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2303.18223"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Scaling Laws', 'Language Modeling']
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.14365"}
+tags: ['Agentic', 'RAG', 'Survey Paper', 'Reinforcement Learning']
 ---
-Language is essentially a complex, intricate system of human expressions
-governed by grammatical rules. It poses a significant challenge to develop
-capable AI algorithms for comprehending and grasping a language. As a major
-approach, language modeling has been widely studied for language understanding
-and generation in the past two decades, evolving from statistical language
-models to neural language models. Recently, pre-trained language models (PLMs)
-have been proposed by pre-training Transformer models over large-scale corpora,
-showing strong capabilities in solving various NLP tasks. Since researchers
-have found that model scaling can lead to performance improvement, they further
-study the scaling effect by increasing the model size to an even larger size.
-Interestingly, when the parameter scale exceeds a certain level, these enlarged
-language models not only achieve a significant performance improvement but also
-show some special abilities that are not present in small-scale language
-models. To discriminate the difference in parameter scale, the research
-community has coined the term large language models (LLM) for the PLMs of
-significant size. Recently, the research on LLMs has been largely advanced by
-both academia and industry, and a remarkable progress is the launch of ChatGPT,
-which has attracted widespread attention from society. The technical evolution
-of LLMs has been making an important impact on the entire AI community, which
-would revolutionize the way how we develop and use AI algorithms. In this
-survey, we review the recent advances of LLMs by introducing the background,
-key findings, and mainstream techniques. In particular, we focus on four major
-aspects of LLMs, namely pre-training, adaptation tuning, utilization, and
-capacity evaluation. Besides, we also summarize the available resources for
-developing LLMs and discuss the remaining issues for future directions.
+Due to the powerful capabilities demonstrated by large language model (LLM),
+there has been a recent surge in efforts to integrate them with AI agents to
+enhance their performance. In this paper, we have explored the core differences
+and characteristics between LLM-based AI agents and traditional AI agents.
+Specifically, we first compare the fundamental characteristics of these two
+types of agents, clarifying the significant advantages of LLM-based agents in
+handling natural language, knowledge storage, and reasoning capabilities.
+Subsequently, we conducted an in-depth analysis of the key components of AI
+agents, including planning, memory, and tool use. Particularly, for the crucial
+component of memory, this paper introduced an innovative classification scheme,
+not only departing from traditional classification methods but also providing a
+fresh perspective on the design of an AI agent's memory system. We firmly
+believe that in-depth research and understanding of these core components will
+lay a solid foundation for the future advancement of AI agent technology. At
+the end of the paper, we provide directional suggestions for further research
+in this field, with the hope of offering valuable insights to scholars and
+researchers in the field.

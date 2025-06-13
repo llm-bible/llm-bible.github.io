@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Best Of Both Worlds: Transferring Knowledge From Discriminative Learning To A Generative Visual Dialog Model'
-authors: Lu Jiasen, Kannan Anitha, Yang Jianwei, Parikh Devi, Batra Dhruv
+authors: Jiasen Lu, Anitha Kannan, Jianwei Yang, Devi Parikh, Dhruv Batra
 conference: "Arxiv"
 year: 2017
-citations: 93
 bibkey: lu2017best
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1706.01554"}
   - {name: "Code", url: "https://github.com/jiasenlu/visDial.pytorch"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Security', 'Has Code', 'Transformer', 'RAG', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Transformer', 'Has Code', 'Attention Mechanism']
 ---
 We present a novel training framework for neural sequence models,
 particularly for grounded dialog generation. The standard training paradigm for

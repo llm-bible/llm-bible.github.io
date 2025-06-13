@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Bob: BERT Over BERT For Training Persona-based Dialogue Models From Limited Personalized Data'
-authors: Song Haoyu, Wang Yan, Zhang Kaiyan, Zhang Wei-nan, Liu Ting
+authors: Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-nan Zhang, Ting Liu
 conference: "Arxiv"
 year: 2021
-citations: 79
 bibkey: song2021bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.06169"}
-tags: ['Training Techniques', 'Model Architecture', 'Uncategorized', 'BERT', 'Agentic']
+tags: ['Agentic', 'BERT', 'Training Techniques', 'Model Architecture']
 ---
 Maintaining consistent personas is essential for dialogue agents. Although
 tremendous advancements have been brought, the limited-scale of annotated

@@ -4,11 +4,10 @@ title: 'Galactica: A Large Language Model For Science'
 authors: Ross Taylor, Marcin Kardas, Guillem Cucurull, Thomas Scialom, Anthony Hartshorn, Elvis Saravia, Andrew Poulton, Viktor Kerkez, Robert Stojnic
 conference: "Arxiv"
 year: 2022
-citations: 205
 bibkey: taylor2022large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2211.09085v1"}
-tags: ['Model Architecture', 'GPT', 'TACL', 'Uncategorized', 'ACL', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'TACL', 'GPT', 'ACL']
 ---
 Information overload is a major obstacle to scientific progress. The
 explosive growth in scientific literature and data has made it ever harder to

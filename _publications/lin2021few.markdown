@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Few-shot Learning With Multilingual Language Models'
-authors: Lin Xi Victoria, Mihaylov Todor, Artetxe Mikel, Wang Tianlu, Chen Shuohui, Simig Daniel, Ott Myle, Goyal Naman, Bhosale Shruti, Du Jingfei, Pasunuru Ramakanth, Shleifer Sam, Koura Punit Singh, Chaudhary Vishrav, O'horo Brian, Wang Jeff, Zettlemoyer Luke, Kozareva Zornitsa, Diab Mona, Stoyanov Veselin, Li Xian
+authors: Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, Tianlu Wang, Shuohui Chen, Daniel Simig, Myle Ott, Naman Goyal, Shruti Bhosale, Jingfei Du, Ramakanth Pasunuru, Sam Shleifer, Punit Singh Koura, Vishrav Chaudhary, Brian O'horo, Jeff Wang, Luke Zettlemoyer, Zornitsa Kozareva, Mona Diab, Veselin Stoyanov, Xian Li
 conference: "Arxiv"
 year: 2021
-citations: 70
 bibkey: lin2021few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.10668"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications']
 ---
 Large-scale generative language models such as GPT-3 are competitive few-shot
 learners. While these models are known to be able to jointly represent many

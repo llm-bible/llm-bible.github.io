@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Unilmv2: Pseudo-masked Language Models For Unified Language Model Pre-training'
-authors: Bao Hangbo, Dong Li, Wei Furu, Wang Wenhui, Yang Nan, Liu Xiaodong, Wang Yu, Piao Songhao, Gao Jianfeng, Zhou Ming, Hon Hsiao-wuen
+authors: Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Songhao Piao, Jianfeng Gao, Ming Zhou, Hsiao-wuen Hon
 conference: "Arxiv"
 year: 2020
-citations: 171
 bibkey: bao2020pseudo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.12804"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'BERT', 'Language Modeling', 'Masked Language Model']
+tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
 ---
 We propose to pre-train a unified language model for both autoencoding and
 partially autoregressive language modeling tasks using a novel training

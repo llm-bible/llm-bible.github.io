@@ -4,11 +4,10 @@ title: 'A Multitask, Multilingual, Multimodal Evaluation Of Chatgpt On Reasoning
 authors: Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung
 conference: "Arxiv"
 year: 2023
-citations: 387
 bibkey: bang2023multimodal
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.04023v4"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'RAG', 'Applications', 'Dataset', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Dataset', 'Prompting', 'Applications']
 ---
 This paper proposes a framework for quantitatively evaluating interactive
 LLMs such as ChatGPT using publicly available data sets. We carry out an

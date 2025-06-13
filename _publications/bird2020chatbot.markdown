@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatbot Interaction With Artificial Intelligence: Human Data Augmentation With T5 And Language Transformer Ensemble For Text Classification'
-authors: Bird Jordan J., Ekárt Anikó, Faria Diego R.
+authors: Jordan J. Bird, Anikó Ekárt, Diego R. Faria
 conference: "Arxiv"
 year: 2020
-citations: 58
 bibkey: bird2020chatbot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.05990"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Attention Mechanism', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
 ---
 In this work, we present the Chatbot Interaction with Artificial Intelligence
 (CI-AI) framework as an approach to the training of deep learning chatbots for

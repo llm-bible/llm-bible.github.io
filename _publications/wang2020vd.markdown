@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'VD-BERT: A Unified Vision And Dialog Transformer With BERT'
-authors: Wang Yue, Joty Shafiq, Lyu Michael R., King Irwin, Xiong Caiming, Hoi Steven C. H.
+authors: Yue Wang, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, Steven C. H. Hoi
 conference: "Arxiv"
 year: 2020
-citations: 62
 bibkey: wang2020vd
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.13278"}
   - {name: "Code", url: "https://github.com/salesforce/VD-BERT"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Has Code', 'Pretraining Methods', 'Transformer', 'RAG', 'Attention Mechanism', 'Merging', 'BERT', 'Agentic', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
 ---
 Visual dialog is a challenging vision-language task, where a dialog agent
 needs to answer a series of questions through reasoning on the image content

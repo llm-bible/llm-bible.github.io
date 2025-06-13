@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Multimodal Few-shot Learning With Frozen Language Models'
-authors: Tsimpoukelli Maria, Menick Jacob, Cabi Serkan, Eslami S. M. Ali, Vinyals Oriol, Hill Felix
+authors: Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, Felix Hill
 conference: "Arxiv"
 year: 2021
-citations: 245
 bibkey: tsimpoukelli2021multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.13884"}
-tags: ['Tools', 'Prompting', 'Few-Shot', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Prompting']
 ---
 When trained at sufficient scale, auto-regressive language models exhibit the
 notable ability to learn a new language task after being prompted with just a

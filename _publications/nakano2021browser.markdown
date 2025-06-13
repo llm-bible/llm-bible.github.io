@@ -4,11 +4,10 @@ title: 'Webgpt: Browser-assisted Question-answering With Human Feedback'
 authors: Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman
 conference: "Arxiv"
 year: 2021
-citations: 184
 bibkey: nakano2021browser
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2112.09332v3"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
 ---
 We fine-tune GPT-3 to answer long-form questions using a text-based
 web-browsing environment, which allows the model to search and navigate the

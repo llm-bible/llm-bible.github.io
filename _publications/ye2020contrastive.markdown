@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Contrastive Triple Extraction With Generative Transformer'
-authors: Ye Hongbin, Zhang Ningyu, Deng Shumin, Chen Mosha, Tan Chuanqi, Huang Fei, Chen Huajun
+authors: Hongbin Ye, Ningyu Zhang, Shumin Deng, Mosha Chen, Chuanqi Tan, Fei Huang, Huajun Chen
 conference: "Arxiv"
 year: 2020
-citations: 108
 bibkey: ye2020contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.06207"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Triple extraction is an essential task in information extraction for natural
 language processing and knowledge graph construction. In this paper, we revisit

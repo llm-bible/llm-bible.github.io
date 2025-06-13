@@ -4,11 +4,10 @@ title: 'Mistral 7B'
 authors: Albert Q. Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego De Las Casas, Florian Bressand, Gianna Lengyel, Guillaume Lample, Lucile Saulnier, Lélio Renard Lavaud, Marie-anne Lachaux, Pierre Stock, Teven Le Scao, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed
 conference: "Arxiv"
 year: 2023
-citations: 137
 bibkey: q2023mistral
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.06825v1"}
-tags: ['Model Architecture', 'Efficiency and Optimization', 'Attention Mechanism', 'RAG', 'Applications']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Applications', 'Attention Mechanism']
 ---
 We introduce Mistral 7B v0.1, a 7-billion-parameter language model engineered
 for superior performance and efficiency. Mistral 7B outperforms Llama 2 13B

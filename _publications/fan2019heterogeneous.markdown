@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Heterogeneous Memory Enhanced Multimodal Attention Model For Video Question Answering'
-authors: Fan Chenyou, Zhang Xiaofan, Zhang Shu, Wang Wensheng, Zhang Chi, Huang Heng
+authors: Chenyou Fan, Xiaofan Zhang, Shu Zhang, Wensheng Wang, Chi Zhang, Heng Huang
 conference: "Arxiv"
 year: 2019
-citations: 251
 bibkey: fan2019heterogeneous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.04357"}
-tags: ['Model Architecture', 'Tools', 'Attention Mechanism', 'Merging', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Merging', 'Applications', 'Attention Mechanism']
 ---
 In this paper, we propose a novel end-to-end trainable Video Question
 Answering (VideoQA) framework with three major components: 1) a new

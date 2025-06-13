@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Longt5: Efficient Text-to-text Transformer For Long Sequences'
-authors: Guo Mandy, Ainslie Joshua, Uthus David, Ontanon Santiago, Ni Jianmo, Sung Yun-hsuan, Yang Yinfei
+authors: Mandy Guo, Joshua Ainslie, David Uthus, Santiago Ontanon, Jianmo Ni, Yun-hsuan Sung, Yinfei Yang
 conference: "Arxiv"
 year: 2021
-citations: 144
 bibkey: guo2021efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.07916"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 Recent work has shown that either (1) increasing the input length or (2)
 increasing model size can improve the performance of Transformer-based neural

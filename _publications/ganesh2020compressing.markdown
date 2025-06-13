@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Compressing Large-scale Transformer-based Models: A Case Study On BERT'
-authors: Ganesh Prakhar, Chen Yao, Lou Xin, Khan Mohammad Ali, Yang Yin, Sajjad Hassan, Nakov Preslav, Chen Deming, Winslett Marianne
+authors: Prakhar Ganesh, Yao Chen, Xin Lou, Mohammad Ali Khan, Yin Yang, Hassan Sajjad, Preslav Nakov, Deming Chen, Marianne Winslett
 conference: "Arxiv"
 year: 2020
-citations: 72
 bibkey: ganesh2020compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.11985"}
-tags: ['Survey Paper', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT']
+tags: ['Model Architecture', 'Survey Paper', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Pre-trained Transformer-based models have achieved state-of-the-art
 performance for various Natural Language Processing (NLP) tasks. However, these

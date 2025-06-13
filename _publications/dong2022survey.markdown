@@ -4,11 +4,10 @@ title: 'A Survey On In-context Learning'
 authors: Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui
 conference: "Arxiv"
 year: 2022
-citations: 210
 bibkey: dong2022survey
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.00234v4"}
-tags: ['Survey Paper', 'Training Techniques', 'Prompting', 'RAG', 'In-Context Learning']
+tags: ['Training Techniques', 'Survey Paper', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 With the increasing capabilities of large language models (LLMs), in-context
 learning (ICL) has emerged as a new paradigm for natural language processing

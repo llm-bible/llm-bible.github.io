@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Survey On RAG Meeting Llms: Towards Retrieval-augmented Large Language Models'
-authors: Fan Wenqi, Ding Yujuan, Ning Liangbo, Wang Shijie, Li Hengyun, Yin Dawei, Chua Tat-seng, Li Qing
+authors: Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-seng Chua, Qing Li
 conference: "Arxiv"
 year: 2024
-citations: 66
 bibkey: fan2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06211"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Applications']
 ---
 As one of the most advanced techniques in AI, Retrieval-Augmented Generation
 (RAG) can offer reliable and up-to-date external knowledge, providing huge

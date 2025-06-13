@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Structured Pruning Of A Bert-based Question Answering Model'
-authors: Mccarley J. S., Chakravarti Rishav, Sil Avirup
+authors: J. S. Mccarley, Rishav Chakravarti, Avirup Sil
 conference: "Arxiv"
 year: 2019
-citations: 77
 bibkey: mccarley2019structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.06360"}
-tags: ['Training Techniques', 'Model Architecture', 'Distillation', 'Efficiency and Optimization', 'Pruning', 'Transformer', 'Attention Mechanism', 'Pretraining Methods', 'Applications', 'Quantization', 'BERT', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'Pruning', 'Quantization', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 The recent trend in industry-setting Natural Language Processing (NLP)
 research has been to operate large %scale pretrained language models like BERT

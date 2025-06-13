@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Boolq: Exploring The Surprising Difficulty Of Natural Yes/no Questions'
-authors: Clark Christopher, Lee Kenton, Chang Ming-wei, Kwiatkowski Tom, Collins Michael, Toutanova Kristina
+authors: Christopher Clark, Kenton Lee, Ming-wei Chang, Tom Kwiatkowski, Michael Collins, Kristina Toutanova
 conference: "Arxiv"
 year: 2019
-citations: 201
 bibkey: clark2019exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.10044"}

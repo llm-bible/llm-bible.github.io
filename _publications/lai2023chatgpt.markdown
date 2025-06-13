@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt Beyond English: Towards A Comprehensive Evaluation Of Large Language Models In Multilingual Learning'
-authors: Lai Viet Dac, Ngo Nghia Trung, Veyseh Amir Pouran Ben, Man Hieu, Dernoncourt Franck, Bui Trung, Nguyen Thien Huu
+authors: Viet Dac Lai, Nghia Trung Ngo, Amir Pouran Ben Veyseh, Hieu Man, Franck Dernoncourt, Trung Bui, Thien Huu Nguyen
 conference: "Arxiv"
 year: 2023
-citations: 106
 bibkey: lai2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05613"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Uncategorized', 'Attention Mechanism', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Attention Mechanism']
 ---
 Over the last few years, large language models (LLMs) have emerged as the
 most important breakthroughs in natural language processing (NLP) that

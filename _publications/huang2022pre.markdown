@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Layoutlmv3: Pre-training For Document AI With Unified Text And Image Masking'
-authors: Huang Yupan, Lv Tengchao, Cui Lei, Lu Yutong, Wei Furu
+authors: Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei
 conference: "Arxiv"
 year: 2022
-citations: 264
 bibkey: huang2022pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.08387"}
   - {name: "Code", url: "https://aka.ms/layoutlmv3"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Transformer', 'Language Modeling', 'Applications', 'BERT', 'Reinforcement Learning', 'Multimodal Models', 'Masked Language Model']
+tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
 ---
 Self-supervised pre-training techniques have achieved remarkable progress in
 Document AI. Most multimodal pre-trained models use a masked language modeling

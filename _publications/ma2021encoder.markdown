@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Deltalm: Encoder-decoder Pre-training For Language Generation And Translation By Augmenting Pretrained Multilingual Encoders'
-authors: Ma Shuming, Dong Li, Huang Shaohan, Zhang Dongdong, Muzio Alexandre, Singhal Saksham, Awadalla Hany Hassan, Song Xia, Wei Furu
+authors: Shuming Ma, Li Dong, Shaohan Huang, Dongdong Zhang, Alexandre Muzio, Saksham Singhal, Hany Hassan Awadalla, Xia Song, Furu Wei
 conference: "Arxiv"
 year: 2021
-citations: 51
 bibkey: ma2021encoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.13736"}
   - {name: "Code", url: "https://aka.ms/deltalm"}
-tags: ['Training Techniques', 'Pre-Training', 'Tools', 'Has Code', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Pre-Training', 'Applications']
 ---
 While pretrained encoders have achieved success in various natural language
 understanding (NLU) tasks, there is a gap between these pretrained encoders and

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'CPT: A Pre-trained Unbalanced Transformer For Both Chinese Language Understanding And Generation'
-authors: Shao Yunfan, Geng Zhichao, Liu Yitao, Dai Junqi, Yan Hang, Yang Fei, Zhe Li, Bao Hujun, Qiu Xipeng
+authors: Yunfan Shao, Zhichao Geng, Yitao Liu, Junqi Dai, Hang Yan, Fei Yang, Li Zhe, Hujun Bao, Xipeng Qiu
 conference: "Arxiv"
 year: 2021
-citations: 73
 bibkey: shao2021pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05729"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'BERT', 'Language Modeling', 'Masked Language Model']
+tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
 ---
 In this paper, we take the advantage of previous pre-trained models (PTMs)
 and propose a novel Chinese Pre-trained Unbalanced Transformer (CPT). Different

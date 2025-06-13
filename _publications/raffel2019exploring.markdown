@@ -4,11 +4,10 @@ title: 'Exploring The Limits Of Transfer Learning With A Unified Text-to-text Tr
 authors: Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu
 conference: "Arxiv"
 year: 2019
-citations: 8024
 bibkey: raffel2019exploring
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1910.10683v4"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
 ---
 Transfer learning, where a model is first pre-trained on a data-rich task
 before being fine-tuned on a downstream task, has emerged as a powerful

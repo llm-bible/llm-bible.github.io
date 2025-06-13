@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Decoding Chatgpt: A Taxonomy Of Existing Research, Current Challenges, And Possible Future Directions'
-authors: Sohail Shahab Saquib, Farhat Faiza, Himeur Yassine, Nadeem Mohammad, Madsen Dag Øivind, Singh Yashbir, Atalla Shadi, Mansoor Wathiq
-conference: "Journal of King Saud University - Computer and Information Science"
+authors: Shahab Saquib Sohail, Faiza Farhat, Yassine Himeur, Mohammad Nadeem, Dag Øivind Madsen, Yashbir Singh, Shadi Atalla, Wathiq Mansoor
+conference: "Journal of King Saud University - Computer and Information Science 2023"
 year: 2023
-citations: 115
 bibkey: sohail2023decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.14107"}
-tags: ['Survey Paper', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'RAG', 'Attention Mechanism', 'Applications', 'Ethics and Bias', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Chat Generative Pre-trained Transformer (ChatGPT) has gained significant
 interest and attention since its launch in November 2022. It has shown

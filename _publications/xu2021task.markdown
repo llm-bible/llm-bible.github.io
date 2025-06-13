@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'VLM: Task-agnostic Video-language Model Pre-training For Video Understanding'
-authors: Xu Hu, Ghosh Gargi, Huang Po-yao, Arora Prahal, Aminzadeh Masoumeh, Feichtenhofer Christoph, Metze Florian, Zettlemoyer Luke
+authors: Hu Xu, Gargi Ghosh, Po-yao Huang, Prahal Arora, Masoumeh Aminzadeh, Christoph Feichtenhofer, Florian Metze, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2021
-citations: 69
 bibkey: xu2021task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.09996"}
   - {name: "Code", url: "https://github.com/pytorch/fairseq/tree/main/examples/MMPT"}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Merging', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Has Code', 'Pre-Training']
 ---
 We present a simplified, task-agnostic multi-modal pre-training approach that
 can accept either video or text input, or both for a variety of end tasks.

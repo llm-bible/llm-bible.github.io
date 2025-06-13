@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Second Conversational Intelligence Challenge (convai2)'
-authors: Dinan Emily, Logacheva Varvara, Malykh Valentin, Miller Alexander, Shuster Kurt, Urbanek Jack, Kiela Douwe, Szlam Arthur, Serban Iulian, Lowe Ryan, Prabhumoye Shrimai, Black Alan W, Rudnicky Alexander, Williams Jason, Pineau Joelle, Burtsev Mikhail, Weston Jason
+authors: Emily Dinan, Varvara Logacheva, Valentin Malykh, Alexander Miller, Kurt Shuster, Jack Urbanek, Douwe Kiela, Arthur Szlam, Iulian Serban, Ryan Lowe, Shrimai Prabhumoye, Alan W Black, Alexander Rudnicky, Jason Williams, Joelle Pineau, Mikhail Burtsev, Jason Weston
 conference: "Arxiv"
 year: 2019
-citations: 382
 bibkey: dinan2019second
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.00098"}
-tags: ['Transformer', 'Pretraining Methods', 'NeurIPS', 'Model Architecture']
+tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'NeurIPS']
 ---
 We describe the setting and results of the ConvAI2 NeurIPS competition that
 aims to further the state-of-the-art in open-domain chatbots. Some key

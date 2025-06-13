@@ -4,11 +4,10 @@ title: 'Gshard: Scaling Giant Models With Conditional Computation And Automatic 
 authors: Dmitry Lepikhin, Hyoukjoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen
 conference: "Arxiv"
 year: 2020
-citations: 290
 bibkey: lepikhin2020scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2006.16668v1"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Neural network scaling has been critical for improving the model quality in
 many real-world machine learning applications with vast amounts of training

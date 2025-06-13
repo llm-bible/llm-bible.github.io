@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'E2E-VLP: End-to-end Vision-language Pre-training Enhanced By Visual Learning'
-authors: Xu Haiyang, Yan Ming, Li Chenliang, Bi Bin, Huang Songfang, Xiao Wenming, Huang Fei
+authors: Haiyang Xu, Ming Yan, Chenliang Li, Bin Bi, Songfang Huang, Wenming Xiao, Fei Huang
 conference: "Arxiv"
 year: 2021
-citations: 74
 bibkey: xu2021end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.01804"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Tools', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Multimodal Models']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Pre-Training']
 ---
 Vision-language pre-training (VLP) on large-scale image-text pairs has
 achieved huge success for the cross-modal downstream tasks. The most existing

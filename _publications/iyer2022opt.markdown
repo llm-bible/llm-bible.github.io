@@ -4,11 +4,10 @@ title: 'OPT-IML: Scaling Language Model Instruction Meta Learning Through The Le
 authors: Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, Xian Li, Brian O'horo, Gabriel Pereyra, Jeff Wang, Christopher Dewan, Asli Celikyilmaz, Luke Zettlemoyer, Ves Stoyanov
 conference: "Arxiv"
 year: 2022
-citations: 77
 bibkey: iyer2022opt
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.12017v3"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Prompting', 'Few-Shot', 'Pretraining Methods']
+tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
 ---
 Recent work has shown that fine-tuning large pre-trained language models on a
 collection of tasks described via instructions, a.k.a. instruction-tuning,

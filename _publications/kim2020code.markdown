@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Code Prediction By Feeding Trees To Transformers'
-authors: Kim Seohyun, Zhao Jinman, Tian Yuchi, Chandra Satish
+authors: Seohyun Kim, Jinman Zhao, Yuchi Tian, Satish Chandra
 conference: "Arxiv"
 year: 2020
-citations: 156
 bibkey: kim2020code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.13848"}
-tags: ['Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
 ---
 We advance the state-of-the-art in the accuracy of code prediction (next
 token prediction) used in autocomplete systems. First, we report that using the

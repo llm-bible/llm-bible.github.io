@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'ERNIE-GEN: An Enhanced Multi-flow Pre-training And Fine-tuning Framework For Natural Language Generation'
-authors: Xiao Dongling, Zhang Han, Li Yukun, Sun Yu, Tian Hao, Wu Hua, Wang Haifeng
+authors: Dongling Xiao, Han Zhang, Yukun Li, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang
 conference: "Arxiv"
 year: 2020
-citations: 98
 bibkey: xiao2020ernie
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2001.11314"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Attention Mechanism', 'Ethics and Bias', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 Current pre-training works in natural language generation pay little
 attention to the problem of exposure bias on downstream tasks. To address this

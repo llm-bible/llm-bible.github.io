@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Recent Advances In Natural Language Processing Via Large Pre-trained Language Models: A Survey'
-authors: Min Bonan, Ross Hayley, Sulem Elior, Veyseh Amir Pouran Ben, Nguyen Thien Huu, Sainz Oscar, Agirre Eneko, Heinz Ilana, Roth Dan
+authors: Bonan Min, Hayley Ross, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz, Dan Roth
 conference: "Arxiv"
 year: 2021
-citations: 615
 bibkey: min2021recent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.01243"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Pre-Training', 'Prompting', 'Training Techniques', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Prompting', 'Pre-Training', 'Applications']
 ---
 Large, pre-trained transformer-based language models such as BERT have
 drastically changed the Natural Language Processing (NLP) field. We present a

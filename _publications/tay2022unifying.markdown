@@ -4,11 +4,10 @@ title: 'UL2: Unifying Language Learning Paradigms'
 authors: Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Siamak Shakeri, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler
 conference: "Arxiv"
 year: 2022
-citations: 81
 bibkey: tay2022unifying
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2205.05131v3"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Pre-Training', 'GPT', 'Prompting', 'Pretraining Methods', 'Applications', 'In-Context Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications', 'In-Context Learning']
 ---
 Existing pre-trained models are generally geared towards a particular class
 of problems. To date, there seems to be still no consensus on what the right

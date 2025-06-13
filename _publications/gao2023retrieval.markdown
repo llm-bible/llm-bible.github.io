@@ -4,11 +4,10 @@ title: 'Retrieval-augmented Generation For Large Language Models: A Survey'
 authors: Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang
 conference: "Arxiv"
 year: 2023
-citations: 245
 bibkey: gao2023retrieval
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2312.10997v5"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'RAG', 'Tools']
+tags: ['RAG', 'Survey Paper', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) showcase impressive capabilities but encounter
 challenges like hallucination, outdated knowledge, and non-transparent,

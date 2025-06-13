@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Predicting Target Language CCG Supertags Improves Neural Machine Translation'
-authors: Nadejde Maria, Reddy Siva, Sennrich Rico, Dwojak Tomasz, Junczys-dowmunt Marcin, Koehn Philipp, Birch Alexandra
+authors: Maria Nadejde, Siva Reddy, Rico Sennrich, Tomasz Dwojak, Marcin Junczys-dowmunt, Philipp Koehn, Alexandra Birch
 conference: "Arxiv"
 year: 2017
-citations: 78
 bibkey: nadejde2017predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1702.01147"}
-tags: ['Applications', 'Training Techniques', 'WMT', 'Reinforcement Learning']
+tags: ['WMT', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Neural machine translation (NMT) models are able to partially learn syntactic
 information from sequential lexical information. Still, some complex syntactic

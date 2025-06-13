@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Scaling Vision Transformers To 22 Billion Parameters'
-authors: Dehghani Mostafa, Djolonga Josip, Mustafa Basil, Padlewski Piotr, Heek Jonathan, Gilmer Justin, Steiner Andreas, Caron Mathilde, Geirhos Robert, Alabdulmohsin Ibrahim, Jenatton Rodolphe, Beyer Lucas, Tschannen Michael, Arnab Anurag, Wang Xiao, Riquelme Carlos, Minderer Matthias, Puigcerver Joan, Evci Utku, Kumar Manoj, Van Steenkiste Sjoerd, Elsayed Gamaleldin F., Mahendran Aravindh, Yu Fisher, Oliver Avital, Huot Fantine, Bastings Jasmijn, Collier Mark Patrick, Gritsenko Alexey, Birodkar Vighnesh, Vasconcelos Cristina, Tay Yi, Mensink Thomas, Kolesnikov Alexander, Pavetić Filip, Tran Dustin, Kipf Thomas, Lučić Mario, Zhai Xiaohua, Keysers Daniel, Harmsen Jeremiah, Houlsby Neil
+authors: Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron, Robert Geirhos, Ibrahim Alabdulmohsin, Rodolphe Jenatton, Lucas Beyer, Michael Tschannen, Anurag Arnab, Xiao Wang, Carlos Riquelme, Matthias Minderer, Joan Puigcerver, Utku Evci, Manoj Kumar, Sjoerd Van Steenkiste, Gamaleldin F. Elsayed, Aravindh Mahendran, Fisher Yu, Avital Oliver, Fantine Huot, Jasmijn Bastings, Mark Patrick Collier, Alexey Gritsenko, Vighnesh Birodkar, Cristina Vasconcelos, Yi Tay, Thomas Mensink, Alexander Kolesnikov, Filip Pavetić, Dustin Tran, Thomas Kipf, Mario Lučić, Xiaohua Zhai, Daniel Keysers, Jeremiah Harmsen, Neil Houlsby
 conference: "Arxiv"
 year: 2023
-citations: 57
 bibkey: dehghani2023scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.05442"}
-tags: ['Training Techniques', 'Model Architecture', 'Multimodal Models', 'Security', 'Fairness', 'Pretraining Methods', 'Transformer', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning']
+tags: ['Security', 'Model Architecture', 'Training Techniques', 'Fairness', 'Multimodal Models', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
 ---
 The scaling of Transformers has driven breakthrough capabilities for language
 models. At present, the largest large language models (LLMs) contain upwards of

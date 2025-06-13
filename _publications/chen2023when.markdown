@@ -4,11 +4,10 @@ title: 'When Large Language Models Meet Personalization: Perspectives Of Challen
 authors: Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen
 conference: "Arxiv"
 year: 2023
-citations: 71
 bibkey: chen2023when
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2307.16376v1"}
-tags: ['Survey Paper', 'Training Techniques', 'Tools', 'Uncategorized', 'RAG', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG']
 ---
 The advent of large language models marks a revolutionary breakthrough in
 artificial intelligence. With the unprecedented scale of training and model

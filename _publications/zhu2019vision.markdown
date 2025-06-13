@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Vision-language Navigation With Self-supervised Auxiliary Reasoning Tasks'
-authors: Zhu Fengda, Zhu Yi, Chang Xiaojun, Liang Xiaodan
+authors: Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang
 conference: "Arxiv"
 year: 2019
-citations: 188
 bibkey: zhu2019vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.07883"}
-tags: ['Tools', 'Agentic', 'Training Techniques', 'Multimodal Models']
+tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools']
 ---
 Vision-Language Navigation (VLN) is a task where agents learn to navigate
 following natural language instructions. The key to this task is to perceive

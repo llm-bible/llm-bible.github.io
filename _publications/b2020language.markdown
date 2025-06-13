@@ -4,11 +4,10 @@ title: 'Language Models Are Few-shot Learners'
 authors: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam Mccandlish, Alec Radford, Ilya Sutskever, Dario Amodei
 conference: "Arxiv"
 year: 2020
-citations: 12845
 bibkey: b2020language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2005.14165v4"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Few-Shot', 'GPT', 'Pretraining Methods']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
 ---
 Recent work has demonstrated substantial gains on many NLP tasks and
 benchmarks by pre-training on a large corpus of text followed by fine-tuning on

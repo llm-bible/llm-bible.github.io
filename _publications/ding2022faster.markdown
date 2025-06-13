@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Cogview2: Faster And Better Text-to-image Generation Via Hierarchical Transformers'
-authors: Ding Ming, Zheng Wendi, Hong Wenyi, Tang Jie
+authors: Ming Ding, Wendi Zheng, Wenyi Hong, Jie Tang
 conference: "Arxiv"
 year: 2022
-citations: 103
 bibkey: ding2022faster
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.14217"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
 ---
 The development of the transformer-based text-to-image models are impeded by
 its slow generation and complexity for high-resolution images. In this work, we

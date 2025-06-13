@@ -4,11 +4,10 @@ title: 'Competition-level Code Generation With Alphacode'
 authors: Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien De Masson D'autume, Igor Babuschkin, Xinyun Chen, Po-sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando De Freitas, Koray Kavukcuoglu, Oriol Vinyals
 conference: "Arxiv"
 year: 2022
-citations: 477
 bibkey: li2022competition
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2203.07814v1"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Programming is a powerful and ubiquitous problem-solving tool. Developing
 systems that can assist programmers or even generate programs independently

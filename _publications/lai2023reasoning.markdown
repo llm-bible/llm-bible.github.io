@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'LISA: Reasoning Segmentation Via Large Language Model'
-authors: Lai Xin, Tian Zhuotao, Chen Yukang, Li Yanwei, Yuan Yuhui, Liu Shu, Jia Jiaya
+authors: Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Jiaya Jia
 conference: "Arxiv"
 year: 2023
-citations: 65
 bibkey: lai2023reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00692"}
   - {name: "Code", url: "https://github.com/dvlab-research/LISA"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
 ---
 Although perception systems have made remarkable advancements in recent
 years, they still rely on explicit human instruction or pre-defined categories

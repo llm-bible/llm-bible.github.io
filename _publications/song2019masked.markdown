@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'MASS: Masked Sequence To Sequence Pre-training For Language Generation'
-authors: Song Kaitao, Tan Xu, Qin Tao, Lu Jianfeng, Liu Tie-yan
+authors: Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, Tie-yan Liu
 conference: "Arxiv"
 year: 2019
-citations: 523
 bibkey: song2019masked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.02450"}
-tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Attention Mechanism', 'RAG', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 Pre-training and fine-tuning, e.g., BERT, have achieved great success in
 language understanding by transferring knowledge from rich-resource

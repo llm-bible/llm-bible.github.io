@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Neural Machine Translation Advised By Statistical Machine Translation'
-authors: Wang Xing, Lu Zhengdong, Tu Zhaopeng, Li Hang, Xiong Deyi, Zhang Min
+authors: Xing Wang, Zhengdong Lu, Zhaopeng Tu, Hang Li, Deyi Xiong, Min Zhang
 conference: "Arxiv"
 year: 2016
-citations: 97
 bibkey: wang2016neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1610.05150"}
-tags: ['Model Architecture', 'Tools', 'Attention Mechanism', 'RAG', 'Applications']
+tags: ['Model Architecture', 'Tools', 'RAG', 'Applications', 'Attention Mechanism']
 ---
 Neural Machine Translation (NMT) is a new approach to machine translation
 that has made great progress in recent years. However, recent studies show that

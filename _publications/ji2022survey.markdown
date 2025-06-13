@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Survey Of Hallucination In Natural Language Generation'
-authors: Ji Ziwei, Lee Nayeon, Frieske Rita, Yu Tiezheng, Su Dan, Xu Yan, Ishii Etsuko, Bang Yejin, Chen Delong, Dai Wenliang, Chan Ho Shu, Madotto Andrea, Fung Pascale
-conference: "ACM Computing Surveys"
+authors: Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Delong Chen, Wenliang Dai, Ho Shu Chan, Andrea Madotto, Pascale Fung
+conference: "ACM Computing Surveys (2022)"
 year: 2022
-citations: 1514
 bibkey: ji2022survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.03629"}
-tags: ['Survey Paper', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning', 'Language Modeling']
+tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Natural Language Generation (NLG) has improved exponentially in recent years
 thanks to the development of sequence-to-sequence deep learning technologies

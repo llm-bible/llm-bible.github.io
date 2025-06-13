@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Prophetnet: Predicting Future N-gram For Sequence-to-sequence Pre-training'
-authors: Qi Weizhen, Yan Yu, Gong Yeyun, Liu Dayiheng, Duan Nan, Chen Jiusheng, Zhang Ruofei, Zhou Ming
+authors: Weizhen Qi, Yu Yan, Yeyun Gong, Dayiheng Liu, Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou
 conference: "Arxiv"
 year: 2020
-citations: 50
 bibkey: qi2020predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2001.04063"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Transformer', 'RAG', 'Attention Mechanism', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 This paper presents a new sequence-to-sequence pre-training model called
 ProphetNet, which introduces a novel self-supervised objective named future

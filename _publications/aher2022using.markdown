@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Using Large Language Models To Simulate Multiple Humans And Replicate Human Subject Studies'
-authors: Aher Gati, Arriaga Rosa I., Kalai Adam Tauman
+authors: Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai
 conference: "Arxiv"
 year: 2022
-citations: 69
 bibkey: aher2022using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.10264"}
-tags: ['Applications', 'Uncategorized', 'Model Architecture', 'GPT']
+tags: ['Model Architecture', 'Applications', 'GPT']
 ---
 We introduce a new type of test, called a Turing Experiment (TE), for
 evaluating to what extent a given language model, such as GPT models, can

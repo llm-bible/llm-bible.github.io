@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Entailment As Few-shot Learner'
-authors: Wang Sinong, Fang Han, Khabsa Madian, Mao Hanzi, Ma Hao
+authors: Sinong Wang, Han Fang, Madian Khabsa, Hanzi Mao, Hao Ma
 conference: "Arxiv"
 year: 2021
-citations: 105
 bibkey: wang2021entailment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.14690"}
-tags: ['GPT', 'Few-Shot', 'Pretraining Methods', 'Model Architecture']
+tags: ['Pretraining Methods', 'Model Architecture', 'GPT', 'Few-Shot']
 ---
 Large pre-trained language models (LMs) have demonstrated remarkable ability
 as few-shot learners. However, their success hinges largely on scaling model

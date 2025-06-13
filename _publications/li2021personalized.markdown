@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Personalized Transformer For Explainable Recommendation'
-authors: Li Lei, Zhang Yongfeng, Chen Li
+authors: Lei Li, Yongfeng Zhang, Li Chen
 conference: "Arxiv"
 year: 2021
-citations: 91
 bibkey: li2021personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.11601"}
-tags: ['Survey Paper', 'Model Architecture', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Interpretability and Explainability']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability', 'Applications']
 ---
 Personalization of natural language generation plays a vital role in a large
 spectrum of tasks, such as explainable recommendation, review summarization and

@@ -1,27 +1,33 @@
 ---
 layout: publication
-title: 'Baize: An Open-source Chat Model With Parameter-efficient Tuning On Self-chat Data'
-authors: Xu Canwen, Guo Daya, Duan Nan, Mcauley Julian
+title: 'Openp5: An Open-source Platform For Developing, Training, And Evaluating Llm-based Recommender Systems'
+authors: Shuyuan Xu, Wenyue Hua, Yongfeng Zhang
 conference: "Arxiv"
 year: 2023
-citations: 68
 bibkey: xu2023open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.01196"}
-  - {name: "Code", url: "https://github.com/project-baize/baize-chatbot"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'RAG']
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.11134"}
+  - {name: "Code", url: "https://github.com/agiresearch/OpenP5"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code']
 ---
-Chat models, such as ChatGPT, have shown impressive capabilities and have
-been rapidly adopted across numerous domains. However, these models are only
-accessible through a restricted API, creating barriers for new research and
-progress in the field. We propose a pipeline that can automatically generate a
-high-quality multi-turn chat corpus by leveraging ChatGPT to engage in a
-conversation with itself. Subsequently, we employ parameter-efficient tuning to
-enhance LLaMA, an open-source large language model. The resulting model, named
-Baize, demonstrates good performance in multi-turn dialogues with guardrails
-that minimize potential risks. Furthermore, we propose a new technique called
-Self-Distill with Feedback, to further improve the performance of the Baize
-models with feedback from ChatGPT. The Baize models and data are released for
-research purposes only at https://github.com/project-baize/baize-chatbot. An
-online demo is also available at
-https://huggingface.co/spaces/project-baize/chat-with-baize.
+In recent years, the integration of Large Language Models (LLMs) into
+recommender systems has garnered interest among both practitioners and
+researchers. Despite this interest, the field is still emerging, and the lack
+of open-source R&D platforms may impede the exploration of LLM-based
+recommendations. This paper introduces OpenP5, an open-source platform designed
+as a resource to facilitate the development, training, and evaluation of
+LLM-based generative recommender systems for research purposes. The platform is
+implemented using encoder-decoder LLMs (e.g., T5) and decoder-only LLMs (e.g.,
+Llama-2) across 10 widely recognized public datasets, catering to two
+fundamental recommendation tasks: sequential and straightforward
+recommendations. Recognizing the crucial role of item IDs in LLM-based
+recommendations, we have also incorporated three item indexing methods within
+the OpenP5 platform: random indexing, sequential indexing and collaborative
+indexing. Built on the Transformers library, the platform facilitates easy
+customization of LLM-based recommendations for users. OpenP5 boasts a range of
+features including extensible data processing, task-centric optimization,
+comprehensive datasets and checkpoints, efficient acceleration, and
+standardized evaluations, making it a valuable tool for the implementation and
+evaluation of LLM-based recommender systems. The open-source code and
+pre-trained checkpoints for the OpenP5 library are publicly available at
+https://github.com/agiresearch/OpenP5.

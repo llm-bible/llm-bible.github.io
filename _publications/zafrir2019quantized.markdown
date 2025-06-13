@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Q8BERT: Quantized 8bit BERT'
-authors: Zafrir Ofir, Boudoukh Guy, Izsak Peter, Wasserblat Moshe
+authors: Ofir Zafrir, Guy Boudoukh, Peter Izsak, Moshe Wasserblat
 conference: "Arxiv"
 year: 2019
-citations: 373
 bibkey: zafrir2019quantized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.06188"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Quantization', 'BERT', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Quantization', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer']
 ---
 Recently, pre-trained Transformer based language models such as BERT and GPT,
 have shown great improvement in many Natural Language Processing (NLP) tasks.

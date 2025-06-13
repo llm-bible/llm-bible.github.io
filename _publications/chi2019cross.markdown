@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Cross-lingual Natural Language Generation Via Pre-training'
-authors: Chi Zewen, Dong Li, Wei Furu, Wang Wenhui, Mao Xian-ling, Huang Heyan
+authors: Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-ling Mao, Heyan Huang
 conference: "Arxiv"
 year: 2019
-citations: 139
 bibkey: chi2019cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.10481"}
   - {name: "Code", url: "https://github.com/CZWin32768/xnlg"}
-tags: ['Training Techniques', 'Pre-Training', 'Has Code', 'RAG', 'Applications']
+tags: ['Training Techniques', 'RAG', 'Has Code', 'Pre-Training', 'Applications']
 ---
 In this work we focus on transferring supervision signals of natural language
 generation (NLG) tasks between multiple languages. We propose to pretrain the

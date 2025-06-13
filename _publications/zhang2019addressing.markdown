@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Addressing Semantic Drift In Question Generation For Semi-supervised Question Answering'
-authors: Zhang Shiyue, Bansal Mohit
+authors: Shiyue Zhang, Mohit Bansal
 conference: "Arxiv"
 year: 2019
-citations: 112
 bibkey: zhang2019addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.06356"}
-tags: ['Training Techniques', 'Model Architecture', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Applications']
 ---
 Text-based Question Generation (QG) aims at generating natural and relevant
 questions that can be answered by a given answer in some context. Existing QG

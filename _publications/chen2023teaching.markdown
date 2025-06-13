@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Teaching Large Language Models To Self-debug'
-authors: Chen Xinyun, Lin Maxwell, Schärli Nathanael, Zhou Denny
+authors: Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou
 conference: "Arxiv"
 year: 2023
-citations: 56
 bibkey: chen2023teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05128"}
-tags: ['Few-Shot', 'Efficiency and Optimization', 'RAG', 'Applications', 'Interpretability and Explainability']
+tags: ['Efficiency and Optimization', 'Few-Shot', 'RAG', 'Interpretability and Explainability', 'Applications']
 ---
 Large language models (LLMs) have achieved impressive performance on code
 generation. However, for complex programming tasks, generating the correct

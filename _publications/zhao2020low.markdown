@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Low-resource Knowledge-grounded Dialogue Generation'
-authors: Zhao Xueliang, Wu Wei, Tao Chongyang, Xu Can, Zhao Dongyan, Yan Rui
+authors: Xueliang Zhao, Wei Wu, Chongyang Tao, Can Xu, Dongyan Zhao, Rui Yan
 conference: "Arxiv"
 year: 2020
-citations: 86
 bibkey: zhao2020low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10348"}
-tags: ['Uncategorized', 'Agentic', 'Training Techniques']
+tags: ['Agentic', 'Training Techniques']
 ---
 Responding with knowledge has been recognized as an important capability for
 an intelligent conversational agent. Yet knowledge-grounded dialogues, as

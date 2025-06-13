@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Rikinet: Reading Wikipedia Pages For Natural Question Answering'
-authors: Liu Dayiheng, Gong Yeyun, Fu Jie, Yan Yu, Chen Jiusheng, Jiang Daxin, Lv Jiancheng, Duan Nan
+authors: Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Nan Duan
 conference: "Arxiv"
 year: 2020
-citations: 56
 bibkey: liu2020reading
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14560"}
-tags: ['Model Architecture', 'Attention Mechanism', 'RAG', 'Transformer', 'Applications']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Reading long documents to answer open-domain questions remains challenging in
 natural language understanding. In this paper, we introduce a new model, called

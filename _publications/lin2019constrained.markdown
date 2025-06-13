@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Commongen: A Constrained Text Generation Challenge For Generative Commonsense Reasoning'
-authors: Lin Bill Yuchen, Zhou Wangchunshu, Shen Ming, Zhou Pei, Bhagavatula Chandra, Choi Yejin, Ren Xiang
+authors: Bill Yuchen Lin, Wangchunshu Zhou, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi, Xiang Ren
 conference: "Arxiv"
 year: 2019
-citations: 212
 bibkey: lin2019constrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03705"}
-tags: ['Applications', 'Language Modeling']
+tags: ['Language Modeling', 'Applications']
 ---
 Recently, large-scale pre-trained language models have demonstrated
 impressive performance on several commonsense-reasoning benchmark datasets.

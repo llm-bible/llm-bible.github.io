@@ -1,31 +1,29 @@
 ---
 layout: publication
-title: 'Towards Interpretable Mental Health Analysis With Large Language Models'
-authors: Yang Kailai, Ji Shaoxiong, Zhang Tianlin, Xie Qianqian, Kuang Ziyan, Ananiadou Sophia
+title: 'Towards Difficulty-agnostic Efficient Transfer Learning For Vision-language Models'
+authors: Yongjin Yang, Jongwoo Ko, Se-young Yun
 conference: "Arxiv"
 year: 2023
-citations: 57
 bibkey: yang2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2304.03347"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Interpretability and Explainability', 'Interpretability', 'In-Context Learning']
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.15569"}
+tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
 ---
-The latest large language models (LLMs) such as ChatGPT, exhibit strong
-capabilities in automated mental health analysis. However, existing relevant
-studies bear several limitations, including inadequate evaluations, lack of
-prompting strategies, and ignorance of exploring LLMs for explainability. To
-bridge these gaps, we comprehensively evaluate the mental health analysis and
-emotional reasoning ability of LLMs on 11 datasets across 5 tasks. We explore
-the effects of different prompting strategies with unsupervised and distantly
-supervised emotional information. Based on these prompts, we explore LLMs for
-interpretable mental health analysis by instructing them to generate
-explanations for each of their decisions. We convey strict human evaluations to
-assess the quality of the generated explanations, leading to a novel dataset
-with 163 human-assessed explanations. We benchmark existing automatic
-evaluation metrics on this dataset to guide future related works. According to
-the results, ChatGPT shows strong in-context learning ability but still has a
-significant gap with advanced task-specific methods. Careful prompt engineering
-with emotional cues and expert-written few-shot examples can also effectively
-improve performance on mental health analysis. In addition, ChatGPT generates
-explanations that approach human performance, showing its great potential in
-explainable mental health analysis.
+Vision-language models (VLMs) like CLIP have demonstrated remarkable
+applicability across a variety of downstream tasks, including zero-shot image
+classification. Recently, the use of prompts or adapters for efficient transfer
+learning (ETL) has gained significant attention for effectively adapting to
+downstream tasks. However, previous studies have overlooked the challenge of
+varying transfer difficulty of downstream tasks. In this paper, we empirically
+analyze how each ETL method behaves with respect to transfer difficulty. Our
+observations indicate that utilizing vision prompts and text adapters is
+crucial for adaptability and generalizability in domains with high difficulty.
+Also, by applying an adaptive ensemble approach that integrates task-adapted
+VLMs with pre-trained VLMs and strategically leverages more general knowledge
+in low-difficulty and less in high-difficulty domains, we consistently enhance
+performance across both types of domains. Based on these observations, we
+propose an adaptive ensemble method that combines visual prompts and text
+adapters with pre-trained VLMs, tailored by transfer difficulty, to achieve
+optimal performance for any target domain. Upon experimenting with extensive
+benchmarks, our method consistently outperforms all baselines, particularly on
+unseen tasks, demonstrating its effectiveness.

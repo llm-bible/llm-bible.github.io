@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Fully Character-level Neural Machine Translation Without Explicit Segmentation'
-authors: Lee Jason, Cho Kyunghyun, Hofmann Thomas
+authors: Jason Lee, Kyunghyun Cho, Thomas Hofmann
 conference: "Arxiv"
 year: 2016
-citations: 425
 bibkey: lee2016fully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1610.03017"}
-tags: ['Applications', 'Training Techniques', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Applications']
 ---
 Most existing machine translation systems operate at the level of words,
 relying on explicit segmentation to extract tokens. We introduce a neural

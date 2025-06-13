@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'How Good Are GPT Models At Machine Translation? A Comprehensive Evaluation'
-authors: Hendy Amr, Abdelrehim Mohamed, Sharaf Amr, Raunak Vikas, Gabr Mohamed, Matsushita Hitokazu, Kim Young Jin, Afify Mohamed, Awadalla Hany Hassan
+authors: Amr Hendy, Mohamed Abdelrehim, Amr Sharaf, Vikas Raunak, Mohamed Gabr, Hitokazu Matsushita, Young Jin Kim, Mohamed Afify, Hany Hassan Awadalla
 conference: "Arxiv"
 year: 2023
-citations: 139
 bibkey: hendy2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.09210"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Security', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Security', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
 ---
 Generative Pre-trained Transformer (GPT) models have shown remarkable
 capabilities for natural language generation, but their performance for machine

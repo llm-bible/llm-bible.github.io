@@ -4,11 +4,10 @@ title: 'Crossfit: A Few-shot Learning Challenge For Cross-task Generalization In
 authors: Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
 conference: "Arxiv"
 year: 2021
-citations: 93
 bibkey: ye2021few
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2104.08835v2"}
-tags: ['Uncategorized', 'Few-Shot', 'RAG']
+tags: ['RAG', 'Few-Shot']
 ---
 Humans can learn a new language task efficiently with only few examples, by
 leveraging their knowledge obtained when learning prior tasks. In this paper,

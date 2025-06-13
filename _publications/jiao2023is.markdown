@@ -4,12 +4,11 @@ title: 'Is Chatgpt A Good Translator? Yes With GPT-4 As The Engine'
 authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Shuming Shi, Zhaopeng Tu
 conference: "Arxiv"
 year: 2023
-citations: 238
 bibkey: jiao2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.08745v4"}
   - {name: "Code", url: "https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"}
-tags: ['Model Architecture', 'GPT', 'Uncategorized', 'Security', 'Prompting', 'Has Code']
+tags: ['Security', 'Model Architecture', 'GPT', 'Has Code', 'Prompting']
 ---
 This report provides a preliminary evaluation of ChatGPT for machine
 translation, including translation prompt, multilingual translation, and

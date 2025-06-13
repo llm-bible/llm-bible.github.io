@@ -1,32 +1,23 @@
 ---
 layout: publication
-title: 'Phi-3 Technical Report: A Highly Capable Language Model Locally On Your Phone'
-authors: Abdin Marah, Aneja Jyoti, Awadalla Hany, Awadallah Ahmed, Awan Ammar Ahmad, Bach Nguyen, Bahree Amit, Bakhtiari Arash, Bao Jianmin, Behl Harkirat, Benhaim Alon, Bilenko Misha, Bjorck Johan, Bubeck Sébastien, Cai Martin, Cai Qin, Chaudhary Vishrav, Chen Dong, Chen Dongdong, Chen Weizhu, Chen Yen-chun, Chen Yi-ling, Cheng Hao, Chopra Parul, Dai Xiyang, Dixon Matthew, Eldan Ronen, Fragoso Victor, Gao Jianfeng, Gao Mei, Gao Min, Garg Amit, Del Giorno Allie, Goswami Abhishek, Gunasekar Suriya, Haider Emman, Hao Junheng, Hewett Russell J., Hu Wenxiang, Huynh Jamie, Iter Dan, Jacobs Sam Ade, Javaheripi Mojan, Jin Xin, Karampatziakis Nikos, Kauffmann Piero, Khademi Mahoud, Kim Dongwoo, Kim Young Jin, Kurilenko Lev, Lee James R., Lee Yin Tat, Li Yuanzhi, Li Yunsheng, Liang Chen, Liden Lars, Lin Xihui, Lin Zeqi, Liu Ce, Liu Liyuan, Liu Mengchen, Liu Weishung, Liu Xiaodong, Luo Chong, Madan Piyush, Mahmoudzadeh Ali, Majercak David, Mazzola Matt, Mendes Caio César Teodoro, Mitra Arindam, Modi Hardik, Nguyen Anh, Norick Brandon, Patra Barun, Perez-becker Daniel, Portet Thomas, Pryzant Reid, Qin Heyang, Radmilac Marko, Ren Liliang, De Rosa Gustavo, Rosset Corby, Roy Sambudha, Ruwase Olatunji, Saarikivi Olli, Saied Amin, Salim Adil, Santacroce Michael, Shah Shital, Shang Ning, Sharma Hiteshi, Shen Yelong, Shukla Swadheen, Song Xia, Tanaka Masahiro, Tupini Andrea, Vaddamanu Praneetha, Wang Chunyu, Wang Guanhua, Wang Lijuan, Wang Shuohang, Wang Xin, Wang Yu, Ward Rachel, Wen Wen, Witte Philipp, Wu Haiping, Wu Xiaoxia, Wyatt Michael, Xiao Bin, Xu Can, Xu Jiahang, Xu Weijian, Xue Jilong, Yadav Sonali, Yang Fan, Yang Jianwei, Yang Yifan, Yang Ziyi, Yu Donghan, Yuan Lu, Zhang Chenruidong, Zhang Cyril, Zhang Jianwen, Zhang Li Lyna, Zhang Yi, Zhang Yue, Zhang Yunan, Zhou Xiren
+title: 'Phi-4 Technical Report'
+authors: Marah Abdin, Jyoti Aneja, Harkirat Behl, Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar, Michael Harrison, Russell J. Hewett, Mojan Javaheripi, Piero Kauffmann, James R. Lee, Yin Tat Lee, Yuanzhi Li, Weishung Liu, Caio C. T. Mendes, Anh Nguyen, Eric Price, Gustavo De Rosa, Olli Saarikivi, Adil Salim, Shital Shah, Xin Wang, Rachel Ward, Yue Wu, Dingli Yu, Cyril Zhang, Yi Zhang
 conference: "Arxiv"
 year: 2024
-citations: 51
 bibkey: abdin2024phi
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2404.14219"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Security', 'Multimodal Models', 'Responsible AI']
+  - {name: "Paper", url: "https://arxiv.org/abs/2412.08905"}
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Pre-Training']
 ---
-We introduce phi-3-mini, a 3.8 billion parameter language model trained on
-3.3 trillion tokens, whose overall performance, as measured by both academic
-benchmarks and internal testing, rivals that of models such as Mixtral 8x7B and
-GPT-3.5 (e.g., phi-3-mini achieves 69% on MMLU and 8.38 on MT-bench), despite
-being small enough to be deployed on a phone. Our training dataset is a
-scaled-up version of the one used for phi-2, composed of heavily filtered
-publicly available web data and synthetic data. The model is also further
-aligned for robustness, safety, and chat format. We also provide
-parameter-scaling results with a 7B, 14B models trained for 4.8T tokens, called
-phi-3-small, phi-3-medium, both significantly more capable than phi-3-mini
-(e.g., respectively 75%, 78% on MMLU, and 8.7, 8.9 on MT-bench). To enhance
-multilingual, multimodal, and long-context capabilities, we introduce three
-models in the phi-3.5 series: phi-3.5-mini, phi-3.5-MoE, and phi-3.5-Vision.
-The phi-3.5-MoE, a 16 x 3.8B MoE model with 6.6 billion active parameters,
-achieves superior performance in language reasoning, math, and code tasks
-compared to other open-source models of similar scale, such as Llama 3.1 and
-the Mixtral series, and on par with Gemini-1.5-Flash and GPT-4o-mini.
-Meanwhile, phi-3.5-Vision, a 4.2 billion parameter model derived from
-phi-3.5-mini, excels in reasoning tasks and is adept at handling both
-single-image and text prompts, as well as multi-image and text prompts.
+We present phi-4, a 14-billion parameter language model developed with a
+training recipe that is centrally focused on data quality. Unlike most language
+models, where pre-training is based primarily on organic data sources such as
+web content or code, phi-4 strategically incorporates synthetic data throughout
+the training process. While previous models in the Phi family largely distill
+the capabilities of a teacher model (specifically GPT-4), phi-4 substantially
+surpasses its teacher model on STEM-focused QA capabilities, giving evidence
+that our data-generation and post-training techniques go beyond distillation.
+Despite minimal changes to the phi-3 architecture, phi-4 achieves strong
+performance relative to its size -- especially on reasoning-focused benchmarks
+-- due to improved data, training curriculum, and innovations in the
+post-training scheme.

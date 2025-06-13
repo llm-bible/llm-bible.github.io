@@ -4,11 +4,10 @@ title: 'Can Language Models Learn From Explanations In Context?'
 authors: Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. Mcclelland, Jane X. Wang, Felix Hill
 conference: "Arxiv"
 year: 2022
-citations: 87
 bibkey: k2022can
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.02329v4"}
-tags: ['Prompting', 'Few-Shot', 'Interpretability and Explainability', 'Reinforcement Learning', 'In-Context Learning']
+tags: ['Few-Shot', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
 ---
 Language Models (LMs) can perform new tasks by adapting to a few in-context
 examples. For humans, explanations that connect examples to task principles can

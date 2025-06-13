@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Revealing The Dark Secrets Of BERT'
-authors: Kovaleva Olga, Romanov Alexey, Rogers Anna, Rumshisky Anna
+authors: Olga Kovaleva, Alexey Romanov, Anna Rogers, Anna Rumshisky
 conference: "Arxiv"
 year: 2019
-citations: 492
 bibkey: kovaleva2019revealing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08593"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Transformer', 'BERT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'BERT', 'Transformer', 'Attention Mechanism']
 ---
 BERT-based architectures currently give state-of-the-art performance on many
 NLP tasks, but little is known about the exact mechanisms that contribute to

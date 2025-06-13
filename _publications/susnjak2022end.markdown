@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt: The End Of Online Exam Integrity?'
-authors: Susnjak Teo
+authors: Teo Susnjak
 conference: "Arxiv"
 year: 2022
-citations: 283
 bibkey: susnjak2022end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09292"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Fairness', 'Ethics and Bias', 'Bias Mitigation', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
 ---
 This study evaluated the ability of ChatGPT, a recently developed artificial
 intelligence (AI) agent, to perform high-level cognitive tasks and produce text

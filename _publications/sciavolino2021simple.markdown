@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Simple Entity-centric Questions Challenge Dense Retrievers'
-authors: Sciavolino Christopher, Zhong Zexuan, Lee Jinhyuk, Chen Danqi
+authors: Christopher Sciavolino, Zexuan Zhong, Jinhyuk Lee, Danqi Chen
 conference: "Arxiv"
 year: 2021
-citations: 64
 bibkey: sciavolino2021simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.08535"}
-tags: ['Applications', 'Training Techniques']
+tags: ['Training Techniques', 'Applications']
 ---
 Open-domain question answering has exploded in popularity recently due to the
 success of dense retrieval models, which have surpassed sparse models using

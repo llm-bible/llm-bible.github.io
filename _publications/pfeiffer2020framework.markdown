@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Adapterhub: A Framework For Adapting Transformers'
-authors: Pfeiffer Jonas, Rücklé Andreas, Poth Clifton, Kamath Aishwarya, Vulić Ivan, Ruder Sebastian, Cho Kyunghyun, Gurevych Iryna
+authors: Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych
 conference: "Arxiv"
 year: 2020
-citations: 390
 bibkey: pfeiffer2020framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.07779"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer']
 ---
 The current modus operandi in NLP involves downloading and fine-tuning
 pre-trained models consisting of millions or billions of parameters. Storing

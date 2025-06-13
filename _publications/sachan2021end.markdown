@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'End-to-end Training Of Neural Retrievers For Open-domain Question Answering'
-authors: Sachan Devendra Singh, Patwary Mostofa, Shoeybi Mohammad, Kant Neel, Ping Wei, Hamilton William L, Catanzaro Bryan
+authors: Devendra Singh Sachan, Mostofa Patwary, Mohammad Shoeybi, Neel Kant, Wei Ping, William L Hamilton, Bryan Catanzaro
 conference: "Arxiv"
 year: 2021
-citations: 54
 bibkey: sachan2021end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00408"}
-tags: ['Applications', 'Training Techniques', 'RAG', 'Pre-Training']
+tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Applications']
 ---
 Recent work on training neural retrievers for open-domain question answering
 (OpenQA) has employed both supervised and unsupervised approaches. However, it

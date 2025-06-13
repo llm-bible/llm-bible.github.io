@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Multilingual Speech Translation With Efficient Finetuning Of Pretrained Models'
-authors: Li Xian, Wang Changhan, Tang Yun, Tran Chau, Tang Yuqing, Pino Juan, Baevski Alexei, Conneau Alexis, Auli Michael
+authors: Xian Li, Changhan Wang, Yun Tang, Chau Tran, Yuqing Tang, Juan Pino, Alexei Baevski, Alexis Conneau, Michael Auli
 conference: "Arxiv"
 year: 2020
-citations: 96
 bibkey: li2020multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.12829"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Efficiency and Optimization', 'Language Modeling', 'Attention Mechanism', 'RAG', 'Applications', 'Multimodal Models']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'RAG', 'Language Modeling', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
 ---
 We present a simple yet effective approach to build multilingual
 speech-to-text (ST) translation by efficient transfer learning from pretrained

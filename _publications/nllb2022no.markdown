@@ -4,12 +4,11 @@ title: 'No Language Left Behind: Scaling Human-centered Machine Translation'
 authors: Nllb Team, Marta R. Costa-jussà, James Cross, Onur Çelebi, Maha Elbayad, Kenneth Heafield, Kevin Heffernan, Elahe Kalbassi, Janice Lam, Daniel Licht, Jean Maillard, Anna Sun, Skyler Wang, Guillaume Wenzek, Al Youngblood, Bapi Akula, Loic Barrault, Gabriel Mejia Gonzalez, Prangthip Hansanti, John Hoffman, Semarley Jarrett, Kaushik Ram Sadagopan, Dirk Rowe, Shannon Spruit, Chau Tran, Pierre Andrews, Necip Fazil Ayan, Shruti Bhosale, Sergey Edunov, Angela Fan, Cynthia Gao, Vedanuj Goswami, Francisco Guzmán, Philipp Koehn, Alexandre Mourachko, Christophe Ropers, Safiyyah Saleem, Holger Schwenk, Jeff Wang
 conference: "Arxiv"
 year: 2022
-citations: 291
 bibkey: nllb2022no
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2207.04672v3"}
   - {name: "Code", url: "https://github.com/facebookresearch/fairseq/tree/nllb"}
-tags: ['KDD', 'Fine-Tuning', 'Training Techniques', 'Has Code', 'Applications', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'KDD', 'Fine-Tuning', 'Has Code', 'Applications']
 ---
 Driven by the goal of eradicating language barriers on a global scale,
 machine translation has solidified itself as a key focus of artificial

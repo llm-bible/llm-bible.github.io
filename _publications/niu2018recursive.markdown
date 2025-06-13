@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Recursive Visual Attention In Visual Dialog'
-authors: Niu Yulei, Zhang Hanwang, Zhang Manli, Zhang Jianhong, Lu Zhiwu, Wen Ji-rong
+authors: Yulei Niu, Hanwang Zhang, Manli Zhang, Jianhong Zhang, Zhiwu Lu, Ji-rong Wen
 conference: "Arxiv"
 year: 2018
-citations: 137
 bibkey: niu2018recursive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1812.02664"}
   - {name: "Code", url: "https://github.com/yuleiniu/rva"}
-tags: ['Model Architecture', 'Has Code', 'Attention Mechanism', 'Transformer', 'Applications', 'Agentic', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
 ---
 Visual dialog is a challenging vision-language task, which requires the agent
 to answer multi-round questions about an image. It typically needs to address

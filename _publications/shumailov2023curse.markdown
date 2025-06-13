@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Curse Of Recursion: Training On Generated Data Makes Models Forget'
-authors: Shumailov Ilia, Shumaylov Zakhar, Zhao Yiren, Gal Yarin, Papernot Nicolas, Anderson Ross
+authors: Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Yarin Gal, Nicolas Papernot, Ross Anderson
 conference: "Arxiv"
 year: 2023
-citations: 94
 bibkey: shumailov2023curse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17493"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Uncategorized', 'Merging']
+tags: ['Training Techniques', 'GPT', 'Merging', 'Model Architecture']
 ---
 Stable Diffusion revolutionised image creation from descriptive text. GPT-2,
 GPT-3(.5) and GPT-4 demonstrated astonishing performance across a variety of

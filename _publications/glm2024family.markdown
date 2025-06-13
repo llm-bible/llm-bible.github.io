@@ -1,16 +1,15 @@
 ---
 layout: publication
 title: 'Chatglm: A Family Of Large Language Models From GLM-130B To GLM-4 All Tools'
-authors: Glm Team, :, Zeng Aohan, Xu Bin, Wang Bowen, Zhang Chenhui, Yin Da, Zhang Dan, Rojas Diego, Feng Guanyu, Zhao Hanlin, Lai Hanyu, Yu Hao, Wang Hongning, Sun Jiadai, Zhang Jiajie, Cheng Jiale, Gui Jiayi, Tang Jie, Zhang Jing, Sun Jingyu, Li Juanzi, Zhao Lei, Wu Lindong, Zhong Lucen, Liu Mingdao, Huang Minlie, Zhang Peng, Zheng Qinkai, Lu Rui, Duan Shuaiqi, Zhang Shudan, Cao Shulin, Yang Shuxun, Tam Weng Lam, Zhao Wenyi, Liu Xiao, Xia Xiao, Zhang Xiaohan, Gu Xiaotao, Lv Xin, Liu Xinghan, Liu Xinyi, Yang Xinyue, Song Xixuan, Zhang Xunkai, An Yifan, Xu Yifan, Niu Yilin, Yang Yuantao, Li Yueyan, Bai Yushi, Dong Yuxiao, Qi Zehan, Wang Zhaoyu, Yang Zhen, Du Zhengxiao, Hou Zhenyu, Wang Zihan
+authors: Team Glm, :, Aohan Zeng, Bin Xu, Bowen Wang, Chenhui Zhang, Da Yin, Dan Zhang, Diego Rojas, Guanyu Feng, Hanlin Zhao, Hanyu Lai, Hao Yu, Hongning Wang, Jiadai Sun, Jiajie Zhang, Jiale Cheng, Jiayi Gui, Jie Tang, Jing Zhang, Jingyu Sun, Juanzi Li, Lei Zhao, Lindong Wu, Lucen Zhong, Mingdao Liu, Minlie Huang, Peng Zhang, Qinkai Zheng, Rui Lu, Shuaiqi Duan, Shudan Zhang, Shulin Cao, Shuxun Yang, Weng Lam Tam, Wenyi Zhao, Xiao Liu, Xiao Xia, Xiaohan Zhang, Xiaotao Gu, Xin Lv, Xinghan Liu, Xinyi Liu, Xinyue Yang, Xixuan Song, Xunkai Zhang, Yifan An, Yifan Xu, Yilin Niu, Yuantao Yang, Yueyan Li, Yushi Bai, Yuxiao Dong, Zehan Qi, Zhaoyu Wang, Zhen Yang, Zhengxiao Du, Zhenyu Hou, Zihan Wang
 conference: "Arxiv"
 year: 2024
-citations: 60
 bibkey: glm2024family
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12793"}
   - {name: "Code", url: "https://github.com/THUDM"}
   - {name: "Code", url: "https://huggingface.co/THUDM"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Has Code', 'Pretraining Methods', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
 ---
 We introduce ChatGLM, an evolving family of large language models that we
 have been developing over time. This report primarily focuses on the GLM-4

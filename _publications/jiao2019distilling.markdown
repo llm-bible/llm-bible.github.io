@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Tinybert: Distilling BERT For Natural Language Understanding'
-authors: Jiao Xiaoqi, Yin Yichun, Shang Lifeng, Jiang Xin, Chen Xiao, Li Linlin, Wang Fang, Liu Qun
+authors: Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu
 conference: "Arxiv"
 year: 2019
-citations: 1347
 bibkey: jiao2019distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.10351"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Distillation', 'Tools', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'BERT']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
 ---
 Language model pre-training, such as BERT, has significantly improved the
 performances of many natural language processing tasks. However, pre-trained

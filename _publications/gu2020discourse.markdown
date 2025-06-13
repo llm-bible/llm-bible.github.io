@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Dialogbert: Discourse-aware Response Generation Via Learning To Recover And Rank Utterances'
-authors: Gu Xiaodong, Yoo Kang Min, Ha Jung-woo
+authors: Xiaodong Gu, Kang Min Yoo, Jung-woo Ha
 conference: "Arxiv"
 year: 2020
-citations: 60
 bibkey: gu2020discourse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.01775"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
 ---
 Recent advances in pre-trained language models have significantly improved
 neural response generation. However, existing methods usually view the dialogue

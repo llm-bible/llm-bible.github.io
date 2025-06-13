@@ -4,11 +4,10 @@ title: 'Large Language Models As Zero-shot Conversational Recommenders'
 authors: Zhankui He, Zhouhang Xie, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Prasad Majumder, Nathan Kallus, Julian Mcauley
 conference: "Arxiv"
 year: 2023
-citations: 50
 bibkey: he2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2308.10053v1"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
 ---
 In this paper, we present empirical studies on conversational recommendation
 tasks using representative large language models in a zero-shot setting with

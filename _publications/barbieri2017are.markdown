@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Are Emojis Predictable?'
-authors: Barbieri Francesco, Ballesteros Miguel, Saggion Horacio
+authors: Francesco Barbieri, Miguel Ballesteros, Horacio Saggion
 conference: "Arxiv"
 year: 2017
-citations: 130
 bibkey: barbieri2017are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1702.07285"}
-tags: ['Uncategorized', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
 ---
 Emojis are ideograms which are naturally combined with plain text to visually
 complement or condense the meaning of a message. Despite being widely used in

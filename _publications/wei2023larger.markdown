@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Larger Language Models Do In-context Learning Differently'
-authors: Wei Jerry, Wei Jason, Tay Yi, Tran Dustin, Webson Albert, Lu Yifeng, Chen Xinyun, Liu Hanxiao, Huang Da, Zhou Denny, Ma Tengyu
+authors: Jerry Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, Yifeng Lu, Xinyun Chen, Hanxiao Liu, Da Huang, Denny Zhou, Tengyu Ma
 conference: "Arxiv"
 year: 2023
-citations: 85
 bibkey: wei2023larger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.03846"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods', 'In-Context Learning']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We study how in-context learning (ICL) in language models is affected by
 semantic priors versus input-label mappings. We investigate two setups-ICL with

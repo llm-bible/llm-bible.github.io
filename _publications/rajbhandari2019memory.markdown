@@ -4,11 +4,10 @@ title: 'Zero: Memory Optimizations Toward Training Trillion Parameter Models'
 authors: Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He
 conference: "Arxiv"
 year: 2019
-citations: 454
 bibkey: rajbhandari2019memory
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1910.02054v3"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT']
 ---
 Large deep learning models offer significant accuracy gains, but training
 billions to trillions of parameters is challenging. Existing solutions such as

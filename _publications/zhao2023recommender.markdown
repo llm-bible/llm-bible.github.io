@@ -4,11 +4,10 @@ title: 'Recommender Systems In The Era Of Large Language Models (llms)'
 authors: Zihuai Zhao, Wenqi Fan, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li
 conference: "Arxiv"
 year: 2023
-citations: 85
 bibkey: zhao2023recommender
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2307.02046v6"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Tools', 'GPT', 'Prompting', 'Pretraining Methods', 'Merging', 'Applications', 'RecSys']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Merging', 'GPT', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
 ---
 With the prosperity of e-commerce and web applications, Recommender Systems
 (RecSys) have become an important component of our daily life, providing

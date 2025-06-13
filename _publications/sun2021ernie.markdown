@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training For Language Understanding And Generation'
-authors: Sun Yu, Wang Shuohuan, Feng Shikun, Ding Siyu, Pang Chao, Shang Junyuan, Liu Jiaxiang, Chen Xuyi, Zhao Yanbin, Lu Yuxiang, Liu Weixin, Wu Zhihua, Gong Weibao, Liang Jianzhong, Shang Zhizhou, Sun Peng, Liu Wei, Ouyang Xuan, Yu Dianhai, Tian Hao, Wu Hua, Wang Haifeng
+authors: Yu Sun, Shuohuan Wang, Shikun Feng, Siyu Ding, Chao Pang, Junyuan Shang, Jiaxiang Liu, Xuyi Chen, Yanbin Zhao, Yuxiang Lu, Weixin Liu, Zhihua Wu, Weibao Gong, Jianzhong Liang, Zhizhou Shang, Peng Sun, Wei Liu, Xuan Ouyang, Dianhai Yu, Hao Tian, Hua Wu, Haifeng Wang
 conference: "Arxiv"
 year: 2021
-citations: 163
 bibkey: sun2021ernie
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.02137"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Tools', 'Few-Shot', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 Pre-trained models have achieved state-of-the-art results in various Natural
 Language Processing (NLP) tasks. Recent works such as T5 and GPT-3 have shown

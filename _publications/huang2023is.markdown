@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Is Chatgpt Better Than Human Annotators? Potential And Limitations Of Chatgpt In Explaining Implicit Hate Speech'
-authors: Huang Fan, Kwak Haewoon, An Jisun
+authors: Fan Huang, Haewoon Kwak, Jisun An
 conference: "Arxiv"
 year: 2023
-citations: 145
 bibkey: huang2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.07736"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Interpretability and Explainability', 'Interpretability']
+tags: ['Model Architecture', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
 ---
 Recent studies have alarmed that many online hate speeches are implicit. With
 its subtle nature, the explainability of the detection of such hateful speech

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Opening Up Chatgpt: Tracking Openness, Transparency, And Accountability In Instruction-tuned Text Generators'
-authors: Liesenfeld Andreas, Lopez Alianda, Dingemanse Mark
+authors: Andreas Liesenfeld, Alianda Lopez, Mark Dingemanse
 conference: "Arxiv"
 year: 2023
-citations: 74
 bibkey: liesenfeld2023opening
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.05532"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'GPT', 'Fairness', 'Pretraining Methods', 'Ethics and Bias', 'Bias Mitigation', 'Applications', 'Agentic', 'Reinforcement Learning', 'Interpretability', 'Language Modeling', 'Responsible AI']
+tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Fairness', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Applications']
 ---
 Large language models that exhibit instruction-following behaviour represent
 one of the biggest recent upheavals in conversational interfaces, a trend in

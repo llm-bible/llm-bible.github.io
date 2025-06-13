@@ -4,11 +4,10 @@ title: 'Palm-e: An Embodied Multimodal Language Model'
 authors: Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence
 conference: "Arxiv"
 year: 2023
-citations: 286
 bibkey: driess2023palm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.03378v1"}
-tags: ['Applications', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Large language models excel at a wide range of complex tasks. However,
 enabling general inference in the real world, e.g., for robotics problems,

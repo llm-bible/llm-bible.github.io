@@ -4,11 +4,10 @@ title: 'LIMA: Less Is More For Alignment'
 authors: Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy
 conference: "Arxiv"
 year: 2023
-citations: 96
 bibkey: zhou2023less
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.11206v1"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Prompting']
 ---
 Large language models are trained in two stages: (1) unsupervised pretraining
 from raw text, to learn general-purpose representations, and (2) large scale

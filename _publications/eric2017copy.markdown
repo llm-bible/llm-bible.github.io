@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Copy-augmented Sequence-to-sequence Architecture Gives Good Performance On Task-oriented Dialogue'
-authors: Eric Mihail, Manning Christopher D.
+authors: Mihail Eric, Christopher D. Manning
 conference: "Arxiv"
 year: 2017
-citations: 126
 bibkey: eric2017copy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1701.04024"}
-tags: ['Uncategorized', 'Agentic', 'Attention Mechanism', 'Model Architecture']
+tags: ['Agentic', 'Model Architecture', 'Attention Mechanism']
 ---
 Task-oriented dialogue focuses on conversational agents that participate in
 user-initiated dialogues on domain-specific topics. In contrast to chatbots,

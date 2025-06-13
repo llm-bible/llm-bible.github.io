@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Starcoder: May The Source Be With You!'
-authors: Li Raymond, Allal Loubna Ben, Zi Yangtian, Muennighoff Niklas, Kocetkov Denis, Mou Chenghao, Marone Marc, Akiki Christopher, Li Jia, Chim Jenny, Liu Qian, Zheltonozhskii Evgenii, Zhuo Terry Yue, Wang Thomas, Dehaene Olivier, Davaadorj Mishig, Lamy-poirier Joel, Monteiro João, Shliazhko Oleh, Gontier Nicolas, Meade Nicholas, Zebaze Armel, Yee Ming-ho, Umapathi Logesh Kumar, Zhu Jian, Lipkin Benjamin, Oblokulov Muhtasham, Wang Zhiruo, Murthy Rudra, Stillerman Jason, Patel Siva Sankalp, Abulkhanov Dmitry, Zocca Marco, Dey Manan, Zhang Zhihan, Fahmy Nour, Bhattacharyya Urvashi, Yu Wenhao, Singh Swayam, Luccioni Sasha, Villegas Paulo, Kunakov Maxim, Zhdanov Fedor, Romero Manuel, Lee Tony, Timor Nadav, Ding Jennifer, Schlesinger Claire, Schoelkopf Hailey, Ebert Jan, Dao Tri, Mishra Mayank, Gu Alex, Robinson Jennifer, Anderson Carolyn Jane, Dolan-gavitt Brendan, Contractor Danish, Reddy Siva, Fried Daniel, Bahdanau Dzmitry, Jernite Yacine, Ferrandis Carlos Muñoz, Hughes Sean, Wolf Thomas, Guha Arjun, Von Werra Leandro, De Vries Harm
+authors: Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-poirier, João Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro Von Werra, Harm De Vries
 conference: "Arxiv"
 year: 2023
-citations: 145
 bibkey: li2023may
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06161"}
-tags: ['Model Architecture', 'Tools', 'Prompting', 'Uncategorized', 'Attention Mechanism', 'Ethics and Bias', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
 ---
 The BigCode community, an open-scientific collaboration working on the
 responsible development of Large Language Models for Code (Code LLMs),

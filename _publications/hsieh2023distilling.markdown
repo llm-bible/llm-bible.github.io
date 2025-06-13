@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Distilling Step-by-step! Outperforming Larger Language Models With Less Training Data And Smaller Model Sizes'
-authors: Hsieh Cheng-yu, Li Chun-liang, Yeh Chih-kuan, Nakhost Hootan, Fujii Yasuhisa, Ratner Alexander, Krishna Ranjay, Lee Chen-yu, Pfister Tomas
+authors: Cheng-yu Hsieh, Chun-liang Li, Chih-kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-yu Lee, Tomas Pfister
 conference: "Arxiv"
 year: 2023
-citations: 99
 bibkey: hsieh2023distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02301"}
   - {name: "Code", url: "https://github.com/google-research/distilling-step-by-step"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Few-Shot', 'Distillation', 'Efficiency and Optimization', 'Has Code', 'RAG', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Distillation', 'Has Code', 'Prompting', 'Applications']
 ---
 Deploying large language models (LLMs) is challenging because they are memory
 inefficient and compute-intensive for practical applications. In reaction,

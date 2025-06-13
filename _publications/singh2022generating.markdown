@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Progprompt: Generating Situated Robot Task Plans Using Large Language Models'
-authors: Singh Ishika, Blukis Valts, Mousavian Arsalan, Goyal Ankit, Xu Danfei, Tremblay Jonathan, Fox Dieter, Thomason Jesse, Garg Animesh
+authors: Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg
 conference: "Arxiv"
 year: 2022
-citations: 216
 bibkey: singh2022generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.11302"}
-tags: ['Prompting', 'Uncategorized', 'Reinforcement Learning']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 Task planning can require defining myriad domain knowledge about the world in
 which a robot needs to act. To ameliorate that effort, large language models

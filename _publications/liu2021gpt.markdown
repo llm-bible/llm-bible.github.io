@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'GPT Understands, Too'
-authors: Liu Xiao, Zheng Yanan, Du Zhengxiao, Ding Ming, Qian Yujie, Yang Zhilin, Tang Jie
+authors: Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang
 conference: "Arxiv"
 year: 2021
-citations: 226
 bibkey: liu2021gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.10385"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications']
 ---
 Prompting a pretrained language model with natural language patterns has been
 proved effective for natural language understanding (NLU). However, our

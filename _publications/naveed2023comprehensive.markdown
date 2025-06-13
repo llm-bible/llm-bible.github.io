@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Comprehensive Overview Of Large Language Models'
-authors: Naveed Humza, Khan Asad Ullah, Qiu Shi, Saqib Muhammad, Anwar Saeed, Usman Muhammad, Akhtar Naveed, Barnes Nick, Mian Ajmal
+authors: Humza Naveed, Asad Ullah Khan, Shi Qiu, Muhammad Saqib, Saeed Anwar, Muhammad Usman, Naveed Akhtar, Nick Barnes, Ajmal Mian
 conference: "Arxiv"
 year: 2023
-citations: 214
 bibkey: naveed2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06435"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Tools', 'Efficiency and Optimization', 'Pretraining Methods', 'Merging']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
 ---
 Large Language Models (LLMs) have recently demonstrated remarkable
 capabilities in natural language processing tasks and beyond. This success of

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'An Explanation Of In-context Learning As Implicit Bayesian Inference'
-authors: Xie Sang Michael, Raghunathan Aditi, Liang Percy, Ma Tengyu
+authors: Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
 conference: "Arxiv"
 year: 2021
-citations: 90
 bibkey: xie2021explanation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.02080"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Pretraining Methods', 'Transformer', 'Scaling Laws', 'Interpretability and Explainability', 'Reinforcement Learning', 'In-Context Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Scaling Laws', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LMs) such as GPT-3 have the surprising ability to do
 in-context learning, where the model learns to do a downstream task simply by

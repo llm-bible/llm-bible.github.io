@@ -1,16 +1,15 @@
 ---
 layout: publication
 title: 'Code2seq: Generating Sequences From Structured Representations Of Code'
-authors: Alon Uri, Brody Shaked, Levy Omer, Yahav Eran
+authors: Uri Alon, Shaked Brody, Omer Levy, Eran Yahav
 conference: "Arxiv"
 year: 2018
-citations: 400
 bibkey: alon2018generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.01400"}
   - {name: "Code", url: "http://code2seq.org"}
   - {name: "Code", url: "http://github.com/tech-srl/code2seq"}
-tags: ['Model Architecture', 'Has Code', 'Attention Mechanism', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications', 'Attention Mechanism']
 ---
 The ability to generate natural language sequences from source code snippets
 has a variety of applications such as code summarization, documentation, and

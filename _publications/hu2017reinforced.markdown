@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Reinforced Mnemonic Reader For Machine Reading Comprehension'
-authors: Hu Minghao, Peng Yuxing, Huang Zhen, Qiu Xipeng, Wei Furu, Zhou Ming
+authors: Minghao Hu, Yuxing Peng, Zhen Huang, Xipeng Qiu, Furu Wei, Ming Zhou
 conference: "Arxiv"
 year: 2017
-citations: 197
 bibkey: hu2017reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1705.02798"}
-tags: ['Model Architecture', 'Security', 'Efficiency and Optimization', 'Transformer', 'RAG', 'Attention Mechanism', 'Applications', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 In this paper, we introduce the Reinforced Mnemonic Reader for machine
 reading comprehension tasks, which enhances previous attentive readers in two

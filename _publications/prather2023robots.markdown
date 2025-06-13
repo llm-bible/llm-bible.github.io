@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Robots Are Here: Navigating The Generative AI Revolution In Computing Education'
-authors: Prather James, Denny Paul, Leinonen Juho, Becker Brett A., Albluwi Ibrahim, Craig Michelle, Keuning Hieke, Kiesler Natalie, Kohn Tobias, Luxton-reilly Andrew, Macneil Stephen, Peterson Andrew, Pettit Raymond, Reeves Brent N., Savelka Jaromir
+authors: James Prather, Paul Denny, Juho Leinonen, Brett A. Becker, Ibrahim Albluwi, Michelle Craig, Hieke Keuning, Natalie Kiesler, Tobias Kohn, Andrew Luxton-reilly, Stephen Macneil, Andrew Peterson, Raymond Pettit, Brent N. Reeves, Jaromir Savelka
 conference: "Arxiv"
 year: 2023
-citations: 147
 bibkey: prather2023robots
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00658"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Tools', 'RAG', 'Ethics and Bias', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Fine-Tuning']
 ---
 Recent advancements in artificial intelligence (AI) are fundamentally
 reshaping computing, with large language models (LLMs) now effectively being

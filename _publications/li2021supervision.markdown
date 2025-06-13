@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Supervision Exists Everywhere: A Data Efficient Contrastive Language-image Pre-training Paradigm'
-authors: Li Yangguang, Liang Feng, Zhao Lichen, Cui Yufeng, Ouyang Wanli, Shao Jing, Yu Fengwei, Yan Junjie
+authors: Yangguang Li, Feng Liang, Lichen Zhao, Yufeng Cui, Wanli Ouyang, Jing Shao, Fengwei Yu, Junjie Yan
 conference: "Arxiv"
 year: 2021
-citations: 91
 bibkey: li2021supervision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.05208"}
   - {name: "Code", url: "https://github.com/Sense-GVT/DeCLIP"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Tools', 'Has Code', 'Attention Mechanism', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Has Code', 'Pre-Training', 'Attention Mechanism']
 ---
 Recently, large-scale Contrastive Language-Image Pre-training (CLIP) has
 attracted unprecedented attention for its impressive zero-shot recognition

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Do Neural Dialog Systems Use The Conversation History Effectively? An Empirical Study'
-authors: Sankar Chinnadhurai, Subramanian Sandeep, Pal Christopher, Chandar Sarath, Bengio Yoshua
+authors: Chinnadhurai Sankar, Sandeep Subramanian, Christopher Pal, Sarath Chandar, Yoshua Bengio
 conference: "Arxiv"
 year: 2019
-citations: 115
 bibkey: sankar2019do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.01603"}
-tags: ['Agentic', 'Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Agentic', 'Pretraining Methods', 'Model Architecture', 'Transformer']
 ---
 Neural generative models have been become increasingly popular when building
 conversational agents. They offer flexibility, can be easily adapted to new

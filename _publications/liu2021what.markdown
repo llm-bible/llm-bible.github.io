@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'What Makes Good In-context Examples For GPT-\(3\)?'
-authors: Liu Jiachang, Shen Dinghan, Zhang Yizhe, Dolan Bill, Carin Lawrence, Chen Weizhu
+authors: Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen
 conference: "Arxiv"
 year: 2021
-citations: 313
 bibkey: liu2021what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.06804"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Attention Mechanism', 'RAG', 'Applications']
+tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'Applications', 'Attention Mechanism']
 ---
 GPT-\\(3\\) has attracted lots of attention due to its superior performance
 across a wide range of NLP tasks, especially with its powerful and versatile

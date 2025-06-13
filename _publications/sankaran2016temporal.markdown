@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Temporal Attention Model For Neural Machine Translation'
-authors: Sankaran Baskaran, Mi Haitao, Al-onaizan Yaser, Ittycheriah Abe
+authors: Baskaran Sankaran, Haitao Mi, Yaser Al-onaizan, Abe Ittycheriah
 conference: "Arxiv"
 year: 2016
-citations: 53
 bibkey: sankaran2016temporal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1608.02927"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Merging']
+tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Merging']
 ---
 Attention-based Neural Machine Translation (NMT) models suffer from attention
 deficiency issues as has been observed in recent research. We propose a novel

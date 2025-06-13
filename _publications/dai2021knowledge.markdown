@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Knowledge Neurons In Pretrained Transformers'
-authors: Dai Damai, Dong Li, Hao Yaru, Sui Zhifang, Chang Baobao, Wei Furu
+authors: Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei
 conference: "Arxiv"
 year: 2021
-citations: 80
 bibkey: dai2021knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08696"}
   - {name: "Code", url: "https://github.com/Hunter-DDM/knowledge-neurons"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Transformer', 'RAG', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code']
 ---
 Large-scale pretrained language models are surprisingly good at recalling
 factual knowledge presented in the training corpus. In this paper, we present

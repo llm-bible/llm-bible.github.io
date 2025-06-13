@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Muse: Text-to-image Generation Via Masked Generative Transformers'
-authors: Chang Huiwen, Zhang Han, Barber Jarred, Maschinot Aj, Lezama Jose, Jiang Lu, Yang Ming-hsuan, Murphy Kevin, Freeman William T., Rubinstein Michael, Li Yuanzhen, Krishnan Dilip
+authors: Huiwen Chang, Han Zhang, Jarred Barber, Aj Maschinot, Jose Lezama, Lu Jiang, Ming-hsuan Yang, Kevin Murphy, William T. Freeman, Michael Rubinstein, Yuanzhen Li, Dilip Krishnan
 conference: "Arxiv"
 year: 2023
-citations: 95
 bibkey: chang2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.00704"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Merging', 'Applications', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 We present Muse, a text-to-image Transformer model that achieves
 state-of-the-art image generation performance while being significantly more

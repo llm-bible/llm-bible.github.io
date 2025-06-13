@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Investigating Multilingual NMT Representations At Scale'
-authors: Kudugunta Sneha Reddy, Bapna Ankur, Caswell Isaac, Arivazhagan Naveen, Firat Orhan
+authors: Sneha Reddy Kudugunta, Ankur Bapna, Isaac Caswell, Naveen Arivazhagan, Orhan Firat
 conference: "Arxiv"
 year: 2019
-citations: 107
 bibkey: kudugunta2019investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.02197"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Few-Shot', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 Multilingual Neural Machine Translation (NMT) models have yielded large
 empirical success in transfer learning settings. However, these black-box

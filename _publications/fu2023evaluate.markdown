@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Gptscore: Evaluate As You Desire'
-authors: Fu Jinlan, Ng See-kiong, Jiang Zhengbao, Liu Pengfei
+authors: Jinlan Fu, See-kiong Ng, Zhengbao Jiang, Pengfei Liu
 conference: "Arxiv"
 year: 2023
-citations: 74
 bibkey: fu2023evaluate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.04166"}
   - {name: "Code", url: "https://github.com/jinlanfu/GPTScore"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Uncategorized', 'Has Code']
+tags: ['Model Architecture', 'GPT', 'Has Code', 'Tools']
 ---
 Generative Artificial Intelligence (AI) has enabled the development of
 sophisticated models that are capable of producing high-caliber text, images,

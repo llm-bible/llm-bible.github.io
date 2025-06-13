@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Option Comparison Network For Multiple-choice Reading Comprehension'
-authors: Ran Qiu, Li Peng, Hu Weiwei, Zhou Jie
+authors: Qiu Ran, Peng Li, Weiwei Hu, Jie Zhou
 conference: "Arxiv"
 year: 2019
-citations: 53
 bibkey: ran2019option
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.03033"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Transformer', 'RAG']
+tags: ['RAG', 'Model Architecture', 'Transformer', 'Attention Mechanism']
 ---
 Multiple-choice reading comprehension (MCRC) is the task of selecting the
 correct answer from multiple options given a question and an article. Existing

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Planning With Learned Entity Prompts For Abstractive Summarization'
-authors: Narayan Shashi, Zhao Yao, Maynez Joshua, Simoes Gonçalo, Nikolaev Vitaly, Mcdonald Ryan
+authors: Shashi Narayan, Yao Zhao, Joshua Maynez, Gonçalo Simoes, Vitaly Nikolaev, Ryan Mcdonald
 conference: "Arxiv"
 year: 2021
-citations: 77
 bibkey: narayan2021planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.07606"}
-tags: ['Training Techniques', 'Model Architecture', 'Prompting', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
 ---
 We introduce a simple but flexible mechanism to learn an intermediate plan to
 ground the generation of abstractive summaries. Specifically, we prepend (or

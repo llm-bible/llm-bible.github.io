@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'When And Why Is Document-level Context Useful In Neural Machine Translation?'
-authors: Kim Yunsu, Tran Duc Thanh, Ney Hermann
+authors: Yunsu Kim, Duc Thanh Tran, Hermann Ney
 conference: "Arxiv"
 year: 2019
-citations: 68
 bibkey: kim2019when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.00294"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
 ---
 Document-level context has received lots of attention for compensating neural
 machine translation (NMT) of isolated sentences. However, recent advances in

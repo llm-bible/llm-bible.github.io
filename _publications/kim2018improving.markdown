@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Improving Neural Question Generation Using Answer Separation'
-authors: Kim Yanghoon, Lee Hwanhee, Shin Joongbo, Jung Kyomin
+authors: Yanghoon Kim, Hwanhee Lee, Joongbo Shin, Kyomin Jung
 conference: "Arxiv"
 year: 2018
-citations: 171
 bibkey: kim2018improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.02393"}

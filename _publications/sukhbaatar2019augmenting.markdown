@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Augmenting Self-attention With Persistent Memory'
-authors: Sukhbaatar Sainbayar, Grave Edouard, Lample Guillaume, Jegou Herve, Joulin Armand
+authors: Sainbayar Sukhbaatar, Edouard Grave, Guillaume Lample, Herve Jegou, Armand Joulin
 conference: "Arxiv"
 year: 2019
-citations: 52
 bibkey: sukhbaatar2019augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.01470"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Transformer networks have lead to important progress in language modeling and
 machine translation. These models include two consecutive modules, a

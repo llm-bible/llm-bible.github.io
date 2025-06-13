@@ -4,12 +4,11 @@ title: 'Tree Of Thoughts: Deliberate Problem Solving With Large Language Models'
 authors: Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
 conference: "Arxiv"
 year: 2023
-citations: 292
 bibkey: yao2023tree
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.10601v2"}
   - {name: "Code", url: "https://github.com/princeton-nlp/tree-of-thought-llm"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Has Code', 'Interpretability']
+tags: ['Model Architecture', 'Tools', 'GPT', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Prompting']
 ---
 Language models are increasingly being deployed for general problem solving
 across a wide range of tasks, but are still confined to token-level,

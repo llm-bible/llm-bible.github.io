@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Automatic Prompt Optimization With "gradient Descent" And Beam Search'
-authors: Pryzant Reid, Iter Dan, Li Jerry, Lee Yin Tat, Zhu Chenguang, Zeng Michael
+authors: Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng
 conference: "Arxiv"
 year: 2023
-citations: 63
 bibkey: pryzant2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03495"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Uncategorized', 'Efficiency and Optimization', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have shown impressive performance as general
 purpose agents, but their abilities remain highly dependent on prompts which

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Survey On Large Language Model (LLM) Security And Privacy: The Good, The Bad, And The Ugly'
-authors: Yao Yifan, Duan Jinhao, Xu Kaidi, Cai Yuanfang, Sun Zhibo, Zhang Yue
+authors: Yifan Yao, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Zhibo Sun, Yue Zhang
 conference: "Arxiv"
 year: 2023
-citations: 249
 bibkey: yao2023survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02003"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'GPT', 'Security', 'Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Security', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Fine-Tuning', 'Applications']
 ---
 Large Language Models (LLMs), such as ChatGPT and Bard, have revolutionized
 natural language understanding and generation. They possess deep language

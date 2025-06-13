@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Assigning AI: Seven Approaches For Students, With Prompts'
-authors: Mollick Ethan, Mollick Lilach
+authors: Ethan Mollick, Lilach Mollick
 conference: "Arxiv"
 year: 2023
-citations: 77
 bibkey: mollick2023assigning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.10052"}
-tags: ['Ethics and Bias', 'Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Prompting', 'Ethics and Bias', 'Tools', 'Reinforcement Learning']
 ---
 This paper examines the transformative role of Large Language Models (LLMs)
 in education and their potential as learning tools, despite their inherent

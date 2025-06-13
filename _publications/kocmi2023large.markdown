@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Large Language Models Are State-of-the-art Evaluators Of Translation Quality'
-authors: Kocmi Tom, Federmann Christian
+authors: Tom Kocmi, Christian Federmann
 conference: "Arxiv"
 year: 2023
-citations: 82
 bibkey: kocmi2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.14520"}
-tags: ['GPT', 'Prompting', 'Model Architecture', 'WMT']
+tags: ['Prompting', 'WMT', 'Model Architecture', 'GPT']
 ---
 We describe GEMBA, a GPT-based metric for assessment of translation quality,
 which works both with a reference translation and without. In our evaluation,

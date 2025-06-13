@@ -1,16 +1,15 @@
 ---
 layout: publication
 title: 'Efficient And Effective Text Encoding For Chinese Llama And Alpaca'
-authors: Cui Yiming, Yang Ziqing, Yao Xin
+authors: Yiming Cui, Ziqing Yang, Xin Yao
 conference: "Arxiv"
 year: 2023
-citations: 55
 bibkey: cui2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08177"}
   - {name: "Code", url: "https://github.com/ymcui/Chinese-LLaMA-Alpaca"}
   - {name: "Code", url: "https://github.com/ymcui/Chinese-LLaMA-Alpaca-2"}
-tags: ['Pre-Training', 'Model Architecture', 'GPT', 'TACL', 'Training Techniques', 'ACL', 'Efficiency and Optimization', 'Uncategorized', 'Has Code', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'GPT', 'Has Code', 'ACL', 'Pre-Training']
 ---
 Large Language Models (LLMs), such as ChatGPT and GPT-4, have dramatically
 transformed natural language processing research and shown promising strides

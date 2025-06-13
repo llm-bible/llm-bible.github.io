@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Learning To Ask Questions In Open-domain Conversational Systems With Typed Decoders'
-authors: Wang Yansen, Liu Chenyi, Huang Minlie, Nie Liqiang
+authors: Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie
 conference: "Arxiv"
 year: 2018
-citations: 66
 bibkey: wang2018learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.04843"}

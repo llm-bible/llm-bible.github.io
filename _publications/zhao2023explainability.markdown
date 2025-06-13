@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Explainability For Large Language Models: A Survey'
-authors: Zhao Haiyan, Chen Hanjie, Yang Fan, Liu Ninghao, Deng Huiqi, Cai Hengyi, Wang Shuaiqiang, Yin Dawei, Du Mengnan
+authors: Haiyan Zhao, Hanjie Chen, Fan Yang, Ninghao Liu, Huiqi Deng, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Mengnan Du
 conference: "Arxiv"
 year: 2023
-citations: 191
 bibkey: zhao2023explainability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01029"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Prompting', 'Pretraining Methods', 'Transformer', 'RAG', 'Merging', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Interpretability', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 natural language processing. However, their internal mechanisms are still

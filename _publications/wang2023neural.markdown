@@ -4,12 +4,11 @@ title: 'Neural Codec Language Models Are Zero-shot Text To Speech Synthesizers'
 authors: Chengyi Wang, Sanyuan Chen, Yu Wu, Ziqiang Zhang, Long Zhou, Shujie Liu, Zhuo Chen, Yanqing Liu, Huaming Wang, Jinyu Li, Lei He, Sheng Zhao, Furu Wei
 conference: "Arxiv"
 year: 2023
-citations: 138
 bibkey: wang2023neural
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.02111v1"}
   - {name: "Code", url: "https://aka.ms/valle"}
-tags: ['Training Techniques', 'Pre-Training', 'Prompting', 'Has Code', 'Language Modeling', 'In-Context Learning']
+tags: ['Training Techniques', 'Language Modeling', 'Has Code', 'Prompting', 'Pre-Training', 'In-Context Learning']
 ---
 We introduce a language modeling approach for text to speech synthesis (TTS).
 Specifically, we train a neural codec language model (called Vall-E) using

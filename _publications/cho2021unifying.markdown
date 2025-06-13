@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Unifying Vision-and-language Tasks Via Text Generation'
-authors: Cho Jaemin, Lei Jie, Tan Hao, Bansal Mohit
+authors: Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal
 conference: "Arxiv"
 year: 2021
-citations: 146
 bibkey: cho2021unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.02779"}
   - {name: "Code", url: "https://github.com/j-min/VL-T5"}
-tags: ['Model Architecture', 'Tools', 'Has Code', 'Language Modeling', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Language Modeling', 'Has Code', 'Applications']
 ---
 Existing methods for vision-and-language learning typically require designing
 task-specific architectures and objectives for each task. For example, a

@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Instantbooth: Personalized Text-to-image Generation Without Test-time Finetuning'
-authors: Shi Jing, Xiong Wei, Lin Zhe, Jung Hyun Joon
+authors: Jing Shi, Wei Xiong, Zhe Lin, Hyun Joon Jung
 conference: "Arxiv"
 year: 2023
-citations: 53
 bibkey: shi2023personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03411"}

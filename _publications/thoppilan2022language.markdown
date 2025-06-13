@@ -4,11 +4,10 @@ title: 'Lamda: Language Models For Dialog Applications'
 authors: Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, Yaguang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Vincent Zhao, Yanqi Zhou, Chung-ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Pranesh Srinivasan, Laichee Man, Kathleen Meier-hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-john, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le
 conference: "Arxiv"
 year: 2022
-citations: 611
 bibkey: thoppilan2022language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2201.08239v3"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Scaling Laws', 'Applications', 'Ethics and Bias', 'Responsible AI']
+tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
 ---
 We present LaMDA: Language Models for Dialog Applications. LaMDA is a family
 of Transformer-based neural language models specialized for dialog, which have

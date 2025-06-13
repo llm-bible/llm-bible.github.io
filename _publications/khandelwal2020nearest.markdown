@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Nearest Neighbor Machine Translation'
-authors: Khandelwal Urvashi, Fan Angela, Jurafsky Dan, Zettlemoyer Luke, Lewis Mike
+authors: Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis
 conference: "Arxiv"
 year: 2020
-citations: 129
 bibkey: khandelwal2020nearest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.00710"}
-tags: ['Applications', 'Training Techniques', 'RAG']
+tags: ['RAG', 'Training Techniques', 'Applications']
 ---
 We introduce \\(k\\)-nearest-neighbor machine translation (\\(k\\)NN-MT), which
 predicts tokens with a nearest neighbor classifier over a large datastore of

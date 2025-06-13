@@ -4,11 +4,10 @@ title: 'Metaicl: Learning To Learn In Context'
 authors: Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi
 conference: "Arxiv"
 year: 2021
-citations: 81
 bibkey: min2021learning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2110.15943v2"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Few-Shot', 'Applications', 'Reinforcement Learning', 'In-Context Learning']
+tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
 ---
 We introduce MetaICL (Meta-training for In-Context Learning), a new
 meta-training framework for few-shot learning where a pretrained language model

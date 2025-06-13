@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Drivegpt4: Interpretable End-to-end Autonomous Driving Via Large Language Model'
-authors: Xu Zhenhua, Zhang Yujia, Xie Enze, Zhao Zhen, Guo Yong, Wong Kwan-yee. K., Li Zhenguo, Zhao Hengshuang
+authors: Zhenhua Xu, Yujia Zhang, Enze Xie, Zhen Zhao, Yong Guo, Kwan-yee. K. Wong, Zhenguo Li, Hengshuang Zhao
 conference: "Arxiv"
 year: 2023
-citations: 86
 bibkey: xu2023interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01412"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Pretraining Methods', 'RAG', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 Multimodal large language models (MLLMs) have emerged as a prominent area of
 interest within the research community, given their proficiency in handling and
@@ -19,7 +18,7 @@ system based on LLMs. Capable of processing multi-frame video inputs and
 textual queries, DriveGPT4 facilitates the interpretation of vehicle actions,
 offers pertinent reasoning, and effectively addresses a diverse range of
 questions posed by users. Furthermore, DriveGPT4 predicts low-level vehicle
-control signals in an end-to-end fashion. These advanced capabilities are
+control signals in an end-to-end fashion.These advanced capabilities are
 achieved through the utilization of a bespoke visual instruction tuning
 dataset, specifically tailored for autonomous driving applications, in
 conjunction with a mix-finetuning training strategy. DriveGPT4 represents the
@@ -28,5 +27,4 @@ end-to-end autonomous driving solution. Evaluations conducted on the BDD-X
 dataset showcase the superior qualitative and quantitative performance of
 DriveGPT4. Additionally, the fine-tuning of domain-specific data enables
 DriveGPT4 to yield close or even improved results in terms of autonomous
-driving grounding when contrasted with GPT4-V. The code and dataset will be
-publicly available.
+driving grounding when contrasted with GPT4-V.

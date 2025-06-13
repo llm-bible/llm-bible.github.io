@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Contextual Parameter Generation For Universal Neural Machine Translation'
-authors: Platanios Emmanouil Antonios, Sachan Mrinmaya, Neubig Graham, Mitchell Tom
+authors: Emmanouil Antonios Platanios, Mrinmaya Sachan, Graham Neubig, Tom Mitchell
 conference: "Arxiv"
 year: 2018
-citations: 170
 bibkey: platanios2018contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.08493"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Applications', 'SLT']
+tags: ['Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Applications', 'SLT']
 ---
 We propose a simple modification to existing neural machine translation (NMT)
 models that enables using a single universal model to translate between

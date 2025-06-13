@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Best Of Both Worlds: Combining Recent Advances In Neural Machine Translation'
-authors: Chen Mia Xu, Firat Orhan, Bapna Ankur, Johnson Melvin, Macherey Wolfgang, Foster George, Jones Llion, Parmar Niki, Schuster Mike, Chen Zhifeng, Wu Yonghui, Hughes Macduff
+authors: Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Niki Parmar, Mike Schuster, Zhifeng Chen, Yonghui Wu, Macduff Hughes
 conference: "Arxiv"
 year: 2018
-citations: 397
 bibkey: chen2018best
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.09849"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 The past year has witnessed rapid advances in sequence-to-sequence (seq2seq)
 modeling for Machine Translation (MT). The classic RNN-based approaches to MT

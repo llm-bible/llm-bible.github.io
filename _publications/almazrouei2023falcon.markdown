@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Falcon Series Of Open Language Models'
-authors: Almazrouei Ebtesam, Alobeidli Hamza, Alshamsi Abdulaziz, Cappelli Alessandro, Cojocaru Ruxandra, Debbah Mérouane, Goffinet Étienne, Hesslow Daniel, Launay Julien, Malartic Quentin, Mazzotta Daniele, Noune Badreddine, Pannier Baptiste, Penedo Guilherme
+authors: Ebtesam Almazrouei, Hamza Alobeidli, Abdulaziz Alshamsi, Alessandro Cappelli, Ruxandra Cojocaru, Mérouane Debbah, Étienne Goffinet, Daniel Hesslow, Julien Launay, Quentin Malartic, Daniele Mazzotta, Badreddine Noune, Baptiste Pannier, Guilherme Penedo
 conference: "Arxiv"
 year: 2023
-citations: 79
 bibkey: almazrouei2023falcon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16867"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods']
 ---
 We introduce the Falcon series: 7B, 40B, and 180B parameters causal
 decoder-only models trained on a diverse high-quality corpora predominantly

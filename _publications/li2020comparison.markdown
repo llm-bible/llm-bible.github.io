@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Comparison Of Pre-trained Vision-and-language Models For Multimodal Representation Learning Across Medical Images And Reports'
-authors: Li Yikuan, Wang Hanyin, Luo Yuan
+authors: Yikuan Li, Hanyin Wang, Yuan Luo
 conference: "Arxiv"
 year: 2020
-citations: 69
 bibkey: li2020comparison
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.01523"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'BERT', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'BERT', 'Applications', 'Attention Mechanism']
 ---
 Joint image-text embedding extracted from medical images and associated
 contextual reports is the bedrock for most biomedical vision-and-language (V+L)

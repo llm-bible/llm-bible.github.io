@@ -4,11 +4,10 @@ title: 'Improving Alignment Of Dialogue Agents Via Targeted Human Judgements'
 authors: Amelia Glaese, Nat Mcaleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-gillingham, Jonathan Uesato, Po-sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving
 conference: "Arxiv"
 year: 2022
-citations: 105
 bibkey: glaese2022improving
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2209.14375v1"}
-tags: ['Prompting', 'Security', 'Ethics and Bias', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Security', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
 ---
 We present Sparrow, an information-seeking dialogue agent trained to be more
 helpful, correct, and harmless compared to prompted language model baselines.

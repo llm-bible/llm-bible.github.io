@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Retentive Network: A Successor To Transformer For Large Language Models'
-authors: Sun Yutao, Dong Li, Huang Shaohan, Ma Shuming, Xia Yuqing, Xue Jilong, Wang Jianyong, Wei Furu
+authors: Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei
 conference: "Arxiv"
 year: 2023
-citations: 70
 bibkey: sun2023retentive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08621"}
   - {name: "Code", url: "https://aka.ms/retnet"}
-tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Reinforcement Learning', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
 ---
 In this work, we propose Retentive Network (RetNet) as a foundation
 architecture for large language models, simultaneously achieving training

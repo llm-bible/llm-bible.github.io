@@ -4,7 +4,6 @@ title: 'Large Language Models Can Self-improve'
 authors: Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
 conference: "Arxiv"
 year: 2022
-citations: 107
 bibkey: huang2022large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.11610v2"}

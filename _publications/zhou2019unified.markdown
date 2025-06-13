@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Unified Vision-language Pre-training For Image Captioning And VQA'
-authors: Zhou Luowei, Palangi Hamid, Zhang Lei, Hu Houdong, Corso Jason J., Gao Jianfeng
+authors: Luowei Zhou, Hamid Palangi, Lei Zhang, Houdong Hu, Jason J. Corso, Jianfeng Gao
 conference: "Arxiv"
 year: 2019
-citations: 767
 bibkey: zhou2019unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.11059"}
   - {name: "Code", url: "https://github.com/LuoweiZhou/VLP"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 This paper presents a unified Vision-Language Pre-training (VLP) model. The
 model is unified in that (1) it can be fine-tuned for either vision-language

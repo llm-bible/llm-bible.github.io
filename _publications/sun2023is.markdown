@@ -4,11 +4,10 @@ title: 'Is Chatgpt Good At Search? Investigating Large Language Models As Re-ran
 authors: Weiwei Sun, Lingyong Yan, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren
 conference: "Arxiv"
 year: 2023
-citations: 71
 bibkey: sun2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.09542v2"}
-tags: ['Pre-Training', 'Model Architecture', 'GPT', 'Distillation', 'Training Techniques', 'Efficiency and Optimization', 'Applications', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Distillation', 'GPT', 'Pre-Training', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated remarkable zero-shot
 generalization across various language-related tasks, including search engines.

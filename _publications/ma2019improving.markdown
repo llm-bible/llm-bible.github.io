@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improving Question Generation With Sentence-level Semantic Matching And Answer Position Inferring'
-authors: Ma Xiyao, Zhu Qile, Zhou Yanlin, Li Xiaolin, Wu Dapeng
+authors: Xiyao Ma, Qile Zhu, Yanlin Zhou, Xiaolin Li, Dapeng Wu
 conference: "Arxiv"
 year: 2019
-citations: 50
 bibkey: ma2019improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.00879"}
-tags: ['Uncategorized', 'RAG', 'Merging']
+tags: ['RAG', 'Merging']
 ---
 Taking an answer and its context as input, sequence-to-sequence models have
 made considerable progress on question generation. However, we observe that

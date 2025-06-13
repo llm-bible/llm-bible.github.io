@@ -4,13 +4,12 @@ title: 'Multitask Prompted Training Enables Zero-shot Task Generalization'
 authors: Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma Sharma, Eliza Szczechla, Taewoon Kim, Gunjan Chhablani, Nihal Nayak, Debajyoti Datta, Jonathan Chang, Mike Tian-jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma, Andrea Santilli, Thibault Fevry, Jason Alan Fries, Ryan Teehan, Tali Bers, Stella Biderman, Leo Gao, Thomas Wolf, Alexander M. Rush
 conference: "Arxiv"
 year: 2021
-citations: 466
 bibkey: sanh2021multitask
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2110.08207v3"}
   - {name: "Code", url: "https://github.com/bigscience-workshop/t-zero"}
   - {name: "Code", url: "https://github.com/bigscience-workshop/promptsource"}
-tags: ['Prompting', 'Has Code', 'Pretraining Methods', 'Training Techniques']
+tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Has Code']
 ---
 Large language models have recently been shown to attain reasonable zero-shot
 generalization on a diverse set of tasks (Brown et al., 2020). It has been

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Contrastive Code Representation Learning'
-authors: Jain Paras, Jain Ajay, Zhang Tianjun, Abbeel Pieter, Gonzalez Joseph E., Stoica Ion
+authors: Paras Jain, Ajay Jain, Tianjun Zhang, Pieter Abbeel, Joseph E. Gonzalez, Ion Stoica
 conference: "Arxiv"
 year: 2020
-citations: 55
 bibkey: jain2020contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.04973"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Security', 'Applications', 'BERT']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training', 'Applications']
 ---
 Recent work learns contextual representations of source code by
 reconstructing tokens from their context. For downstream semantic understanding

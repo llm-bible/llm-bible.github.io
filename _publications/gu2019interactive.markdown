@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Interactive Matching Network For Multi-turn Response Selection In Retrieval-based Chatbots'
-authors: Gu Jia-chen, Ling Zhen-hua, Liu Quan
+authors: Jia-chen Gu, Zhen-hua Ling, Quan Liu
 conference: "Arxiv"
 year: 2019
-citations: 69
 bibkey: gu2019interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.01824"}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture']
+tags: ['Model Architecture', 'Transformer', 'Attention Mechanism']
 ---
 In this paper, we propose an interactive matching network (IMN) for the
 multi-turn response selection task. First, IMN constructs word representations

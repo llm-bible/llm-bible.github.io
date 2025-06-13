@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatclimate: Grounding Conversational AI In Climate Science'
-authors: Vaghefi Saeid Ashraf, Wang Qian, Muccione Veruska, Ni Jingwei, Kraus Mathias, Bingler Julia, Schimanski Tobias, Colesanti-senni Chiara, Webersinke Nicolas, Huggel Christrian, Leippold Markus
+authors: Saeid Ashraf Vaghefi, Qian Wang, Veruska Muccione, Jingwei Ni, Mathias Kraus, Julia Bingler, Tobias Schimanski, Chiara Colesanti-senni, Nicolas Webersinke, Christrian Huggel, Markus Leippold
 conference: "Arxiv"
 year: 2023
-citations: 58
 bibkey: vaghefi2023grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05510"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture', 'Training Techniques']
+tags: ['Training Techniques', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have made significant progress in recent years,
 achieving remarkable results in question-answering tasks (QA). However, they

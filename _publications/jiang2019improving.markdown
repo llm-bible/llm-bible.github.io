@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improving Neural Response Diversity With Frequency-aware Cross-entropy Loss'
-authors: Jiang Shaojie, Ren Pengjie, Monz Christof, De Rijke Maarten
+authors: Shaojie Jiang, Pengjie Ren, Christof Monz, Maarten De Rijke
 conference: "Arxiv"
 year: 2019
-citations: 56
 bibkey: jiang2019improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.09191"}
-tags: ['Uncategorized', 'RAG']
+tags: ['RAG']
 ---
 Sequence-to-Sequence (Seq2Seq) models have achieved encouraging performance
 on the dialogue response generation task. However, existing Seq2Seq-based

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Lora: Low-rank Adaptation Of Large Language Models'
-authors: Hu Edward J., Shen Yelong, Wallis Phillip, Allen-zhu Zeyuan, Li Yuanzhi, Wang Shean, Wang Lu, Chen Weizhu
+authors: Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen
 conference: "Arxiv"
 year: 2021
-citations: 1614
 bibkey: hu2021low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.09685"}
   - {name: "Code", url: "https://github.com/microsoft/LoRA"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'GPT', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Transformer', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code', 'Pre-Training']
 ---
 An important paradigm of natural language processing consists of large-scale
 pre-training on general domain data and adaptation to particular tasks or

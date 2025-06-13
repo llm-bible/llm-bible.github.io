@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'On The Effect Of Dropping Layers Of Pre-trained Transformer Models'
-authors: Sajjad Hassan, Dalvi Fahim, Durrani Nadir, Nakov Preslav
-conference: "Computer Speech and Language"
+authors: Hassan Sajjad, Fahim Dalvi, Nadir Durrani, Preslav Nakov
+conference: "Computer Speech and Language 2022"
 year: 2020
-citations: 50
 bibkey: sajjad2020effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.03844"}
-tags: ['Model Architecture', 'Distillation', 'Efficiency and Optimization', 'Pruning', 'Transformer', 'Pretraining Methods', 'BERT']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer']
 ---
 Transformer-based NLP models are trained using hundreds of millions or even
 billions of parameters, limiting their applicability in computationally

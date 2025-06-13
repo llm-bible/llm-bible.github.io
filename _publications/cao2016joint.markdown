@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Joint Copying And Restricted Generation For Paraphrase'
-authors: Cao Ziqiang, Luo Chuwei, Li Wenjie, Li Sujian
+authors: Ziqiang Cao, Chuwei Luo, Wenjie Li, Sujian Li
 conference: "Arxiv"
 year: 2016
-citations: 65
 bibkey: cao2016joint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.09235"}
-tags: ['Applications', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
 ---
 Many natural language generation tasks, such as abstractive summarization and
 text simplification, are paraphrase-orientated. In these tasks, copying and

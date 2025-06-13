@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improved Training Of End-to-end Attention Models For Speech Recognition'
-authors: Zeyer Albert, Irie Kazuki, Schlüter Ralf, Ney Hermann
+authors: Albert Zeyer, Kazuki Irie, Ralf Schlüter, Hermann Ney
 conference: "Arxiv"
 year: 2018
-citations: 290
 bibkey: zeyer2018improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.03294"}
-tags: ['Training Techniques', 'Model Architecture', 'INTERSPEECH', 'Pretraining Methods', 'Attention Mechanism', 'Merging']
+tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Attention Mechanism', 'INTERSPEECH']
 ---
 Sequence-to-sequence attention-based models on subword units allow simple
 open-vocabulary end-to-end speech recognition. In this work, we show that such

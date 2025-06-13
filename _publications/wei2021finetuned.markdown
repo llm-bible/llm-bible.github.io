@@ -4,11 +4,10 @@ title: 'Finetuned Language Models Are Zero-shot Learners'
 authors: Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
 conference: "Arxiv"
 year: 2021
-citations: 696
 bibkey: wei2021finetuned
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2109.01652v5"}
-tags: ['GPT', 'Few-Shot', 'Uncategorized', 'Model Architecture']
+tags: ['Model Architecture', 'GPT', 'Few-Shot']
 ---
 This paper explores a simple method for improving the zero-shot learning
 abilities of language models. We show that instruction tuning -- finetuning

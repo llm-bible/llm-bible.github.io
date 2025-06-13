@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Multimodal Explanations: Justifying Decisions And Pointing To The Evidence'
-authors: Park Dong Huk, Hendricks Lisa Anne, Akata Zeynep, Rohrbach Anna, Schiele Bernt, Darrell Trevor, Rohrbach Marcus
+authors: Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, Marcus Rohrbach
 conference: "Arxiv"
 year: 2018
-citations: 334
 bibkey: park2018multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1802.08129"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
 ---
 Deep models that are both effective and explainable are desirable in many
 settings; prior explainable models have been unimodal, offering either

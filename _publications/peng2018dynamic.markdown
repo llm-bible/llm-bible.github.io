@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Dynamic Fusion With Intra- And Inter- Modality Attention Flow For Visual Question Answering'
-authors: Peng Gao, Jiang Zhengkai, You Haoxuan, Lu Pan, Hoi Steven, Wang Xiaogang, Li Hongsheng
+authors: Gao Peng, Zhengkai Jiang, Haoxuan You, Pan Lu, Steven Hoi, Xiaogang Wang, Hongsheng Li
 conference: "Arxiv"
 year: 2018
-citations: 358
 bibkey: peng2018dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1812.05252"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Merging', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Merging', 'Applications', 'Attention Mechanism']
 ---
 Learning effective fusion of multi-modality features is at the heart of
 visual question answering. We propose a novel method of dynamically fusing

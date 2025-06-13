@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Multi-step Reasoning Via Recurrent Dual Attention For Visual Dialog'
-authors: Gan Zhe, Cheng Yu, Kholy Ahmed El, Li Linjie, Liu Jingjing, Gao Jianfeng
+authors: Zhe Gan, Yu Cheng, Ahmed El Kholy, Linjie Li, Jingjing Liu, Jianfeng Gao
 conference: "Arxiv"
 year: 2019
-citations: 105
 bibkey: gan2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.00579"}
-tags: ['Uncategorized', 'Attention Mechanism', 'Model Architecture']
+tags: ['Model Architecture', 'Attention Mechanism']
 ---
 This paper presents a new model for visual dialog, Recurrent Dual Attention
 Network (ReDAN), using multi-step reasoning to answer a series of questions

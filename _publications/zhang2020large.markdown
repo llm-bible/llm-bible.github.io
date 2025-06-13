@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'CPM: A Large-scale Generative Chinese Pre-trained Language Model'
-authors: Zhang Zhengyan, Han Xu, Zhou Hao, Ke Pei, Gu Yuxian, Ye Deming, Qin Yujia, Su Yusheng, Ji Haozhe, Guan Jian, Qi Fanchao, Wang Xiaozhi, Zheng Yanan, Zeng Guoyang, Cao Huanqi, Chen Shengqi, Li Daixuan, Sun Zhenbo, Liu Zhiyuan, Huang Minlie, Han Wentao, Tang Jie, Li Juanzi, Zhu Xiaoyan, Sun Maosong
+authors: Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun
 conference: "Arxiv"
 year: 2020
-citations: 85
 bibkey: zhang2020large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.00413"}
   - {name: "Code", url: "https://github.com/TsinghuaAI/CPM-Generate"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Pre-Training', 'Uncategorized', 'Has Code', 'Attention Mechanism']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Has Code', 'Pre-Training', 'Attention Mechanism']
 ---
 Pre-trained Language Models (PLMs) have proven to be beneficial for various
 downstream NLP tasks. Recently, GPT-3, with 175 billion parameters and 570GB

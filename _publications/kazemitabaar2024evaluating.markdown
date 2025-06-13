@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Codeaid: Evaluating A Classroom Deployment Of An Llm-based Programming Assistant That Balances Student And Educator Needs'
-authors: Kazemitabaar Majeed, Ye Runlong, Wang Xiaoning, Henley Austin Z., Denny Paul, Craig Michelle, Grossman Tovi
+authors: Majeed Kazemitabaar, Runlong Ye, Xiaoning Wang, Austin Z. Henley, Paul Denny, Michelle Craig, Tovi Grossman
 conference: "Arxiv"
 year: 2024
-citations: 62
 bibkey: kazemitabaar2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11314"}
-tags: ['Survey Paper', 'Model Architecture', 'Tools', 'GPT', 'RAG', 'Ethics and Bias', 'Interpretability and Explainability', 'Interpretability', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
 ---
 Timely, personalized feedback is essential for students learning programming.
 LLM-powered tools like ChatGPT offer instant support, but reveal direct answers

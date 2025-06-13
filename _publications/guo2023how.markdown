@@ -4,12 +4,11 @@ title: 'How Close Is Chatgpt To Human Experts? Comparison Corpus, Evaluation, An
 authors: Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding, Jianwei Yue, Yupeng Wu
 conference: "Arxiv"
 year: 2023
-citations: 213
 bibkey: guo2023how
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.07597v1"}
   - {name: "Code", url: "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection"}
-tags: ['Model Architecture', 'GPT', 'Uncategorized', 'Security', 'Has Code', 'Attention Mechanism']
+tags: ['Security', 'Model Architecture', 'GPT', 'Has Code', 'Attention Mechanism']
 ---
 The introduction of ChatGPT has garnered widespread attention in both
 academic and industrial communities. ChatGPT is able to respond effectively to

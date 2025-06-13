@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Well-read Students Learn Better: On The Importance Of Pre-training Compact Models'
-authors: Turc Iulia, Chang Ming-wei, Lee Kenton, Toutanova Kristina
+authors: Iulia Turc, Ming-wei Chang, Kenton Lee, Kristina Toutanova
 conference: "Arxiv"
 year: 2019
-citations: 438
 bibkey: turc2019well
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08962"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Distillation', 'Efficiency and Optimization', 'Pretraining Methods', 'RAG', 'Quantization', 'BERT', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Distillation', 'Quantization', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training']
 ---
 Recent developments in natural language representations have been accompanied
 by large and expensive models that leverage vast amounts of general-domain text

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Eight Things To Know About Large Language Models'
-authors: Bowman Samuel R.
+authors: Samuel R. Bowman
 conference: "Arxiv"
 year: 2023
-citations: 77
 bibkey: bowman2023eight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.00612"}
-tags: ['Survey Paper', 'Model Architecture', 'Prompting', 'Uncategorized', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Prompting', 'Attention Mechanism']
 ---
 The widespread public deployment of large language models (LLMs) in recent
 months has prompted a wave of new attention and engagement from advocates,

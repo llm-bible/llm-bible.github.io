@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Towards Making The Most Of BERT In Neural Machine Translation'
-authors: Yang Jiacheng, Wang Mingxuan, Zhou Hao, Zhao Chengqi, Yu Yong, Zhang Weinan, Li Lei
+authors: Jiacheng Yang, Mingxuan Wang, Hao Zhou, Chengqi Zhao, Yong Yu, Weinan Zhang, Lei Li
 conference: "Arxiv"
 year: 2019
-citations: 106
 bibkey: yang2019towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.05672"}
   - {name: "Code", url: "https://github.com/bytedance/neurst/"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Tools', 'GPT', 'Efficiency and Optimization', 'Distillation', 'Transformer', 'Pretraining Methods', 'Has Code', 'Applications', 'BERT', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
 ---
 GPT-2 and BERT demonstrate the effectiveness of using pre-trained language
 models (LMs) on various natural language processing tasks. However, LM

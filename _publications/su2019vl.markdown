@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'VL-BERT: Pre-training Of Generic Visual-linguistic Representations'
-authors: Su Weijie, Zhu Xizhou, Cao Yue, Li Bin, Lu Lewei, Wei Furu, Dai Jifeng
+authors: Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai
 conference: "Arxiv"
 year: 2019
-citations: 709
 bibkey: su2019vl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08530"}
   - {name: "Code", url: "https://github.com/jackroos/VL-BERT"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
 ---
 We introduce a new pre-trainable generic representation for visual-linguistic
 tasks, called Visual-Linguistic BERT (VL-BERT for short). VL-BERT adopts the

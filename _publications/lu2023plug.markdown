@@ -4,11 +4,10 @@ title: 'Chameleon: Plug-and-play Compositional Reasoning With Large Language Mod
 authors: Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-wei Chang, Ying Nian Wu, Song-chun Zhu, Jianfeng Gao
 conference: "Arxiv"
 year: 2023
-citations: 58
 bibkey: lu2023plug
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.09842v3"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Few-Shot', 'Uncategorized']
+tags: ['Model Architecture', 'GPT', 'Few-Shot', 'Tools']
 ---
 Large language models (LLMs) have achieved remarkable progress in solving
 various natural language processing tasks due to emergent reasoning abilities.

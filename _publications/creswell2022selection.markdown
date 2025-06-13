@@ -4,11 +4,10 @@ title: 'Selection-inference: Exploiting Large Language Models For Interpretable 
 authors: Antonia Creswell, Murray Shanahan, Irina Higgins
 conference: "Arxiv"
 year: 2022
-citations: 94
 bibkey: creswell2022selection
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2205.09712v1"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Few-Shot', 'Pretraining Methods', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
 ---
 Large language models (LLMs) have been shown to be capable of impressive
 few-shot generalisation to new tasks. However, they still tend to perform

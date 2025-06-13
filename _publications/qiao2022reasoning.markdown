@@ -4,12 +4,11 @@ title: 'Reasoning With Language Model Prompting: A Survey'
 authors: Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen
 conference: "Arxiv"
 year: 2022
-citations: 71
 bibkey: qiao2022reasoning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.09597v8"}
   - {name: "Code", url: "https://github.com/zjunlp/Prompt4ReasoningPapers"}
-tags: ['Survey Paper', 'Prompting', 'Uncategorized', 'Has Code', 'Merging', 'Applications', 'Reinforcement Learning']
+tags: ['Survey Paper', 'Reinforcement Learning', 'Merging', 'Has Code', 'Prompting', 'Applications']
 ---
 Reasoning, as an essential ability for complex problem-solving, can provide
 back-end support for various real-world applications, such as medical

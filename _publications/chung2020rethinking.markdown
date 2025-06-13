@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Rethinking Embedding Coupling In Pre-trained Language Models'
-authors: Chung Hyung Won, Févry Thibault, Tsai Henry, Johnson Melvin, Ruder Sebastian
+authors: Hyung Won Chung, Thibault Févry, Henry Tsai, Melvin Johnson, Sebastian Ruder
 conference: "Arxiv"
 year: 2020
-citations: 67
 bibkey: chung2020rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.12821"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
 ---
 We re-evaluate the standard practice of sharing weights between input and
 output embeddings in state-of-the-art pre-trained language models. We show that

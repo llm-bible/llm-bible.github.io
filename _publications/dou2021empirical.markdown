@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'An Empirical Study Of Training End-to-end Vision-and-language Transformers'
-authors: Dou Zi-yi, Xu Yichong, Gan Zhe, Wang Jianfeng, Wang Shuohang, Wang Lijuan, Zhu Chenguang, Zhang Pengchuan, Yuan Lu, Peng Nanyun, Liu Zicheng, Zeng Michael
+authors: Zi-yi Dou, Yichong Xu, Zhe Gan, Jianfeng Wang, Shuohang Wang, Lijuan Wang, Chenguang Zhu, Pengchuan Zhang, Lu Yuan, Nanyun Peng, Zicheng Liu, Michael Zeng
 conference: "Arxiv"
 year: 2021
-citations: 229
 bibkey: dou2021empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.02387"}
   - {name: "Code", url: "https://github.com/zdou0830/METER"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Tools', 'Has Code', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Merging', 'BERT', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
 ---
 Vision-and-language (VL) pre-training has proven to be highly effective on
 various VL downstream tasks. While recent work has shown that fully

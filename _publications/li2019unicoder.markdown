@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Unicoder-vl: A Universal Encoder For Vision And Language By Cross-modal Pre-training'
-authors: Li Gen, Duan Nan, Fang Yuejian, Gong Ming, Jiang Daxin, Zhou Ming
+authors: Gen Li, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou
 conference: "Arxiv"
 year: 2019
-citations: 699
 bibkey: li2019unicoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.06066"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Language Modeling', 'BERT', 'Multimodal Models', 'Masked Language Model']
+tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
 ---
 We propose Unicoder-VL, a universal encoder that aims to learn joint
 representations of vision and language in a pre-training manner. Borrow ideas

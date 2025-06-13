@@ -4,11 +4,10 @@ title: 'Visual Instruction Tuning'
 authors: Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 conference: "Arxiv"
 year: 2023
-citations: 504
 bibkey: liu2023visual
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.08485v2"}
-tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Reinforcement Learning']
 ---
 Instruction tuning large language models (LLMs) using machine-generated
 instruction-following data has improved zero-shot capabilities on new tasks,

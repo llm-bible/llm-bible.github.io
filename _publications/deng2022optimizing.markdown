@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Rlprompt: Optimizing Discrete Text Prompts With Reinforcement Learning'
-authors: Deng Mingkai, Wang Jianyu, Hsieh Cheng-ping, Wang Yihan, Guo Han, Shu Tianmin, Song Meng, Xing Eric P., Hu Zhiting
+authors: Mingkai Deng, Jianyu Wang, Cheng-ping Hsieh, Yihan Wang, Han Guo, Tianmin Shu, Meng Song, Eric P. Xing, Zhiting Hu
 conference: "Arxiv"
 year: 2022
-citations: 84
 bibkey: deng2022optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.12548"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Efficiency and Optimization', 'BERT', 'Agentic', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'BERT', 'Interpretability and Explainability', 'Prompting']
 ---
 Prompting has shown impressive success in enabling large pretrained language
 models (LMs) to perform diverse NLP tasks, especially when only few downstream

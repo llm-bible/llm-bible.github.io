@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Capturing Greater Context For Question Generation'
-authors: Tuan Luu Anh, Shah Darsh J, Barzilay Regina
+authors: Luu Anh Tuan, Darsh J Shah, Regina Barzilay
 conference: "Arxiv"
 year: 2019
-citations: 58
 bibkey: tuan2019capturing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.10274"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
 ---
 Automatic question generation can benefit many applications ranging from
 dialogue systems to reading comprehension. While questions are often asked with

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Structbert: Incorporating Language Structures Into Pre-training For Deep Language Understanding'
-authors: Wang Wei, Bi Bin, Yan Ming, Wu Chen, Bao Zuyi, Xia Jiangnan, Peng Liwei, Si Luo
+authors: Wei Wang, Bin Bi, Ming Yan, Chen Wu, Zuyi Bao, Jiangnan Xia, Liwei Peng, Luo Si
 conference: "Arxiv"
 year: 2019
-citations: 138
 bibkey: wang2019incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.04577"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Attention Mechanism', 'RAG', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 Recently, the pre-trained language model, BERT (and its robustly optimized
 version RoBERTa), has attracted a lot of attention in natural language

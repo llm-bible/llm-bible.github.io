@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'GPTQ: Accurate Post-training Quantization For Generative Pre-trained Transformers'
-authors: Frantar Elias, Ashkboos Saleh, Hoefler Torsten, Alistarh Dan
+authors: Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh
 conference: "Arxiv"
 year: 2022
-citations: 92
 bibkey: frantar2022accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.17323"}
   - {name: "Code", url: "https://github.com/IST-DASLab/gptq"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'RAG', 'Merging', 'Has Code', 'Quantization']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code']
 ---
 Generative Pre-trained Transformer models, known as GPT or OPT, set
 themselves apart through breakthrough performance across complex language

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Synthetic QA Corpora Generation With Roundtrip Consistency'
-authors: Alberti Chris, Andor Daniel, Pitler Emily, Devlin Jacob, Collins Michael
+authors: Chris Alberti, Daniel Andor, Emily Pitler, Jacob Devlin, Michael Collins
 conference: "Arxiv"
 year: 2019
-citations: 214
 bibkey: alberti2019synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.05416"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Applications']
 ---
 We introduce a novel method of generating synthetic question answering
 corpora by combining models of question generation and answer extraction, and

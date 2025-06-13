@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Polite Dialogue Generation Without Parallel Data'
-authors: Niu Tong, Bansal Mohit
+authors: Tong Niu, Mohit Bansal
 conference: "Arxiv"
 year: 2018
-citations: 173
 bibkey: niu2018polite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.03162"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Attention Mechanism', 'RAG', 'Merging', 'Applications', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
 ---
 Stylistic dialogue response generation, with valuable applications in
 personality-based conversational agents, is a challenging task because the

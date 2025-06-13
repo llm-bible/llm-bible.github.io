@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Attention Is Not Not Explanation'
-authors: Wiegreffe Sarah, Pinter Yuval
+authors: Sarah Wiegreffe, Yuval Pinter
 conference: "Arxiv"
 year: 2019
-citations: 747
 bibkey: wiegreffe2019attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.04626"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Security', 'Transformer', 'Attention Mechanism', 'Interpretability and Explainability', 'Interpretability', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
 ---
 Attention mechanisms play a central role in NLP systems, especially within
 recurrent neural network (RNN) models. Recently, there has been increasing

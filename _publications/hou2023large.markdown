@@ -4,12 +4,11 @@ title: 'Large Language Models Are Zero-shot Rankers For Recommender Systems'
 authors: Yupeng Hou, Junjie Zhang, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian Mcauley, Wayne Xin Zhao
 conference: "Arxiv"
 year: 2023
-citations: 96
 bibkey: hou2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.08845v2"}
   - {name: "Code", url: "https://github.com/RUCAIBox/LLMRank"}
-tags: ['Model Architecture', 'Prompting', 'GPT', 'Has Code', 'Ethics and Bias', 'RecSys']
+tags: ['Model Architecture', 'GPT', 'RecSys', 'Ethics and Bias', 'Has Code', 'Prompting']
 ---
 Recently, large language models (LLMs) (e.g., GPT-4) have demonstrated
 impressive general-purpose task-solving abilities, including the potential to

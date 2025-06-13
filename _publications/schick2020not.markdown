@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'It''s Not Just Size That Matters: Small Language Models Are Also Few-shot Learners'
-authors: Schick Timo, Schütze Hinrich
+authors: Timo Schick, Hinrich Schütze
 conference: "Arxiv"
 year: 2020
-citations: 193
 bibkey: schick2020not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.07118"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Efficiency and Optimization', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Applications']
 ---
 When scaled to hundreds of billions of parameters, pretrained language models
 such as GPT-3 (Brown et al., 2020) achieve remarkable few-shot performance.

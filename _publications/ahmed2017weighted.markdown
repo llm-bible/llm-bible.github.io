@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Weighted Transformer Network For Machine Translation'
-authors: Ahmed Karim, Keskar Nitish Shirish, Socher Richard
+authors: Karim Ahmed, Nitish Shirish Keskar, Richard Socher
 conference: "Arxiv"
 year: 2017
-citations: 137
 bibkey: ahmed2017weighted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.02132"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 State-of-the-art results on neural machine translation often use attentional
 sequence-to-sequence models with some form of convolution or recursion. Vaswani

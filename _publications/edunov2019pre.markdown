@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Pre-trained Language Model Representations For Language Generation'
-authors: Edunov Sergey, Baevski Alexei, Auli Michael
+authors: Sergey Edunov, Alexei Baevski, Michael Auli
 conference: "Arxiv"
 year: 2019
-citations: 123
 bibkey: edunov2019pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.09722"}

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Where To Go Next For Recommender Systems? ID- Vs. Modality-based Recommender Models Revisited'
-authors: Yuan Zheng, Yuan Fajie, Song Yu, Li Youhua, Fu Junchen, Yang Fei, Pan Yunzhu, Ni Yongxin
+authors: Zheng Yuan, Fajie Yuan, Yu Song, Youhua Li, Junchen Fu, Fei Yang, Yunzhu Pan, Yongxin Ni
 conference: "Arxiv"
 year: 2023
-citations: 74
 bibkey: yuan2023where
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13835"}
-tags: ['Training Techniques', 'Model Architecture', 'Uncategorized', 'Efficiency and Optimization', 'Applications', 'BERT', 'RecSys']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RecSys', 'BERT', 'Applications']
 ---
 Recommendation models that utilize unique identities (IDs) to represent
 distinct users and items have been state-of-the-art (SOTA) and dominated the

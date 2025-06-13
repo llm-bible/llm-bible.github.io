@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Intermediate-task Transfer Learning With Pretrained Models For Natural Language Understanding: When And Why Does It Work?'
-authors: Pruksachatkun Yada, Phang Jason, Liu Haokun, Htut Phu Mon, Zhang Xiaoyi, Pang Richard Yuanzhe, Vania Clara, Kann Katharina, Bowman Samuel R.
+authors: Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann, Samuel R. Bowman
 conference: "Arxiv"
 year: 2020
-citations: 56
 bibkey: pruksachatkun2020intermediate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00628"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'RAG', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
 ---
 While pretrained models such as BERT have shown large gains across natural
 language understanding tasks, their performance can be improved by further

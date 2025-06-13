@@ -4,7 +4,6 @@ title: 'Solving Quantitative Reasoning Problems With Language Models'
 authors: Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-ari, Vedant Misra
 conference: "Arxiv"
 year: 2022
-citations: 232
 bibkey: lewkowycz2022solving
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2206.14858v2"}

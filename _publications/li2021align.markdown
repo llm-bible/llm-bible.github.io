@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Align Before Fuse: Vision And Language Representation Learning With Momentum Distillation'
-authors: Li Junnan, Selvaraju Ramprasaath R., Gotmare Akhilesh Deepak, Joty Shafiq, Xiong Caiming, Hoi Steven
+authors: Junnan Li, Ramprasaath R. Selvaraju, Akhilesh Deepak Gotmare, Shafiq Joty, Caiming Xiong, Steven Hoi
 conference: "Arxiv"
 year: 2021
-citations: 650
 bibkey: li2021align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.07651"}
   - {name: "Code", url: "https://github.com/salesforce/ALBEF/"}
-tags: ['Training Techniques', 'Model Architecture', 'Distillation', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Distillation', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
 ---
 Large-scale vision and language representation learning has shown promising
 improvements on various vision-language tasks. Most existing methods employ a

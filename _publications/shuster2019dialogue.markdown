@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Dialogue Dodecathlon: Open-domain Knowledge And Image Grounded Conversational Agents'
-authors: Shuster Kurt, Ju Da, Roller Stephen, Dinan Emily, Boureau Y-lan, Weston Jason
+authors: Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-lan Boureau, Jason Weston
 conference: "Arxiv"
 year: 2019
-citations: 69
 bibkey: shuster2019dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03768"}
-tags: ['Uncategorized', 'BERT', 'Agentic', 'Model Architecture']
+tags: ['Agentic', 'BERT', 'Model Architecture']
 ---
 We introduce dodecaDialogue: a set of 12 tasks that measures if a
 conversational agent can communicate engagingly with personality and empathy,

@@ -4,12 +4,11 @@ title: 'A Survey On Large Language Models For Recommendation'
 authors: Likang Wu, Zhi Zheng, Zhaopeng Qiu, Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, Enhong Chen
 conference: "Arxiv"
 year: 2023
-citations: 74
 bibkey: wu2023survey
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.19860v5"}
   - {name: "Code", url: "https://github.com/WLiK/LLM4Rec"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Prompting', 'Tools', 'Has Code', 'Pretraining Methods', 'Attention Mechanism', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have emerged as powerful tools in the field of
 Natural Language Processing (NLP) and have recently gained significant

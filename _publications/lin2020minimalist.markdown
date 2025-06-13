@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Mintl: Minimalist Transfer Learning For Task-oriented Dialogue Systems'
-authors: Lin Zhaojiang, Madotto Andrea, Winata Genta Indra, Fung Pascale
+authors: Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung
 conference: "Arxiv"
 year: 2020
-citations: 141
 bibkey: lin2020minimalist
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.12005"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Efficiency and Optimization', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Applications']
 ---
 In this paper, we propose Minimalist Transfer Learning (MinTL) to simplify
 the system design process of task-oriented dialogue systems and alleviate the

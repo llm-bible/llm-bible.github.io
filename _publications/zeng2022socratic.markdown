@@ -4,11 +4,10 @@ title: 'Socratic Models: Composing Zero-shot Multimodal Reasoning With Language'
 authors: Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence
 conference: "Arxiv"
 year: 2022
-citations: 140
 bibkey: zeng2022socratic
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.00598v2"}
-tags: ['Tools', 'Prompting', 'RAG', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
 ---
 Large pretrained (e.g., "foundation") models exhibit distinct capabilities
 depending on the domain of data they are trained on. While these domains are

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Hierarchical Recurrent Attention Network For Response Generation'
-authors: Xing Chen, Wu Wei, Wu Yu, Zhou Ming, Huang Yalou, Ma Wei-ying
+authors: Chen Xing, Wei Wu, Yu Wu, Ming Zhou, Yalou Huang, Wei-ying Ma
 conference: "Arxiv"
 year: 2017
-citations: 151
 bibkey: xing2017hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1701.07149"}
-tags: ['Uncategorized', 'Attention Mechanism', 'Model Architecture', 'Tools']
+tags: ['Model Architecture', 'Attention Mechanism', 'Tools']
 ---
 We study multi-turn response generation in chatbots where a response is
 generated according to a conversation context. Existing work has modeled the

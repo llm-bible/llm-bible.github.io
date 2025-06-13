@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Global Encoding For Abstractive Summarization'
-authors: Lin Junyang, Sun Xu, Ma Shuming, Su Qi
+authors: Junyang Lin, Xu Sun, Shuming Ma, Qi Su
 conference: "Arxiv"
 year: 2018
-citations: 153
 bibkey: lin2018global
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.03989"}

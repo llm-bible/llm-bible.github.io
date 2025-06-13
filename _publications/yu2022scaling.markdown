@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Scaling Autoregressive Models For Content-rich Text-to-image Generation'
-authors: Yu Jiahui, Xu Yuanzhong, Koh Jing Yu, Luong Thang, Baid Gunjan, Wang Zirui, Vasudevan Vijay, Ku Alexander, Yang Yinfei, Ayan Burcu Karagol, Hutchinson Ben, Han Wei, Parekh Zarana, Li Xin, Zhang Han, Baldridge Jason, Wu Yonghui
+authors: Jiahui Yu, Yuanzhong Xu, Jing Yu Koh, Thang Luong, Gunjan Baid, Zirui Wang, Vijay Vasudevan, Alexander Ku, Yinfei Yang, Burcu Karagol Ayan, Ben Hutchinson, Wei Han, Zarana Parekh, Xin Li, Han Zhang, Jason Baldridge, Yonghui Wu
 conference: "Arxiv"
 year: 2022
-citations: 275
 bibkey: yu2022scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.10789"}
   - {name: "Code", url: "https://parti.research.google/"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Has Code', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning', 'Language Modeling']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Applications']
 ---
 We present the Pathways Autoregressive Text-to-Image (Parti) model, which
 generates high-fidelity photorealistic images and supports content-rich

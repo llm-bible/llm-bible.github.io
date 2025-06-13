@@ -4,11 +4,10 @@ title: 'Pangu-\(α\): Large-scale Autoregressive Pretrained Chinese Language Mod
 authors: Wei Zeng, Xiaozhe Ren, Teng Su, Hui Wang, Yi Liao, Zhiwei Wang, Xin Jiang, Zhenzhang Yang, Kaisheng Wang, Xiaoda Zhang, Chen Li, Ziyan Gong, Yifan Yao, Xinjing Huang, Jun Wang, Jianfeng Yu, Qi Guo, Yue Yu, Yan Zhang, Jin Wang, Hengtao Tao, Dasen Yan, Zexuan Yi, Fang Peng, Fangqing Jiang, Han Zhang, Lingfeng Deng, Yehong Zhang, Zhe Lin, Chao Zhang, Shaojie Zhang, Mingyue Guo, Shanzhi Gu, Gaojun Fan, Yaowei Wang, Xuefeng Jin, Qun Liu, Yonghong Tian
 conference: "Arxiv"
 year: 2021
-citations: 76
 bibkey: zeng2021pangu
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2104.12369v1"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Pretraining Methods', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Applications']
 ---
 Large-scale Pretrained Language Models (PLMs) have become the new paradigm
 for Natural Language Processing (NLP). PLMs with hundreds of billions

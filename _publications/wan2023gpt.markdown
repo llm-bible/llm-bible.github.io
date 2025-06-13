@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'GPT-RE: In-context Learning For Relation Extraction Using Large Language Models'
-authors: Wan Zhen, Cheng Fei, Mao Zhuoyuan, Liu Qianying, Song Haiyue, Li Jiwei, Kurohashi Sadao
+authors: Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, Haiyue Song, Jiwei Li, Sadao Kurohashi
 conference: "Arxiv"
 year: 2023
-citations: 79
 bibkey: wan2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02105"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'BERT', 'In-Context Learning']
+tags: ['Model Architecture', 'GPT', 'BERT', 'Prompting', 'In-Context Learning']
 ---
 In spite of the potential for ground-breaking achievements offered by large
 language models (LLMs) (e.g., GPT-3), they still lag significantly behind

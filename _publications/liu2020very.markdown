@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Very Deep Transformers For Neural Machine Translation'
-authors: Liu Xiaodong, Duh Kevin, Liu Liyuan, Gao Jianfeng
+authors: Xiaodong Liu, Kevin Duh, Liyuan Liu, Jianfeng Gao
 conference: "Arxiv"
 year: 2020
-citations: 72
 bibkey: liu2020very
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.07772"}
   - {name: "Code", url: "https://github.com/namisan/exdeep-nmt"}
-tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Transformer', 'Applications', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
 ---
 We explore the application of very deep Transformer models for Neural Machine
 Translation (NMT). Using a simple yet effective initialization technique that

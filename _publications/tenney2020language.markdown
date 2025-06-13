@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'The Language Interpretability Tool: Extensible, Interactive Visualizations And Analysis For NLP Models'
-authors: Tenney Ian, Wexler James, Bastings Jasmijn, Bolukbasi Tolga, Coenen Andy, Gehrmann Sebastian, Jiang Ellen, Pushkarna Mahima, Radebaugh Carey, Reif Emily, Yuan Ann
+authors: Ian Tenney, James Wexler, Jasmijn Bastings, Tolga Bolukbasi, Andy Coenen, Sebastian Gehrmann, Ellen Jiang, Mahima Pushkarna, Carey Radebaugh, Emily Reif, Ann Yuan
 conference: "Arxiv"
 year: 2020
-citations: 125
 bibkey: tenney2020language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.05122"}
   - {name: "Code", url: "https://github.com/pair-code/lit"}
-tags: ['Fine-Tuning', 'Tools', 'Has Code', 'Language Modeling', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Applications']
 ---
 We present the Language Interpretability Tool (LIT), an open-source platform
 for visualization and understanding of NLP models. We focus on core questions

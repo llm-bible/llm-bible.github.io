@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Truthfulqa: Measuring How Models Mimic Human Falsehoods'
-authors: Lin Stephanie, Hilton Jacob, Evans Owain
+authors: Stephanie Lin, Jacob Hilton, Owain Evans
 conference: "Arxiv"
 year: 2021
-citations: 203
 bibkey: lin2021measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.07958"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
 ---
 We propose a benchmark to measure whether a language model is truthful in
 generating answers to questions. The benchmark comprises 817 questions that

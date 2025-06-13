@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'MT6: Multilingual Pretrained Text-to-text Transformer With Translation Pairs'
-authors: Chi Zewen, Dong Li, Ma Shuming, Mao Shaohan Huang Xian-ling, Huang Heyan, Wei Furu
+authors: Zewen Chi, Li Dong, Shuming Ma, Shaohan Huang Xian-ling Mao, Heyan Huang, Furu Wei
 conference: "Arxiv"
 year: 2021
-citations: 51
 bibkey: chi2021multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08692"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
 ---
 Multilingual T5 (mT5) pretrains a sequence-to-sequence model on massive
 monolingual texts, which has shown promising results on many cross-lingual

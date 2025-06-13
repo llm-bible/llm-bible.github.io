@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Just Ask: Learning To Answer Questions From Millions Of Narrated Videos'
-authors: Yang Antoine, Miech Antoine, Sivic Josef, Laptev Ivan, Schmid Cordelia
+authors: Antoine Yang, Antoine Miech, Josef Sivic, Ivan Laptev, Cordelia Schmid
 conference: "Arxiv"
 year: 2020
-citations: 155
 bibkey: yang2020just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.00451"}
   - {name: "Code", url: "https://antoyang.github.io/just-ask.html"}
-tags: ['Large-Scale Training', 'Training Techniques', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Transformer', 'RAG', 'Ethics and Bias', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Large-Scale Training', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
 ---
 Recent methods for visual question answering rely on large-scale annotated
 datasets. Manual annotation of questions and answers for videos, however, is

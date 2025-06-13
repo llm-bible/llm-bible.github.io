@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt Makes Medicine Easy To Swallow: An Exploratory Case Study On Simplified Radiology Reports'
-authors: Jeblick Katharina, Schachtner Balthasar, Dexl Jakob, Mittermeier Andreas, Stüber Anna Theresa, Topalis Johanna, Weber Tobias, Wesp Philipp, Sabel Bastian, Ricke Jens, Ingrisch Michael
+authors: Katharina Jeblick, Balthasar Schachtner, Jakob Dexl, Andreas Mittermeier, Anna Theresa Stüber, Johanna Topalis, Tobias Weber, Philipp Wesp, Bastian Sabel, Jens Ricke, Michael Ingrisch
 conference: "Arxiv"
 year: 2022
-citations: 359
 bibkey: jeblick2022chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.14882"}
-tags: ['Fine-Tuning', 'Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'Attention Mechanism']
+tags: ['Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
 ---
 The release of ChatGPT, a language model capable of generating text that
 appears human-like and authentic, has gained significant attention beyond the

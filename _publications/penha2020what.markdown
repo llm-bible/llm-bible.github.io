@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'What Does BERT Know About Books, Movies And Music? Probing BERT For Conversational Recommendation'
-authors: Penha Gustavo, Hauff Claudia
+authors: Gustavo Penha, Claudia Hauff
 conference: "Arxiv"
 year: 2020
-citations: 67
 bibkey: penha2020what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.15356"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Prompting', 'Training Techniques', 'Security', 'Pretraining Methods', 'Transformer', 'BERT', 'Masked Language Model']
+tags: ['Masked Language Model', 'Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Prompting', 'Pre-Training']
 ---
 Heavily pre-trained transformer models such as BERT have recently shown to be
 remarkably powerful at language modelling by achieving impressive results on

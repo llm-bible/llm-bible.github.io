@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Human Vs. Muppet: A Conservative Estimate Of Human Performance On The GLUE Benchmark'
-authors: Nangia Nikita, Bowman Samuel R.
-conference: "ACL"
+authors: Nikita Nangia, Samuel R. Bowman
+conference: "ACL 2019"
 year: 2019
-citations: 56
 bibkey: nangia2019human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.10425"}
-tags: ['Training Techniques', 'Model Architecture', 'Uncategorized', 'RAG', 'BERT']
+tags: ['BERT', 'RAG', 'Training Techniques', 'Model Architecture']
 ---
 The GLUE benchmark (Wang et al., 2019b) is a suite of language understanding
 tasks which has seen dramatic progress in the past year, with average

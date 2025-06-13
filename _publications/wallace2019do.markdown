@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Do NLP Models Know Numbers? Probing Numeracy In Embeddings'
-authors: Wallace Eric, Wang Yizhong, Li Sujian, Singh Sameer, Gardner Matt
+authors: Eric Wallace, Yizhong Wang, Sujian Li, Sameer Singh, Matt Gardner
 conference: "Arxiv"
 year: 2019
-citations: 222
 bibkey: wallace2019do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.07940"}
-tags: ['Applications', 'BERT', 'Model Architecture']
+tags: ['BERT', 'Applications', 'Model Architecture']
 ---
 The ability to understand and work with numbers (numeracy) is critical for
 many complex reasoning tasks. Currently, most NLP models treat numbers in text

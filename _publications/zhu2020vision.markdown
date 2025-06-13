@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Vision-dialog Navigation By Exploring Cross-modal Memory'
-authors: Zhu Yi, Zhu Fengda, Zhan Zhaohuan, Lin Bingqian, Jiao Jianbin, Chang Xiaojun, Liang Xiaodan
+authors: Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, Xiaodan Liang
 conference: "Arxiv"
 year: 2020
-citations: 51
 bibkey: zhu2020vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.06745"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Transformer', 'Agentic', 'Interpretability', 'Multimodal Models']
+tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Interpretability', 'Transformer', 'Attention Mechanism']
 ---
 Vision-dialog navigation posed as a new holy-grail task in vision-language
 disciplinary targets at learning an agent endowed with the capability of

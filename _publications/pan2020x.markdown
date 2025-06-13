@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'X-linear Attention Networks For Image Captioning'
-authors: Pan Yingwei, Yao Ting, Li Yehao, Mei Tao
+authors: Yingwei Pan, Ting Yao, Yehao Li, Tao Mei
 conference: "Arxiv"
 year: 2020
-citations: 573
 bibkey: pan2020x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.14080"}
   - {name: "Code", url: "https://github.com/Panda-Peter/image-captioning"}
-tags: ['Model Architecture', 'Tools', 'Has Code', 'Pretraining Methods', 'Transformer', 'RAG', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
 ---
 Recent progress on fine-grained visual recognition and visual question
 answering has featured Bilinear Pooling, which effectively models the 2\\(^\{nd\}\\)

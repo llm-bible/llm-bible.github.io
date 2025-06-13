@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Parlai: A Dialog Research Software Platform'
-authors: Miller Alexander H., Feng Will, Fisch Adam, Lu Jiasen, Batra Dhruv, Bordes Antoine, Parikh Devi, Weston Jason
+authors: Alexander H. Miller, Will Feng, Adam Fisch, Jiasen Lu, Dhruv Batra, Antoine Bordes, Devi Parikh, Jason Weston
 conference: "Arxiv"
 year: 2017
-citations: 306
 bibkey: miller2017dialog
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1705.06476"}
   - {name: "Code", url: "http://parl.ai"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Has Code', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code']
 ---
 We introduce ParlAI (pronounced "par-lay"), an open-source software platform
 for dialog research implemented in Python, available at http://parl.ai. Its

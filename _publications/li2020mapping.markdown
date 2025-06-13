@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Mapping Natural Language Instructions To Mobile UI Action Sequences'
-authors: Li Yang, He Jiacong, Zhou Xin, Zhang Yuan, Baldridge Jason
+authors: Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 conference: "Arxiv"
 year: 2020
-citations: 65
 bibkey: li2020mapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.03776"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
 ---
 We present a new problem: grounding natural language instructions to mobile
 user interface actions, and create three new datasets for it. For full task

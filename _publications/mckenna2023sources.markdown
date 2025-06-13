@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Sources Of Hallucination By Large Language Models On Inference Tasks'
-authors: Mckenna Nick, Li Tianyi, Cheng Liang, Hosseini Mohammad Javad, Johnson Mark, Steedman Mark
+authors: Nick Mckenna, Tianyi Li, Liang Cheng, Mohammad Javad Hosseini, Mark Johnson, Mark Steedman
 conference: "Arxiv"
 year: 2023
-citations: 73
 bibkey: mckenna2023sources
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14552"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Ethics and Bias', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
 ---
 Large Language Models (LLMs) are claimed to be capable of Natural Language
 Inference (NLI), necessary for applied tasks like question answering and

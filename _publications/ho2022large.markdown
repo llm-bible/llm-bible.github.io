@@ -4,12 +4,11 @@ title: 'Large Language Models Are Reasoning Teachers'
 authors: Namgyu Ho, Laura Schmid, Se-young Yun
 conference: "Arxiv"
 year: 2022
-citations: 59
 bibkey: ho2022large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.10071v2"}
   - {name: "Code", url: "https://github.com/itsnamgyu/reasoning-teacher"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Has Code', 'Pretraining Methods', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
 ---
 Recent works have shown that chain-of-thought (CoT) prompting can elicit
 language models to solve complex reasoning tasks, step-by-step. However,

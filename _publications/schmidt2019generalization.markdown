@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Generalization In Generation: A Closer Look At Exposure Bias'
-authors: Schmidt Florian
+authors: Florian Schmidt
 conference: "Arxiv"
 year: 2019
-citations: 64
 bibkey: schmidt2019generalization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.00292"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Tools', 'GPT', 'Pretraining Methods', 'Language Modeling', 'Ethics and Bias', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
 ---
 Exposure bias refers to the train-test discrepancy that seemingly arises when
 an autoregressive generative model uses only ground-truth contexts at training

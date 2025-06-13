@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Natural Language Generation And Understanding Of Big Code For Ai-assisted Programming: A Review'
-authors: Wong Man Fai, Guo Shangxin, Hang Ching Nam, Ho Siu Wai, Tan Chee Wei
-conference: "Entropy"
+authors: Man Fai Wong, Shangxin Guo, Ching Nam Hang, Siu Wai Ho, Chee Wei Tan
+conference: "Entropy(2023) 25(6) 888"
 year: 2023
-citations: 52
 bibkey: wong2023natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02503"}
-tags: ['Survey Paper', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 This paper provides a comprehensive review of the literature concerning the
 utilization of Natural Language Processing (NLP) techniques, with a particular

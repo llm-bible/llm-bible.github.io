@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Are You Talking To Me? Reasoned Visual Dialog Generation Through Adversarial Learning'
-authors: Wu Qi, Wang Peng, Shen Chunhua, Reid Ian, Hengel Anton Van Den
+authors: Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton Van Den Hengel
 conference: "Arxiv"
 year: 2017
-citations: 152
 bibkey: wu2017are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.07613"}
-tags: ['Training Techniques', 'Model Architecture', 'Security', 'Transformer', 'Attention Mechanism', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
 ---
 The Visual Dialogue task requires an agent to engage in a conversation about
 an image with a human. It represents an extension of the Visual Question

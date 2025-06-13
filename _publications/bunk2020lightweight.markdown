@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'DIET: Lightweight Language Understanding For Dialogue Systems'
-authors: Bunk Tanja, Varshneya Daksh, Vlasov Vladimir, Nichol Alan
+authors: Tanja Bunk, Daksh Varshneya, Vladimir Vlasov, Alan Nichol
 conference: "Arxiv"
 year: 2020
-citations: 105
 bibkey: bunk2020lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.09936"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
 ---
 Large-scale pre-trained language models have shown impressive results on
 language understanding benchmarks like GLUE and SuperGLUE, improving

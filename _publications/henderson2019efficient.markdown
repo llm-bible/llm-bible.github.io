@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Convert: Efficient And Accurate Conversational Representations From Transformers'
-authors: Henderson Matthew, Casanueva Iñigo, Mrkšić Nikola, Su Pei-hao, Wen Tsung-hsien, Vulić Ivan
+authors: Matthew Henderson, Iñigo Casanueva, Nikola Mrkšić, Pei-hao Su, Tsung-hsien Wen, Ivan Vulić
 conference: "Arxiv"
 year: 2019
-citations: 162
 bibkey: henderson2019efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03688"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'Quantization', 'BERT', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Quantization', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
 ---
 General-purpose pretrained sentence encoders such as BERT are not ideal for
 real-world conversational AI applications; they are computationally heavy,

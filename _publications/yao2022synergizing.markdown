@@ -4,12 +4,11 @@ title: 'React: Synergizing Reasoning And Acting In Language Models'
 authors: Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao
 conference: "Arxiv"
 year: 2022
-citations: 251
 bibkey: yao2022synergizing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.03629v3"}
   - {name: "Code", url: "https://react-lm.github.io"}
-tags: ['Tools', 'Prompting', 'Has Code', 'Applications', 'Agentic', 'Interpretability and Explainability', 'Interpretability', 'Reinforcement Learning']
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Applications']
 ---
 While large language models (LLMs) have demonstrated impressive capabilities
 across tasks in language understanding and interactive decision making, their

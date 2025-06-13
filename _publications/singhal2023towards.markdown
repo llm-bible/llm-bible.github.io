@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Towards Expert-level Medical Question Answering With Large Language Models'
-authors: Singhal Karan, Tu Tao, Gottweis Juraj, Sayres Rory, Wulczyn Ellery, Hou Le, Clark Kevin, Pfohl Stephen, Cole-lewis Heather, Neal Darlene, Schaekermann Mike, Wang Amy, Amin Mohamed, Lachgar Sami, Mansfield Philip, Prakash Sushant, Green Bradley, Dominowska Ewa, Arcas Blaise Aguera Y, Tomasev Nenad, Liu Yun, Wong Renee, Semturs Christopher, Mahdavi S. Sara, Barral Joelle, Webster Dale, Corrado Greg S., Matias Yossi, Azizi Shekoofeh, Karthikesalingam Alan, Natarajan Vivek
+authors: Karan Singhal, Tao Tu, Juraj Gottweis, Rory Sayres, Ellery Wulczyn, Le Hou, Kevin Clark, Stephen Pfohl, Heather Cole-lewis, Darlene Neal, Mike Schaekermann, Amy Wang, Mohamed Amin, Sami Lachgar, Philip Mansfield, Sushant Prakash, Bradley Green, Ewa Dominowska, Blaise Aguera Y Arcas, Nenad Tomasev, Yun Liu, Renee Wong, Christopher Semturs, S. Sara Mahdavi, Joelle Barral, Dale Webster, Greg S. Corrado, Yossi Matias, Shekoofeh Azizi, Alan Karthikesalingam, Vivek Natarajan
 conference: "Arxiv"
 year: 2023
-citations: 211
 bibkey: singhal2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09617"}
-tags: ['Tools', 'Prompting', 'Security', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
 ---
 Recent artificial intelligence (AI) systems have reached milestones in "grand
 challenges" ranging from Go to protein-folding. The capability to retrieve

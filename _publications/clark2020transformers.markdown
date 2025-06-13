@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Transformers As Soft Reasoners Over Language'
-authors: Clark Peter, Tafjord Oyvind, Richardson Kyle
+authors: Peter Clark, Oyvind Tafjord, Kyle Richardson
 conference: "Arxiv"
 year: 2020
-citations: 157
 bibkey: clark2020transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.05867"}
-tags: ['Training Techniques', 'Model Architecture', 'TACL', 'ACL', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Interpretability']
+tags: ['Training Techniques', 'Model Architecture', 'TACL', 'Pretraining Methods', 'Interpretability', 'Transformer', 'ACL', 'Interpretability and Explainability']
 ---
 Beginning with McCarthy's Advice Taker (1959), AI has pursued the goal of
 providing a system with explicit, general knowledge and having the system

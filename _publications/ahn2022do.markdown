@@ -4,12 +4,11 @@ title: 'Do As I Can, Not As I Say: Grounding Language In Robotic Affordances'
 authors: Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng
 conference: "Arxiv"
 year: 2022
-citations: 287
 bibkey: ahn2022do
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.01691v2"}
   - {name: "Code", url: "https://say-can.github.io/"}
-tags: ['Has Code', 'RAG', 'Agentic', 'Interpretability', 'Reinforcement Learning']
+tags: ['Agentic', 'Reinforcement Learning', 'RAG', 'Interpretability', 'Has Code']
 ---
 Large language models can encode a wealth of semantic knowledge about the
 world. Such knowledge could be extremely useful to robots aiming to act upon

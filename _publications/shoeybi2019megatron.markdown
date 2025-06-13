@@ -4,11 +4,10 @@ title: 'Megatron-lm: Training Multi-billion Parameter Language Models Using Mode
 authors: Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick Legresley, Jared Casper, Bryan Catanzaro
 conference: "Arxiv"
 year: 2019
-citations: 785
 bibkey: shoeybi2019megatron
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1909.08053v4"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Recent work in language modeling demonstrates that training large transformer
 models advances the state of the art in Natural Language Processing

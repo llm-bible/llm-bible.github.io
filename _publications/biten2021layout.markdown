@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Latr: Layout-aware Transformer For Scene-text VQA'
-authors: Biten Ali Furkan, Litman Ron, Xie Yusheng, Appalaraju Srikar, Manmatha R.
+authors: Ali Furkan Biten, Ron Litman, Yusheng Xie, Srikar Appalaraju, R. Manmatha
 conference: "Arxiv"
 year: 2021
-citations: 69
 bibkey: biten2021layout
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.12494"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Security', 'Pretraining Methods', 'Transformer', 'RAG', 'Multimodal Models']
+tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Pre-Training']
 ---
 We propose a novel multimodal architecture for Scene Text Visual Question
 Answering (STVQA), named Layout-Aware Transformer (LaTr). The task of STVQA

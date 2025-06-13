@@ -4,11 +4,10 @@ title: 'Attention Is All You Need'
 authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 conference: "Arxiv"
 year: 2017
-citations: 58343
 bibkey: vaswani2017attention
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1706.03762v7"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Merging', 'Applications', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 The dominant sequence transduction models are based on complex recurrent or
 convolutional neural networks in an encoder-decoder configuration. The best

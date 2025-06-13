@@ -4,12 +4,11 @@ title: 'Codegeex: A Pre-trained Model For Code Generation With Multilingual Benc
 authors: Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang
 conference: "Arxiv"
 year: 2023
-citations: 74
 bibkey: zheng2023pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.17568v2"}
   - {name: "Code", url: "https://github.com/THUDM/CodeGeeX"}
-tags: ['Applications', 'Has Code', 'Efficiency and Optimization', 'Tools']
+tags: ['Efficiency and Optimization', 'Applications', 'Has Code', 'Tools']
 ---
 Large pre-trained code generation models, such as OpenAI Codex, can generate
 syntax- and function-correct code, making the coding of programmers more

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Memad Submission To The WMT18 Multimodal Translation Task'
-authors: Grönroos Stig-arne, Huet Benoit, Kurimo Mikko, Laaksonen Jorma, Merialdo Bernard, Pham Phu, Sjöberg Mats, Sulubacak Umut, Tiedemann Jörg, Troncy Raphael, Vázquez Raúl
+authors: Stig-arne Grönroos, Benoit Huet, Mikko Kurimo, Jorma Laaksonen, Bernard Merialdo, Phu Pham, Mats Sjöberg, Umut Sulubacak, Jörg Tiedemann, Raphael Troncy, Raúl Vázquez
 conference: "Arxiv"
 year: 2018
-citations: 62
 bibkey: grönroos2018memad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.10802"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning', 'Multimodal Models', 'WMT']
+tags: ['WMT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 This paper describes the MeMAD project entry to the WMT Multimodal Machine
 Translation Shared Task.

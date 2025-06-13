@@ -4,11 +4,10 @@ title: 'Speechgpt: Empowering Large Language Models With Intrinsic Cross-modal C
 authors: Dong Zhang, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, Xipeng Qiu
 conference: "Arxiv"
 year: 2023
-citations: 54
 bibkey: zhang2023empowering
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.11000v2"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'GPT', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
 ---
 Multi-modal large language models are regarded as a crucial step towards
 Artificial General Intelligence (AGI) and have garnered significant interest

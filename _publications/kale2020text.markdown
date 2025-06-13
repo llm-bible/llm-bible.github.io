@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Text-to-text Pre-training For Data-to-text Tasks'
-authors: Kale Mihir, Rastogi Abhinav
+authors: Mihir Kale, Abhinav Rastogi
 conference: "Arxiv"
 year: 2020
-citations: 121
 bibkey: kale2020text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.10433"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'GPT', 'Training Techniques', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 We study the pre-train + fine-tune strategy for data-to-text tasks. Our
 experiments indicate that text-to-text pre-training in the form of T5, enables

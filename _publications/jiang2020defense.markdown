@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'In Defense Of Grid Features For Visual Question Answering'
-authors: Jiang Huaizu, Misra Ishan, Rohrbach Marcus, Learned-miller Erik, Chen Xinlei
-conference: "CVPR"
+authors: Huaizu Jiang, Ishan Misra, Marcus Rohrbach, Erik Learned-miller, Xinlei Chen
+conference: "CVPR 2020"
 year: 2020
-citations: 333
 bibkey: jiang2020defense
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2001.03615"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Attention Mechanism', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 Popularized as 'bottom-up' attention, bounding box (or region) based visual
 features have recently surpassed vanilla grid-based convolutional features as

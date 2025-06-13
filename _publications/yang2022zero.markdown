@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Zero-shot Video Question Answering Via Frozen Bidirectional Language Models'
-authors: Yang Antoine, Miech Antoine, Sivic Josef, Laptev Ivan, Schmid Cordelia
+authors: Antoine Yang, Antoine Miech, Josef Sivic, Ivan Laptev, Cordelia Schmid
 conference: "Arxiv"
 year: 2022
-citations: 58
 bibkey: yang2022zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08155"}
   - {name: "Code", url: "https://github.com/antoyang/FrozenBiLM"}
-tags: ['Training Techniques', 'GPT', 'Few-Shot', 'Has Code', 'Pretraining Methods', 'Applications', 'BERT', 'Language Modeling', 'Masked Language Model']
+tags: ['Masked Language Model', 'Training Techniques', 'Few-Shot', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Has Code', 'Applications']
 ---
 Video question answering (VideoQA) is a complex task that requires diverse
 multi-modal data for training. Manual annotation of question and answers for

@@ -4,11 +4,10 @@ title: 'Retrieval-augmented Generation For Knowledge-intensive NLP Tasks'
 authors: Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
 conference: "Arxiv"
 year: 2020
-citations: 1599
 bibkey: lewis2020retrieval
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2005.11401v4"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Vector Indexing', 'Pretraining Methods', 'RAG', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Vector Indexing']
 ---
 Large pre-trained language models have been shown to store factual knowledge
 in their parameters, and achieve state-of-the-art results when fine-tuned on

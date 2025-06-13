@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'The Pile: An 800GB Dataset Of Diverse Text For Language Modeling'
-authors: Gao Leo, Biderman Stella, Black Sid, Golding Laurence, Hoppe Travis, Foster Charles, Phang Jason, He Horace, Thite Anish, Nabeshima Noa, Presser Shawn, Leahy Connor
+authors: Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy
 conference: "Arxiv"
 year: 2020
-citations: 454
 bibkey: gao2020dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00027"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Uncategorized', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Fine-Tuning']
 ---
 Recent work has demonstrated that increased training dataset diversity
 improves general cross-domain knowledge and downstream generalization

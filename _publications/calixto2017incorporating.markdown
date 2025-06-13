@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Incorporating Global Visual Features Into Attention-based Neural Machine Translation'
-authors: Calixto Iacer, Liu Qun, Campbell Nick
+authors: Iacer Calixto, Qun Liu, Nick Campbell
 conference: "Arxiv"
 year: 2017
-citations: 153
 bibkey: calixto2017incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1701.06521"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
 ---
 We introduce multi-modal, attention-based neural machine translation (NMT)
 models which incorporate visual features into different parts of both the

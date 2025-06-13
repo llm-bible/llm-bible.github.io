@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Gpt-3-driven Pedagogical Agents For Training Children''s Curious Question-asking Skills'
-authors: Abdelghani Rania, Wang Yen-hsiang, Yuan Xingdi, Wang Tong, Lucas Pauline, Sauzéon Hélène, Oudeyer Pierre-yves
+authors: Rania Abdelghani, Yen-hsiang Wang, Xingdi Yuan, Tong Wang, Pauline Lucas, Hélène Sauzéon, Pierre-yves Oudeyer
 conference: "Arxiv"
 year: 2022
-citations: 63
 bibkey: abdelghani2022gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.14228"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Uncategorized', 'Prompting', 'Efficiency and Optimization', 'RAG', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
 ---
 In order to train children's ability to ask curiosity-driven questions,
 previous research has explored designing specific exercises relying on

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'KAT: A Knowledge Augmented Transformer For Vision-and-language'
-authors: Gui Liangke, Wang Borui, Huang Qiuyuan, Hauptmann Alex, Bisk Yonatan, Gao Jianfeng
+authors: Liangke Gui, Borui Wang, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao
 conference: "Arxiv"
 year: 2021
-citations: 71
 bibkey: gui2021knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08614"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'RAG', 'Interpretability and Explainability', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
 ---
 The primary focus of recent work with largescale transformers has been on
 optimizing the amount of information packed into the model's parameters. In

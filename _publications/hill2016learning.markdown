@@ -4,11 +4,10 @@ title: 'Learning Distributed Representations Of Sentences From Unlabelled Data'
 authors: Felix Hill, Kyunghyun Cho, Anna Korhonen
 conference: "Arxiv"
 year: 2016
-citations: 526
 bibkey: hill2016learning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1602.03483v1"}
-tags: ['Uncategorized', 'Training Techniques']
+tags: ['Training Techniques']
 ---
 Unsupervised methods for learning distributed representations of words are
 ubiquitous in today's NLP research, but far less is known about the best ways

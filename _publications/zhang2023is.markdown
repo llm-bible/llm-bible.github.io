@@ -4,12 +4,11 @@ title: 'Is Chatgpt Fair For Recommendation? Evaluating Fairness In Large Languag
 authors: Jizhi Zhang, Keqin Bao, Yang Zhang, Wenjie Wang, Fuli Feng, Xiangnan He
 conference: "Arxiv"
 year: 2023
-citations: 61
 bibkey: zhang2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.07609v3"}
   - {name: "Code", url: "https://github.com/jizhi-zhang/FaiRLLM"}
-tags: ['Model Architecture', 'GPT', 'Fairness', 'Has Code', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Fairness', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Has Code']
 ---
 The remarkable achievements of Large Language Models (LLMs) have led to the
 emergence of a novel recommendation paradigm -- Recommendation via LLM

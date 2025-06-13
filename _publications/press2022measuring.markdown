@@ -4,11 +4,10 @@ title: 'Measuring And Narrowing The Compositionality Gap In Language Models'
 authors: Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis
 conference: "Arxiv"
 year: 2022
-citations: 110
 bibkey: press2022measuring
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.03350v3"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Prompting', 'Applications']
 ---
 We investigate the ability of language models to perform compositional
 reasoning tasks where the overall solution depends on correctly composing the

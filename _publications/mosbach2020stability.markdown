@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'On The Stability Of Fine-tuning BERT: Misconceptions, Explanations, And Strong Baselines'
-authors: Mosbach Marius, Andriushchenko Maksym, Klakow Dietrich
+authors: Marius Mosbach, Maksym Andriushchenko, Dietrich Klakow
 conference: "Arxiv"
 year: 2020
-citations: 199
 bibkey: mosbach2020stability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.04884"}
   - {name: "Code", url: "https://github.com/uds-lsv/bert-stable-fine-tuning"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Has Code', 'BERT', 'Interpretability and Explainability']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code', 'Interpretability and Explainability']
 ---
 Fine-tuning pre-trained transformer-based language models such as BERT has
 become a common practice dominating leaderboards across various NLP benchmarks.

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Investigating Explainability Of Generative AI For Code Through Scenario-based Design'
-authors: Sun Jiao, Liao Q. Vera, Muller Michael, Agarwal Mayank, Houde Stephanie, Talamadupula Kartik, Weisz Justin D.
+authors: Jiao Sun, Q. Vera Liao, Michael Muller, Mayank Agarwal, Stephanie Houde, Kartik Talamadupula, Justin D. Weisz
 conference: "Arxiv"
 year: 2022
-citations: 135
 bibkey: sun2022investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.04903"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Interpretability and Explainability', 'Interpretability']
+tags: ['Model Architecture', 'Interpretability', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
 ---
 What does it mean for a generative AI model to be explainable? The emergent
 discipline of explainable AI (XAI) has made great strides in helping people

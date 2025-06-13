@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Baichuan 2: Open Large-scale Language Models'
-authors: Yang Aiyuan, Xiao Bin, Wang Bingning, Zhang Borong, Bian Ce, Yin Chao, Lv Chenxu, Pan Da, Wang Dian, Yan Dong, Yang Fan, Deng Fei, Wang Feng, Liu Feng, Ai Guangwei, Dong Guosheng, Zhao Haizhou, Xu Hang, Sun Haoze, Zhang Hongda, Liu Hui, Ji Jiaming, Xie Jian, Dai Juntao, Fang Kun, Su Lei, Song Liang, Liu Lifeng, Ru Liyun, Ma Luyao, Wang Mang, Liu Mickel, Lin Mingan, Nie Nuolan, Guo Peidong, Sun Ruiyang, Zhang Tao, Li Tianpeng, Li Tianyu, Cheng Wei, Chen Weipeng, Zeng Xiangrong, Wang Xiaochuan, Chen Xiaoxi, Men Xin, Yu Xin, Pan Xuehai, Shen Yanjun, Wang Yiding, Li Yiyu, Jiang Youxin, Gao Yuchen, Zhang Yupeng, Zhou Zenan, Wu Zhiying
+authors: Aiyuan Yang, Bin Xiao, Bingning Wang, Borong Zhang, Ce Bian, Chao Yin, Chenxu Lv, Da Pan, Dian Wang, Dong Yan, Fan Yang, Fei Deng, Feng Wang, Feng Liu, Guangwei Ai, Guosheng Dong, Haizhou Zhao, Hang Xu, Haoze Sun, Hongda Zhang, Hui Liu, Jiaming Ji, Jian Xie, Juntao Dai, Kun Fang, Lei Su, Liang Song, Lifeng Liu, Liyun Ru, Luyao Ma, Mang Wang, Mickel Liu, Mingan Lin, Nuolan Nie, Peidong Guo, Ruiyang Sun, Tao Zhang, Tianpeng Li, Tianyu Li, Wei Cheng, Weipeng Chen, Xiangrong Zeng, Xiaochuan Wang, Xiaoxi Chen, Xin Men, Xin Yu, Xuehai Pan, Yanjun Shen, Yiding Wang, Yiyu Li, Youxin Jiang, Yuchen Gao, Yupeng Zhang, Zenan Zhou, Zhiying Wu
 conference: "Arxiv"
 year: 2023
-citations: 87
 bibkey: yang2023baichuan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10305"}
-tags: ['Uncategorized', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training']
 ---
 Large language models (LLMs) have demonstrated remarkable performance on a
 variety of natural language tasks based on just a few examples of natural

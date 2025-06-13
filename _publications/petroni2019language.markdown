@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Language Models As Knowledge Bases?'
-authors: Petroni Fabio, Rocktäschel Tim, Lewis Patrick, Bakhtin Anton, Wu Yuxiang, Miller Alexander H., Riedel Sebastian
+authors: Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel
 conference: "Arxiv"
 year: 2019
-citations: 1616
 bibkey: petroni2019language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.01066"}
   - {name: "Code", url: "https://github.com/facebookresearch/LAMA"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'ACL', 'Pretraining Methods', 'Has Code', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'ACL', 'Applications']
 ---
 Recent progress in pretraining language models on large textual corpora led
 to a surge of improvements for downstream NLP tasks. Whilst learning linguistic

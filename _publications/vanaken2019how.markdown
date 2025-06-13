@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'How Does BERT Answer Questions? A Layer-wise Analysis Of Transformer Representations'
-authors: Van Aken Betty, Winter Benjamin, Löser Alexander, Gers Felix A.
+authors: Betty Van Aken, Benjamin Winter, Alexander Löser, Felix A. Gers
 conference: "Arxiv"
 year: 2019
-citations: 61
 bibkey: vanaken2019how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.04925"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
 ---
 Bidirectional Encoder Representations from Transformers (BERT) reach
 state-of-the-art results in a variety of Natural Language Processing tasks.

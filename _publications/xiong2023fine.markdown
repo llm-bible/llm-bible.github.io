@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Doctorglm: Fine-tuning Your Chinese Doctor Is Not A Herculean Task'
-authors: Xiong Honglin, Wang Sheng, Zhu Yitao, Zhao Zihao, Liu Yuxiao, Huang Linlin, Wang Qian, Shen Dinggang
+authors: Honglin Xiong, Sheng Wang, Yitao Zhu, Zihao Zhao, Yuxiao Liu, Linlin Huang, Qian Wang, Dinggang Shen
 conference: "Arxiv"
 year: 2023
-citations: 56
 bibkey: xiong2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01097"}
   - {name: "Code", url: "https://github.com/xionghonglin/DoctorGLM"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
 ---
 The recent progress of large language models (LLMs), including ChatGPT and
 GPT-4, in comprehending and responding to human instructions has been

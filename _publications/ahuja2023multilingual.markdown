@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'MEGA: Multilingual Evaluation Of Generative AI'
-authors: Ahuja Kabir, Diddee Harshita, Hada Rishav, Ochieng Millicent, Ramesh Krithika, Jain Prachi, Nambi Akshay, Ganu Tanuja, Segal Sameer, Axmed Maxamed, Bali Kalika, Sitaram Sunayana
+authors: Kabir Ahuja, Harshita Diddee, Rishav Hada, Millicent Ochieng, Krithika Ramesh, Prachi Jain, Akshay Nambi, Tanuja Ganu, Sameer Segal, Maxamed Axmed, Kalika Bali, Sunayana Sitaram
 conference: "Arxiv"
 year: 2023
-citations: 51
 bibkey: ahuja2023multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12528"}
-tags: ['GPT', 'Pretraining Methods', 'Model Architecture', 'Tools']
+tags: ['Pretraining Methods', 'Model Architecture', 'GPT', 'Tools']
 ---
 Generative AI models have shown impressive performance on many Natural
 Language Processing tasks such as language understanding, reasoning, and

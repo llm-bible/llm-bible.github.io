@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'SOLOIST: Building Task Bots At Scale With Transfer Learning And Machine Teaching'
-authors: Peng Baolin, Li Chunyuan, Li Jinchao, Shayandeh Shahin, Liden Lars, Gao Jianfeng
+authors: Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao
 conference: "Arxiv"
 year: 2020
-citations: 100
 bibkey: peng2020building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.05298"}
   - {name: "Code", url: "https://aka.ms/soloist"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Has Code', 'Pretraining Methods', 'Transformer', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code']
 ---
 We present a new method SOLOIST that uses transfer learning and machine
 teaching to build task bots at scale. We parameterize classical modular

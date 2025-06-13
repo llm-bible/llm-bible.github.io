@@ -4,11 +4,10 @@ title: 'Prompting GPT-3 To Be Reliable'
 authors: Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-graber, Lijuan Wang
 conference: "Arxiv"
 year: 2022
-citations: 61
 bibkey: si2022prompting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.09150v2"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Few-Shot', 'Prompting', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) show impressive abilities via few-shot
 prompting. Commercialized APIs such as OpenAI GPT-3 further increase their use

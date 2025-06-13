@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'VQGAN-CLIP: Open Domain Image Generation And Editing With Natural Language Guidance'
-authors: Crowson Katherine, Biderman Stella, Kornis Daniel, Stander Dashiell, Hallahan Eric, Castricato Louis, Raff Edward
+authors: Katherine Crowson, Stella Biderman, Daniel Kornis, Dashiell Stander, Eric Hallahan, Louis Castricato, Edward Raff
 conference: "Arxiv"
 year: 2022
-citations: 195
 bibkey: crowson2022vqgan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.08583"}
-tags: ['Prompting', 'Training Techniques', 'Multimodal Models']
+tags: ['Prompting', 'Multimodal Models', 'Training Techniques']
 ---
 Generating and editing images from open domain text prompts is a challenging
 task that heretofore has required expensive and specially trained models. We

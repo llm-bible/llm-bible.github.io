@@ -4,12 +4,11 @@ title: 'How Much Knowledge Can You Pack Into The Parameters Of A Language Model?
 authors: Adam Roberts, Colin Raffel, Noam Shazeer
 conference: "Arxiv"
 year: 2020
-citations: 540
 bibkey: roberts2020how
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2002.08910v4"}
   - {name: "Code", url: "https://goo.gle/t5-cbqa"}
-tags: ['Has Code', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
 ---
 It has recently been observed that neural language models trained on
 unstructured text can implicitly store and retrieve knowledge using natural

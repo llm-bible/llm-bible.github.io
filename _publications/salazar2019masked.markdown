@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Masked Language Model Scoring'
-authors: Salazar Julian, Liang Davis, Nguyen Toan Q., Kirchhoff Katrin
-conference: "Proceedings of the"
+authors: Julian Salazar, Davis Liang, Toan Q. Nguyen, Katrin Kirchhoff
+conference: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (2020) 2699-2712"
 year: 2019
-citations: 324
 bibkey: salazar2019masked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.14659"}
   - {name: "Code", url: "https://github.com/awslabs/mlm-scoring"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Pretraining Methods', 'Ethics and Bias', 'BERT', 'Masked Language Model']
+tags: ['Masked Language Model', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code']
 ---
 Pretrained masked language models (MLMs) require finetuning for most NLP
 tasks. Instead, we evaluate MLMs out of the box via their pseudo-log-likelihood

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Model Compression With Two-stage Multi-teacher Knowledge Distillation For Web Question Answering System'
-authors: Yang Ze, Shou Linjun, Gong Ming, Lin Wutao, Jiang Daxin
+authors: Ze Yang, Linjun Shou, Ming Gong, Wutao Lin, Daxin Jiang
 conference: "Arxiv"
 year: 2019
-citations: 83
 bibkey: yang2019model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.08381"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'GPT', 'Training Techniques', 'Distillation', 'Efficiency and Optimization', 'Pretraining Methods', 'Ethics and Bias', 'Quantization', 'BERT', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Quantization', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 Deep pre-training and fine-tuning models (such as BERT and OpenAI GPT) have
 demonstrated excellent results in question answering areas. However, due to the

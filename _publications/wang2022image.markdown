@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Image As A Foreign Language: Beit Pretraining For All Vision And Vision-language Tasks'
-authors: Wang Wenhui, Bao Hangbo, Dong Li, Bjorck Johan, Peng Zhiliang, Liu Qiang, Aggarwal Kriti, Mohammed Owais Khan, Singhal Saksham, Som Subhojit, Wei Furu
+authors: Wenhui Wang, Hangbo Bao, Li Dong, Johan Bjorck, Zhiliang Peng, Qiang Liu, Kriti Aggarwal, Owais Khan Mohammed, Saksham Singhal, Subhojit Som, Furu Wei
 conference: "Arxiv"
 year: 2022
-citations: 140
 bibkey: wang2022image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.10442"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Scaling Laws', 'Merging', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 A big convergence of language, vision, and multimodal pretraining is
 emerging. In this work, we introduce a general-purpose multimodal foundation

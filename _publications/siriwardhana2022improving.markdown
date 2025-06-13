@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improving The Domain Adaptation Of Retrieval Augmented Generation (RAG) Models For Open Domain Question Answering'
-authors: Siriwardhana Shamane, Weerasekera Rivindu, Wen Elliott, Kaluarachchi Tharindu, Rana Rajib, Nanayakkara Suranga
+authors: Shamane Siriwardhana, Rivindu Weerasekera, Elliott Wen, Tharindu Kaluarachchi, Rajib Rana, Suranga Nanayakkara
 conference: "Arxiv"
 year: 2022
-citations: 93
 bibkey: siriwardhana2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.02627"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
 ---
 Retrieval Augment Generation (RAG) is a recent advancement in Open-Domain
 Question Answering (ODQA). RAG has only been trained and explored with a

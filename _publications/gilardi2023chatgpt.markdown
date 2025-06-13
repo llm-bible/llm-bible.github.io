@@ -4,11 +4,10 @@ title: 'Chatgpt Outperforms Crowd-workers For Text-annotation Tasks'
 authors: Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli
 conference: "Arxiv"
 year: 2023
-citations: 477
 bibkey: gilardi2023chatgpt
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.15056v2"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Uncategorized', 'Efficiency and Optimization', 'Applications']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Applications']
 ---
 Many NLP applications require manual data annotations for a variety of tasks,
 notably to train classifiers or evaluate the performance of unsupervised

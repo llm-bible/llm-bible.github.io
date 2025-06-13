@@ -4,11 +4,10 @@ title: 'BLIP-2: Bootstrapping Language-image Pre-training With Frozen Image Enco
 authors: Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 conference: "Arxiv"
 year: 2023
-citations: 619
 bibkey: li2023blip
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.12597v3"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Language Modeling', 'Merging', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
 ---
 The cost of vision-and-language pre-training has become increasingly
 prohibitive due to end-to-end training of large-scale models. This paper

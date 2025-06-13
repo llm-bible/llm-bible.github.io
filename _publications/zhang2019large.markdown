@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Dialogpt: Large-scale Generative Pre-training For Conversational Response Generation'
-authors: Zhang Yizhe, Sun Siqi, Galley Michel, Chen Yen-chun, Brockett Chris, Gao Xiang, Gao Jianfeng, Liu Jingjing, Dolan Bill
+authors: Yizhe Zhang, Siqi Sun, Michel Galley, Yen-chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, Bill Dolan
 conference: "Arxiv"
 year: 2019
-citations: 988
 bibkey: zhang2019large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.00536"}
-tags: ['Pre-Training', 'Model Architecture', 'GPT', 'Training Techniques', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
 ---
 We present a large, tunable neural conversational response generation model,
 DialoGPT (dialogue generative pre-trained transformer). Trained on 147M

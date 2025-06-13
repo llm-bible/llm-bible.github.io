@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Red Teaming Chatgpt Via Jailbreaking: Bias, Robustness, Reliability And Toxicity'
-authors: Zhuo Terry Yue, Huang Yujin, Chen Chunyang, Xing Zhenchang
+authors: Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing
 conference: "Arxiv"
 year: 2023
-citations: 139
 bibkey: zhuo2023red
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.12867"}
-tags: ['Model Architecture', 'GPT', 'Security', 'Ethics and Bias', 'Applications', 'Responsible AI']
+tags: ['Responsible AI', 'Security', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Applications']
 ---
 Recent breakthroughs in natural language processing (NLP) have permitted the
 synthesis and comprehension of coherent text in an open-ended way, therefore

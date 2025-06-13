@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Interactive Attention For Neural Machine Translation'
-authors: Meng Fandong, Lu Zhengdong, Li Hang, Liu Qun
+authors: Fandong Meng, Zhengdong Lu, Hang Li, Qun Liu
 conference: "Arxiv"
 year: 2016
-citations: 65
 bibkey: meng2016interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1610.05011"}
-tags: ['Model Architecture', 'Attention Mechanism', 'RAG', 'Transformer', 'Applications']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Conventional attention-based Neural Machine Translation (NMT) conducts
 dynamic alignment in generating the target sentence. By repeatedly reading the

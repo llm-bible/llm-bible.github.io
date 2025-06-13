@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Generating Training Data With Language Models: Towards Zero-shot Language Understanding'
-authors: Meng Yu, Huang Jiaxin, Zhang Yu, Han Jiawei
+authors: Yu Meng, Jiaxin Huang, Yu Zhang, Jiawei Han
 conference: "Arxiv"
 year: 2022
-citations: 72
 bibkey: meng2022generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.04538"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Pretraining Methods', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
 ---
 Pretrained language models (PLMs) have demonstrated remarkable performance in
 various natural language processing tasks: Unidirectional PLMs (e.g., GPT) are

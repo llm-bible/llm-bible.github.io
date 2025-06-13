@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Perspectives On Large Language Models For Relevance Judgment'
-authors: Faggioli Guglielmo, Dietz Laura, Clarke Charles, Demartini Gianluca, Hagen Matthias, Hauff Claudia, Kando Noriko, Kanoulas Evangelos, Potthast Martin, Stein Benno, Wachsmuth Henning
+authors: Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth
 conference: "Arxiv"
 year: 2023
-citations: 65
 bibkey: faggioli2023perspectives
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09161"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
 ---
 When asked, large language models (LLMs) like ChatGPT claim that they can
 assist with relevance judgments but it is not clear whether automated judgments

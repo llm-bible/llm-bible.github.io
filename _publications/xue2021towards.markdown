@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Byt5: Towards A Token-free Future With Pre-trained Byte-to-byte Models'
-authors: Xue Linting, Barua Aditya, Constant Noah, Al-rfou Rami, Narang Sharan, Kale Mihir, Roberts Adam, Raffel Colin
+authors: Linting Xue, Aditya Barua, Noah Constant, Rami Al-rfou, Sharan Narang, Mihir Kale, Adam Roberts, Colin Raffel
 conference: "Arxiv"
 year: 2021
-citations: 157
 bibkey: xue2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.13626"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
 ---
 Most widely-used pre-trained language models operate on sequences of tokens
 corresponding to word or subword units. By comparison, token-free models that

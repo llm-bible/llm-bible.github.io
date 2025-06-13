@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Hallucinations In Large Multilingual Translation Models'
-authors: Guerreiro Nuno M., Alves Duarte, Waldendorf Jonas, Haddow Barry, Birch Alexandra, Colombo Pierre, Martins André F. T.
+authors: Nuno M. Guerreiro, Duarte Alves, Jonas Waldendorf, Barry Haddow, Alexandra Birch, Pierre Colombo, André F. T. Martins
 conference: "Arxiv"
 year: 2023
-citations: 55
 bibkey: guerreiro2023hallucinations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.16104"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Applications', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
 ---
 Large-scale multilingual machine translation systems have demonstrated
 remarkable ability to translate directly between numerous languages, making

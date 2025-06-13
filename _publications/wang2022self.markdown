@@ -4,11 +4,10 @@ title: 'Self-consistency Improves Chain Of Thought Reasoning In Language Models'
 authors: Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
 conference: "Arxiv"
 year: 2022
-citations: 459
 bibkey: wang2022self
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2203.11171v4"}
-tags: ['Prompting', 'Uncategorized', 'RAG']
+tags: ['Prompting', 'RAG']
 ---
 Chain-of-thought prompting combined with pre-trained large language models
 has achieved encouraging results on complex reasoning tasks. In this paper, we

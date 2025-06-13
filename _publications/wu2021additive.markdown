@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Fastformer: Additive Attention Can Be All You Need'
-authors: Wu Chuhan, Wu Fangzhao, Qi Tao, Huang Yongfeng, Xie Xing
+authors: Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang, Xing Xie
 conference: "Arxiv"
 year: 2021
-citations: 69
 bibkey: wu2021additive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.09084"}
-tags: ['Attention Mechanism', 'Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
 ---
 Transformer is a powerful model for text understanding. However, it is
 inefficient due to its quadratic complexity to input sequence length. Although

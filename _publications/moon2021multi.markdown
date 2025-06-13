@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Multi-modal Understanding And Generation For Medical Images And Text Via Vision-language Pre-training'
-authors: Moon Jong Hak, Lee Hyungyung, Shin Woncheol, Kim Young-hak, Choi Edward
-conference: "IEEE Journal of Biomedical and Health Informatics"
+authors: Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-hak Kim, Edward Choi
+conference: "IEEE Journal of Biomedical and Health Informatics 2022"
 year: 2021
-citations: 120
 bibkey: moon2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.11333"}
   - {name: "Code", url: "https://github.com/SuperSupermoon/MedViLL"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Has Code', 'Attention Mechanism', 'Applications', 'BERT', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'BERT', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
 ---
 Recently a number of studies demonstrated impressive performance on diverse
 vision-language multi-modal tasks such as image captioning and visual question

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'On NMT Search Errors And Model Errors: Cat Got Your Tongue?'
-authors: Stahlberg Felix, Byrne Bill
+authors: Felix Stahlberg, Bill Byrne
 conference: "Arxiv"
 year: 2019
-citations: 120
 bibkey: stahlberg2019nmt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.10090"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 We report on search errors and model errors in neural machine translation
 (NMT). We present an exact inference procedure for neural sequence models based

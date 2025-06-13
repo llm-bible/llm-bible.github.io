@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Tableformer: Robust Transformer Modeling For Table-text Encoding'
-authors: Yang Jingfeng, Gupta Aditya, Upadhyay Shyam, He Luheng, Goel Rahul, Paul Shachi
+authors: Jingfeng Yang, Aditya Gupta, Shyam Upadhyay, Luheng He, Rahul Goel, Shachi Paul
 conference: "Arxiv"
 year: 2022
-citations: 58
 bibkey: yang2022robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.00274"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Ethics and Bias']
+tags: ['Model Architecture', 'Pretraining Methods', 'Ethics and Bias', 'Transformer', 'Attention Mechanism']
 ---
 Understanding tables is an important aspect of natural language
 understanding. Existing models for table understanding require linearization of

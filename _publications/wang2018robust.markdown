@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Robust Text-to-sql Generation With Execution-guided Decoding'
-authors: Wang Chenglong, Tatwawadi Kedar, Brockschmidt Marc, Huang Po-sen, Mao Yi, Polozov Oleksandr, Singh Rishabh
+authors: Chenglong Wang, Kedar Tatwawadi, Marc Brockschmidt, Po-sen Huang, Yi Mao, Oleksandr Polozov, Rishabh Singh
 conference: "Arxiv"
 year: 2018
-citations: 67
 bibkey: wang2018robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1807.03100"}
-tags: ['GPT', 'Pretraining Methods', 'RAG']
+tags: ['Pretraining Methods', 'RAG', 'GPT']
 ---
 We consider the problem of neural semantic parsing, which translates natural
 language questions into executable SQL queries. We introduce a new mechanism,

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improved Fusion Of Visual And Language Representations By Dense Symmetric Co-attention For Visual Question Answering'
-authors: Nguyen Duy-kien, Okatani Takayuki
+authors: Duy-kien Nguyen, Takayuki Okatani
 conference: "Arxiv"
 year: 2018
-citations: 333
 bibkey: nguyen2018improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.00775"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Transformer', 'Merging', 'Applications']
+tags: ['Model Architecture', 'Merging', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 A key solution to visual question answering (VQA) exists in how to fuse
 visual and language features extracted from an input image and question. We

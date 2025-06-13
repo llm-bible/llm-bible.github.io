@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'End-to-end Synthetic Data Generation For Domain Adaptation Of Question Answering Systems'
-authors: Shakeri Siamak, Santos Cicero Nogueira Dos, Zhu Henry, Ng Patrick, Nan Feng, Wang Zhiguo, Nallapati Ramesh, Xiang Bing
+authors: Siamak Shakeri, Cicero Nogueira Dos Santos, Henry Zhu, Patrick Ng, Feng Nan, Zhiguo Wang, Ramesh Nallapati, Bing Xiang
 conference: "Arxiv"
 year: 2020
-citations: 54
 bibkey: shakeri2020end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.06028"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
 ---
 We propose an end-to-end approach for synthetic QA data generation. Our model
 comprises a single transformer-based encoder-decoder network that is trained

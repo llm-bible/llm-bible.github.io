@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Biomistral: A Collection Of Open-source Pretrained Large Language Models For Medical Domains'
-authors: Labrak Yanis, Bazoge Adrien, Morin Emmanuel, Gourraud Pierre-antoine, Rouvier Mickael, Dufour Richard
-conference: "Proceedings of the"
+authors: Yanis Labrak, Adrien Bazoge, Emmanuel Morin, Pierre-antoine Gourraud, Mickael Rouvier, Richard Dufour
+conference: "Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics - Volume 1 Long Papers (ACL 2024)"
 year: 2024
-citations: 57
 bibkey: labrak2024collection
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10373"}
-tags: ['Applications', 'Quantization', 'Efficiency and Optimization', 'Merging']
+tags: ['Quantization', 'Efficiency and Optimization', 'Merging', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated remarkable versatility in
 recent years, offering potential applications across specialized domains such

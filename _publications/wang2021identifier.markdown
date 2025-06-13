@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Codet5: Identifier-aware Unified Pre-trained Encoder-decoder Models For Code Understanding And Generation'
-authors: Wang Yue, Wang Weishi, Joty Shafiq, Hoi Steven C. H.
+authors: Yue Wang, Weishi Wang, Shafiq Joty, Steven C. H. Hoi
 conference: "Arxiv"
 year: 2021
-citations: 682
 bibkey: wang2021identifier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.00859"}
-tags: ['Pre-Training', 'Model Architecture', 'GPT', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
 ---
 Pre-trained models for Natural Languages (NL) like BERT and GPT have been
 recently shown to transfer well to Programming Languages (PL) and largely

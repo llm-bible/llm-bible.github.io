@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'POINTER: Constrained Progressive Text Generation Via Insertion-based Generative Pre-training'
-authors: Zhang Yizhe, Wang Guoyin, Li Chunyuan, Gan Zhe, Brockett Chris, Dolan Bill
+authors: Yizhe Zhang, Guoyin Wang, Chunyuan Li, Zhe Gan, Chris Brockett, Bill Dolan
 conference: "Arxiv"
 year: 2020
-citations: 65
 bibkey: zhang2020constrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00558"}
   - {name: "Code", url: "https://github.com/dreasysnail/POINTER)"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
 ---
 Large-scale pre-trained language models, such as BERT and GPT-2, have
 achieved excellent performance in language representation learning and

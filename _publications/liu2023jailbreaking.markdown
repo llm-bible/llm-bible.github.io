@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Jailbreaking Chatgpt Via Prompt Engineering: An Empirical Study'
-authors: Liu Yi, Deng Gelei, Xu Zhengzi, Li Yuekang, Zheng Yaowen, Zhang Ying, Zhao Lida, Zhang Tianwei, Wang Kailong, Liu Yang
+authors: Yi Liu, Gelei Deng, Zhengzi Xu, Yuekang Li, Yaowen Zheng, Ying Zhang, Lida Zhao, Tianwei Zhang, Kailong Wang, Yang Liu
 conference: "Arxiv"
 year: 2023
-citations: 66
 bibkey: liu2023jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13860"}
-tags: ['GPT', 'Prompting', 'Model Architecture']
+tags: ['Prompting', 'Model Architecture', 'GPT']
 ---
 Large Language Models (LLMs), like ChatGPT, have demonstrated vast potential
 but also introduce challenges related to content constraints and potential

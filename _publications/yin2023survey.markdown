@@ -4,12 +4,11 @@ title: 'A Survey On Multimodal Large Language Models'
 authors: Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen
 conference: "Arxiv"
 year: 2023
-citations: 102
 bibkey: yin2023survey
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.13549v2"}
   - {name: "Code", url: "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Has Code']
 ---
 Recently, Multimodal Large Language Model (MLLM) represented by GPT-4V has
 been a new rising research hotspot, which uses powerful Large Language Models

@@ -4,12 +4,11 @@ title: 'Multimodal Chain-of-thought Reasoning In Language Models'
 authors: Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola
 conference: "Arxiv"
 year: 2023
-citations: 65
 bibkey: zhang2023multimodal
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.00923v5"}
   - {name: "Code", url: "https://github.com/amazon-science/mm-cot"}
-tags: ['Tools', 'Prompting', 'Has Code', 'RAG', 'Multimodal Models']
+tags: ['Multimodal Models', 'Tools', 'RAG', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have shown impressive performance on complex
 reasoning by leveraging chain-of-thought (CoT) prompting to generate

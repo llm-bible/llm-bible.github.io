@@ -4,11 +4,10 @@ title: 'Reflexion: Language Agents With Verbal Reinforcement Learning'
 authors: Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao
 conference: "Arxiv"
 year: 2023
-citations: 146
 bibkey: shinn2023language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.11366v4"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Pretraining Methods', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
 ---
 Large language models (LLMs) have been increasingly used to interact with
 external environments (e.g., games, compilers, APIs) as goal-driven agents.

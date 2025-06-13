@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Taskmaster-1: Toward A Realistic And Diverse Dialog Dataset'
-authors: Byrne Bill, Krishnamoorthi Karthik, Sankar Chinnadhurai, Neelakantan Arvind, Duckworth Daniel, Yavuz Semih, Goodrich Ben, Dubey Amit, Cedilnik Andy, Kim Kyu-young
+authors: Bill Byrne, Karthik Krishnamoorthi, Chinnadhurai Sankar, Arvind Neelakantan, Daniel Duckworth, Semih Yavuz, Ben Goodrich, Amit Dubey, Andy Cedilnik, Kyu-young Kim
 conference: "Arxiv"
 year: 2019
-citations: 143
 bibkey: byrne2019taskmaster
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.05358"}
-tags: ['Uncategorized', 'Agentic', 'Model Architecture', 'Tools']
+tags: ['Agentic', 'Model Architecture', 'Tools']
 ---
 A significant barrier to progress in data-driven approaches to building
 dialog systems is the lack of high quality, goal-oriented conversational data.

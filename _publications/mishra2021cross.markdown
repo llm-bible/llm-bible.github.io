@@ -4,11 +4,10 @@ title: 'Cross-task Generalization Via Natural Language Crowdsourcing Instruction
 authors: Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi
 conference: "Arxiv"
 year: 2021
-citations: 196
 bibkey: mishra2021cross
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2104.08773v4"}
-tags: ['Uncategorized', 'Training Techniques']
+tags: ['Training Techniques']
 ---
 Humans (e.g., crowdworkers) have a remarkable ability in solving different
 tasks, by simply reading textual instructions that define them and looking at a

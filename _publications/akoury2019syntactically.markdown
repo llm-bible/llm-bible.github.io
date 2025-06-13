@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Syntactically Supervised Transformers For Faster Neural Machine Translation'
-authors: Akoury Nader, Krishna Kalpesh, Iyyer Mohit
-conference: "Association for Computational Linguistics"
+authors: Nader Akoury, Kalpesh Krishna, Mohit Iyyer
+conference: "Association for Computational Linguistics (2019) 1269-1281"
 year: 2019
-citations: 53
 bibkey: akoury2019syntactically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.02780"}

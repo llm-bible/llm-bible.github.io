@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'GPT-3.5, GPT-4, Or BARD? Evaluating Llms Reasoning Ability In Zero-shot Setting And Performance Boosting Through Prompts'
-authors: Espejel Jessica López, Ettifouri El Hassane, Alassan Mahaman Sanoussi Yahaya, Chouham El Mehdi, Dahhane Walid
+authors: Jessica López Espejel, El Hassane Ettifouri, Mahaman Sanoussi Yahaya Alassan, El Mehdi Chouham, Walid Dahhane
 conference: "Arxiv"
 year: 2023
-citations: 63
 bibkey: espejel2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12477"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'Efficiency and Optimization']
+tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'GPT']
 ---
 Large Language Models (LLMs) have exhibited remarkable performance on various
 Natural Language Processing (NLP) tasks. However, there is a current hot debate

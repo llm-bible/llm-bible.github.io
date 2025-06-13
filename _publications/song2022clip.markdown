@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'CLIP Models Are Few-shot Learners: Empirical Studies On VQA And Visual Entailment'
-authors: Song Haoyu, Dong Li, Zhang Wei-nan, Liu Ting, Wei Furu
+authors: Haoyu Song, Li Dong, Wei-nan Zhang, Ting Liu, Furu Wei
 conference: "Arxiv"
 year: 2022
-citations: 68
 bibkey: song2022clip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07190"}
-tags: ['Fine-Tuning', 'Pre-Training', 'Training Techniques', 'Few-Shot', 'Pretraining Methods', 'RAG', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 CLIP has shown a remarkable zero-shot capability on a wide range of vision
 tasks. Previously, CLIP is only regarded as a powerful visual encoder. However,

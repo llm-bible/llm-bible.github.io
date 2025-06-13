@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Causal Attention For Vision-language Tasks'
-authors: Yang Xu, Zhang Hanwang, Qi Guojun, Cai Jianfei
+authors: Xu Yang, Hanwang Zhang, Guojun Qi, Jianfei Cai
 conference: "Arxiv"
 year: 2021
-citations: 105
 bibkey: yang2021causal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.03493"}
   - {name: "Code", url: "https://github.com/yangxuntu/catt"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Ethics and Bias', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
 ---
 We present a novel attention mechanism: Causal Attention (CATT), to remove
 the ever-elusive confounding effect in existing attention-based vision-language

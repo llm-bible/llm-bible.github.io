@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Learn To Explain: Multimodal Reasoning Via Thought Chains For Science Question Answering'
-authors: Lu Pan, Mishra Swaroop, Xia Tony, Qiu Liang, Chang Kai-wei, Zhu Song-chun, Tafjord Oyvind, Clark Peter, Kalyan Ashwin
+authors: Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-wei Chang, Song-chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan
 conference: "Arxiv"
 year: 2022
-citations: 106
 bibkey: lu2022learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.09513"}
   - {name: "Code", url: "https://scienceqa.github.io"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot', 'Has Code', 'RAG', 'Applications', 'Interpretability and Explainability', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Has Code', 'Interpretability and Explainability', 'Applications']
 ---
 When answering a question, humans utilize the information available across
 different modalities to synthesize a consistent and complete chain of thought

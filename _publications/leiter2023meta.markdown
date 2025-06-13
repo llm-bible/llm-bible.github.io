@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt: A Meta-analysis After 2.5 Months'
-authors: Leiter Christoph, Zhang Ran, Chen Yanran, Belouadi Jonas, Larionov Daniil, Fresen Vivian, Eger Steffen
+authors: Christoph Leiter, Ran Zhang, Yanran Chen, Jonas Belouadi, Daniil Larionov, Vivian Fresen, Steffen Eger
 conference: "Arxiv"
 year: 2023
-citations: 80
 bibkey: leiter2023meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.13795"}
-tags: ['Survey Paper', 'Model Architecture', 'Tools', 'GPT', 'Attention Mechanism', 'Ethics and Bias', 'Reinforcement Learning', 'Responsible AI']
+tags: ['Responsible AI', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Attention Mechanism']
 ---
 ChatGPT, a chatbot developed by OpenAI, has gained widespread popularity and
 media attention since its release in November 2022. However, little hard

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Understanding The Difficulty Of Training Transformers'
-authors: Liu Liyuan, Liu Xiaodong, Gao Jianfeng, Chen Weizhu, Han Jiawei
+authors: Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen, Jiawei Han
 conference: "Arxiv"
 year: 2020
-citations: 136
 bibkey: liu2020understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.08249"}
   - {name: "Code", url: "https://github.com/LiyuanLucasLiu/Transforemr-Clinic"}
-tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Transformer', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
 ---
 Transformers have proved effective in many NLP tasks. However, their training
 requires non-trivial efforts regarding designing cutting-edge optimizers and

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Thinking About GPT-3 In-context Learning For Biomedical IE? Think Again'
-authors: Gutiérrez Bernal Jiménez, Mcneal Nikolas, Washington Clay, Chen You, Li Lang, Sun Huan, Su Yu
+authors: Bernal Jiménez Gutiérrez, Nikolas Mcneal, Clay Washington, You Chen, Lang Li, Huan Sun, Yu Su
 conference: "Arxiv"
 year: 2022
-citations: 77
 bibkey: gutiérrez2022thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08410"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Pretraining Methods', 'BERT', 'In-Context Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 The strong few-shot in-context learning capability of large pre-trained
 language models (PLMs) such as GPT-3 is highly appealing for application

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Text Generation With Exemplar-based Adaptive Decoding'
-authors: Peng Hao, Parikh Ankur P., Faruqui Manaal, Dhingra Bhuwan, Das Dipanjan
+authors: Hao Peng, Ankur P. Parikh, Manaal Faruqui, Bhuwan Dhingra, Dipanjan Das
 conference: "Arxiv"
 year: 2019
-citations: 54
 bibkey: peng2019text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.04428"}
-tags: ['Applications', 'Training Techniques', 'Language Modeling']
+tags: ['Language Modeling', 'Training Techniques', 'Applications']
 ---
 We propose a novel conditioned text generation model. It draws inspiration
 from traditional template-based text generation techniques, where the source

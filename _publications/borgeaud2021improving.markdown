@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improving Language Models By Retrieving From Trillions Of Tokens'
-authors: Borgeaud Sebastian, Mensch Arthur, Hoffmann Jordan, Cai Trevor, Rutherford Eliza, Millican Katie, Driessche George Van Den, Lespiau Jean-baptiste, Damoc Bogdan, Clark Aidan, Casas Diego De Las, Guy Aurelia, Menick Jacob, Ring Roman, Hennigan Tom, Huang Saffron, Maggiore Loren, Jones Chris, Cassirer Albin, Brock Andy, Paganini Michela, Irving Geoffrey, Vinyals Oriol, Osindero Simon, Simonyan Karen, Rae Jack W., Elsen Erich, Sifre Laurent
+authors: Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Van Den Driessche, Jean-baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre
 conference: "Arxiv"
 year: 2021
-citations: 180
 bibkey: borgeaud2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.04426"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
 ---
 We enhance auto-regressive language models by conditioning on document chunks
 retrieved from a large corpus, based on local similarity with preceding tokens.

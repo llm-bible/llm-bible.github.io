@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Charbert: Character-aware Pre-trained Language Model'
-authors: Ma Wentao, Cui Yiming, Si Chenglei, Liu Ting, Wang Shijin, Hu Guoping
+authors: Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu
 conference: "Arxiv"
 year: 2020
-citations: 75
 bibkey: ma2020character
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.01513"}
   - {name: "Code", url: "https://github.com/wtma/CharBERT"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Security', 'Has Code', 'RAG', 'Applications', 'BERT']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Has Code', 'Pre-Training', 'Applications']
 ---
 Most pre-trained language models (PLMs) construct word representations at
 subword level with Byte-Pair Encoding (BPE) or its variations, by which OOV

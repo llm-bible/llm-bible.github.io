@@ -4,11 +4,10 @@ title: 'Probing Pretrained Language Models For Lexical Semantics'
 authors: Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, Anna Korhonen
 conference: "Arxiv"
 year: 2020
-citations: 173
 bibkey: vulić2020probing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2010.05731v1"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'RAG', 'Merging', 'BERT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'BERT', 'Transformer']
 ---
 The success of large pretrained language models (LMs) such as BERT and
 RoBERTa has sparked interest in probing their representations, in order to

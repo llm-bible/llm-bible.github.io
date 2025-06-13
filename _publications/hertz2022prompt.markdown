@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Prompt-to-prompt Image Editing With Cross Attention Control'
-authors: Hertz Amir, Mokady Ron, Tenenbaum Jay, Aberman Kfir, Pritch Yael, Cohen-or Daniel
+authors: Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-or
 conference: "Arxiv"
 year: 2022
-citations: 307
 bibkey: hertz2022prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.01626"}
-tags: ['Model Architecture', 'Tools', 'Prompting', 'Uncategorized', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'Attention Mechanism']
 ---
 Recent large-scale text-driven synthesis models have attracted much attention
 thanks to their remarkable capabilities of generating highly diverse images

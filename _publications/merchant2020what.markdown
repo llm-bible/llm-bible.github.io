@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'What Happens To BERT Embeddings During Fine-tuning?'
-authors: Merchant Amil, Rahimtoroghi Elahe, Pavlick Ellie, Tenney Ian
+authors: Amil Merchant, Elahe Rahimtoroghi, Ellie Pavlick, Ian Tenney
 conference: "Arxiv"
 year: 2020
-citations: 124
 bibkey: merchant2020what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14448"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
 ---
 While there has been much recent work studying how linguistic information is
 encoded in pre-trained sentence representations, comparatively little is

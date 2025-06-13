@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Unified Query-based Generative Model For Question Generation And Question Answering'
-authors: Song Linfeng, Wang Zhiguo, Hamza Wael
+authors: Linfeng Song, Zhiguo Wang, Wael Hamza
 conference: "Arxiv"
 year: 2017
-citations: 56
 bibkey: song2017unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1709.01058"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Attention Mechanism', 'RAG', 'Ethics and Bias', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
 ---
 We propose a query-based generative model for solving both tasks of question
 generation (QG) and question an- swering (QA). The model follows the classic

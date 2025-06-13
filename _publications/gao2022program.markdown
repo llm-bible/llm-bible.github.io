@@ -4,12 +4,11 @@ title: 'PAL: Program-aided Language Models'
 authors: Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
 conference: "Arxiv"
 year: 2022
-citations: 92
 bibkey: gao2022program
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2211.10435v2"}
   - {name: "Code", url: "http://reasonwithpal.com/"}
-tags: ['Prompting', 'Few-Shot', 'Has Code', 'In-Context Learning']
+tags: ['Prompting', 'Has Code', 'In-Context Learning', 'Few-Shot']
 ---
 Large language models (LLMs) have recently demonstrated an impressive ability
 to perform arithmetic and symbolic reasoning tasks, when provided with a few

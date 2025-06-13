@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Prover: Proof Generation For Interpretable Reasoning Over Rules'
-authors: Saha Swarnadeep, Ghosh Sayan, Srivastava Shashank, Bansal Mohit
+authors: Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava, Mohit Bansal
 conference: "Arxiv"
 year: 2020
-citations: 51
 bibkey: saha2020proof
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.02830"}
   - {name: "Code", url: "https://github.com/swarnaHub/PRover"}
-tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Transformer']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code']
 ---
 Recent work by Clark et al. (2020) shows that transformers can act as 'soft
 theorem provers' by answering questions over explicitly provided knowledge in

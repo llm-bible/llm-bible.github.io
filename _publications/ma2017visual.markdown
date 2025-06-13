@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Visual Question Answering With Memory-augmented Networks'
-authors: Ma Chao, Shen Chunhua, Dick Anthony, Wu Qi, Wang Peng, Hengel Anton Van Den, Reid Ian
+authors: Chao Ma, Chunhua Shen, Anthony Dick, Qi Wu, Peng Wang, Anton Van Den Hengel, Ian Reid
 conference: "Arxiv"
 year: 2017
-citations: 106
 bibkey: ma2017visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1707.04968"}
-tags: ['Applications', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
 ---
 In this paper, we exploit a memory-augmented neural network to predict
 accurate answers to visual questions, even when those answers occur rarely in

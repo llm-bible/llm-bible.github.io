@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Inner Monologue: Embodied Reasoning Through Planning With Language Models'
-authors: Huang Wenlong, Xia Fei, Xiao Ted, Chan Harris, Liang Jacky, Florence Pete, Zeng Andy, Tompson Jonathan, Mordatch Igor, Chebotar Yevgen, Sermanet Pierre, Brown Noah, Jackson Tomas, Luu Linda, Levine Sergey, Hausman Karol, Ichter Brian
+authors: Wenlong Huang, Fei Xia, Ted Xiao, Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter
 conference: "Arxiv"
 year: 2022
-citations: 149
 bibkey: huang2022inner
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.05608"}
-tags: ['Training Techniques', 'Uncategorized', 'RAG', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
 ---
 Recent works have shown how the reasoning capabilities of Large Language
 Models (LLMs) can be applied to domains beyond natural language processing,

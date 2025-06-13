@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Dexperts: Decoding-time Controlled Text Generation With Experts And Anti-experts'
-authors: Liu Alisa, Sap Maarten, Lu Ximing, Swayamdipta Swabha, Bhagavatula Chandra, Smith Noah A., Choi Yejin
+authors: Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi
 conference: "Arxiv"
 year: 2021
-citations: 115
 bibkey: liu2021decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.03023"}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Language Modeling']
+tags: ['Language Modeling', 'Model Architecture', 'Applications', 'GPT']
 ---
 Despite recent advances in natural language generation, it remains
 challenging to control attributes of generated text. We propose DExperts:

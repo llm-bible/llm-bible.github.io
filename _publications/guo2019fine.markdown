@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Fine-tuning By Curriculum Learning For Non-autoregressive Neural Machine Translation'
-authors: Guo Junliang, Tan Xu, Xu Linli, Qin Tao, Chen Enhong, Liu Tie-yan
+authors: Junliang Guo, Xu Tan, Linli Xu, Tao Qin, Enhong Chen, Tie-yan Liu
 conference: "Arxiv"
 year: 2019
-citations: 68
 bibkey: guo2019fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.08717"}
-tags: ['Fine-Tuning', 'Training Techniques', 'GPT', 'Efficiency and Optimization', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 Non-autoregressive translation (NAT) models remove the dependence on previous
 target tokens and generate all target tokens in parallel, resulting in

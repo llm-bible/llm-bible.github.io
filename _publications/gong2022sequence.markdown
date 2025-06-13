@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Diffuseq: Sequence To Sequence Text Generation With Diffusion Models'
-authors: Gong Shansan, Li Mukai, Feng Jiangtao, Wu Zhiyong, Kong Lingpeng
+authors: Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong
 conference: "Arxiv"
 year: 2022
-citations: 71
 bibkey: gong2022sequence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08933"}
   - {name: "Code", url: "https://github.com/Shark-NLP/DiffuSeq"}
-tags: ['GPT', 'Has Code', 'Pretraining Methods', 'Merging', 'Applications', 'Reinforcement Learning', 'Language Modeling']
+tags: ['Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Has Code', 'Applications']
 ---
 Recently, diffusion models have emerged as a new paradigm for generative
 models. Despite the success in domains using continuous signals such as vision

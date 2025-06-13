@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Answering Complex Open-domain Questions Through Iterative Query Generation'
-authors: Qi Peng, Lin Xiaowen, Mehr Leo, Wang Zijian, Manning Christopher D.
+authors: Peng Qi, Xiaowen Lin, Leo Mehr, Zijian Wang, Christopher D. Manning
 conference: "Arxiv"
 year: 2019
-citations: 102
 bibkey: qi2019answering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.07000"}
-tags: ['Model Architecture', 'RAG', 'Applications', 'BERT', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'BERT', 'Interpretability and Explainability', 'Applications']
 ---
 It is challenging for current one-step retrieve-and-read question answering
 (QA) systems to answer questions like "Which novel by the author of 'Armada'

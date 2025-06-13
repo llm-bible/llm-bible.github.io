@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'ALBERT: A Lite BERT For Self-supervised Learning Of Language Representations'
-authors: Lan Zhenzhong, Chen Mingda, Goodman Sebastian, Gimpel Kevin, Sharma Piyush, Soricut Radu
+authors: Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut
 conference: "Arxiv"
 year: 2019
-citations: 4189
 bibkey: lan2019lite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.11942"}
   - {name: "Code", url: "https://github.com/google-research/ALBERT"}
-tags: ['Training Techniques', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Has Code']
 ---
 Increasing model size when pretraining natural language representations often
 results in improved performance on downstream tasks. However, at some point

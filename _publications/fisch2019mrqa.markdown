@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'MRQA 2019 Shared Task: Evaluating Generalization In Reading Comprehension'
-authors: Fisch Adam, Talmor Alon, Jia Robin, Seo Minjoon, Choi Eunsol, Chen Danqi
+authors: Adam Fisch, Alon Talmor, Robin Jia, Minjoon Seo, Eunsol Choi, Danqi Chen
 conference: "Arxiv"
 year: 2019
-citations: 242
 bibkey: fisch2019mrqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.09753"}
-tags: ['Training Techniques', 'Model Architecture', 'Security', 'RAG', 'Applications', 'BERT']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Applications']
 ---
 We present the results of the Machine Reading for Question Answering (MRQA)
 2019 shared task on evaluating the generalization capabilities of reading

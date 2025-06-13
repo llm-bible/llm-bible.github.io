@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Neural Data-to-text Generation: A Comparison Between Pipeline And End-to-end Architectures'
-authors: Ferreira Thiago Castro, Van Der Lee Chris, Van Miltenburg Emiel, Krahmer Emiel
+authors: Thiago Castro Ferreira, Chris Van Der Lee, Emiel Van Miltenburg, Emiel Krahmer
 conference: "Arxiv"
 year: 2019
-citations: 100
 bibkey: ferreira2019neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.09022"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Traditionally, most data-to-text applications have been designed using a
 modular pipeline architecture, in which non-linguistic input data is converted

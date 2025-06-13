@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Exploring The Responses Of Large Language Models To Beginner Programmers'' Help Requests'
-authors: Hellas Arto, Leinonen Juho, Sarsa Sami, Koutcheme Charles, Kujanpää Lilja, Sorva Juha
+authors: Arto Hellas, Juho Leinonen, Sami Sarsa, Charles Koutcheme, Lilja Kujanpää, Juha Sorva
 conference: "Arxiv"
 year: 2023
-citations: 75
 bibkey: hellas2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05715"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'Reinforcement Learning']
+tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
 ---
 Background and Context: Over the past year, large language models (LLMs) have
 taken the world by storm. In computing education, like in other walks of life,

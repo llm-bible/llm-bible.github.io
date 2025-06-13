@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Training Tips For The Transformer Model'
-authors: Popel Martin, Bojar Ondřej
-conference: "The Prague Bulletin of Mathematical Linguistics"
+authors: Martin Popel, Ondřej Bojar
+conference: "The Prague Bulletin of Mathematical Linguistics 110 April 2018 pp. 43-70"
 year: 2018
-citations: 205
 bibkey: popel2018training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.00247"}
-tags: ['Model Architecture', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 This article describes our experiments in neural machine translation using
 the recent Tensor2Tensor framework and the Transformer sequence-to-sequence

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Train Large, Then Compress: Rethinking Model Size For Efficient Training And Inference Of Transformers'
-authors: Li Zhuohan, Wallace Eric, Shen Sheng, Lin Kevin, Keutzer Kurt, Klein Dan, Gonzalez Joseph E.
+authors: Zhuohan Li, Eric Wallace, Sheng Shen, Kevin Lin, Kurt Keutzer, Dan Klein, Joseph E. Gonzalez
 conference: "Arxiv"
 year: 2020
-citations: 54
 bibkey: li2020train
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.11794"}
-tags: ['Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'Pruning', 'Transformer', 'Pretraining Methods', 'Applications', 'Quantization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Since hardware resources are limited, the objective of training deep learning
 models is typically to maximize accuracy subject to the time and memory

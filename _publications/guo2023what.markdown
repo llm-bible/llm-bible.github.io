@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'What Can Large Language Models Do In Chemistry? A Comprehensive Benchmark On Eight Tasks'
-authors: Guo Taicheng, Guo Kehan, Nan Bozhao, Liang Zhenwen, Guo Zhichun, Chawla Nitesh V., Wiest Olaf, Zhang Xiangliang
+authors: Taicheng Guo, Kehan Guo, Bozhao Nan, Zhenwen Liang, Zhichun Guo, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
 conference: "Arxiv"
 year: 2023
-citations: 60
 bibkey: guo2023what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18365"}
   - {name: "Code", url: "https://github.com/ChemFoundationModels/ChemLLMBench"}
-tags: ['Fine-Tuning', 'Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Has Code', 'In-Context Learning']
+tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) with strong abilities in natural language
 processing tasks have emerged and have been applied in various kinds of areas

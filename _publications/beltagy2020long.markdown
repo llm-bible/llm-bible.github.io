@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Longformer: The Long-document Transformer'
-authors: Beltagy Iz, Peters Matthew E., Cohan Arman
+authors: Iz Beltagy, Matthew E. Peters, Arman Cohan
 conference: "Arxiv"
 year: 2020
-citations: 2149
 bibkey: beltagy2020long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.05150"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Language Modeling', 'Applications', 'BERT', 'Reinforcement Learning', 'Arxiv']
+tags: ['Arxiv', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Transformer-based models are unable to process long sequences due to their
 self-attention operation, which scales quadratically with the sequence length.

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Llm-planner: Few-shot Grounded Planning For Embodied Agents With Large Language Models'
-authors: Song Chan Hee, Wu Jiaman, Washington Clayton, Sadler Brian M., Chao Wei-lun, Su Yu
+authors: Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-lun Chao, Yu Su
 conference: "Arxiv"
 year: 2022
-citations: 136
 bibkey: song2022llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.04088"}
-tags: ['Training Techniques', 'Uncategorized', 'Few-Shot', 'Efficiency and Optimization', 'Agentic']
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Few-Shot']
 ---
 This study focuses on using large language models (LLMs) as a planner for
 embodied agents that can follow natural language instructions to complete

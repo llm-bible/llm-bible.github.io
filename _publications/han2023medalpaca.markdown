@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Medalpaca -- An Open-source Collection Of Medical Conversational AI Models And Training Data'
-authors: Han Tianyu, Adams Lisa C., Papaioannou Jens-michalis, Grundmann Paul, Oberhauser Tom, Löser Alexander, Truhn Daniel, Bressem Keno K.
+authors: Tianyu Han, Lisa C. Adams, Jens-michalis Papaioannou, Paul Grundmann, Tom Oberhauser, Alexei Figueroa, Alexander Löser, Daniel Truhn, Keno K. Bressem
 conference: "Arxiv"
 year: 2023
-citations: 66
 bibkey: han2023medalpaca
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08247"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 As large language models (LLMs) like OpenAI's GPT series continue to make
 strides, we witness the emergence of artificial intelligence applications in an

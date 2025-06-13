@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Pretrained Transformers Improve Out-of-distribution Robustness'
-authors: Hendrycks Dan, Liu Xiaoyuan, Wallace Eric, Dziedzic Adam, Krishnan Rishabh, Song Dawn
+authors: Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song
 conference: "Arxiv"
 year: 2020
-citations: 275
 bibkey: hendrycks2020pretrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.06100"}
-tags: ['Training Techniques', 'Model Architecture', 'Distillation', 'Security', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'BERT']
+tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer']
 ---
 Although pretrained Transformers such as BERT achieve high accuracy on
 in-distribution examples, do they generalize to new distributions? We

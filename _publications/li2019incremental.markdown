@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Incremental Transformer With Deliberation Decoder For Document Grounded Conversations'
-authors: Li Zekang, Niu Cheng, Meng Fandong, Feng Yang, Li Qian, Zhou Jie
+authors: Zekang Li, Cheng Niu, Fandong Meng, Yang Feng, Qian Li, Jie Zhou
 conference: "Arxiv"
 year: 2019
-citations: 105
 bibkey: li2019incremental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.08854"}
-tags: ['Pretraining Methods', 'Transformer', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
 ---
 Document Grounded Conversations is a task to generate dialogue responses when
 chatting about the content of a given document. Obviously, document knowledge

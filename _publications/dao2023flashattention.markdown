@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Flashattention-2: Faster Attention With Better Parallelism And Work Partitioning'
-authors: Dao Tri
+authors: Tri Dao
 conference: "Arxiv"
 year: 2023
-citations: 82
 bibkey: dao2023flashattention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08691"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Scaling Transformers to longer sequence lengths has been a major problem in
 the last several years, promising to improve performance in language modeling

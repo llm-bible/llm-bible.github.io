@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Using Cognitive Psychology To Understand GPT-3'
-authors: Binz Marcel, Schulz Eric
+authors: Marcel Binz, Eric Schulz
 conference: "Arxiv"
 year: 2022
-citations: 255
 bibkey: binz2022using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.14576"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Tools', 'GPT', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
 ---
 We study GPT-3, a recent large language model, using tools from cognitive
 psychology. More specifically, we assess GPT-3's decision-making, information

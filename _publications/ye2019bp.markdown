@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Bp-transformer: Modelling Long-range Context Via Binary Partitioning'
-authors: Ye Zihao, Guo Qipeng, Gan Quan, Qiu Xipeng, Zhang Zheng
+authors: Zihao Ye, Qipeng Guo, Quan Gan, Xipeng Qiu, Zheng Zhang
 conference: "Arxiv"
 year: 2019
-citations: 60
 bibkey: ye2019bp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.04070"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 The Transformer model is widely successful on many natural language
 processing tasks. However, the quadratic complexity of self-attention limit its

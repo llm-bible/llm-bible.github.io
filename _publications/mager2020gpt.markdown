@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Gpt-too: A Language-model-first Approach For Amr-to-text Generation'
-authors: Mager Manuel, Astudillo Ramon Fernandez, Naseem Tahira, Sultan Md Arafat, Lee Young-suk, Florian Radu, Roukos Salim
+authors: Manuel Mager, Ramon Fernandez Astudillo, Tahira Naseem, Md Arafat Sultan, Young-suk Lee, Radu Florian, Salim Roukos
 conference: "Arxiv"
 year: 2020
-citations: 80
 bibkey: mager2020gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.09123"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Meaning Representations (AMRs) are broad-coverage sentence-level semantic
 graphs. Existing approaches to generating text from AMR have focused on

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Graphologue: Exploring Large Language Model Responses With Interactive Diagrams'
-authors: Jiang Peiling, Rayan Jude, Dow Steven P., Xia Haijun
+authors: Peiling Jiang, Jude Rayan, Steven P. Dow, Haijun Xia
 conference: "Arxiv"
 year: 2023
-citations: 54
 bibkey: jiang2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11473"}
-tags: ['Fine-Tuning', 'Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
 ---
 Large language models (LLMs) have recently soared in popularity due to their
 ease of access and the unprecedented ability to synthesize text responses to

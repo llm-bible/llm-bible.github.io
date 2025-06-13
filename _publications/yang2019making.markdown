@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Making History Matter: History-advantage Sequence Training For Visual Dialog'
-authors: Yang Tianhao, Zha Zheng-jun, Zhang Hanwang
+authors: Tianhao Yang, Zheng-jun Zha, Hanwang Zhang
 conference: "Arxiv"
 year: 2019
-citations: 63
 bibkey: yang2019making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.09326"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'Ethics and Bias', 'Agentic', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Attention Mechanism']
 ---
 We study the multi-round response generation in visual dialog, where a
 response is generated according to a visually grounded conversational history.

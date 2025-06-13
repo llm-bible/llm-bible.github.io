@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Llm-adapters: An Adapter Family For Parameter-efficient Fine-tuning Of Large Language Models'
-authors: Hu Zhiqiang, Wang Lei, Lan Yihuai, Xu Wanyu, Lim Ee-peng, Bing Lidong, Xu Xing, Poria Soujanya, Lee Roy Ka-wei
+authors: Zhiqiang Hu, Lei Wang, Yihuai Lan, Wanyu Xu, Ee-peng Lim, Lidong Bing, Xing Xu, Soujanya Poria, Roy Ka-wei Lee
 conference: "Arxiv"
 year: 2023
-citations: 91
 bibkey: hu2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01933"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Prompting', 'Pretraining Methods']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
 ---
 The success of large language models (LLMs), like GPT-4 and ChatGPT, has led
 to the development of numerous cost-effective and accessible alternatives that

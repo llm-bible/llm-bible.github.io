@@ -4,11 +4,10 @@ title: 'Star: Bootstrapping Reasoning With Reasoning'
 authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
 conference: "Arxiv"
 year: 2022
-citations: 96
 bibkey: zelikman2022bootstrapping
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2203.14465v2"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Few-Shot', 'Pretraining Methods', 'RAG']
+tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
 ---
 Generating step-by-step "chain-of-thought" rationales improves language model
 performance on complex reasoning tasks like mathematics or commonsense

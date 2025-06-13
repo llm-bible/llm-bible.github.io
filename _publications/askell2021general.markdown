@@ -4,11 +4,10 @@ title: 'A General Language Assistant As A Laboratory For Alignment'
 authors: Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova Dassarma, Nelson Elhage, Zac Hatfield-dodds, Danny Hernandez, Jackson Kernion, Kamal Ndousse, Catherine Olsson, Dario Amodei, Tom Brown, Jack Clark, Sam Mccandlish, Chris Olah, Jared Kaplan
 conference: "Arxiv"
 year: 2021
-citations: 84
 bibkey: askell2021general
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2112.00861v3"}
-tags: ['Training Techniques', 'Pre-Training', 'Prompting', 'Uncategorized', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Prompting', 'Pre-Training']
 ---
 Given the broad capabilities of large language models, it should be possible
 to work towards a general-purpose, text-based assistant that is aligned with

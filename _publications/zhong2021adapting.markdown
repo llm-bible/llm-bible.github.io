@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Adapting Language Models For Zero-shot Learning By Meta-tuning On Dataset And Prompt Collections'
-authors: Zhong Ruiqi, Lee Kristy, Zhang Zheng, Klein Dan
+authors: Ruiqi Zhong, Kristy Lee, Zheng Zhang, Dan Klein
 conference: "Arxiv"
 year: 2021
-citations: 88
 bibkey: zhong2021adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.04670"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
 ---
 Large pre-trained language models (LMs) such as GPT-3 have acquired a
 surprising ability to perform zero-shot learning. For example, to classify

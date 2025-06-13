@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Generating Distractors For Reading Comprehension Questions From Real Examinations'
-authors: Gao Yifan, Bing Lidong, Li Piji, King Irwin, Lyu Michael R.
+authors: Yifan Gao, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu
 conference: "Arxiv"
 year: 2018
-citations: 57
 bibkey: gao2018generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.02768"}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Tools']
+tags: ['Model Architecture', 'Transformer', 'Attention Mechanism', 'Tools']
 ---
 We investigate the task of distractor generation for multiple choice reading
 comprehension questions from examinations. In contrast to all previous works,

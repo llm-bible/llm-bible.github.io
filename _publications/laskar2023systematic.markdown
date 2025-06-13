@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Systematic Study And Comprehensive Evaluation Of Chatgpt On Benchmark Datasets'
-authors: Laskar Md Tahmid Rahman, Bari M Saiful, Rahman Mizanur, Bhuiyan Md Amran Hossen, Joty Shafiq, Huang Jimmy Xiangji
+authors: Md Tahmid Rahman Laskar, M Saiful Bari, Mizanur Rahman, Md Amran Hossen Bhuiyan, Shafiq Joty, Jimmy Xiangji Huang
 conference: "Arxiv"
 year: 2023
-citations: 51
 bibkey: laskar2023systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18486"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
 ---
 The development of large language models (LLMs) such as ChatGPT has brought a
 lot of attention recently. However, their evaluation in the benchmark academic

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Study Of Generative Large Language Model For Medical Research And Healthcare'
-authors: Peng Cheng, Yang Xi, Chen Aokun, Smith Kaleb E, Pournejatian Nima, Costa Anthony B, Martin Cheryl, Flores Mona G, Zhang Ying, Magoc Tanja, Lipori Gloria, Mitchell Duane A, Ospina Naykky S, Ahmed Mustafa M, Hogan William R, Shenkman Elizabeth A, Guo Yi, Bian Jiang, Wu Yonghui
+authors: Cheng Peng, Xi Yang, Aokun Chen, Kaleb E Smith, Nima Pournejatian, Anthony B Costa, Cheryl Martin, Mona G Flores, Ying Zhang, Tanja Magoc, Gloria Lipori, Duane A Mitchell, Naykky S Ospina, Mustafa M Ahmed, William R Hogan, Elizabeth A Shenkman, Yi Guo, Jiang Bian, Yonghui Wu
 conference: "Arxiv"
 year: 2023
-citations: 173
 bibkey: peng2023study
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13523"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
 ---
 There is enormous enthusiasm and concerns in using large language models
 (LLMs) in healthcare, yet current assumptions are all based on general-purpose

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Training Verifiers To Solve Math Word Problems'
-authors: Cobbe Karl, Kosaraju Vineet, Bavarian Mohammad, Chen Mark, Jun Heewoo, Kaiser Lukasz, Plappert Matthias, Tworek Jerry, Hilton Jacob, Nakano Reiichiro, Hesse Christopher, Schulman John
+authors: Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 conference: "Arxiv"
 year: 2021
-citations: 397
 bibkey: cobbe2021training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.14168"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
 ---
 State-of-the-art language models can match human performance on many tasks,
 but they still struggle to robustly perform multi-step mathematical reasoning.

@@ -2,13 +2,12 @@
 layout: publication
 title: 'Could A Large Language Model Be Conscious?'
 authors: David J. Chalmers
-conference: "Boston Review August"
+conference: "Boston Review August 9 2023"
 year: 2023
-citations: 80
 bibkey: j2023could
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.07103v3"}
-tags: ['Uncategorized', 'TACL', 'ACL']
+tags: ['TACL', 'ACL']
 ---
 There has recently been widespread discussion of whether large language
 models might be sentient. Should we take this idea seriously? I will break down

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Dialoglue: A Natural Language Understanding Benchmark For Task-oriented Dialogue'
-authors: Mehri Shikib, Eric Mihail, Hakkani-tur Dilek
+authors: Shikib Mehri, Mihail Eric, Dilek Hakkani-tur
 conference: "Arxiv"
 year: 2020
-citations: 103
 bibkey: mehri2020natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.13570"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'RAG', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 A long-standing goal of task-oriented dialogue research is the ability to
 flexibly adapt dialogue models to new domains. To progress research in this

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Overcoming Language Priors With Self-supervised Learning For Visual Question Answering'
-authors: Zhu Xi, Mao Zhendong, Liu Chunxiao, Zhang Peng, Wang Bin, Zhang Yongdong
+authors: Xi Zhu, Zhendong Mao, Chunxiao Liu, Peng Zhang, Bin Wang, Yongdong Zhang
 conference: "Arxiv"
 year: 2020
-citations: 91
 bibkey: zhu2020overcoming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.11528"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Ethics and Bias', 'Applications']
+tags: ['Training Techniques', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
 ---
 Most Visual Question Answering (VQA) models suffer from the language prior
 problem, which is caused by inherent data biases. Specifically, VQA models tend

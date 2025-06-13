@@ -4,11 +4,10 @@ title: 'Language Is Not All You Need: Aligning Perception With Language Models'
 authors: Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei
 conference: "Arxiv"
 year: 2023
-citations: 131
 bibkey: huang2023language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.14045v2"}
-tags: ['Prompting', 'Few-Shot', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Few-Shot', 'Reinforcement Learning', 'Prompting', 'Applications']
 ---
 A big convergence of language, multimodal perception, action, and world
 modeling is a key step toward artificial general intelligence. In this work, we

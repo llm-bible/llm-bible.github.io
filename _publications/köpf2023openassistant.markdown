@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Openassistant Conversations -- Democratizing Large Language Model Alignment'
-authors: Köpf Andreas, Kilcher Yannic, Von Rütte Dimitri, Anagnostidis Sotiris, Tam Zhi-rui, Stevens Keith, Barhoum Abdullah, Duc Nguyen Minh, Stanley Oliver, Nagyfi Richárd, Es Shahul, Suri Sameer, Glushkov David, Dantuluri Arnav, Maguire Andrew, Schuhmann Christoph, Nguyen Huu, Mattick Alexander
+authors: Andreas Köpf, Yannic Kilcher, Dimitri Von Rütte, Sotiris Anagnostidis, Zhi-rui Tam, Keith Stevens, Abdullah Barhoum, Nguyen Minh Duc, Oliver Stanley, Richárd Nagyfi, Shahul Es, Sameer Suri, David Glushkov, Arnav Dantuluri, Andrew Maguire, Christoph Schuhmann, Huu Nguyen, Alexander Mattick
 conference: "Arxiv"
 year: 2023
-citations: 80
 bibkey: köpf2023openassistant
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07327"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Pretraining Methods', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
 ---
 Aligning large language models (LLMs) with human preferences has proven to
 drastically improve usability and has driven rapid adoption as demonstrated by

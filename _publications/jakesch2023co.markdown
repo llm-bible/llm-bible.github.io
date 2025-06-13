@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Co-writing With Opinionated Language Models Affects Users'' Views'
-authors: Jakesch Maurice, Bhat Advait, Buschek Daniel, Zalmanson Lior, Naaman Mor
-conference: "Proceedings of the"
+authors: Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, Mor Naaman
+conference: "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 23) April 23-28 2023 Hamburg Germany. ACM New York NY USA"
 year: 2023
-citations: 126
 bibkey: jakesch2023co
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.00560"}
-tags: ['GPT', 'Uncategorized', 'Survey Paper', 'Model Architecture']
+tags: ['Model Architecture', 'GPT', 'Survey Paper']
 ---
 If large language models like GPT-3 preferably produce a particular point of
 view, they may influence people's opinions on an unknown scale. This study

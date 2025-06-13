@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Global-to-local Memory Pointer Networks For Task-oriented Dialogue'
-authors: Wu Chien-sheng, Socher Richard, Xiong Caiming
+authors: Chien-sheng Wu, Richard Socher, Caiming Xiong
 conference: "Arxiv"
 year: 2019
-citations: 128
 bibkey: wu2019global
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.04713"}
-tags: ['Uncategorized', 'Tools']
+tags: ['Tools']
 ---
 End-to-end task-oriented dialogue is challenging since knowledge bases are
 usually large, dynamic and hard to incorporate into a learning framework. We

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Tips And Tricks For Visual Question Answering: Learnings From The 2017 Challenge'
-authors: Teney Damien, Anderson Peter, He Xiaodong, Hengel Anton Van Den
+authors: Damien Teney, Peter Anderson, Xiaodong He, Anton Van Den Hengel
 conference: "Arxiv"
 year: 2017
-citations: 407
 bibkey: teney2017tips
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1708.02711"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
 ---
 This paper presents a state-of-the-art model for visual question answering
 (VQA), which won the first place in the 2017 VQA Challenge. VQA is a task of

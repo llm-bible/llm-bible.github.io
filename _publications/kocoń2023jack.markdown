@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt: Jack Of All Trades, Master Of None'
-authors: Kocoń Jan, Cichecki Igor, Kaszyca Oliwier, Kochanek Mateusz, Szydło Dominika, Baran Joanna, Bielaniewicz Julita, Gruza Marcin, Janz Arkadiusz, Kanclerz Kamil, Kocoń Anna, Koptyra Bartłomiej, Mieleszczenko-kowszewicz Wiktoria, Miłkowski Piotr, Oleksy Marcin, Piasecki Maciej, Radliński Łukasz, Wojtasik Konrad, Woźniak Stanisław, Kazienko Przemysław
-conference: "Information Fusion"
+authors: Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, Mateusz Kochanek, Dominika Szydło, Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak, Przemysław Kazienko
+conference: "Information Fusion 101861 (2023)"
 year: 2023
-citations: 466
 bibkey: kocoń2023jack
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.10724"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot', 'Prompting', 'Pretraining Methods', 'Transformer', 'RAG', 'Ethics and Bias', 'Applications']
+tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
 ---
 OpenAI has released the Chat Generative Pre-trained Transformer (ChatGPT) and
 revolutionized the approach in artificial intelligence to human-model

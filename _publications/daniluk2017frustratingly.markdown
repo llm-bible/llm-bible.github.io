@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Frustratingly Short Attention Spans In Neural Language Modeling'
-authors: Daniluk Michał, Rocktäschel Tim, Welbl Johannes, Riedel Sebastian
+authors: Michał Daniluk, Tim Rocktäschel, Johannes Welbl, Sebastian Riedel
 conference: "Arxiv"
 year: 2017
-citations: 80
 bibkey: daniluk2017frustratingly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1702.04521"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'Transformer', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Transformer', 'Attention Mechanism']
 ---
 Neural language models predict the next token using a latent representation
 of the immediate token history. Recently, various methods for augmenting neural

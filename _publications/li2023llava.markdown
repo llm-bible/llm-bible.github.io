@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Llava-med: Training A Large Language-and-vision Assistant For Biomedicine In One Day'
-authors: Li Chunyuan, Wong Cliff, Zhang Sheng, Usuyama Naoto, Liu Haotian, Yang Jianwei, Naumann Tristan, Poon Hoifung, Gao Jianfeng
+authors: Chunyuan Li, Cliff Wong, Sheng Zhang, Naoto Usuyama, Haotian Liu, Jianwei Yang, Tristan Naumann, Hoifung Poon, Jianfeng Gao
 conference: "Arxiv"
 year: 2023
-citations: 103
 bibkey: li2023llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00890"}
-tags: ['Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'RAG', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
 ---
 Conversational generative AI has demonstrated remarkable promise for
 empowering biomedical practitioners, but current investigations focus on

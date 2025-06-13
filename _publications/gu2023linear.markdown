@@ -4,11 +4,10 @@ title: 'Mamba: Linear-time Sequence Modeling With Selective State Spaces'
 authors: Albert Gu, Tri Dao
 conference: "Arxiv"
 year: 2023
-citations: 423
 bibkey: gu2023linear
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2312.00752v2"}
-tags: ['Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Foundation models, now powering most of the exciting applications in deep
 learning, are almost universally based on the Transformer architecture and its

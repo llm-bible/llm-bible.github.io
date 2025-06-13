@@ -4,11 +4,10 @@ title: 'Sparks Of Artificial General Intelligence: Early Experiments With GPT-4'
 authors: Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang
 conference: "Arxiv"
 year: 2023
-citations: 1038
 bibkey: bubeck2023sparks
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.12712v5"}
-tags: ['Fine-Tuning', 'Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
 ---
 Artificial intelligence (AI) researchers have been developing and refining
 large language models (LLMs) that exhibit remarkable capabilities across a

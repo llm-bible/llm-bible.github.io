@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Investigating Pretrained Language Models For Graph-to-text Generation'
-authors: Ribeiro Leonardo F. R., Schmitt Martin, Schütze Hinrich, Gurevych Iryna
+authors: Leonardo F. R. Ribeiro, Martin Schmitt, Hinrich Schütze, Iryna Gurevych
 conference: "Arxiv"
 year: 2020
-citations: 126
 bibkey: ribeiro2020investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.08426"}
-tags: ['Applications', 'Pretraining Methods', 'Training Techniques', 'Language Modeling']
+tags: ['Pretraining Methods', 'Language Modeling', 'Training Techniques', 'Applications']
 ---
 Graph-to-text generation aims to generate fluent texts from graph-based data.
 In this paper, we investigate two recently proposed pretrained language models

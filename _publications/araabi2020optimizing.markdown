@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Optimizing Transformer For Low-resource Neural Machine Translation'
-authors: Araabi Ali, Monz Christof
+authors: Ali Araabi, Christof Monz
 conference: "Arxiv"
 year: 2020
-citations: 59
 bibkey: araabi2020optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.02266"}

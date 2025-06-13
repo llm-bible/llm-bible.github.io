@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Show Your Work: Scratchpads For Intermediate Computation With Language Models'
-authors: Nye Maxwell, Andreassen Anders Johan, Gur-ari Guy, Michalewski Henryk, Austin Jacob, Bieber David, Dohan David, Lewkowycz Aitor, Bosma Maarten, Luan David, Sutton Charles, Odena Augustus
+authors: Maxwell Nye, Anders Johan Andreassen, Guy Gur-ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
 conference: "Arxiv"
 year: 2021
-citations: 119
 bibkey: nye2021show
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.00114"}
-tags: ['Few-Shot', 'Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Few-Shot']
 ---
 Large pre-trained language models perform remarkably well on tasks that can
 be done "in one pass", such as generating realistic text or synthesizing

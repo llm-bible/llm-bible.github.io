@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Is GPT-3 Text Indistinguishable From Human Text? Scarecrow: A Framework For Scrutinizing Machine Text'
-authors: Dou Yao, Forbes Maxwell, Koncel-kedziorski Rik, Smith Noah A., Choi Yejin
+authors: Yao Dou, Maxwell Forbes, Rik Koncel-kedziorski, Noah A. Smith, Yejin Choi
 conference: "Arxiv"
 year: 2021
-citations: 60
 bibkey: dou2021is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.01294"}
   - {name: "Code", url: "https://yao-dou.github.io/scarecrow/"}
-tags: ['Model Architecture', 'Training Techniques', 'GPT', 'Uncategorized', 'Tools', 'Has Code', 'RAG', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
 ---
 Modern neural language models can produce remarkably fluent and grammatical
 text. So much, in fact, that recent work by Clark et al. (2021) has reported

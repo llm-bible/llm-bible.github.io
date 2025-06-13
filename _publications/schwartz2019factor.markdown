@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Factor Graph Attention'
-authors: Schwartz Idan, Yu Seunghak, Hazan Tamir, Schwing Alexander
+authors: Idan Schwartz, Seunghak Yu, Tamir Hazan, Alexander Schwing
 conference: "Arxiv"
 year: 2019
-citations: 109
 bibkey: schwartz2019factor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.05880"}
-tags: ['Model Architecture', 'Tools', 'Attention Mechanism', 'Transformer', 'Applications', 'Interpretability and Explainability']
+tags: ['Model Architecture', 'Tools', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
 ---
 Dialog is an effective way to exchange information, but subtle details and
 nuances are extremely important. While significant progress has paved a path to

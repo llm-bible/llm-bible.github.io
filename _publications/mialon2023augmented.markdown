@@ -4,11 +4,10 @@ title: 'Augmented Language Models: A Survey'
 authors: Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-yu, Asli Celikyilmaz, Edouard Grave, Yann Lecun, Thomas Scialom
 conference: "Arxiv"
 year: 2023
-citations: 118
 bibkey: mialon2023augmented
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.07842v1"}
-tags: ['Survey Paper', 'Tools', 'Uncategorized', 'RAG', 'Interpretability and Explainability', 'Language Modeling']
+tags: ['Survey Paper', 'Tools', 'Language Modeling', 'RAG', 'Interpretability and Explainability']
 ---
 This survey reviews works in which language models (LMs) are augmented with
 reasoning skills and the ability to use tools. The former is defined as

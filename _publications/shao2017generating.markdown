@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Generating High-quality And Informative Conversation Responses With Sequence-to-sequence Models'
-authors: Shao Louis, Gouws Stephan, Britz Denny, Goldie Anna, Strope Brian, Kurzweil Ray
+authors: Louis Shao, Stephan Gouws, Denny Britz, Anna Goldie, Brian Strope, Ray Kurzweil
 conference: "Arxiv"
 year: 2017
-citations: 194
 bibkey: shao2017generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1701.03185"}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Transformer', 'Attention Mechanism', 'Reinforcement Learning']
 ---
 Sequence-to-sequence models have been applied to the conversation response
 generation problem where the source sequence is the conversation history and

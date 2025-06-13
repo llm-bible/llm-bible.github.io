@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Cross-lingual Transfer Learning For Multilingual Task Oriented Dialog'
-authors: Schuster Sebastian, Gupta Sonal, Shah Rushin, Lewis Mike
+authors: Sebastian Schuster, Sonal Gupta, Rushin Shah, Mike Lewis
 conference: "Arxiv"
 year: 2018
-citations: 253
 bibkey: schuster2018cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1810.13327"}
-tags: ['Applications', 'Fine-Tuning', 'Training Techniques']
+tags: ['Training Techniques', 'Applications', 'Fine-Tuning']
 ---
 One of the first steps in the utterance interpretation pipeline of many
 task-oriented conversational AI systems is to identify user intents and the

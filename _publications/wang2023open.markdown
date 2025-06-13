@@ -4,12 +4,11 @@ title: 'Voyager: An Open-ended Embodied Agent With Large Language Models'
 authors: Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar
 conference: "Arxiv"
 year: 2023
-citations: 131
 bibkey: wang2023open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.16291v2"}
   - {name: "Code", url: "https://voyager.minedojo.org/"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Prompting', 'Has Code', 'Pretraining Methods', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
 ---
 We introduce Voyager, the first LLM-powered embodied lifelong learning agent
 in Minecraft that continuously explores the world, acquires diverse skills, and

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Stabilizing Transformers For Reinforcement Learning'
-authors: Parisotto Emilio, Song H. Francis, Rae Jack W., Pascanu Razvan, Gulcehre Caglar, Jayakumar Siddhant M., Jaderberg Max, Kaufman Raphael Lopez, Clark Aidan, Noury Seb, Botvinick Matthew M., Heess Nicolas, Hadsell Raia
+authors: Emilio Parisotto, H. Francis Song, Jack W. Rae, Razvan Pascanu, Caglar Gulcehre, Siddhant M. Jayakumar, Max Jaderberg, Raphael Lopez Kaufman, Aidan Clark, Seb Noury, Matthew M. Botvinick, Nicolas Heess, Raia Hadsell
 conference: "Arxiv"
 year: 2019
-citations: 89
 bibkey: parisotto2019stabilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.06764"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'Agentic', 'Reinforcement Learning', 'Language Modeling']
+tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Owing to their ability to both effectively integrate information over long
 time horizons and scale to massive amounts of data, self-attention

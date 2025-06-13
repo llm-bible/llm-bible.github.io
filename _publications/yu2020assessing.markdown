@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Assessing Phrasal Representation And Composition In Transformers'
-authors: Yu Lang, Ettinger Allyson
+authors: Lang Yu, Allyson Ettinger
 conference: "Arxiv"
 year: 2020
-citations: 56
 bibkey: yu2020assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03763"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'RAG', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
 ---
 Deep transformer models have pushed performance on NLP tasks to new limits,
 suggesting sophisticated treatment of complex linguistic inputs, such as

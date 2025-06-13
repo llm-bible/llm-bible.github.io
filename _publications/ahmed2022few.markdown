@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Few-shot Training Llms For Project-specific Code-summarization'
-authors: Ahmed Toufique, Devanbu Premkumar
+authors: Toufique Ahmed, Premkumar Devanbu
 conference: "Arxiv"
 year: 2022
-citations: 104
 bibkey: ahmed2022few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.04237"}
-tags: ['Model Architecture', 'Training Techniques', 'GPT', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Very large language models (LLMs), such as GPT-3 and Codex have achieved
 state-of-the-art performance on several natural-language tasks, and show great

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Allennlp Interpret: A Framework For Explaining Predictions Of NLP Models'
-authors: Wallace Eric, Tuyls Jens, Wang Junlin, Subramanian Sanjay, Gardner Matt, Singh Sameer
+authors: Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian, Matt Gardner, Sameer Singh
 conference: "Arxiv"
 year: 2019
-citations: 129
 bibkey: wallace2019allennlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.09251"}
   - {name: "Code", url: "https://allennlp.org/interpret"}
-tags: ['Model Architecture', 'Tools', 'Security', 'Has Code', 'BERT', 'Interpretability and Explainability', 'Interpretability', 'Language Modeling']
+tags: ['Security', 'Model Architecture', 'Tools', 'Language Modeling', 'Interpretability', 'BERT', 'Has Code', 'Interpretability and Explainability']
 ---
 Neural NLP models are increasingly accurate but are imperfect and
 opaque---they break in counterintuitive ways and leave end users puzzled at

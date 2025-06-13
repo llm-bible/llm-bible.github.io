@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Optimus: Organizing Sentences Via Pre-trained Modeling Of A Latent Space'
-authors: Li Chunyuan, Gao Xiang, Li Yuan, Peng Baolin, Li Xiujun, Zhang Yizhe, Gao Jianfeng
+authors: Chunyuan Li, Xiang Gao, Yuan Li, Baolin Peng, Xiujun Li, Yizhe Zhang, Jianfeng Gao
 conference: "Arxiv"
 year: 2020
-citations: 124
 bibkey: li2020organizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.04092"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Tools', 'Uncategorized', 'BERT', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'BERT', 'Pre-Training']
 ---
 When trained effectively, the Variational Autoencoder (VAE) can be both a
 powerful generative model and an effective representation learning framework

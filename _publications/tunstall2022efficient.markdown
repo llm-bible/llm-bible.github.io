@@ -1,16 +1,15 @@
 ---
 layout: publication
 title: 'Efficient Few-shot Learning Without Prompts'
-authors: Tunstall Lewis, Reimers Nils, Jo Unso Eun Seo, Bates Luke, Korat Daniel, Wasserblat Moshe, Pereg Oren
+authors: Lewis Tunstall, Nils Reimers, Unso Eun Seo Jo, Luke Bates, Daniel Korat, Moshe Wasserblat, Oren Pereg
 conference: "Arxiv"
 year: 2022
-citations: 69
 bibkey: tunstall2022efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.11055"}
   - {name: "Code", url: "https://github.com/huggingface/setfit"}
   - {name: "Code", url: "https://huggingface.co/setfit"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Few-Shot', 'Prompting', 'Has Code', 'Pretraining Methods', 'Transformer']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
 ---
 Recent few-shot methods, such as parameter-efficient fine-tuning (PEFT) and
 pattern exploiting training (PET), have achieved impressive results in

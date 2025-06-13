@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'A BERT Baseline For The Natural Questions'
-authors: Alberti Chris, Lee Kenton, Collins Michael
+authors: Chris Alberti, Kenton Lee, Michael Collins
 conference: "Arxiv"
 year: 2019
-citations: 111
 bibkey: alberti2019bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.08634"}
   - {name: "Code", url: "https://github.com/google-research/language/tree/master/language/question_answering/bert_joint"}
-tags: ['Uncategorized', 'BERT', 'Has Code', 'Model Architecture']
+tags: ['BERT', 'Has Code', 'Model Architecture']
 ---
 This technical note describes a new baseline for the Natural Questions. Our
 model is based on BERT and reduces the gap between the model F1 scores reported

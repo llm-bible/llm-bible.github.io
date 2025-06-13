@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Learning Neural Templates For Text Generation'
-authors: Wiseman Sam, Shieber Stuart M., Rush Alexander M.
+authors: Sam Wiseman, Stuart M. Shieber, Alexander M. Rush
 conference: "Arxiv"
 year: 2018
-citations: 214
 bibkey: wiseman2018learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.10122"}
-tags: ['Applications', 'Language Modeling']
+tags: ['Language Modeling', 'Applications']
 ---
 While neural, encoder-decoder models have had significant empirical success
 in text generation, there remain several unaddressed problems with this style

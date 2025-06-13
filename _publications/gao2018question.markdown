@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Question-guided Hybrid Convolution For Visual Question Answering'
-authors: Gao Peng, Lu Pan, Li Hongsheng, Li Shuang, Li Yikang, Hoi Steven, Wang Xiaogang
+authors: Peng Gao, Pan Lu, Hongsheng Li, Shuang Li, Yikang Li, Steven Hoi, Xiaogang Wang
 conference: "Arxiv"
 year: 2018
-citations: 76
 bibkey: gao2018question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.02632"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Merging', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'Applications', 'Attention Mechanism']
 ---
 In this paper, we propose a novel Question-Guided Hybrid Convolution (QGHC)
 network for Visual Question Answering (VQA). Most state-of-the-art VQA methods

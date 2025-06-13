@@ -4,12 +4,11 @@ title: 'Codegen: An Open Large Language Model For Code With Multi-turn Program S
 authors: Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio Savarese, Caiming Xiong
 conference: "Arxiv"
 year: 2022
-citations: 176
 bibkey: nijkamp2022open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2203.13474v5"}
   - {name: "Code", url: "https://github.com/salesforce/CodeGen"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Has Code', 'Applications', 'Arxiv']
+tags: ['Arxiv', 'Training Techniques', 'Tools', 'Has Code', 'Prompting', 'Applications']
 ---
 Program synthesis strives to generate a computer program as a solution to a
 given problem specification, expressed with input-output examples or natural

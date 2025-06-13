@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Llama-adapter: Efficient Fine-tuning Of Language Models With Zero-init Attention'
-authors: Zhang Renrui, Han Jiaming, Liu Chris, Gao Peng, Zhou Aojun, Hu Xiangfei, Yan Shilin, Lu Pan, Li Hongsheng, Qiao Yu
+authors: Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao
 conference: "Arxiv"
 year: 2023
-citations: 137
 bibkey: zhang2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.16199"}
   - {name: "Code", url: "https://github.com/OpenGVLab/LLaMA-Adapter"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Prompting', 'Has Code', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting', 'Attention Mechanism']
 ---
 We present LLaMA-Adapter, a lightweight adaption method to efficiently
 fine-tune LLaMA into an instruction-following model. Using 52K self-instruct

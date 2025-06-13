@@ -4,13 +4,12 @@ title: 'Mplug-owl: Modularization Empowers Large Language Models With Multimodal
 authors: Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou
 conference: "Arxiv"
 year: 2023
-citations: 125
 bibkey: ye2023mplug
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.14178v3"}
   - {name: "Code", url: "https://github.com/X-PLUG/mPLUG-Owl"}
   - {name: "Code", url: "https://www.modelscope.cn/studios/damo/mPLUG-Owl"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
 ---
 Large language models (LLMs) have demonstrated impressive zero-shot abilities
 on a variety of open-ended tasks, while recent research has also explored the

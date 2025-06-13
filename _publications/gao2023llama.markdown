@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Llama-adapter V2: Parameter-efficient Visual Instruction Model'
-authors: Gao Peng, Han Jiaming, Zhang Renrui, Lin Ziyi, Geng Shijie, Zhou Aojun, Zhang Wei, Lu Pan, He Conghui, Yue Xiangyu, Li Hongsheng, Qiao Yu
+authors: Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li, Yu Qiao
 conference: "Arxiv"
 year: 2023
-citations: 96
 bibkey: gao2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.15010"}
   - {name: "Code", url: "https://github.com/ZrrSkywalker/LLaMA-Adapter"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Tools', 'Multimodal Models', 'Has Code', 'Merging', 'Ethics and Bias', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Ethics and Bias', 'Has Code']
 ---
 How to efficiently transform large language models (LLMs) into instruction
 followers is recently a popular research direction, while training LLM for

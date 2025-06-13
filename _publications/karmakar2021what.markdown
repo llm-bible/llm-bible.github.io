@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'What Do Pre-trained Code Models Know About Code?'
-authors: Karmakar Anjan, Robbes Romain
+authors: Anjan Karmakar, Romain Robbes
 conference: "Arxiv"
 year: 2021
-citations: 51
 bibkey: karmakar2021what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.11308"}
-tags: ['Model Architecture', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
 ---
 Pre-trained models of code built on the transformer architecture have
 performed well on software engineering (SE) tasks such as predictive code

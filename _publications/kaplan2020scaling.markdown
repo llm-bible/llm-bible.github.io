@@ -4,11 +4,10 @@ title: 'Scaling Laws For Neural Language Models'
 authors: Jared Kaplan, Sam Mccandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei
 conference: "Arxiv"
 year: 2020
-citations: 1207
 bibkey: kaplan2020scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2001.08361v1"}
-tags: ['Large-Scale Training', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Efficiency and Optimization', 'Scaling Laws']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
 ---
 We study empirical scaling laws for language model performance on the
 cross-entropy loss. The loss scales as a power-law with model size, dataset

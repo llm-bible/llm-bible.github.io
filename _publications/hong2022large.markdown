@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Cogvideo: Large-scale Pretraining For Text-to-video Generation Via Transformers'
-authors: Hong Wenyi, Ding Ming, Zheng Wendi, Liu Xinghan, Tang Jie
+authors: Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang
 conference: "Arxiv"
 year: 2022
-citations: 98
 bibkey: hong2022large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.15868"}

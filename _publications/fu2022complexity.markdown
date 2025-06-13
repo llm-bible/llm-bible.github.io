@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Complexity-based Prompting For Multi-step Reasoning'
-authors: Fu Yao, Peng Hao, Sabharwal Ashish, Clark Peter, Khot Tushar
+authors: Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot
 conference: "Arxiv"
 year: 2022
-citations: 63
 bibkey: fu2022complexity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.00720"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Security', 'Uncategorized', 'RAG']
+tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Prompting']
 ---
 We study the task of prompting large-scale language models to perform
 multi-step reasoning. Existing work shows that when prompted with a chain of

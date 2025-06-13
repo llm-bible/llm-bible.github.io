@@ -4,11 +4,10 @@ title: 'OPT: Open Pre-trained Transformer Language Models'
 authors: Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2022
-citations: 809
 bibkey: zhang2022open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2205.01068v4"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Few-Shot', 'Pretraining Methods', 'Transformer']
+tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer']
 ---
 Large language models, which are often trained for hundreds of thousands of
 compute days, have shown remarkable capabilities for zero- and few-shot

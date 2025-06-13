@@ -4,11 +4,10 @@ title: 'REPLUG: Retrieval-augmented Black-box Language Models'
 authors: Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih
 conference: "Arxiv"
 year: 2023
-citations: 54
 bibkey: shi2023retrieval
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.12652v4"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Transformer', 'RAG', 'Attention Mechanism', 'Language Modeling']
+tags: ['Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Transformer', 'Attention Mechanism']
 ---
 We introduce REPLUG, a retrieval-augmented language modeling framework that
 treats the language model (LM) as a black box and augments it with a tuneable

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt Is Not All You Need. A State Of The Art Review Of Large Generative AI Models'
-authors: Gozalo-brizuela Roberto, Garrido-merchan Eduardo C.
+authors: Roberto Gozalo-brizuela, Eduardo C. Garrido-merchan
 conference: "Arxiv"
 year: 2023
-citations: 174
 bibkey: gozalobrizuela2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.04655"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture', 'Merging']
+tags: ['Model Architecture', 'GPT', 'Merging']
 ---
 During the last two years there has been a plethora of large generative
 models such as ChatGPT or Stable Diffusion that have been published.

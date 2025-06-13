@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Can Large Language Models Transform Computational Social Science?'
-authors: Ziems Caleb, Held William, Shaikh Omar, Chen Jiaao, Zhang Zhehao, Yang Diyi
+authors: Caleb Ziems, William Held, Omar Shaikh, Jiaao Chen, Zhehao Zhang, Diyi Yang
 conference: "Arxiv"
 year: 2023
-citations: 229
 bibkey: ziems2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03514"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Uncategorized', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting']
 ---
 Large Language Models (LLMs) are capable of successfully performing many
 language processing tasks zero-shot (without training data). If zero-shot LLMs

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Are Natural Language Inference Models Imppressive? Learning Implicature And Presupposition'
-authors: Jeretic Paloma, Warstadt Alex, Bhooshan Suvrat, Williams Adina
+authors: Paloma Jeretic, Alex Warstadt, Suvrat Bhooshan, Adina Williams
 conference: "Arxiv"
 year: 2020
-citations: 84
 bibkey: jeretic2020are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.03066"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'BERT', 'Applications']
 ---
 Natural language inference (NLI) is an increasingly important task for
 natural language understanding, which requires one to infer whether a sentence

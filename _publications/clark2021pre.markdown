@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'CANINE: Pre-training An Efficient Tokenization-free Encoder For Language Representation'
-authors: Clark Jonathan H., Garrette Dan, Turc Iulia, Wieting John
-conference: "Transactions of the Association for Computational Linguistics"
+authors: Jonathan H. Clark, Dan Garrette, Iulia Turc, John Wieting
+conference: "Transactions of the Association for Computational Linguistics (2022) 10 73--91"
 year: 2021
-citations: 102
 bibkey: clark2021pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.06874"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Transformer', 'Ethics and Bias', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
 ---
 Pipelined NLP systems have largely been superseded by end-to-end neural
 modeling, yet nearly all commonly-used models still require an explicit

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Calibration Of Pre-trained Transformers'
-authors: Desai Shrey, Durrett Greg
+authors: Shrey Desai, Greg Durrett
 conference: "Arxiv"
 year: 2020
-citations: 165
 bibkey: desai2020calibration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.07892"}
-tags: ['BERT', 'Pretraining Methods', 'Transformer', 'Model Architecture']
+tags: ['Pretraining Methods', 'BERT', 'Transformer', 'Model Architecture']
 ---
 Pre-trained Transformers are now ubiquitous in natural language processing,
 but despite their high end-task performance, little is known empirically about

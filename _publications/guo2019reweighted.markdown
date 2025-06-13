@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Reweighted Proximal Pruning For Large-scale Language Representation'
-authors: Guo Fu-ming, Liu Sijia, Mungall Finlay S., Lin Xue, Wang Yanzhi
+authors: Fu-ming Guo, Sijia Liu, Finlay S. Mungall, Xue Lin, Yanzhi Wang
 conference: "Arxiv"
 year: 2019
-citations: 52
 bibkey: guo2019reweighted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.12486"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Pretraining Methods', 'Applications', 'BERT']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pruning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 Recently, pre-trained language representation flourishes as the mainstay of
 the natural language understanding community, e.g., BERT. These pre-trained

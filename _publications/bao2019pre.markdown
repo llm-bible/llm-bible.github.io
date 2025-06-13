@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'PLATO: Pre-trained Dialogue Generation Model With Discrete Latent Variable'
-authors: Bao Siqi, He Huang, Wang Fan, Wu Hua, Wang Haifeng
+authors: Siqi Bao, Huang He, Fan Wang, Hua Wu, Haifeng Wang
 conference: "Arxiv"
 year: 2019
-citations: 214
 bibkey: bao2019pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.07931"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Tools', 'Transformer', 'RAG', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Transformer', 'Pre-Training', 'Attention Mechanism']
 ---
 Pre-training models have been proved effective for a wide range of natural
 language processing tasks. Inspired by this, we propose a novel dialogue

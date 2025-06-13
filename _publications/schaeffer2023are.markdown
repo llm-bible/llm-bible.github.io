@@ -4,11 +4,10 @@ title: 'Are Emergent Abilities Of Large Language Models A Mirage?'
 authors: Rylan Schaeffer, Brando Miranda, Sanmi Koyejo
 conference: "Arxiv"
 year: 2023
-citations: 92
 bibkey: schaeffer2023are
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.15004v2"}
-tags: ['Survey Paper', 'Model Architecture', 'GPT', 'Uncategorized', 'RAG', 'Interpretability and Explainability']
+tags: ['Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Interpretability and Explainability']
 ---
 Recent work claims that large language models display emergent abilities,
 abilities not present in smaller-scale models that are present in larger-scale

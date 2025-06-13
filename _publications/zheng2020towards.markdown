@@ -1,10 +1,9 @@
 ---
 layout: publication
 title: 'Towards Making The Most Of Context In Neural Machine Translation'
-authors: Zheng Zaixiang, Yue Xiang, Huang Shujian, Chen Jiajun, Birch Alexandra
+authors: Zaixiang Zheng, Xiang Yue, Shujian Huang, Jiajun Chen, Alexandra Birch
 conference: "Arxiv"
 year: 2020
-citations: 68
 bibkey: zheng2020towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.07982"}

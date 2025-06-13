@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Survey Of Vision-language Pre-trained Models'
-authors: Du Yifan, Liu Zikang, Li Junyi, Zhao Wayne Xin
+authors: Yifan Du, Zikang Liu, Junyi Li, Wayne Xin Zhao
 conference: "Arxiv"
 year: 2022
-citations: 76
 bibkey: du2022survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.10936"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'Transformer', 'Pre-Training']
 ---
 As transformer evolves, pre-trained models have advanced at a breakneck pace
 in recent years. They have dominated the mainstream techniques in natural

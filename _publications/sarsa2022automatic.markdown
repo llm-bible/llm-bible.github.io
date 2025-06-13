@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Automatic Generation Of Programming Exercises And Code Explanations Using Large Language Models'
-authors: Sarsa Sami, Denny Paul, Hellas Arto, Leinonen Juho
+authors: Sami Sarsa, Paul Denny, Arto Hellas, Juho Leinonen
 conference: "Arxiv"
 year: 2022
-citations: 286
 bibkey: sarsa2022automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.11861"}
-tags: ['Uncategorized', 'Interpretability and Explainability', 'Tools']
+tags: ['Tools', 'Interpretability and Explainability']
 ---
 This article explores the natural language generation capabilities of large
 language models with application to the production of two types of learning

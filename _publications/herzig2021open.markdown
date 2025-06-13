@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Open Domain Question Answering Over Tables Via Dense Retrieval'
-authors: Herzig Jonathan, Müller Thomas, Krichene Syrine, Eisenschlos Julian Martin
+authors: Jonathan Herzig, Thomas Müller, Syrine Krichene, Julian Martin Eisenschlos
 conference: "Arxiv"
 year: 2021
-citations: 53
 bibkey: herzig2021open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.12011"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training', 'Applications']
 ---
 Recent advances in open-domain QA have led to strong models based on dense
 retrieval, but only focused on retrieving textual passages. In this work, we

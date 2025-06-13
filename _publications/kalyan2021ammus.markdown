@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'AMMUS : A Survey Of Transformer-based Pretrained Models In Natural Language Processing'
-authors: Kalyan Katikapalli Subramanyam, Rajasekharan Ajit, Sangeetha Sivanesan
+authors: Katikapalli Subramanyam Kalyan, Ajit Rajasekharan, Sivanesan Sangeetha
 conference: "Arxiv"
 year: 2021
-citations: 135
 bibkey: kalyan2021ammus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.05542"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
 ---
 Transformer-based pretrained language models (T-PTLMs) have achieved great
 success in almost every NLP task. The evolution of these models started with

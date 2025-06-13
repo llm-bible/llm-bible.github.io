@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Rethinking The Role Of Demonstrations: What Makes In-context Learning Work?'
-authors: Min Sewon, Lyu Xinxi, Holtzman Ari, Artetxe Mikel, Lewis Mike, Hajishirzi Hannaneh, Zettlemoyer Luke
+authors: Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2022
-citations: 401
 bibkey: min2022rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.12837"}
-tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
+tags: ['Prompting', 'Model Architecture', 'GPT', 'In-Context Learning']
 ---
 Large language models (LMs) are able to in-context learn -- perform a new
 task via inference alone by conditioning on a few input-label pairs

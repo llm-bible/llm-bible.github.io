@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'MEDITRON-70B: Scaling Medical Pretraining For Large Language Models'
-authors: Chen Zeming, Cano Alejandro Hernández, Romanou Angelika, Bonnet Antoine, Matoba Kyle, Salvi Francesco, Pagliardini Matteo, Fan Simin, Köpf Andreas, Mohtashami Amirkeivan, Sallinen Alexandre, Sakhaeirad Alireza, Swamy Vinitra, Krawczuk Igor, Bayazit Deniz, Marmet Axel, Montariol Syrielle, Hartley Mary-anne, Jaggi Martin, Bosselut Antoine
+authors: Zeming Chen, Alejandro Hernández Cano, Angelika Romanou, Antoine Bonnet, Kyle Matoba, Francesco Salvi, Matteo Pagliardini, Simin Fan, Andreas Köpf, Amirkeivan Mohtashami, Alexandre Sallinen, Alireza Sakhaeirad, Vinitra Swamy, Igor Krawczuk, Deniz Bayazit, Axel Marmet, Syrielle Montariol, Mary-anne Hartley, Martin Jaggi, Antoine Bosselut
 conference: "Arxiv"
 year: 2023
-citations: 54
 bibkey: chen2023meditron
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16079"}
-tags: ['GPT', 'Training Techniques', 'Pretraining Methods', 'Model Architecture']
+tags: ['Pretraining Methods', 'Training Techniques', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) can potentially democratize access to medical
 knowledge. While many efforts have been made to harness and improve LLMs'

@@ -4,11 +4,10 @@ title: 'Chain-of-thought Prompting Elicits Reasoning In Large Language Models'
 authors: Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
 conference: "Arxiv"
 year: 2022
-citations: 2365
 bibkey: wei2022chain
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2201.11903v6"}
-tags: ['GPT', 'Prompting', 'Uncategorized', 'Model Architecture']
+tags: ['Prompting', 'Model Architecture', 'GPT']
 ---
 We explore how generating a chain of thought -- a series of intermediate
 reasoning steps -- significantly improves the ability of large language models

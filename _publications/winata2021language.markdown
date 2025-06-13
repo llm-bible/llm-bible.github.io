@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Language Models Are Few-shot Multilingual Learners'
-authors: Winata Genta Indra, Madotto Andrea, Lin Zhaojiang, Liu Rosanne, Yosinski Jason, Fung Pascale
+authors: Genta Indra Winata, Andrea Madotto, Zhaojiang Lin, Rosanne Liu, Jason Yosinski, Pascale Fung
 conference: "Arxiv"
 year: 2021
-citations: 67
 bibkey: winata2021language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.07684"}
-tags: ['GPT', 'Few-Shot', 'Uncategorized', 'Model Architecture']
+tags: ['Model Architecture', 'GPT', 'Few-Shot']
 ---
 General-purpose language models have demonstrated impressive capabilities,
 performing on par with state-of-the-art approaches on a range of downstream

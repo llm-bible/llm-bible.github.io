@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'A Good Prompt Is Worth Millions Of Parameters: Low-resource Prompt-based Learning For Vision-language Models'
-authors: Jin Woojeong, Cheng Yu, Shen Yelong, Chen Weizhu, Ren Xiang
+authors: Woojeong Jin, Yu Cheng, Yelong Shen, Weizhu Chen, Xiang Ren
 conference: "Arxiv"
 year: 2021
-citations: 63
 bibkey: jin2021good
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08484"}
   - {name: "Code", url: "https://github.com/woojeongjin/FewVLM"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Prompting', 'Few-Shot', 'Has Code', 'Pretraining Methods', 'Transformer', 'Language Modeling', 'Applications', 'BERT', 'Reinforcement Learning', 'Multimodal Models', 'Masked Language Model']
+tags: ['Masked Language Model', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'Applications']
 ---
 Large pre-trained vision-language (VL) models can learn a new task with a
 handful of examples and generalize to a new task without fine-tuning. However,

@@ -4,11 +4,10 @@ title: 'Mt5: A Massively Multilingual Pre-trained Text-to-text Transformer'
 authors: Linting Xue, Noah Constant, Adam Roberts, Mihir Kale, Rami Al-rfou, Aditya Siddhant, Aditya Barua, Colin Raffel
 conference: "Arxiv"
 year: 2020
-citations: 1271
 bibkey: xue2020massively
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2010.11934v3"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer']
 ---
 The recent "Text-to-Text Transfer Transformer" (T5) leveraged a unified
 text-to-text format and scale to attain state-of-the-art results on a wide

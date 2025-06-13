@@ -4,11 +4,10 @@ title: 'A Survey Of Large Language Models'
 authors: Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-yun Nie, Ji-rong Wen
 conference: "Arxiv"
 year: 2023
-citations: 1022
 bibkey: xin2023survey
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.18223v13"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Scaling Laws', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Scaling Laws', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
 ---
 Language is essentially a complex, intricate system of human expressions
 governed by grammatical rules. It poses a significant challenge to develop

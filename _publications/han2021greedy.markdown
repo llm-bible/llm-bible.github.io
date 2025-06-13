@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Greedy Gradient Ensemble For Robust Visual Question Answering'
-authors: Han Xinzhe, Wang Shuhui, Su Chi, Huang Qingming, Tian Qi
+authors: Xinzhe Han, Shuhui Wang, Chi Su, Qingming Huang, Qi Tian
 conference: "Arxiv"
 year: 2021
-citations: 64
 bibkey: han2021greedy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.12651"}
-tags: ['Model Architecture', 'Tools', 'Attention Mechanism', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability']
+tags: ['Model Architecture', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
 ---
 Language bias is a critical issue in Visual Question Answering (VQA), where
 models often exploit dataset biases for the final decision without considering

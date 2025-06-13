@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Scaling Instruction-finetuned Language Models'
-authors: Chung Hyung Won, Hou Le, Longpre Shayne, Zoph Barret, Tay Yi, Fedus William, Li Yunxuan, Wang Xuezhi, Dehghani Mostafa, Brahma Siddhartha, Webson Albert, Gu Shixiang Shane, Dai Zhuyun, Suzgun Mirac, Chen Xinyun, Chowdhery Aakanksha, Castro-ros Alex, Pellat Marie, Robinson Kevin, Valter Dasha, Narang Sharan, Mishra Gaurav, Yu Adams, Zhao Vincent, Huang Yanping, Dai Andrew, Yu Hongkun, Petrov Slav, Chi Ed H., Dean Jeff, Devlin Jacob, Roberts Adam, Zhou Denny, Le Quoc V., Wei Jason
+authors: Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei
 conference: "Arxiv"
 year: 2022
-citations: 998
 bibkey: chung2022scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.11416"}
-tags: ['Prompting', 'Few-Shot', 'Uncategorized', 'RAG']
+tags: ['Prompting', 'RAG', 'Few-Shot']
 ---
 Finetuning language models on a collection of datasets phrased as
 instructions has been shown to improve model performance and generalization to

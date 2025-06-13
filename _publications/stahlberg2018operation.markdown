@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'An Operation Sequence Model For Explainable Neural Machine Translation'
-authors: Stahlberg Felix, Saunders Danielle, Byrne Bill
+authors: Felix Stahlberg, Danielle Saunders, Bill Byrne
 conference: "Arxiv"
 year: 2018
-citations: 51
 bibkey: stahlberg2018operation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.09688"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Interpretability and Explainability', 'Interpretability']
+tags: ['Model Architecture', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Applications']
 ---
 We propose to achieve explainable neural machine translation (NMT) by
 changing the output representation to explain itself. We present a novel

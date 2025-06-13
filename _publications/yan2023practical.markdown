@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Practical And Ethical Challenges Of Large Language Models In Education: A Systematic Scoping Review'
-authors: Yan Lixiang, Sha Lele, Zhao Linxuan, Li Yuheng, Martinez-maldonado Roberto, Chen Guanliang, Li Xinyu, Jin Yueqiao, Gašević Dragan
+authors: Lixiang Yan, Lele Sha, Linxuan Zhao, Yuheng Li, Roberto Martinez-maldonado, Guanliang Chen, Xinyu Li, Yueqiao Jin, Dragan Gašević
 conference: "Arxiv"
 year: 2023
-citations: 250
 bibkey: yan2023practical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13379"}
-tags: ['Survey Paper', 'Model Architecture', 'GPT', 'RAG', 'Ethics and Bias', 'Interpretability', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability']
 ---
 Educational technology innovations leveraging large language models (LLMs)
 have shown the potential to automate the laborious process of generating and

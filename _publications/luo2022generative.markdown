@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Biogpt: Generative Pre-trained Transformer For Biomedical Text Generation And Mining'
-authors: Luo Renqian, Sun Liai, Xia Yingce, Qin Tao, Zhang Sheng, Poon Hoifung, Liu Tie-yan
-conference: "Briefings in Bioinformatics"
+authors: Renqian Luo, Liai Sun, Yingce Xia, Tao Qin, Sheng Zhang, Hoifung Poon, Tie-yan Liu
+conference: "Briefings in Bioinformatics 2022; bbac409"
 year: 2022
-citations: 546
 bibkey: luo2022generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.10341"}
   - {name: "Code", url: "https://github.com/microsoft/BioGPT"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
 ---
 Pre-trained language models have attracted increasing attention in the
 biomedical domain, inspired by their great success in the general natural

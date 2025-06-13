@@ -4,11 +4,10 @@ title: 'Llama: Open And Efficient Foundation Language Models'
 authors: Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample
 conference: "Arxiv"
 year: 2023
-citations: 2702
 bibkey: touvron2023open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.13971v1"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture']
+tags: ['Model Architecture', 'GPT']
 ---
 We introduce LLaMA, a collection of foundation language models ranging from
 7B to 65B parameters. We train our models on trillions of tokens, and show that

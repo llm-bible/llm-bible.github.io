@@ -4,11 +4,10 @@ title: 'Check Your Facts And Try Again: Improving Large Language Models With Ext
 authors: Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao
 conference: "Arxiv"
 year: 2023
-citations: 119
 bibkey: peng2023check
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.12813v3"}
-tags: ['Model Architecture', 'Prompting', 'GPT', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
 ---
 Large language models (LLMs), such as ChatGPT, are able to generate
 human-like, fluent responses for many downstream tasks, e.g., task-oriented

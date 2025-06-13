@@ -4,11 +4,10 @@ title: 'Pre-train, Prompt, And Predict: A Systematic Survey Of Prompting Methods
 authors: Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig
 conference: "Arxiv"
 year: 2021
-citations: 2143
 bibkey: liu2021pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2107.13586v1"}
-tags: ['Survey Paper', 'Tools', 'Prompting', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Survey Paper', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Prompting']
 ---
 This paper surveys and organizes research works in a new paradigm in natural
 language processing, which we dub "prompt-based learning". Unlike traditional

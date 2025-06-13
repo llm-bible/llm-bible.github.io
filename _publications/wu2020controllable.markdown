@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Controllable Model Of Grounded Response Generation'
-authors: Wu Zeqiu, Galley Michel, Brockett Chris, Zhang Yizhe, Gao Xiang, Quirk Chris, Koncel-kedziorski Rik, Gao Jianfeng, Hajishirzi Hannaneh, Ostendorf Mari, Dolan Bill
+authors: Zeqiu Wu, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, Bill Dolan
 conference: "Arxiv"
 year: 2020
-citations: 71
 bibkey: wu2020controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00613"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Attention Mechanism', 'Transformer']
+tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
 ---
 Current end-to-end neural conversation models inherently lack the flexibility
 to impose semantic control in the response generation process, often resulting

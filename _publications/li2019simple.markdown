@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Visualbert: A Simple And Performant Baseline For Vision And Language'
-authors: Li Liunian Harold, Yatskar Mark, Yin Da, Hsieh Cho-jui, Chang Kai-wei
+authors: Liunian Harold Li, Mark Yatskar, Da Yin, Cho-jui Hsieh, Kai-wei Chang
 conference: "Arxiv"
 year: 2019
-citations: 1198
 bibkey: li2019simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.03557"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
 ---
 We propose VisualBERT, a simple and flexible framework for modeling a broad
 range of vision-and-language tasks. VisualBERT consists of a stack of

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'CERT: Contrastive Self-supervised Learning For Language Understanding'
-authors: Fang Hongchao, Wang Sicheng, Zhou Meng, Ding Jiayuan, Xie Pengtao
+authors: Hongchao Fang, Sicheng Wang, Meng Zhou, Jiayuan Ding, Pengtao Xie
 conference: "Arxiv"
 year: 2020
-citations: 183
 bibkey: fang2020contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.12766"}
   - {name: "Code", url: "https://github.com/UCSD-AI4H/CERT"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications']
 ---
 Pretrained language models such as BERT, GPT have shown great effectiveness
 in language understanding. The auxiliary predictive tasks in existing

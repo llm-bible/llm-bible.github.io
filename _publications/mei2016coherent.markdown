@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Coherent Dialogue With Attention-based Language Models'
-authors: Mei Hongyuan, Bansal Mohit, Walter Matthew R.
+authors: Hongyuan Mei, Mohit Bansal, Matthew R. Walter
 conference: "Arxiv"
 year: 2016
-citations: 67
 bibkey: mei2016coherent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.06997"}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Transformer', 'Attention Mechanism', 'Reinforcement Learning']
 ---
 We model coherent conversation continuation via RNN-based dialogue models
 equipped with a dynamic attention mechanism. Our attention-RNN language model

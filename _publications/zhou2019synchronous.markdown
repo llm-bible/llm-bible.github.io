@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Synchronous Bidirectional Neural Machine Translation'
-authors: Zhou Long, Zhang Jiajun, Zong Chengqing
+authors: Long Zhou, Jiajun Zhang, Chengqing Zong
 conference: "Arxiv"
 year: 2019
-citations: 117
 bibkey: zhou2019synchronous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.04847"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'RAG', 'Applications', 'WMT']
+tags: ['WMT', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Existing approaches to neural machine translation (NMT) generate the target
 language sequence token by token from left to right. However, this kind of

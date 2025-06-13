@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'KG-BART: Knowledge Graph-augmented BART For Generative Commonsense Reasoning'
-authors: Liu Ye, Wan Yao, He Lifang, Peng Hao, Yu Philip S.
+authors: Ye Liu, Yao Wan, Lifang He, Hao Peng, Philip S. Yu
 conference: "Arxiv"
 year: 2020
-citations: 149
 bibkey: liu2020kg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.12677"}
-tags: ['Model Architecture', 'Attention Mechanism', 'RAG', 'Applications', 'Reinforcement Learning', 'Language Modeling']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications', 'Attention Mechanism']
 ---
 Generative commonsense reasoning which aims to empower machines to generate
 sentences with the capacity of reasoning over a set of concepts is a critical

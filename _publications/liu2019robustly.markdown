@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Roberta: A Robustly Optimized BERT Pretraining Approach'
-authors: Liu Yinhan, Ott Myle, Goyal Naman, Du Jingfei, Joshi Mandar, Chen Danqi, Levy Omer, Lewis Mike, Zettlemoyer Luke, Stoyanov Veselin
+authors: Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov
 conference: "Arxiv"
 year: 2019
-citations: 15780
 bibkey: liu2019robustly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.11692"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
 ---
 Language model pretraining has led to significant performance gains but
 careful comparison between different approaches is challenging. Training is

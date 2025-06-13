@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'XGLUE: A New Benchmark Dataset For Cross-lingual Pre-training, Understanding And Generation'
-authors: Liang Yaobo, Duan Nan, Gong Yeyun, Wu Ning, Guo Fenfei, Qi Weizhen, Gong Ming, Shou Linjun, Jiang Daxin, Cao Guihong, Fan Xiaodong, Zhang Ruofei, Agrawal Rahul, Cui Edward, Wei Sining, Bharti Taroon, Qiao Ying, Chen Jiun-hung, Wu Winnie, Liu Shuguang, Yang Fan, Campos Daniel, Majumder Rangan, Zhou Ming
+authors: Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Ruofei Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Daniel Campos, Rangan Majumder, Ming Zhou
 conference: "Arxiv"
 year: 2020
-citations: 80
 bibkey: liang2020new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.01401"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Applications', 'BERT']
+tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training', 'Applications']
 ---
 In this paper, we introduce XGLUE, a new benchmark dataset that can be used
 to train large-scale cross-lingual pre-trained models using multilingual and

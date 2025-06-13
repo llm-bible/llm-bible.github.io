@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Multimodal Compact Bilinear Pooling For Visual Question Answering And Visual Grounding'
-authors: Fukui Akira, Park Dong Huk, Yang Daylen, Rohrbach Anna, Darrell Trevor, Rohrbach Marcus
+authors: Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach
 conference: "Arxiv"
 year: 2016
-citations: 1342
 bibkey: fukui2016multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.01847"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Applications', 'Attention Mechanism']
 ---
 Modeling textual or visual information with vector representations trained
 from large language or visual datasets has been successfully explored in recent

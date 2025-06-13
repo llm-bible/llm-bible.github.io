@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Query2doc: Query Expansion With Large Language Models'
-authors: Wang Liang, Yang Nan, Wei Furu
+authors: Liang Wang, Nan Yang, Furu Wei
 conference: "Arxiv"
 year: 2023
-citations: 61
 bibkey: wang2023query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07678"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Few-Shot', 'Pretraining Methods', 'In-Context Learning']
+tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
 ---
 This paper introduces a simple yet effective query expansion approach,
 denoted as query2doc, to improve both sparse and dense retrieval systems. The

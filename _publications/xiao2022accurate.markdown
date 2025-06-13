@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Smoothquant: Accurate And Efficient Post-training Quantization For Large Language Models'
-authors: Xiao Guangxuan, Lin Ji, Seznec Mickael, Wu Hao, Demouth Julien, Han Song
+authors: Guangxuan Xiao, Ji Lin, Mickael Seznec, Hao Wu, Julien Demouth, Song Han
 conference: "Arxiv"
 year: 2022
-citations: 53
 bibkey: xiao2022accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.10438"}
   - {name: "Code", url: "https://github.com/mit-han-lab/smoothquant"}
-tags: ['Quantization', 'Has Code', 'Efficiency and Optimization', 'Training Techniques']
+tags: ['Quantization', 'Efficiency and Optimization', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) show excellent performance but are compute- and
 memory-intensive. Quantization can reduce memory and accelerate inference.

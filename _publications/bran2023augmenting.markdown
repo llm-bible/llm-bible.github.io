@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chemcrow: Augmenting Large-language Models With Chemistry Tools'
-authors: Bran Andres M, Cox Sam, Schilter Oliver, Baldassari Carlo, White Andrew D, Schwaller Philippe
+authors: Andres M Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D White, Philippe Schwaller
 conference: "Arxiv"
 year: 2023
-citations: 103
 bibkey: bran2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05376"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Uncategorized', 'Applications', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
 ---
 Over the last decades, excellent computational chemistry tools have been
 developed. Integrating them into a single platform with enhanced accessibility

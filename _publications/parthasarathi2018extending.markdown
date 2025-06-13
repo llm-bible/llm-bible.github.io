@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Extending Neural Generative Conversational Model Using External Knowledge Sources'
-authors: Parthasarathi Prasanna, Pineau Joelle
+authors: Prasanna Parthasarathi, Joelle Pineau
 conference: "Arxiv"
 year: 2018
-citations: 72
 bibkey: parthasarathi2018extending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.05524"}
-tags: ['Model Architecture', 'Training Techniques', 'Uncategorized', 'Tools', 'RAG', 'Agentic']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG']
 ---
 The use of connectionist approaches in conversational agents has been
 progressing rapidly due to the availability of large corpora. However current

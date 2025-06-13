@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Minilm: Deep Self-attention Distillation For Task-agnostic Compression Of Pre-trained Transformers'
-authors: Wang Wenhui, Wei Furu, Dong Li, Bao Hangbo, Yang Nan, Zhou Ming
+authors: Wenhui Wang, Furu Wei, Li Dong, Hangbo Bao, Nan Yang, Ming Zhou
 conference: "Arxiv"
 year: 2020
-citations: 541
 bibkey: wang2020deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10957"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Distillation', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Pre-trained language models (e.g., BERT (Devlin et al., 2018) and its
 variants) have achieved remarkable success in varieties of NLP tasks. However,

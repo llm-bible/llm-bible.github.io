@@ -4,12 +4,11 @@ title: 'The Rise And Potential Of Large Language Model Based Agents: A Survey'
 authors: Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang, Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wensen Cheng, Qi Zhang, Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, Tao Gui
 conference: "Arxiv"
 year: 2023
-citations: 153
 bibkey: xi2023rise
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.07864v3"}
   - {name: "Code", url: "https://github.com/WooooDyy/LLM-Agent-Paper-List"}
-tags: ['Survey Paper', 'Training Techniques', 'Tools', 'Uncategorized', 'Has Code', 'RAG', 'Applications', 'Agentic']
+tags: ['Agentic', 'Training Techniques', 'Survey Paper', 'Tools', 'RAG', 'Has Code', 'Applications']
 ---
 For a long time, humanity has pursued artificial intelligence (AI) equivalent
 to or surpassing the human level, with AI agents considered a promising vehicle

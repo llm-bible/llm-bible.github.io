@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Transformative Effects Of Chatgpt On Modern Education: Emerging Era Of AI Chatbots'
-authors: Gill Sukhpal Singh, Xu Minxian, Patros Panos, Wu Huaming, Kaur Rupinder, Kaur Kamalpreet, Fuller Stephanie, Singh Manmeet, Arora Priyansh, Parlikad Ajith Kumar, Stankovski Vlado, Abraham Ajith, Ghosh Soumya K., Lutfiyya Hanan, Kanhere Salil S., Bahsoon Rami, Rana Omer, Dustdar Schahram, Sakellariou Rizos, Uhlig Steve, Buyya Rajkumar
-conference: "Internet of Things and Cyber-Physical Systems"
+authors: Sukhpal Singh Gill, Minxian Xu, Panos Patros, Huaming Wu, Rupinder Kaur, Kamalpreet Kaur, Stephanie Fuller, Manmeet Singh, Priyansh Arora, Ajith Kumar Parlikad, Vlado Stankovski, Ajith Abraham, Soumya K. Ghosh, Hanan Lutfiyya, Salil S. Kanhere, Rami Bahsoon, Omer Rana, Schahram Dustdar, Rizos Sakellariou, Steve Uhlig, Rajkumar Buyya
+conference: "Internet of Things and Cyber-Physical Systems (Elsevier) Volume 4 2024 Pages 19-23"
 year: 2023
-citations: 298
 bibkey: gill2023transformative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03823"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture', 'Merging']
+tags: ['Model Architecture', 'GPT', 'Merging']
 ---
 ChatGPT, an AI-based chatbot, was released to provide coherent and useful
 replies based on analysis of large volumes of data. In this article, leading

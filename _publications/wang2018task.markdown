@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Task In A Suit And A Tie: Paraphrase Generation With Semantic Augmentation'
-authors: Wang Su, Gupta Rahul, Chang Nancy, Baldridge Jason
-conference: "Association for the Advancement of Artificial Intelligence"
+authors: Su Wang, Rahul Gupta, Nancy Chang, Jason Baldridge
+conference: "Association for the Advancement of Artificial Intelligence (AAAI) 2019"
 year: 2018
-citations: 67
 bibkey: wang2018task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1811.00119"}
-tags: ['Pretraining Methods', 'Transformer', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
 ---
 Paraphrasing is rooted in semantics. We show the effectiveness of
 transformers (Vaswani et al. 2017) for paraphrase generation and further

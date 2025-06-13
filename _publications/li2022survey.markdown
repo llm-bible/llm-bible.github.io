@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Survey On Retrieval-augmented Text Generation'
-authors: Li Huayang, Su Yixuan, Cai Deng, Wang Yan, Liu Lemao
+authors: Huayang Li, Yixuan Su, Deng Cai, Yan Wang, Lemao Liu
 conference: "Arxiv"
 year: 2022
-citations: 54
 bibkey: li2022survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.01110"}
-tags: ['Survey Paper', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'RAG', 'Applications', 'COLING', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'COLING', 'Applications', 'Attention Mechanism']
 ---
 Recently, retrieval-augmented text generation attracted increasing attention
 of the computational linguistics community. Compared with conventional

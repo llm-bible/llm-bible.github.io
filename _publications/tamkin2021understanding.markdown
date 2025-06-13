@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Understanding The Capabilities, Limitations, And Societal Impact Of Large Language Models'
-authors: Tamkin Alex, Brundage Miles, Clark Jack, Ganguli Deep
+authors: Alex Tamkin, Miles Brundage, Jack Clark, Deep Ganguli
 conference: "Arxiv"
 year: 2021
-citations: 100
 bibkey: tamkin2021understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.02503"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture']
+tags: ['Model Architecture', 'GPT']
 ---
 On October 14th, 2020, researchers from OpenAI, the Stanford Institute for
 Human-Centered Artificial Intelligence, and other universities convened to

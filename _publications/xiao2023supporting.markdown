@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Supporting Qualitative Analysis With Large Language Models: Combining Codebook With GPT-3 For Deductive Coding'
-authors: Xiao Ziang, Yuan Xingdi, Liao Q. Vera, Abdelghani Rania, Oudeyer Pierre-yves
+authors: Ziang Xiao, Xingdi Yuan, Q. Vera Liao, Rania Abdelghani, Pierre-yves Oudeyer
 conference: "Arxiv"
 year: 2023
-citations: 99
 bibkey: xiao2023supporting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.10548"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Tools', 'Prompting', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
 ---
 Qualitative analysis of textual contents unpacks rich and valuable
 information by assigning labels to the data. However, this process is often

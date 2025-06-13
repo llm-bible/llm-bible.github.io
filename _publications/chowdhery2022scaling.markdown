@@ -4,11 +4,10 @@ title: 'Palm: Scaling Language Modeling With Pathways'
 authors: Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez, Abhishek Rao, Parker Barnes, Yi Tay, Noam Shazeer, Vinodkumar Prabhakaran, Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob Austin, Michael Isard, Guy Gur-ari, Pengcheng Yin, Toju Duke, Anselm Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia, Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David Dohan, Shivani Agrawal, Mark Omernick, Andrew M. Dai, Thanumalayan Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei, Kathy Meier-hellstern, Douglas Eck, Jeff Dean, Slav Petrov, Noah Fiedel
 conference: "Arxiv"
 year: 2022
-citations: 1863
 bibkey: chowdhery2022scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.02311v5"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Pretraining Methods', 'Transformer', 'RAG', 'Ethics and Bias', 'Applications', 'Language Modeling']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Large language models have been shown to achieve remarkable performance
 across a variety of natural language tasks using few-shot learning, which

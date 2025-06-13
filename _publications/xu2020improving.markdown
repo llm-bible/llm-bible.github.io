@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Improving BERT Fine-tuning Via Self-ensemble And Self-distillation'
-authors: Xu Yige, Qiu Xipeng, Zhou Ligao, Huang Xuanjing
+authors: Yige Xu, Xipeng Qiu, Ligao Zhou, Xuanjing Huang
 conference: "Arxiv"
 year: 2020
-citations: 54
 bibkey: xu2020improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10345"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Distillation', 'Efficiency and Optimization', 'Pretraining Methods', 'RAG', 'BERT']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
 ---
 Fine-tuning pre-trained language models like BERT has become an effective way
 in NLP and yields state-of-the-art results on many downstream tasks. Recent

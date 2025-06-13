@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Let''s Have A Chat! A Conversation With Chatgpt: Technology, Applications, And Limitations'
-authors: Shahriar Sakib, Hayawi Kadhim
+authors: Sakib Shahriar, Kadhim Hayawi
 conference: "Arxiv"
 year: 2023
-citations: 85
 bibkey: shahriar2023have
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.13817"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 The emergence of an AI-powered chatbot that can generate human-like sentences
 and write coherent essays has caught the world's attention. This paper

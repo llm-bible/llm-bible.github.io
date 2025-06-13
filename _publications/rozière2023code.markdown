@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Code Llama: Open Foundation Models For Code'
-authors: Rozière Baptiste, Gehring Jonas, Gloeckle Fabian, Sootla Sten, Gat Itai, Tan Xiaoqing Ellen, Adi Yossi, Liu Jingyu, Sauvestre Romain, Remez Tal, Rapin Jérémy, Kozhevnikov Artyom, Evtimov Ivan, Bitton Joanna, Bhatt Manish, Ferrer Cristian Canton, Grattafiori Aaron, Xiong Wenhan, Défossez Alexandre, Copet Jade, Azhar Faisal, Touvron Hugo, Martin Louis, Usunier Nicolas, Scialom Thomas, Synnaeve Gabriel
+authors: Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Romain Sauvestre, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve
 conference: "Arxiv"
 year: 2023
-citations: 212
 bibkey: rozière2023code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12950"}
-tags: ['Applications', 'Uncategorized', 'Reinforcement Learning']
+tags: ['Applications', 'Reinforcement Learning']
 ---
 We release Code Llama, a family of large language models for code based on
 Llama 2 providing state-of-the-art performance among open models, infilling

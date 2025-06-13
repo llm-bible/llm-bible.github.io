@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Attention Strategies For Multi-source Sequence-to-sequence Learning'
-authors: Libovický Jindřich, Helcl Jindřich
+authors: Jindřich Libovický, Jindřich Helcl
 conference: "Arxiv"
 year: 2017
-citations: 174
 bibkey: libovický2017attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1704.06567"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Transformer', 'Multimodal Models', 'WMT']
+tags: ['WMT', 'Model Architecture', 'Multimodal Models', 'Transformer', 'Attention Mechanism']
 ---
 Modeling attention in neural multi-source sequence-to-sequence learning
 remains a relatively unexplored area, despite its usefulness in tasks that

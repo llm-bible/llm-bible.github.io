@@ -4,12 +4,11 @@ title: 'Wizardlm: Empowering Large Language Models To Follow Complex Instruction
 authors: Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang
 conference: "Arxiv"
 year: 2023
-citations: 77
 bibkey: xu2023empowering
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.12244v2"}
   - {name: "Code", url: "https://github.com/nlpxucan/WizardLM"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Pretraining Methods']
+tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
 ---
 Training large language models (LLMs) with open-domain instruction following
 data brings colossal success. However, manually creating such instruction data

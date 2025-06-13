@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Sub-instruction Aware Vision-and-language Navigation'
-authors: Hong Yicong, Rodriguez-opazo Cristian, Wu Qi, Gould Stephen
+authors: Yicong Hong, Cristian Rodriguez-opazo, Qi Wu, Stephen Gould
 conference: "Arxiv"
 year: 2020
-citations: 50
 bibkey: hong2020sub
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.02707"}
   - {name: "Code", url: "https://github.com/YicongHong/Fine-Grained-R2R"}
-tags: ['Training Techniques', 'Model Architecture', 'Uncategorized', 'Has Code', 'Attention Mechanism', 'Agentic']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Has Code', 'Attention Mechanism']
 ---
 Vision-and-language navigation requires an agent to navigate through a real
 3D environment following natural language instructions. Despite significant

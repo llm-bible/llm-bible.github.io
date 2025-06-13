@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Evaluating Large Language Models On A Highly-specialized Topic, Radiation Oncology Physics'
-authors: Holmes Jason, Liu Zhengliang, Zhang Lian, Ding Yuzhen, Sio Terence T., Mcgee Lisa A., Ashman Jonathan B., Li Xiang, Liu Tianming, Shen Jiajian, Liu Wei
+authors: Jason Holmes, Zhengliang Liu, Lian Zhang, Yuzhen Ding, Terence T. Sio, Lisa A. Mcgee, Jonathan B. Ashman, Xiang Li, Tianming Liu, Jiajian Shen, Wei Liu
 conference: "Arxiv"
 year: 2023
-citations: 91
 bibkey: holmes2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01938"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'RAG']
+tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
 ---
 We present the first study to investigate Large Language Models (LLMs) in
 answering radiation oncology physics questions. Because popular exams like AP

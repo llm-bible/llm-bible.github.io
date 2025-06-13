@@ -4,12 +4,11 @@ title: 'Pythia: A Suite For Analyzing Large Language Models Across Training And 
 authors: Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, Usvsn Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar Van Der Wal
 conference: "Arxiv"
 year: 2023
-citations: 94
 bibkey: biderman2023suite
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.01373v2"}
   - {name: "Code", url: "https://github.com/EleutherAI/pythia"}
-tags: ['Training Techniques', 'Tools', 'Few-Shot', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code']
 ---
 How do large language models (LLMs) develop and evolve over the course of
 training? How do these patterns change as models scale? To answer these

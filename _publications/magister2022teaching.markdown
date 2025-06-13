@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Teaching Small Language Models To Reason'
-authors: Magister Lucie Charlotte, Mallinson Jonathan, Adamek Jakub, Malmi Eric, Severyn Aliaksei
+authors: Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn
 conference: "Arxiv"
 year: 2022
-citations: 59
 bibkey: magister2022teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08410"}
-tags: ['Prompting', 'Distillation', 'Efficiency and Optimization']
+tags: ['Prompting', 'Efficiency and Optimization', 'Distillation']
 ---
 Chain of thought prompting successfully improves the reasoning capabilities
 of large language models, achieving state of the art results on a range of

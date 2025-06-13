@@ -4,11 +4,10 @@ title: 'Training Compute-optimal Large Language Models'
 authors: Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego De Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George Van Den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre
 conference: "Arxiv"
 year: 2022
-citations: 452
 bibkey: hoffmann2022training
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2203.15556v1"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Transformer', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
 ---
 We investigate the optimal model size and number of tokens for training a
 transformer language model under a given compute budget. We find that current

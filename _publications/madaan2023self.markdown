@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Self-refine: Iterative Refinement With Self-feedback'
-authors: Madaan Aman, Tandon Niket, Gupta Prakhar, Hallinan Skyler, Gao Luyu, Wiegreffe Sarah, Alon Uri, Dziri Nouha, Prabhumoye Shrimai, Yang Yiming, Gupta Shashank, Majumder Bodhisattwa Prasad, Hermann Katherine, Welleck Sean, Yazdanbakhsh Amir, Clark Peter
+authors: Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark
 conference: "Arxiv"
 year: 2023
-citations: 136
 bibkey: madaan2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17651"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'RAG', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
 ---
 Like humans, large language models (LLMs) do not always generate the best
 output on their first try. Motivated by how humans refine their written text,

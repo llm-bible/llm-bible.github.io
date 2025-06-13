@@ -4,11 +4,10 @@ title: 'Direct Preference Optimization: Your Language Model Is Secretly A Reward
 authors: Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn
 conference: "Arxiv"
 year: 2023
-citations: 109
 bibkey: rafailov2023direct
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.18290v3"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'Applications', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 While large-scale unsupervised language models (LMs) learn broad world
 knowledge and some reasoning skills, achieving precise control of their

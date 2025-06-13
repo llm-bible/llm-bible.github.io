@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Chatgpt: Applications, Opportunities, And Threats'
-authors: Bahrini Aram, Khamoshifar Mohammadsadra, Abbasimehr Hossein, Riggs Robert J., Esmaeili Maryam, Majdabadkohne Rastin Mastali, Pasehvar Morteza
+authors: Aram Bahrini, Mohammadsadra Khamoshifar, Hossein Abbasimehr, Robert J. Riggs, Maryam Esmaeili, Rastin Mastali Majdabadkohne, Morteza Pasehvar
 conference: "Arxiv"
 year: 2023
-citations: 190
 bibkey: bahrini2023threats
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09103"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 Developed by OpenAI, ChatGPT (Conditional Generative Pre-trained Transformer)
 is an artificial intelligence technology that is fine-tuned using supervised

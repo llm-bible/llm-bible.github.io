@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Synchromesh: Reliable Code Generation From Pre-trained Language Models'
-authors: Poesia Gabriel, Polozov Oleksandr, Le Vu, Tiwari Ashish, Soares Gustavo, Meek Christopher, Gulwani Sumit
+authors: Gabriel Poesia, Oleksandr Polozov, Vu Le, Ashish Tiwari, Gustavo Soares, Christopher Meek, Sumit Gulwani
 conference: "Arxiv"
 year: 2022
-citations: 57
 bibkey: poesia2022reliable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.11227"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Tools', 'Few-Shot', 'GPT', 'Pretraining Methods', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 Large pre-trained language models have been used to generate code,providing a
 flexible interface for synthesizing programs from natural language

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Sentence-t5: Scalable Sentence Encoders From Pre-trained Text-to-text Models'
-authors: Ni Jianmo, Ábrego Gustavo Hernández, Constant Noah, Ma Ji, Hall Keith B., Cer Daniel, Yang Yinfei
+authors: Jianmo Ni, Gustavo Hernández Ábrego, Noah Constant, Ji Ma, Keith B. Hall, Daniel Cer, Yinfei Yang
 conference: "Arxiv"
 year: 2021
-citations: 146
 bibkey: ni2021sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.08877"}
   - {name: "Code", url: "https://tfhub.dev/google/collections/sentence-t5/1"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Transformer', 'BERT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code']
 ---
 We provide the first exploration of sentence embeddings from text-to-text
 transformers (T5). Sentence embeddings are broadly useful for language

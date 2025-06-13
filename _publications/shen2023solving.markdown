@@ -4,11 +4,10 @@ title: 'Hugginggpt: Solving AI Tasks With Chatgpt And Its Friends In Hugging Fac
 authors: Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang
 conference: "Arxiv"
 year: 2023
-citations: 200
 bibkey: shen2023solving
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.17580v4"}
-tags: ['Model Architecture', 'GPT', 'Uncategorized', 'RAG', 'Agentic']
+tags: ['Agentic', 'RAG', 'Model Architecture', 'GPT']
 ---
 Solving complicated AI tasks with different domains and modalities is a key
 step toward artificial general intelligence. While there are numerous AI models

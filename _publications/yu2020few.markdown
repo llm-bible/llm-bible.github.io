@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Few-shot Generative Conversational Query Rewriting'
-authors: Yu Shi, Liu Jiahua, Yang Jingqin, Xiong Chenyan, Bennett Paul, Gao Jianfeng, Liu Zhiyuan
+authors: Shi Yu, Jiahua Liu, Jingqin Yang, Chenyan Xiong, Paul Bennett, Jianfeng Gao, Zhiyuan Liu
 conference: "Arxiv"
 year: 2020
-citations: 112
 bibkey: yu2020few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.05009"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Pretraining Methods', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Applications']
 ---
 Conversational query rewriting aims to reformulate a concise conversational
 query to a fully specified, context-independent query that can be effectively

@@ -4,11 +4,10 @@ title: 'Using Deepspeed And Megatron To Train Megatron-turing NLG 530B, A Large-
 authors: Shaden Smith, Mostofa Patwary, Brandon Norick, Patrick Legresley, Samyam Rajbhandari, Jared Casper, Zhun Liu, Shrimai Prabhumoye, George Zerveas, Vijay Korthikanti, Elton Zhang, Rewon Child, Reza Yazdani Aminabadi, Julie Bernauer, Xia Song, Mohammad Shoeybi, Yuxiong He, Michael Houston, Saurabh Tiwary, Bryan Catanzaro
 conference: "Arxiv"
 year: 2022
-citations: 262
 bibkey: smith2022using
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2201.11990v3"}
-tags: ['Large-Scale Training', 'Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Tools', 'Few-Shot', 'Pretraining Methods', 'Transformer']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Transformer']
 ---
 Pretrained general-purpose language models can achieve state-of-the-art
 accuracies in various natural language processing domains by adapting to

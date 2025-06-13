@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Long Short-term Memory-networks For Machine Reading'
-authors: Cheng Jianpeng, Dong Li, Lapata Mirella
+authors: Jianpeng Cheng, Li Dong, Mirella Lapata
 conference: "Arxiv"
 year: 2016
-citations: 1027
 bibkey: cheng2016long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1601.06733"}
-tags: ['Uncategorized', 'Attention Mechanism', 'Model Architecture']
+tags: ['Model Architecture', 'Attention Mechanism']
 ---
 In this paper we address the question of how to render sequence-level
 networks better at handling structured input. We propose a machine reading

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Unixcoder: Unified Cross-modal Pre-training For Code Representation'
-authors: Guo Daya, Lu Shuai, Duan Nan, Wang Yanlin, Zhou Ming, Yin Jian
+authors: Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou, Jian Yin
 conference: "Arxiv"
 year: 2022
-citations: 273
 bibkey: guo2022unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.03850"}
-tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Tools', 'Multimodal Models', 'Pretraining Methods', 'Attention Mechanism', 'RAG', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Pre-Training', 'Attention Mechanism']
 ---
 Pre-trained models for programming languages have recently demonstrated great
 success on code intelligence. To support both code-related understanding and

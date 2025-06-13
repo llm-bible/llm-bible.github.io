@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Large Language Models And The Reverse Turing Test'
-authors: Sejnowski Terrence
-conference: "Neural Computation"
+authors: Terrence Sejnowski
+conference: "Neural Computation 35 309-342 (2023)"
 year: 2022
-citations: 113
 bibkey: sejnowski2022large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.14382"}
-tags: ['GPT', 'Uncategorized', 'Model Architecture', 'Training Techniques']
+tags: ['Training Techniques', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have been transformative. They are pre-trained
 foundational models that are self-supervised and can be adapted with fine

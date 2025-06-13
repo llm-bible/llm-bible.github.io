@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Sockeye: A Toolkit For Neural Machine Translation'
-authors: Hieber Felix, Domhan Tobias, Denkowski Michael, Vilar David, Sokolov Artem, Clifton Ann, Post Matt
+authors: Felix Hieber, Tobias Domhan, Michael Denkowski, David Vilar, Artem Sokolov, Ann Clifton, Matt Post
 conference: "Arxiv"
 year: 2017
-citations: 205
 bibkey: hieber2017toolkit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1712.05690"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'Reinforcement Learning', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 We describe Sockeye (version 1.12), an open-source sequence-to-sequence
 toolkit for Neural Machine Translation (NMT). Sockeye is a production-ready

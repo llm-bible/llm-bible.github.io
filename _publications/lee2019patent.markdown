@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Patent Claim Generation By Fine-tuning Openai GPT-2'
-authors: Lee Jieh-sheng, Hsiang Jieh
+authors: Jieh-sheng Lee, Jieh Hsiang
 conference: "Arxiv"
 year: 2019
-citations: 124
 bibkey: lee2019patent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.02052"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Language Modeling', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
 ---
 In this work, we focus on fine-tuning an OpenAI GPT-2 pre-trained model for
 generating patent claims. GPT-2 has demonstrated impressive efficacy of

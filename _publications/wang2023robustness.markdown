@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'On The Robustness Of Chatgpt: An Adversarial And Out-of-distribution Perspective'
-authors: Wang Jindong, Hu Xixu, Hou Wenxin, Chen Hao, Zheng Runkai, Wang Yidong, Yang Linyi, Huang Haojun, Ye Wei, Geng Xiubo, Jiao Binxin, Zhang Yue, Xie Xing
+authors: Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie
 conference: "Arxiv"
 year: 2023
-citations: 73
 bibkey: wang2023robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.12095"}
-tags: ['Survey Paper', 'Model Architecture', 'GPT', 'Uncategorized', 'Security', 'Attention Mechanism', 'Applications', 'Ethics and Bias', 'Responsible AI']
+tags: ['Responsible AI', 'Security', 'Model Architecture', 'Survey Paper', 'GPT', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
 ---
 ChatGPT is a recent chatbot service released by OpenAI and is receiving
 increasing attention over the past few months. While evaluations of various

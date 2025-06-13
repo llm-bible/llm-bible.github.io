@@ -4,12 +4,11 @@ title: 'Instructblip: Towards General-purpose Vision-language Models With Instru
 authors: Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi
 conference: "Arxiv"
 year: 2023
-citations: 217
 bibkey: dai2023towards
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.06500v2"}
   - {name: "Code", url: "https://github.com/salesforce/LAVIS/tree/main/projects/instructblip"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Transformer', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training']
 ---
 Large-scale pre-training and instruction tuning have been successful at
 creating general-purpose language models with broad competence. However,

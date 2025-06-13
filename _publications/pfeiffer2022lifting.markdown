@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Lifting The Curse Of Multilinguality By Pre-training Modular Transformers'
-authors: Pfeiffer Jonas, Goyal Naman, Lin Xi Victoria, Li Xian, Cross James, Riedel Sebastian, Artetxe Mikel
+authors: Jonas Pfeiffer, Naman Goyal, Xi Victoria Lin, Xian Li, James Cross, Sebastian Riedel, Mikel Artetxe
 conference: "Arxiv"
 year: 2022
-citations: 53
 bibkey: pfeiffer2022lifting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.06266"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
 ---
 Multilingual pre-trained models are known to suffer from the curse of
 multilinguality, which causes per-language performance to drop as they cover

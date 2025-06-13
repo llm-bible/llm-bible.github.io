@@ -4,11 +4,10 @@ title: 'News Summarization And Evaluation In The Era Of GPT-3'
 authors: Tanya Goyal, Junyi Jessy Li, Greg Durrett
 conference: "Arxiv"
 year: 2022
-citations: 170
 bibkey: goyal2022news
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2209.12356v2"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
 ---
 The recent success of prompting large language models like GPT-3 has led to a
 paradigm shift in NLP research. In this paper, we study its impact on text

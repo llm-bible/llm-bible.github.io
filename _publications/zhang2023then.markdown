@@ -4,12 +4,11 @@ title: 'Prompt, Generate, Then Cache: Cascade Of Foundation Models Makes Strong 
 authors: Renrui Zhang, Xiangfei Hu, Bohao Li, Siyuan Huang, Hanqiu Deng, Hongsheng Li, Yu Qiao, Peng Gao
 conference: "Arxiv"
 year: 2023
-citations: 85
 bibkey: zhang2023then
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.02151v1"}
   - {name: "Code", url: "https://github.com/ZrrSkywalker/CaFo"}
-tags: ['Pre-Training', 'Model Architecture', 'GPT', 'Few-Shot', 'Training Techniques', 'Prompting', 'Uncategorized', 'Has Code', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Pre-Training']
 ---
 Visual recognition in low-data regimes requires deep neural networks to learn
 generalized representations from limited training samples. Recently, CLIP-based

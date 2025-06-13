@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Fine-tuning Pretrained Language Models: Weight Initializations, Data Orders, And Early Stopping'
-authors: Dodge Jesse, Ilharco Gabriel, Schwartz Roy, Farhadi Ali, Hajishirzi Hannaneh, Smith Noah
+authors: Jesse Dodge, Gabriel Ilharco, Roy Schwartz, Ali Farhadi, Hannaneh Hajishirzi, Noah Smith
 conference: "Arxiv"
 year: 2020
-citations: 274
 bibkey: dodge2020fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.06305"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'RAG', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
 ---
 Fine-tuning pretrained contextual word embedding models to supervised
 downstream tasks has become commonplace in natural language processing. This

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Big Bird: Transformers For Longer Sequences'
-authors: Zaheer Manzil, Guruganesh Guru, Dubey Avinava, Ainslie Joshua, Alberti Chris, Ontanon Santiago, Pham Philip, Ravula Anirudh, Wang Qifan, Yang Li, Ahmed Amr
-conference: "Neural Information Processing Systems"
+authors: Manzil Zaheer, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, Amr Ahmed
+conference: "Neural Information Processing Systems (NeurIPS) 2020"
 year: 2020
-citations: 805
 bibkey: zaheer2020big
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.14062"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'BERT']
+tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Transformers-based models, such as BERT, have been one of the most successful
 deep learning models for NLP. Unfortunately, one of their core limitations is

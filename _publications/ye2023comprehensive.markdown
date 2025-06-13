@@ -4,11 +4,10 @@ title: 'A Comprehensive Capability Analysis Of GPT-3 And GPT-3.5 Series Models'
 authors: Junjie Ye, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang
 conference: "Arxiv"
 year: 2023
-citations: 143
 bibkey: ye2023comprehensive
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.10420v2"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Security', 'Uncategorized', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Attention Mechanism']
 ---
 GPT series models, such as GPT-3, CodeX, InstructGPT, ChatGPT, and so on,
 have gained considerable attention due to their exceptional natural language

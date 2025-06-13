@@ -4,11 +4,10 @@ title: 'Qlora: Efficient Finetuning Of Quantized Llms'
 authors: Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2023
-citations: 338
 bibkey: dettmers2023efficient
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.14314v1"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Efficiency and Optimization', 'RAG', 'Quantization']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Quantization', 'Fine-Tuning']
 ---
 We present QLoRA, an efficient finetuning approach that reduces memory usage
 enough to finetune a 65B parameter model on a single 48GB GPU while preserving

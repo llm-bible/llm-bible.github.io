@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Qanet: Combining Local Convolution With Global Self-attention For Reading Comprehension'
-authors: Yu Adams Wei, Dohan David, Luong Minh-thang, Zhao Rui, Chen Kai, Norouzi Mohammad, Le Quoc V.
+authors: Adams Wei Yu, David Dohan, Minh-thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, Quoc V. Le
 conference: "Arxiv"
 year: 2018
-citations: 471
 bibkey: yu2018combining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.09541"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'Transformer', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Current end-to-end machine reading and question answering (Q\&A) models are
 primarily based on recurrent neural networks (RNNs) with attention. Despite

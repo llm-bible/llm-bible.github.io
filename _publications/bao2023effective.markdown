@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Tallrec: An Effective And Efficient Tuning Framework To Align Large Language Model With Recommendation'
-authors: Bao Keqin, Zhang Jizhi, Zhang Yang, Wang Wenjie, Feng Fuli, He Xiangnan
+authors: Keqin Bao, Jizhi Zhang, Yang Zhang, Wenjie Wang, Fuli Feng, Xiangnan He
 conference: "Arxiv"
 year: 2023
-citations: 121
 bibkey: bao2023effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.00447"}
   - {name: "Code", url: "https://github.com/SAI990323/TALLRec"}
-tags: ['Training Techniques', 'Pre-Training', 'Prompting', 'Tools', 'Has Code', 'RAG', 'LREC', 'In-Context Learning']
+tags: ['Training Techniques', 'Tools', 'RAG', 'LREC', 'Has Code', 'Prompting', 'Pre-Training', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse domains, thereby prompting researchers to explore their potential for

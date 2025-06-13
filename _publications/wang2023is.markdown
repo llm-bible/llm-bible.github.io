@@ -4,11 +4,10 @@ title: 'Is Chatgpt A Good Sentiment Analyzer? A Preliminary Study'
 authors: Zengzhi Wang, Qiming Xie, Yi Feng, Zixiang Ding, Zinong Yang, Rui Xia
 conference: "Arxiv"
 year: 2023
-citations: 53
 bibkey: wang2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.04339v2"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Uncategorized', 'Attention Mechanism', 'BERT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'BERT', 'Prompting', 'Attention Mechanism']
 ---
 Recently, ChatGPT has drawn great attention from both the research community
 and the public. We are particularly interested in whether it can serve as a

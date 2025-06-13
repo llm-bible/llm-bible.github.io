@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Visual Dialog'
-authors: Das Abhishek, Kottur Satwik, Gupta Khushi, Singh Avi, Yadav Deshraj, Moura José M. F., Parikh Devi, Batra Dhruv
+authors: Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M. F. Moura, Devi Parikh, Dhruv Batra
 conference: "Arxiv"
 year: 2016
-citations: 552
 bibkey: das2016visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.08669"}
   - {name: "Code", url: "https://visualdialog.org"}
-tags: ['Uncategorized', 'Has Code', 'Agentic', 'Merging']
+tags: ['Agentic', 'Merging', 'Has Code']
 ---
 We introduce the task of Visual Dialog, which requires an AI agent to hold a
 meaningful dialog with humans in natural, conversational language about visual

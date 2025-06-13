@@ -4,11 +4,10 @@ title: 'Language Models Of Code Are Few-shot Commonsense Learners'
 authors: Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig
 conference: "Arxiv"
 year: 2022
-citations: 62
 bibkey: madaan2022language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.07128v3"}
-tags: ['GPT', 'Few-Shot', 'Applications', 'Model Architecture']
+tags: ['GPT', 'Model Architecture', 'Applications', 'Few-Shot']
 ---
 We address the general task of structured commonsense reasoning: given a
 natural language input, the goal is to generate a graph such as an event -- or

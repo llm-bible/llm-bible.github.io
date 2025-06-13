@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'What Do You Learn From Context? Probing For Sentence Structure In Contextualized Word Representations'
-authors: Tenney Ian, Xia Patrick, Chen Berlin, Wang Alex, Poliak Adam, Mccoy R Thomas, Kim Najoung, Van Durme Benjamin, Bowman Samuel R., Das Dipanjan, Pavlick Ellie
+authors: Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R Thomas Mccoy, Najoung Kim, Benjamin Van Durme, Samuel R. Bowman, Dipanjan Das, Ellie Pavlick
 conference: "Arxiv"
 year: 2019
-citations: 436
 bibkey: tenney2019what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.06316"}
-tags: ['Uncategorized', 'BERT', 'Model Architecture', 'Language Modeling']
+tags: ['Language Modeling', 'BERT', 'Model Architecture']
 ---
 Contextualized representation models such as ELMo (Peters et al., 2018a) and
 BERT (Devlin et al., 2018) have recently achieved state-of-the-art results on a

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Exploring Transformers In Natural Language Generation: GPT, BERT, And Xlnet'
-authors: Topal M. Onat, Bas Anil, Van Heerden Imke
+authors: M. Onat Topal, Anil Bas, Imke Van Heerden
 conference: "Arxiv"
 year: 2021
-citations: 51
 bibkey: topal2021exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.08036"}
-tags: ['Large-Scale Training', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'BERT', 'Language Modeling']
+tags: ['Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Recent years have seen a proliferation of attention mechanisms and the rise
 of Transformers in Natural Language Generation (NLG). Previously,

@@ -1,26 +1,29 @@
 ---
 layout: publication
-title: 'Mm-llms: Recent Advances In Multimodal Large Language Models'
-authors: Zhang Duzhen, Yu Yahan, Dong Jiahua, Li Chenxing, Su Dan, Chu Chenhui, Yu Dong
+title: 'Mm-eval: A Hierarchical Benchmark For Modern Mongolian Evaluation In Llms'
+authors: Mengyuan Zhang, Ruihui Wang, Bo Xia, Yuan Sun, Xiaobing Zhao
 conference: "Arxiv"
 year: 2024
-citations: 50
 bibkey: zhang2024mm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2401.13601"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
+  - {name: "Paper", url: "https://arxiv.org/abs/2411.09492"}
+  - {name: "Code", url: "https://github.com/joenahm/MM-Eval"}
+tags: ['Model Architecture', 'GPT', 'Has Code']
 ---
-In the past year, MultiModal Large Language Models (MM-LLMs) have undergone
-substantial advancements, augmenting off-the-shelf LLMs to support MM inputs or
-outputs via cost-effective training strategies. The resulting models not only
-preserve the inherent reasoning and decision-making capabilities of LLMs but
-also empower a diverse range of MM tasks. In this paper, we provide a
-comprehensive survey aimed at facilitating further research of MM-LLMs.
-Initially, we outline general design formulations for model architecture and
-training pipeline. Subsequently, we introduce a taxonomy encompassing 126
-MM-LLMs, each characterized by its specific formulations. Furthermore, we
-review the performance of selected MM-LLMs on mainstream benchmarks and
-summarize key training recipes to enhance the potency of MM-LLMs. Finally, we
-explore promising directions for MM-LLMs while concurrently maintaining a
-real-time tracking website for the latest developments in the field. We hope
-that this survey contributes to the ongoing advancement of the MM-LLMs domain.
+Large language models (LLMs) excel in high-resource languages but face
+notable challenges in low-resource languages like Mongolian. This paper
+addresses these challenges by categorizing capabilities into language abilities
+(syntax and semantics) and cognitive abilities (knowledge and reasoning). To
+systematically evaluate these areas, we developed MM-Eval, a specialized
+dataset based on Modern Mongolian Language Textbook I and enriched with WebQSP
+and MGSM datasets.
+  Preliminary experiments on models including Qwen2-7B-Instruct, GLM4-9b-chat,
+Llama3.1-8B-Instruct, GPT-4, and DeepseekV2.5 revealed that: 1) all models
+performed better on syntactic tasks than semantic tasks, highlighting a gap in
+deeper language understanding; and 2) knowledge tasks showed a moderate
+decline, suggesting that models can transfer general knowledge from
+high-resource to low-resource contexts.
+  The release of MM-Eval, comprising 569 syntax, 677 semantics, 344 knowledge,
+and 250 reasoning tasks, offers valuable insights for advancing NLP and LLMs in
+low-resource languages like Mongolian. The dataset is available at
+https://github.com/joenahm/MM-Eval.

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Jiant: A Software Toolkit For Research On General-purpose Text Understanding Models'
-authors: Pruksachatkun Yada, Yeres Phil, Liu Haokun, Phang Jason, Htut Phu Mon, Wang Alex, Tenney Ian, Bowman Samuel R.
+authors: Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, Alex Wang, Ian Tenney, Samuel R. Bowman
 conference: "Arxiv"
 year: 2020
-citations: 74
 bibkey: pruksachatkun2020software
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.02249"}
-tags: ['BERT', 'Training Techniques', 'Fine-Tuning', 'Model Architecture']
+tags: ['Training Techniques', 'BERT', 'Fine-Tuning', 'Model Architecture']
 ---
 We introduce jiant, an open source toolkit for conducting multitask and
 transfer learning experiments on English NLU tasks. jiant enables modular and

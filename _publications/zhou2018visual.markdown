@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Visual Attention Grounding Neural Model For Multimodal Machine Translation'
-authors: Zhou Mingyang, Cheng Runxiang, Lee Yong Jae, Yu Zhou
+authors: Mingyang Zhou, Runxiang Cheng, Yong Jae Lee, Zhou Yu
 conference: "Arxiv"
 year: 2018
-citations: 89
 bibkey: zhou2018visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.08266"}
-tags: ['Model Architecture', 'Attention Mechanism', 'RAG', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
 ---
 We introduce a novel multimodal machine translation model that utilizes
 parallel visual and textual information. Our model jointly optimizes the

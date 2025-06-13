@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Judging Llm-as-a-judge With Mt-bench And Chatbot Arena'
-authors: Zheng Lianmin, Chiang Wei-lin, Sheng Ying, Zhuang Siyuan, Wu Zhanghao, Zhuang Yonghao, Lin Zi, Li Zhuohan, Li Dacheng, Xing Eric P., Zhang Hao, Gonzalez Joseph E., Stoica Ion
+authors: Lianmin Zheng, Wei-lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica
 conference: "Arxiv"
 year: 2023
-citations: 290
 bibkey: zheng2023judging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05685"}
   - {name: "Code", url: "https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Has Code', 'Ethics and Bias']
+tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Has Code']
 ---
 Evaluating large language model (LLM) based chat assistants is challenging
 due to their broad capabilities and the inadequacy of existing benchmarks in

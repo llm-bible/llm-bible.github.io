@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Gpt3mix: Leveraging Large-scale Language Models For Text Augmentation'
-authors: Yoo Kang Min, Park Dongju, Kang Jaewook, Lee Sang-woo, Park Woomyeong
+authors: Kang Min Yoo, Dongju Park, Jaewook Kang, Sang-woo Lee, Woomyeong Park
 conference: "Arxiv"
 year: 2021
-citations: 104
 bibkey: yoo2021leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08826"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Few-Shot', 'Prompting', 'Pretraining Methods', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
 ---
 Large-scale language models such as GPT-3 are excellent few-shot learners,
 allowing them to be controlled via natural text prompts. Recent studies report

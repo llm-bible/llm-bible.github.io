@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Visual Prompt Tuning'
-authors: Jia Menglin, Tang Luming, Chen Bor-chun, Cardie Claire, Belongie Serge, Hariharan Bharath, Lim Ser-nam
+authors: Menglin Jia, Luming Tang, Bor-chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-nam Lim
 conference: "Arxiv"
 year: 2022
-citations: 604
 bibkey: jia2022visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.12119"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Prompting', 'Pretraining Methods', 'Transformer', 'RAG']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
 ---
 The current modus operandi in adapting pre-trained models involves updating
 all the backbone parameters, ie, full fine-tuning. This paper introduces Visual

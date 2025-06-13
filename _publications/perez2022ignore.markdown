@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Ignore Previous Prompt: Attack Techniques For Language Models'
-authors: Perez Fábio, Ribeiro Ian
+authors: Fábio Perez, Ian Ribeiro
 conference: "Arxiv"
 year: 2022
-citations: 50
 bibkey: perez2022ignore
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.09527"}
   - {name: "Code", url: "https://github.com/agencyenterprise/PromptInject"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'Security', 'Has Code', 'Pretraining Methods', 'Transformer', 'Merging', 'Applications', 'Agentic']
+tags: ['Agentic', 'Security', 'Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Applications']
 ---
 Transformer-based large language models (LLMs) provide a powerful foundation
 for natural language tasks in large-scale customer-facing applications.

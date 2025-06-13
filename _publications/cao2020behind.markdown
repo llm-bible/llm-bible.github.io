@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Behind The Scene: Revealing The Secrets Of Pre-trained Vision-and-language Models'
-authors: Cao Jize, Gan Zhe, Cheng Yu, Yu Licheng, Chen Yen-chun, Liu Jingjing
+authors: Jize Cao, Zhe Gan, Yu Cheng, Licheng Yu, Yen-chun Chen, Jingjing Liu
 conference: "Arxiv"
 year: 2020
-citations: 100
 bibkey: cao2020behind
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.07310"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'BERT', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
 ---
 Recent Transformer-based large-scale pre-trained models have revolutionized
 vision-and-language (V+L) research. Models such as ViLBERT, LXMERT and UNITER

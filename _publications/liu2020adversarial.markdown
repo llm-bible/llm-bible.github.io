@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Adversarial Training For Large Neural Language Models'
-authors: Liu Xiaodong, Cheng Hao, He Pengcheng, Chen Weizhu, Wang Yu, Poon Hoifung, Gao Jianfeng
+authors: Xiaodong Liu, Hao Cheng, Pengcheng He, Weizhu Chen, Yu Wang, Hoifung Poon, Jianfeng Gao
 conference: "Arxiv"
 year: 2020
-citations: 89
 bibkey: liu2020adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.08994"}
   - {name: "Code", url: "https://github.com/namisan/mt-dnn"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Security', 'Has Code', 'Pretraining Methods', 'BERT']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Pre-Training']
 ---
 Generalization and robustness are both key desiderata for designing machine
 learning methods. Adversarial training can enhance robustness, but past work

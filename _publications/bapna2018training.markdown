@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Training Deeper Neural Machine Translation Models With Transparent Attention'
-authors: Bapna Ankur, Chen Mia Xu, Firat Orhan, Cao Yuan, Wu Yonghui
+authors: Ankur Bapna, Mia Xu Chen, Orhan Firat, Yuan Cao, Yonghui Wu
 conference: "Arxiv"
 year: 2018
-citations: 145
 bibkey: bapna2018training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.07561"}
-tags: ['Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Applications', 'WMT']
+tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 While current state-of-the-art NMT models, such as RNN seq2seq and
 Transformers, possess a large number of parameters, they are still shallow in

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'HAT: Hardware-aware Transformers For Efficient Natural Language Processing'
-authors: Wang Hanrui, Wu Zhanghao, Liu Zhijian, Cai Han, Zhu Ligeng, Gan Chuang, Han Song
+authors: Hanrui Wang, Zhanghao Wu, Zhijian Liu, Han Cai, Ligeng Zhu, Chuang Gan, Song Han
 conference: "Arxiv"
 year: 2020
-citations: 191
 bibkey: wang2020hardware
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.14187"}
   - {name: "Code", url: "https://github.com/mit-han-lab/hardware-aware-transformers.git"}
-tags: ['Model Architecture', 'Tools', 'Has Code', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'WMT']
+tags: ['WMT', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
 ---
 Transformers are ubiquitous in Natural Language Processing (NLP) tasks, but
 they are difficult to be deployed on hardware due to the intensive computation.

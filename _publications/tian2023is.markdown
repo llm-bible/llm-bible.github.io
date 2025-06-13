@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Is Chatgpt The Ultimate Programming Assistant -- How Far Is It?'
-authors: Tian Haoye, Lu Weiqi, Li Tsz On, Tang Xunzhu, Cheung Shing-chi, Klein Jacques, Bissyandé Tegawendé F.
+authors: Haoye Tian, Weiqi Lu, Tsz On Li, Xunzhu Tang, Shing-chi Cheung, Jacques Klein, Tegawendé F. Bissyandé
 conference: "Arxiv"
 year: 2023
-citations: 89
 bibkey: tian2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11938"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'ACL', 'Attention Mechanism', 'RAG', 'Applications']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'ACL', 'Prompting', 'Applications', 'Attention Mechanism']
 ---
 Recently, the ChatGPT LLM has received great attention: it can be used as a
 bot for discussing source code, prompting it to suggest changes, provide

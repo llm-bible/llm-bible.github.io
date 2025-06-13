@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Large Language Models Are Human-level Prompt Engineers'
-authors: Zhou Yongchao, Muresanu Andrei Ioan, Han Ziwen, Paster Keiran, Pitis Silviu, Chan Harris, Ba Jimmy
+authors: Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba
 conference: "Arxiv"
 year: 2022
-citations: 189
 bibkey: zhou2022large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.01910"}
-tags: ['Prompting', 'Few-Shot', 'In-Context Learning']
+tags: ['Prompting', 'In-Context Learning', 'Few-Shot']
 ---
 By conditioning on natural language instructions, large language models
 (LLMs) have displayed impressive capabilities as general-purpose computers.

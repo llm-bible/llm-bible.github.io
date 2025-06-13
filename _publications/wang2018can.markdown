@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Can You Tell Me How To Get Past Sesame Street? Sentence-level Pretraining Beyond Language Modeling'
-authors: Wang Alex, Hula Jan, Xia Patrick, Pappagari Raghavendra, Mccoy R. Thomas, Patel Roma, Kim Najoung, Tenney Ian, Huang Yinghui, Yu Katherin, Jin Shuning, Chen Berlin, Van Durme Benjamin, Grave Edouard, Pavlick Ellie, Bowman Samuel R.
+authors: Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman
 conference: "Arxiv"
 year: 2018
-citations: 101
 bibkey: wang2018can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1812.10860"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Language Modeling', 'Applications', 'BERT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
 ---
 Natural language understanding has recently seen a surge of progress with the
 use of sentence encoders like ELMo (Peters et al., 2018a) and BERT (Devlin et

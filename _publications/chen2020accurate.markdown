@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Accurate Word Alignment Induction From Neural Machine Translation'
-authors: Chen Yun, Liu Yang, Chen Guanhua, Jiang Xin, Liu Qun
+authors: Yun Chen, Yang Liu, Guanhua Chen, Xin Jiang, Qun Liu
 conference: "Arxiv"
 year: 2020
-citations: 58
 bibkey: chen2020accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14837"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications']
+tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 Despite its original goal to jointly learn to align and translate, prior
 researches suggest that Transformer captures poor word alignments through its

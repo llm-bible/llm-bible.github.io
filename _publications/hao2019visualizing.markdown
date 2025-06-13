@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Visualizing And Understanding The Effectiveness Of BERT'
-authors: Hao Yaru, Dong Li, Wei Furu, Xu Ke
+authors: Yaru Hao, Li Dong, Furu Wei, Ke Xu
 conference: "Arxiv"
 year: 2019
-citations: 165
 bibkey: hao2019visualizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.05620"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Pre-Training', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'BERT']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training']
 ---
 Language model pre-training, such as BERT, has achieved remarkable results in
 many NLP tasks. However, it is unclear why the pre-training-then-fine-tuning

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Visualgpt: Data-efficient Adaptation Of Pretrained Language Models For Image Captioning'
-authors: Chen Jun, Guo Han, Yi Kai, Li Boyang, Elhoseiny Mohamed
+authors: Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny
 conference: "Arxiv"
 year: 2021
-citations: 107
 bibkey: chen2021data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.10407"}
   - {name: "Code", url: "https://github.com/Vision-CAIR/VisualGPT"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'RAG', 'Attention Mechanism', 'Applications', 'Has Code']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
 ---
 The ability to quickly learn from a small quantity oftraining data widens the
 range of machine learning applications. In this paper, we propose a

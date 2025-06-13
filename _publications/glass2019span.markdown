@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Span Selection Pre-training For Question Answering'
-authors: Glass Michael, Gliozzo Alfio, Chakravarti Rishav, Ferritto Anthony, Pan Lin, Bhargav G P Shrivatsa, Garg Dinesh, Sil Avirup
+authors: Michael Glass, Alfio Gliozzo, Rishav Chakravarti, Anthony Ferritto, Lin Pan, G P Shrivatsa Bhargav, Dinesh Garg, Avirup Sil
 conference: "Arxiv"
 year: 2019
-citations: 57
 bibkey: glass2019span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.04120"}
-tags: ['Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods', 'Transformer', 'Applications', 'BERT', 'Reinforcement Learning', 'Masked Language Model']
+tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
 ---
 BERT (Bidirectional Encoder Representations from Transformers) and related
 pre-trained Transformers have provided large gains across many language

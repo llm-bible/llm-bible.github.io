@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Taking A HINT: Leveraging Explanations To Make Vision And Language Models More Grounded'
-authors: Selvaraju Ramprasaath R., Lee Stefan, Shen Yilin, Jin Hongxia, Ghosh Shalini, Heck Larry, Batra Dhruv, Parikh Devi
-conference: "The IEEE International Conference on Computer Vision"
+authors: Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Larry Heck, Dhruv Batra, Devi Parikh
+conference: "The IEEE International Conference on Computer Vision (ICCV) 2019"
 year: 2019
-citations: 228
 bibkey: selvaraju2019taking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.03751"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'RAG', 'Applications', 'Interpretability and Explainability']
+tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
 ---
 Many vision and language models suffer from poor visual grounding - often
 falling back on easy-to-learn language priors rather than basing their

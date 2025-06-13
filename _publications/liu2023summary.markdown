@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Summary Of Chatgpt-related Research And Perspective Towards The Future Of Large Language Models'
-authors: Liu Yiheng, Han Tianle, Ma Siyuan, Zhang Jiayue, Yang Yuanyuan, Tian Jiaming, He Hao, Li Antong, He Mengshen, Liu Zhengliang, Wu Zihao, Zhao Lin, Zhu Dajiang, Li Xiang, Qiang Ning, Shen Dingang, Liu Tianming, Ge Bao
-conference: "Meta-Radiology"
+authors: Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, Mengshen He, Zhengliang Liu, Zihao Wu, Lin Zhao, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, Bao Ge
+conference: "Meta-Radiology (2023)100017"
 year: 2023
-citations: 429
 bibkey: liu2023summary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01852"}
-tags: ['Fine-Tuning', 'Survey Paper', 'Model Architecture', 'Pre-Training', 'GPT', 'Training Techniques', 'Pretraining Methods', 'Applications', 'Agentic', 'Reinforcement Learning', 'Arxiv']
+tags: ['Agentic', 'Arxiv', 'Model Architecture', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
 ---
 This paper presents a comprehensive survey of ChatGPT-related (GPT-3.5 and
 GPT-4) research, state-of-the-art large language models (LLM) from the GPT

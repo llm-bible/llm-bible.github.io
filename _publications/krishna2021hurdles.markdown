@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Hurdles To Progress In Long-form Question Answering'
-authors: Krishna Kalpesh, Roy Aurko, Iyyer Mohit
+authors: Kalpesh Krishna, Aurko Roy, Mohit Iyyer
 conference: "Arxiv"
 year: 2021
-citations: 100
 bibkey: krishna2021hurdles
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.06332"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
 ---
 The task of long-form question answering (LFQA) involves retrieving documents
 relevant to a given question and using them to generate a paragraph-length

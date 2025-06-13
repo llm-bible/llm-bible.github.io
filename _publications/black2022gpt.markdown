@@ -4,12 +4,11 @@ title: 'Gpt-neox-20b: An Open-source Autoregressive Language Model'
 authors: Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle Mcdonell, Jason Phang, Michael Pieler, Usvsn Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach
 conference: "Arxiv"
 year: 2022
-citations: 284
 bibkey: black2022gpt
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.06745v1"}
   - {name: "Code", url: "https://github.com/EleutherAI/gpt-neox"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Few-Shot', 'Has Code', 'Pretraining Methods', 'Language Modeling', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Has Code']
 ---
 We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language
 model trained on the Pile, whose weights will be made freely and openly

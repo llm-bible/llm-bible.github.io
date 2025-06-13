@@ -4,12 +4,11 @@ title: 'MM-REACT: Prompting Chatgpt For Multimodal Reasoning And Action'
 authors: Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang
 conference: "Arxiv"
 year: 2023
-citations: 58
 bibkey: yang2023mm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.11381v1"}
   - {name: "Code", url: "https://multimodal-react.github.io/"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Has Code', 'Multimodal Models']
+tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Has Code', 'Prompting']
 ---
 We propose MM-REACT, a system paradigm that integrates ChatGPT with a pool of
 vision experts to achieve multimodal reasoning and action. In this paper, we

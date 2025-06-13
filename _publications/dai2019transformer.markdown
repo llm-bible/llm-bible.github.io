@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Transformer-xl: Attentive Language Models Beyond A Fixed-length Context'
-authors: Dai Zihang, Yang Zhilin, Yang Yiming, Carbonell Jaime, Le Quoc V., Salakhutdinov Ruslan
+authors: Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov
 conference: "Arxiv"
 year: 2019
-citations: 2900
 bibkey: dai2019transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.02860"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'RAG', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer']
 ---
 Transformers have a potential of learning longer-term dependency, but are
 limited by a fixed-length context in the setting of language modeling. We

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'A Systematic Survey Of Prompt Engineering In Large Language Models: Techniques And Applications'
-authors: Sahoo Pranab, Singh Ayush Kumar, Saha Sriparna, Jain Vinija, Mondal Samrat, Chadha Aman
+authors: Pranab Sahoo, Ayush Kumar Singh, Sriparna Saha, Vinija Jain, Samrat Mondal, Aman Chadha
 conference: "Arxiv"
 year: 2024
-citations: 70
 bibkey: sahoo2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07927"}
-tags: ['Survey Paper', 'Tools', 'Prompting', 'RAG', 'Applications', 'Reinforcement Learning', 'Multimodal Models']
+tags: ['Multimodal Models', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
 ---
 Prompt engineering has emerged as an indispensable technique for extending
 the capabilities of large language models (LLMs) and vision-language models

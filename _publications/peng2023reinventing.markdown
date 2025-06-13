@@ -4,11 +4,10 @@ title: 'RWKV: Reinventing Rnns For The Transformer Era'
 authors: Bo Peng, Eric Alcaide, Quentin Anthony, Alon Albalak, Samuel Arcadinho, Stella Biderman, Huanqi Cao, Xin Cheng, Michael Chung, Matteo Grella, Kranthi Kiran Gv, Xuzheng He, Haowen Hou, Jiaju Lin, Przemyslaw Kazienko, Jan Kocon, Jiaming Kong, Bartlomiej Koptyra, Hayden Lau, Krishna Sri Ipsit Mantri, Ferdinand Mom, Atsushi Saito, Guangyu Song, Xiangru Tang, Bolun Wang, Johan S. Wind, Stanislaw Wozniak, Ruichong Zhang, Zhenyuan Zhang, Qihang Zhao, Peng Zhou, Qinghua Zhou, Jian Zhu, Rui-jie Zhu
 conference: "Arxiv"
 year: 2023
-citations: 102
 bibkey: peng2023reinventing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.13048v2"}
-tags: ['Large-Scale Training', 'Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'RAG', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Attention Mechanism']
 ---
 Transformers have revolutionized almost all natural language processing (NLP)
 tasks but suffer from memory and computational complexity that scales

@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'Logical Natural Language Generation From Open-domain Tables'
-authors: Chen Wenhu, Chen Jianshu, Su Yu, Chen Zhiyu, Wang William Yang
+authors: Wenhu Chen, Jianshu Chen, Yu Su, Zhiyu Chen, William Yang Wang
 conference: "Arxiv"
 year: 2020
-citations: 116
 bibkey: chen2020logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.10404"}
   - {name: "Code", url: "https://github.com/wenhuchen/LogicNLG"}
-tags: ['Survey Paper', 'Training Techniques', 'Model Architecture', 'Tools', 'Security', 'Has Code', 'Pretraining Methods', 'Transformer', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
 ---
 Neural natural language generation (NLG) models have recently shown
 remarkable progress in fluency and coherence. However, existing studies on

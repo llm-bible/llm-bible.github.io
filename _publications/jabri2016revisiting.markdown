@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Revisiting Visual Question Answering Baselines'
-authors: Jabri Allan, Joulin Armand, Van Der Maaten Laurens
+authors: Allan Jabri, Armand Joulin, Laurens Van Der Maaten
 conference: "Arxiv"
 year: 2016
-citations: 244
 bibkey: jabri2016revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.08390"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
 ---
 Visual question answering (VQA) is an interesting learning setting for
 evaluating the abilities and shortcomings of current systems for image

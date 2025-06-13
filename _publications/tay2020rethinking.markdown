@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Synthesizer: Rethinking Self-attention In Transformer Models'
-authors: Tay Yi, Bahri Dara, Metzler Donald, Juan Da-cheng, Zhao Zhe, Zheng Che
+authors: Yi Tay, Dara Bahri, Donald Metzler, Da-cheng Juan, Zhe Zhao, Che Zheng
 conference: "Arxiv"
 year: 2020
-citations: 191
 bibkey: tay2020rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00743"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Attention Mechanism', 'Transformer', 'Applications', 'Language Modeling']
+tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
 ---
 The dot product self-attention is known to be central and indispensable to
 state-of-the-art Transformer models. But is it really required? This paper

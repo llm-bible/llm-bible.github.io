@@ -1,15 +1,14 @@
 ---
 layout: publication
 title: 'How Much Can CLIP Benefit Vision-and-language Tasks?'
-authors: Shen Sheng, Li Liunian Harold, Tan Hao, Bansal Mohit, Rohrbach Anna, Chang Kai-wei, Yao Zhewei, Keutzer Kurt
+authors: Sheng Shen, Liunian Harold Li, Hao Tan, Mohit Bansal, Anna Rohrbach, Kai-wei Chang, Zhewei Yao, Kurt Keutzer
 conference: "Arxiv"
 year: 2021
-citations: 148
 bibkey: shen2021how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.06383"}
   - {name: "Code", url: "https://github.com/clip-vil/CLIP-ViL"}
-tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Has Code', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
 ---
 Most existing Vision-and-Language (V&L) models rely on pre-trained visual
 encoders, using a relatively small set of manually-annotated data (as compared

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Don''t Just Assume; Look And Answer: Overcoming Priors For Visual Question Answering'
-authors: Agrawal Aishwarya, Batra Dhruv, Parikh Devi, Kembhavi Aniruddha
+authors: Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi
 conference: "Arxiv"
 year: 2017
-citations: 260
 bibkey: agrawal2017just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1712.00377"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'RAG', 'Ethics and Bias', 'Applications', 'Multimodal Models']
+tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
 ---
 A number of studies have found that today's Visual Question Answering (VQA)
 models are heavily driven by superficial correlations in the training data and

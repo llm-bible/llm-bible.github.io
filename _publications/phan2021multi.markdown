@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Cotext: Multi-task Learning With Code-text Transformer'
-authors: Phan Long, Tran Hieu, Le Daniel, Nguyen Hieu, Anibal James, Peltekian Alec, Ye Yanfang
+authors: Long Phan, Hieu Tran, Daniel Le, Hieu Nguyen, James Anibal, Alec Peltekian, Yanfang Ye
 conference: "Arxiv"
 year: 2021
-citations: 74
 bibkey: phan2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.08645"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
 ---
 We present CoTexT, a pre-trained, transformer-based encoder-decoder model
 that learns the representative context between natural language (NL) and

@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'Zeroquant: Efficient And Affordable Post-training Quantization For Large-scale Transformers'
-authors: Yao Zhewei, Aminabadi Reza Yazdani, Zhang Minjia, Wu Xiaoxia, Li Conglong, He Yuxiong
+authors: Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He
 conference: "Arxiv"
 year: 2022
-citations: 50
 bibkey: yao2022efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.01861"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Distillation', 'Efficiency and Optimization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'Quantization', 'BERT', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'Quantization', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
 ---
 How to efficiently serve ever-larger trained natural language models in
 practice has become exceptionally challenging even for powerful cloud servers

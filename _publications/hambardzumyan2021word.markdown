@@ -1,14 +1,13 @@
 ---
 layout: publication
 title: 'WARP: Word-level Adversarial Reprogramming'
-authors: Hambardzumyan Karen, Khachatrian Hrant, May Jonathan
+authors: Karen Hambardzumyan, Hrant Khachatrian, Jonathan May
 conference: "Arxiv"
 year: 2021
-citations: 215
 bibkey: hambardzumyan2021word
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00121"}
-tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'GPT', 'Few-Shot', 'Security', 'Prompting', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
 ---
 Transfer learning from pretrained language models recently became the
 dominant approach for solving many NLP tasks. A common approach to transfer
