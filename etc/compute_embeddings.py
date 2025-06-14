@@ -11,7 +11,7 @@ import transformers
 
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description="TSNE Visualization of Papers in ML4Code")
+    parser = argparse.ArgumentParser(description="TSNE Visualization of Papers")
 
     parser.add_argument("json", default=False, help="the path the json containing all papers.")
     parser.add_argument("outpath", default=False, help="the target path of the visualizations papers.")
