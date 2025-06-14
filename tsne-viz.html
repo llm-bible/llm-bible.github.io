@@ -229,9 +229,6 @@ d3.json('./tsne_clustered.json').then(function(data) {
       })
       .style("fill", function(d) {
         return isMatch(d, searchTerm) ? "#aa0000" : color(d.cluster);
-      });
-      .style("fill", function(d) {
-        return isMatch(d, searchTerm) ? "#aa0000" : color(d.cluster);
       })
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
