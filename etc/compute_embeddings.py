@@ -38,7 +38,7 @@ def main(args):
 
     corpus = []
     for paper_info in data:
-        corpus.append(tokenizer.sep_token.join([paper_info['title'], paper_info['abstract']]))
+        corpus.append(tokenizer.sep_token.join([paper_info['title'], paper_info['citations'], paper_info['abstract']]))
 
     batch_size = 4
     all_embeddings=[]
