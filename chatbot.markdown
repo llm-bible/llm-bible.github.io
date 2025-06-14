@@ -3,7 +3,7 @@ layout: page
 title: Chat with the LLM-Bible Bot
 description: LLM-Bible Chatbot
 ---
-The LLM-Bible Chatbot can help you find relevant papers, with over 10,000 currently ingested into the Bot's RAG vector index.
+The LLM-Bible Chatbot can help you find relevant papers, with nearly 1,500 papers currently ingested into the Bot's knowledge base.
 
 <div class="container">
     <h3>Example Queries</h3>
