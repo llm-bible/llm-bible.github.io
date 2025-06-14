@@ -228,11 +228,12 @@ d3.json('./tsne_clustered.json').then(function(data) {
       .transition().duration(300)
         .attr("cx", d => x(d.tsne_embedding[0]))
         .attr("cy", d => y(d.tsne_embedding[1]))
-        .attr("r", d => {
-          const sizeByCitations = d3.select("#sizeByCitations").property("checked");
-          return sizeByCitations ? Math.min(Math.sqrt(d.citations || 0), 30) + 3 : 8;
-        })
-        .style("fill", d => isMatch(d, searchTerm) ? "#aa0000" : color(d.cluster));
+        .attr("r", function(d) {
+      const sizeByCitations = d3.select("#sizeByCitations").property("checked");
+      // Add debug:
+      if (sizeByCitations) console.log(`Citations for ${d.key}: ${d.citations}`);
+      return sizeByCitations ? Math.min(Math.sqrt(d.citations || 0), 30) + 3 : 8;
+    })
 
     // Enter new points
     circles.enter()
