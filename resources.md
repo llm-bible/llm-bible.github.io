@@ -3,6 +3,18 @@ layout: default
 title: Resources on Large Language Models
 ---
 
+## Andrew Ng’s Latest LLM & Generative AI Courses
+
+- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): A non-technical introduction to LLMs and generative AI, including prompt engineering, applications across industries, and future trends. Taught by **Andrew Ng**.
+
+- [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/): Learn Python through projects that integrate LLMs, like chatbots, API calls, and image captioning. Taught by **Andrew Ng**.
+
+- [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Build powerful LLM apps using LangChain, with examples like memory, agents, and retrieval-based QA. Taught by **Andrew Ng** and Harrison Chase.
+
+- [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): A practical guide to prompt engineering using the OpenAI API, covering strategies for classification, summarization, transformation, and chatbot development. Taught by **Andrew Ng** and Isa Fulford.
+
+- [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to integrate the ChatGPT API into multi-step workflows, chaining LLM calls with external tools. Taught by **Andrew Ng** and Isa Fulford.
+ 
 ## Blog Posts & Useful Links
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/): A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.
