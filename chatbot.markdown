@@ -179,15 +179,20 @@ function displayWelcomeMessage() {
 
 function parseAndDisplayAnswer(answer) {
   try {
-    const jsonStart = answer.indexOf("[");
-    const jsonEnd = answer.lastIndexOf("]") + 1;
+    let papers = answer;
 
-    if (jsonStart === -1 || jsonEnd === -1) {
-      throw new Error("No valid JSON block found.");
+    if (typeof answer === "string") {
+      const jsonStart = answer.indexOf("[");
+      const jsonEnd = answer.lastIndexOf("]") + 1;
+      if (jsonStart === -1 || jsonEnd === -1) {
+        throw new Error("No valid JSON block found.");
+      }
+      const jsonString = answer.substring(jsonStart, jsonEnd);
+      papers = JSON.parse(jsonString);
     }
 
-    const jsonString = answer.substring(jsonStart, jsonEnd);
-    const papers = JSON.parse(jsonString);
+    if (!Array.isArray(papers)) throw new Error("Expected array of papers.");
+
     const botMessage = document.createElement("div");
     botMessage.classList.add("message", "bot");
     botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
