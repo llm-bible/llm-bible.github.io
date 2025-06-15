@@ -5,16 +5,58 @@ title: Resources on Large Language Models
 
 ## Andrew Ng’s Latest LLM & Generative AI Courses
 
-- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): A non-technical introduction to LLMs and generative AI, including prompt engineering, applications across industries, and future trends. Taught by **Andrew Ng**.
+- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): Non-technical introduction to generative AI and large language models, covering prompt engineering, business applications, and strategy. Taught by **Andrew Ng**.  [oai_citation:0‡deeplearning.ai](https://www.deeplearning.ai/courses/generative-ai-for-everyone/?utm_source=chatgpt.com)
 
-- [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/): Learn Python through projects that integrate LLMs, like chatbots, API calls, and image captioning. Taught by **Andrew Ng**.
+- [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/): Learn Python API calls, chatbots, debugging, and LLM integrations. Taught by **Andrew Ng**.
 
-- [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Build powerful LLM apps using LangChain, with examples like memory, agents, and retrieval-based QA. Taught by **Andrew Ng** and Harrison Chase.
+- [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Build intelligent LLM apps featuring chains, memory, and QA using LangChain. Co-taught by **Andrew Ng** and Harrison Chase.
 
-- [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): A practical guide to prompt engineering using the OpenAI API, covering strategies for classification, summarization, transformation, and chatbot development. Taught by **Andrew Ng** and Isa Fulford.
+- [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Techniques for crafting effective prompts and building bots with the OpenAI API. Co-taught by **Andrew Ng** and Isa Fulford.
 
-- [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Learn how to integrate the ChatGPT API into multi-step workflows, chaining LLM calls with external tools. Taught by **Andrew Ng** and Isa Fulford.
- 
+- [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Develop end-to-end LLM workflows and integrations using the ChatGPT API. Co-taught by **Andrew Ng** and Isa Fulford.
+
+## 🆕 New Short Courses on DeepLearning.AI
+
+- [**Orchestrating Workflows for GenAI Applications**](https://www.deeplearning.ai/short-courses/orchestrating-workflows-for-genai-applications/): Learn to turn a GenAI or RAG prototype into a production-ready, automated pipeline using Apache Airflow. (by Astronomer)
+
+- [**DSPy: Build and Optimize Agentic Apps**](https://www.deeplearning.ai/short-courses/dspy-build-and-optimize-agentic-apps/): Build, debug, and optimize AI agents using DSPy and MLflow. (by Databricks)
+
+- [**Reinforcement Fine-Tuning LLMs with GRPO**](https://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo/): Improve LLM reasoning and performance with reinforcement learning using GRPO (Group Relative Policy Optimization). (by Predibase)
+
+- [**MCP: Build Rich-Context AI Apps with Anthropic**](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/): Build AI apps that access tools, data, and prompts using Anthropic's Model Context Protocol. (by Anthropic)
+
+- [**Building AI Voice Agents for Production**](https://www.deeplearning.ai/short-courses/building-ai-voice-agents-for-production/): Build responsive, human-like AI voice applications. (by LiveKit and RealAvatar)
+
+- [**LLMs as Operating Systems: Agent Memory**](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/): Build memory-augmented systems with MemGPT agents. (by Letta)
+
+- [**Building Code Agents with Hugging Face smolagents**](https://www.deeplearning.ai/short-courses/building-code-agents-with-hugging-face-smolagents/): Build agents that write and execute code using Hugging Face's smolagents framework. (by Hugging Face)
+
+- [**Building AI Browser Agents**](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/): Build browser agents that navigate and interact with websites reliably. (by AGI Inc)
+
+- [**Getting Structured LLM Output**](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/): Generate structured output to power robust production LLM applications. (by DotTxt)
+
+- [**Vibe Coding 101 with Replit**](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/): Learn to build and deploy AI coding agents in a web-based IDE. (by Replit)
+
+- [**Long-Term Agentic Memory with LangGraph**](https://www.deeplearning.ai/short-courses/long-term-agentic-memory-with-langgraph/): Build long-memory agents using LangGraph and LangMem. (by LangChain)
+
+- [**Event-Driven Agentic Document Workflows**](https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/): Process documents and fill forms using agent workflows with RAG. (by LlamaIndex)
+
+- [**Build Apps with Windsurf’s AI Coding Agents**](https://www.deeplearning.ai/short-courses/build-apps-with-windsurf-ai-coding-agents/): Debug and deploy applications with Windsurf’s AI-powered IDE. (by Windsurf)
+
+- [**Evaluating AI Agents**](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/): Evaluate, improve, and iterate on AI agents using structured assessments. (by Arize AI)
+
+- [**Attention in Transformers: Concepts and Code in PyTorch**](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/): Implement the attention mechanism in PyTorch and understand its impact. (by StatQuest)
+
+- [**How Transformer LLMs Work**](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/): A visual and code-based introduction to the architecture behind modern LLMs. (by Jay Alammar & Maarten Grootendorst)
+
+- [**Building Towards Computer Use with Anthropic**](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/): Learn how AI assistants can perform real tasks on computers. (by Anthropic)
+
+- [**Build Long-Context AI Apps with Jamba**](https://www.deeplearning.ai/short-courses/build-long-context-ai-apps-with-jamba/): Create apps that handle long documents using the Jamba model. (by AI21 Labs)
+
+- [**Reasoning with o1**](https://www.deeplearning.ai/short-courses/reasoning-with-o1/): Learn how to use and prompt OpenAI's o1 model for reasoning tasks. (by OpenAI)
+
+- [**Collaborative Writing and Coding with OpenAI Canvas**](https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/): Collaborate with AI to write and code using OpenAI Canvas. (by OpenAI)
+  
 ## Blog Posts & Useful Links
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/): A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.
