@@ -5,15 +5,15 @@ title: Resources on Large Language Models
 
 ## 🤖📚 Andrew Ng’s Latest LLM & Generative AI Courses
 
-- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): Non-technical introduction to generative AI and large language models, covering prompt engineering, business applications, and strategy. Taught by **Andrew Ng**.  [oai_citation:0‡deeplearning.ai](https://www.deeplearning.ai/courses/generative-ai-for-everyone/?utm_source=chatgpt.com)
+- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): Non-technical introduction to generative AI and large language models, covering prompt engineering, business applications, and strategy. Taught by Andrew Ng. (https://www.deeplearning.ai/courses/generative-ai-for-everyone/?utm_source=chatgpt.com)
 
-- [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/): Learn Python API calls, chatbots, debugging, and LLM integrations. Taught by **Andrew Ng**.
+- [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/): Learn Python API calls, chatbots, debugging, and LLM integrations. Taught by Andrew Ng.
 
-- [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Build intelligent LLM apps featuring chains, memory, and QA using LangChain. Co-taught by **Andrew Ng** and Harrison Chase.
+- [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/): Build intelligent LLM apps featuring chains, memory, and QA using LangChain. Co-taught by Andrew Ng and Harrison Chase.
 
-- [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Techniques for crafting effective prompts and building bots with the OpenAI API. Co-taught by **Andrew Ng** and Isa Fulford.
+- [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Techniques for crafting effective prompts and building bots with the OpenAI API. Co-taught by Andrew Ng and Isa Fulford.
 
-- [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Develop end-to-end LLM workflows and integrations using the ChatGPT API. Co-taught by **Andrew Ng** and Isa Fulford.
+- [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/): Develop end-to-end LLM workflows and integrations using the ChatGPT API. Co-taught by Andrew Ng and Isa Fulford.
 
 ## 🆕 New Short Courses on DeepLearning.AI
 
