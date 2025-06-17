@@ -2,13 +2,17 @@
 layout: publication
 title: 'Intellicode Compose: Code Generation Using Transformer'
 authors: Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 334
+citations: 268
 bibkey: svyatkovskiy2020intellicode
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2005.08025'}
-tags: ['Transformer', 'RAG', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2005.08025
+tags:
+- Transformer
+- Tools
+- Efficiency and Optimization
 ---
 In software development through integrated development environments (IDEs),
 code completion is one of the most widely used features. Nevertheless, majority

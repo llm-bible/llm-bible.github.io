@@ -1,14 +1,19 @@
 ---
 layout: publication
 title: 'MAD-X: An Adapter-based Framework For Multi-task Cross-lingual Transfer'
-authors: Jonas Pfeiffer, Ivan Vulić, Iryna Gurevych, Sebastian Ruder
-conference: "Arxiv"
+authors: "Jonas Pfeiffer, Ivan Vuli\u0107, Iryna Gurevych, Sebastian Ruder"
+conference: Arxiv
 year: 2020
-citations: 400
+citations: 121
 bibkey: pfeiffer2020mad
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00052'}
-tags: ['Few-Shot', 'Model Architecture', 'Tools', 'Applications', 'Training Techniques', 'BERT', 'Pre-Training']
+- name: Paper
+  url: https://arxiv.org/abs/2005.00052
+tags:
+- Few-Shot
+- Applications
+- BERT
+- Pre-Training
 ---
 The main goal behind state-of-the-art pre-trained multilingual models such as
 multilingual BERT and XLM-R is enabling and bootstrapping NLP applications in

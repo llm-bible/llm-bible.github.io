@@ -2,13 +2,18 @@
 layout: publication
 title: 'Adapterhub: A Framework For Adapting Transformers'
 authors: Jonas Pfeiffer et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 390
+citations: 141
 bibkey: pfeiffer2020framework
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2007.07779'}
-tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'BERT', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2007.07779
+tags:
+- Transformer
+- BERT
+- Tools
+- Fine-Tuning
 ---
 The current modus operandi in NLP involves downloading and fine-tuning
 pre-trained models consisting of millions or billions of parameters. Storing

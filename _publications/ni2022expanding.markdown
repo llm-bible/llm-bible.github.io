@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Expanding Language-image Pretrained Models For General Video Recognition'
+title: Expanding Language-image Pretrained Models For General Video Recognition
 authors: Bolin Ni et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 145
 bibkey: ni2022expanding
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2208.02816'}
-  - {name: "Code", url: 'https://aka.ms/X-CLIP'}
-tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'Prompting', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2208.02816
+- name: Code
+  url: https://aka.ms/X-CLIP
+tags:
+- Transformer
+- Few-Shot
+- Prompting
+- Attention Mechanism
 ---
 Contrastive language-image pretraining has shown great success in learning
 visual-textual joint representation from web-scale data, demonstrating

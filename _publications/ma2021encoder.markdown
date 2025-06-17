@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Deltalm: Encoder-decoder Pre-training For Language Generation And Translation By Augmenting Pretrained Multilingual Encoders'
+title: 'Deltalm: Encoder-decoder Pre-training For Language Generation And Translation
+  By Augmenting Pretrained Multilingual Encoders'
 authors: Shuming Ma et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 51
 bibkey: ma2021encoder
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2106.13736'}
-  - {name: "Code", url: 'https://aka.ms/deltalm'}
-tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning', 'Pre-Training']
+- name: Paper
+  url: https://arxiv.org/abs/2106.13736
+- name: Code
+  url: https://aka.ms/deltalm
+tags:
+- Pre-Training
+- Tools
+- Reinforcement Learning
 ---
 While pretrained encoders have achieved success in various natural language
 understanding (NLU) tasks, there is a gap between these pretrained encoders and

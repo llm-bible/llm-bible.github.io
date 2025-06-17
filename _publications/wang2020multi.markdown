@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Minilmv2: Multi-head Self-attention Relation Distillation For Compressing Pretrained Transformers'
+title: 'Minilmv2: Multi-head Self-attention Relation Distillation For Compressing
+  Pretrained Transformers'
 authors: Wenhui Wang, Hangbo Bao, Shaohan Huang, Li Dong, Furu Wei
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 109
 bibkey: wang2020multi
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2012.15828'}
-tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'BERT', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2012.15828
+tags:
+- Transformer
+- Distillation
+- BERT
+- Efficiency and Optimization
 ---
 We generalize deep self-attention distillation in MiniLM (Wang et al., 2020)
 by only using self-attention relation distillation for task-agnostic

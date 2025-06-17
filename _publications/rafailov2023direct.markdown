@@ -2,13 +2,17 @@
 layout: publication
 title: 'Direct Preference Optimization: Your Language Model Is Secretly A Reward Model'
 authors: Rafael Rafailov et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 109
+citations: 115
 bibkey: rafailov2023direct
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2305.18290v3'}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: http://arxiv.org/abs/2305.18290v3
+tags:
+- Reinforcement Learning
+- Fine-Tuning
+- Applications
 ---
 While large-scale unsupervised language models (LMs) learn broad world
 knowledge and some reasoning skills, achieving precise control of their

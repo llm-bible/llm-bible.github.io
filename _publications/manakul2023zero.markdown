@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Selfcheckgpt: Zero-resource Black-box Hallucination Detection For Generative Large Language Models'
+title: 'Selfcheckgpt: Zero-resource Black-box Hallucination Detection For Generative
+  Large Language Models'
 authors: Potsawee Manakul, Adian Liusie, Mark J. F. Gales
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 131
+citations: 97
 bibkey: manakul2023zero
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2303.08896v3'}
-tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2303.08896
+tags:
+- GPT
+- RAG
+- Prompting
 ---
 Generative Large Language Models (LLMs) such as GPT-3 are capable of
 generating highly fluent responses to a wide variety of user prompts. However,

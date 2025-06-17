@@ -2,14 +2,19 @@
 layout: publication
 title: 'Visual Chatgpt: Talking, Drawing And Editing With Visual Foundation Models'
 authors: Chenfei Wu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 147
 bibkey: wu2023visual
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2303.04671v1'}
-  - {name: "Code", url: 'https://github.com/microsoft/visual-chatgpt'}
-tags: ['Has Code', 'Transformer', 'GPT', 'Model Architecture', 'Merging', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2303.04671
+- name: Code
+  url: https://github.com/microsoft/visual-chatgpt
+tags:
+- GPT
+- Transformer
+- Prompting
 ---
 ChatGPT is attracting a cross-field interest as it provides a language
 interface with remarkable conversational competency and reasoning capabilities

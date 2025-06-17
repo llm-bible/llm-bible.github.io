@@ -1,14 +1,19 @@
 ---
 layout: publication
 title: 'Sparks Of Artificial General Intelligence: Early Experiments With GPT-4'
-authors: Sébastien Bubeck et al.
-conference: "Arxiv"
+authors: "S\xE9bastien Bubeck et al."
+conference: Arxiv
 year: 2023
 citations: 1038
 bibkey: bubeck2023sparks
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2303.12712v5'}
-tags: ['GPT', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2303.12712
+tags:
+- GPT
+- Reinforcement Learning
+- Prompting
+- Fine-Tuning
 ---
 Artificial intelligence (AI) researchers have been developing and refining
 large language models (LLMs) that exhibit remarkable capabilities across a

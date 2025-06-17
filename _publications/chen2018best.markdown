@@ -2,13 +2,17 @@
 layout: publication
 title: 'The Best Of Both Worlds: Combining Recent Advances In Neural Machine Translation'
 authors: Mia Xu Chen et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
-citations: 397
+citations: 146
 bibkey: chen2018best
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1804.09849'}
-tags: ['Transformer', 'WMT', 'Model Architecture', 'Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1804.09849
+tags:
+- Transformer
+- Reinforcement Learning
+- Training Techniques
 ---
 The past year has witnessed rapid advances in sequence-to-sequence (seq2seq)
 modeling for Machine Translation (MT). The classic RNN-based approaches to MT

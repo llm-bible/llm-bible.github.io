@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Diagnostic Reasoning Prompts Reveal The Potential For Large Language Model Interpretability In Medicine'
+title: Diagnostic Reasoning Prompts Reveal The Potential For Large Language Model
+  Interpretability In Medicine
 authors: Thomas Savage, Ashwin Nayak, Robert Gallo, Ekanath Rangan, Jonathan H Chen
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 89
+citations: 93
 bibkey: savage2023diagnostic
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2308.06834'}
-tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Prompting', 'Interpretability']
+- name: Paper
+  url: https://arxiv.org/abs/2308.06834
+tags:
+- GPT
+- Prompting
+- Interpretability and Explainability
 ---
 One of the major barriers to using large language models (LLMs) in medicine
 is the perception they use uninterpretable methods to make clinical decisions

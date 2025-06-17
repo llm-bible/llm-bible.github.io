@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Image As A Foreign Language: Beit Pretraining For All Vision And Vision-language Tasks'
+title: 'Image As A Foreign Language: Beit Pretraining For All Vision And Vision-language
+  Tasks'
 authors: Wenhui Wang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 140
+citations: 301
 bibkey: wang2022image
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2208.10442'}
-tags: ['Transformer', 'Training Techniques', 'Merging', 'Model Architecture', 'Scaling Laws', 'Applications', 'Multimodal Models', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2208.10442
+tags:
+- Multimodal Models
+- Transformer
+- Pre-Training
 ---
 A big convergence of language, vision, and multimodal pretraining is
 emerging. In this work, we introduce a general-purpose multimodal foundation

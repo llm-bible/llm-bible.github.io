@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'What Makes Good In-context Examples For GPT-\(3\)?'
+title: What Makes Good In-context Examples For GPT-\(3\)?
 authors: Jiachang Liu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 313
+citations: 216
 bibkey: liu2021what
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2101.06804'}
-tags: ['Attention Mechanism', 'Few-Shot', 'RAG', 'GPT', 'Model Architecture', 'Applications', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2101.06804
+tags:
+- GPT
+- Few-Shot
+- RAG
+- Prompting
 ---
 GPT-\\(3\\) has attracted lots of attention due to its superior performance
 across a wide range of NLP tasks, especially with its powerful and versatile

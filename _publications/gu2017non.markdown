@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Non-autoregressive Neural Machine Translation'
+title: Non-autoregressive Neural Machine Translation
 authors: Jiatao Gu, James Bradbury, Caiming Xiong, Victor O. K. Li, Richard Socher
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
 citations: 471
 bibkey: gu2017non
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1711.02281'}
-tags: ['Language Modeling', 'Transformer', 'SLT', 'WMT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'GPT', 'Fine-Tuning', 'Distillation', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1711.02281
+tags:
+- Transformer
+- Distillation
+- Language Modeling
+- Efficiency and Optimization
+- Fine-Tuning
 ---
 Existing approaches to neural machine translation condition each output word
 on previously generated outputs. We introduce a model that avoids this

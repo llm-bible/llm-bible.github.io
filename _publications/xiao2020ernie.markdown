@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'ERNIE-GEN: An Enhanced Multi-flow Pre-training And Fine-tuning Framework For Natural Language Generation'
+title: 'ERNIE-GEN: An Enhanced Multi-flow Pre-training And Fine-tuning Framework For
+  Natural Language Generation'
 authors: Dongling Xiao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 98
+citations: 54
 bibkey: xiao2020ernie
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2001.11314'}
-tags: ['Attention Mechanism', 'Pre-Training', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2001.11314
+tags:
+- Pre-Training
+- Fine-Tuning
+- Attention Mechanism
 ---
 Current pre-training works in natural language generation pay little
 attention to the problem of exposure bias on downstream tasks. To address this

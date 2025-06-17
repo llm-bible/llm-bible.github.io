@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Pretrained Transformers Improve Out-of-distribution Robustness'
+title: Pretrained Transformers Improve Out-of-distribution Robustness
 authors: Dan Hendrycks et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 275
+citations: 93
 bibkey: hendrycks2020pretrained
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2004.06100'}
-tags: ['Transformer', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Distillation', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2004.06100
+tags:
+- Transformer
+- BERT
+- Distillation
+- Efficiency and Optimization
+- Security
 ---
 Although pretrained Transformers such as BERT achieve high accuracy on
 in-distribution examples, do they generalize to new distributions? We

@@ -1,15 +1,19 @@
 ---
 layout: publication
-title: 'Crosslingual Generalization Through Multitask Finetuning'
+title: Crosslingual Generalization Through Multitask Finetuning
 authors: Niklas Muennighoff et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 238
+citations: 115
 bibkey: muennighoff2022crosslingual
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2211.01786v2'}
-  - {name: "Code", url: 'https://github.com/bigscience-workshop/xmtf'}
-tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2211.01786
+- name: Code
+  url: https://github.com/bigscience-workshop/xmtf
+tags:
+- Fine-Tuning
+- Prompting
 ---
 Multitask prompted finetuning (MTF) has been shown to help large language
 models generalize to new tasks in a zero-shot setting, but so far explorations

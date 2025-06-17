@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Measuring And Narrowing The Compositionality Gap In Language Models'
+title: Measuring And Narrowing The Compositionality Gap In Language Models
 authors: Ofir Press et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 110
+citations: 56
 bibkey: press2022measuring
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2210.03350v3'}
-tags: ['Training Techniques', 'Model Architecture', 'Applications', 'Prompting', 'GPT', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2210.03350
+tags:
+- GPT
+- Prompting
 ---
 We investigate the ability of language models to perform compositional
 reasoning tasks where the overall solution depends on correctly composing the

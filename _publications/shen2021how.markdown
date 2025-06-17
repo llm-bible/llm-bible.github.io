@@ -1,15 +1,19 @@
 ---
 layout: publication
-title: 'How Much Can CLIP Benefit Vision-and-language Tasks?'
+title: How Much Can CLIP Benefit Vision-and-language Tasks?
 authors: Sheng Shen et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 148
 bibkey: shen2021how
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2107.06383'}
-  - {name: "Code", url: 'https://github.com/clip-vil/CLIP-ViL'}
-tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2107.06383
+- name: Code
+  url: https://github.com/clip-vil/CLIP-ViL
+tags:
+- Pre-Training
+- Fine-Tuning
 ---
 Most existing Vision-and-Language (V&L) models rely on pre-trained visual
 encoders, using a relatively small set of manually-annotated data (as compared

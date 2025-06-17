@@ -2,14 +2,19 @@
 layout: publication
 title: 'No Language Left Behind: Scaling Human-centered Machine Translation'
 authors: Nllb Team et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 291
 bibkey: nllb2022no
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2207.04672v3'}
-  - {name: "Code", url: 'https://github.com/facebookresearch/fairseq/tree/nllb'}
-tags: ['Has Code', 'Training Techniques', 'Applications', 'Fine-Tuning', 'KDD', 'Reinforcement Learning', 'Responsible AI']
+- name: Paper
+  url: http://arxiv.org/abs/2207.04672v3
+- name: Code
+  url: https://github.com/facebookresearch/fairseq/tree/nllb
+tags:
+- Applications
+- Fine-Tuning
+- Reinforcement Learning
 ---
 Driven by the goal of eradicating language barriers on a global scale,
 machine translation has solidified itself as a key focus of artificial

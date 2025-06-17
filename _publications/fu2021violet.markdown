@@ -2,13 +2,17 @@
 layout: publication
 title: 'VIOLET : End-to-end Video-language Transformers With Masked Visual-token Modeling'
 authors: Tsu-jui Fu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 88
 bibkey: fu2021violet
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2111.12681'}
-tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2111.12681
+tags:
+- Transformer
+- Pre-Training
+- Tokenization
 ---
 A great challenge in video-language (VidL) modeling lies in the disconnection
 between fixed video representations extracted from image/video understanding

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Learning And Evaluating Contextual Embedding Of Source Code'
+title: Learning And Evaluating Contextual Embedding Of Source Code
 authors: Aditya Kanade, Petros Maniatis, Gogul Balakrishnan, Kensen Shi
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 142
 bibkey: kanade2019learning
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2001.00059'}
-tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2001.00059
+tags:
+- Transformer
+- BERT
+- Pre-Training
+- Fine-Tuning
 ---
 Recent research has achieved impressive results on understanding and
 improving source code by building up on machine-learning techniques developed

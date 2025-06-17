@@ -2,13 +2,18 @@
 layout: publication
 title: 'Prompt Programming For Large Language Models: Beyond The Few-shot Paradigm'
 authors: Laria Reynolds, Kyle Mcdonell
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 511
+citations: 382
 bibkey: reynolds2021prompt
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2102.07350'}
-tags: ['Few-Shot', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2102.07350
+tags:
+- GPT
+- Few-Shot
+- Prompting
+- Applications
 ---
 Prevailing methods for mapping large generative language models to supervised
 tasks may fail to sufficiently probe models' novel capabilities. Using GPT-3 as

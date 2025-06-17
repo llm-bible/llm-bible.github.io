@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Context-aware Visual Policy Network For Fine-grained Image Captioning'
+title: Context-aware Visual Policy Network For Fine-grained Image Captioning
 authors: Zheng-jun Zha, Daqing Liu, Hanwang Zhang, Yongdong Zhang, Feng Wu
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 144
+citations: 86
 bibkey: zha2019context
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1906.02365'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1906.02365
+tags:
+- Transformer
+- Reinforcement Learning
+- Attention Mechanism
 ---
 With the maturity of visual detection techniques, we are more ambitious in
 describing visual content with open-vocabulary, fine-grained and free-form

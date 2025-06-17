@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Large Language Models Are Effective Text Rankers With Pairwise Ranking Prompting'
+title: Large Language Models Are Effective Text Rankers With Pairwise Ranking Prompting
 authors: Zhen Qin et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 50
+citations: 52
 bibkey: qin2023large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2306.17563'}
-tags: ['RAG', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2306.17563
+tags:
+- GPT
+- RAG
+- Prompting
+- Efficiency and Optimization
 ---
 Ranking documents using Large Language Models (LLMs) by directly feeding the
 query and candidate documents into the prompt is an interesting and practical

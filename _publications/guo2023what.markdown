@@ -1,15 +1,23 @@
 ---
 layout: publication
-title: 'What Can Large Language Models Do In Chemistry? A Comprehensive Benchmark On Eight Tasks'
+title: What Can Large Language Models Do In Chemistry? A Comprehensive Benchmark On
+  Eight Tasks
 authors: Taicheng Guo et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 60
 bibkey: guo2023what
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.18365'}
-  - {name: "Code", url: 'https://github.com/ChemFoundationModels/ChemLLMBench'}
-tags: ['Has Code', 'Few-Shot', 'Model Architecture', 'GPT', 'Prompting', 'Fine-Tuning', 'In-Context Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.18365
+- name: Code
+  url: https://github.com/ChemFoundationModels/ChemLLMBench
+tags:
+- GPT
+- In-Context Learning
+- Few-Shot
+- Prompting
+- Fine-Tuning
 ---
 Large Language Models (LLMs) with strong abilities in natural language
 processing tasks have emerged and have been applied in various kinds of areas

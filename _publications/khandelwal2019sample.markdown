@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Sample Efficient Text Summarization Using A Single Pre-trained Transformer'
+title: Sample Efficient Text Summarization Using A Single Pre-trained Transformer
 authors: Urvashi Khandelwal, Kevin Clark, Dan Jurafsky, Lukasz Kaiser
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 66
 bibkey: khandelwal2019sample
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1905.08836'}
-tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Applications', 'Fine-Tuning', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1905.08836
+tags:
+- Transformer
+- Pre-Training
+- Fine-Tuning
+- Efficiency and Optimization
 ---
 Language model (LM) pre-training has resulted in impressive performance and
 sample efficiency on a variety of language understanding tasks. However, it

@@ -2,14 +2,19 @@
 layout: publication
 title: 'LISA: Reasoning Segmentation Via Large Language Model'
 authors: Xin Lai et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 65
+citations: 72
 bibkey: lai2023reasoning
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00692'}
-  - {name: "Code", url: 'https://github.com/dvlab-research/LISA'}
-tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2308.00692
+- name: Code
+  url: https://github.com/dvlab-research/LISA
+tags:
+- Multimodal Models
+- Reinforcement Learning
+- Fine-Tuning
 ---
 Although perception systems have made remarkable advancements in recent
 years, they still rely on explicit human instruction or pre-defined categories

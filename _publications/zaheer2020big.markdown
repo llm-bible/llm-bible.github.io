@@ -2,13 +2,18 @@
 layout: publication
 title: 'Big Bird: Transformers For Longer Sequences'
 authors: Manzil Zaheer et al.
-conference: "Neural Information Processing Systems (NeurIPS) 2020"
+conference: Neural Information Processing Systems (NeurIPS) 2020
 year: 2020
 citations: 805
 bibkey: zaheer2020big
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2007.14062'}
-tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2007.14062
+tags:
+- Transformer
+- BERT
+- Applications
+- Attention Mechanism
 ---
 Transformers-based models, such as BERT, have been one of the most successful
 deep learning models for NLP. Unfortunately, one of their core limitations is

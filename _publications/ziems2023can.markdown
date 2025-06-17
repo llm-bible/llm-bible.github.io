@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Can Large Language Models Transform Computational Social Science?'
+title: Can Large Language Models Transform Computational Social Science?
 authors: Caleb Ziems et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 229
+citations: 164
 bibkey: ziems2023can
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.03514'}
-tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.03514
+tags:
+- Prompting
+- Tools
+- Interpretability and Explainability
 ---
 Large Language Models (LLMs) are capable of successfully performing many
 language processing tasks zero-shot (without training data). If zero-shot LLMs

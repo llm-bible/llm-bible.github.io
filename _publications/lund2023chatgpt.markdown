@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Chatgpt And A New Academic Reality: Artificial Intelligence-written Research Papers And The Ethics Of The Large Language Models In Scholarly Publishing'
+title: 'Chatgpt And A New Academic Reality: Artificial Intelligence-written Research
+  Papers And The Ethics Of The Large Language Models In Scholarly Publishing'
 authors: Brady Lund et al.
-conference: "Journal of the Association for Information Science and Technology (2023)"
+conference: Journal of the Association for Information Science and Technology (2023)
 year: 2023
-citations: 492
+citations: 461
 bibkey: lund2023chatgpt
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.13367'}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2303.13367
+tags:
+- GPT
+- Transformer
+- Ethics and Bias
 ---
 This paper discusses OpenAIs ChatGPT, a generative pre-trained transformer,
 which uses natural language processing to fulfill text-based user requests

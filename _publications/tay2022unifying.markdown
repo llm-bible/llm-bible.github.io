@@ -2,13 +2,19 @@
 layout: publication
 title: 'UL2: Unifying Language Learning Paradigms'
 authors: Yi Tay et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 81
 bibkey: tay2022unifying
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2205.05131v3'}
-tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Applications', 'Pre-Training', 'In-Context Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2205.05131
+tags:
+- Pre-Training
+- Fine-Tuning
+- Prompting
+- In-Context Learning
+- GPT
 ---
 Existing pre-trained models are generally geared towards a particular class
 of problems. To date, there seems to be still no consensus on what the right

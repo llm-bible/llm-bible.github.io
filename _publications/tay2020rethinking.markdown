@@ -2,13 +2,17 @@
 layout: publication
 title: 'Synthesizer: Rethinking Self-attention In Transformer Models'
 authors: Yi Tay et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 191
 bibkey: tay2020rethinking
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00743'}
-tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2005.00743
+tags:
+- Transformer
+- Language Modeling
+- Attention Mechanism
 ---
 The dot product self-attention is known to be central and indispensable to
 state-of-the-art Transformer models. But is it really required? This paper

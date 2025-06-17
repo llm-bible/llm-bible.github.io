@@ -2,14 +2,21 @@
 layout: publication
 title: 'Decomposed Prompting: A Modular Approach For Solving Complex Tasks'
 authors: Tushar Khot et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 60
 bibkey: khot2022decomposed
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2210.02406'}
-  - {name: "Code", url: 'https://github.com/allenai/DecomP'}
-tags: ['Has Code', 'Few-Shot', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2210.02406
+- name: Code
+  url: https://github.com/allenai/DecomP
+tags:
+- GPT
+- In-Context Learning
+- Few-Shot
+- Prompting
+- Tools
 ---
 Few-shot prompting is a surprisingly powerful way to use Large Language
 Models (LLMs) to solve various tasks. However, this approach struggles as the

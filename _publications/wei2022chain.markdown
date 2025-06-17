@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Chain-of-thought Prompting Elicits Reasoning In Large Language Models'
+title: Chain-of-thought Prompting Elicits Reasoning In Large Language Models
 authors: Jason Wei et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 2365
 bibkey: wei2022chain
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2201.11903v6'}
-tags: ['Prompting', 'GPT', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2201.11903
+tags:
+- GPT
+- Prompting
 ---
 We explore how generating a chain of thought -- a series of intermediate
 reasoning steps -- significantly improves the ability of large language models

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Language Models Are Few-shot Learners'
+title: Language Models Are Few-shot Learners
 authors: Tom B. Brown et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 12845
 bibkey: brown2020language
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2005.14165'}
-tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2005.14165
+tags:
+- GPT
+- Few-Shot
+- Pre-Training
+- Fine-Tuning
 ---
 Recent work has demonstrated substantial gains on many NLP tasks and
 benchmarks by pre-training on a large corpus of text followed by fine-tuning on

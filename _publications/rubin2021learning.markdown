@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Learning To Retrieve Prompts For In-context Learning'
+title: Learning To Retrieve Prompts For In-context Learning
 authors: Ohad Rubin, Jonathan Herzig, Jonathan Berant
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 216
+citations: 105
 bibkey: rubin2021learning
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2112.08633v2'}
-tags: ['Applications', 'Prompting', 'In-Context Learning', 'Training Techniques']
+- name: Paper
+  url: http://arxiv.org/abs/2112.08633v2
+tags:
+- Applications
+- Prompting
+- In-Context Learning
 ---
 In-context learning is a recent paradigm in natural language understanding,
 where a large pre-trained language model (LM) observes a test instance and a

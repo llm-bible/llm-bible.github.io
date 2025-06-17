@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Least-to-most Prompting Enables Complex Reasoning In Large Language Models'
+title: Least-to-most Prompting Enables Complex Reasoning In Large Language Models
 authors: Denny Zhou et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 228
 bibkey: zhou2022least
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2205.10625v3'}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2205.10625
+tags:
+- GPT
+- Prompting
+- Reinforcement Learning
 ---
 Chain-of-thought prompting has demonstrated remarkable performance on various
 natural language reasoning tasks. However, it tends to perform poorly on tasks

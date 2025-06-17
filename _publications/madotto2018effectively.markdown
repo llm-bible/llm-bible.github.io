@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Mem2seq: Effectively Incorporating Knowledge Bases Into End-to-end Task-oriented Dialog Systems'
+title: 'Mem2seq: Effectively Incorporating Knowledge Bases Into End-to-end Task-oriented
+  Dialog Systems'
 authors: Andrea Madotto, Chien-sheng Wu, Pascale Fung
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
-citations: 303
+citations: 113
 bibkey: madotto2018effectively
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1804.08217'}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1804.08217
+tags:
+- Transformer
+- Attention Mechanism
 ---
 End-to-end task-oriented dialog systems usually suffer from the challenge of
 incorporating knowledge bases. In this paper, we propose a novel yet simple

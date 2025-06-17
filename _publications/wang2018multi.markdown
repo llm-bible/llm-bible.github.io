@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Multi-granularity Hierarchical Attention Fusion Networks For Reading Comprehension And Question Answering'
+title: Multi-granularity Hierarchical Attention Fusion Networks For Reading Comprehension
+  And Question Answering
 authors: Wei Wang, Ming Yan, Chen Wu
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
 citations: 66
 bibkey: wang2018multi
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1811.11934'}
-tags: ['Attention Mechanism', 'RAG', 'Applications', 'Model Architecture', 'Merging']
+- name: Paper
+  url: https://arxiv.org/abs/1811.11934
+tags:
+- Attention Mechanism
+- RAG
+- Model Architecture
 ---
 This paper describes a novel hierarchical attention network for reading
 comprehension style question answering, which aims to answer questions for a

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Intermediate-task Transfer Learning With Pretrained Models For Natural Language Understanding: When And Why Does It Work?'
+title: 'Intermediate-task Transfer Learning With Pretrained Models For Natural Language
+  Understanding: When And Why Does It Work?'
 authors: Yada Pruksachatkun et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 56
 bibkey: pruksachatkun2020intermediate
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2005.00628'}
-tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2005.00628
+tags:
+- Fine-Tuning
+- BERT
+- Reinforcement Learning
 ---
 While pretrained models such as BERT have shown large gains across natural
 language understanding tasks, their performance can be improved by further

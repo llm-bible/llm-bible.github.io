@@ -1,14 +1,16 @@
 ---
 layout: publication
-title: 'The Evolved Transformer'
+title: The Evolved Transformer
 authors: David R. So, Chen Liang, Quoc V. Le
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 206
 bibkey: so2019evolved
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1901.11117'}
-tags: ['WMT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1901.11117
+tags:
+- Transformer
 ---
 Recent works have highlighted the strength of the Transformer architecture on
 sequence tasks while, at the same time, neural architecture search (NAS) has

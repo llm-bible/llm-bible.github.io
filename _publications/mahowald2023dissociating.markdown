@@ -1,14 +1,16 @@
 ---
 layout: publication
-title: 'Dissociating Language And Thought In Large Language Models'
+title: Dissociating Language And Thought In Large Language Models
 authors: Kyle Mahowald et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 117
+citations: 119
 bibkey: mahowald2023dissociating
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2301.06627'}
-tags: ['Reinforcement Learning', 'Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2301.06627
+tags:
+- Fine-Tuning
 ---
 Large Language Models (LLMs) have come closest among all models to date to
 mastering human language, yet opinions about their linguistic and cognitive

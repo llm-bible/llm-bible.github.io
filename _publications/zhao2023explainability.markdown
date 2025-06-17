@@ -2,13 +2,21 @@
 layout: publication
 title: 'Explainability For Large Language Models: A Survey'
 authors: Haiyan Zhao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 191
+citations: 161
 bibkey: zhao2023explainability
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2309.01029'}
-tags: ['Interpretability and Explainability', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Merging', 'Prompting', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2309.01029
+tags:
+- Survey Paper
+- Ethics and Bias
+- Transformer
+- Interpretability and Explainability
+- Applications
+- Prompting
+- Fine-Tuning
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 natural language processing. However, their internal mechanisms are still

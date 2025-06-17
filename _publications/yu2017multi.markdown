@@ -1,15 +1,20 @@
 ---
 layout: publication
-title: 'Multi-modal Factorized Bilinear Pooling With Co-attention Learning For Visual Question Answering'
+title: Multi-modal Factorized Bilinear Pooling With Co-attention Learning For Visual
+  Question Answering
 authors: Zhou Yu, Jun Yu, Jianping Fan, Dacheng Tao
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
 citations: 486
 bibkey: yu2017multi
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1708.01471'}
-  - {name: "Code", url: 'https://github.com/yuzcccc/mfb'}
-tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Model Architecture', 'Applications', 'Merging', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1708.01471
+- name: Code
+  url: https://github.com/yuzcccc/mfb
+tags:
+- Transformer
+- Attention Mechanism
 ---
 Visual question answering (VQA) is challenging because it requires a
 simultaneous understanding of both the visual content of images and the textual

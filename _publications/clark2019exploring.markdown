@@ -2,13 +2,17 @@
 layout: publication
 title: 'Boolq: Exploring The Surprising Difficulty Of Natural Yes/no Questions'
 authors: Christopher Clark et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 201
 bibkey: clark2019exploring
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1905.10044'}
-tags: ['Fine-Tuning', 'BERT', 'Prompting', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1905.10044
+tags:
+- BERT
+- Fine-Tuning
+- Prompting
 ---
 In this paper we study yes/no questions that are naturally occurring ---
 meaning that they are generated in unprompted and unconstrained settings. We

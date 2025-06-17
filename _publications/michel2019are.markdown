@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'Are Sixteen Heads Really Better Than One?'
+title: Are Sixteen Heads Really Better Than One?
 authors: Paul Michel, Omer Levy, Graham Neubig
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 315
 bibkey: michel2019are
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1905.10650'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Pruning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1905.10650
+tags:
+- Transformer
+- BERT
+- RAG
+- Pruning
+- Attention Mechanism
+- Efficiency and Optimization
 ---
 Attention is a powerful and ubiquitous mechanism for allowing neural models
 to focus on particular salient pieces of information by taking their weighted

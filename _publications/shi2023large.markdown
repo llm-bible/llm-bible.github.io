@@ -1,14 +1,16 @@
 ---
 layout: publication
-title: 'Large Language Models Can Be Easily Distracted By Irrelevant Context'
+title: Large Language Models Can Be Easily Distracted By Irrelevant Context
 authors: Freda Shi et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 56
 bibkey: shi2023large
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2302.00093v3'}
-tags: ['Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2302.00093
+tags:
+- Prompting
 ---
 Large language models have achieved impressive performance on various natural
 language processing tasks. However, so far they have been evaluated primarily

@@ -2,13 +2,17 @@
 layout: publication
 title: 'The Pile: An 800GB Dataset Of Diverse Text For Language Modeling'
 authors: Leo Gao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 454
 bibkey: gao2020dataset
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2101.00027'}
-tags: ['Language Modeling', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning']
+- name: Paper
+  url: https://arxiv.org/abs/2101.00027
+tags:
+- GPT
+- Language Modeling
+- Fine-Tuning
 ---
 Recent work has demonstrated that increased training dataset diversity
 improves general cross-domain knowledge and downstream generalization

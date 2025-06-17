@@ -2,13 +2,17 @@
 layout: publication
 title: 'Gshard: Scaling Giant Models With Conditional Computation And Automatic Sharding'
 authors: Dmitry Lepikhin et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 290
 bibkey: lepikhin2020scaling
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2006.16668v1'}
-tags: ['Transformer', 'Model Architecture', 'Applications', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2006.16668
+tags:
+- Transformer
+- Applications
+- Tools
 ---
 Neural network scaling has been critical for improving the model quality in
 many real-world machine learning applications with vast amounts of training

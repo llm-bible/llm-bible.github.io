@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Towards Learning A Generic Agent For Vision-and-language Navigation Via Pre-training'
+title: Towards Learning A Generic Agent For Vision-and-language Navigation Via Pre-training
 authors: Weituo Hao, Chunyuan Li, Xiujun Li, Lawrence Carin, Jianfeng Gao
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 194
+citations: 132
 bibkey: hao2020towards
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2002.10638'}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2002.10638
+tags:
+- Multimodal Models
+- Pre-Training
+- Fine-Tuning
+- Agentic
 ---
 Learning to navigate in a visual environment following natural-language
 instructions is a challenging task, because the multimodal inputs to the agent

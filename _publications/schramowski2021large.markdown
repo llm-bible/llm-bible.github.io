@@ -1,14 +1,22 @@
 ---
 layout: publication
-title: 'Large Pre-trained Language Models Contain Human-like Biases Of What Is Right And Wrong To Do'
-authors: Patrick Schramowski, Cigdem Turan, Nico Andersen, Constantin A. Rothkopf, Kristian Kersting
-conference: "Arxiv"
+title: Large Pre-trained Language Models Contain Human-like Biases Of What Is Right
+  And Wrong To Do
+authors: Patrick Schramowski, Cigdem Turan, Nico Andersen, Constantin A. Rothkopf,
+  Kristian Kersting
+conference: Arxiv
 year: 2021
-citations: 194
+citations: 154
 bibkey: schramowski2021large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2103.11790'}
-tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2103.11790
+tags:
+- GPT
+- Transformer
+- Ethics and Bias
+- Fine-Tuning
+- Prompting
 ---
 Artificial writing is permeating our lives due to recent advances in
 large-scale, transformer-based language models (LMs) such as BERT, its

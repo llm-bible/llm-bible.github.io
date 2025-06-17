@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'What Does CLIP Know About A Red Circle? Visual Prompt Engineering For Vlms'
+title: What Does CLIP Know About A Red Circle? Visual Prompt Engineering For Vlms
 authors: Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 42
+citations: 50
 bibkey: shtedritski2023what
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.06712'}
-tags: ['Attention Mechanism', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Multimodal Models']
+- name: Paper
+  url: https://arxiv.org/abs/2304.06712
+tags:
+- Multimodal Models
+- Applications
+- Prompting
+- Attention Mechanism
 ---
 Large-scale Vision-Language Models, such as CLIP, learn powerful image-text
 representations that have found numerous applications, from zero-shot

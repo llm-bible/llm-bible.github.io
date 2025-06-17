@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Funnel-transformer: Filtering Out Sequential Redundancy For Efficient Language Processing'
+title: 'Funnel-transformer: Filtering Out Sequential Redundancy For Efficient Language
+  Processing'
 authors: Zihang Dai, Guokun Lai, Yiming Yang, Quoc V. Le
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 104
 bibkey: dai2020funnel
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2006.03236'}
-  - {name: "Code", url: 'https://github.com/laiguokun/Funnel-Transformer'}
-tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2006.03236
+- name: Code
+  url: https://github.com/laiguokun/Funnel-Transformer
+tags:
+- Transformer
+- Efficiency and Optimization
+- Pre-Training
 ---
 With the success of language pretraining, it is highly desirable to develop
 more efficient architectures of good scalability that can exploit the abundant

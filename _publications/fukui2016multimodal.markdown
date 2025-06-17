@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Multimodal Compact Bilinear Pooling For Visual Question Answering And Visual Grounding'
+title: Multimodal Compact Bilinear Pooling For Visual Question Answering And Visual
+  Grounding
 authors: Akira Fukui et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
-citations: 1342
+citations: 875
 bibkey: fukui2016multimodal
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1606.01847'}
-tags: ['Attention Mechanism', 'Multimodal Models', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1606.01847
+tags:
+- Multimodal Models
+- Attention Mechanism
 ---
 Modeling textual or visual information with vector representations trained
 from large language or visual datasets has been successfully explored in recent

@@ -2,13 +2,18 @@
 layout: publication
 title: 'Calibrate Before Use: Improving Few-shot Performance Of Language Models'
 authors: Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 337
+citations: 338
 bibkey: zhao2021calibrate
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2102.09690'}
-tags: ['Few-Shot', 'RAG', 'Pre-Training', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/2102.09690
+tags:
+- GPT
+- Few-Shot
+- Prompting
+- Pre-Training
 ---
 GPT-3 can perform numerous tasks when provided a natural language prompt that
 contains a few training examples. We show that this type of few-shot learning

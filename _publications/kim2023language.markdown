@@ -1,15 +1,22 @@
 ---
 layout: publication
-title: 'Language Models Can Solve Computer Tasks'
+title: Language Models Can Solve Computer Tasks
 authors: Geunwoo Kim, Pierre Baldi, Stephen Mcaleer
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 55
 bibkey: kim2023language
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.17491'}
-  - {name: "Code", url: 'https://github.com/posgnu/rci-agent'}
-tags: ['Agentic', 'Has Code', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2303.17491
+- name: Code
+  url: https://github.com/posgnu/rci-agent
+tags:
+- GPT
+- Reinforcement Learning
+- Prompting
+- Agentic
+- Efficiency and Optimization
 ---
 Agents capable of carrying out general tasks on a computer can improve
 efficiency and productivity by automating repetitive tasks and assisting in

@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Retrieval-augmented Generation For Knowledge-intensive NLP Tasks'
+title: Retrieval-augmented Generation For Knowledge-intensive NLP Tasks
 authors: Patrick Lewis et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 1599
 bibkey: lewis2020retrieval
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2005.11401v4'}
-tags: ['RAG', 'Vector Indexing', 'Model Architecture', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2005.11401
+tags:
+- RAG
+- Fine-Tuning
+- Vector Indexing
 ---
 Large pre-trained language models have been shown to store factual knowledge
 in their parameters, and achieve state-of-the-art results when fine-tuned on

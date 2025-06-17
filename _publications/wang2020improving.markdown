@@ -1,15 +1,22 @@
 ---
 layout: publication
-title: 'Infobert: Improving Robustness Of Language Models From An Information Theoretic Perspective'
+title: 'Infobert: Improving Robustness Of Language Models From An Information Theoretic
+  Perspective'
 authors: Boxin Wang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 53
 bibkey: wang2020improving
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2010.02329'}
-  - {name: "Code", url: 'https://github.com/AI-secure/InfoBERT'}
-tags: ['Has Code', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'BERT', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2010.02329
+- name: Code
+  url: https://github.com/AI-secure/InfoBERT
+tags:
+- BERT
+- Fine-Tuning
+- Security
+- Tools
 ---
 Large-scale language models such as BERT have achieved state-of-the-art
 performance across a wide range of NLP tasks. Recent studies, however, show

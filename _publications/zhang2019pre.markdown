@@ -2,13 +2,16 @@
 layout: publication
 title: 'PEGASUS: Pre-training With Extracted Gap-sentences For Abstractive Summarization'
 authors: Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J. Liu
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 889
 bibkey: zhang2019pre
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1912.08777'}
-tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1912.08777
+tags:
+- Transformer
+- Pre-Training
 ---
 Recent work pre-training Transformers with self-supervised objectives on
 large text corpora has shown great success when fine-tuned on downstream NLP

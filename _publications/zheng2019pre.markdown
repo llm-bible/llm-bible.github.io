@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'A Pre-training Based Personalized Dialogue Generation Model With Persona-sparse Data'
+title: A Pre-training Based Personalized Dialogue Generation Model With Persona-sparse
+  Data
 authors: Yinhe Zheng, Rongsheng Zhang, Xiaoxi Mao, Minlie Huang
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 135
+citations: 54
 bibkey: zheng2019pre
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.04700'}
-tags: ['Attention Mechanism', 'Training Techniques', 'Applications', 'Model Architecture', 'Pre-Training']
+- name: Paper
+  url: https://arxiv.org/abs/1911.04700
+tags:
+- Pre-Training
+- Attention Mechanism
+- Model Architecture
 ---
 Endowing dialogue systems with personas is essential to deliver more
 human-like conversations. However, this problem is still far from well explored

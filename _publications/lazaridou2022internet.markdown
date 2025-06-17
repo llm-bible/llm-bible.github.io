@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Internet-augmented Language Models Through Few-shot Prompting For Open-domain Question Answering'
+title: Internet-augmented Language Models Through Few-shot Prompting For Open-domain
+  Question Answering
 authors: Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 59
 bibkey: lazaridou2022internet
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2203.05115'}
-tags: ['Attention Mechanism', 'Few-Shot', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2203.05115
+tags:
+- Few-Shot
+- Prompting
+- RAG
+- In-Context Learning
 ---
 In this work, we aim to capitalize on the unique few-shot capabilities of
 large-scale language models (LSLMs) to overcome some of their challenges with

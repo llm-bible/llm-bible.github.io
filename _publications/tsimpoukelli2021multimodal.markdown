@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Multimodal Few-shot Learning With Frozen Language Models'
+title: Multimodal Few-shot Learning With Frozen Language Models
 authors: Maria Tsimpoukelli et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 245
 bibkey: tsimpoukelli2021multimodal
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2106.13884'}
-tags: ['Few-Shot', 'Tools', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2106.13884
+tags:
+- Multimodal Models
+- Few-Shot
+- Prompting
 ---
 When trained at sufficient scale, auto-regressive language models exhibit the
 notable ability to learn a new language task after being prompted with just a

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Iterative Answer Prediction With Pointer-augmented Multimodal Transformers For Textvqa'
+title: Iterative Answer Prediction With Pointer-augmented Multimodal Transformers
+  For Textvqa
 authors: Ronghang Hu, Amanpreet Singh, Trevor Darrell, Marcus Rohrbach
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 187
+citations: 125
 bibkey: hu2019iterative
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.06258'}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1911.06258
+tags:
+- Multimodal Models
+- Transformer
+- Attention Mechanism
 ---
 Many visual scenes contain text that carries crucial information, and it is
 thus essential to understand text in images for downstream reasoning tasks. For

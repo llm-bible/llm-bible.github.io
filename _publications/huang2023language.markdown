@@ -2,13 +2,18 @@
 layout: publication
 title: 'Language Is Not All You Need: Aligning Perception With Language Models'
 authors: Shaohan Huang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 131
 bibkey: huang2023language
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2302.14045v2'}
-tags: ['Few-Shot', 'Applications', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2302.14045
+tags:
+- Reinforcement Learning
+- Prompting
+- Multimodal Models
+- Few-Shot
 ---
 A big convergence of language, multimodal perception, action, and world
 modeling is a key step toward artificial general intelligence. In this work, we

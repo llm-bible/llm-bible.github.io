@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Llava-med: Training A Large Language-and-vision Assistant For Biomedicine In One Day'
+title: 'Llava-med: Training A Large Language-and-vision Assistant For Biomedicine
+  In One Day'
 authors: Chunyuan Li et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 103
 bibkey: li2023llava
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2306.00890'}
-tags: ['RAG', 'Training Techniques', 'GPT', 'Tools', 'Model Architecture', 'Applications', 'Multimodal Models']
+- name: Paper
+  url: https://arxiv.org/abs/2306.00890
+tags:
+- GPT
+- Multimodal Models
+- RAG
+- Fine-Tuning
 ---
 Conversational generative AI has demonstrated remarkable promise for
 empowering biomedical practitioners, but current investigations focus on

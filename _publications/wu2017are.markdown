@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Are You Talking To Me? Reasoned Visual Dialog Generation Through Adversarial Learning'
+title: Are You Talking To Me? Reasoned Visual Dialog Generation Through Adversarial
+  Learning
 authors: Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton Van Den Hengel
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
-citations: 152
+citations: 64
 bibkey: wu2017are
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1711.07613'}
-tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1711.07613
+tags:
+- Reinforcement Learning
+- Attention Mechanism
+- Agentic
+- Transformer
 ---
 The Visual Dialogue task requires an agent to engage in a conversation about
 an image with a human. It represents an extension of the Visual Question

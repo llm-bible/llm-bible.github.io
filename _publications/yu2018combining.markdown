@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Qanet: Combining Local Convolution With Global Self-attention For Reading Comprehension'
+title: 'Qanet: Combining Local Convolution With Global Self-attention For Reading
+  Comprehension'
 authors: Adams Wei Yu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
 citations: 471
 bibkey: yu2018combining
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1804.09541'}
-tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1804.09541
+tags:
+- Transformer
+- Attention Mechanism
+- Model Architecture
 ---
 Current end-to-end machine reading and question answering (Q\&A) models are
 primarily based on recurrent neural networks (RNNs) with attention. Despite

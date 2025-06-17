@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Exbert: A Visual Analysis Tool To Explore Learned Representations In Transformers Models'
+title: 'Exbert: A Visual Analysis Tool To Explore Learned Representations In Transformers
+  Models'
 authors: Benjamin Hoover, Hendrik Strobelt, Sebastian Gehrmann
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 139
+citations: 58
 bibkey: hoover2019visual
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1910.05276'}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'BERT', 'Tools', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1910.05276
+tags:
+- Transformer
+- BERT
+- Tools
+- Attention Mechanism
 ---
 Large language models can produce powerful contextual representations that
 lead to improvements across many NLP tasks. Since these models are typically

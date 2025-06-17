@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Rationalizing Neural Predictions'
+title: Rationalizing Neural Predictions
 authors: Tao Lei, Regina Barzilay, Tommi Jaakkola
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
-citations: 611
+citations: 217
 bibkey: lei2016rationalizing
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1606.04155'}
-tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1606.04155
+tags:
+- Attention Mechanism
+- RAG
+- Model Architecture
 ---
 Prediction without justification has limited applicability. As a remedy, we
 learn to extract pieces of input text as justifications -- rationales -- that

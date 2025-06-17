@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'Biomistral: A Collection Of Open-source Pretrained Large Language Models For Medical Domains'
+title: 'Biomistral: A Collection Of Open-source Pretrained Large Language Models For
+  Medical Domains'
 authors: Yanis Labrak et al.
-conference: "Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics - Volume 1 Long Papers (ACL 2024)"
+conference: Proceedings of the 62st Annual Meeting of the Association for Computational
+  Linguistics - Volume 1 Long Papers (ACL 2024)
 year: 2024
-citations: 57
+citations: 65
 bibkey: labrak2024collection
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2402.10373'}
-tags: ['Merging', 'Efficiency and Optimization', 'Applications', 'Quantization']
+- name: Paper
+  url: https://arxiv.org/abs/2402.10373
+tags:
+- Pre-Training
+- Applications
+- Efficiency and Optimization
+- Quantization
 ---
 Large Language Models (LLMs) have demonstrated remarkable versatility in
 recent years, offering potential applications across specialized domains such

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Bitfit: Simple Parameter-efficient Fine-tuning For Transformer-based Masked Language-models'
+title: 'Bitfit: Simple Parameter-efficient Fine-tuning For Transformer-based Masked
+  Language-models'
 authors: Elad Ben Zaken, Shauli Ravfogel, Yoav Goldberg
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 388
+citations: 182
 bibkey: zaken2021simple
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2106.10199'}
-tags: ['Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2106.10199
+tags:
+- Transformer
+- BERT
+- Fine-Tuning
 ---
 We introduce BitFit, a sparse-finetuning method where only the bias-terms of
 the model (or a subset of them) are being modified. We show that with

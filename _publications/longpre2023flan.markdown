@@ -1,15 +1,22 @@
 ---
 layout: publication
-title: 'The Flan Collection: Designing Data And Methods For Effective Instruction Tuning'
+title: 'The Flan Collection: Designing Data And Methods For Effective Instruction
+  Tuning'
 authors: Shayne Longpre et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 74
 bibkey: longpre2023flan
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2301.13688v2'}
-  - {name: "Code", url: 'https://github.com/google-research/FLAN/tree/main/flan/v2'}
-tags: ['Has Code', 'Few-Shot', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2301.13688
+- name: Code
+  url: https://github.com/google-research/FLAN/tree/main/flan/v2
+tags:
+- Few-Shot
+- Prompting
+- Reinforcement Learning
+- Training Techniques
 ---
 We study the design decisions of publicly available instruction tuning
 methods, and break down the development of Flan 2022 (Chung et al., 2022).

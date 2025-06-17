@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'When Large Language Models Meet Personalization: Perspectives Of Challenges And Opportunities'
+title: 'When Large Language Models Meet Personalization: Perspectives Of Challenges
+  And Opportunities'
 authors: Jin Chen et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 71
+citations: 89
 bibkey: chen2023when
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2307.16376v1'}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Survey Paper', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2307.16376
+tags:
+- Survey Paper
+- Reinforcement Learning
+- Tools
 ---
 The advent of large language models marks a revolutionary breakthrough in
 artificial intelligence. With the unprecedented scale of training and model

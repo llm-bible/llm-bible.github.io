@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'One Small Step For Generative AI, One Giant Leap For AGI: A Complete Survey On Chatgpt In AIGC Era'
+title: 'One Small Step For Generative AI, One Giant Leap For AGI: A Complete Survey
+  On Chatgpt In AIGC Era'
 authors: Chaoning Zhang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 69
 bibkey: zhang2023one
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.06488'}
-tags: ['Attention Mechanism', 'RAG', 'GPT', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2304.06488
+tags:
+- GPT
+- Survey Paper
+- Applications
+- RAG
+- Attention Mechanism
 ---
 OpenAI has recently released GPT-4 (a.k.a. ChatGPT plus), which is
 demonstrated to be one small step for generative AI (GAI), but one giant leap

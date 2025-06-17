@@ -2,13 +2,17 @@
 layout: publication
 title: 'Verigen: A Large Language Model For Verilog Code Generation'
 authors: Shailja Thakur et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 40
+citations: 65
 bibkey: thakur2023large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2308.00708'}
-tags: ['GPT', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2308.00708
+tags:
+- GPT
+- Fine-Tuning
+- Language Modeling
 ---
 In this study, we explore the capability of Large Language Models (LLMs) to
 automate hardware design by generating high-quality Verilog code, a common

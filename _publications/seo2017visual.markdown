@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Visual Reference Resolution Using Attention Memory For Visual Dialog'
+title: Visual Reference Resolution Using Attention Memory For Visual Dialog
 authors: Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
 citations: 91
 bibkey: seo2017visual
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1709.07992'}
-tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1709.07992
+tags:
+- Transformer
+- Attention Mechanism
+- Model Architecture
 ---
 Visual dialog is a task of answering a series of inter-dependent questions
 given an input image, and often requires to resolve visual references among the

@@ -2,14 +2,20 @@
 layout: publication
 title: 'Llamafactory: Unified Efficient Fine-tuning Of 100+ Language Models'
 authors: Yaowei Zheng et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2024
-citations: 48
+citations: 72
 bibkey: zheng2024unified
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2403.13372'}
-  - {name: "Code", url: 'https://github.com/hiyouga/LLaMA-Factory'}
-tags: ['Has Code', 'Language Modeling', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2403.13372
+- name: Code
+  url: https://github.com/hiyouga/LLaMA-Factory
+tags:
+- Tools
+- Language Modeling
+- Efficiency and Optimization
+- Fine-Tuning
 ---
 Efficient fine-tuning is vital for adapting large language models (LLMs) to
 downstream tasks. However, it requires non-trivial efforts to implement these

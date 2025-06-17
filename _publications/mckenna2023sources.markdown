@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Sources Of Hallucination By Large Language Models On Inference Tasks'
+title: Sources Of Hallucination By Large Language Models On Inference Tasks
 authors: Nick Mckenna et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 73
+citations: 51
 bibkey: mckenna2023sources
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14552'}
-tags: ['Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2305.14552
+tags:
+- Ethics and Bias
+- GPT
 ---
 Large Language Models (LLMs) are claimed to be capable of Natural Language
 Inference (NLI), necessary for applied tasks like question answering and

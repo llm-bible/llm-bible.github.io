@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Scaling Vision Transformers To 22 Billion Parameters'
+title: Scaling Vision Transformers To 22 Billion Parameters
 authors: Mostafa Dehghani et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 57
 bibkey: dehghani2023scaling
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2302.05442'}
-tags: ['Transformer', 'Security', 'Fairness', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2302.05442
+tags:
+- Transformer
+- Fairness
+- Ethics and Bias
 ---
 The scaling of Transformers has driven breakthrough capabilities for language
 models. At present, the largest large language models (LLMs) contain upwards of

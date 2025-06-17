@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Towards Expert-level Medical Question Answering With Large Language Models'
+title: Towards Expert-level Medical Question Answering With Large Language Models
 authors: Karan Singhal et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 211
+citations: 81
 bibkey: singhal2023towards
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09617'}
-tags: ['RAG', 'Security', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.09617
+tags:
+- Applications
+- Prompting
+- Reinforcement Learning
+- RAG
+- Fine-Tuning
 ---
 Recent artificial intelligence (AI) systems have reached milestones in "grand
 challenges" ranging from Go to protein-folding. The capability to retrieve

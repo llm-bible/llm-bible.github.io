@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Prompting Large Language Models With Rationale Heuristics For Knowledge-based Visual Question Answering'
+title: Prompting Large Language Models With Rationale Heuristics For Knowledge-based
+  Visual Question Answering
 authors: Zhongjian Hu, Peng Yang, Bing Li, Fengyuan Liu
-conference: "Arxiv"
+conference: Arxiv
 year: 2024
-citations: 107
+citations: 108
 bibkey: hu2024prompting
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2412.16936'}
-tags: ['RAG', 'Prompting', 'Applications', 'Tools']
+- name: Paper
+  url: https://arxiv.org/abs/2412.16936
+tags:
+- RAG
+- Prompting
 ---
 Recently, Large Language Models (LLMs) have been used for knowledge-based
 Visual Question Answering (VQA). Despite the encouraging results of previous

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Language Models As Zero-shot Planners: Extracting Actionable Knowledge For Embodied Agents'
+title: 'Language Models As Zero-shot Planners: Extracting Actionable Knowledge For
+  Embodied Agents'
 authors: Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 116
 bibkey: huang2022language
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2201.07207v2'}
-tags: ['Reinforcement Learning', 'Agentic', 'Prompting', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2201.07207
+tags:
+- Reinforcement Learning
+- Prompting
+- Agentic
 ---
 Can world knowledge learned by large language models (LLMs) be used to act in
 interactive environments? In this paper, we investigate the possibility of

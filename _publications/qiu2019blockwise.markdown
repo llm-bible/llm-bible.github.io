@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Blockwise Self-attention For Long Document Understanding'
+title: Blockwise Self-attention For Long Document Understanding
 authors: Jiezhong Qiu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 141
+citations: 67
 bibkey: qiu2019blockwise
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.02972'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training']
+- name: Paper
+  url: https://arxiv.org/abs/1911.02972
+tags:
+- Transformer
+- BERT
+- Pre-Training
+- Attention Mechanism
 ---
 We present BlockBERT, a lightweight and efficient BERT model for better
 modeling long-distance dependencies. Our model extends BERT by introducing

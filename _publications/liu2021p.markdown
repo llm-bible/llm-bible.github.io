@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'P-tuning V2: Prompt Tuning Can Be Comparable To Fine-tuning Universally Across Scales And Tasks'
+title: 'P-tuning V2: Prompt Tuning Can Be Comparable To Fine-tuning Universally Across
+  Scales And Tasks'
 authors: Xiao Liu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 246
 bibkey: liu2021p
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2110.07602v3'}
-  - {name: "Code", url: 'https://github.com/THUDM/P-tuning-v2'}
-tags: ['Has Code', 'RAG', 'Training Techniques', 'Fine-Tuning', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: http://arxiv.org/abs/2110.07602v3
+- name: Code
+  url: https://github.com/THUDM/P-tuning-v2
+tags:
+- Fine-Tuning
+- Prompting
+- Pre-Training
 ---
 Prompt tuning, which only tunes continuous prompts with a frozen language
 model, substantially reduces per-task storage and memory usage at training.

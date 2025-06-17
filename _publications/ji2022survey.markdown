@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Survey Of Hallucination In Natural Language Generation'
+title: Survey Of Hallucination In Natural Language Generation
 authors: Ziwei Ji et al.
-conference: "ACM Computing Surveys (2022)"
+conference: ACM Computing Surveys (2022)
 year: 2022
-citations: 1514
+citations: 1291
 bibkey: ji2022survey
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2202.03629'}
-tags: ['Language Modeling', 'Transformer', 'Model Architecture', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2202.03629
+tags:
+- Survey Paper
+- Transformer
+- Language Modeling
 ---
 Natural Language Generation (NLG) has improved exponentially in recent years
 thanks to the development of sequence-to-sequence deep learning technologies

@@ -1,15 +1,20 @@
 ---
 layout: publication
-title: 'Fusion Of Detected Objects In Text For Visual Question Answering'
+title: Fusion Of Detected Objects In Text For Visual Question Answering
 authors: Chris Alberti, Jeffrey Ling, Michael Collins, David Reitter
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 169
+citations: 97
 bibkey: alberti2019fusion
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1908.05054'}
-  - {name: "Code", url: 'https://github.com/google-research/language/tree/master/language/question_answering/b2t2)'}
-tags: ['Has Code', 'Transformer', 'RAG', 'Model Architecture', 'Applications', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1908.05054
+- name: Code
+  url: https://github.com/google-research/language/tree/master/language/question_answering/b2t2)
+tags:
+- Multimodal Models
+- Transformer
+- RAG
 ---
 To advance models of multimodal context, we introduce a simple yet powerful
 neural architecture for data that combines vision and natural language. The

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Holistic Evaluation Of Language Models'
+title: Holistic Evaluation Of Language Models
 authors: Percy Liang et al.
-conference: "Published in Transactions on Machine Learning Research (TMLR) 2023"
+conference: Published in Transactions on Machine Learning Research (TMLR) 2023
 year: 2022
-citations: 299
+citations: 69
 bibkey: liang2022holistic
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2211.09110v2'}
-tags: ['RAG', 'Efficiency and Optimization', 'Security', 'Applications', 'Fairness', 'Prompting', 'Bias Mitigation', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+- name: Paper
+  url: http://arxiv.org/abs/2211.09110v2
+tags:
+- Applications
+- Fairness
+- Ethics and Bias
+- Interpretability
 ---
 Language models (LMs) are becoming the foundation for almost all major
 language technologies, but their capabilities, limitations, and risks are not

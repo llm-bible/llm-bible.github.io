@@ -2,13 +2,18 @@
 layout: publication
 title: 'Video-llama: An Instruction-tuned Audio-visual Language Model For Video Understanding'
 authors: Hang Zhang, Xin Li, Lidong Bing
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 170
+citations: 178
 bibkey: zhang2023video
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2306.02858'}
-tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Applications', 'Tools', 'Multimodal Models']
+- name: Paper
+  url: https://arxiv.org/abs/2306.02858
+tags:
+- Multimodal Models
+- Language Modeling
+- Pre-Training
+- Fine-Tuning
 ---
 We present Video-LLaMA a multi-modal framework that empowers Large Language
 Models (LLMs) with the capability of understanding both visual and auditory

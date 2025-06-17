@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Universal And Transferable Adversarial Attacks On Aligned Language Models'
+title: Universal And Transferable Adversarial Attacks On Aligned Language Models
 authors: Andy Zou et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 98
+citations: 99
 bibkey: zou2023universal
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2307.15043'}
-tags: ['GPT', 'Security', 'Prompting', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2307.15043
+tags:
+- GPT
+- Security
+- Prompting
 ---
 Because "out-of-the-box" large language models are capable of generating a
 great deal of objectionable content, recent work has focused on aligning these

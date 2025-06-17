@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Pretrained Transformers As Universal Computation Engines'
+title: Pretrained Transformers As Universal Computation Engines
 authors: Kevin Lu, Aditya Grover, Pieter Abbeel, Igor Mordatch
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 93
+citations: 58
 bibkey: lu2021pretrained
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2103.05247'}
-tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2103.05247
+tags:
+- Transformer
+- Efficiency and Optimization
 ---
 We investigate the capability of a transformer pretrained on natural language
 to generalize to other modalities with minimal finetuning -- in particular,

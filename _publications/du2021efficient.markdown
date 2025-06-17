@@ -2,13 +2,17 @@
 layout: publication
 title: 'Glam: Efficient Scaling Of Language Models With Mixture-of-experts'
 authors: Nan Du et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 96
 bibkey: du2021efficient
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2112.06905v2'}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2112.06905
+tags:
+- GPT
+- In-Context Learning
+- Model Architecture
 ---
 Scaling language models with more data, compute and parameters has driven
 significant progress in natural language processing. For example, thanks to

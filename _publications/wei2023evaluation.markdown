@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Evaluation Of Chatgpt-generated Medical Responses: A Systematic Review And Meta-analysis'
+title: 'Evaluation Of Chatgpt-generated Medical Responses: A Systematic Review And
+  Meta-analysis'
 authors: Qiuhong Wei et al.
-conference: "Journal of Biomedical Informatics Volume 151 March 2024 104620"
+conference: Journal of Biomedical Informatics Volume 151 March 2024 104620
 year: 2023
-citations: 54
+citations: 55
 bibkey: wei2023evaluation
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2310.08410'}
-tags: ['GPT', 'Model Architecture', 'Survey Paper']
+- name: Paper
+  url: https://arxiv.org/abs/2310.08410
+tags:
+- Survey Paper
+- GPT
 ---
 Large language models such as ChatGPT are increasingly explored in medical
 domains. However, the absence of standard guidelines for performance evaluation

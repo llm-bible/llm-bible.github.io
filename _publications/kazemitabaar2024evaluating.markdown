@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Codeaid: Evaluating A Classroom Deployment Of An Llm-based Programming Assistant That Balances Student And Educator Needs'
+title: 'Codeaid: Evaluating A Classroom Deployment Of An Llm-based Programming Assistant
+  That Balances Student And Educator Needs'
 authors: Majeed Kazemitabaar et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2024
-citations: 62
+citations: 82
 bibkey: kazemitabaar2024evaluating
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2401.11314'}
-tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'GPT', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+- name: Paper
+  url: https://arxiv.org/abs/2401.11314
+tags:
+- GPT
+- Ethics and Bias
+- Tools
+- Interpretability and Explainability
 ---
 Timely, personalized feedback is essential for students learning programming.
 LLM-powered tools like ChatGPT offer instant support, but reveal direct answers

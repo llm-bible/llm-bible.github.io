@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'An Empirical Study Of Training End-to-end Vision-and-language Transformers'
+title: An Empirical Study Of Training End-to-end Vision-and-language Transformers
 authors: Zi-yi Dou et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 229
+citations: 204
 bibkey: dou2021empirical
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2111.02387'}
-  - {name: "Code", url: 'https://github.com/zdou0830/METER'}
-tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'BERT', 'Merging', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2111.02387
+- name: Code
+  url: https://github.com/zdou0830/METER
+tags:
+- Multimodal Models
+- Transformer
+- Pre-Training
+- Attention Mechanism
 ---
 Vision-and-language (VL) pre-training has proven to be highly effective on
 various VL downstream tasks. While recent work has shown that fully

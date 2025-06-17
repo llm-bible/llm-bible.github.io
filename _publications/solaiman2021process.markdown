@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Process For Adapting Language Models To Society (PALMS) With Values-targeted Datasets'
+title: Process For Adapting Language Models To Society (PALMS) With Values-targeted
+  Datasets
 authors: Irene Openai Solaiman, Christy Openai Dennison
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 73
 bibkey: solaiman2021process
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2106.10328'}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2106.10328
+tags:
+- GPT
+- Ethics and Bias
+- Fine-Tuning
 ---
 Language models can generate harmful and biased outputs and exhibit
 undesirable behavior according to a given cultural context. We propose a

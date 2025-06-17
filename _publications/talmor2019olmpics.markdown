@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Olmpics -- On What Language Model Pre-training Captures'
+title: Olmpics -- On What Language Model Pre-training Captures
 authors: Alon Talmor, Yanai Elazar, Yoav Goldberg, Jonathan Berant
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 299
+citations: 53
 bibkey: talmor2019olmpics
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1912.13283'}
-tags: ['Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1912.13283
+tags:
+- Pre-Training
+- Fine-Tuning
+- BERT
 ---
 Recent success of pre-trained language models (LMs) has spurred widespread
 interest in the language capabilities that they possess. However, efforts to

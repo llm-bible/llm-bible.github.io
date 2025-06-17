@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Attention Is All You Need'
+title: Attention Is All You Need
 authors: Ashish Vaswani et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
 citations: 58343
 bibkey: vaswani2017attention
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/1706.03762v7'}
-tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Training Techniques', 'Model Architecture', 'Merging', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: http://arxiv.org/abs/1706.03762v7
+tags:
+- Transformer
+- Pre-Training
+- Applications
 ---
 The dominant sequence transduction models are based on complex recurrent or
 convolutional neural networks in an encoder-decoder configuration. The best

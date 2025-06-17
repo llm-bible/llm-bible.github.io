@@ -1,15 +1,20 @@
 ---
 layout: publication
-title: 'Program Of Thoughts Prompting: Disentangling Computation From Reasoning For Numerical Reasoning Tasks'
+title: 'Program Of Thoughts Prompting: Disentangling Computation From Reasoning For
+  Numerical Reasoning Tasks'
 authors: Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 92
 bibkey: chen2022program
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2211.12588v4'}
-  - {name: "Code", url: 'https://github.com/wenhuchen/Program-of-Thoughts'}
-tags: ['Few-Shot', 'Has Code', 'Prompting', 'RAG']
+- name: Paper
+  url: http://arxiv.org/abs/2211.12588v4
+- name: Code
+  url: https://github.com/wenhuchen/Program-of-Thoughts
+tags:
+- Few-Shot
+- Prompting
 ---
 Recently, there has been significant progress in teaching language models to
 perform step-by-step reasoning to solve complex numerical reasoning tasks.

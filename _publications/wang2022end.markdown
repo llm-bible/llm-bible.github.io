@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'End-to-end Transformer Based Model For Image Captioning'
+title: End-to-end Transformer Based Model For Image Captioning
 authors: Yiyu Wang, Jungang Xu, Yingfei Sun
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 87
 bibkey: wang2022end
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2203.15350'}
-tags: ['Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Applications', 'Model Architecture', 'Merging', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2203.15350
+tags:
+- Transformer
+- Applications
+- Pre-Training
 ---
 CNN-LSTM based architectures have played an important role in image
 captioning, but limited by the training efficiency and expression ability,

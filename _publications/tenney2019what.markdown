@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'What Do You Learn From Context? Probing For Sentence Structure In Contextualized Word Representations'
+title: What Do You Learn From Context? Probing For Sentence Structure In Contextualized
+  Word Representations
 authors: Ian Tenney et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 436
 bibkey: tenney2019what
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1905.06316'}
-tags: ['BERT', 'Language Modeling', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1905.06316
+tags:
+- Language Modeling
+- BERT
 ---
 Contextualized representation models such as ELMo (Peters et al., 2018a) and
 BERT (Devlin et al., 2018) have recently achieved state-of-the-art results on a

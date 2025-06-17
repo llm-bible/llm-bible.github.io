@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Llm-adapters: An Adapter Family For Parameter-efficient Fine-tuning Of Large Language Models'
+title: 'Llm-adapters: An Adapter Family For Parameter-efficient Fine-tuning Of Large
+  Language Models'
 authors: Zhiqiang Hu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 91
+citations: 78
 bibkey: hu2023llm
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.01933'}
-tags: ['Training Techniques', 'GPT', 'Tools', 'Fine-Tuning', 'Model Architecture', 'Prompting', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2304.01933
+tags:
+- GPT
+- Fine-Tuning
+- Prompting
+- Training Techniques
 ---
 The success of large language models (LLMs), like GPT-4 and ChatGPT, has led
 to the development of numerous cost-effective and accessible alternatives that

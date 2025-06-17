@@ -2,13 +2,19 @@
 layout: publication
 title: 'Chatgpt: Applications, Opportunities, And Threats'
 authors: Aram Bahrini et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 190
+citations: 121
 bibkey: bahrini2023threats
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09103'}
-tags: ['Agentic', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2304.09103
+tags:
+- GPT
+- Transformer
+- Reinforcement Learning
+- Applications
+- Agentic
 ---
 Developed by OpenAI, ChatGPT (Conditional Generative Pre-trained Transformer)
 is an artificial intelligence technology that is fine-tuned using supervised

@@ -1,25 +1,39 @@
 ---
 layout: publication
-title: 'Self-consistency Improves Chain Of Thought Reasoning In Language Models'
-authors: Xuezhi Wang et al.
-conference: "Arxiv"
+title: 'Self-instruct: Aligning Language Models With Self-generated Instructions'
+authors: Yizhong Wang et al.
+conference: Arxiv
 year: 2022
-citations: 459
+citations: 242
 bibkey: wang2022self
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2203.11171v4'}
-tags: ['RAG', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2212.10560
+- name: Code
+  url: https://github.com/yizhongw/self-instruct
+tags:
+- GPT
+- Tools
+- Fine-Tuning
+- Prompting
 ---
-Chain-of-thought prompting combined with pre-trained large language models
-has achieved encouraging results on complex reasoning tasks. In this paper, we
-propose a new decoding strategy, self-consistency, to replace the naive greedy
-decoding used in chain-of-thought prompting. It first samples a diverse set of
-reasoning paths instead of only taking the greedy one, and then selects the
-most consistent answer by marginalizing out the sampled reasoning paths.
-Self-consistency leverages the intuition that a complex reasoning problem
-typically admits multiple different ways of thinking leading to its unique
-correct answer. Our extensive empirical evaluation shows that self-consistency
-boosts the performance of chain-of-thought prompting with a striking margin on
-a range of popular arithmetic and commonsense reasoning benchmarks, including
-GSM8K (+17.9%), SVAMP (+11.0%), AQuA (+12.2%), StrategyQA (+6.4%) and
-ARC-challenge (+3.9%).
+Large "instruction-tuned" language models (i.e., finetuned to respond to
+instructions) have demonstrated a remarkable ability to generalize zero-shot to
+new tasks. Nevertheless, they depend heavily on human-written instruction data
+that is often limited in quantity, diversity, and creativity, therefore
+hindering the generality of the tuned model. We introduce Self-Instruct, a
+framework for improving the instruction-following capabilities of pretrained
+language models by bootstrapping off their own generations. Our pipeline
+generates instructions, input, and output samples from a language model, then
+filters invalid or similar ones before using them to finetune the original
+model. Applying our method to the vanilla GPT3, we demonstrate a 33% absolute
+improvement over the original model on Super-NaturalInstructions, on par with
+the performance of InstructGPT-001, which was trained with private user data
+and human annotations. For further evaluation, we curate a set of
+expert-written instructions for novel tasks, and show through human evaluation
+that tuning GPT3 with Self-Instruct outperforms using existing public
+instruction datasets by a large margin, leaving only a 5% absolute gap behind
+InstructGPT-001. Self-Instruct provides an almost annotation-free method for
+aligning pre-trained language models with instructions, and we release our
+large synthetic dataset to facilitate future studies on instruction tuning. Our
+code and data are available at https://github.com/yizhongw/self-instruct.

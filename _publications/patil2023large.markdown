@@ -2,14 +2,19 @@
 layout: publication
 title: 'Gorilla: Large Language Model Connected With Massive Apis'
 authors: Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 53
 bibkey: patil2023large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.15334'}
-  - {name: "Code", url: 'https://gorilla.cs.berkeley.edu'}
-tags: ['Has Code', 'GPT', 'Tools', 'Model Architecture', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2305.15334
+- name: Code
+  url: https://gorilla.cs.berkeley.edu
+tags:
+- GPT
+- Prompting
+- Tools
 ---
 Large Language Models (LLMs) have seen an impressive wave of advances
 recently, with models now excelling in a variety of tasks, such as mathematical

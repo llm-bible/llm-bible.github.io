@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Selective Attention For Context-aware Neural Machine Translation'
-authors: Sameen Maruf, André F. T. Martins, Gholamreza Haffari
-conference: "Arxiv"
+title: Selective Attention For Context-aware Neural Machine Translation
+authors: "Sameen Maruf, Andr\xE9 F. T. Martins, Gholamreza Haffari"
+conference: Arxiv
 year: 2019
-citations: 168
+citations: 52
 bibkey: maruf2019selective
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1903.08788'}
-tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1903.08788
+tags:
+- Transformer
+- Attention Mechanism
+- Model Architecture
 ---
 Despite the progress made in sentence-level NMT, current systems still fall
 short at achieving fluent, good quality translation for a full document. Recent

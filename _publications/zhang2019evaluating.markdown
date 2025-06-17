@@ -2,13 +2,17 @@
 layout: publication
 title: 'Bertscore: Evaluating Text Generation With BERT'
 authors: Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 1941
 bibkey: zhang2019evaluating
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1904.09675'}
-tags: ['Language Modeling', 'Security', 'Model Architecture', 'Applications', 'BERT']
+- name: Paper
+  url: https://arxiv.org/abs/1904.09675
+tags:
+- Language Modeling
+- BERT
+- Security
 ---
 We propose BERTScore, an automatic evaluation metric for text generation.
 Analogously to common metrics, BERTScore computes a similarity score for each

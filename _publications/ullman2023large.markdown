@@ -1,14 +1,15 @@
 ---
 layout: publication
-title: 'Large Language Models Fail On Trivial Alterations To Theory-of-mind Tasks'
+title: Large Language Models Fail On Trivial Alterations To Theory-of-mind Tasks
 authors: Tomer Ullman
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 53
 bibkey: ullman2023large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2302.08399'}
-tags: ['RAG']
+- name: Paper
+  url: https://arxiv.org/abs/2302.08399
+tags: []
 ---
 Intuitive psychology is a pillar of common-sense reasoning. The replication
 of this reasoning in machine intelligence is an important stepping-stone on the

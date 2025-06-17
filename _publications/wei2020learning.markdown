@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'On Learning Universal Representations Across Languages'
+title: On Learning Universal Representations Across Languages
 authors: Xiangpeng Wei et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 61
 bibkey: wei2020learning
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2007.15960'}
-tags: ['Masked Language Model', 'BERT', 'Applications', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2007.15960
+tags:
+- Masked Language Model
+- BERT
+- Language Modeling
 ---
 Recent studies have demonstrated the overwhelming advantage of cross-lingual
 pre-trained models (PTMs), such as multilingual BERT and XLM, on cross-lingual

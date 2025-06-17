@@ -2,13 +2,18 @@
 layout: publication
 title: 'Compressing Large-scale Transformer-based Models: A Case Study On BERT'
 authors: Prakhar Ganesh et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 72
+citations: 84
 bibkey: ganesh2020compressing
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2002.11985'}
-tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Survey Paper', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2002.11985
+tags:
+- Transformer
+- Survey Paper
+- Applications
+- BERT
 ---
 Pre-trained Transformer-based models have achieved state-of-the-art
 performance for various Natural Language Processing (NLP) tasks. However, these

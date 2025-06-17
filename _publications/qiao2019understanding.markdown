@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Understanding The Behaviors Of BERT In Ranking'
+title: Understanding The Behaviors Of BERT In Ranking
 authors: Yifan Qiao, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 153
 bibkey: qiao2019understanding
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1904.07531'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'BERT', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1904.07531
+tags:
+- Transformer
+- BERT
+- RAG
+- Attention Mechanism
 ---
 This paper studies the performances and behaviors of BERT in ranking tasks.
 We explore several different ways to leverage the pre-trained BERT and

@@ -2,13 +2,17 @@
 layout: publication
 title: 'MERLOT: Multimodal Neural Script Knowledge Models'
 authors: Rowan Zellers et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 147
 bibkey: zellers2021multimodal
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2106.02636'}
-tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2106.02636
+tags:
+- Multimodal Models
+- Pre-Training
+- Fine-Tuning
 ---
 As humans, we understand events in the visual world contextually, performing
 multimodal reasoning across time to make inferences about the past, present,

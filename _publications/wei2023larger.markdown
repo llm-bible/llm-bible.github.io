@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Larger Language Models Do In-context Learning Differently'
+title: Larger Language Models Do In-context Learning Differently
 authors: Jerry Wei et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 85
 bibkey: wei2023larger
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.03846'}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2303.03846
+tags:
+- GPT
+- In-Context Learning
 ---
 We study how in-context learning (ICL) in language models is affected by
 semantic priors versus input-label mappings. We investigate two setups-ICL with

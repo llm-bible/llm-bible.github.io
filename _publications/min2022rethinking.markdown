@@ -2,13 +2,16 @@
 layout: publication
 title: 'Rethinking The Role Of Demonstrations: What Makes In-context Learning Work?'
 authors: Sewon Min et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 401
+citations: 250
 bibkey: min2022rethinking
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2202.12837'}
-tags: ['Prompting', 'GPT', 'In-Context Learning', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2202.12837
+tags:
+- GPT
+- In-Context Learning
 ---
 Large language models (LMs) are able to in-context learn -- perform a new
 task via inference alone by conditioning on a few input-label pairs

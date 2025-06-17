@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'GPT Understands, Too'
+title: GPT Understands, Too
 authors: Xiao Liu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 226
+citations: 305
 bibkey: liu2021gpt
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2103.10385'}
-tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+- name: Paper
+  url: https://arxiv.org/abs/2103.10385
+tags:
+- GPT
+- Few-Shot
+- Prompting
 ---
 Prompting a pretrained language model with natural language patterns has been
 proved effective for natural language understanding (NLU). However, our

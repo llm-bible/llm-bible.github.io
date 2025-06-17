@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Generating High-quality And Informative Conversation Responses With Sequence-to-sequence Models'
+title: Generating High-quality And Informative Conversation Responses With Sequence-to-sequence
+  Models
 authors: Louis Shao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
-citations: 194
+citations: 58
 bibkey: shao2017generating
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1701.03185'}
-tags: ['Reinforcement Learning', 'Attention Mechanism', 'Transformer', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1701.03185
+tags:
+- Transformer
+- Reinforcement Learning
+- Attention Mechanism
 ---
 Sequence-to-sequence models have been applied to the conversation response
 generation problem where the source sequence is the conversation history and

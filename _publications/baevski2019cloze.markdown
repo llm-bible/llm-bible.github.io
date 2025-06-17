@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Cloze-driven Pretraining Of Self-attention Networks'
+title: Cloze-driven Pretraining Of Self-attention Networks
 authors: Alexei Baevski, Sergey Edunov, Yinhan Liu, Luke Zettlemoyer, Michael Auli
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 203
+citations: 81
 bibkey: baevski2019cloze
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1903.07785'}
-tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1903.07785
+tags:
+- Pre-Training
+- Transformer
+- BERT
+- Attention Mechanism
 ---
 We present a new approach for pretraining a bi-directional transformer model
 that provides significant performance gains across a variety of language

@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Reinforced Mnemonic Reader For Machine Reading Comprehension'
+title: Reinforced Mnemonic Reader For Machine Reading Comprehension
 authors: Minghao Hu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
-citations: 197
+citations: 64
 bibkey: hu2017reinforced
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1705.02798'}
-tags: ['Attention Mechanism', 'Agentic', 'Transformer', 'RAG', 'Efficiency and Optimization', 'Security', 'Model Architecture', 'Applications', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1705.02798
+tags:
+- Transformer
+- Reinforcement Learning
+- RAG
+- Attention Mechanism
+- Efficiency and Optimization
 ---
 In this paper, we introduce the Reinforced Mnemonic Reader for machine
 reading comprehension tasks, which enhances previous attentive readers in two

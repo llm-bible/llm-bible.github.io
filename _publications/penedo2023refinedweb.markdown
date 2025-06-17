@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'The Refinedweb Dataset For Falcon LLM: Outperforming Curated Corpora With Web Data, And Web Data Only'
+title: 'The Refinedweb Dataset For Falcon LLM: Outperforming Curated Corpora With
+  Web Data, And Web Data Only'
 authors: Guilherme Penedo et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 118
 bibkey: penedo2023refinedweb
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2306.01116'}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2306.01116
+tags:
+- Pre-Training
+- Language Modeling
 ---
 Large language models are commonly trained on a mixture of filtered web data
 and curated high-quality corpora, such as social media conversations, books, or

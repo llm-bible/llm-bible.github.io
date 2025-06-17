@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Decoding Chatgpt: A Taxonomy Of Existing Research, Current Challenges, And Possible Future Directions'
+title: 'Decoding Chatgpt: A Taxonomy Of Existing Research, Current Challenges, And
+  Possible Future Directions'
 authors: Shahab Saquib Sohail et al.
-conference: "Journal of King Saud University - Computer and Information Science 2023"
+conference: Journal of King Saud University - Computer and Information Science 2023
 year: 2023
-citations: 115
+citations: 95
 bibkey: sohail2023decoding
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14107'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Applications', 'Model Architecture', 'GPT', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2307.14107
+tags:
+- GPT
+- Survey Paper
+- Applications
+- Ethics and Bias
 ---
 Chat Generative Pre-trained Transformer (ChatGPT) has gained significant
 interest and attention since its launch in November 2022. It has shown

@@ -2,13 +2,17 @@
 layout: publication
 title: 'Llm.int8(): 8-bit Matrix Multiplication For Transformers At Scale'
 authors: Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 87
 bibkey: dettmers2022matrix
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2208.07339'}
-tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2208.07339
+tags:
+- Transformer
+- Efficiency and Optimization
+- Quantization
 ---
 Large language models have been widely adopted but require significant GPU
 memory for inference. We develop a procedure for Int8 matrix multiplication for

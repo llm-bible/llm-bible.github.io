@@ -2,13 +2,17 @@
 layout: publication
 title: 'Instruction Tuning For Large Language Models: A Survey'
 authors: Shengyu Zhang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 63
 bibkey: zhang2023instruction
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2308.10792'}
-tags: ['Training Techniques', 'Applications', 'Fine-Tuning', 'Survey Paper', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2308.10792
+tags:
+- Survey Paper
+- Fine-Tuning
+- Applications
 ---
 This paper surveys research works in the quickly advancing field of
 instruction tuning (IT), which can also be referred to as supervised

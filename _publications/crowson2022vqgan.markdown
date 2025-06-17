@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'VQGAN-CLIP: Open Domain Image Generation And Editing With Natural Language Guidance'
+title: 'VQGAN-CLIP: Open Domain Image Generation And Editing With Natural Language
+  Guidance'
 authors: Katherine Crowson et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 195
+citations: 166
 bibkey: crowson2022vqgan
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2204.08583'}
-tags: ['Prompting', 'Multimodal Models', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2204.08583
+tags:
+- Prompting
+- Multimodal Models
 ---
 Generating and editing images from open domain text prompts is a challenging
 task that heretofore has required expensive and specially trained models. We

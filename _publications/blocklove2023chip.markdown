@@ -2,13 +2,18 @@
 layout: publication
 title: 'Chip-chat: Challenges And Opportunities In Conversational Hardware Design'
 authors: Jason Blocklove, Siddharth Garg, Ramesh Karri, Hammond Pearce
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 64
+citations: 101
 bibkey: blocklove2023chip
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13243'}
-tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2305.13243
+tags:
+- Reinforcement Learning
+- GPT
+- RAG
+- Model Architecture
 ---
 Modern hardware design starts with specifications provided in natural
 language. These are then translated by hardware engineers into appropriate

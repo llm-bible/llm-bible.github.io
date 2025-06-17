@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Dynamic Fusion With Intra- And Inter- Modality Attention Flow For Visual Question Answering'
+title: Dynamic Fusion With Intra- And Inter- Modality Attention Flow For Visual Question
+  Answering
 authors: Gao Peng et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
-citations: 358
+citations: 233
 bibkey: peng2018dynamic
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1812.05252'}
-tags: ['Attention Mechanism', 'Applications', 'Model Architecture', 'Merging', 'Multimodal Models']
+- name: Paper
+  url: https://arxiv.org/abs/1812.05252
+tags:
+- Multimodal Models
+- Attention Mechanism
 ---
 Learning effective fusion of multi-modality features is at the heart of
 visual question answering. We propose a novel method of dynamically fusing

@@ -1,15 +1,23 @@
 ---
 layout: publication
-title: 'Learn To Explain: Multimodal Reasoning Via Thought Chains For Science Question Answering'
+title: 'Learn To Explain: Multimodal Reasoning Via Thought Chains For Science Question
+  Answering'
 authors: Pan Lu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 106
 bibkey: lu2022learn
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2209.09513'}
-  - {name: "Code", url: 'https://scienceqa.github.io'}
-tags: ['Has Code', 'Interpretability and Explainability', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Applications', 'Multimodal Models']
+- name: Paper
+  url: https://arxiv.org/abs/2209.09513
+- name: Code
+  url: https://scienceqa.github.io
+tags:
+- Multimodal Models
+- Few-Shot
+- RAG
+- Interpretability and Explainability
+- GPT
 ---
 When answering a question, humans utilize the information available across
 different modalities to synthesize a consistent and complete chain of thought

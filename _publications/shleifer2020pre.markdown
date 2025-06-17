@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Pre-trained Summarization Distillation'
+title: Pre-trained Summarization Distillation
 authors: Sam Shleifer, Alexander M. Rush
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 57
 bibkey: shleifer2020pre
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2010.13002'}
-  - {name: "Code", url: 'http://tiny.cc/4iy0tz'}
-tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'Fine-Tuning', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2010.13002
+- name: Code
+  url: http://tiny.cc/4iy0tz
+tags:
+- Transformer
+- Distillation
+- Fine-Tuning
+- Efficiency and Optimization
 ---
 Recent state-of-the-art approaches to summarization utilize large pre-trained
 Transformer models. Distilling these models to smaller student models has

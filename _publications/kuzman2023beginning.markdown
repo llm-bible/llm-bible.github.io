@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Chatgpt: Beginning Of An End Of Manual Linguistic Data Annotation? Use Case Of Automatic Genre Identification'
-authors: Taja Kuzman, Igor Mozetič, Nikola Ljubešić
-conference: "Arxiv"
+title: 'Chatgpt: Beginning Of An End Of Manual Linguistic Data Annotation? Use Case
+  Of Automatic Genre Identification'
+authors: "Taja Kuzman, Igor Mozeti\u010D, Nikola Ljube\u0161i\u0107"
+conference: Arxiv
 year: 2023
 citations: 57
 bibkey: kuzman2023beginning
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.03953'}
-tags: ['GPT', 'BERT', 'Prompting', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2303.03953
+tags:
+- GPT
+- Prompting
 ---
 ChatGPT has shown strong capabilities in natural language generation tasks,
 which naturally leads researchers to explore where its abilities end. In this

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Selection-inference: Exploiting Large Language Models For Interpretable Logical Reasoning'
+title: 'Selection-inference: Exploiting Large Language Models For Interpretable Logical
+  Reasoning'
 authors: Antonia Creswell, Murray Shanahan, Irina Higgins
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 94
 bibkey: creswell2022selection
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2205.09712v1'}
-tags: ['Few-Shot', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Reinforcement Learning', 'Responsible AI', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2205.09712
+tags:
+- Few-Shot
+- Fine-Tuning
+- Reinforcement Learning
 ---
 Large language models (LLMs) have been shown to be capable of impressive
 few-shot generalisation to new tasks. However, they still tend to perform

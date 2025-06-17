@@ -1,36 +1,40 @@
 ---
 layout: publication
-title: 'Describe, Explain, Plan And Select: Interactive Planning With Large Language Models Enables Open-world Multi-task Agents'
-authors: Zihao Wang et al.
-conference: "Arxiv"
+title: 'Plan-and-solve Prompting: Improving Zero-shot Chain-of-thought Reasoning By
+  Large Language Models'
+authors: Lei Wang et al.
+conference: Arxiv
 year: 2023
-citations: 38
+citations: 81
 bibkey: wang2023plan
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2302.01560v3'}
-  - {name: "Code", url: 'https://github.com/CraftJarvis/MC-Planner'}
-tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'Fine-Tuning', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.04091
+- name: Code
+  url: https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting
+tags:
+- GPT
+- Few-Shot
+- Prompting
 ---
-We investigate the challenge of task planning for multi-task embodied agents
-in open-world environments. Two main difficulties are identified: 1) executing
-plans in an open-world environment (e.g., Minecraft) necessitates accurate and
-multi-step reasoning due to the long-term nature of tasks, and 2) as vanilla
-planners do not consider how easy the current agent can achieve a given
-sub-task when ordering parallel sub-goals within a complicated plan, the
-resulting plan could be inefficient or even infeasible. To this end, we propose
-"\\(\underline\{D\}\\)escribe, \\(\underline\{E\}\\)xplain, \\(\underline\{P\}\\)lan and
-\\(\underline\{S\}\\)elect" (\\(\textbf\{DEPS\}\\)), an interactive planning approach based
-on Large Language Models (LLMs). DEPS facilitates better error correction on
-initial LLM-generated \\(\textit\{plan\}\\) by integrating \\(\textit\{description\}\\) of
-the plan execution process and providing self-\\(\textit\{explanation\}\\) of
-feedback when encountering failures during the extended planning phases.
-Furthermore, it includes a goal \\(\textit\{selector\}\\), which is a trainable
-module that ranks parallel candidate sub-goals based on the estimated steps of
-completion, consequently refining the initial plan. Our experiments mark the
-milestone of the first zero-shot multi-task agent that can robustly accomplish
-70+ Minecraft tasks and nearly double the overall performances. Further testing
-reveals our method's general effectiveness in popularly adopted non-open-ended
-domains as well (i.e., ALFWorld and tabletop manipulation). The ablation and
-exploratory studies detail how our design beats the counterparts and provide a
-promising update on the \\(\texttt\{ObtainDiamond\}\\) grand challenge with our
-approach. The code is released at https://github.com/CraftJarvis/MC-Planner.
+Large language models (LLMs) have recently been shown to deliver impressive
+performance in various NLP tasks. To tackle multi-step reasoning tasks,
+few-shot chain-of-thought (CoT) prompting includes a few manually crafted
+step-by-step reasoning demonstrations which enable LLMs to explicitly generate
+reasoning steps and improve their reasoning task accuracy. To eliminate the
+manual effort, Zero-shot-CoT concatenates the target problem statement with
+"Let's think step by step" as an input prompt to LLMs. Despite the success of
+Zero-shot-CoT, it still suffers from three pitfalls: calculation errors,
+missing-step errors, and semantic misunderstanding errors. To address the
+missing-step errors, we propose Plan-and-Solve (PS) Prompting. It consists of
+two components: first, devising a plan to divide the entire task into smaller
+subtasks, and then carrying out the subtasks according to the plan. To address
+the calculation errors and improve the quality of generated reasoning steps, we
+extend PS prompting with more detailed instructions and derive PS+ prompting.
+We evaluate our proposed prompting strategy on ten datasets across three
+reasoning problems. The experimental results over GPT-3 show that our proposed
+zero-shot prompting consistently outperforms Zero-shot-CoT across all datasets
+by a large margin, is comparable to or exceeds Zero-shot-Program-of-Thought
+Prompting, and has comparable performance with 8-shot CoT prompting on the math
+reasoning problem. The code can be found at
+https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting.

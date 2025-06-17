@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'A Comprehensive Capability Analysis Of GPT-3 And GPT-3.5 Series Models'
+title: A Comprehensive Capability Analysis Of GPT-3 And GPT-3.5 Series Models
 authors: Junjie Ye et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 143
 bibkey: ye2023comprehensive
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2303.10420v2'}
-tags: ['Attention Mechanism', 'Few-Shot', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2303.10420
+tags:
+- GPT
+- Few-Shot
+- Reinforcement Learning
+- Attention Mechanism
 ---
 GPT series models, such as GPT-3, CodeX, InstructGPT, ChatGPT, and so on,
 have gained considerable attention due to their exceptional natural language

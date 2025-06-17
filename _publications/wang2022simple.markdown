@@ -1,15 +1,20 @@
 ---
 layout: publication
-title: 'Lilt: A Simple Yet Effective Language-independent Layout Transformer For Structured Document Understanding'
+title: 'Lilt: A Simple Yet Effective Language-independent Layout Transformer For Structured
+  Document Understanding'
 authors: Jiapeng Wang, Lianwen Jin, Kai Ding
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 87
+citations: 71
 bibkey: wang2022simple
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2202.13669'}
-  - {name: "Code", url: 'https://github.com/jpWang/LiLT'}
-tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2202.13669
+- name: Code
+  url: https://github.com/jpWang/LiLT
+tags:
+- Transformer
+- Pre-Training
 ---
 Structured document understanding has attracted considerable attention and
 made significant progress recently, owing to its crucial role in intelligent

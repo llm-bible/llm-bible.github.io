@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'The Political Ideology Of Conversational AI: Converging Evidence On Chatgpt''s Pro-environmental, Left-libertarian Orientation'
+title: 'The Political Ideology Of Conversational AI: Converging Evidence On Chatgpt''s
+  Pro-environmental, Left-libertarian Orientation'
 authors: Jochen Hartmann, Jasper Schwenzow, Maximilian Witte
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 72
 bibkey: hartmann2023political
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2301.01768'}
-tags: ['Attention Mechanism', 'Model Architecture', 'BERT', 'Applications', 'GPT', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/2301.01768
+tags:
+- GPT
+- Ethics and Bias
+- Prompting
+- Applications
 ---
 Conversational artificial intelligence (AI) disrupts how humans interact with
 technology. Recently, OpenAI introduced ChatGPT, a state-of-the-art dialogue

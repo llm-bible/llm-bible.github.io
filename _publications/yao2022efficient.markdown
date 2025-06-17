@@ -1,14 +1,22 @@
 ---
 layout: publication
-title: 'Zeroquant: Efficient And Affordable Post-training Quantization For Large-scale Transformers'
+title: 'Zeroquant: Efficient And Affordable Post-training Quantization For Large-scale
+  Transformers'
 authors: Zhewei Yao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 50
 bibkey: yao2022efficient
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2206.01861'}
-tags: ['Attention Mechanism', 'Transformer', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Model Architecture', 'BERT', 'GPT', 'Quantization', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2206.01861
+tags:
+- Quantization
+- Efficiency and Optimization
+- GPT
+- BERT
+- Transformer
+- Distillation
 ---
 How to efficiently serve ever-larger trained natural language models in
 practice has become exceptionally challenging even for powerful cloud servers

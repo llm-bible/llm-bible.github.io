@@ -2,14 +2,19 @@
 layout: publication
 title: 'LLM+P: Empowering Large Language Models With Optimal Planning Proficiency'
 authors: Bo Liu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 68
 bibkey: liu2023empowering
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11477'}
-  - {name: "Code", url: 'https://github.com/Cranial-XIX/llm-pddl.git'}
-tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Tools']
+- name: Paper
+  url: https://arxiv.org/abs/2304.11477
+- name: Code
+  url: https://github.com/Cranial-XIX/llm-pddl.git
+tags:
+- Reinforcement Learning
+- RAG
+- Tools
 ---
 Large language models (LLMs) have demonstrated remarkable zero-shot
 generalization abilities: state-of-the-art chatbots can provide plausible

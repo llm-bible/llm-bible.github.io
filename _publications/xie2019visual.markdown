@@ -2,14 +2,20 @@
 layout: publication
 title: 'Visual Entailment: A Novel Task For Fine-grained Image Understanding'
 authors: Ning Xie, Farley Lai, Derek Doran, Asim Kadav
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 163
 bibkey: xie2019visual
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1901.06706'}
-  - {name: "Code", url: 'https://github.com/'}
-tags: ['Attention Mechanism', 'Has Code', 'Interpretability and Explainability', 'Model Architecture', 'Applications', 'Multimodal Models', 'Ethics and Bias', 'Interpretability']
+- name: Paper
+  url: https://arxiv.org/abs/1901.06706
+- name: Code
+  url: https://github.com/
+tags:
+- Multimodal Models
+- Ethics and Bias
+- Interpretability and Explainability
+- Attention Mechanism
 ---
 Existing visual reasoning datasets such as Visual Question Answering (VQA),
 often suffer from biases conditioned on the question, image or answer

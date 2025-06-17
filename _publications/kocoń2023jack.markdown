@@ -1,14 +1,20 @@
 ---
 layout: publication
 title: 'Chatgpt: Jack Of All Trades, Master Of None'
-authors: Jan Kocoń et al.
-conference: "Information Fusion 101861 (2023)"
+authors: "Jan Koco\u0144 et al."
+conference: Information Fusion 101861 (2023)
 year: 2023
-citations: 466
-bibkey: kocoń2023jack
+citations: 380
+bibkey: "koco\u01442023jack"
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2302.10724'}
-tags: ['Transformer', 'Few-Shot', 'RAG', 'Model Architecture', 'GPT', 'Applications', 'Prompting', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2302.10724
+tags:
+- GPT
+- Transformer
+- Ethics and Bias
+- Few-Shot
+- Prompting
 ---
 OpenAI has released the Chat Generative Pre-trained Transformer (ChatGPT) and
 revolutionized the approach in artificial intelligence to human-model

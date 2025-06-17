@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'A Comparison Of LSTM And BERT For Small Corpus'
+title: A Comparison Of LSTM And BERT For Small Corpus
 authors: Aysu Ezen-can
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 61
 bibkey: ezencan2020comparison
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2009.05451'}
-tags: ['Language Modeling', 'Transformer', 'BERT', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2009.05451
+tags:
+- Transformer
+- BERT
+- Language Modeling
+- Fine-Tuning
 ---
 Recent advancements in the NLP field showed that transfer learning helps with
 achieving state-of-the-art results for new tasks by tuning pre-trained models

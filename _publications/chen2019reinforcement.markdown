@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Reinforcement Learning Based Graph-to-sequence Model For Natural Question Generation'
+title: Reinforcement Learning Based Graph-to-sequence Model For Natural Question Generation
 authors: Yu Chen, Lingfei Wu, Mohammed J. Zaki
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 74
 bibkey: chen2019reinforcement
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1908.04942'}
-tags: ['Reinforcement Learning', 'Ethics and Bias', 'Agentic']
+- name: Paper
+  url: https://arxiv.org/abs/1908.04942
+tags:
+- Reinforcement Learning
+- Agentic
 ---
 Natural question generation (QG) aims to generate questions from a passage
 and an answer. Previous works on QG either (i) ignore the rich structure

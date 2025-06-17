@@ -1,14 +1,18 @@
 ---
 layout: publication
 title: 'Chainforge: A Visual Toolkit For Prompt Engineering And LLM Hypothesis Testing'
-authors: Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena Glassman
-conference: "Arxiv"
+authors: Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena
+  Glassman
+conference: Arxiv
 year: 2023
-citations: 47
+citations: 53
 bibkey: arawjo2023visual
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2309.09128'}
-tags: ['Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Tools']
+- name: Paper
+  url: https://arxiv.org/abs/2309.09128
+tags:
+- Prompting
+- Tools
 ---
 Evaluating outputs of large language models (LLMs) is challenging, requiring
 making -- and making sense of -- many responses. Yet tools that go beyond basic

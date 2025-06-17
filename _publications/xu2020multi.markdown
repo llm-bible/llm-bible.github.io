@@ -2,14 +2,20 @@
 layout: publication
 title: 'Layoutlmv2: Multi-modal Pre-training For Visually-rich Document Understanding'
 authors: Yang Xu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 203
 bibkey: xu2020multi
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2012.14740'}
-  - {name: "Code", url: 'https://aka.ms/layoutlmv2'}
-tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Model Architecture', 'Tools', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2012.14740
+- name: Code
+  url: https://aka.ms/layoutlmv2
+tags:
+- Multimodal Models
+- Transformer
+- Pre-Training
+- Attention Mechanism
 ---
 Pre-training of text and layout has proved effective in a variety of
 visually-rich document understanding tasks due to its effective model

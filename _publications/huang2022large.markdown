@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Large Language Models Can Self-improve'
+title: Large Language Models Can Self-improve
 authors: Jiaxin Huang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 107
+citations: 64
 bibkey: huang2022large
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2210.11610v2'}
-tags: ['Fine-Tuning', 'Prompting', 'Training Techniques', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2210.11610
+tags:
+- Prompting
+- Fine-Tuning
 ---
 Large Language Models (LLMs) have achieved excellent performances in various
 tasks. However, fine-tuning an LLM requires extensive supervision. Human, on

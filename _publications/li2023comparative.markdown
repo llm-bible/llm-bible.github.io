@@ -1,16 +1,23 @@
 ---
 layout: publication
-title: 'A Comparative Study Of Pretrained Language Models For Long Clinical Text'
+title: A Comparative Study Of Pretrained Language Models For Long Clinical Text
 authors: Yikuan Li, Ramsey M. Wehbe, Faraz S. Ahmad, Hanyin Wang, Yuan Luo
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 63
 bibkey: li2023comparative
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2301.11847'}
-  - {name: "Code", url: 'https://github.com/luoyuanlab/Clinical-Longformer,'}
-  - {name: "Code", url: 'https://huggingface.co/yikuan8/Clinical-Longformer'}
-tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2301.11847
+- name: Code
+  url: https://github.com/luoyuanlab/Clinical-Longformer,
+- name: Code
+  url: https://huggingface.co/yikuan8/Clinical-Longformer
+tags:
+- Transformer
+- BERT
+- RAG
+- Attention Mechanism
 ---
 Objective: Clinical knowledge enriched transformer models (e.g.,
 ClinicalBERT) have state-of-the-art results on clinical NLP (natural language

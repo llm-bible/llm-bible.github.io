@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Chatgpt Beyond English: Towards A Comprehensive Evaluation Of Large Language Models In Multilingual Learning'
+title: 'Chatgpt Beyond English: Towards A Comprehensive Evaluation Of Large Language
+  Models In Multilingual Learning'
 authors: Viet Dac Lai et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 106
+citations: 68
 bibkey: lai2023chatgpt
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.05613'}
-tags: ['Attention Mechanism', 'Model Architecture', 'Applications', 'GPT', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2304.05613
+tags:
+- GPT
+- Applications
+- Training Techniques
 ---
 Over the last few years, large language models (LLMs) have emerged as the
 most important breakthroughs in natural language processing (NLP) that

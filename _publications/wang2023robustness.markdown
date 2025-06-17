@@ -2,13 +2,18 @@
 layout: publication
 title: 'On The Robustness Of Chatgpt: An Adversarial And Out-of-distribution Perspective'
 authors: Jindong Wang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 73
 bibkey: wang2023robustness
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2302.12095'}
-tags: ['Attention Mechanism', 'Security', 'GPT', 'Applications', 'Model Architecture', 'Survey Paper', 'Ethics and Bias', 'Responsible AI']
+- name: Paper
+  url: https://arxiv.org/abs/2302.12095
+tags:
+- GPT
+- Ethics and Bias
+- Security
+- Applications
 ---
 ChatGPT is a recent chatbot service released by OpenAI and is receiving
 increasing attention over the past few months. While evaluations of various

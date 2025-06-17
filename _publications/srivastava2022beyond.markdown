@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'Beyond The Imitation Game: Quantifying And Extrapolating The Capabilities Of Language Models'
+title: 'Beyond The Imitation Game: Quantifying And Extrapolating The Capabilities
+  Of Language Models'
 authors: Aarohi Shammie Srivastava et al.
-conference: "Transactions on Machine Learning Research May/2022 https://openreview.net/forum?id=uyTL5Bvosj"
+conference: Transactions on Machine Learning Research May/2022 https://openreview.net/forum?id=uyTL5Bvosj
 year: 2022
 citations: 413
 bibkey: srivastava2022beyond
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2206.04615'}
-tags: ['Transformer', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2206.04615
+tags:
+- GPT
+- Transformer
+- Reinforcement Learning
+- Ethics and Bias
+- Prompting
 ---
 Language models demonstrate both quantitative improvement and new qualitative
 capabilities with increasing scale. Despite their potentially transformative

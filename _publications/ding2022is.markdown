@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Is GPT-3 A Good Data Annotator?'
+title: Is GPT-3 A Good Data Annotator?
 authors: Bosheng Ding et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 86
+citations: 57
 bibkey: ding2022is
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10450'}
-tags: ['Few-Shot', 'GPT', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2212.10450
+tags:
+- GPT
+- Few-Shot
+- Applications
 ---
 Data annotation is the process of labeling data that could be used to train
 machine learning models. Having high-quality annotation is crucial, as it

@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Instructblip: Towards General-purpose Vision-language Models With Instruction Tuning'
+title: 'Instructblip: Towards General-purpose Vision-language Models With Instruction
+  Tuning'
 authors: Wenliang Dai et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 217
 bibkey: dai2023towards
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2305.06500v2'}
-  - {name: "Code", url: 'https://github.com/salesforce/LAVIS/tree/main/projects/instructblip'}
-tags: ['Has Code', 'Transformer', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2305.06500
+- name: Code
+  url: https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
+tags:
+- Multimodal Models
+- Transformer
+- Pre-Training
 ---
 Large-scale pre-training and instruction tuning have been successful at
 creating general-purpose language models with broad competence. However,

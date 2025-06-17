@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Fantastically Ordered Prompts And Where To Find Them: Overcoming Few-shot Prompt Order Sensitivity'
+title: 'Fantastically Ordered Prompts And Where To Find Them: Overcoming Few-shot
+  Prompt Order Sensitivity'
 authors: Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 267
+citations: 173
 bibkey: lu2021fantastically
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08786'}
-tags: ['Few-Shot', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2104.08786
+tags:
+- GPT
+- Few-Shot
+- Prompting
 ---
 When primed with only a handful of training samples, very large, pretrained
 language models such as GPT-3 have shown competitive results when compared to

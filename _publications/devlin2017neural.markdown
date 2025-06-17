@@ -2,13 +2,17 @@
 layout: publication
 title: 'Robustfill: Neural Program Learning Under Noisy I/O'
 authors: Jacob Devlin et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
 citations: 112
 bibkey: devlin2017neural
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1703.07469'}
-tags: ['Reinforcement Learning', 'Attention Mechanism', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1703.07469
+tags:
+- Reinforcement Learning
+- Attention Mechanism
+- Model Architecture
 ---
 The problem of automatically generating a computer program from some
 specification has been studied since the early days of AI. Recently, two

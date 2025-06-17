@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'In Chatgpt We Trust? Measuring And Characterizing The Reliability Of Chatgpt'
+title: In Chatgpt We Trust? Measuring And Characterizing The Reliability Of Chatgpt
 authors: Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 55
 bibkey: shen2023chatgpt
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.08979'}
-tags: ['GPT', 'Security', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2304.08979
+tags:
+- GPT
+- Security
 ---
 The way users acquire information is undergoing a paradigm shift with the
 advent of ChatGPT. Unlike conventional search engines, ChatGPT retrieves

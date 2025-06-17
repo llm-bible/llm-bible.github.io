@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'A Comprehensive Survey Of Ai-generated Content (AIGC): A History Of Generative AI From GAN To Chatgpt'
+title: 'A Comprehensive Survey Of Ai-generated Content (AIGC): A History Of Generative
+  AI From GAN To Chatgpt'
 authors: Yihan Cao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 269
 bibkey: cao2023comprehensive
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.04226'}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Multimodal Models', 'Survey Paper']
+- name: Paper
+  url: https://arxiv.org/abs/2303.04226
+tags:
+- GPT
+- Multimodal Models
+- Survey Paper
+- Attention Mechanism
 ---
 Recently, ChatGPT, along with DALL-E-2 and Codex,has been gaining significant
 attention from society. As a result, many individuals have become interested in

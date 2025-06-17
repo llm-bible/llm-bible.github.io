@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Gender Bias And Stereotypes In Large Language Models'
+title: Gender Bias And Stereotypes In Large Language Models
 authors: Hadas Kotek, Rikker Dockum, David Q. Sun
-conference: "In Collective Intelligence Conference (CI 23) November 06-09 2023 Delft Netherlands. ACM New York NY USA (2023)"
+conference: In Collective Intelligence Conference (CI 23) November 06-09 2023 Delft
+  Netherlands. ACM New York NY USA (2023)
 year: 2023
-citations: 135
+citations: 127
 bibkey: kotek2023gender
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2308.14921'}
-tags: ['Ethics and Bias', 'Interpretability and Explainability', 'Prompting', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2308.14921
+tags:
+- Ethics and Bias
+- Prompting
+- Interpretability and Explainability
 ---
 Large Language Models (LLMs) have made substantial progress in the past
 several months, shattering state-of-the-art benchmarks in many domains. This

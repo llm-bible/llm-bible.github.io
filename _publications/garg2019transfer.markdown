@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'TANDA: Transfer And Adapt Pre-trained Transformer Models For Answer Sentence Selection'
+title: 'TANDA: Transfer And Adapt Pre-trained Transformer Models For Answer Sentence
+  Selection'
 authors: Siddhant Garg, Thuy Vu, Alessandro Moschitti
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 183
+citations: 87
 bibkey: garg2019transfer
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.04118'}
-tags: ['Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1911.04118
+tags:
+- Transformer
+- Fine-Tuning
 ---
 We propose TANDA, an effective technique for fine-tuning pre-trained
 Transformer models for natural language tasks. Specifically, we first transfer

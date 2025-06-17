@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'An Empirical Evaluation Of Using Large Language Models For Automated Unit Test Generation'
-authors: Max Schäfer, Sarah Nadi, Aryaz Eghbali, Frank Tip
-conference: "Arxiv"
+title: An Empirical Evaluation Of Using Large Language Models For Automated Unit Test
+  Generation
+authors: "Max Sch\xE4fer, Sarah Nadi, Aryaz Eghbali, Frank Tip"
+conference: Arxiv
 year: 2023
-citations: 73
-bibkey: schäfer2023empirical
+citations: 103
+bibkey: "sch\xE4fer2023empirical"
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2302.06527'}
-tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2302.06527
+tags:
+- GPT
+- Few-Shot
+- Tools
+- Prompting
 ---
 Unit tests play a key role in ensuring the correctness of software. However,
 manually creating unit tests is a laborious task, motivating the need for

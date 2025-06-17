@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Instruction Tuning With GPT-4'
+title: Instruction Tuning With GPT-4
 authors: Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley, Jianfeng Gao
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 162
 bibkey: peng2023instruction
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.03277'}
-tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2304.03277
+tags:
+- Reinforcement Learning
+- GPT
+- Fine-Tuning
 ---
 Prior work has shown that finetuning large language models (LLMs) using
 machine-generated instruction-following data enables such models to achieve

@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Robust Neural Machine Translation With Doubly Adversarial Inputs'
+title: Robust Neural Machine Translation With Doubly Adversarial Inputs
 authors: Yong Cheng, Lu Jiang, Wolfgang Macherey
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 80
 bibkey: cheng2019robust
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1906.02443'}
-tags: ['Transformer', 'Security', 'Model Architecture', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1906.02443
+tags:
+- Transformer
+- Security
 ---
 Neural machine translation (NMT) often suffers from the vulnerability to
 noisy perturbations in the input. We propose an approach to improving the

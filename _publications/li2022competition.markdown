@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Competition-level Code Generation With Alphacode'
+title: Competition-level Code Generation With Alphacode
 authors: Yujia Li et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 477
+citations: 400
 bibkey: li2022competition
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2203.07814v1'}
-tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: http://arxiv.org/abs/2203.07814v1
+tags:
+- Transformer
+- Applications
+- Reinforcement Learning
+- Pre-Training
 ---
 Programming is a powerful and ubiquitous problem-solving tool. Developing
 systems that can assist programmers or even generate programs independently

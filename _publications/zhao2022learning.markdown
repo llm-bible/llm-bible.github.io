@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Learning Video Representations From Large Language Models'
-authors: Yue Zhao, Ishan Misra, Philipp Krähenbühl, Rohit Girdhar
-conference: "Arxiv"
+title: Learning Video Representations From Large Language Models
+authors: "Yue Zhao, Ishan Misra, Philipp Kr\xE4henb\xFChl, Rohit Girdhar"
+conference: Arxiv
 year: 2022
-citations: 69
+citations: 75
 bibkey: zhao2022learning
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2212.04501'}
-tags: ['Pre-Training', 'RAG', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2212.04501
+tags:
+- RAG
+- Pre-Training
 ---
 We introduce LaViLa, a new approach to learning video-language
 representations by leveraging Large Language Models (LLMs). We repurpose

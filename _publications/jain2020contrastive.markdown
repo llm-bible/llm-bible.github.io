@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Contrastive Code Representation Learning'
+title: Contrastive Code Representation Learning
 authors: Paras Jain et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 55
 bibkey: jain2020contrastive
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2007.04973'}
-tags: ['Security', 'Training Techniques', 'BERT', 'Applications', 'Model Architecture', 'Pre-Training']
+- name: Paper
+  url: https://arxiv.org/abs/2007.04973
+tags:
+- BERT
+- Pre-Training
+- Security
 ---
 Recent work learns contextual representations of source code by
 reconstructing tokens from their context. For downstream semantic understanding

@@ -2,13 +2,16 @@
 layout: publication
 title: 'Mt5: A Massively Multilingual Pre-trained Text-to-text Transformer'
 authors: Linting Xue et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 1271
+citations: 491
 bibkey: xue2020massively
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2010.11934v3'}
-tags: ['Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2010.11934
+tags:
+- Transformer
+- Pre-Training
 ---
 The recent "Text-to-Text Transfer Transformer" (T5) leveraged a unified
 text-to-text format and scale to attain state-of-the-art results on a wide

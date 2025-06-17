@@ -2,14 +2,20 @@
 layout: publication
 title: 'Vlmo: Unified Vision-language Pre-training With Mixture-of-modality-experts'
 authors: Hangbo Bao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 183
 bibkey: bao2021unified
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2111.02358'}
-  - {name: "Code", url: 'https://aka.ms/vlmo'}
-tags: ['Attention Mechanism', 'Has Code', 'Transformer', 'RAG', 'Training Techniques', 'Model Architecture', 'Merging', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2111.02358
+- name: Code
+  url: https://aka.ms/vlmo
+tags:
+- Multimodal Models
+- Transformer
+- Pre-Training
+- RAG
 ---
 We present a unified Vision-Language pretrained Model (VLMo) that jointly
 learns a dual encoder and a fusion encoder with a modular Transformer network.

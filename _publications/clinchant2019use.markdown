@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'On The Use Of BERT For Neural Machine Translation'
-authors: Stéphane Clinchant, Kweon Woo Jung, Vassilina Nikoulina
-conference: "Arxiv"
+title: On The Use Of BERT For Neural Machine Translation
+authors: "St\xE9phane Clinchant, Kweon Woo Jung, Vassilina Nikoulina"
+conference: Arxiv
 year: 2019
 citations: 100
 bibkey: clinchant2019use
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1909.12744'}
-tags: ['SLT', 'WMT', 'Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications']
+- name: Paper
+  url: https://arxiv.org/abs/1909.12744
+tags:
+- BERT
+- Training Techniques
 ---
 Exploiting large pretrained models for various NMT tasks have gained a lot of
 visibility recently. In this work we study how BERT pretrained models could be

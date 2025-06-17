@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Scaling Instruction-finetuned Language Models'
+title: Scaling Instruction-finetuned Language Models
 authors: Hyung Won Chung et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 998
 bibkey: chung2022scaling
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2210.11416'}
-tags: ['Few-Shot', 'Prompting', 'RAG']
+- name: Paper
+  url: https://arxiv.org/abs/2210.11416
+tags:
+- Few-Shot
+- Prompting
 ---
 Finetuning language models on a collection of datasets phrased as
 instructions has been shown to improve model performance and generalization to

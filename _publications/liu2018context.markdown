@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Context-aware Visual Policy Network For Sequence-level Image Captioning'
+title: Context-aware Visual Policy Network For Sequence-level Image Captioning
 authors: Daqing Liu, Zheng-jun Zha, Hanwang Zhang, Yongdong Zhang, Feng Wu
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
 citations: 72
 bibkey: liu2018context
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1808.05864'}
-  - {name: "Code", url: 'https://github.com/daqingliu/CAVP'}
-tags: ['Attention Mechanism', 'Agentic', 'Has Code', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/1808.05864
+- name: Code
+  url: https://github.com/daqingliu/CAVP
+tags:
+- Multimodal Models
+- Reinforcement Learning
+- Attention Mechanism
+- Agentic
 ---
 Many vision-language tasks can be reduced to the problem of sequence
 prediction for natural language output. In particular, recent advances in image

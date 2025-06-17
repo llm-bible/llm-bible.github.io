@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'MEANTIME: Mixture Of Attention Mechanisms With Multi-temporal Embeddings For Sequential Recommendation'
+title: 'MEANTIME: Mixture Of Attention Mechanisms With Multi-temporal Embeddings For
+  Sequential Recommendation'
 authors: Sung Min Cho, Eunhyeok Park, Sungjoo Yoo
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 47
+citations: 51
 bibkey: cho2020mixture
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2008.08273'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/2008.08273
+tags:
+- Transformer
+- Attention Mechanism
 ---
 Recently, self-attention based models have achieved state-of-the-art
 performance in sequential recommendation task. Following the custom from

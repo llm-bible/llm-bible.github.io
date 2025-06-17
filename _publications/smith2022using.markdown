@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Using Deepspeed And Megatron To Train Megatron-turing NLG 530B, A Large-scale Generative Language Model'
+title: Using Deepspeed And Megatron To Train Megatron-turing NLG 530B, A Large-scale
+  Generative Language Model
 authors: Shaden Smith et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 262
 bibkey: smith2022using
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2201.11990v3'}
-tags: ['Large-Scale Training', 'Transformer', 'Few-Shot', 'Training Techniques', 'Tools', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2201.11990
+tags:
+- Transformer
+- Few-Shot
+- Tools
+- Fine-Tuning
 ---
 Pretrained general-purpose language models can achieve state-of-the-art
 accuracies in various natural language processing domains by adapting to

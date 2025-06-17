@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'OPT-IML: Scaling Language Model Instruction Meta Learning Through The Lens Of Generalization'
+title: 'OPT-IML: Scaling Language Model Instruction Meta Learning Through The Lens
+  Of Generalization'
 authors: Srinivasan Iyer et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 77
 bibkey: iyer2022opt
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2212.12017v3'}
-tags: ['Few-Shot', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Prompting', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2212.12017
+tags:
+- Few-Shot
+- Prompting
+- Fine-Tuning
 ---
 Recent work has shown that fine-tuning large pre-trained language models on a
 collection of tasks described via instructions, a.k.a. instruction-tuning,

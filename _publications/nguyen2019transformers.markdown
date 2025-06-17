@@ -2,13 +2,18 @@
 layout: publication
 title: 'Transformers Without Tears: Improving The Normalization Of Self-attention'
 authors: Toan Q. Nguyen, Julian Salazar
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 133
 bibkey: nguyen2019transformers
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1910.05895'}
-tags: ['Attention Mechanism', 'Transformer', 'SLT', 'RAG', 'WMT', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1910.05895
+tags:
+- Transformer
+- Attention Mechanism
+- Pre-Training
+- Training Techniques
 ---
 We evaluate three simple, normalization-centric changes to improve
 Transformer training. First, we show that pre-norm residual connections

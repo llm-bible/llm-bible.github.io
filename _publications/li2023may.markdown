@@ -2,13 +2,19 @@
 layout: publication
 title: 'Starcoder: May The Source Be With You!'
 authors: Raymond Li et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 145
+citations: 146
 bibkey: li2023may
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.06161'}
-tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias', 'Responsible AI']
+- name: Paper
+  url: https://arxiv.org/abs/2305.06161
+tags:
+- Reinforcement Learning
+- Prompting
+- Ethics and Bias
+- Tools
+- Attention Mechanism
 ---
 The BigCode community, an open-scientific collaboration working on the
 responsible development of Large Language Models for Code (Code LLMs),

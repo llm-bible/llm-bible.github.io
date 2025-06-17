@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Transfertransfo: A Transfer Learning Approach For Neural Network Based Conversational Agents'
+title: 'Transfertransfo: A Transfer Learning Approach For Neural Network Based Conversational
+  Agents'
 authors: Thomas Wolf, Victor Sanh, Julien Chaumond, Clement Delangue
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 289
 bibkey: wolf2019transfer
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1901.08149'}
-tags: ['Agentic', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1901.08149
+tags:
+- Transformer
+- Fine-Tuning
+- Agentic
 ---
 We introduce a new approach to generative data-driven dialogue systems (e.g.
 chatbots) called TransferTransfo which is a combination of a Transfer learning

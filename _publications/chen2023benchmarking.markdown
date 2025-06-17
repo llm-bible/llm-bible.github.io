@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Benchmarking Large Language Models In Retrieval-augmented Generation'
+title: Benchmarking Large Language Models In Retrieval-augmented Generation
 authors: Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 81
+citations: 104
 bibkey: chen2023benchmarking
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2309.01431'}
-tags: ['RAG', 'Security']
+- name: Paper
+  url: https://arxiv.org/abs/2309.01431
+tags:
+- RAG
+- Security
 ---
 Retrieval-Augmented Generation (RAG) is a promising approach for mitigating
 the hallucination of large language models (LLMs). However, existing research

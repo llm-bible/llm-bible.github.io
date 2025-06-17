@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Large Language Models Are Competitive Near Cold-start Recommenders For Language- And Item-based Preferences'
+title: Large Language Models Are Competitive Near Cold-start Recommenders For Language-
+  And Item-based Preferences
 authors: Scott Sanner, Krisztian Balog, Filip Radlinski, Ben Wedin, Lucas Dixon
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 52
+citations: 55
 bibkey: sanner2023large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2307.14225'}
-tags: ['Few-Shot', 'RAG', 'Training Techniques', 'Prompting', 'RecSys', 'Reinforcement Learning', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/2307.14225
+tags:
+- Few-Shot
+- Prompting
+- Reinforcement Learning
 ---
 Traditional recommender systems leverage users' item preference history to
 recommend novel content that users may like. However, modern dialog interfaces

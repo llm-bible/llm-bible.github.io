@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'A Simple But Tough-to-beat Data Augmentation Approach For Natural Language Understanding And Generation'
+title: A Simple But Tough-to-beat Data Augmentation Approach For Natural Language
+  Understanding And Generation
 authors: Dinghan Shen, Mingzhi Zheng, Yelong Shen, Yanru Qu, Weizhu Chen
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 93
 bibkey: shen2020simple
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2009.13818'}
-tags: ['Transformer', 'SLT', 'Security', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2009.13818
+tags:
+- Transformer
+- Fine-Tuning
 ---
 Adversarial training has been shown effective at endowing the learned
 representations with stronger generalization ability. However, it typically

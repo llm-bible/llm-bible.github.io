@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Is Chatgpt The Ultimate Programming Assistant -- How Far Is It?'
+title: Is Chatgpt The Ultimate Programming Assistant -- How Far Is It?
 authors: Haoye Tian et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 89
 bibkey: tian2023is
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.11938'}
-tags: ['Attention Mechanism', 'ACL', 'RAG', 'Training Techniques', 'Model Architecture', 'Applications', 'GPT', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2304.11938
+tags:
+- GPT
+- Applications
+- RAG
+- Prompting
+- Attention Mechanism
 ---
 Recently, the ChatGPT LLM has received great attention: it can be used as a
 bot for discussing source code, prompting it to suggest changes, provide

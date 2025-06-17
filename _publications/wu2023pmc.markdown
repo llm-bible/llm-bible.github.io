@@ -2,14 +2,19 @@
 layout: publication
 title: 'Pmc-llama: Towards Building Open-source Language Models For Medicine'
 authors: Chaoyi Wu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 40
+citations: 98
 bibkey: wu2023pmc
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.14454'}
-  - {name: "Code", url: 'https://github.com/chaoyi-wu/PMC-LLaMA'}
-tags: ['Has Code', 'Training Techniques', 'Model Architecture', 'Applications', 'Fine-Tuning', 'GPT', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2304.14454
+- name: Code
+  url: https://github.com/chaoyi-wu/PMC-LLaMA
+tags:
+- GPT
+- Applications
+- Fine-Tuning
 ---
 Recently, Large Language Models (LLMs) have showcased remarkable capabilities
 in natural language understanding. While demonstrating proficiency in everyday

@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Structgpt: A General Framework For Large Language Model To Reason Over Structured Data'
+title: 'Structgpt: A General Framework For Large Language Model To Reason Over Structured
+  Data'
 authors: Jinhao Jiang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 67
 bibkey: jiang2023general
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.09645'}
-  - {name: "Code", url: 'https://github.com/RUCAIBox/StructGPT'}
-tags: ['Has Code', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.09645
+- name: Code
+  url: https://github.com/RUCAIBox/StructGPT
+tags:
+- GPT
+- Reinforcement Learning
+- Tools
 ---
 In this paper, we study how to improve the zero-shot reasoning ability of
 large language models~(LLMs) over structured data in a unified way. Inspired by

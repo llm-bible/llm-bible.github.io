@@ -1,15 +1,24 @@
 ---
 layout: publication
-title: 'Lite Transformer With Long-short Range Attention'
+title: Lite Transformer With Long-short Range Attention
 authors: Zhanghao Wu, Zhijian Liu, Ji Lin, Yujun Lin, Song Han
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 121
 bibkey: wu2020lite
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2004.11886'}
-  - {name: "Code", url: 'https://github.com/mit-han-lab/lite-transformer'}
-tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'WMT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Quantization', 'Pruning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2004.11886
+- name: Code
+  url: https://github.com/mit-han-lab/lite-transformer
+tags:
+- Transformer
+- Efficiency and Optimization
+- Pruning
+- Quantization
+- Language Modeling
+- Attention Mechanism
+- Applications
 ---
 Transformer has become ubiquitous in natural language processing (e.g.,
 machine translation, question answering); however, it requires enormous amount

@@ -1,15 +1,19 @@
 ---
 layout: publication
-title: 'Automatic Chain Of Thought Prompting In Large Language Models'
+title: Automatic Chain Of Thought Prompting In Large Language Models
 authors: Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 167
 bibkey: zhang2022automatic
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2210.03493v1'}
-  - {name: "Code", url: 'https://github.com/amazon-research/auto-cot'}
-tags: ['Has Code', 'RAG', 'GPT', 'Model Architecture', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2210.03493
+- name: Code
+  url: https://github.com/amazon-research/auto-cot
+tags:
+- GPT
+- Prompting
 ---
 Large language models (LLMs) can perform complex reasoning by generating
 intermediate reasoning steps. Providing these steps for prompting

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'The Elephant In The Interpretability Room: Why Use Attention As Explanation When We Have Saliency Methods?'
+title: 'The Elephant In The Interpretability Room: Why Use Attention As Explanation
+  When We Have Saliency Methods?'
 authors: Jasmijn Bastings, Katja Filippova
-conference: "Proceedings of the 2020 EMNLP Workshop BlackboxNLP Analyzing and Interpreting Neural Networks for NLP"
+conference: Proceedings of the 2020 EMNLP Workshop BlackboxNLP Analyzing and Interpreting
+  Neural Networks for NLP
 year: 2020
-citations: 135
+citations: 56
 bibkey: bastings2020elephant
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2010.05607'}
-tags: ['Attention Mechanism', 'Reinforcement Learning', 'Interpretability and Explainability', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2010.05607
+tags:
+- Interpretability and Explainability
+- Attention Mechanism
 ---
 There is a recent surge of interest in using attention as explanation of
 model predictions, with mixed evidence on whether attention can be used as

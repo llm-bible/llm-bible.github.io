@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'The Second Conversational Intelligence Challenge (convai2)'
+title: The Second Conversational Intelligence Challenge (convai2)
 authors: Emily Dinan et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 382
+citations: 64
 bibkey: dinan2019second
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1902.00098'}
-tags: ['NeurIPS', 'Transformer', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1902.00098
+tags:
+- Transformer
+- NeurIPS
 ---
 We describe the setting and results of the ConvAI2 NeurIPS competition that
 aims to further the state-of-the-art in open-domain chatbots. Some key

@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'A Study Of Generative Large Language Model For Medical Research And Healthcare'
+title: A Study Of Generative Large Language Model For Medical Research And Healthcare
 authors: Cheng Peng et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 173
+citations: 171
 bibkey: peng2023study
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.13523'}
-tags: ['Reinforcement Learning', 'GPT', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2305.13523
+tags:
+- GPT
+- Reinforcement Learning
 ---
 There is enormous enthusiasm and concerns in using large language models
 (LLMs) in healthcare, yet current assumptions are all based on general-purpose

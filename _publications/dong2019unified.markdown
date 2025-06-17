@@ -1,15 +1,22 @@
 ---
 layout: publication
-title: 'Unified Language Model Pre-training For Natural Language Understanding And Generation'
+title: Unified Language Model Pre-training For Natural Language Understanding And
+  Generation
 authors: Li Dong et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 829
 bibkey: dong2019unified
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1905.03197'}
-  - {name: "Code", url: 'https://github.com/microsoft/unilm'}
-tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1905.03197
+- name: Code
+  url: https://github.com/microsoft/unilm
+tags:
+- Transformer
+- BERT
+- Language Modeling
+- Pre-Training
 ---
 This paper presents a new Unified pre-trained Language Model (UniLM) that can
 be fine-tuned for both natural language understanding and generation tasks. The

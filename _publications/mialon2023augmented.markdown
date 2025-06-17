@@ -1,14 +1,20 @@
 ---
 layout: publication
 title: 'Augmented Language Models: A Survey'
-authors: Grégoire Mialon et al.
-conference: "Arxiv"
+authors: "Gr\xE9goire Mialon et al."
+conference: Arxiv
 year: 2023
 citations: 118
 bibkey: mialon2023augmented
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2302.07842v1'}
-tags: ['Language Modeling', 'Interpretability and Explainability', 'RAG', 'Tools', 'Survey Paper']
+- name: Paper
+  url: https://arxiv.org/abs/2302.07842
+tags:
+- Survey Paper
+- RAG
+- Tools
+- Language Modeling
+- Interpretability and Explainability
 ---
 This survey reviews works in which language models (LMs) are augmented with
 reasoning skills and the ability to use tools. The former is defined as

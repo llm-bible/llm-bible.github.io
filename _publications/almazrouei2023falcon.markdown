@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'The Falcon Series Of Open Language Models'
+title: The Falcon Series Of Open Language Models
 authors: Ebtesam Almazrouei et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 79
 bibkey: almazrouei2023falcon
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2311.16867'}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2311.16867
+tags:
+- Pre-Training
+- GPT
+- Reinforcement Learning
 ---
 We introduce the Falcon series: 7B, 40B, and 180B parameters causal
 decoder-only models trained on a diverse high-quality corpora predominantly

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Exploring The Limits Of Transfer Learning With A Unified Text-to-text Transformer'
+title: Exploring The Limits Of Transfer Learning With A Unified Text-to-text Transformer
 authors: Colin Raffel et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 8024
 bibkey: raffel2019exploring
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/1910.10683v4'}
-tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Applications', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: http://arxiv.org/abs/1910.10683v4
+tags:
+- Transformer
+- Fine-Tuning
+- Pre-Training
+- Applications
 ---
 Transfer learning, where a model is first pre-trained on a data-rich task
 before being fine-tuned on a downstream task, has emerged as a powerful

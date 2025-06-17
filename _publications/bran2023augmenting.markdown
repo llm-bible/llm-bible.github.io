@@ -2,13 +2,18 @@
 layout: publication
 title: 'Chemcrow: Augmenting Large-language Models With Chemistry Tools'
 authors: Andres M Bran et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 103
+citations: 105
 bibkey: bran2023augmenting
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.05376'}
-tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2304.05376
+tags:
+- GPT
+- Applications
+- Tools
+- Agentic
 ---
 Over the last decades, excellent computational chemistry tools have been
 developed. Integrating them into a single platform with enhanced accessibility

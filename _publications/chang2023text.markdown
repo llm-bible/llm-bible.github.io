@@ -2,13 +2,18 @@
 layout: publication
 title: 'Muse: Text-to-image Generation Via Masked Generative Transformers'
 authors: Huiwen Chang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 95
 bibkey: chang2023text
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2301.00704'}
-tags: ['Language Modeling', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2301.00704
+tags:
+- Transformer
+- Applications
+- Language Modeling
+- GPT
 ---
 We present Muse, a text-to-image Transformer model that achieves
 state-of-the-art image generation performance while being significantly more

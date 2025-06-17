@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Topic Aware Neural Response Generation'
+title: Topic Aware Neural Response Generation
 authors: Chen Xing et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
-citations: 331
+citations: 117
 bibkey: xing2016topic
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1606.08340'}
-tags: ['Attention Mechanism', 'Transformer', 'RAG', 'Model Architecture', 'Tools', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/1606.08340
+tags:
+- Transformer
+- RAG
+- Attention Mechanism
 ---
 We consider incorporating topic information into the sequence-to-sequence
 framework to generate informative and interesting responses for chatbots. To

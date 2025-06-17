@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Query Rewriting For Retrieval-augmented Large Language Models'
+title: Query Rewriting For Retrieval-augmented Large Language Models
 authors: Xinbei Ma, Yeyun Gong, Pengcheng He, Hai Zhao, Nan Duan
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 40
+citations: 61
 bibkey: ma2023query
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2305.14283'}
-tags: ['Attention Mechanism', 'Agentic', 'RAG', 'Model Architecture', 'Tools', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.14283
+tags:
+- RAG
+- Reinforcement Learning
+- Prompting
+- Agentic
+- Attention Mechanism
 ---
 Large Language Models (LLMs) play powerful, black-box readers in the
 retrieve-then-read pipeline, making remarkable progress in knowledge-intensive

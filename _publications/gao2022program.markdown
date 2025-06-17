@@ -2,14 +2,19 @@
 layout: publication
 title: 'PAL: Program-aided Language Models'
 authors: Luyu Gao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 92
 bibkey: gao2022program
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2211.10435v2'}
-  - {name: "Code", url: 'http://reasonwithpal.com/'}
-tags: ['Few-Shot', 'Has Code', 'Prompting', 'In-Context Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2211.10435
+- name: Code
+  url: http://reasonwithpal.com/
+tags:
+- Prompting
+- Few-Shot
+- In-Context Learning
 ---
 Large language models (LLMs) have recently demonstrated an impressive ability
 to perform arithmetic and symbolic reasoning tasks, when provided with a few

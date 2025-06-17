@@ -1,14 +1,17 @@
 ---
 layout: publication
 title: 'Code Llama: Open Foundation Models For Code'
-authors: Baptiste Rozière et al.
-conference: "Arxiv"
+authors: "Baptiste Rozi\xE8re et al."
+conference: Arxiv
 year: 2023
 citations: 212
-bibkey: rozière2023code
+bibkey: "rozi\xE8re2023code"
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2308.12950'}
-tags: ['Reinforcement Learning', 'Applications']
+- name: Paper
+  url: https://arxiv.org/abs/2308.12950
+tags:
+- Applications
+- Reinforcement Learning
 ---
 We release Code Llama, a family of large language models for code based on
 Llama 2 providing state-of-the-art performance among open models, infilling

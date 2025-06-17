@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'A Systematic Survey Of Prompt Engineering In Large Language Models: Techniques And Applications'
+title: 'A Systematic Survey Of Prompt Engineering In Large Language Models: Techniques
+  And Applications'
 authors: Pranab Sahoo et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2024
 citations: 70
 bibkey: sahoo2024systematic
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2402.07927'}
-tags: ['RAG', 'Applications', 'Tools', 'Prompting', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2402.07927
+tags:
+- Survey Paper
+- Applications
+- Prompting
 ---
 Prompt engineering has emerged as an indispensable technique for extending
 the capabilities of large language models (LLMs) and vision-language models

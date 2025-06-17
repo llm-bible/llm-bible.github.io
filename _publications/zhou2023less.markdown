@@ -2,13 +2,20 @@
 layout: publication
 title: 'LIMA: Less Is More For Alignment'
 authors: Chunting Zhou et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 96
 bibkey: zhou2023less
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2305.11206v1'}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'GPT', 'Prompting', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2305.11206
+tags:
+- GPT
+- Reinforcement Learning
+- Prompting
+- Agentic
+- Pre-Training
+- Fine-Tuning
 ---
 Large language models are trained in two stages: (1) unsupervised pretraining
 from raw text, to learn general-purpose representations, and (2) large scale

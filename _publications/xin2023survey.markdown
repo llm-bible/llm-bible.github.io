@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'A Survey Of Large Language Models'
+title: A Survey Of Large Language Models
 authors: Wayne Xin Zhao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 1022
 bibkey: xin2023survey
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2303.18223v13'}
-tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Training Techniques', 'Model Architecture', 'GPT', 'Scaling Laws', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: http://arxiv.org/abs/2303.18223v13
+tags:
+- Survey Paper
+- Language Modeling
+- Pre-Training
+- Transformer
+- Scaling Laws
+- GPT
 ---
 Language is essentially a complex, intricate system of human expressions
 governed by grammatical rules. It poses a significant challenge to develop

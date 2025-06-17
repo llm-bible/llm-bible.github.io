@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Check Your Facts And Try Again: Improving Large Language Models With External Knowledge And Automated Feedback'
+title: 'Check Your Facts And Try Again: Improving Large Language Models With External
+  Knowledge And Automated Feedback'
 authors: Baolin Peng et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 119
 bibkey: peng2023check
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2302.12813v3'}
-tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2302.12813
+tags:
+- GPT
+- Reinforcement Learning
+- Applications
+- Prompting
 ---
 Large language models (LLMs), such as ChatGPT, are able to generate
 human-like, fluent responses for many downstream tasks, e.g., task-oriented

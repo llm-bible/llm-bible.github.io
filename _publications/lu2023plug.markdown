@@ -2,13 +2,17 @@
 layout: publication
 title: 'Chameleon: Plug-and-play Compositional Reasoning With Large Language Models'
 authors: Pan Lu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 58
 bibkey: lu2023plug
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2304.09842v3'}
-tags: ['Few-Shot', 'Model Architecture', 'Tools', 'GPT']
+- name: Paper
+  url: https://arxiv.org/abs/2304.09842
+tags:
+- GPT
+- Few-Shot
+- Tools
 ---
 Large language models (LLMs) have achieved remarkable progress in solving
 various natural language processing tasks due to emergent reasoning abilities.

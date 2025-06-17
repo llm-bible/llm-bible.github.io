@@ -1,15 +1,19 @@
 ---
 layout: publication
-title: 'Benchmarking Large Language Models For Automated Verilog RTL Code Generation'
+title: Benchmarking Large Language Models For Automated Verilog RTL Code Generation
 authors: Shailja Thakur et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 49
+citations: 65
 bibkey: thakur2022benchmarking
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2212.11140'}
-  - {name: "Code", url: 'https://github.com/shailja-thakur/VGen'}
-tags: ['Has Code', 'Training Techniques', 'Applications', 'Tools', 'Fine-Tuning', 'Merging', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2212.11140
+- name: Code
+  url: https://github.com/shailja-thakur/VGen
+tags:
+- Tools
+- Fine-Tuning
 ---
 Automating hardware design could obviate a significant amount of human error
 from the engineering process and lead to fewer errors. Verilog is a popular

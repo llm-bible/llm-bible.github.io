@@ -2,14 +2,19 @@
 layout: publication
 title: 'MME: A Comprehensive Evaluation Benchmark For Multimodal Large Language Models'
 authors: Chaoyou Fu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 65
 bibkey: fu2023comprehensive
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2306.13394v4'}
-  - {name: "Code", url: 'https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation'}
-tags: ['Has Code', 'Efficiency and Optimization', 'Prompting', 'Multimodal Models', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2306.13394
+- name: Code
+  url: https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation
+tags:
+- Multimodal Models
+- Prompting
+- Efficiency and Optimization
 ---
 Multimodal Large Language Model (MLLM) relies on the powerful LLM to perform
 multimodal tasks, showing amazing emergent abilities in recent studies, such as

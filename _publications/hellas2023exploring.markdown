@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Exploring The Responses Of Large Language Models To Beginner Programmers'' Help Requests'
+title: Exploring The Responses Of Large Language Models To Beginner Programmers' Help
+  Requests
 authors: Arto Hellas et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 75
+citations: 72
 bibkey: hellas2023exploring
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2306.05715'}
-tags: ['Reinforcement Learning', 'GPT', 'Prompting', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2306.05715
+tags:
+- Reinforcement Learning
+- GPT
+- Prompting
 ---
 Background and Context: Over the past year, large language models (LLMs) have
 taken the world by storm. In computing education, like in other walks of life,

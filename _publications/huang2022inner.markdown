@@ -2,13 +2,17 @@
 layout: publication
 title: 'Inner Monologue: Embodied Reasoning Through Planning With Language Models'
 authors: Wenlong Huang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 149
 bibkey: huang2022inner
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2207.05608'}
-tags: ['Reinforcement Learning', 'Agentic', 'RAG', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2207.05608
+tags:
+- Reinforcement Learning
+- RAG
+- Agentic
 ---
 Recent works have shown how the reasoning capabilities of Large Language
 Models (LLMs) can be applied to domains beyond natural language processing,

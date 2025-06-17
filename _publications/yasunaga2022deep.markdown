@@ -1,15 +1,22 @@
 ---
 layout: publication
-title: 'Deep Bidirectional Language-knowledge Graph Pretraining'
+title: Deep Bidirectional Language-knowledge Graph Pretraining
 authors: Michihiro Yasunaga et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 62
 bibkey: yasunaga2022deep
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2210.09338'}
-  - {name: "Code", url: 'https://github.com/michiyasunaga/dragon'}
-tags: ['Masked Language Model', 'Has Code', 'Language Modeling', 'RAG', 'BERT', 'Training Techniques', 'Merging', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2210.09338
+- name: Code
+  url: https://github.com/michiyasunaga/dragon
+tags:
+- Masked Language Model
+- BERT
+- Language Modeling
+- RAG
+- Training Techniques
 ---
 Pretraining a language model (LM) on text has been shown to help various
 downstream NLP tasks. Recent works show that a knowledge graph (KG) can

@@ -2,13 +2,18 @@
 layout: publication
 title: 'Pretrained Encyclopedia: Weakly Supervised Knowledge-pretrained Language Model'
 authors: Wenhan Xiong, Jingfei Du, William Yang Wang, Veselin Stoyanov
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 164
 bibkey: xiong2019pretrained
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1912.09637'}
-tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1912.09637
+tags:
+- BERT
+- Language Modeling
+- Reinforcement Learning
+- RAG
 ---
 Recent breakthroughs of pretrained language models have shown the
 effectiveness of self-supervised learning for a wide range of natural language

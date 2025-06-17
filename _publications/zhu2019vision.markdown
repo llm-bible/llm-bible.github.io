@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Vision-language Navigation With Self-supervised Auxiliary Reasoning Tasks'
+title: Vision-language Navigation With Self-supervised Auxiliary Reasoning Tasks
 authors: Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 188
+citations: 126
 bibkey: zhu2019vision
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.07883'}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools']
+- name: Paper
+  url: https://arxiv.org/abs/1911.07883
+tags:
+- Multimodal Models
+- Agentic
 ---
 Vision-Language Navigation (VLN) is a task where agents learn to navigate
 following natural language instructions. The key to this task is to perceive

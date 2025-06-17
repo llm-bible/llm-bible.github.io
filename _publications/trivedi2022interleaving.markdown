@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Interleaving Retrieval With Chain-of-thought Reasoning For Knowledge-intensive Multi-step Questions'
+title: Interleaving Retrieval With Chain-of-thought Reasoning For Knowledge-intensive
+  Multi-step Questions
 authors: Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 70
+citations: 55
 bibkey: trivedi2022interleaving
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2212.10509'}
-  - {name: "Code", url: 'https://github.com/stonybrooknlp/ircot'}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'Training Techniques', 'Prompting', 'GPT', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2212.10509
+- name: Code
+  url: https://github.com/stonybrooknlp/ircot
+tags:
+- GPT
+- Reinforcement Learning
+- Prompting
 ---
 Prompting-based large language models (LLMs) are surprisingly powerful at
 generating natural language reasoning steps or Chains-of-Thoughts (CoT) for

@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'Is Chatgpt A General-purpose Natural Language Processing Task Solver?'
+title: Is Chatgpt A General-purpose Natural Language Processing Task Solver?
 authors: Chengwei Qin et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 333
+citations: 207
 bibkey: qin2023is
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2302.06476'}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/2302.06476
+tags:
+- GPT
+- Attention Mechanism
+- Model Architecture
+- Few-Shot
+- Language Modeling
+- Prompting
 ---
 Spurred by advancements in scale, large language models (LLMs) have
 demonstrated the ability to perform a variety of natural language processing

@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Practical And Ethical Challenges Of Large Language Models In Education: A Systematic Scoping Review'
+title: 'Practical And Ethical Challenges Of Large Language Models In Education: A
+  Systematic Scoping Review'
 authors: Lixiang Yan et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 250
+citations: 255
 bibkey: yan2023practical
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.13379'}
-tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+- name: Paper
+  url: https://arxiv.org/abs/2303.13379
+tags:
+- GPT
+- Survey Paper
+- Ethics and Bias
 ---
 Educational technology innovations leveraging large language models (LLMs)
 have shown the potential to automate the laborious process of generating and

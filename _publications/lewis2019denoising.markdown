@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'BART: Denoising Sequence-to-sequence Pre-training For Natural Language Generation, Translation, And Comprehension'
+title: 'BART: Denoising Sequence-to-sequence Pre-training For Natural Language Generation,
+  Translation, And Comprehension'
 authors: Mike Lewis et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 6462
+citations: 2899
 bibkey: lewis2019denoising
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1910.13461'}
-tags: ['Language Modeling', 'BERT', 'Tools', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1910.13461
+tags:
+- Pre-Training
+- Language Modeling
+- BERT
+- GPT
+- Tools
 ---
 We present BART, a denoising autoencoder for pretraining sequence-to-sequence
 models. BART is trained by (1) corrupting text with an arbitrary noising

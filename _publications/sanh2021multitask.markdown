@@ -1,16 +1,21 @@
 ---
 layout: publication
-title: 'Multitask Prompted Training Enables Zero-shot Task Generalization'
+title: Multitask Prompted Training Enables Zero-shot Task Generalization
 authors: Victor Sanh et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 466
 bibkey: sanh2021multitask
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2110.08207v3'}
-  - {name: "Code", url: 'https://github.com/bigscience-workshop/t-zero'}
-  - {name: "Code", url: 'https://github.com/bigscience-workshop/promptsource'}
-tags: ['Prompting', 'Has Code', 'Training Techniques', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2110.08207
+- name: Code
+  url: https://github.com/bigscience-workshop/t-zero
+- name: Code
+  url: https://github.com/bigscience-workshop/promptsource
+tags:
+- Prompting
+- Fine-Tuning
 ---
 Large language models have recently been shown to attain reasonable zero-shot
 generalization on a diverse set of tasks (Brown et al., 2020). It has been

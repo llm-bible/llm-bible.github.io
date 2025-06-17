@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Llm-planner: Few-shot Grounded Planning For Embodied Agents With Large Language Models'
+title: 'Llm-planner: Few-shot Grounded Planning For Embodied Agents With Large Language
+  Models'
 authors: Chan Hee Song et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
-citations: 136
+citations: 144
 bibkey: song2022llm
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2212.04088'}
-tags: ['Agentic', 'Few-Shot', 'Efficiency and Optimization', 'Training Techniques']
+- name: Paper
+  url: https://arxiv.org/abs/2212.04088
+tags:
+- Few-Shot
+- Agentic
 ---
 This study focuses on using large language models (LLMs) as a planner for
 embodied agents that can follow natural language instructions to complete

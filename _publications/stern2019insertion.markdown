@@ -2,13 +2,16 @@
 layout: publication
 title: 'Insertion Transformer: Flexible Sequence Generation Via Insertion Operations'
 authors: Mitchell Stern, William Chan, Jamie Kiros, Jakob Uszkoreit
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 160
 bibkey: stern2019insertion
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1902.03249'}
-tags: ['Language Modeling', 'Transformer', 'WMT', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1902.03249
+tags:
+- Transformer
+- Language Modeling
 ---
 We present the Insertion Transformer, an iterative, partially autoregressive
 model for sequence generation based on insertion operations. Unlike typical

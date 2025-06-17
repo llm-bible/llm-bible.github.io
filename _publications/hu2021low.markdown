@@ -2,14 +2,20 @@
 layout: publication
 title: 'Lora: Low-rank Adaptation Of Large Language Models'
 authors: Edward J. Hu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
 citations: 1614
 bibkey: hu2021low
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2106.09685'}
-  - {name: "Code", url: 'https://github.com/microsoft/LoRA'}
-tags: ['Has Code', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'GPT', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2106.09685
+- name: Code
+  url: https://github.com/microsoft/LoRA
+tags:
+- GPT
+- Transformer
+- Pre-Training
+- Fine-Tuning
 ---
 An important paradigm of natural language processing consists of large-scale
 pre-training on general domain data and adaptation to particular tasks or

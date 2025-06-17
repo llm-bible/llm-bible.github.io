@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Byte Pair Encoding Is Suboptimal For Language Model Pretraining'
+title: Byte Pair Encoding Is Suboptimal For Language Model Pretraining
 authors: Kaj Bostrom, Greg Durrett
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 51
 bibkey: bostrom2020byte
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2004.03720'}
-tags: ['Masked Language Model', 'Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2004.03720
+tags:
+- Tokenization
+- Transformer
+- BERT
+- Language Modeling
+- Pre-Training
 ---
 The success of pretrained transformer language models (LMs) in natural
 language processing has led to a wide range of pretraining setups. In

@@ -1,15 +1,20 @@
 ---
 layout: publication
-title: 'Table-to-text Generation By Structure-aware Seq2seq Learning'
+title: Table-to-text Generation By Structure-aware Seq2seq Learning
 authors: Tianyu Liu, Kexiang Wang, Lei Sha, Baobao Chang, Zhifang Sui
-conference: "Arxiv"
+conference: Arxiv
 year: 2017
-citations: 245
+citations: 71
 bibkey: liu2017table
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1711.09724'}
-  - {name: "Code", url: 'https://github.com/tyliupku/wiki2bio'}
-tags: ['Attention Mechanism', 'Has Code', 'Language Modeling', 'Transformer', 'Applications', 'Model Architecture', 'Interpretability']
+- name: Paper
+  url: https://arxiv.org/abs/1711.09724
+- name: Code
+  url: https://github.com/tyliupku/wiki2bio
+tags:
+- Transformer
+- Language Modeling
+- Attention Mechanism
 ---
 Table-to-text generation aims to generate a description for a factual table
 which can be viewed as a set of field-value records. To encode both the content

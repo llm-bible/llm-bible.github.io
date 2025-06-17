@@ -1,15 +1,21 @@
 ---
 layout: publication
 title: 'CTRL: A Conditional Transformer Language Model For Controllable Generation'
-authors: Nitish Shirish Keskar, Bryan Mccann, Lav R. Varshney, Caiming Xiong, Richard Socher
-conference: "Arxiv"
+authors: Nitish Shirish Keskar, Bryan Mccann, Lav R. Varshney, Caiming Xiong, Richard
+  Socher
+conference: Arxiv
 year: 2019
 citations: 821
 bibkey: keskar2019conditional
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1909.05858'}
-  - {name: "Code", url: 'https://github.com/salesforce/ctrl'}
-tags: ['Has Code', 'Language Modeling', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1909.05858
+- name: Code
+  url: https://github.com/salesforce/ctrl
+tags:
+- Transformer
+- Language Modeling
+- Reinforcement Learning
 ---
 Large-scale language models show promising text generation capabilities, but
 users cannot easily control particular aspects of the generated text. We

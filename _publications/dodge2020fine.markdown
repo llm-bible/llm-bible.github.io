@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Fine-tuning Pretrained Language Models: Weight Initializations, Data Orders, And Early Stopping'
+title: 'Fine-tuning Pretrained Language Models: Weight Initializations, Data Orders,
+  And Early Stopping'
 authors: Jesse Dodge et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 274
 bibkey: dodge2020fine
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2002.06305'}
-tags: ['RAG', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2002.06305
+tags:
+- BERT
+- Fine-Tuning
 ---
 Fine-tuning pretrained contextual word embedding models to supervised
 downstream tasks has become commonplace in natural language processing. This

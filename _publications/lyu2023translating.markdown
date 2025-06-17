@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Translating Radiology Reports Into Plain Language Using Chatgpt And GPT-4 With Prompt Learning: Promising Results, Limitations, And Potential'
+title: 'Translating Radiology Reports Into Plain Language Using Chatgpt And GPT-4
+  With Prompt Learning: Promising Results, Limitations, And Potential'
 authors: Qing Lyu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 25
+citations: 205
 bibkey: lyu2023translating
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2303.09038'}
-tags: ['Attention Mechanism', 'RAG', 'GPT', 'Model Architecture', 'Prompting']
+- name: Paper
+  url: https://arxiv.org/abs/2303.09038
+tags:
+- GPT
+- Prompting
+- RAG
 ---
 The large language model called ChatGPT has drawn extensively attention
 because of its human-like expression and reasoning abilities. In this study, we

@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Multilingual Extractive Reading Comprehension By Runtime Machine Translation'
+title: Multilingual Extractive Reading Comprehension By Runtime Machine Translation
 authors: Akari Asai, Akiko Eriguchi, Kazuma Hashimoto, Yoshimasa Tsuruoka
-conference: "Arxiv"
+conference: Arxiv
 year: 2018
 citations: 66
 bibkey: asai2018multilingual
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1809.03275'}
-tags: ['Attention Mechanism', 'RAG', 'Training Techniques', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1809.03275
+tags:
+- RAG
+- Attention Mechanism
 ---
 Despite recent work in Reading Comprehension (RC), progress has been mostly
 limited to English due to the lack of large-scale datasets in other languages.

@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'Genegpt: Augmenting Large Language Models With Domain Tools For Improved Access To Biomedical Information'
+title: 'Genegpt: Augmenting Large Language Models With Domain Tools For Improved Access
+  To Biomedical Information'
 authors: Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu
-conference: "Bioinformatics 2024"
+conference: Bioinformatics 2024
 year: 2023
 citations: 67
 bibkey: jin2023augmenting
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.09667'}
-tags: ['RAG', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'In-Context Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2304.09667
+tags:
+- GPT
+- In-Context Learning
+- RAG
+- Tools
+- Prompting
 ---
 While large language models (LLMs) have been successfully applied to various
 tasks, they still face challenges with hallucinations. Augmenting LLMs with

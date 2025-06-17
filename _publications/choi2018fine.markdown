@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Fine-grained Attention Mechanism For Neural Machine Translation'
+title: Fine-grained Attention Mechanism For Neural Machine Translation
 authors: Heeyoul Choi, Kyunghyun Cho, Yoshua Bengio
-conference: "Neurocomputing 2018"
+conference: Neurocomputing 2018
 year: 2018
 citations: 157
 bibkey: choi2018fine
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1803.11407'}
-tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1803.11407
+tags:
+- Transformer
+- Attention Mechanism
 ---
 Neural machine translation (NMT) has been a new paradigm in machine
 translation, and the attention mechanism has become the dominant approach with

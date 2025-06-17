@@ -2,13 +2,16 @@
 layout: publication
 title: 'Condenser: A Pre-training Architecture For Dense Retrieval'
 authors: Luyu Gao, Jamie Callan
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 125
+citations: 74
 bibkey: gao2021pre
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2104.08253'}
-tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2104.08253
+tags:
+- Transformer
+- Pre-Training
 ---
 Pre-trained Transformer language models (LM) have become go-to text
 representation encoders. Prior research fine-tunes deep LMs to encode text

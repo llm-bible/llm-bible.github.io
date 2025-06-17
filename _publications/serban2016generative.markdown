@@ -2,13 +2,17 @@
 layout: publication
 title: 'Generative Deep Neural Networks For Dialogue: A Short Review'
 authors: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
 citations: 64
 bibkey: serban2016generative
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1611.06216'}
-tags: ['RAG', 'Applications', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1611.06216
+tags:
+- Survey Paper
+- Applications
+- RAG
 ---
 Researchers have recently started investigating deep neural networks for
 dialogue applications. In particular, generative sequence-to-sequence (Seq2Seq)

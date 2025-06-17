@@ -1,14 +1,22 @@
 ---
 layout: publication
-title: 'Megatron-lm: Training Multi-billion Parameter Language Models Using Model Parallelism'
+title: 'Megatron-lm: Training Multi-billion Parameter Language Models Using Model
+  Parallelism'
 authors: Mohammad Shoeybi et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 785
 bibkey: shoeybi2019megatron
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/1909.08053v4'}
-tags: ['Attention Mechanism', 'Language Modeling', 'Transformer', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Applications', 'Tools', 'BERT', 'GPT', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1909.08053
+tags:
+- GPT
+- Transformer
+- Language Modeling
+- Efficiency and Optimization
+- Applications
+- BERT
 ---
 Recent work in language modeling demonstrates that training large transformer
 models advances the state of the art in Natural Language Processing

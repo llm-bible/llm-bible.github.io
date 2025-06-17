@@ -2,14 +2,19 @@
 layout: publication
 title: 'Llm-pruner: On The Structural Pruning Of Large Language Models'
 authors: Xinyin Ma, Gongfan Fang, Xinchao Wang
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 52
 bibkey: ma2023llm
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2305.11627v3'}
-  - {name: "Code", url: 'https://github.com/horseee/LLM-Pruner'}
-tags: ['Has Code', 'Efficiency and Optimization', 'Distillation', 'Training Techniques', 'Fine-Tuning', 'Pruning']
+- name: Paper
+  url: https://arxiv.org/abs/2305.11627
+- name: Code
+  url: https://github.com/horseee/LLM-Pruner
+tags:
+- Pruning
+- Efficiency and Optimization
+- Fine-Tuning
 ---
 Large language models (LLMs) have shown remarkable capabilities in language
 understanding and generation. However, such impressive capability typically

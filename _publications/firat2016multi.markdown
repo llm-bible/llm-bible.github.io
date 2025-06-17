@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Multi-way, Multilingual Neural Machine Translation With A Shared Attention Mechanism'
+title: Multi-way, Multilingual Neural Machine Translation With A Shared Attention
+  Mechanism
 authors: Orhan Firat, Kyunghyun Cho, Yoshua Bengio
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
-citations: 550
+citations: 148
 bibkey: firat2016multi
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1601.01073'}
-tags: ['Attention Mechanism', 'Transformer', 'WMT', 'Model Architecture', 'Applications', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1601.01073
+tags:
+- Transformer
+- Attention Mechanism
 ---
 We propose multi-way, multilingual neural machine translation. The proposed
 approach enables a single neural translation model to translate between

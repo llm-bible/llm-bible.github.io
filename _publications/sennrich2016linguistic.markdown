@@ -1,14 +1,17 @@
 ---
 layout: publication
-title: 'Linguistic Input Features Improve Neural Machine Translation'
+title: Linguistic Input Features Improve Neural Machine Translation
 authors: Rico Sennrich, Barry Haddow
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
 citations: 101
 bibkey: sennrich2016linguistic
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1606.02892'}
-tags: ['Attention Mechanism', 'WMT', 'Training Techniques', 'Applications', 'Model Architecture', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/1606.02892
+tags:
+- Attention Mechanism
+- Training Techniques
 ---
 Neural machine translation has recently achieved impressive results, while
 using little in the way of external linguistic information. In this paper we

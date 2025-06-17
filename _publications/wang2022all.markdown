@@ -2,14 +2,21 @@
 layout: publication
 title: 'All In One: Exploring Unified Video-language Pre-training'
 authors: Alex Jinpeng Wang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 77
 bibkey: wang2022all
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2203.07303'}
-  - {name: "Code", url: 'https://github.com/showlab/all-in-one'}
-tags: ['Has Code', 'Transformer', 'Efficiency and Optimization', 'BERT', 'Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Merging', 'Applications', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2203.07303
+- name: Code
+  url: https://github.com/showlab/all-in-one
+tags:
+- Multimodal Models
+- Transformer
+- Pre-Training
+- Fine-Tuning
+- Efficiency and Optimization
 ---
 Mainstream Video-Language Pre-training models \cite\{actbert,clipbert,violet\}
 consist of three parts, a video encoder, a text encoder, and a video-text

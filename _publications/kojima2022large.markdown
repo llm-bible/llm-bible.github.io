@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Large Language Models Are Zero-shot Reasoners'
+title: Large Language Models Are Zero-shot Reasoners
 authors: Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 871
 bibkey: kojima2022large
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2205.11916v4'}
-tags: ['Large-Scale Training', 'Few-Shot', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Scaling Laws', 'Prompting', 'Pre-Training']
+- name: Paper
+  url: https://arxiv.org/abs/2205.11916
+tags:
+- GPT
+- Few-Shot
+- Prompting
+- Pre-Training
 ---
 Pretrained large language models (LLMs) are widely used in many sub-fields of
 natural language processing (NLP) and generally known as excellent few-shot

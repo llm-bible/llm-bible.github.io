@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Openassistant Conversations -- Democratizing Large Language Model Alignment'
-authors: Andreas Köpf et al.
-conference: "Arxiv"
+title: Openassistant Conversations -- Democratizing Large Language Model Alignment
+authors: "Andreas K\xF6pf et al."
+conference: Arxiv
 year: 2023
 citations: 80
-bibkey: köpf2023openassistant
+bibkey: "k\xF6pf2023openassistant"
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.07327'}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Training Techniques', 'Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2304.07327
+tags:
+- GPT
+- Reinforcement Learning
+- Fine-Tuning
+- Agentic
 ---
 Aligning large language models (LLMs) with human preferences has proven to
 drastically improve usability and has driven rapid adoption as demonstrated by

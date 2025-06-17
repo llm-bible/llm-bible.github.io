@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Vilbert: Pretraining Task-agnostic Visiolinguistic Representations For Vision-and-language Tasks'
+title: 'Vilbert: Pretraining Task-agnostic Visiolinguistic Representations For Vision-and-language
+  Tasks'
 authors: Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 1507
 bibkey: lu2019pretraining
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1908.02265'}
-tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'Applications', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1908.02265
+tags:
+- Transformer
+- BERT
+- Training Techniques
 ---
 We present ViLBERT (short for Vision-and-Language BERT), a model for learning
 task-agnostic joint representations of image content and natural language. We

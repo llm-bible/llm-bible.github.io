@@ -2,13 +2,19 @@
 layout: publication
 title: 'Unilmv2: Pseudo-masked Language Models For Unified Language Model Pre-training'
 authors: Hangbo Bao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 171
 bibkey: bao2020pseudo
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2002.12804'}
-tags: ['Attention Mechanism', 'Masked Language Model', 'Language Modeling', 'Transformer', 'Training Techniques', 'BERT', 'Model Architecture', 'GPT', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2002.12804
+tags:
+- Pre-Training
+- Transformer
+- Language Modeling
+- BERT
+- GPT
 ---
 We propose to pre-train a unified language model for both autoencoding and
 partially autoregressive language modeling tasks using a novel training

@@ -2,14 +2,20 @@
 layout: publication
 title: 'Next-gpt: Any-to-any Multimodal LLM'
 authors: Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-seng Chua
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
 citations: 84
 bibkey: wu2023next
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2309.05519'}
-  - {name: "Code", url: 'https://next-gpt.github.io/'}
-tags: ['Agentic', 'Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Merging', 'Multimodal Models', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2309.05519
+- name: Code
+  url: https://next-gpt.github.io/
+tags:
+- Multimodal Models
+- GPT
+- Reinforcement Learning
+- Agentic
 ---
 While recently Multimodal Large Language Models (MM-LLMs) have made exciting
 strides, they mostly fall prey to the limitation of only input-side multimodal

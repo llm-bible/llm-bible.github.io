@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Evaluating Large Language Models Trained On Code'
+title: Evaluating Large Language Models Trained On Code
 authors: Mark Chen et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 1154
+citations: 1169
 bibkey: chen2021evaluating
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2107.03374v2'}
-tags: ['Security', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'Responsible AI']
+- name: Paper
+  url: https://arxiv.org/abs/2107.03374
+tags:
+- GPT
+- Prompting
+- Security
 ---
 We introduce Codex, a GPT language model fine-tuned on publicly available
 code from GitHub, and study its Python code-writing capabilities. A distinct

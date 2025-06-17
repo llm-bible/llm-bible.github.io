@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Tree-to-sequence Attentional Neural Machine Translation'
+title: Tree-to-sequence Attentional Neural Machine Translation
 authors: Akiko Eriguchi, Kazuma Hashimoto, Yoshimasa Tsuruoka
-conference: "Arxiv"
+conference: Arxiv
 year: 2016
-citations: 255
+citations: 110
 bibkey: eriguchi2016tree
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1603.06075'}
-tags: ['Attention Mechanism', 'Transformer', 'Applications', 'Model Architecture']
+- name: Paper
+  url: https://arxiv.org/abs/1603.06075
+tags:
+- Transformer
+- Attention Mechanism
+- Model Architecture
 ---
 Most of the existing Neural Machine Translation (NMT) models focus on the
 conversion of sequential data and do not directly use syntactic information. We

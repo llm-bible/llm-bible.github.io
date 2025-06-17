@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Speechgpt: Empowering Large Language Models With Intrinsic Cross-modal Conversational Abilities'
+title: 'Speechgpt: Empowering Large Language Models With Intrinsic Cross-modal Conversational
+  Abilities'
 authors: Dong Zhang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 54
+citations: 52
 bibkey: zhang2023empowering
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2305.11000v2'}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Multimodal Models', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2305.11000
+tags:
+- GPT
+- Multimodal Models
+- Pre-Training
+- Fine-Tuning
 ---
 Multi-modal large language models are regarded as a crucial step towards
 Artificial General Intelligence (AGI) and have garnered significant interest

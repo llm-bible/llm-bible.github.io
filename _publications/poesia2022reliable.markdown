@@ -2,13 +2,18 @@
 layout: publication
 title: 'Synchromesh: Reliable Code Generation From Pre-trained Language Models'
 authors: Gabriel Poesia et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 57
 bibkey: poesia2022reliable
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2201.11227'}
-tags: ['Few-Shot', 'RAG', 'Model Architecture', 'Training Techniques', 'Tools', 'Fine-Tuning', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2201.11227
+tags:
+- GPT
+- Few-Shot
+- RAG
+- Fine-Tuning
 ---
 Large pre-trained language models have been used to generate code,providing a
 flexible interface for synthesizing programs from natural language

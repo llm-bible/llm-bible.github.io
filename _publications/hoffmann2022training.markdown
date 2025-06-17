@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Training Compute-optimal Large Language Models'
+title: Training Compute-optimal Large Language Models
 authors: Jordan Hoffmann et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 452
 bibkey: hoffmann2022training
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2203.15556v1'}
-tags: ['Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Fine-Tuning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2203.15556
+tags:
+- GPT
+- Transformer
+- Fine-Tuning
 ---
 We investigate the optimal model size and number of tokens for training a
 transformer language model under a given compute budget. We find that current

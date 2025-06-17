@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Residual Energy-based Models For Text Generation'
+title: Residual Energy-based Models For Text Generation
 authors: Yuntian Deng, Anton Bakhtin, Myle Ott, Arthur Szlam, Marc'aurelio Ranzato
-conference: "ICLR 2020"
+conference: ICLR 2020
 year: 2020
 citations: 60
 bibkey: deng2020residual
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2004.11714'}
-tags: ['Language Modeling', 'RAG', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'Ethics and Bias']
+- name: Paper
+  url: https://arxiv.org/abs/2004.11714
+tags:
+- BERT
+- Language Modeling
+- Pre-Training
 ---
 Text generation is ubiquitous in many NLP tasks, from summarization, to
 dialogue and machine translation. The dominant parametric approach is based on

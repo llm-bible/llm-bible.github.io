@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Generic Attention-model Explainability For Interpreting Bi-modal And Encoder-decoder Transformers'
+title: Generic Attention-model Explainability For Interpreting Bi-modal And Encoder-decoder
+  Transformers
 authors: Hila Chefer, Shir Gur, Lior Wolf
-conference: "Arxiv"
+conference: Arxiv
 year: 2021
-citations: 173
+citations: 160
 bibkey: chefer2021generic
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2103.15679'}
-tags: ['Attention Mechanism', 'Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Applications', 'Interpretability', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2103.15679
+tags:
+- Transformer
+- Interpretability and Explainability
+- Attention Mechanism
 ---
 Transformers are increasingly dominating multi-modal reasoning tasks, such as
 visual question answering, achieving state-of-the-art results thanks to their

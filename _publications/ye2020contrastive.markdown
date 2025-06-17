@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Contrastive Triple Extraction With Generative Transformer'
+title: Contrastive Triple Extraction With Generative Transformer
 authors: Hongbin Ye et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
-citations: 108
+citations: 65
 bibkey: ye2020contrastive
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2009.06207'}
-tags: ['Attention Mechanism', 'Transformer', 'Training Techniques', 'Applications', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2009.06207
+tags:
+- Transformer
+- Training Techniques
+- Attention Mechanism
+- Model Architecture
 ---
 Triple extraction is an essential task in information extraction for natural
 language processing and knowledge graph construction. In this paper, we revisit

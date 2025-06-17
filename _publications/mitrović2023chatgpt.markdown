@@ -1,14 +1,21 @@
 ---
 layout: publication
-title: 'Chatgpt Or Human? Detect And Explain. Explaining Decisions Of Machine Learning Model For Detecting Short Chatgpt-generated Text'
-authors: Sandra Mitrović, Davide Andreoletti, Omran Ayoub
-conference: "Arxiv"
+title: Chatgpt Or Human? Detect And Explain. Explaining Decisions Of Machine Learning
+  Model For Detecting Short Chatgpt-generated Text
+authors: "Sandra Mitrovi\u0107, Davide Andreoletti, Omran Ayoub"
+conference: Arxiv
 year: 2023
 citations: 65
-bibkey: mitrović2023chatgpt
+bibkey: "mitrovi\u01072023chatgpt"
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2301.13852'}
-tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Applications', 'Tools', 'GPT', 'Interpretability', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2301.13852
+tags:
+- GPT
+- Transformer
+- Applications
+- Interpretability and Explainability
+- Fine-Tuning
 ---
 ChatGPT has the ability to generate grammatically flawless and
 seemingly-human replies to different types of questions from various domains.

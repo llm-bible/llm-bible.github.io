@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Document-level Machine Translation With Large Language Models'
+title: Document-level Machine Translation With Large Language Models
 authors: Longyue Wang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2023
-citations: 79
+citations: 50
 bibkey: wang2023document
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2304.02210'}
-  - {name: "Code", url: 'https://github.com/longyuewangdcu/Document-MT-LLM'}
-tags: ['Has Code', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Prompting', 'Applications', 'Reinforcement Learning']
+- name: Paper
+  url: https://arxiv.org/abs/2304.02210
+- name: Code
+  url: https://github.com/longyuewangdcu/Document-MT-LLM
+tags:
+- GPT
+- RAG
+- Prompting
+- Reinforcement Learning
 ---
 Large language models (LLMs) such as ChatGPT can produce coherent, cohesive,
 relevant, and fluent answers for various natural language processing (NLP)

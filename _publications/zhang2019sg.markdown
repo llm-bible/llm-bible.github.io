@@ -2,13 +2,18 @@
 layout: publication
 title: 'Sg-net: Syntax-guided Machine Reading Comprehension'
 authors: Zhuosheng Zhang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 81
 bibkey: zhang2019sg
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1908.05147'}
-tags: ['Attention Mechanism', 'Transformer', 'BERT', 'Model Architecture', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1908.05147
+tags:
+- Transformer
+- BERT
+- Attention Mechanism
+- Model Architecture
 ---
 For machine reading comprehension, the capacity of effectively modeling the
 linguistic knowledge from the detail-riddled and lengthy passages and getting

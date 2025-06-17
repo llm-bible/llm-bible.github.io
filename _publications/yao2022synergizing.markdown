@@ -2,14 +2,20 @@
 layout: publication
 title: 'React: Synergizing Reasoning And Acting In Language Models'
 authors: Shunyu Yao et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 251
 bibkey: yao2022synergizing
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2210.03629v3'}
-  - {name: "Code", url: 'https://react-lm.github.io'}
-tags: ['Agentic', 'Has Code', 'Interpretability and Explainability', 'Applications', 'Tools', 'Prompting', 'Reinforcement Learning', 'Interpretability']
+- name: Paper
+  url: https://arxiv.org/abs/2210.03629
+- name: Code
+  url: https://react-lm.github.io
+tags:
+- Reinforcement Learning
+- Prompting
+- Agentic
+- Interpretability and Explainability
 ---
 While large language models (LLMs) have demonstrated impressive capabilities
 across tasks in language understanding and interactive decision making, their

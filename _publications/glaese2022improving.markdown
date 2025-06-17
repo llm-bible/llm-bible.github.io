@@ -1,14 +1,18 @@
 ---
 layout: publication
-title: 'Improving Alignment Of Dialogue Agents Via Targeted Human Judgements'
+title: Improving Alignment Of Dialogue Agents Via Targeted Human Judgements
 authors: Amelia Glaese et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2022
 citations: 105
 bibkey: glaese2022improving
 additional_links:
-  - {name: "Paper", url: 'http://arxiv.org/abs/2209.14375v1'}
-tags: ['Agentic', 'Security', 'Prompting', 'Reinforcement Learning', 'Ethics and Bias']
+- name: Paper
+  url: http://arxiv.org/abs/2209.14375v1
+tags:
+- Agentic
+- Reinforcement Learning
+- Ethics and Bias
 ---
 We present Sparrow, an information-seeking dialogue agent trained to be more
 helpful, correct, and harmless compared to prompted language model baselines.

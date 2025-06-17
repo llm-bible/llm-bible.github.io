@@ -2,13 +2,16 @@
 layout: publication
 title: 'ELI5: Long Form Question Answering'
 authors: Angela Fan et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 268
+citations: 104
 bibkey: fan2019long
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1907.09190'}
-tags: ['Reinforcement Learning', 'Language Modeling', 'Applications']
+- name: Paper
+  url: https://arxiv.org/abs/1907.09190
+tags:
+- Reinforcement Learning
+- Language Modeling
 ---
 We introduce the first large-scale corpus for long-form question answering, a
 task requiring elaborate and in-depth answers to open-ended questions. The

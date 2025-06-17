@@ -1,15 +1,21 @@
 ---
 layout: publication
-title: 'Adversarial Training For Large Neural Language Models'
+title: Adversarial Training For Large Neural Language Models
 authors: Xiaodong Liu et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2020
 citations: 89
 bibkey: liu2020adversarial
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/2004.08994'}
-  - {name: "Code", url: 'https://github.com/namisan/mt-dnn'}
-tags: ['Has Code', 'Security', 'Training Techniques', 'BERT', 'Model Architecture', 'Fine-Tuning', 'Survey Paper', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/2004.08994
+- name: Code
+  url: https://github.com/namisan/mt-dnn
+tags:
+- Security
+- Pre-Training
+- Fine-Tuning
+- BERT
 ---
 Generalization and robustness are both key desiderata for designing machine
 learning methods. Adversarial training can enhance robustness, but past work

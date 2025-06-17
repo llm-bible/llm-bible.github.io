@@ -1,14 +1,20 @@
 ---
 layout: publication
-title: 'Learning To Answer By Learning To Ask: Getting The Best Of GPT-2 And BERT Worlds'
+title: 'Learning To Answer By Learning To Ask: Getting The Best Of GPT-2 And BERT
+  Worlds'
 authors: Tassilo Klein, Moin Nabi
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
 citations: 53
 bibkey: klein2019learning
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.02365'}
-tags: ['Attention Mechanism', 'Transformer', 'Model Architecture', 'Training Techniques', 'Tools', 'BERT', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1911.02365
+tags:
+- GPT
+- Transformer
+- BERT
+- Reinforcement Learning
 ---
 Automatic question generation aims at the generation of questions from a
 context, with the corresponding answers being sub-spans of the given passage.

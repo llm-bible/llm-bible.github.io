@@ -1,14 +1,19 @@
 ---
 layout: publication
-title: 'Dialogpt: Large-scale Generative Pre-training For Conversational Response Generation'
+title: 'Dialogpt: Large-scale Generative Pre-training For Conversational Response
+  Generation'
 authors: Yizhe Zhang et al.
-conference: "Arxiv"
+conference: Arxiv
 year: 2019
-citations: 988
+citations: 349
 bibkey: zhang2019large
 additional_links:
-  - {name: "Paper", url: 'https://arxiv.org/abs/1911.00536'}
-tags: ['Transformer', 'RAG', 'Training Techniques', 'GPT', 'Model Architecture', 'Applications', 'Pre-Training', 'Pretraining Methods']
+- name: Paper
+  url: https://arxiv.org/abs/1911.00536
+tags:
+- GPT
+- Transformer
+- Pre-Training
 ---
 We present a large, tunable neural conversational response generation model,
 DialoGPT (dialogue generative pre-trained transformer). Trained on 147M
