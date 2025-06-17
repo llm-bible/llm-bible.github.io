@@ -7,14 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 109
 bibkey: wang2020multi
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2012.15828
-tags:
-- Transformer
-- Distillation
-- BERT
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15828'}]
+tags: [Transformer, Distillation, BERT, Efficiency and Optimization]
 ---
 We generalize deep self-attention distillation in MiniLM (Wang et al., 2020)
 by only using self-attention relation distillation for task-agnostic

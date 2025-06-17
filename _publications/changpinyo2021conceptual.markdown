@@ -7,11 +7,8 @@ conference: Arxiv
 year: 2021
 citations: 350
 bibkey: changpinyo2021conceptual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2102.08981
-tags:
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.08981'}]
+tags: [Pre-Training]
 ---
 The availability of large-scale image captioning and visual question
 answering datasets has contributed significantly to recent successes in

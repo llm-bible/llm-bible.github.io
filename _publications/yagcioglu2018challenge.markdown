@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 52
 bibkey: yagcioglu2018challenge
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1809.00812
-tags:
-- Multimodal Models
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.00812'}]
+tags: [Multimodal Models]
 ---
 Understanding and reasoning about cooking recipes is a fruitful research
 direction towards enabling machines to interpret procedural text. In this work,

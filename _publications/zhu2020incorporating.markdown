@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2020
 citations: 223
 bibkey: zhu2020incorporating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.06823
-- name: Code
-  url: https://github.com/bert-nmt/bert-nmt
-tags:
-- BERT
-- Attention Mechanism
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.06823'}, {name: Code,
+    url: 'https://github.com/bert-nmt/bert-nmt'}]
+tags: [BERT, Attention Mechanism, Fine-Tuning]
 ---
 The recently proposed BERT has shown great power on a variety of natural
 language understanding tasks, such as text classification, reading

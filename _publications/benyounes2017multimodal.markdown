@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2017
 citations: 422
 bibkey: benyounes2017multimodal
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1705.06676
-tags:
-- Multimodal Models
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.06676'}]
+tags: [Multimodal Models]
 ---
 Bilinear models provide an appealing framework for mixing and merging
 information in Visual Question Answering (VQA) tasks. They help to learn high

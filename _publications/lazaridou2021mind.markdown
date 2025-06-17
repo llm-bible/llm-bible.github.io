@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 68
 bibkey: lazaridou2021mind
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2102.01951
-tags:
-- Transformer
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.01951'}]
+tags: [Transformer, Applications]
 ---
 Our world is open-ended, non-stationary, and constantly evolving; thus what
 we talk about and how we talk about it change over time. This inherent dynamic

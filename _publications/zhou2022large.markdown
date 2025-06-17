@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 189
 bibkey: zhou2022large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2211.01910
-tags:
-- Prompting
-- Few-Shot
-- In-Context Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.01910'}]
+tags: [Prompting, Few-Shot, In-Context Learning]
 ---
 By conditioning on natural language instructions, large language models
 (LLMs) have displayed impressive capabilities as general-purpose computers.

@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2017
 citations: 58
 bibkey: shao2017generating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1701.03185
-tags:
-- Transformer
-- Reinforcement Learning
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1701.03185'}]
+tags: [Transformer, Reinforcement Learning, Attention Mechanism]
 ---
 Sequence-to-sequence models have been applied to the conversation response
 generation problem where the source sequence is the conversation history and

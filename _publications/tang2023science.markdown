@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 50
 bibkey: tang2023science
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.07205
-tags:
-- Survey Paper
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.07205'}]
+tags: [Survey Paper]
 ---
 The emergence of large language models (LLMs) has resulted in the production
 of LLM-generated texts that is highly sophisticated and almost

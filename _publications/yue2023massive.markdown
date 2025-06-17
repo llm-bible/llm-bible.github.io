@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 50
 bibkey: yue2023massive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2311.16502
-tags:
-- Multimodal Models
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.16502'}]
+tags: [Multimodal Models, GPT]
 ---
 We introduce MMMU: a new benchmark designed to evaluate multimodal models on
 massive multi-discipline tasks demanding college-level subject knowledge and

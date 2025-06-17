@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 180
 bibkey: borgeaud2021improving
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2112.04426
-tags:
-- GPT
-- Transformer
-- Fine-Tuning
-- RAG
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.04426'}]
+tags: [GPT, Transformer, Fine-Tuning, RAG, Attention Mechanism]
 ---
 We enhance auto-regressive language models by conditioning on document chunks
 retrieved from a large corpus, based on local similarity with preceding tokens.

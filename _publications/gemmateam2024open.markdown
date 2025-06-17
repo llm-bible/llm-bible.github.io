@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2024
 citations: 83
 bibkey: gemmateam2024open
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2403.08295
-tags:
-- Reinforcement Learning
-- Applications
-- Pre-Training
-- Fine-Tuning
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.08295'}]
+tags: [Reinforcement Learning, Applications, Pre-Training, Fine-Tuning, Ethics and
+    Bias]
 ---
 This work introduces Gemma, a family of lightweight, state-of-the art open
 models built from the research and technology used to create Gemini models.

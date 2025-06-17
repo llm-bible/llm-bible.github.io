@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 75
 bibkey: tiedemann2020tatoeba
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2010.06354
-tags:
-- Few-Shot
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06354'}]
+tags: [Few-Shot, Tools]
 ---
 This paper describes the development of a new benchmark for machine
 translation that provides training and test data for thousands of language

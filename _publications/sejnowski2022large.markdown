@@ -6,16 +6,8 @@ conference: Neural Computation 35 309-342 (2023)
 year: 2022
 citations: 85
 bibkey: sejnowski2022large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2207.14382
-tags:
-- GPT
-- Pre-Training
-- Fine-Tuning
-- Prompting
-- Language Modeling
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.14382'}]
+tags: [GPT, Pre-Training, Fine-Tuning, Prompting, Language Modeling, Transformer]
 ---
 Large Language Models (LLMs) have been transformative. They are pre-trained
 foundational models that are self-supervised and can be adapted with fine

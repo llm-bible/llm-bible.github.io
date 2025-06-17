@@ -7,15 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 217
 bibkey: dai2023towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.06500
-- name: Code
-  url: https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
-tags:
-- Multimodal Models
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06500'}, {name: Code,
+    url: 'https://github.com/salesforce/LAVIS/tree/main/projects/instructblip'}]
+tags: [Multimodal Models, Transformer, Pre-Training]
 ---
 Large-scale pre-training and instruction tuning have been successful at
 creating general-purpose language models with broad competence. However,

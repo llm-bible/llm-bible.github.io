@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 51
 bibkey: wang2023visual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2311.03079
-- name: Code
-  url: https://github.com/THUDM/CogVLM
-tags:
-- Multimodal Models
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.03079'}, {name: Code,
+    url: 'https://github.com/THUDM/CogVLM'}]
+tags: [Multimodal Models, Attention Mechanism]
 ---
 We introduce CogVLM, a powerful open-source visual language foundation model.
 Different from the popular shallow alignment method which maps image features

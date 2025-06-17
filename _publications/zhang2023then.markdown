@@ -7,17 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 87
 bibkey: zhang2023then
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2303.02151v1
-- name: Code
-  url: https://github.com/ZrrSkywalker/CaFo
-tags:
-- Few-Shot
-- RAG
-- GPT
-- Prompting
-- Pre-Training
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.02151v1'}, {name: Code,
+    url: 'https://github.com/ZrrSkywalker/CaFo'}]
+tags: [Few-Shot, RAG, GPT, Prompting, Pre-Training]
 ---
 Visual recognition in low-data regimes requires deep neural networks to learn
 generalized representations from limited training samples. Recently, CLIP-based

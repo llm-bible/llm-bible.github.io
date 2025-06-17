@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 184
 bibkey: nakano2021browser
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2112.09332
-tags:
-- GPT
-- Reinforcement Learning
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.09332'}]
+tags: [GPT, Reinforcement Learning, Fine-Tuning]
 ---
 We fine-tune GPT-3 to answer long-form questions using a text-based
 web-browsing environment, which allows the model to search and navigate the

@@ -6,17 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 161
 bibkey: zhao2023explainability
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2309.01029
-tags:
-- Survey Paper
-- Ethics and Bias
-- Transformer
-- Interpretability and Explainability
-- Applications
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.01029'}]
+tags: [Survey Paper, Ethics and Bias, Interpretability and Explainability, Transformer,
+  Prompting, Fine-Tuning]
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 natural language processing. However, their internal mechanisms are still

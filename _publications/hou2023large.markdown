@@ -6,13 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 175
 bibkey: hou2023large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2308.10620
-- name: Code
-  url: https://github.com/xinyi-hou/LLM4SE_SLR
-tags:
-- Survey Paper
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.10620'}, {name: Code,
+    url: 'https://github.com/xinyi-hou/LLM4SE_SLR'}]
+tags: [Survey Paper, Applications]
 ---
 Large Language Models (LLMs) have significantly impacted numerous domains,
 including Software Engineering (SE). Many recent publications have explored

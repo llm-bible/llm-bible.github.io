@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 53
 bibkey: hao2022new
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2206.08358
-tags:
-- Multimodal Models
-- Pre-Training
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08358'}]
+tags: [Multimodal Models, Pre-Training, Efficiency and Optimization]
 ---
 Data augmentation is a necessity to enhance data efficiency in deep learning.
 For vision-language pre-training, data is only augmented either for images or

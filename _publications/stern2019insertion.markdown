@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 160
 bibkey: stern2019insertion
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1902.03249
-tags:
-- Transformer
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.03249'}]
+tags: [Transformer, Language Modeling]
 ---
 We present the Insertion Transformer, an iterative, partially autoregressive
 model for sequence generation based on insertion operations. Unlike typical

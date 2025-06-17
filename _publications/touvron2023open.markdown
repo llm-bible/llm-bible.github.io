@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 2718
 bibkey: touvron2023open
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.13971
-tags:
-- GPT
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13971'}]
+tags: [GPT, Transformer]
 ---
 We introduce LLaMA, a collection of foundation language models ranging from
 7B to 65B parameters. We train our models on trillions of tokens, and show that

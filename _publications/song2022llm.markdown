@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 144
 bibkey: song2022llm
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.04088
-tags:
-- Few-Shot
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.04088'}]
+tags: [Few-Shot, Agentic]
 ---
 This study focuses on using large language models (LLMs) as a planner for
 embodied agents that can follow natural language instructions to complete

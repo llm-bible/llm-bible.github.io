@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 297
 bibkey: tumanyan2022plug
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2211.12572
-tags:
-- Transformer
-- Fine-Tuning
-- Prompting
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.12572'}]
+tags: [Transformer, Fine-Tuning, Prompting, Attention Mechanism]
 ---
 Large-scale text-to-image generative models have been a revolutionary
 breakthrough in the evolution of generative AI, allowing us to synthesize

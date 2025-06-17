@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 136
 bibkey: li2022scaling
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.00794
-tags:
-- Multimodal Models
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.00794'}]
+tags: [Multimodal Models, Pre-Training]
 ---
 We present Fast Language-Image Pre-training (FLIP), a simple and more
 efficient method for training CLIP. Our method randomly masks out and removes a

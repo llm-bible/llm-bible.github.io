@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 56
 bibkey: shi2023large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.00093
-tags:
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.00093'}]
+tags: [Prompting]
 ---
 Large language models have achieved impressive performance on various natural
 language processing tasks. However, so far they have been evaluated primarily

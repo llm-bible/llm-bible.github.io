@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 274
 bibkey: dodge2020fine
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.06305
-tags:
-- BERT
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.06305'}]
+tags: [BERT, Fine-Tuning]
 ---
 Fine-tuning pretrained contextual word embedding models to supervised
 downstream tasks has become commonplace in natural language processing. This

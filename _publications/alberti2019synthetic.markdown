@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 50
 bibkey: alberti2019synthetic
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1906.05416
-tags:
-- Pre-Training
-- BERT
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.05416'}]
+tags: [Pre-Training, BERT, Fine-Tuning]
 ---
 We introduce a novel method of generating synthetic question answering
 corpora by combining models of question generation and answer extraction, and

@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Multi-granularity Self-attention For Neural Machine Translation
+authors: Jie Hao, Xing Wang, Shuming Shi, Jinfeng Zhang, Zhaopeng Tu
+conference: Arxiv
+year: 2019
+citations: 24
+bibkey: hao2019multi
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02222'}]
+tags: [Transformer, Attention Mechanism, Model Architecture]
+---
+Current state-of-the-art neural machine translation (NMT) uses a deep
+multi-head self-attention network with no explicit phrase information. However,
+prior work on statistical machine translation has shown that extending the
+basic translation unit from words to phrases has produced substantial
+improvements, suggesting the possibility of improving NMT performance from
+explicit modeling of phrases. In this work, we present multi-granularity
+self-attention (Mg-Sa): a neural network that combines multi-head
+self-attention and phrase modeling. Specifically, we train several attention
+heads to attend to phrases in either n-gram or syntactic formalism. Moreover,
+we exploit interactions among phrases to enhance the strength of structure
+modeling - a commonly-cited weakness of self-attention. Experimental results on
+WMT14 English-to-German and NIST Chinese-to-English translation tasks show the
+proposed approach consistently improves performance. Targeted linguistic
+analysis reveals that Mg-Sa indeed captures useful phrase information at
+various levels of granularities.

@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 77
 bibkey: mccarley2019structured
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1910.06360
-tags:
-- Transformer
-- BERT
-- Pruning
-- Distillation
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.06360'}]
+tags: [Transformer, BERT, Pruning, Distillation, Efficiency and Optimization]
 ---
 The recent trend in industry-setting Natural Language Processing (NLP)
 research has been to operate large %scale pretrained language models like BERT

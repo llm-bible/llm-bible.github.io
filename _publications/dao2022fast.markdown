@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 280
 bibkey: dao2022fast
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2205.14135
-tags:
-- Transformer
-- Attention Mechanism
-- BERT
-- GPT
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14135'}]
+tags: [Transformer, Attention Mechanism, BERT, GPT, Efficiency and Optimization]
 ---
 Transformers are slow and memory-hungry on long sequences, since the time and
 memory complexity of self-attention are quadratic in sequence length.

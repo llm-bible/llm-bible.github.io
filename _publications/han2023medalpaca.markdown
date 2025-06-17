@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 66
 bibkey: han2023medalpaca
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.08247
-tags:
-- GPT
-- Applications
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08247'}]
+tags: [GPT, Applications, Fine-Tuning]
 ---
 As large language models (LLMs) like OpenAI's GPT series continue to make
 strides, we witness the emergence of artificial intelligence applications in an

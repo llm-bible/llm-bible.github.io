@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 889
 bibkey: zhang2019pre
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1912.08777
-tags:
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.08777'}]
+tags: [Transformer, Pre-Training]
 ---
 Recent work pre-training Transformers with self-supervised objectives on
 large text corpora has shown great success when fine-tuned on downstream NLP

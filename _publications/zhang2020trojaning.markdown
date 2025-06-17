@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 54
 bibkey: zhang2020trojaning
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2008.00312
-tags:
-- Security
-- GPT
-- BERT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00312'}]
+tags: [Security, GPT, BERT]
 ---
 Recent years have witnessed the emergence of a new paradigm of building
 natural language processing (NLP) systems: general-purpose, pre-trained

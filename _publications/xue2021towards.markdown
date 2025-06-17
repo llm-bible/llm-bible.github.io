@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 87
 bibkey: xue2021towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2105.13626
-tags:
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.13626'}]
+tags: [Transformer, Pre-Training]
 ---
 Most widely-used pre-trained language models operate on sequences of tokens
 corresponding to word or subword units. By comparison, token-free models that

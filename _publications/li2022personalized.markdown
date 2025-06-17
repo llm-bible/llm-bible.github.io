@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 75
 bibkey: li2022personalized
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2202.07371
-tags:
-- Transformer
-- Interpretability and Explainability
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07371'}]
+tags: [Transformer, Interpretability and Explainability, Prompting]
 ---
 Providing user-understandable explanations to justify recommendations could
 help users better understand the recommended items, increase the system's ease

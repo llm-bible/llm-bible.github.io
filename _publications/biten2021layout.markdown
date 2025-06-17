@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 59
 bibkey: biten2021layout
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2112.12494
-tags:
-- Multimodal Models
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.12494'}]
+tags: [Multimodal Models, Transformer, Pre-Training]
 ---
 We propose a novel multimodal architecture for Scene Text Visual Question
 Answering (STVQA), named Layout-Aware Transformer (LaTr). The task of STVQA

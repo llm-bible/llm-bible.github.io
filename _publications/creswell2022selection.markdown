@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 94
 bibkey: creswell2022selection
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2205.09712
-tags:
-- Few-Shot
-- Fine-Tuning
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.09712'}]
+tags: [Few-Shot, Fine-Tuning, Reinforcement Learning]
 ---
 Large language models (LLMs) have been shown to be capable of impressive
 few-shot generalisation to new tasks. However, they still tend to perform

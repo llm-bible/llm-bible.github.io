@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 132
 bibkey: hao2020towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.10638
-tags:
-- Multimodal Models
-- Pre-Training
-- Fine-Tuning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.10638'}]
+tags: [Multimodal Models, Pre-Training, Fine-Tuning, Agentic]
 ---
 Learning to navigate in a visual environment following natural-language
 instructions is a challenging task, because the multimodal inputs to the agent

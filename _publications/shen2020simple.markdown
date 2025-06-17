@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 93
 bibkey: shen2020simple
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2009.13818
-tags:
-- Transformer
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.13818'}]
+tags: [Fine-Tuning, Transformer]
 ---
 Adversarial training has been shown effective at endowing the learned
 representations with stronger generalization ability. However, it typically

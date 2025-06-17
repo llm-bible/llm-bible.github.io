@@ -6,9 +6,7 @@ conference: Arxiv
 year: 2023
 citations: 53
 bibkey: ullman2023large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.08399
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.08399'}]
 tags: []
 ---
 Intuitive psychology is a pillar of common-sense reasoning. The replication

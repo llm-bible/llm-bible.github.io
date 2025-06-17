@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2016
 citations: 65
 bibkey: see2016compression
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1606.09274
-tags:
-- Pruning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.09274'}]
+tags: [Pruning, Efficiency and Optimization]
 ---
 Neural Machine Translation (NMT), like many other deep learning domains,
 typically suffers from over-parameterization, resulting in large storage sizes.

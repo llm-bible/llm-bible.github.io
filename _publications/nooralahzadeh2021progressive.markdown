@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2021
 citations: 54
 bibkey: nooralahzadeh2021progressive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2102.09777
-tags:
-- Transformer
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09777'}]
+tags: [Transformer, Tools]
 ---
 Inspired by Curriculum Learning, we propose a consecutive (i.e.,
 image-to-text-to-text) generation framework where we divide the problem of

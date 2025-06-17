@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2021
 citations: 1755
 bibkey: liu2021pre
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2107.13586v1
-tags:
-- Few-Shot
-- Prompting
-- Survey Paper
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2107.13586v1'}]
+tags: [Few-Shot, Prompting, Survey Paper]
 ---
 This paper surveys and organizes research works in a new paradigm in natural
 language processing, which we dub "prompt-based learning". Unlike traditional

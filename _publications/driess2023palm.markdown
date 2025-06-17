@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 286
 bibkey: driess2023palm
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.03378
-tags:
-- Multimodal Models
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.03378'}]
+tags: [Multimodal Models, Reinforcement Learning]
 ---
 Large language models excel at a wide range of complex tasks. However,
 enabling general inference in the real world, e.g., for robotics problems,

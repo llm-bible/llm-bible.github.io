@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2020
 citations: 158
 bibkey: roberts2020how
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2002.08910v4
-- name: Code
-  url: https://goo.gle/t5-cbqa
-tags:
-- Fine-Tuning
-- Pre-Training
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2002.08910v4'}, {name: Code,
+    url: 'https://goo.gle/t5-cbqa'}]
+tags: [Fine-Tuning, Pre-Training]
 ---
 It has recently been observed that neural language models trained on
 unstructured text can implicitly store and retrieve knowledge using natural

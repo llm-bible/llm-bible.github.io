@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 51
 bibkey: khoury2023how
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.09655
-tags:
-- GPT
-- Security
-- Prompting
-- Responsible AI
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09655'}]
+tags: [GPT, Security, Prompting, Responsible AI]
 ---
 In recent years, large language models have been responsible for great
 advances in the field of artificial intelligence (AI). ChatGPT in particular,

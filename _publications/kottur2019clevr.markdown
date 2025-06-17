@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 52
 bibkey: kottur2019clevr
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1903.03166
-tags:
-- Multimodal Models
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.03166'}]
+tags: [Multimodal Models]
 ---
 Visual Dialog is a multimodal task of answering a sequence of questions
 grounded in an image, using the conversation history as context. It entails

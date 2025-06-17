@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 514
 bibkey: guu2020retrieval
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.08909
-tags:
-- RAG
-- Pre-Training
-- Fine-Tuning
-- BERT
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.08909'}]
+tags: [RAG, Pre-Training, Fine-Tuning, BERT, Language Modeling]
 ---
 Language model pre-training has been shown to capture a surprising amount of
 world knowledge, crucial for NLP tasks such as question answering. However,

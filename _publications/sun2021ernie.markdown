@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2021
 citations: 163
 bibkey: sun2021ernie
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2107.02137
-tags:
-- Pre-Training
-- Few-Shot
-- Fine-Tuning
-- GPT
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.02137'}]
+tags: [Pre-Training, Few-Shot, Fine-Tuning, GPT, Transformer]
 ---
 Pre-trained models have achieved state-of-the-art results in various Natural
 Language Processing (NLP) tasks. Recent works such as T5 and GPT-3 have shown

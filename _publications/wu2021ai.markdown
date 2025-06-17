@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2021
 citations: 249
 bibkey: wu2021ai
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2110.01691
-tags:
-- Ethics and Bias
-- Applications
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.01691'}]
+tags: [Ethics and Bias, Applications, Prompting]
 ---
 Although large language models (LLMs) have demonstrated impressive potential
 on simple tasks, their breadth of scope, lack of transparency, and insufficient

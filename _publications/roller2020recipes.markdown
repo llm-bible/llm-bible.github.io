@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 206
 bibkey: roller2020recipes
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.13637
-tags:
-- Training Techniques
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.13637'}]
+tags: [Training Techniques]
 ---
 Building open-domain chatbots is a challenging area for machine learning
 research. While prior work has shown that scaling neural models in the number

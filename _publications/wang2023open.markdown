@@ -6,18 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 131
 bibkey: wang2023open
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.16291
-- name: Code
-  url: https://voyager.minedojo.org/
-tags:
-- GPT
-- Reinforcement Learning
-- Prompting
-- Agentic
-- Tools
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.16291'}, {name: Code,
+    url: 'https://voyager.minedojo.org/'}]
+tags: [GPT, Reinforcement Learning, Prompting, Agentic, Tools]
 ---
 We introduce Voyager, the first LLM-powered embodied lifelong learning agent
 in Minecraft that continuously explores the world, acquires diverse skills, and

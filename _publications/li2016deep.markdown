@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2016
 citations: 439
 bibkey: li2016deep
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1606.01541
-tags:
-- Reinforcement Learning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.01541'}]
+tags: [Reinforcement Learning, Agentic]
 ---
 Recent neural models of dialogue generation offer great promise for
 generating responses for conversational agents, but tend to be shortsighted,

@@ -7,14 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 269
 bibkey: cao2023comprehensive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.04226
-tags:
-- GPT
-- Multimodal Models
-- Survey Paper
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.04226'}]
+tags: [GPT, Multimodal Models, Survey Paper, Attention Mechanism]
 ---
 Recently, ChatGPT, along with DALL-E-2 and Codex,has been gaining significant
 attention from society. As a result, many individuals have become interested in

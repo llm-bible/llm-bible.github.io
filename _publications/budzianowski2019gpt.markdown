@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2019
 citations: 117
 bibkey: budzianowski2019gpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1907.05774
-tags:
-- GPT
-- Pre-Training
-- Fine-Tuning
-- Language Modeling
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.05774'}]
+tags: [GPT, Pre-Training, Fine-Tuning, Language Modeling, Agentic]
 ---
 Data scarcity is a long-standing and crucial challenge that hinders quick
 development of task-oriented dialogue systems across multiple domains:

@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 400
 bibkey: li2022competition
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2203.07814v1
-tags:
-- Transformer
-- Applications
-- Reinforcement Learning
-- Pre-Training
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2203.07814v1'}]
+tags: [Transformer, Applications, Reinforcement Learning, Pre-Training]
 ---
 Programming is a powerful and ubiquitous problem-solving tool. Developing
 systems that can assist programmers or even generate programs independently

@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 54
 bibkey: zan2022large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.09420
-- name: Code
-  url: https://nl2code.github.io
-tags:
-- Survey Paper
-- Pre-Training
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09420'}, {name: Code,
+    url: 'https://nl2code.github.io'}]
+tags: [Survey Paper, Pre-Training, Applications]
 ---
 The task of generating code from a natural language description, or NL2Code,
 is considered a pressing and significant challenge in code intelligence. Thanks

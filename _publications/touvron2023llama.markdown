@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 1714
 bibkey: touvron2023llama
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2307.09288
-tags:
-- Fine-Tuning
-- Applications
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.09288'}]
+tags: [Fine-Tuning, Applications, Ethics and Bias]
 ---
 In this work, we develop and release Llama 2, a collection of pretrained and
 fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70

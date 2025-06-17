@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 77
 bibkey: lewis2019evaluating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1910.07475
-tags:
-- RAG
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.07475'}]
+tags: [RAG]
 ---
 Question answering (QA) models have shown rapid progress enabled by the
 availability of large, high-quality benchmark datasets. Such annotated datasets

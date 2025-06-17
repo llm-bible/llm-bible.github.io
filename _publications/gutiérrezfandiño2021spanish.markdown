@@ -6,14 +6,8 @@ conference: Procesamiento del Lenguaje Natural v. 68 p. 39-60 mar. 2022. ISSN 19
 year: 2021
 citations: 56
 bibkey: "guti\xE9rrezfandi\xF1o2021spanish"
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2107.07253
-tags:
-- GPT
-- BERT
-- Pre-Training
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.07253'}]
+tags: [GPT, BERT, Pre-Training, Tools]
 ---
 This work presents MarIA, a family of Spanish language models and associated
 resources made available to the industry and the research community. Currently,

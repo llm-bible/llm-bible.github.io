@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 56
 bibkey: press2022measuring
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.03350
-tags:
-- GPT
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03350'}]
+tags: [GPT, Prompting]
 ---
 We investigate the ability of language models to perform compositional
 reasoning tasks where the overall solution depends on correctly composing the

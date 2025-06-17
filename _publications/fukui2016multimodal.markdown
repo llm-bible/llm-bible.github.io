@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2016
 citations: 875
 bibkey: fukui2016multimodal
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1606.01847
-tags:
-- Multimodal Models
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.01847'}]
+tags: [Multimodal Models, Attention Mechanism]
 ---
 Modeling textual or visual information with vector representations trained
 from large language or visual datasets has been successfully explored in recent

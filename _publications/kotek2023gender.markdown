@@ -7,13 +7,8 @@ conference: In Collective Intelligence Conference (CI 23) November 06-09 2023 De
 year: 2023
 citations: 127
 bibkey: kotek2023gender
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2308.14921
-tags:
-- Ethics and Bias
-- Prompting
-- Interpretability and Explainability
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14921'}]
+tags: [Ethics and Bias, Prompting, Interpretability and Explainability]
 ---
 Large Language Models (LLMs) have made substantial progress in the past
 several months, shattering state-of-the-art benchmarks in many domains. This

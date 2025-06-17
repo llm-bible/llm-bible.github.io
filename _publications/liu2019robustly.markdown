@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 15780
 bibkey: liu2019robustly
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1907.11692
-tags:
-- Pre-Training
-- BERT
-- Model Architecture
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.11692'}]
+tags: [Pre-Training, BERT, Model Architecture]
 ---
 Language model pretraining has led to significant performance gains but
 careful comparison between different approaches is challenging. Training is

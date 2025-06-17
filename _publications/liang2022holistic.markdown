@@ -6,14 +6,8 @@ conference: Published in Transactions on Machine Learning Research (TMLR) 2023
 year: 2022
 citations: 69
 bibkey: liang2022holistic
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2211.09110v2
-tags:
-- Applications
-- Fairness
-- Ethics and Bias
-- Interpretability
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2211.09110v2'}]
+tags: [Applications, Fairness, Ethics and Bias, Interpretability]
 ---
 Language models (LMs) are becoming the foundation for almost all major
 language technologies, but their capabilities, limitations, and risks are not

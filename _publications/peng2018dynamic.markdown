@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2018
 citations: 233
 bibkey: peng2018dynamic
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1812.05252
-tags:
-- Multimodal Models
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.05252'}]
+tags: [Multimodal Models, Attention Mechanism]
 ---
 Learning effective fusion of multi-modality features is at the heart of
 visual question answering. We propose a novel method of dynamically fusing

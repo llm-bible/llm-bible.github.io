@@ -7,14 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 119
 bibkey: peng2023check
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.12813
-tags:
-- GPT
-- Reinforcement Learning
-- Applications
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12813'}]
+tags: [GPT, Reinforcement Learning, Applications, Prompting]
 ---
 Large language models (LLMs), such as ChatGPT, are able to generate
 human-like, fluent responses for many downstream tasks, e.g., task-oriented

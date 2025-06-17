@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 356
 bibkey: bang2023multimodal
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.04023
-tags:
-- GPT
-- Multimodal Models
-- Reinforcement Learning
-- RAG
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.04023'}]
+tags: [GPT, Multimodal Models, Reinforcement Learning, RAG, Prompting]
 ---
 This paper proposes a framework for quantitatively evaluating interactive
 LLMs such as ChatGPT using publicly available data sets. We carry out an

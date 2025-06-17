@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 115
 bibkey: muennighoff2022crosslingual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2211.01786
-- name: Code
-  url: https://github.com/bigscience-workshop/xmtf
-tags:
-- Fine-Tuning
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.01786'}, {name: Code,
+    url: 'https://github.com/bigscience-workshop/xmtf'}]
+tags: [Fine-Tuning, Prompting]
 ---
 Multitask prompted finetuning (MTF) has been shown to help large language
 models generalize to new tasks in a zero-shot setting, but so far explorations

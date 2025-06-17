@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 767
 bibkey: alayrac2022visual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.14198
-tags:
-- Multimodal Models
-- Few-Shot
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.14198'}]
+tags: [Multimodal Models, Few-Shot, Prompting]
 ---
 Building models that can be rapidly adapted to novel tasks using only a
 handful of annotated examples is an open challenge for multimodal machine

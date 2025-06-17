@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2024
 citations: 69
 bibkey: gholami2024ai
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2403.14123
-tags:
-- Scaling Laws
-- Transformer
-- Reinforcement Learning
-- Applications
-- Efficiency and Optimization
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.14123'}]
+tags: [Scaling Laws, Transformer, Reinforcement Learning, Applications, Efficiency
+    and Optimization, Pre-Training]
 ---
 The availability of unprecedented unsupervised training data, along with
 neural scaling laws, has resulted in an unprecedented surge in model size and

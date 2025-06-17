@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 171
 bibkey: bao2020pseudo
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.12804
-tags:
-- Pre-Training
-- Transformer
-- Language Modeling
-- BERT
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.12804'}]
+tags: [Pre-Training, Transformer, Language Modeling, BERT, GPT]
 ---
 We propose to pre-train a unified language model for both autoencoding and
 partially autoregressive language modeling tasks using a novel training

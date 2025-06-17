@@ -6,19 +6,10 @@ conference: Arxiv
 year: 2020
 citations: 121
 bibkey: wu2020lite
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.11886
-- name: Code
-  url: https://github.com/mit-han-lab/lite-transformer
-tags:
-- Transformer
-- Efficiency and Optimization
-- Pruning
-- Quantization
-- Language Modeling
-- Attention Mechanism
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.11886'}, {name: Code,
+    url: 'https://github.com/mit-han-lab/lite-transformer'}]
+tags: [Transformer, Efficiency and Optimization, Pruning, Quantization, Language Modeling,
+  Applications, Attention Mechanism]
 ---
 Transformer has become ubiquitous in natural language processing (e.g.,
 machine translation, question answering); however, it requires enormous amount

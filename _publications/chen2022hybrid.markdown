@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 99
 bibkey: chen2022hybrid
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2205.02357
-- name: Code
-  url: https://github.com/zjunlp/MKGformer
-tags:
-- Multimodal Models
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.02357'}, {name: Code,
+    url: 'https://github.com/zjunlp/MKGformer'}]
+tags: [Multimodal Models, Transformer]
 ---
 Multimodal Knowledge Graphs (MKGs), which organize visual-text factual
 knowledge, have recently been successfully applied to tasks such as information

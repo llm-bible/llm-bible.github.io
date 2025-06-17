@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 171
 bibkey: wang2022complementary
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.04799
-- name: Code
-  url: https://github.com/google-research/l2p
-tags:
-- Reinforcement Learning
-- Prompting
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.04799'}, {name: Code,
+    url: 'https://github.com/google-research/l2p'}]
+tags: [Reinforcement Learning, Prompting, Tools]
 ---
 Continual learning aims to enable a single model to learn a sequence of tasks
 without catastrophic forgetting. Top-performing methods usually require a

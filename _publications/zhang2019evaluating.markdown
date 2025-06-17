@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 1941
 bibkey: zhang2019evaluating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1904.09675
-tags:
-- Language Modeling
-- BERT
-- Security
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.09675'}]
+tags: [Language Modeling, BERT, Security]
 ---
 We propose BERTScore, an automatic evaluation metric for text generation.
 Analogously to common metrics, BERTScore computes a similarity score for each

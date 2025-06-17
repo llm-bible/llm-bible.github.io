@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 61
 bibkey: vanaken2019how
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1909.04925
-tags:
-- Transformer
-- BERT
-- Fine-Tuning
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04925'}]
+tags: [Transformer, BERT, Fine-Tuning, Attention Mechanism]
 ---
 Bidirectional Encoder Representations from Transformers (BERT) reach
 state-of-the-art results in a variety of Natural Language Processing tasks.

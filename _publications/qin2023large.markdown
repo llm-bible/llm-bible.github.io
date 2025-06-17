@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 52
 bibkey: qin2023large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.17563
-tags:
-- GPT
-- RAG
-- Prompting
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17563'}]
+tags: [GPT, RAG, Prompting, Efficiency and Optimization]
 ---
 Ranking documents using Large Language Models (LLMs) by directly feeding the
 query and candidate documents into the prompt is an interesting and practical

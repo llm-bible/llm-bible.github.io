@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 102
 bibkey: yin2023survey
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.13549
-- name: Code
-  url: https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
-tags:
-- Multimodal Models
-- Survey Paper
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.13549'}, {name: Code,
+    url: 'https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models'}]
+tags: [Multimodal Models, Survey Paper, GPT]
 ---
 Recently, Multimodal Large Language Model (MLLM) represented by GPT-4V has
 been a new rising research hotspot, which uses powerful Large Language Models

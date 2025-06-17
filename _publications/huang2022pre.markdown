@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 229
 bibkey: huang2022pre
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.08387
-- name: Code
-  url: https://aka.ms/layoutlmv3
-tags:
-- Multimodal Models
-- Transformer
-- Pre-Training
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.08387'}, {name: Code,
+    url: 'https://aka.ms/layoutlmv3'}]
+tags: [Multimodal Models, Transformer, Pre-Training, Language Modeling]
 ---
 Self-supervised pre-training techniques have achieved remarkable progress in
 Document AI. Most multimodal pre-trained models use a masked language modeling

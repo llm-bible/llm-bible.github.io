@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 244
 bibkey: rashkin2018towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1811.00207
-tags:
-- RAG
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.00207'}]
+tags: [RAG, Agentic]
 ---
 One challenge for dialogue agents is recognizing feelings in the conversation
 partner and replying accordingly, a key communicative skill. While it is

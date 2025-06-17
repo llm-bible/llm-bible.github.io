@@ -6,16 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 1022
 bibkey: xin2023survey
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2303.18223v13
-tags:
-- Survey Paper
-- Language Modeling
-- Pre-Training
-- Transformer
-- Scaling Laws
-- GPT
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.18223v13'}]
+tags: [Survey Paper, Language Modeling, Pre-Training, Scaling Laws, Transformer, GPT]
 ---
 Language is essentially a complex, intricate system of human expressions
 governed by grammatical rules. It poses a significant challenge to develop

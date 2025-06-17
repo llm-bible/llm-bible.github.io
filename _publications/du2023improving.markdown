@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 52
 bibkey: du2023improving
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.14325
-tags:
-- Prompting
-- Few-Shot
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14325'}]
+tags: [Prompting, Few-Shot, Agentic]
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 language generation, understanding, and few-shot learning in recent years. An

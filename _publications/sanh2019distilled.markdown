@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2019
 citations: 4289
 bibkey: sanh2019distilled
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1910.01108
-tags:
-- Distillation
-- BERT
-- Language Modeling
-- Efficiency and Optimization
-- Pre-Training
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.01108'}]
+tags: [Distillation, BERT, Language Modeling, Pre-Training, Fine-Tuning, Efficiency
+    and Optimization]
 ---
 As Transfer Learning from large-scale pre-trained models becomes more
 prevalent in Natural Language Processing (NLP), operating these large models in

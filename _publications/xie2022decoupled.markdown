@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 75
 bibkey: xie2022decoupled
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.11046
-- name: Code
-  url: https://github.com/AIM-SE/DIF-SR
-tags:
-- Transformer
-- Reinforcement Learning
-- RAG
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.11046'}, {name: Code,
+    url: 'https://github.com/AIM-SE/DIF-SR'}]
+tags: [Transformer, Reinforcement Learning, RAG, Attention Mechanism]
 ---
 Side information fusion for sequential recommendation (SR) aims to
 effectively leverage various side information to enhance the performance of

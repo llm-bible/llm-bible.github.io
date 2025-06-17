@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 81
 bibkey: baevski2019cloze
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1903.07785
-tags:
-- Pre-Training
-- Transformer
-- BERT
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.07785'}]
+tags: [Pre-Training, Transformer, BERT, Attention Mechanism]
 ---
 We present a new approach for pretraining a bi-directional transformer model
 that provides significant performance gains across a variety of language

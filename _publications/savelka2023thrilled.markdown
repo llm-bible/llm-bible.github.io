@@ -8,13 +8,8 @@ conference: ICER 23 Proceedings of the 2023 ACM Conference on International Comp
 year: 2023
 citations: 78
 bibkey: savelka2023thrilled
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.10073
-tags:
-- GPT
-- Reinforcement Learning
-- Interpretability and Explainability
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.10073'}]
+tags: [GPT, Reinforcement Learning, Interpretability and Explainability]
 ---
 This paper studies recent developments in large language models' (LLM)
 abilities to pass assessments in introductory and intermediate Python

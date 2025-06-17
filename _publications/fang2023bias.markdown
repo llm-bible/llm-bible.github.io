@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 51
 bibkey: fang2023bias
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2309.09825
-tags:
-- GPT
-- Ethics and Bias
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09825'}]
+tags: [GPT, Ethics and Bias, Prompting]
 ---
 Large language models (LLMs) have the potential to transform our lives and
 work through the content they generate, known as AI-Generated Content (AIGC).

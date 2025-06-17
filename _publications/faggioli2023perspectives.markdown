@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 58
 bibkey: faggioli2023perspectives
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.09161
-tags:
-- Reinforcement Learning
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09161'}]
+tags: [Reinforcement Learning, GPT]
 ---
 When asked, large language models (LLMs) like ChatGPT claim that they can
 assist with relevance judgments but it is not clear whether automated judgments

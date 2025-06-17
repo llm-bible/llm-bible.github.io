@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 66
 bibkey: hao2019visualizing
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1908.05620
-tags:
-- BERT
-- Pre-Training
-- Fine-Tuning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.05620'}]
+tags: [BERT, Pre-Training, Fine-Tuning, Efficiency and Optimization]
 ---
 Language model pre-training, such as BERT, has achieved remarkable results in
 many NLP tasks. However, it is unclear why the pre-training-then-fine-tuning

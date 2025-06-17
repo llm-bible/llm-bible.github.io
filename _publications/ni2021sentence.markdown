@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2021
 citations: 117
 bibkey: ni2021sentence
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2108.08877
-- name: Code
-  url: https://tfhub.dev/google/collections/sentence-t5/1
-tags:
-- Transformer
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.08877'}, {name: Code,
+    url: 'https://tfhub.dev/google/collections/sentence-t5/1'}]
+tags: [Transformer, Fine-Tuning, BERT]
 ---
 We provide the first exploration of sentence embeddings from text-to-text
 transformers (T5). Sentence embeddings are broadly useful for language

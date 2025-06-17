@@ -7,14 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 106
 bibkey: greshake2023not
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.12173
-tags:
-- GPT
-- Applications
-- Prompting
-- Security
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12173'}]
+tags: [Security, Applications, Prompting, GPT]
 ---
 Large Language Models (LLMs) are increasingly being integrated into various
 applications. The functionalities of recent LLMs can be flexibly modulated via

@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 161
 bibkey: webb2022emergent
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.09196
-tags:
-- GPT
-- Language Modeling
-- Few-Shot
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09196'}]
+tags: [GPT, Language Modeling, Few-Shot]
 ---
 The recent advent of large language models has reinvigorated debate over
 whether human cognitive capacities might emerge in such generic models given

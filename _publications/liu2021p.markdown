@@ -7,15 +7,9 @@ conference: Arxiv
 year: 2021
 citations: 246
 bibkey: liu2021p
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2110.07602v3
-- name: Code
-  url: https://github.com/THUDM/P-tuning-v2
-tags:
-- Fine-Tuning
-- Prompting
-- Pre-Training
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2110.07602v3'}, {name: Code,
+    url: 'https://github.com/THUDM/P-tuning-v2'}]
+tags: [Fine-Tuning, Prompting, Pre-Training]
 ---
 Prompt tuning, which only tunes continuous prompts with a frozen language
 model, substantially reduces per-task storage and memory usage at training.

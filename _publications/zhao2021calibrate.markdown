@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 338
 bibkey: zhao2021calibrate
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2102.09690
-tags:
-- GPT
-- Few-Shot
-- Prompting
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09690'}]
+tags: [GPT, Few-Shot, Prompting, Pre-Training]
 ---
 GPT-3 can perform numerous tasks when provided a natural language prompt that
 contains a few training examples. We show that this type of few-shot learning

@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2022
 citations: 145
 bibkey: ni2022expanding
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2208.02816
-- name: Code
-  url: https://aka.ms/X-CLIP
-tags:
-- Transformer
-- Few-Shot
-- Prompting
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.02816'}, {name: Code,
+    url: 'https://aka.ms/X-CLIP'}]
+tags: [Transformer, Few-Shot, Prompting, Attention Mechanism]
 ---
 Contrastive language-image pretraining has shown great success in learning
 visual-textual joint representation from web-scale data, demonstrating

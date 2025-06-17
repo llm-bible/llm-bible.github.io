@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 128
 bibkey: zeyer2018improved
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1805.03294
-tags:
-- Attention Mechanism
-- Pre-Training
-- Model Architecture
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.03294'}]
+tags: [Attention Mechanism, Pre-Training, Model Architecture]
 ---
 Sequence-to-sequence attention-based models on subword units allow simple
 open-vocabulary end-to-end speech recognition. In this work, we show that such

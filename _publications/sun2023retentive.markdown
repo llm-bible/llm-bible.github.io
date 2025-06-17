@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 70
 bibkey: sun2023retentive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2307.08621
-- name: Code
-  url: https://aka.ms/retnet
-tags:
-- Transformer
-- Language Modeling
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08621'}, {name: Code,
+    url: 'https://aka.ms/retnet'}]
+tags: [Transformer, Language Modeling, Reinforcement Learning]
 ---
 In this work, we propose Retentive Network (RetNet) as a foundation
 architecture for large language models, simultaneously achieving training

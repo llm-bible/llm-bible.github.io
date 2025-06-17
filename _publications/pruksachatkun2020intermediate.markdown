@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 56
 bibkey: pruksachatkun2020intermediate
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2005.00628
-tags:
-- Fine-Tuning
-- BERT
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00628'}]
+tags: [Fine-Tuning, BERT, Reinforcement Learning]
 ---
 While pretrained models such as BERT have shown large gains across natural
 language understanding tasks, their performance can be improved by further

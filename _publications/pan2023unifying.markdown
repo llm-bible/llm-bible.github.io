@@ -6,15 +6,9 @@ conference: IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024
 year: 2023
 citations: 354
 bibkey: pan2023unifying
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.08302
-tags:
-- Survey Paper
-- RAG
-- Interpretability and Explainability
-- Pre-Training
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.08302'}]
+tags: [Survey Paper, RAG, Interpretability and Explainability, Pre-Training, Language
+    Modeling]
 ---
 Large language models (LLMs), such as ChatGPT and GPT4, are making new waves
 in the field of natural language processing and artificial intelligence, due to

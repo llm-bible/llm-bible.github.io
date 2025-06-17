@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 52
 bibkey: maruf2019selective
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1903.08788
-tags:
-- Transformer
-- Attention Mechanism
-- Model Architecture
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.08788'}]
+tags: [Transformer, Attention Mechanism]
 ---
 Despite the progress made in sentence-level NMT, current systems still fall
 short at achieving fluent, good quality translation for a full document. Recent

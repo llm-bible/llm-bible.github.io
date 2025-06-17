@@ -7,17 +7,9 @@ conference: Arxiv
 year: 2021
 citations: 574
 bibkey: min2021recent
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2111.01243
-tags:
-- Survey Paper
-- Transformer
-- BERT
-- Prompting
-- Language Modeling
-- Pre-Training
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.01243'}]
+tags: [Survey Paper, Transformer, BERT, Prompting, Language Modeling, Pre-Training,
+  Fine-Tuning]
 ---
 Large, pre-trained transformer-based language models such as BERT have
 drastically changed the Natural Language Processing (NLP) field. We present a

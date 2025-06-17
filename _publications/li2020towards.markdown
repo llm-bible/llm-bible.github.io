@@ -7,14 +7,9 @@ conference: Arxiv
 year: 2020
 citations: 134
 bibkey: li2020towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2012.15409
-- name: Code
-  url: https://unimo-ptm.github.io/
-tags:
-- Multimodal Models
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15409'}, {name: Code,
+    url: 'https://unimo-ptm.github.io/'}]
+tags: [Multimodal Models, Pre-Training]
 ---
 Existed pre-training methods either focus on single-modal tasks or
 multi-modal tasks, and cannot effectively adapt to each other. They can only

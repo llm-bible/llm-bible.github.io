@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 164
 bibkey: yao2021fine
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2111.07783
-tags:
-- Multimodal Models
-- Transformer
-- RAG
-- Pre-Training
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.07783'}]
+tags: [Multimodal Models, Transformer, RAG, Pre-Training, Efficiency and Optimization]
 ---
 Unsupervised large-scale vision-language pre-training has shown promising
 advances on various downstream tasks. Existing methods often model the

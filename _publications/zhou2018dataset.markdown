@@ -7,11 +7,8 @@ conference: Conference on Empirical Methods in Natural Language Processing (EMNL
 year: 2018
 citations: 63
 bibkey: zhou2018dataset
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1809.07358
-tags:
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.07358'}]
+tags: [RAG]
 ---
 This paper introduces a document grounded dataset for text conversations. We
 define "Document Grounded Conversations" as conversations that are about the

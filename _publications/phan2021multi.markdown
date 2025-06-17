@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 59
 bibkey: phan2021multi
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2105.08645
-tags:
-- Transformer
-- Pre-Training
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.08645'}]
+tags: [Transformer, Pre-Training, Applications]
 ---
 We present CoTexT, a pre-trained, transformer-based encoder-decoder model
 that learns the representative context between natural language (NL) and

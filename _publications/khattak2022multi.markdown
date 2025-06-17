@@ -7,15 +7,9 @@ conference: Arxiv
 year: 2022
 citations: 305
 bibkey: khattak2022multi
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.03117
-- name: Code
-  url: https://github.com/muzairkhattak/multimodal-prompt-learning
-tags:
-- Multimodal Models
-- Prompting
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03117'}, {name: Code,
+    url: 'https://github.com/muzairkhattak/multimodal-prompt-learning'}]
+tags: [Multimodal Models, Prompting, Reinforcement Learning]
 ---
 Pre-trained vision-language (V-L) models such as CLIP have shown excellent
 generalization ability to downstream tasks. However, they are sensitive to the

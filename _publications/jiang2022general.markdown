@@ -6,18 +6,10 @@ conference: Arxiv
 year: 2022
 citations: 50
 bibkey: jiang2022general
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.03094
-- name: Code
-  url: https://vimalabs.github.io/
-tags:
-- Multimodal Models
-- Transformer
-- Reinforcement Learning
-- Prompting
-- Agentic
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03094'}, {name: Code,
+    url: 'https://vimalabs.github.io/'}]
+tags: [Multimodal Models, Transformer, Reinforcement Learning, Prompting, Agentic,
+  Efficiency and Optimization]
 ---
 Prompt-based learning has emerged as a successful paradigm in natural
 language processing, where a single general-purpose language model can be

@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 696
 bibkey: wei2021finetuned
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2109.01652
-tags:
-- GPT
-- Few-Shot
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.01652'}]
+tags: [Few-Shot, Fine-Tuning, GPT]
 ---
 This paper explores a simple method for improving the zero-shot learning
 abilities of language models. We show that instruction tuning -- finetuning

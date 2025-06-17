@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 57
 bibkey: kuzman2023beginning
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.03953
-tags:
-- GPT
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.03953'}]
+tags: [GPT, Prompting, BERT]
 ---
 ChatGPT has shown strong capabilities in natural language generation tasks,
 which naturally leads researchers to explore where its abilities end. In this

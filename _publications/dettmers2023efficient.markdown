@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 338
 bibkey: dettmers2023efficient
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.14314
-tags:
-- Fine-Tuning
-- Quantization
-- Efficiency and Optimization
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14314'}]
+tags: [Fine-Tuning, Quantization, Efficiency and Optimization, GPT]
 ---
 We present QLoRA, an efficient finetuning approach that reduces memory usage
 enough to finetune a 65B parameter model on a single 48GB GPU while preserving

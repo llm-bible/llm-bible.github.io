@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 54
 bibkey: chen2022code
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2207.10397
-tags:
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.10397'}]
+tags: [RAG]
 ---
 The task of generating code solutions for a given programming problem can
 benefit from the use of pre-trained language models such as Codex, which can

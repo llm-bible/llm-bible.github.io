@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 495
 bibkey: shin2020eliciting
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2010.15980
-tags:
-- Prompting
-- Masked Language Model
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.15980'}]
+tags: [Prompting, Masked Language Model]
 ---
 The remarkable success of pretrained language models has motivated the study
 of what kinds of knowledge these models learn during pretraining. Reformulating

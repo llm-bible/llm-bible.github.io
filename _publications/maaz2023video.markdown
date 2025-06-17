@@ -7,16 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 71
 bibkey: maaz2023video
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.05424
-- name: Code
-  url: https://github.com/mbzuai-oryx/Video-ChatGPT
-tags:
-- GPT
-- Multimodal Models
-- Tools
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05424'}, {name: Code,
+    url: 'https://github.com/mbzuai-oryx/Video-ChatGPT'}]
+tags: [GPT, Multimodal Models, Tools, Agentic]
 ---
 Conversation agents fueled by Large Language Models (LLMs) are providing a
 new way to interact with visual data. While there have been initial attempts

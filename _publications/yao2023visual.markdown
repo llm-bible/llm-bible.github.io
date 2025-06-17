@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 76
 bibkey: yao2023visual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.13283
-tags:
-- Prompting
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13283'}]
+tags: [Prompting, Efficiency and Optimization]
 ---
 Prompt tuning is an effective way to adapt the pre-trained visual-language
 model (VLM) to the downstream task using task-related textual tokens.

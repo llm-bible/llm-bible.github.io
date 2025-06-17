@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 491
 bibkey: xue2020massively
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2010.11934
-tags:
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.11934'}]
+tags: [Transformer, Pre-Training]
 ---
 The recent "Text-to-Text Transfer Transformer" (T5) leveraged a unified
 text-to-text format and scale to attain state-of-the-art results on a wide

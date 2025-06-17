@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2016
 citations: 148
 bibkey: firat2016multi
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1601.01073
-tags:
-- Transformer
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1601.01073'}]
+tags: [Transformer, Attention Mechanism]
 ---
 We propose multi-way, multilingual neural machine translation. The proposed
 approach enables a single neural translation model to translate between

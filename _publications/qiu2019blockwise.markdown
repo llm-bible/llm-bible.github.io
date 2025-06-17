@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 67
 bibkey: qiu2019blockwise
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1911.02972
-tags:
-- Transformer
-- BERT
-- Pre-Training
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.02972'}]
+tags: [Transformer, BERT, Pre-Training, Attention Mechanism]
 ---
 We present BlockBERT, a lightweight and efficient BERT model for better
 modeling long-distance dependencies. Our model extends BERT by introducing

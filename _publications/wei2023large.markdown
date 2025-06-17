@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 65
 bibkey: wei2023large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2311.00423
-- name: Code
-  url: https://github.com/HKUDS/LLMRec.git
-tags:
-- Reinforcement Learning
-- RAG
-- Tools
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.00423'}, {name: Code,
+    url: 'https://github.com/HKUDS/LLMRec.git'}]
+tags: [Reinforcement Learning, RAG, Tools, Efficiency and Optimization]
 ---
 The problem of data sparsity has long been a challenge in recommendation
 systems, and previous studies have attempted to address this issue by

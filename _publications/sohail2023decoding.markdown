@@ -7,14 +7,8 @@ conference: Journal of King Saud University - Computer and Information Science 2
 year: 2023
 citations: 95
 bibkey: sohail2023decoding
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2307.14107
-tags:
-- GPT
-- Survey Paper
-- Applications
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.14107'}]
+tags: [GPT, Survey Paper, Applications, Ethics and Bias]
 ---
 Chat Generative Pre-trained Transformer (ChatGPT) has gained significant
 interest and attention since its launch in November 2022. It has shown

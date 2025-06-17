@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 105
 bibkey: bran2023augmenting
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.05376
-tags:
-- GPT
-- Applications
-- Tools
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05376'}]
+tags: [GPT, Reinforcement Learning, Applications, Tools, Agentic]
 ---
 Over the last decades, excellent computational chemistry tools have been
 developed. Integrating them into a single platform with enhanced accessibility

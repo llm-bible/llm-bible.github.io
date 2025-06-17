@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 8024
 bibkey: raffel2019exploring
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/1910.10683v4
-tags:
-- Transformer
-- Fine-Tuning
-- Pre-Training
-- Applications
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/1910.10683v4'}]
+tags: [Transformer, Fine-Tuning, Pre-Training, Applications]
 ---
 Transfer learning, where a model is first pre-trained on a data-rich task
 before being fine-tuned on a downstream task, has emerged as a powerful

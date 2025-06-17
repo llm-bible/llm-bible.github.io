@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 123
 bibkey: sun2022investigating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2202.04903
-tags:
-- Interpretability and Explainability
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04903'}]
+tags: [Interpretability and Explainability, Applications]
 ---
 What does it mean for a generative AI model to be explainable? The emergent
 discipline of explainable AI (XAI) has made great strides in helping people

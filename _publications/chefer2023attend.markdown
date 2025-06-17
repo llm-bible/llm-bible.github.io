@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 211
 bibkey: chefer2023attend
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2301.13826
-tags:
-- RAG
-- Prompting
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.13826'}]
+tags: [RAG, Prompting, Attention Mechanism]
 ---
 Recent text-to-image generative models have demonstrated an unparalleled
 ability to generate diverse and creative imagery guided by a target text

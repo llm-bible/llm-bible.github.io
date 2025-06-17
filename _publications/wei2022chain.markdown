@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 2365
 bibkey: wei2022chain
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2201.11903
-tags:
-- GPT
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.11903'}]
+tags: [GPT, Prompting]
 ---
 We explore how generating a chain of thought -- a series of intermediate
 reasoning steps -- significantly improves the ability of large language models

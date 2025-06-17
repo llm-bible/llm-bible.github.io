@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 55
 bibkey: shridhar2020aligning
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2010.03768
-tags:
-- Reinforcement Learning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.03768'}]
+tags: [Reinforcement Learning, Agentic]
 ---
 Given a simple request like Put a washed apple in the kitchen fridge, humans
 can reason in purely abstract terms by imagining action sequences and scoring

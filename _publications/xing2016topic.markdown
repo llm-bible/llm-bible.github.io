@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2016
 citations: 117
 bibkey: xing2016topic
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1606.08340
-tags:
-- Transformer
-- RAG
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.08340'}]
+tags: [Transformer, RAG, Attention Mechanism]
 ---
 We consider incorporating topic information into the sequence-to-sequence
 framework to generate informative and interesting responses for chatbots. To

@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 56
 bibkey: abdelghani2022gpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2211.14228
-tags:
-- GPT
-- Reinforcement Learning
-- Prompting
-- Agentic
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.14228'}]
+tags: [GPT, Reinforcement Learning, Prompting, Agentic, Efficiency and Optimization]
 ---
 In order to train children's ability to ask curiosity-driven questions,
 previous research has explored designing specific exercises relying on

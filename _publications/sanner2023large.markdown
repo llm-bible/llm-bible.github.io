@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 55
 bibkey: sanner2023large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2307.14225
-tags:
-- Few-Shot
-- Prompting
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.14225'}]
+tags: [Few-Shot, Prompting, Reinforcement Learning, Ethics and Bias]
 ---
 Traditional recommender systems leverage users' item preference history to
 recommend novel content that users may like. However, modern dialog interfaces

@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 95
 bibkey: peng2023reinventing
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2305.13048v2
-tags:
-- Transformer
-- Efficiency and Optimization
-- Pre-Training
-- Model Architecture
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.13048v2'}]
+tags: [Transformer, Efficiency and Optimization, Pre-Training, Model Architecture]
 ---
 Transformers have revolutionized almost all natural language processing (NLP)
 tasks but suffer from memory and computational complexity that scales

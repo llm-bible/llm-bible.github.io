@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 154
 bibkey: prather2023robots
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2310.00658
-tags:
-- Survey Paper
-- Ethics and Bias
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.00658'}]
+tags: [Survey Paper, Ethics and Bias, Tools]
 ---
 Recent advancements in artificial intelligence (AI) are fundamentally
 reshaping computing, with large language models (LLMs) now effectively being

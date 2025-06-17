@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 198
 bibkey: shridhar2019benchmark
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1912.01734
-tags:
-- Reinforcement Learning
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.01734'}]
+tags: [Reinforcement Learning, Applications]
 ---
 We present ALFRED (Action Learning From Realistic Environments and
 Directives), a benchmark for learning a mapping from natural language

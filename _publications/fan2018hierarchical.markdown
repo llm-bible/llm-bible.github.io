@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 339
 bibkey: fan2018hierarchical
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1805.04833
-tags:
-- Transformer
-- Prompting
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.04833'}]
+tags: [Transformer, Prompting, Attention Mechanism]
 ---
 We explore story generation: creative systems that can build coherent and
 fluent passages of text about a topic. We collect a large dataset of 300K

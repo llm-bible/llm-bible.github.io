@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2019
 citations: 185
 bibkey: zhu2019enhanced
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1909.11764
-- name: Code
-  url: https://github.com/zhuchen03/FreeLB
-tags:
-- Security
-- Transformer
-- BERT
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.11764'}, {name: Code,
+    url: 'https://github.com/zhuchen03/FreeLB'}]
+tags: [Security, Transformer, BERT, Fine-Tuning]
 ---
 Adversarial training, which minimizes the maximal risk for label-preserving
 input perturbations, has proved to be effective for improving the

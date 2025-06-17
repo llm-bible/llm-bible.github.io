@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 53
 bibkey: lee2020contrastive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2012.07280
-tags:
-- Transformer
-- Language Modeling
-- Security
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.07280'}]
+tags: [Transformer, Language Modeling, Security]
 ---
 Recently, sequence-to-sequence (seq2seq) models with the Transformer
 architecture have achieved remarkable performance on various conditional text

@@ -7,13 +7,9 @@ conference: Arxiv
 year: 2022
 citations: 322
 bibkey: gal2022image
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2208.01618
-- name: Code
-  url: https://textual-inversion.github.io
-tags:
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.01618'}, {name: Code,
+    url: 'https://textual-inversion.github.io'}]
+tags: [Applications]
 ---
 Text-to-image models offer unprecedented freedom to guide creation through
 natural language. Yet, it is unclear how such freedom can be exercised to

@@ -7,19 +7,10 @@ conference: Arxiv
 year: 2021
 citations: 51
 bibkey: jin2021good
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2110.08484
-- name: Code
-  url: https://github.com/woojeongjin/FewVLM
-tags:
-- Multimodal Models
-- Transformer
-- Few-Shot
-- Prompting
-- Masked Language Model
-- Language Modeling
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08484'}, {name: Code,
+    url: 'https://github.com/woojeongjin/FewVLM'}]
+tags: [Multimodal Models, Transformer, Few-Shot, Prompting, Masked Language Model,
+  Language Modeling, Applications, Fine-Tuning]
 ---
 Large pre-trained vision-language (VL) models can learn a new task with a
 handful of examples and generalize to a new task without fine-tuning. However,

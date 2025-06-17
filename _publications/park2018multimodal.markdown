@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 222
 bibkey: park2018multimodal
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1802.08129
-tags:
-- Multimodal Models
-- Interpretability and Explainability
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1802.08129'}]
+tags: [Multimodal Models, Interpretability and Explainability, Attention Mechanism]
 ---
 Deep models that are both effective and explainable are desirable in many
 settings; prior explainable models have been unimodal, offering either

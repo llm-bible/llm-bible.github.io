@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 89
 bibkey: bommarito2022gpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.14402
-tags:
-- GPT
-- Reinforcement Learning
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.14402'}]
+tags: [GPT, Reinforcement Learning, Prompting, Fine-Tuning]
 ---
 Nearly all jurisdictions in the United States require a professional license
 exam, commonly referred to as "the Bar Exam," as a precondition for law

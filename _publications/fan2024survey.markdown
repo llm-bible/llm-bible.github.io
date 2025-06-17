@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2024
 citations: 99
 bibkey: fan2024survey
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2405.06211
-tags:
-- Survey Paper
-- RAG
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.06211'}]
+tags: [Survey Paper, RAG, Applications]
 ---
 As one of the most advanced techniques in AI, Retrieval-Augmented Generation
 (RAG) can offer reliable and up-to-date external knowledge, providing huge

@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 1198
 bibkey: li2019simple
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1908.03557
-tags:
-- Transformer
-- Pre-Training
-- BERT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.03557'}]
+tags: [Transformer, Pre-Training, BERT]
 ---
 We propose VisualBERT, a simple and flexible framework for modeling a broad
 range of vision-and-language tasks. VisualBERT consists of a stack of

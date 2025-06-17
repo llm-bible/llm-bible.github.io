@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 64
 bibkey: dinan2019second
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1902.00098
-tags:
-- Transformer
-- NeurIPS
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.00098'}]
+tags: [Transformer, NeurIPS]
 ---
 We describe the setting and results of the ConvAI2 NeurIPS competition that
 aims to further the state-of-the-art in open-domain chatbots. Some key

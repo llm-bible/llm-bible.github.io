@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2018
 citations: 113
 bibkey: madotto2018effectively
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1804.08217
-tags:
-- Transformer
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.08217'}]
+tags: [Transformer, Attention Mechanism]
 ---
 End-to-end task-oriented dialog systems usually suffer from the challenge of
 incorporating knowledge bases. In this paper, we propose a novel yet simple

@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2017
 citations: 70
 bibkey: miller2017dialog
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1705.06476
-- name: Code
-  url: http://parl.ai
-tags:
-- Reinforcement Learning
-- Tools
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.06476'}, {name: Code,
+    url: 'http://parl.ai'}]
+tags: [Reinforcement Learning, Tools, Agentic]
 ---
 We introduce ParlAI (pronounced "par-lay"), an open-source software platform
 for dialog research implemented in Python, available at http://parl.ai. Its

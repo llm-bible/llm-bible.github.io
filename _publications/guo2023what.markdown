@@ -7,17 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 60
 bibkey: guo2023what
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.18365
-- name: Code
-  url: https://github.com/ChemFoundationModels/ChemLLMBench
-tags:
-- GPT
-- In-Context Learning
-- Few-Shot
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.18365'}, {name: Code,
+    url: 'https://github.com/ChemFoundationModels/ChemLLMBench'}]
+tags: [GPT, In-Context Learning, Few-Shot, Prompting, Fine-Tuning]
 ---
 Large Language Models (LLMs) with strong abilities in natural language
 processing tasks have emerged and have been applied in various kinds of areas

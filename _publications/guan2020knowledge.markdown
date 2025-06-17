@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 96
 bibkey: guan2020knowledge
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2001.05139
-tags:
-- GPT
-- Reinforcement Learning
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.05139'}]
+tags: [GPT, Reinforcement Learning, Fine-Tuning]
 ---
 Story generation, namely generating a reasonable story from a leading
 context, is an important but challenging task. In spite of the success in

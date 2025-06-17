@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 172
 bibkey: tang2020multilingual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2008.00401
-tags:
-- Pre-Training
-- Fine-Tuning
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00401'}]
+tags: [Pre-Training, Fine-Tuning, RAG]
 ---
 Recent work demonstrates the potential of multilingual pretraining of
 creating one model that can be used for various tasks in different languages.

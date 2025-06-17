@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 615
 bibkey: workshop2022open
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2211.05100
-tags:
-- Transformer
-- Ethics and Bias
-- Applications
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.05100'}]
+tags: [Transformer, Ethics and Bias, Applications, Prompting]
 ---
 Large language models (LLMs) have been shown to be able to perform new tasks
 based on a few demonstrations or natural language instructions. While these

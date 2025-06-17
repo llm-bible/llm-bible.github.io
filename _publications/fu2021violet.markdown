@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 88
 bibkey: fu2021violet
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2111.12681
-tags:
-- Transformer
-- Pre-Training
-- Tokenization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.12681'}]
+tags: [Transformer, Pre-Training, Tokenization]
 ---
 A great challenge in video-language (VidL) modeling lies in the disconnection
 between fixed video representations extracted from image/video understanding

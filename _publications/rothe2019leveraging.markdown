@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 165
 bibkey: rothe2019leveraging
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1907.12461
-tags:
-- GPT
-- Transformer
-- RAG
-- BERT
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.12461'}]
+tags: [Pre-Training, Transformer, GPT, BERT, RAG]
 ---
 Unsupervised pre-training of large neural models has recently revolutionized
 Natural Language Processing. By warm-starting from the publicly released

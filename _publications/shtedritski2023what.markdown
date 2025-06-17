@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 50
 bibkey: shtedritski2023what
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.06712
-tags:
-- Multimodal Models
-- Applications
-- Prompting
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.06712'}]
+tags: [Multimodal Models, Applications, Prompting, Attention Mechanism]
 ---
 Large-scale Vision-Language Models, such as CLIP, learn powerful image-text
 representations that have found numerous applications, from zero-shot

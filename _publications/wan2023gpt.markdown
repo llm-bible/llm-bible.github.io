@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 60
 bibkey: wan2023gpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.02105
-tags:
-- GPT
-- In-Context Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02105'}]
+tags: [GPT, In-Context Learning]
 ---
 In spite of the potential for ground-breaking achievements offered by large
 language models (LLMs) (e.g., GPT-3), they still lag significantly behind

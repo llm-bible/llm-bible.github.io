@@ -7,15 +7,8 @@ conference: Bioinformatics 2024
 year: 2023
 citations: 67
 bibkey: jin2023augmenting
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.09667
-tags:
-- GPT
-- In-Context Learning
-- RAG
-- Tools
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09667'}]
+tags: [GPT, In-Context Learning, RAG, Tools, Prompting]
 ---
 While large language models (LLMs) have been successfully applied to various
 tasks, they still face challenges with hallucinations. Augmenting LLMs with

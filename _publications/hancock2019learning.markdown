@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 62
 bibkey: hancock2019learning
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1901.05415
-tags:
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.05415'}]
+tags: [Agentic]
 ---
 The majority of conversations a dialogue agent sees over its lifetime occur
 after it has already been trained and deployed, leaving a vast store of

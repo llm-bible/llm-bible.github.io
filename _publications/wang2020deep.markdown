@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 541
 bibkey: wang2020deep
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.10957
-tags:
-- Transformer
-- Distillation
-- Applications
-- Efficiency and Optimization
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.10957'}]
+tags: [Transformer, Distillation, Applications, Efficiency and Optimization, Fine-Tuning]
 ---
 Pre-trained language models (e.g., BERT (Devlin et al., 2018) and its
 variants) have achieved remarkable success in varieties of NLP tasks. However,

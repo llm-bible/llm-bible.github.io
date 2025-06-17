@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2021
 citations: 155
 bibkey: mahabadi2021efficient
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2106.04647
-- name: Code
-  url: https://github.com/rabeehk/compacter
-tags:
-- Fine-Tuning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.04647'}, {name: Code,
+    url: 'https://github.com/rabeehk/compacter'}]
+tags: [Fine-Tuning, Efficiency and Optimization]
 ---
 Adapting large-scale pretrained language models to downstream tasks via
 fine-tuning is the standard method for achieving state-of-the-art performance

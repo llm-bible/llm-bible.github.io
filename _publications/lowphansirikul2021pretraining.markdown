@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 63
 bibkey: lowphansirikul2021pretraining
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2101.09635
-tags:
-- Tokenization
-- Transformer
-- BERT
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.09635'}]
+tags: [Tokenization, Transformer, BERT, Pre-Training]
 ---
 Transformer-based language models, more specifically BERT-based architectures
 have achieved state-of-the-art performance in many downstream tasks. However,

@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 52
 bibkey: ding2021prompt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2108.10604
-tags:
-- Few-Shot
-- BERT
-- Prompting
-- Language Modeling
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.10604'}]
+tags: [Few-Shot, BERT, Prompting, Language Modeling, Fine-Tuning]
 ---
 As an effective approach to tune pre-trained language models (PLMs) for
 specific tasks, prompt-learning has recently attracted much attention from

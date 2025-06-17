@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 51
 bibkey: battenberg2019location
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1910.10288
-tags:
-- Transformer
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.10288'}]
+tags: [Transformer, Attention Mechanism]
 ---
 Despite the ability to produce human-level speech for in-domain text,
 attention-based end-to-end text-to-speech (TTS) systems suffer from text

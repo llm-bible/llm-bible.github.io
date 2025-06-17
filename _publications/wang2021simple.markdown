@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 307
 bibkey: wang2021simple
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2108.10904
-tags:
-- Multimodal Models
-- Language Modeling
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.10904'}]
+tags: [Multimodal Models, Language Modeling, Pre-Training]
 ---
 With recent progress in joint modeling of visual and textual representations,
 Vision-Language Pretraining (VLP) has achieved impressive performance on many

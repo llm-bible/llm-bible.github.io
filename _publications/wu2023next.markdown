@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 84
 bibkey: wu2023next
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2309.05519
-- name: Code
-  url: https://next-gpt.github.io/
-tags:
-- Multimodal Models
-- GPT
-- Reinforcement Learning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.05519'}, {name: Code,
+    url: 'https://next-gpt.github.io/'}]
+tags: [Multimodal Models, GPT, Reinforcement Learning, Agentic]
 ---
 While recently Multimodal Large Language Models (MM-LLMs) have made exciting
 strides, they mostly fall prey to the limitation of only input-side multimodal

@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 51
 bibkey: yuan2022pretraining
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.03905
-tags:
-- Pre-Training
-- Prompting
-- BERT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.03905'}]
+tags: [Pre-Training, Prompting, BERT]
 ---
 Pretrained language models have served as important backbones for natural
 language processing. Recently, in-domain pretraining has been shown to benefit

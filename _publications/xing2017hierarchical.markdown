@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2017
 citations: 51
 bibkey: xing2017hierarchical
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1701.07149
-tags:
-- Attention Mechanism
-- Model Architecture
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1701.07149'}]
+tags: [Attention Mechanism, Model Architecture]
 ---
 We study multi-turn response generation in chatbots where a response is
 generated according to a conversation context. Existing work has modeled the

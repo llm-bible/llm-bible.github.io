@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 68
 bibkey: wang2021automatic
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2108.03353
-tags:
-- Multimodal Models
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.03353'}]
+tags: [Multimodal Models, Applications]
 ---
 Mobile User Interface Summarization generates succinct language descriptions
 of mobile screens for conveying important contents and functionalities of the

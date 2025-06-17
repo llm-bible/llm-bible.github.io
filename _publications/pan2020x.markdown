@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2020
 citations: 456
 bibkey: pan2020x
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2003.14080
-- name: Code
-  url: https://github.com/Panda-Peter/image-captioning
-tags:
-- Transformer
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.14080'}, {name: Code,
+    url: 'https://github.com/Panda-Peter/image-captioning'}]
+tags: [Transformer, Attention Mechanism]
 ---
 Recent progress on fine-grained visual recognition and visual question
 answering has featured Bilinear Pooling, which effectively models the 2\\(^\{nd\}\\)

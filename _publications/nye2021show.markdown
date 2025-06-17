@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 119
 bibkey: nye2021show
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2112.00114
-tags:
-- Transformer
-- Few-Shot
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.00114'}]
+tags: [Transformer, Few-Shot]
 ---
 Large pre-trained language models perform remarkably well on tasks that can
 be done "in one pass", such as generating realistic text or synthesizing

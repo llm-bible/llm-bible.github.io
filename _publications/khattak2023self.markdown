@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 56
 bibkey: khattak2023self
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2307.06948
-- name: Code
-  url: https://github.com/muzairkhattak/PromptSRC
-tags:
-- Prompting
-- Fine-Tuning
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.06948'}, {name: Code,
+    url: 'https://github.com/muzairkhattak/PromptSRC'}]
+tags: [Prompting, Fine-Tuning, Tools]
 ---
 Prompt learning has emerged as an efficient alternative for fine-tuning
 foundational models, such as CLIP, for various downstream tasks. Conventionally

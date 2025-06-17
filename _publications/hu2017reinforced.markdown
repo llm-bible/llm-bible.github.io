@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2017
 citations: 64
 bibkey: hu2017reinforced
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1705.02798
-tags:
-- Transformer
-- Reinforcement Learning
-- RAG
-- Attention Mechanism
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.02798'}]
+tags: [Transformer, Reinforcement Learning, RAG, Attention Mechanism, Efficiency and
+    Optimization]
 ---
 In this paper, we introduce the Reinforced Mnemonic Reader for machine
 reading comprehension tasks, which enhances previous attentive readers in two

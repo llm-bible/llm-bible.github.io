@@ -7,14 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 54
 bibkey: li2020train
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.11794
-tags:
-- Transformer
-- Efficiency and Optimization
-- Quantization
-- Pruning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.11794'}]
+tags: [Transformer, Efficiency and Optimization, Quantization, Pruning]
 ---
 Since hardware resources are limited, the objective of training deep learning
 models is typically to maximize accuracy subject to the time and memory

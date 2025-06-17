@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 159
 bibkey: gehman2020evaluating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2009.11462
-tags:
-- GPT
-- Prompting
-- Language Modeling
-- Training Techniques
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.11462'}]
+tags: [GPT, Prompting, Language Modeling, Training Techniques]
 ---
 Pretrained neural language models (LMs) are prone to generating racist,
 sexist, or otherwise toxic language which hinders their safe deployment. We

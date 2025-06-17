@@ -7,16 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 351
 bibkey: zhu2023minigpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.10592
-- name: Code
-  url: https://minigpt-4.github.io/
-tags:
-- GPT
-- Multimodal Models
-- Reinforcement Learning
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.10592'}, {name: Code,
+    url: 'https://minigpt-4.github.io/'}]
+tags: [GPT, Multimodal Models, Reinforcement Learning, RAG]
 ---
 The recent GPT-4 has demonstrated extraordinary multi-modal abilities, such
 as directly generating websites from handwritten text and identifying humorous

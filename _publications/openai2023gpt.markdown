@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 1400
 bibkey: openai2023gpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.08774
-tags:
-- GPT
-- Multimodal Models
-- Transformer
-- Reinforcement Learning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.08774'}]
+tags: [GPT, Multimodal Models, Transformer, Reinforcement Learning, Efficiency and
+    Optimization]
 ---
 We report the development of GPT-4, a large-scale, multimodal model which can
 accept image and text inputs and produce text outputs. While less capable than

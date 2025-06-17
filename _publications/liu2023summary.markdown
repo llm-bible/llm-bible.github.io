@@ -7,16 +7,8 @@ conference: Meta-Radiology (2023)100017
 year: 2023
 citations: 427
 bibkey: liu2023summary
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.01852
-tags:
-- GPT
-- Survey Paper
-- Reinforcement Learning
-- Applications
-- Pre-Training
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01852'}]
+tags: [GPT, Survey Paper, Reinforcement Learning, Applications, Pre-Training, Fine-Tuning]
 ---
 This paper presents a comprehensive survey of ChatGPT-related (GPT-3.5 and
 GPT-4) research, state-of-the-art large language models (LLM) from the GPT

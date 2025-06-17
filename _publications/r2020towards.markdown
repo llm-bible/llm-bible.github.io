@@ -7,16 +7,9 @@ conference: MM 19 Proceedings of the 27th ACM International Conference on Multim
 year: 2020
 citations: 50
 bibkey: r2020towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2003.00418
-- name: Code
-  url: https://www.youtube.com/watch?v=aHG6Oei8jF0
-- name: Code
-  url: https://github.com/Rudrabha/LipGAN
-tags:
-- Multimodal Models
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.00418'}, {name: Code,
+    url: 'https://www.youtube.com/watch?v=aHG6Oei8jF0'}, {name: Code, url: 'https://github.com/Rudrabha/LipGAN'}]
+tags: [Multimodal Models, Applications]
 ---
 In light of the recent breakthroughs in automatic machine translation
 systems, we propose a novel approach that we term as "Face-to-Face

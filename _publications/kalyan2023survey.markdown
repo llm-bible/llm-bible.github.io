@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 133
 bibkey: kalyan2023survey
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2310.12321
-tags:
-- GPT
-- Transformer
-- Survey Paper
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.12321'}]
+tags: [GPT, Transformer, Survey Paper, Fine-Tuning, Security]
 ---
 Large language models (LLMs) are a special class of pretrained language
 models obtained by scaling model size, pretraining corpus and computation.

@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 68
 bibkey: oppenlaender2022taxonomy
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.13988
-tags:
-- Prompting
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.13988'}]
+tags: [Prompting, Applications]
 ---
 Text-to-image generation has seen an explosion of interest since 2021. Today,
 beautiful and intriguing digital images and artworks can be synthesized from

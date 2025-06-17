@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2019
 citations: 392
 bibkey: nogueira2019passage
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1901.04085
-- name: Code
-  url: https://github.com/nyu-dl/dl4marco-bert
-tags:
-- BERT
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.04085'}, {name: Code,
+    url: 'https://github.com/nyu-dl/dl4marco-bert'}]
+tags: [BERT, Language Modeling]
 ---
 Recently, neural models pretrained on a language modeling task, such as ELMo
 (Peters et al., 2017), OpenAI GPT (Radford et al., 2018), and BERT (Devlin et

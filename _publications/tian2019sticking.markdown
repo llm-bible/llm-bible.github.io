@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 57
 bibkey: tian2019sticking
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1910.08684
-tags:
-- Reinforcement Learning
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.08684'}]
+tags: [Reinforcement Learning, Language Modeling]
 ---
 We address the issue of hallucination in data-to-text generation, i.e.,
 reducing the generation of text that is unsupported by the source. We

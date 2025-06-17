@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 70
 bibkey: mishra2021cross
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2104.08773v4
-tags:
-- Pre-Training
-- Prompting
-- Few-Shot
-- Language Modeling
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2104.08773v4'}]
+tags: [Few-Shot, Prompting, Pre-Training, Language Modeling]
 ---
 Humans (e.g., crowdworkers) have a remarkable ability in solving different
 tasks, by simply reading textual instructions that define them and looking at a

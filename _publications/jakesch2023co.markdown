@@ -7,14 +7,8 @@ conference: Proceedings of the 2023 CHI Conference on Human Factors in Computing
 year: 2023
 citations: 113
 bibkey: jakesch2023co
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.00560
-tags:
-- Survey Paper
-- GPT
-- Applications
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.00560'}]
+tags: [Survey Paper, GPT, Applications, Ethics and Bias]
 ---
 If large language models like GPT-3 preferably produce a particular point of
 view, they may influence people's opinions on an unknown scale. This study

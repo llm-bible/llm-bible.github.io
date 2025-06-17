@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 139
 bibkey: hendy2023how
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.09210
-tags:
-- GPT
-- Transformer
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.09210'}]
+tags: [GPT, Transformer, Prompting]
 ---
 Generative Pre-trained Transformer (GPT) models have shown remarkable
 capabilities for natural language generation, but their performance for machine

@@ -8,11 +8,8 @@ conference: Arxiv
 year: 2019
 citations: 68
 bibkey: singh2019cross
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.11471
-tags:
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.11471'}]
+tags: [Fine-Tuning]
 ---
 While natural language processing systems often focus on a single language,
 multilingual transfer learning has the potential to improve performance,

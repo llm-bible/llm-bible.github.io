@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 76
 bibkey: liu2020kg
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2009.12677
-tags:
-- RAG
-- Language Modeling
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.12677'}]
+tags: [RAG, Language Modeling, Attention Mechanism]
 ---
 Generative commonsense reasoning which aims to empower machines to generate
 sentences with the capacity of reasoning over a set of concepts is a critical

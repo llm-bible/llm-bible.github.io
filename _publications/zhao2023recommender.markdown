@@ -7,16 +7,8 @@ conference: IEEE Transactions on Knowledge and Data Engineering vol. 36 no. 11 p
 year: 2023
 citations: 84
 bibkey: zhao2023recommender
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2307.02046
-tags:
-- Survey Paper
-- Pre-Training
-- Applications
-- Prompting
-- Fine-Tuning
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.02046'}]
+tags: [Survey Paper, Pre-Training, Applications, Prompting, Fine-Tuning, GPT]
 ---
 With the prosperity of e-commerce and web applications, Recommender Systems
 (RecSys) have become an important component of our daily life, providing

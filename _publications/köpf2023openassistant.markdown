@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 80
 bibkey: "k\xF6pf2023openassistant"
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.07327
-tags:
-- GPT
-- Reinforcement Learning
-- Fine-Tuning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07327'}]
+tags: [GPT, Reinforcement Learning, Fine-Tuning, Agentic]
 ---
 Aligning large language models (LLMs) with human preferences has proven to
 drastically improve usability and has driven rapid adoption as demonstrated by

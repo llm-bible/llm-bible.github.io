@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2020
 citations: 78
 bibkey: wu2020tod
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.06871
-tags:
-- Pre-Training
-- BERT
-- Language Modeling
-- Few-Shot
-- Applications
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06871'}]
+tags: [Pre-Training, BERT, Language Modeling, Few-Shot, Applications, Reinforcement
+    Learning]
 ---
 The underlying difference of linguistic patterns between general text and
 task-oriented dialogue makes existing pre-trained language models less useful

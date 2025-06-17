@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Adversarial VQA: A New Benchmark For Evaluating The Robustness Of VQA Models'
+authors: Linjie Li, Jie Lei, Zhe Gan, Jingjing Liu
+conference: Arxiv
+year: 2021
+citations: 23
+bibkey: li2021adversarial
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.00245'}]
+tags: [Security, Pre-Training]
+---
+Benefiting from large-scale pre-training, we have witnessed significant
+performance boost on the popular Visual Question Answering (VQA) task. Despite
+rapid progress, it remains unclear whether these state-of-the-art (SOTA) models
+are robust when encountering examples in the wild. To study this, we introduce
+Adversarial VQA, a new large-scale VQA benchmark, collected iteratively via an
+adversarial human-and-model-in-the-loop procedure. Through this new benchmark,
+we discover several interesting findings. (i) Surprisingly, we find that during
+dataset collection, non-expert annotators can easily attack SOTA VQA models
+successfully. (ii) Both large-scale pre-trained models and adversarial training
+methods achieve far worse performance on the new benchmark than over standard
+VQA v2 dataset, revealing the fragility of these models while demonstrating the
+effectiveness of our adversarial dataset. (iii) When used for data
+augmentation, our dataset can effectively boost model performance on other
+robust VQA benchmarks. We hope our Adversarial VQA dataset can shed new light
+on robustness study in the community and serve as a valuable benchmark for
+future work.

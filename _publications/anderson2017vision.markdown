@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2017
 citations: 585
 bibkey: anderson2017vision
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1711.07280
-tags:
-- Reinforcement Learning
-- RAG
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.07280'}]
+tags: [Reinforcement Learning, RAG, Agentic]
 ---
 A robot that can carry out a natural-language instruction has been a dream
 since before the Jetsons cartoon series imagined a life of leisure mediated by

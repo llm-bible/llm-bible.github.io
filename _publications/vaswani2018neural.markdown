@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 332
 bibkey: vaswani2018neural
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1803.07416
-tags:
-- Transformer
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1803.07416'}]
+tags: [Transformer, Tools]
 ---
 Tensor2Tensor is a library for deep learning models that is well-suited for
 neural machine translation and includes the reference implementation of the

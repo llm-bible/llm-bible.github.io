@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2019
 citations: 915
 bibkey: wang2019stickier
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.00537
-tags:
-- Pre-Training
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.00537'}]
+tags: [Pre-Training, Tools]
 ---
 In the last year, new models and methods for pretraining and transfer
 learning have driven striking performance improvements across a range of

@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 52
 bibkey: merchant2020what
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.14448
-tags:
-- BERT
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14448'}]
+tags: [BERT, Fine-Tuning]
 ---
 While there has been much recent work studying how linguistic information is
 encoded in pre-trained sentence representations, comparatively little is

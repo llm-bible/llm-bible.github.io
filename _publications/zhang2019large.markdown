@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2019
 citations: 349
 bibkey: zhang2019large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1911.00536
-tags:
-- GPT
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.00536'}]
+tags: [GPT, Transformer, Pre-Training]
 ---
 We present a large, tunable neural conversational response generation model,
 DialoGPT (dialogue generative pre-trained transformer). Trained on 147M

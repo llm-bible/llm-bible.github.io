@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 51
 bibkey: peng2020few
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.12328
-tags:
-- GPT
-- Few-Shot
-- Applications
-- Pre-Training
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.12328'}]
+tags: [GPT, Few-Shot, Applications, Pre-Training, Fine-Tuning]
 ---
 As a crucial component in task-oriented dialog systems, the Natural Language
 Generation (NLG) module converts a dialog act represented in a semantic form

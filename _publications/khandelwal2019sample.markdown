@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 66
 bibkey: khandelwal2019sample
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.08836
-tags:
-- Transformer
-- Pre-Training
-- Fine-Tuning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.08836'}]
+tags: [Transformer, Pre-Training, Fine-Tuning, Efficiency and Optimization]
 ---
 Language model (LM) pre-training has resulted in impressive performance and
 sample efficiency on a variety of language understanding tasks. However, it

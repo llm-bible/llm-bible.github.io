@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 523
 bibkey: song2019masked
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.02450
-tags:
-- Pre-Training
-- Fine-Tuning
-- BERT
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.02450'}]
+tags: [Pre-Training, Fine-Tuning, BERT, Attention Mechanism]
 ---
 Pre-training and fine-tuning, e.g., BERT, have achieved great success in
 language understanding by transferring knowledge from rich-resource

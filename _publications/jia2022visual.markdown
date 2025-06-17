@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 758
 bibkey: jia2022visual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2203.12119
-tags:
-- Transformer
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.12119'}]
+tags: [Transformer, Prompting, Fine-Tuning]
 ---
 The current modus operandi in adapting pre-trained models involves updating
 all the backbone parameters, ie, full fine-tuning. This paper introduces Visual

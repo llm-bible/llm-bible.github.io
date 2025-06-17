@@ -6,17 +6,9 @@ conference: Arxiv
 year: 2018
 citations: 64
 bibkey: niu2018recursive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1812.02664
-- name: Code
-  url: https://github.com/yuleiniu/rva
-tags:
-- Multimodal Models
-- Transformer
-- Reinforcement Learning
-- Agentic
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.02664'}, {name: Code,
+    url: 'https://github.com/yuleiniu/rva'}]
+tags: [Multimodal Models, Transformer, Attention Mechanism, Agentic]
 ---
 Visual dialog is a challenging vision-language task, which requires the agent
 to answer multi-round questions about an image. It typically needs to address

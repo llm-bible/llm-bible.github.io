@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2024
 citations: 54
 bibkey: kim2024understanding
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2401.03217
-tags:
-- Fine-Tuning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.03217'}]
+tags: [Fine-Tuning, Agentic]
 ---
 Large-language models (LLMs) hold significant promise in improving
 human-robot interaction, offering advanced conversational skills and

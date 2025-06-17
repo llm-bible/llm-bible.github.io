@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 87
 bibkey: sukhbaatar2019adaptive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.07799
-tags:
-- Transformer
-- Language Modeling
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.07799'}]
+tags: [Transformer, Language Modeling, Attention Mechanism]
 ---
 We propose a novel self-attention mechanism that can learn its optimal
 attention span. This allows us to extend significantly the maximum context size

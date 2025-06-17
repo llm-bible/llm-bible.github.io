@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 423
 bibkey: gu2023linear
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2312.00752v2
-tags:
-- Transformer
-- Efficiency and Optimization
-- Pre-Training
-- Applications
-- Model Architecture
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2312.00752v2'}]
+tags: [Transformer, Efficiency and Optimization, Pre-Training, Applications, Model
+    Architecture]
 ---
 Foundation models, now powering most of the exciting applications in deep
 learning, are almost universally based on the Transformer architecture and its

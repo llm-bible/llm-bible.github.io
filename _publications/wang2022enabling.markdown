@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 88
 bibkey: wang2022enabling
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2209.08655
-tags:
-- Prompting
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.08655'}]
+tags: [Prompting, Agentic]
 ---
 Conversational agents show the promise to allow users to interact with mobile
 devices using language. However, to perform diverse UI tasks with natural

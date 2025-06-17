@@ -7,16 +7,9 @@ conference: Briefings in Bioinformatics 2022; bbac409
 year: 2022
 citations: 506
 bibkey: luo2022generative
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.10341
-- name: Code
-  url: https://github.com/microsoft/BioGPT
-tags:
-- GPT
-- Transformer
-- Language Modeling
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.10341'}, {name: Code,
+    url: 'https://github.com/microsoft/BioGPT'}]
+tags: [GPT, Transformer, Language Modeling, Attention Mechanism]
 ---
 Pre-trained language models have attracted increasing attention in the
 biomedical domain, inspired by their great success in the general natural

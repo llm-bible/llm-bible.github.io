@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 170
 bibkey: lin2021measuring
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2109.07958
-tags:
-- GPT
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07958'}]
+tags: [GPT, Fine-Tuning]
 ---
 We propose a benchmark to measure whether a language model is truthful in
 generating answers to questions. The benchmark comprises 817 questions that

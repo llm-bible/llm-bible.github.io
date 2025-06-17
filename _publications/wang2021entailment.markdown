@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 105
 bibkey: wang2021entailment
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2104.14690
-tags:
-- Few-Shot
-- GPT
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.14690'}]
+tags: [Few-Shot, GPT]
 ---
 Large pre-trained language models (LMs) have demonstrated remarkable ability
 as few-shot learners. However, their success hinges largely on scaling model

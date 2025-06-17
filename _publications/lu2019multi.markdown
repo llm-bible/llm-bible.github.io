@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 223
 bibkey: lu2019multi
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1912.02315
-tags:
-- Multimodal Models
-- Fine-Tuning
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.02315'}]
+tags: [Multimodal Models, Fine-Tuning, RAG]
 ---
 Much of vision-and-language research focuses on a small but diverse set of
 independent tasks and supporting datasets often studied in isolation; however,

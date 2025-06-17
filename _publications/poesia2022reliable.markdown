@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 57
 bibkey: poesia2022reliable
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2201.11227
-tags:
-- GPT
-- Few-Shot
-- RAG
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.11227'}]
+tags: [GPT, Few-Shot, RAG, Fine-Tuning, Reinforcement Learning]
 ---
 Large pre-trained language models have been used to generate code,providing a
 flexible interface for synthesizing programs from natural language

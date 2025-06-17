@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 268
 bibkey: svyatkovskiy2020intellicode
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2005.08025
-tags:
-- Transformer
-- Tools
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.08025'}]
+tags: [Transformer, Tools, Efficiency and Optimization]
 ---
 In software development through integrated development environments (IDEs),
 code completion is one of the most widely used features. Nevertheless, majority

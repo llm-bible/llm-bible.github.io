@@ -7,14 +7,9 @@ conference: Arxiv
 year: 2021
 citations: 69
 bibkey: ren2021joint
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2110.07367
-- name: Code
-  url: https://github.com/PaddlePaddle/RocketQA
-tags:
-- Distillation
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07367'}, {name: Code,
+    url: 'https://github.com/PaddlePaddle/RocketQA'}]
+tags: [Distillation, Efficiency and Optimization]
 ---
 In various natural language processing tasks, passage retrieval and passage
 re-ranking are two key procedures in finding and ranking relevant information.

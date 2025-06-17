@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 55
 bibkey: yang2020towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2012.03539
-tags:
-- GPT
-- Fine-Tuning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.03539'}]
+tags: [GPT, Fine-Tuning, Efficiency and Optimization]
 ---
 This paper presents our task-oriented dialog system UBAR which models
 task-oriented dialogs on a dialog session level. Specifically, UBAR is acquired

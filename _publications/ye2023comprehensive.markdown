@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 143
 bibkey: ye2023comprehensive
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.10420
-tags:
-- GPT
-- Few-Shot
-- Reinforcement Learning
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.10420'}]
+tags: [GPT, Few-Shot, Reinforcement Learning]
 ---
 GPT series models, such as GPT-3, CodeX, InstructGPT, ChatGPT, and so on,
 have gained considerable attention due to their exceptional natural language

@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 94
 bibkey: cai2019graph
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1911.07470
-tags:
-- Transformer
-- Applications
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.07470'}]
+tags: [Transformer, Applications, Language Modeling]
 ---
 The dominant graph-to-sequence transduction models employ graph neural
 networks for graph representation learning, where the structural information is

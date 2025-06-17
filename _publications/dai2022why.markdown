@@ -7,16 +7,9 @@ conference: Arxiv
 year: 2022
 citations: 54
 bibkey: dai2022why
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.10559
-- name: Code
-  url: https://aka.ms/icl
-tags:
-- GPT
-- In-Context Learning
-- Transformer
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10559'}, {name: Code,
+    url: 'https://aka.ms/icl'}]
+tags: [GPT, In-Context Learning, Transformer, Reinforcement Learning]
 ---
 Large pretrained language models have shown surprising in-context learning
 (ICL) ability. With a few demonstration input-label pairs, they can predict the

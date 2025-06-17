@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 397
 bibkey: cobbe2021training
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2110.14168
-tags:
-- Transformer
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.14168'}]
+tags: [Transformer, Reinforcement Learning]
 ---
 State-of-the-art language models can match human performance on many tasks,
 but they still struggle to robustly perform multi-step mathematical reasoning.

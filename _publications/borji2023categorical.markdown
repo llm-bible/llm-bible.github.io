@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 190
 bibkey: borji2023categorical
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.03494
-tags:
-- GPT
-- Ethics and Bias
-- Security
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.03494'}]
+tags: [GPT, Ethics and Bias, Security]
 ---
 Large language models have been demonstrated to be valuable in different
 fields. ChatGPT, developed by OpenAI, has been trained using massive amounts of

@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 126
 bibkey: kim2020code
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2003.13848
-tags:
-- Transformer
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.13848'}]
+tags: [Transformer, Language Modeling]
 ---
 We advance the state-of-the-art in the accuracy of code prediction (next
 token prediction) used in autocomplete systems. First, we report that using the

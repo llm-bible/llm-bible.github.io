@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 56
 bibkey: zhao2020knowledge
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2010.08824
-tags:
-- RAG
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.08824'}]
+tags: [RAG, Pre-Training]
 ---
 We study knowledge-grounded dialogue generation with pre-trained language
 models. To leverage the redundant external knowledge under capacity constraint,

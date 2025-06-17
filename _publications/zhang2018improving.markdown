@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 77
 bibkey: zhang2018improving
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1810.03581
-tags:
-- Transformer
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.03581'}]
+tags: [Transformer, Pre-Training]
 ---
 Although the Transformer translation model (Vaswani et al., 2017) has
 achieved state-of-the-art performance in a variety of translation tasks, how to

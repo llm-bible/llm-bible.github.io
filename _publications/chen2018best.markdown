@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 146
 bibkey: chen2018best
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1804.09849
-tags:
-- Transformer
-- Reinforcement Learning
-- Training Techniques
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.09849'}]
+tags: [Transformer, Reinforcement Learning, Training Techniques]
 ---
 The past year has witnessed rapid advances in sequence-to-sequence (seq2seq)
 modeling for Machine Translation (MT). The classic RNN-based approaches to MT

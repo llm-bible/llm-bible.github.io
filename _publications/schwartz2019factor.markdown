@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 59
 bibkey: schwartz2019factor
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1904.05880
-tags:
-- Transformer
-- Attention Mechanism
-- Interpretability and Explainability
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.05880'}]
+tags: [Transformer, Attention Mechanism, Interpretability and Explainability]
 ---
 Dialog is an effective way to exchange information, but subtle details and
 nuances are extremely important. While significant progress has paved a path to

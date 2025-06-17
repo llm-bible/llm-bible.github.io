@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 310
 bibkey: liu2023improved
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2310.03744
-tags:
-- Multimodal Models
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03744'}]
+tags: [Multimodal Models, Prompting]
 ---
 Large multimodal models (LMM) have recently shown encouraging progress with
 visual instruction tuning. In this note, we show that the fully-connected

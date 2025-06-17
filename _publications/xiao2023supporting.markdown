@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 89
 bibkey: xiao2023supporting
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.10548
-tags:
-- GPT
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.10548'}]
+tags: [GPT, Prompting, Fine-Tuning]
 ---
 Qualitative analysis of textual contents unpacks rich and valuable
 information by assigning labels to the data. However, this process is often

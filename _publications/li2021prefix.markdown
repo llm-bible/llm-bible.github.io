@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 850
 bibkey: li2021prefix
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2101.00190
-tags:
-- GPT
-- Prompting
-- Fine-Tuning
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00190'}]
+tags: [GPT, Prompting, Fine-Tuning, Language Modeling]
 ---
 Fine-tuning is the de facto way to leverage large pretrained language models
 to perform downstream tasks. However, it modifies all the language model

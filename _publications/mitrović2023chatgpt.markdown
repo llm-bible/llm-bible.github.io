@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 65
 bibkey: "mitrovi\u01072023chatgpt"
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2301.13852
-tags:
-- GPT
-- Transformer
-- Applications
-- Interpretability and Explainability
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.13852'}]
+tags: [GPT, Transformer, Applications, Interpretability and Explainability, Fine-Tuning]
 ---
 ChatGPT has the ability to generate grammatically flawless and
 seemingly-human replies to different types of questions from various domains.

@@ -7,11 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 51
 bibkey: dziri2022origin
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.07931
-tags:
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.07931'}]
+tags: [Reinforcement Learning]
 ---
 Knowledge-grounded conversational models are known to suffer from producing
 factually invalid statements, a phenomenon commonly called hallucination. In

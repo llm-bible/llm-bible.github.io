@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 161
 bibkey: hodel2023emergent
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2308.16118
-tags:
-- GPT
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.16118'}]
+tags: [GPT, Language Modeling]
 ---
 In their recent Nature Human Behaviour paper, "Emergent analogical reasoning
 in large language models," (Webb, Holyoak, and Lu, 2023) the authors argue that

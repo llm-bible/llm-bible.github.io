@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2021
 citations: 466
 bibkey: sanh2021multitask
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2110.08207
-- name: Code
-  url: https://github.com/bigscience-workshop/t-zero
-- name: Code
-  url: https://github.com/bigscience-workshop/promptsource
-tags:
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08207'}, {name: Code,
+    url: 'https://github.com/bigscience-workshop/t-zero'}, {name: Code, url: 'https://github.com/bigscience-workshop/promptsource'}]
+tags: [Prompting, Pre-Training, Fine-Tuning]
 ---
 Large language models have recently been shown to attain reasonable zero-shot
 generalization on a diverse set of tasks (Brown et al., 2020). It has been

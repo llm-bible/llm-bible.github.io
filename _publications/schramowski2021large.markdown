@@ -8,15 +8,8 @@ conference: Arxiv
 year: 2021
 citations: 154
 bibkey: schramowski2021large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2103.11790
-tags:
-- GPT
-- Transformer
-- Ethics and Bias
-- Fine-Tuning
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.11790'}]
+tags: [GPT, Transformer, Ethics and Bias, Fine-Tuning, Prompting]
 ---
 Artificial writing is permeating our lives due to recent advances in
 large-scale, transformer-based language models (LMs) such as BERT, its

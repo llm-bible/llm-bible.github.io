@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 151
 bibkey: kovaleva2019revealing
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1908.08593
-tags:
-- Transformer
-- BERT
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.08593'}]
+tags: [Transformer, BERT, Attention Mechanism]
 ---
 BERT-based architectures currently give state-of-the-art performance on many
 NLP tasks, but little is known about the exact mechanisms that contribute to

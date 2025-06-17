@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 115
 bibkey: rafailov2023direct
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2305.18290v3
-tags:
-- Reinforcement Learning
-- Fine-Tuning
-- Applications
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.18290v3'}]
+tags: [Reinforcement Learning, Fine-Tuning, Pre-Training, Applications, Agentic]
 ---
 While large-scale unsupervised language models (LMs) learn broad world
 knowledge and some reasoning skills, achieving precise control of their

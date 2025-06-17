@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 71
 bibkey: xiao2020if
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2002.01862
-tags:
-- Reinforcement Learning
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.01862'}]
+tags: [Reinforcement Learning, Tools]
 ---
 Interview chatbots engage users in a text-based conversation to draw out
 their views and opinions. It is, however, challenging to build effective

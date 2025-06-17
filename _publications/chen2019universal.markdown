@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2019
 citations: 923
 bibkey: chen2019universal
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1909.11740
-- name: Code
-  url: https://github.com/ChenRocks/UNITER
-tags:
-- Multimodal Models
-- Masked Language Model
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.11740'}, {name: Code,
+    url: 'https://github.com/ChenRocks/UNITER'}]
+tags: [Multimodal Models, Masked Language Model, Pre-Training]
 ---
 Joint image-text embedding is the bedrock for most Vision-and-Language (V+L)
 tasks, where multimodality inputs are simultaneously processed for joint visual

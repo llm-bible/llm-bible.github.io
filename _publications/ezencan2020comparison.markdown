@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 61
 bibkey: ezencan2020comparison
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2009.05451
-tags:
-- Transformer
-- BERT
-- Language Modeling
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.05451'}]
+tags: [Transformer, BERT, Language Modeling, Fine-Tuning]
 ---
 Recent advancements in the NLP field showed that transfer learning helps with
 achieving state-of-the-art results for new tasks by tuning pre-trained models

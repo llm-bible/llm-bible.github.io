@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 268
 bibkey: maynez2020faithfulness
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2005.00661
-tags:
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00661'}]
+tags: [Language Modeling]
 ---
 It is well known that the standard likelihood training and approximate
 decoding objectives in neural text generation models lead to less human-like

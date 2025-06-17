@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 105
 bibkey: fried2022generative
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2204.05999
-- name: Code
-  url: https://sites.google.com/view/incoder-code-models
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.05999'}, {name: Code,
+    url: 'https://sites.google.com/view/incoder-code-models'}]
 tags: []
 ---
 Code is seldom written in a single left-to-right pass and is instead

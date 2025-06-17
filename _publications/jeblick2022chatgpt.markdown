@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 256
 bibkey: jeblick2022chatgpt
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.14882
-tags:
-- GPT
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.14882'}]
+tags: [GPT, Prompting, Fine-Tuning]
 ---
 The release of ChatGPT, a language model capable of generating text that
 appears human-like and authentic, has gained significant attention beyond the

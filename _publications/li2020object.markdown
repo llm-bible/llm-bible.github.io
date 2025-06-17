@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 789
 bibkey: li2020object
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.06165
-tags:
-- Multimodal Models
-- Pre-Training
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06165'}]
+tags: [Multimodal Models, Pre-Training, Transformer]
 ---
 Large-scale pre-training methods of learning cross-modal representations on
 image-text pairs are becoming popular for vision-language tasks. While existing

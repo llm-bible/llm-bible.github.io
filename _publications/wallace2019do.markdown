@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 69
 bibkey: wallace2019do
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1909.07940
-tags:
-- BERT
-- Tokenization
-- Language Modeling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.07940'}]
+tags: [BERT, Tokenization, Language Modeling]
 ---
 The ability to understand and work with numbers (numeracy) is critical for
 many complex reasoning tasks. Currently, most NLP models treat numbers in text

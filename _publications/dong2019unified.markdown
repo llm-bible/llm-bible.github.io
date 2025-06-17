@@ -7,16 +7,9 @@ conference: Arxiv
 year: 2019
 citations: 829
 bibkey: dong2019unified
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.03197
-- name: Code
-  url: https://github.com/microsoft/unilm
-tags:
-- Transformer
-- BERT
-- Language Modeling
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.03197'}, {name: Code,
+    url: 'https://github.com/microsoft/unilm'}]
+tags: [Transformer, BERT, Language Modeling, Pre-Training]
 ---
 This paper presents a new Unified pre-trained Language Model (UniLM) that can
 be fine-tuned for both natural language understanding and generation tasks. The

@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 75
 bibkey: brade2023text
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.09337
-tags:
-- Prompting
-- Reinforcement Learning
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09337'}]
+tags: [Prompting, Reinforcement Learning, Fine-Tuning]
 ---
 Text-to-image generative models have demonstrated remarkable capabilities in
 generating high-quality images based on textual prompts. However, crafting

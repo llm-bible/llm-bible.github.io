@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2016
 citations: 110
 bibkey: eriguchi2016tree
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1603.06075
-tags:
-- Transformer
-- Attention Mechanism
-- Model Architecture
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1603.06075'}]
+tags: [Transformer, Attention Mechanism, Model Architecture]
 ---
 Most of the existing Neural Machine Translation (NMT) models focus on the
 conversion of sequential data and do not directly use syntactic information. We

@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 54
 bibkey: li2019robust
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1909.02244
-tags:
-- Pre-Training
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02244'}]
+tags: [Pre-Training, Agentic]
 ---
 Core to the vision-and-language navigation (VLN) challenge is building robust
 instruction representations and action decoding schemes, which can generalize

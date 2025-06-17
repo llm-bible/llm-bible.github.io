@@ -6,13 +6,9 @@ conference: Arxiv
 year: 2021
 citations: 74
 bibkey: liu2021generated
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2110.08387
-- name: Code
-  url: https://github.com/liujch1998/GKP
-tags:
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08387'}, {name: Code,
+    url: 'https://github.com/liujch1998/GKP'}]
+tags: [Prompting]
 ---
 It remains an open question whether incorporating external knowledge benefits
 commonsense reasoning while maintaining the flexibility of pretrained sequence

@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 86
 bibkey: zha2019context
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1906.02365
-tags:
-- Transformer
-- Reinforcement Learning
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.02365'}]
+tags: [Transformer, Reinforcement Learning, Attention Mechanism]
 ---
 With the maturity of visual detection techniques, we are more ambitious in
 describing visual content with open-vocabulary, fine-grained and free-form

@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 74
 bibkey: chen2019reinforcement
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1908.04942
-tags:
-- Reinforcement Learning
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.04942'}]
+tags: [Reinforcement Learning, Agentic]
 ---
 Natural question generation (QG) aims to generate questions from a passage
 and an answer. Previous works on QG either (i) ignore the rich structure

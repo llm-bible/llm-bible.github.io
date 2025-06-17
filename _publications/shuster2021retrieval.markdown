@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 157
 bibkey: shuster2021retrieval
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2104.07567
-tags:
-- RAG
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07567'}]
+tags: [RAG, Applications]
 ---
 Despite showing increasingly human-like conversational abilities,
 state-of-the-art dialogue models often suffer from factual incorrectness and

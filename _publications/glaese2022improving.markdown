@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 105
 bibkey: glaese2022improving
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2209.14375v1
-tags:
-- Agentic
-- Reinforcement Learning
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2209.14375v1'}]
+tags: [Agentic, Reinforcement Learning, Ethics and Bias]
 ---
 We present Sparrow, an information-seeking dialogue agent trained to be more
 helpful, correct, and harmless compared to prompted language model baselines.

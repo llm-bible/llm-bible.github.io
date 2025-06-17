@@ -6,16 +6,9 @@ conference: Arxiv
 year: 2018
 citations: 72
 bibkey: liu2018context
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1808.05864
-- name: Code
-  url: https://github.com/daqingliu/CAVP
-tags:
-- Multimodal Models
-- Reinforcement Learning
-- Attention Mechanism
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.05864'}, {name: Code,
+    url: 'https://github.com/daqingliu/CAVP'}]
+tags: [Multimodal Models, Reinforcement Learning, Attention Mechanism, Agentic]
 ---
 Many vision-language tasks can be reduced to the problem of sequence
 prediction for natural language output. In particular, recent advances in image

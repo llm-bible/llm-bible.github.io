@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 2861
 bibkey: ouyang2022training
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2203.02155
-tags:
-- GPT
-- Reinforcement Learning
-- Prompting
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.02155'}]
+tags: [GPT, Reinforcement Learning, Prompting, Fine-Tuning]
 ---
 Making language models bigger does not inherently make them better at
 following a user's intent. For example, large language models can generate

@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2022
 citations: 69
 bibkey: aher2022using
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2208.10264
-tags:
-- GPT
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.10264'}]
+tags: [GPT, Applications]
 ---
 We introduce a new type of test, called a Turing Experiment (TE), for
 evaluating to what extent a given language model, such as GPT models, can

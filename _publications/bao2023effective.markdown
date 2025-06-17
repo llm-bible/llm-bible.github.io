@@ -7,17 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 125
 bibkey: bao2023effective
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2305.00447
-- name: Code
-  url: https://github.com/SAI990323/TALLRec
-tags:
-- In-Context Learning
-- RAG
-- Tools
-- Prompting
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00447'}, {name: Code,
+    url: 'https://github.com/SAI990323/TALLRec'}]
+tags: [In-Context Learning, RAG, Tools, Prompting, Pre-Training]
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse domains, thereby prompting researchers to explore their potential for

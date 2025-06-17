@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 139
 bibkey: huang2022towards
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.10403
-tags:
-- Survey Paper
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10403'}]
+tags: [Survey Paper]
 ---
 Reasoning is a fundamental aspect of human intelligence that plays a crucial
 role in activities such as problem solving, decision making, and critical

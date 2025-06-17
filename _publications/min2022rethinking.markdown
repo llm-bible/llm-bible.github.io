@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 250
 bibkey: min2022rethinking
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2202.12837
-tags:
-- GPT
-- In-Context Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.12837'}]
+tags: [GPT, In-Context Learning]
 ---
 Large language models (LMs) are able to in-context learn -- perform a new
 task via inference alone by conditioning on a few input-label pairs

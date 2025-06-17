@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 98
 bibkey: hong2022large
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2205.15868
-tags:
-- Transformer
-- GPT
-- Training Techniques
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.15868'}]
+tags: [Transformer, GPT]
 ---
 Large-scale pretrained transformers have created milestones in text (GPT-3)
 and text-to-image (DALL-E and CogView) generation. Its application to video

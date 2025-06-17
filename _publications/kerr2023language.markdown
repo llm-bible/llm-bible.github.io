@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 138
 bibkey: kerr2023language
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.09553
-tags:
-- Multimodal Models
-- Prompting
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.09553'}]
+tags: [Multimodal Models, Prompting, Applications]
 ---
 Humans describe the physical world using natural language to refer to
 specific 3D locations based on a vast range of properties: visual appearance,

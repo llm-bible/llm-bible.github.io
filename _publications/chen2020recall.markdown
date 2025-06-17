@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 54
 bibkey: chen2020recall
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.12651
-tags:
-- Fine-Tuning
-- BERT
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.12651'}]
+tags: [Fine-Tuning, BERT]
 ---
 Deep pretrained language models have achieved great success in the way of
 pretraining first and then fine-tuning. But such a sequential transfer learning

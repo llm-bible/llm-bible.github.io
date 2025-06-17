@@ -6,12 +6,8 @@ conference: Neurocomputing 2018
 year: 2018
 citations: 157
 bibkey: choi2018fine
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1803.11407
-tags:
-- Transformer
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1803.11407'}]
+tags: [Transformer, Attention Mechanism]
 ---
 Neural machine translation (NMT) has been a new paradigm in machine
 translation, and the attention mechanism has become the dominant approach with

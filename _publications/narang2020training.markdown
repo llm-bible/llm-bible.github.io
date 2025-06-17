@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 110
 bibkey: narang2020training
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.14546
-tags:
-- RAG
-- Interpretability and Explainability
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14546'}]
+tags: [RAG, Interpretability and Explainability]
 ---
 Neural networks have recently achieved human-level performance on various
 challenging natural language processing (NLP) tasks, but it is notoriously

@@ -6,16 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 207
 bibkey: qin2023is
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.06476
-tags:
-- GPT
-- Attention Mechanism
-- Model Architecture
-- Few-Shot
-- Language Modeling
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.06476'}]
+tags: [GPT, Attention Mechanism, Language Modeling, Prompting]
 ---
 Spurred by advancements in scale, large language models (LLMs) have
 demonstrated the ability to perform a variety of natural language processing

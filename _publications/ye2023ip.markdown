@@ -7,15 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 71
 bibkey: ye2023ip
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2308.06721
-tags:
-- Multimodal Models
-- Transformer
-- Prompting
-- Attention Mechanism
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.06721'}]
+tags: [Multimodal Models, Transformer, Prompting, Attention Mechanism, Fine-Tuning]
 ---
 Recent years have witnessed the strong power of large text-to-image diffusion
 models for the impressive generative capability to create high-fidelity images.

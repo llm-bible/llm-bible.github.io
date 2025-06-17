@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 51
 bibkey: cho2020mixture
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2008.08273
-tags:
-- Transformer
-- Attention Mechanism
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.08273'}]
+tags: [Transformer, Attention Mechanism]
 ---
 Recently, self-attention based models have achieved state-of-the-art
 performance in sequential recommendation task. Following the custom from

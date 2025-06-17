@@ -7,13 +7,8 @@ conference: Arxiv
 year: 2020
 citations: 55
 bibkey: clement2020multi
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2010.03150
-tags:
-- GPT
-- Transformer
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.03150'}]
+tags: [GPT, Transformer, Applications]
 ---
 Simultaneously modeling source code and natural language has many exciting
 applications in automated software development and understanding. Pursuant to

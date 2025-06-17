@@ -7,14 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 99
 bibkey: zheng2023pre
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.17568
-- name: Code
-  url: https://github.com/THUDM/CodeGeeX
-tags:
-- Tools
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17568'}, {name: Code,
+    url: 'https://github.com/THUDM/CodeGeeX'}]
+tags: [Tools, Efficiency and Optimization]
 ---
 Large pre-trained code generation models, such as OpenAI Codex, can generate
 syntax- and function-correct code, making the coding of programmers more

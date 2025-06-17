@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 102
 bibkey: aghajanyan2020better
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2008.03156
-tags:
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.03156'}]
+tags: [Fine-Tuning]
 ---
 Although widely adopted, existing approaches for fine-tuning pre-trained
 language models have been shown to be unstable across hyper-parameter settings,

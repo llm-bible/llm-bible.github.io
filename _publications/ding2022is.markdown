@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 57
 bibkey: ding2022is
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2212.10450
-tags:
-- GPT
-- Few-Shot
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10450'}]
+tags: [GPT, Few-Shot, Applications]
 ---
 Data annotation is the process of labeling data that could be used to train
 machine learning models. Having high-quality annotation is crucial, as it

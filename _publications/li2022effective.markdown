@@ -6,14 +6,8 @@ conference: EMNLP2022
 year: 2022
 citations: 92
 bibkey: li2022effective
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2205.12005
-tags:
-- Multimodal Models
-- Transformer
-- Efficiency and Optimization
-- Pre-Training
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12005'}]
+tags: [Multimodal Models, Transformer, Efficiency and Optimization, Pre-Training]
 ---
 Large-scale pretrained foundation models have been an emerging paradigm for
 building artificial intelligence (AI) systems, which can be quickly adapted to

@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2020
 citations: 141
 bibkey: pfeiffer2020framework
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2007.07779
-tags:
-- Transformer
-- BERT
-- Tools
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.07779'}]
+tags: [Transformer, Fine-Tuning, Tools]
 ---
 The current modus operandi in NLP involves downloading and fine-tuning
 pre-trained models consisting of millions or billions of parameters. Storing

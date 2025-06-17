@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 238
 bibkey: jiao2023is
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2301.08745
-- name: Code
-  url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
-tags:
-- GPT
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.08745'}, {name: Code,
+    url: 'https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator'}]
+tags: [GPT, Prompting]
 ---
 This report provides a preliminary evaluation of ChatGPT for machine
 translation, including translation prompt, multilingual translation, and

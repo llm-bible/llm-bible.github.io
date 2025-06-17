@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2021
 citations: 56
 bibkey: kim2021learned
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2107.00910
-tags:
-- Transformer
-- Pruning
-- Efficiency and Optimization
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.00910'}]
+tags: [Transformer, Pruning, Efficiency and Optimization]
 ---
 Deploying transformer models in practice is challenging due to their
 inference cost, which scales quadratically with input sequence length. To

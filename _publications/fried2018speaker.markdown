@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2018
 citations: 220
 bibkey: fried2018speaker
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1806.02724
-tags:
-- Reinforcement Learning
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.02724'}]
+tags: [Reinforcement Learning, RAG]
 ---
 Navigation guided by natural language instructions presents a challenging
 reasoning problem for instruction followers. Natural language instructions

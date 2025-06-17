@@ -6,15 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 179
 bibkey: zafrir2019quantized
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1910.06188
-tags:
-- BERT
-- Transformer
-- Efficiency and Optimization
-- Quantization
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.06188'}]
+tags: [BERT, Transformer, Efficiency and Optimization, Quantization, Fine-Tuning]
 ---
 Recently, pre-trained Transformer based language models such as BERT and GPT,
 have shown great improvement in many Natural Language Processing (NLP) tasks.

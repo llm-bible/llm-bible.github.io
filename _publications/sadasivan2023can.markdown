@@ -7,15 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 115
 bibkey: sadasivan2023can
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.11156
-- name: Code
-  url: https://github.com/vinusankars/Reliability-of-AI-text-detectors
-tags:
-- Security
-- Applications
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11156'}, {name: Code,
+    url: 'https://github.com/vinusankars/Reliability-of-AI-text-detectors'}]
+tags: [Security, Applications, Tools]
 ---
 Large Language Models (LLMs) perform impressively well in various
 applications. However, the potential for misuse of these models in activities

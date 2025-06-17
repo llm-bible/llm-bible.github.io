@@ -7,14 +7,8 @@ conference: Arxiv
 year: 2023
 citations: 78
 bibkey: hu2023llm
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2304.01933
-tags:
-- GPT
-- Fine-Tuning
-- Prompting
-- Training Techniques
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01933'}]
+tags: [GPT, Fine-Tuning, Prompting, Tools]
 ---
 The success of large language models (LLMs), like GPT-4 and ChatGPT, has led
 to the development of numerous cost-effective and accessible alternatives that

@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 56
 bibkey: suzgun2022challenging
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.09261
-tags:
-- Few-Shot
-- Prompting
-- In-Context Learning
-- RAG
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.09261'}]
+tags: [Few-Shot, Prompting, In-Context Learning]
 ---
 BIG-Bench (Srivastava et al., 2022) is a diverse evaluation suite that
 focuses on tasks believed to be beyond the capabilities of current language

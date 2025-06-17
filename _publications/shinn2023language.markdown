@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 146
 bibkey: shinn2023language
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.11366
-tags:
-- GPT
-- Reinforcement Learning
-- Agentic
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11366'}]
+tags: [GPT, Reinforcement Learning, Agentic, Fine-Tuning]
 ---
 Large language models (LLMs) have been increasingly used to interact with
 external environments (e.g., games, compilers, APIs) as goal-driven agents.

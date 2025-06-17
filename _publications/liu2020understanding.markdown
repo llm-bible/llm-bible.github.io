@@ -6,14 +6,9 @@ conference: Arxiv
 year: 2020
 citations: 68
 bibkey: liu2020understanding
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2004.08249
-- name: Code
-  url: https://github.com/LiyuanLucasLiu/Transforemr-Clinic
-tags:
-- Transformer
-- Reinforcement Learning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.08249'}, {name: Code,
+    url: 'https://github.com/LiyuanLucasLiu/Transforemr-Clinic'}]
+tags: [Transformer, Training Techniques]
 ---
 Transformers have proved effective in many NLP tasks. However, their training
 requires non-trivial efforts regarding designing cutting-edge optimizers and

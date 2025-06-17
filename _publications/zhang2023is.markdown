@@ -7,15 +7,9 @@ conference: Arxiv
 year: 2023
 citations: 64
 bibkey: zhang2023is
-additional_links:
-- name: Paper
-  url: http://arxiv.org/abs/2305.07609v3
-- name: Code
-  url: https://github.com/jizhi-zhang/FaiRLLM
-tags:
-- Fairness
-- GPT
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.07609v3'}, {name: Code,
+    url: 'https://github.com/jizhi-zhang/FaiRLLM'}]
+tags: [Fairness, GPT, Ethics and Bias]
 ---
 The remarkable achievements of Large Language Models (LLMs) have led to the
 emergence of a novel recommendation paradigm -- Recommendation via LLM

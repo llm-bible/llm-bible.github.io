@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 126
 bibkey: zhu2019vision
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1911.07883
-tags:
-- Multimodal Models
-- Agentic
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.07883'}]
+tags: [Multimodal Models, Agentic]
 ---
 Vision-Language Navigation (VLN) is a task where agents learn to navigate
 following natural language instructions. The key to this task is to perceive

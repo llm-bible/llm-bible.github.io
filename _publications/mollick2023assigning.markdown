@@ -6,13 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 63
 bibkey: mollick2023assigning
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.10052
-tags:
-- Ethics and Bias
-- Prompting
-- Tools
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.10052'}]
+tags: [Ethics and Bias, Prompting, Tools]
 ---
 This paper examines the transformative role of Large Language Models (LLMs)
 in education and their potential as learning tools, despite their inherent

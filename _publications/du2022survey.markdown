@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2022
 citations: 66
 bibkey: du2022survey
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2202.10936
-tags:
-- Multimodal Models
-- Survey Paper
-- Pre-Training
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.10936'}]
+tags: [Multimodal Models, Survey Paper, Pre-Training, Transformer]
 ---
 As transformer evolves, pre-trained models have advanced at a breakneck pace
 in recent years. They have dominated the mainstream techniques in natural

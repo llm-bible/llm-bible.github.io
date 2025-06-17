@@ -6,11 +6,8 @@ conference: Arxiv
 year: 2019
 citations: 53
 bibkey: zhou2019synchronous
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1905.04847
-tags:
-- Transformer
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.04847'}]
+tags: [Transformer]
 ---
 Existing approaches to neural machine translation (NMT) generate the target
 language sequence token by token from left to right. However, this kind of

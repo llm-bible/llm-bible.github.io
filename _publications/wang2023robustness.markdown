@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 73
 bibkey: wang2023robustness
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2302.12095
-tags:
-- GPT
-- Ethics and Bias
-- Security
-- Applications
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12095'}]
+tags: [GPT, Security, Ethics and Bias, Applications, Survey Paper]
 ---
 ChatGPT is a recent chatbot service released by OpenAI and is receiving
 increasing attention over the past few months. While evaluations of various

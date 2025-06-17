@@ -7,12 +7,8 @@ conference: Arxiv
 year: 2024
 citations: 108
 bibkey: hu2024prompting
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2412.16936
-tags:
-- RAG
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2412.16936'}]
+tags: [RAG, Prompting]
 ---
 Recently, Large Language Models (LLMs) have been used for knowledge-based
 Visual Question Answering (VQA). Despite the encouraging results of previous

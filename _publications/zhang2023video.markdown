@@ -6,14 +6,8 @@ conference: Arxiv
 year: 2023
 citations: 178
 bibkey: zhang2023video
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.02858
-tags:
-- Multimodal Models
-- Language Modeling
-- Pre-Training
-- Fine-Tuning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.02858'}]
+tags: [Multimodal Models, Language Modeling, Pre-Training, Fine-Tuning]
 ---
 We present Video-LLaMA a multi-modal framework that empowers Large Language
 Models (LLMs) with the capability of understanding both visual and auditory

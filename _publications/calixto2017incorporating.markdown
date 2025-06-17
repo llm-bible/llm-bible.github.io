@@ -6,12 +6,8 @@ conference: Arxiv
 year: 2017
 citations: 58
 bibkey: calixto2017incorporating
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/1701.06521
-tags:
-- Attention Mechanism
-- Multimodal Models
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1701.06521'}]
+tags: [Attention Mechanism, Multimodal Models]
 ---
 We introduce multi-modal, attention-based neural machine translation (NMT)
 models which incorporate visual features into different parts of both the

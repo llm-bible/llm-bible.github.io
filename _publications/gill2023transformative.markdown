@@ -8,13 +8,8 @@ conference: Internet of Things and Cyber-Physical Systems (Elsevier) Volume 4 20
 year: 2023
 citations: 260
 bibkey: gill2023transformative
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2306.03823
-tags:
-- GPT
-- Applications
-- Ethics and Bias
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.03823'}]
+tags: [GPT, Applications, Ethics and Bias]
 ---
 ChatGPT, an AI-based chatbot, was released to provide coherent and useful
 replies based on analysis of large volumes of data. In this article, leading

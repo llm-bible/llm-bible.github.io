@@ -6,15 +6,9 @@ conference: Arxiv
 year: 2023
 citations: 147
 bibkey: wu2023visual
-additional_links:
-- name: Paper
-  url: https://arxiv.org/abs/2303.04671
-- name: Code
-  url: https://github.com/microsoft/visual-chatgpt
-tags:
-- GPT
-- Transformer
-- Prompting
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.04671'}, {name: Code,
+    url: 'https://github.com/microsoft/visual-chatgpt'}]
+tags: [GPT, Transformer, Prompting]
 ---
 ChatGPT is attracting a cross-field interest as it provides a language
 interface with remarkable conversational competency and reasoning capabilities
