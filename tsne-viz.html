@@ -181,10 +181,6 @@ d3.json('./tsne_clustered.json').then(function(data) {
     debounceTimer = setTimeout(updateVisualization, 200);
   });
   
-  // Search functionality
-  d3.select("#filtermap").on("keyup", function() {
-    updateVisualization();
-  });
 
   // Pan and Zoom Controls
   var panAmount = 50; // Amount of pixels to pan by
@@ -222,10 +218,9 @@ d3.json('./tsne_clustered.json').then(function(data) {
 
     // Filter data based on selected year
     filteredData = allData.filter(d => {
-      const yearMatch = d.year <= selectedYear;
-      const searchTerm = d3.select("#filtermap").on("keyup", function(e) { updateVisualization();});
-      const textMatch = !searchTerm || isMatch(d, searchTerm);
-      return yearMatch && textMatch;
+        const yearMatch = d.year <= selectedYear;
+        const textMatch = !searchTerm || isMatch(d, searchTerm);
+        return yearMatch && textMatch;
     });
     
     // Bind data
