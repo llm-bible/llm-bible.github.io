@@ -7,8 +7,11 @@ description: A tSNE visualization of all the Large Language Model Papers with Cl
 <h2>2D Map of Papers</h2>
 <p>Each dot represents one paper in this survey. Hover your mouse over each point to look
 at the details. Click on a point to go to the paper information page.</p>
-<div style="text-align: right;">
-  <label>Search </label><input type="text" spellcheck="false" id="filtermap"/>
+<div style="text-align: right; margin-bottom: 10px;">
+  <label>Search </label>
+  <input type="text" spellcheck="false" id="filtermap"/>
+  <button id="clearSearch">Clear</button>
+  <span id="matchCount" style="margin-left: 10px;">Matching papers: 0</span>
 </div>
 
 <!-- Added time slider for temporal animation -->
@@ -91,6 +94,11 @@ var filteredData = [];
 d3.json('./tsne_clustered.json').then(function(data) {
   allData = data;
 
+  d3.select("#clearSearch").on("click", function() {
+  d3.select("#filtermap").property("value", "");
+  updateVisualization();
+  });
+  
   // Convert 'year' and 'citations' fields to numbers
   allData.forEach(function(d) {
     d.year = parseInt(d.year);
@@ -261,6 +269,8 @@ d3.json('./tsne_clustered.json').then(function(data) {
         .on("mousemove", mousemove)
         .on("mouseleave", mouseleave)
         .on("click", click_link);
+  
+  d3.select("#matchCount").text("Matching papers: " + filteredData.length);
   }
 });
 </script>
