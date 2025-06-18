@@ -203,6 +203,12 @@ d3.json('./tsne_clustered.json').then(function(data) {
   });
 
   d3.select("#sizeByCitations").on("change", updateVisualization);
+
+  let debounceTimer;
+  d3.select("#filtermap").on("keyup", function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(updateVisualization, 200);
+  });
   
   // Update visualization function
   function updateVisualization() {
@@ -210,8 +216,13 @@ d3.json('./tsne_clustered.json').then(function(data) {
     var searchTerm = d3.select("#filtermap").property("value").toLocaleLowerCase();
 
     // Filter data based on selected year
-    filteredData = allData.filter(d => d.year <= selectedYear);
-
+    filteredData = allData.filter(d => {
+      const yearMatch = d.year <= selectedYear;
+      const searchTerm = d3.select("#filtermap").on("keyup", function(e) { updateVisualization();});
+      const textMatch = !searchTerm || isMatch(d, searchTerm);
+      return yearMatch && textMatch;
+    });
+    
     // Bind data
     var circles = zoomLayer.selectAll("circle")
       .data(filteredData, d => d.key); // Use d.key as the identifier
