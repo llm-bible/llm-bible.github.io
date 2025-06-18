@@ -167,12 +167,15 @@ d3.json('./tsne_clustered.json').then(function(data) {
     updateVisualization();
   });
 
+  let debounceTimer;
+  d3.select("#filtermap").on("keyup", function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(updateVisualization, 200);
+  });
+  
   // Search functionality
-  d3.select("#filtermap").on("keyup", function(e) {
-    var searchTerm = d3.select("#filtermap").property("value").toLocaleLowerCase();
-    var allPoints = zoomLayer.selectAll("circle");
-    allPoints.filter(dd => !isMatch(dd, searchTerm)).style("fill", function(d) { return color(d.cluster); });
-    allPoints.filter(dd => isMatch(dd, searchTerm)).style("fill", "#aa0000");
+  d3.select("#filtermap").on("keyup", function() {
+    updateVisualization();
   });
 
   // Pan and Zoom Controls
