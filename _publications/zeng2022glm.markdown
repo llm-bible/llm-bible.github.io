@@ -1,14 +1,14 @@
 ---
 layout: publication
 title: 'GLM-130B: An Open Bilingual Pre-trained Model'
-authors: Aohan Zeng et al.
-conference: Arxiv
+authors: Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, Ming Ding, Zhuoyi Yang, Yifan Xu, Wendi Zheng, Xiao Xia, Weng Lam Tam, Zixuan Ma, Yufei Xue, Jidong Zhai, Wenguang Chen, Peng Zhang, Yuxiao Dong, Jie Tang
+conference: "Arxiv"
 year: 2022
-citations: 247
 bibkey: zeng2022glm
-additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02414'}, {name: Code,
-    url: 'https://github.com/THUDM/GLM-130B/'}]
-tags: [GPT, Pre-Training, Efficiency and Optimization, Quantization]
+additional_links:
+  - {name: "Paper", url: 'https://arxiv.org/abs/2210.02414'}
+  - {name: "Code", url: 'https://github.com/THUDM/GLM-130B/'}
+tags: ['Reinforcement Learning', 'RAG', 'Quantization', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code']
 ---
 We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language
 model with 130 billion parameters. It is an attempt to open-source a 100B-scale
@@ -29,4 +29,4 @@ inference on 4\\(\times\\)RTX 3090 (24G) or 8\\(\times\\)RTX 2080 Ti (11G) GPUs,
 most affordable GPUs required for using 100B-scale models. The GLM-130B model
 weights are publicly accessible and its code, training logs, related toolkit,
 and lessons learned are open-sourced at
-\url\{https://github.com/THUDM/GLM-130B/\}.
+https://github.com/THUDM/GLM-130B/.
