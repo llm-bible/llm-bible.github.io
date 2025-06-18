@@ -34,10 +34,9 @@ Every week brings a wave of new papers on prompting, fine-tuning, evaluation, RA
 
 ---
 
-## 🖼️ Carousel Summary
+## 🖼️ Overview 
 
 <img src="https://llm-bible.github.io/carousel.png" alt="screenshot" width="70%"/>
-*Overview of the LLM-Bible*
 
 ---
 
