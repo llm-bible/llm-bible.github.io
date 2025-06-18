@@ -204,12 +204,6 @@ d3.json('./tsne_clustered.json').then(function(data) {
 
   d3.select("#sizeByCitations").on("change", updateVisualization);
 
-  let debounceTimer;
-  d3.select("#filtermap").on("keyup", function() {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(updateVisualization, 200);
-  });
-  
   // Update visualization function
   function updateVisualization() {
     var selectedYear = +d3.select("#yearRange").property("value");
