@@ -106,6 +106,10 @@ title: Resources on Large Language Models
 - [**TWIML AI Podcast**](https://twimlai.com/tag/podcast/): Host Sam Charrington interviews top minds in AI and machine learning, such as Andrew Ng and Ian Goodfellow, diving deep into industry trends and research breakthroughs.
 
 - [**Data Skeptic**](https://dataskeptic.com/podcast): A podcast covering data science, machine learning, and AI, featuring leading experts from academia and industry, like Charles Isbell and Dario Amodei.
+
+-  [**Andrej Karpathy – Software 3.0**](https://www.youtube.com/watch?v=zjkBMFhNj_g): A visionary keynote at AI Startup School, where Karpathy outlines the shift to “Software 3.0,” a world where foundation models are the new computing platform, and natural language becomes the new programming interface. Drawing on experience at OpenAI, Tesla, and Stanford, he explores how this transformation reshapes software, developer tools, and the future of startups.
+
+- [**Sam Altman on AGI, GPT‑5, and What’s Next – OpenAI Podcast Ep. 1**](https://www.youtube.com/watch?v=DB9mjd-65gw): In the debut episode of the OpenAI Podcast, host Andrew Mayne speaks with Sam Altman about the future of AI — covering GPT‑5, AGI and superintelligence, OpenAI’s internal tools like Operator and Deep Research, AI-powered parenting (with ChatGPT as his personal assistant), and how AI is reshaping scientific workflows and productivity.
   
 ## 🎓🧠 Courses on Large Language Models (LLMs)
 
