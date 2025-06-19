@@ -7,7 +7,7 @@ year: 2022
 citations: 26
 bibkey: zhang2022active
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.04486'}]
-tags: [GPT, In-Context Learning, Reinforcement Learning, Fine-Tuning]
+tags: [Fine-Tuning, GPT, In-Context Learning, Reinforcement Learning]
 ---
 With a handful of demonstration examples, large-scale language models show
 strong capability to perform various tasks by in-context learning from these

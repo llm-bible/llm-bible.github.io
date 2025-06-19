@@ -8,8 +8,8 @@ citations: 44
 bibkey: li2022unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.07160'}, {name: Code,
     url: 'https://github.com/microsoft/LAVENDER'}]
-tags: [Multimodal Models, Masked Language Model, Few-Shot, Pre-Training, Language
-    Modeling]
+tags: [Language Modeling, Multimodal Models, Pre-Training, Few-Shot, Masked Language
+    Model, BERT]
 ---
 Unified vision-language frameworks have greatly advanced in recent years,
 most of which adopt an encoder-decoder architecture to unify image-text tasks

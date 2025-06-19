@@ -9,7 +9,7 @@ citations: 160
 bibkey: sung2021vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.06825'}, {name: Code,
     url: 'https://github.com/ylsung/VL_adapter'}]
-tags: [Prompting, Tools, Efficiency and Optimization, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Pre-Training, Prompting, Efficiency and Optimization, Tools]
 ---
 Recently, fine-tuning language models pre-trained on large text corpora have
 provided huge improvements on vision-and-language (V&L) tasks as well as on

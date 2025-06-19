@@ -8,7 +8,7 @@ citations: 17
 bibkey: xu2023empowering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.16911'}, {name: Code,
     url: 'https://github.com/OpenRobotLab/PointLLM'}]
-tags: [GPT, RAG, Fine-Tuning]
+tags: [Fine-Tuning, GPT, RAG]
 ---
 The unprecedented advancements in Large Language Models (LLMs) have shown a
 profound impact on natural language processing but are yet to fully embrace the

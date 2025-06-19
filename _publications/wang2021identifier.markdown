@@ -8,7 +8,7 @@ year: 2021
 citations: 597
 bibkey: wang2021identifier
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.00859'}]
-tags: [Pre-Training, Transformer, GPT, BERT]
+tags: [Transformer, Pre-Training, GPT]
 ---
 Pre-trained models for Natural Languages (NL) like BERT and GPT have been
 recently shown to transfer well to Programming Languages (PL) and largely

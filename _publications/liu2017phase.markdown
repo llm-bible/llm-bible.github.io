@@ -7,7 +7,7 @@ year: 2017
 citations: 21
 bibkey: liu2017phase
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1710.10504'}]
-tags: [Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism]
 ---
 Attention models have been intensively studied to improve NLP tasks such as
 machine comprehension via both question-aware passage attention model and

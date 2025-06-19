@@ -7,7 +7,7 @@ year: 2022
 citations: 34
 bibkey: saparov2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01240'}]
-tags: [GPT, Reinforcement Learning, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT, Reinforcement Learning]
 ---
 Large language models (LLMs) have shown remarkable reasoning capabilities
 given chain-of-thought prompts (examples with intermediate reasoning steps).

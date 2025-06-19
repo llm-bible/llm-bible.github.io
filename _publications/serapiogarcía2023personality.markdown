@@ -7,7 +7,7 @@ year: 2023
 citations: 41
 bibkey: "serapiogarc\xEDa2023personality"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.00184'}]
-tags: [Ethics and Bias, Prompting, Reinforcement Learning, Agentic]
+tags: [Prompting, Ethics and Bias, Reinforcement Learning]
 ---
 The advent of large language models (LLMs) has revolutionized natural
 language processing, enabling the generation of coherent and contextually

@@ -8,7 +8,7 @@ citations: 43
 bibkey: arora2022ask
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02441'}, {name: Code,
     url: 'https://github.com/HazyResearch/ama_prompting'}]
-tags: [GPT, Few-Shot, Prompting]
+tags: [Prompting, Few-Shot, GPT]
 ---
 Large language models (LLMs) transfer well to new tasks out-of-the-box simply
 given a natural language prompt that demonstrates how to perform the task and

@@ -7,7 +7,7 @@ year: 2023
 citations: 46
 bibkey: wei2023how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.02483'}]
-tags: [GPT, Reinforcement Learning, Security, Responsible AI]
+tags: [Security, GPT, Reinforcement Learning, Prompting]
 ---
 Large language models trained for safety and harmlessness remain susceptible
 to adversarial misuse, as evidenced by the prevalence of "jailbreak" attacks on

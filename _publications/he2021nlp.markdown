@@ -7,7 +7,7 @@ year: 2021
 citations: 17
 bibkey: he2021nlp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.06168'}]
-tags: [Transformer, Distillation, Few-Shot, Applications, Prompting, Efficiency and
+tags: [Prompting, Few-Shot, Applications, Transformer, Distillation, Efficiency and
     Optimization]
 ---
 This paper studies the use of language models as a source of synthetic

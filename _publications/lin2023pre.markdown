@@ -7,7 +7,7 @@ year: 2023
 citations: 35
 bibkey: lin2023pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.07533'}]
-tags: [Pre-Training, Fine-Tuning, In-Context Learning]
+tags: [Pre-Training, Fine-Tuning, In-Context Learning, Multimodal Models]
 ---
 Visual language models (VLMs) rapidly progressed with the recent success of
 large language models. There have been growing efforts on visual instruction

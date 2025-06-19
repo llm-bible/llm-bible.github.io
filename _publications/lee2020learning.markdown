@@ -7,7 +7,7 @@ year: 2020
 citations: 18
 bibkey: lee2020learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.16249'}]
-tags: [Pre-Training, Transformer, BERT, Language Modeling]
+tags: [Transformer, Language Modeling, Pre-Training, BERT]
 ---
 We introduce Sentence-level Language Modeling, a new pre-training objective
 for learning a discourse language representation in a fully self-supervised

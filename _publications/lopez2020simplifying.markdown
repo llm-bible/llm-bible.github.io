@@ -8,7 +8,7 @@ year: 2020
 citations: 24
 bibkey: lopez2020simplifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.01107'}]
-tags: [GPT, Transformer, RAG, Fine-Tuning]
+tags: [Transformer, GPT, RAG, Fine-Tuning]
 ---
 Question generation (QG) is a natural language generation task where a model
 is trained to ask questions corresponding to some input text. Most recent

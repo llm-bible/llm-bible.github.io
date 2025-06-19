@@ -7,7 +7,7 @@ year: 2022
 citations: 31
 bibkey: li2022pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.01771'}]
-tags: [Reinforcement Learning, Agentic, Language Modeling, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, Pre-Training, Agentic, Reinforcement Learning]
 ---
 Language model (LM) pre-training is useful in many language processing tasks.
 But can pre-trained LMs be further leveraged for more general machine learning

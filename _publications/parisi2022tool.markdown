@@ -7,7 +7,7 @@ year: 2022
 citations: 25
 bibkey: parisi2022tool
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12255'}]
-tags: [Transformer, Tools, Applications]
+tags: [Tools, Transformer, Agentic]
 ---
 Transformer based language models (LMs) demonstrate increasing performance
 with scale across a wide variety of tasks. Scale alone however cannot enable

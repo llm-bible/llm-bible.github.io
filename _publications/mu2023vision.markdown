@@ -7,7 +7,7 @@ year: 2023
 citations: 27
 bibkey: mu2023vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15021'}]
-tags: [GPT, Multimodal Models, Reinforcement Learning, Pre-Training]
+tags: [Multimodal Models, Pre-Training, Agentic, GPT, Reinforcement Learning]
 ---
 Embodied AI is a crucial frontier in robotics, capable of planning and
 executing action sequences for robots to accomplish long-horizon tasks in

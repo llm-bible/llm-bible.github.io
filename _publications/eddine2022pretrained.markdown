@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: eddine2022pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.10945'}]
-tags: [Transformer, BERT, Pre-Training]
+tags: [BERT, Transformer, Pre-Training]
 ---
 Like most natural language understanding and generation tasks,
 state-of-the-art models for summarization are transformer-based

@@ -7,7 +7,7 @@ year: 2020
 citations: 23
 bibkey: huang2020trans
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.07000'}]
-tags: [Transformer, BERT, Model Architecture]
+tags: [BERT, Transformer, Model Architecture]
 ---
 Bidirectional Encoder Representations from Transformers (BERT) has recently
 achieved state-of-the-art performance on a broad range of NLP tasks including

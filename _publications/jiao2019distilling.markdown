@@ -7,7 +7,7 @@ year: 2019
 citations: 519
 bibkey: jiao2019distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.10351'}]
-tags: [Transformer, Distillation, BERT, Efficiency and Optimization, Pre-Training]
+tags: [Transformer, Distillation, Pre-Training, BERT, Efficiency and Optimization]
 ---
 Language model pre-training, such as BERT, has significantly improved the
 performances of many natural language processing tasks. However, pre-trained

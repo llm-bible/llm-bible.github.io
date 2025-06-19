@@ -9,7 +9,7 @@ citations: 20
 bibkey: lian2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13655'}, {name: Code,
     url: 'https://llm-grounded-diffusion.github.io'}]
-tags: [RAG, Prompting, Efficiency and Optimization]
+tags: [Prompting, RAG]
 ---
 Recent advancements in text-to-image diffusion models have yielded impressive
 results in generating realistic and diverse images. However, these models still

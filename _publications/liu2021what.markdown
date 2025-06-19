@@ -7,7 +7,7 @@ year: 2021
 citations: 216
 bibkey: liu2021what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.06804'}]
-tags: [GPT, Few-Shot, RAG, Prompting]
+tags: [Prompting, GPT, Few-Shot, RAG]
 ---
 GPT-\\(3\\) has attracted lots of attention due to its superior performance
 across a wide range of NLP tasks, especially with its powerful and versatile

@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: hazell2023spear
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06972'}]
-tags: [GPT, Reinforcement Learning, Prompting, Security]
+tags: [Prompting, Security, GPT]
 ---
 Recent progress in artificial intelligence (AI), particularly in the domain
 of large language models (LLMs), has resulted in powerful and versatile

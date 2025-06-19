@@ -7,7 +7,7 @@ year: 2023
 citations: 19
 bibkey: dettmers2023sparse
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.03078'}]
-tags: [Efficiency and Optimization, Quantization]
+tags: [Quantization, Efficiency and Optimization, Applications]
 ---
 Recent advances in large language model (LLM) pretraining have led to
 high-quality LLMs with impressive abilities. By compressing such LLMs via

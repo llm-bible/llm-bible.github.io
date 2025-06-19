@@ -7,7 +7,7 @@ year: 2022
 citations: 41
 bibkey: he2022rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.00303'}]
-tags: [GPT, Prompting, Fine-Tuning, Interpretability and Explainability]
+tags: [Prompting, Fine-Tuning, GPT, Interpretability and Explainability]
 ---
 Despite the success of large language models (LLMs) in various natural
 language processing (NLP) tasks, the stored knowledge in these models may

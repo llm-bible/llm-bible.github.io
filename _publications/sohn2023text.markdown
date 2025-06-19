@@ -7,7 +7,7 @@ year: 2023
 citations: 23
 bibkey: sohn2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.00983'}]
-tags: [Fine-Tuning, Prompting, RAG]
+tags: [Fine-Tuning, Prompting]
 ---
 Pre-trained large text-to-image models synthesize impressive images with an
 appropriate use of text prompts. However, ambiguities inherent in natural

@@ -7,7 +7,7 @@ year: 2023
 citations: 37
 bibkey: ye2023cognitive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.06794'}]
-tags: [Language Modeling, RAG]
+tags: [RAG, Language Modeling]
 ---
 As large language models continue to develop in the field of AI, text
 generation systems are susceptible to a worrisome phenomenon known as

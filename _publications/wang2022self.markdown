@@ -8,7 +8,7 @@ citations: 242
 bibkey: wang2022self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10560'}, {name: Code,
     url: 'https://github.com/yizhongw/self-instruct'}]
-tags: [GPT, Tools, Fine-Tuning, Prompting]
+tags: [Tools, GPT, Fine-Tuning, Prompting]
 ---
 Large "instruction-tuned" language models (i.e., finetuned to respond to
 instructions) have demonstrated a remarkable ability to generalize zero-shot to

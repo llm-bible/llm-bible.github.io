@@ -7,7 +7,7 @@ year: 2022
 citations: 170
 bibkey: goyal2022news
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.12356'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 The recent success of prompting large language models like GPT-3 has led to a
 paradigm shift in NLP research. In this paper, we study its impact on text

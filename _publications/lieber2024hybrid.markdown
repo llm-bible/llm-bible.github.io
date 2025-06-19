@@ -7,7 +7,7 @@ year: 2024
 citations: 25
 bibkey: lieber2024hybrid
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.19887'}]
-tags: [Transformer, Reinforcement Learning, RAG, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Reinforcement Learning, Model Architecture]
 ---
 We present Jamba, a new base large language model based on a novel hybrid
 Transformer-Mamba mixture-of-experts (MoE) architecture. Specifically, Jamba

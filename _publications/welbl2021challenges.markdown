@@ -7,7 +7,7 @@ year: 2021
 citations: 32
 bibkey: welbl2021challenges
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07445'}]
-tags: [Ethics and Bias, Reinforcement Learning]
+tags: [Ethics and Bias, Reinforcement Learning, Prompting]
 ---
 Large language models (LM) generate remarkably fluent text and can be
 efficiently adapted across NLP tasks. Measuring and guaranteeing the quality of

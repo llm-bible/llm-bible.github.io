@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: ye2023universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05126'}]
-tags: [Multimodal Models, Fine-Tuning, Reinforcement Learning]
+tags: [Fine-Tuning, Multimodal Models, Reinforcement Learning, RAG]
 ---
 Text is ubiquitous in our visual world, conveying crucial information, such
 as in documents, websites, and everyday photographs. In this work, we propose

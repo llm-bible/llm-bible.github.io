@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: cai2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.08014'}]
-tags: [Transformer, GPT, Language Modeling]
+tags: [Transformer, GPT, Reinforcement Learning]
 ---
 Large language models (LLMs) such as ChatGPT and Vicuna have shown remarkable
 capacities in comprehending and producing language. However, their internal

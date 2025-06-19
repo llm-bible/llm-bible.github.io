@@ -7,7 +7,7 @@ year: 2019
 citations: 33
 bibkey: hao2019modeling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.03092'}]
-tags: [Transformer, Attention Mechanism]
+tags: [Transformer, RAG, Attention Mechanism]
 ---
 Recently, the Transformer model that is based solely on attention mechanisms,
 has advanced the state-of-the-art on various machine translation tasks.

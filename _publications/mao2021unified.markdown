@@ -7,7 +7,7 @@ year: 2021
 citations: 39
 bibkey: mao2021unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07577'}]
-tags: [Fine-Tuning]
+tags: [Fine-Tuning, Tools]
 ---
 Recent parameter-efficient language model tuning (PELT) methods manage to
 match the performance of fine-tuning with much fewer trainable parameters and

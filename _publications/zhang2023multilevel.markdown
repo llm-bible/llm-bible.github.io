@@ -10,7 +10,7 @@ citations: 22
 bibkey: zhang2023multilevel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05179'}, {name: Code,
     url: 'https://github.com/DAMO-NLP-SG/M3Exam'}]
-tags: [GPT, Multimodal Models, Applications]
+tags: [Multimodal Models, GPT]
 ---
 Despite the existence of various benchmarks for evaluating natural language
 processing models, we argue that human exams are a more suitable means of
@@ -34,4 +34,4 @@ low-resource and non-Latin script languages. Multimodal LLMs also perform
 poorly with complex multimodal questions. We believe that M3Exam can be a
 valuable resource for comprehensively evaluating LLMs by examining their
 multilingual and multimodal abilities and tracking their development. Data and
-evaluation code is available at \url\{https://github.com/DAMO-NLP-SG/M3Exam\}.
+evaluation code is available at https://github.com/DAMO-NLP-SG/M3Exam.

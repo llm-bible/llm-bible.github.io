@@ -9,7 +9,7 @@ year: 2021
 citations: 41
 bibkey: salaberria2021image
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.08029'}]
-tags: [Reinforcement Learning, Multimodal Models]
+tags: [Multimodal Models, Reinforcement Learning]
 ---
 Integrating outside knowledge for reasoning in visio-linguistic tasks such as
 visual question answering (VQA) is an open problem. Given that pretrained

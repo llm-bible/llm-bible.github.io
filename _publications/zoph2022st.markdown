@@ -7,7 +7,7 @@ year: 2022
 citations: 32
 bibkey: zoph2022st
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.08906'}]
-tags: [Transformer, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Model Architecture]
 ---
 Scale has opened new frontiers in natural language processing -- but at a
 high cost. In response, Mixture-of-Experts (MoE) and Switch Transformers have

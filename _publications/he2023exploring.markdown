@@ -8,7 +8,7 @@ citations: 17
 bibkey: he2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.04118'}, {name: Code,
     url: 'https://github.com/zwhe99/MAPS-mt'}]
-tags: [Prompting, Attention Mechanism]
+tags: [Prompting, Tools]
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 general scenarios, exhibiting a level of aptitude that approaches, in some

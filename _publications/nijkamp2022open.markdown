@@ -8,7 +8,7 @@ citations: 176
 bibkey: nijkamp2022open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13474'}, {name: Code,
     url: 'https://github.com/salesforce/CodeGen'}]
-tags: [Prompting, Tools, Pre-Training]
+tags: [Prompting, Tools]
 ---
 Program synthesis strives to generate a computer program as a solution to a
 given problem specification, expressed with input-output examples or natural

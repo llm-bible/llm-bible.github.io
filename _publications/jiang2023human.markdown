@@ -7,7 +7,8 @@ year: 2023
 citations: 42
 bibkey: jiang2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.14795'}]
-tags: [GPT, Fine-Tuning, Prompting, Language Modeling, Pre-Training]
+tags: [Prompting, Fine-Tuning, Language Modeling, Pre-Training, Efficiency and Optimization,
+  GPT, Tokenization]
 ---
 Though the advancement of pre-trained large language models unfolds, the
 exploration of building a unified model for language and other multi-modal

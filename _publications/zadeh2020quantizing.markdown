@@ -8,7 +8,7 @@ year: 2020
 citations: 82
 bibkey: zadeh2020quantizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.03842'}]
-tags: [Efficiency and Optimization, Quantization, BERT, Applications, Attention Mechanism]
+tags: [Quantization, Efficiency and Optimization, BERT, Attention Mechanism]
 ---
 Attention-based models have demonstrated remarkable success in various
 natural language understanding tasks. However, efficient execution remains a

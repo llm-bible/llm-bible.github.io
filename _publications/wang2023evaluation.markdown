@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: wang2023evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15126'}]
-tags: [Multimodal Models, RAG, Training Techniques]
+tags: [Multimodal Models, RAG, Tools]
 ---
 Large Vision-Language Models (LVLMs) have recently achieved remarkable
 success. However, LVLMs are still plagued by the hallucination problem, which

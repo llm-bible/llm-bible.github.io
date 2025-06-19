@@ -8,7 +8,7 @@ citations: 16
 bibkey: yang2023set
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.11441'}, {name: Code,
     url: 'https://github.com/microsoft/SoM'}]
-tags: [GPT, Multimodal Models, Prompting]
+tags: [Prompting, Multimodal Models, GPT, Reinforcement Learning]
 ---
 We present Set-of-Mark (SoM), a new visual prompting method, to unleash the
 visual grounding abilities of large multimodal models (LMMs), such as GPT-4V.

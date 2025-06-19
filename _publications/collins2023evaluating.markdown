@@ -7,7 +7,7 @@ year: 2023
 citations: 19
 bibkey: collins2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.01694'}]
-tags: [Reinforcement Learning, GPT, Tools]
+tags: [Tools, GPT, Reinforcement Learning]
 ---
 There is much excitement about the opportunity to harness the power of large
 language models (LLMs) when building problem-solving assistants. However, the

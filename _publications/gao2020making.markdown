@@ -7,7 +7,7 @@ year: 2020
 citations: 457
 bibkey: gao2020making
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15723'}]
-tags: [GPT, Few-Shot, Prompting, Fine-Tuning]
+tags: [Few-Shot, Fine-Tuning, Prompting, GPT]
 ---
 The recent GPT-3 model (Brown et al., 2020) achieves remarkable few-shot
 performance solely by leveraging a natural-language prompt and a few task

@@ -7,7 +7,7 @@ year: 2023
 citations: 26
 bibkey: zhou2023ethical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10646'}]
-tags: [GPT, Ethics and Bias, Applications]
+tags: [Applications, Ethics and Bias, GPT]
 ---
 Large language models, e.g. ChatGPT are currently contributing enormously to
 make artificial intelligence even more popular, especially among the general

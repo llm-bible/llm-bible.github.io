@@ -8,7 +8,7 @@ year: 2023
 citations: 45
 bibkey: cui2023drive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.08034'}]
-tags: [Reinforcement Learning, RAG, Tools, Prompting]
+tags: [Prompting, Reinforcement Learning, Tools]
 ---
 The fusion of human-centric design and artificial intelligence (AI)
 capabilities has opened up new possibilities for next-generation autonomous

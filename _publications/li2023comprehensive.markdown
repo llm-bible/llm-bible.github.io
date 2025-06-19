@@ -8,7 +8,7 @@ citations: 39
 bibkey: li2023comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17005'}, {name: Code,
     url: 'https://github.com/OpenGVLab/Ask-Anything'}]
-tags: [Multimodal Models, Tools, Reinforcement Learning, Ethics and Bias, Fine-Tuning]
+tags: [Multimodal Models, Fine-Tuning, Ethics and Bias, Tools]
 ---
 With the rapid development of Multi-modal Large Language Models (MLLMs), a
 number of diagnostic benchmarks have recently emerged to evaluate the

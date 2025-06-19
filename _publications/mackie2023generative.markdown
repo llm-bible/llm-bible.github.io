@@ -7,7 +7,7 @@ year: 2023
 citations: 20
 bibkey: mackie2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.13157'}]
-tags: [RAG, Language Modeling, Prompting]
+tags: [RAG, Prompting, Language Modeling]
 ---
 Current query expansion models use pseudo-relevance feedback to improve
 first-pass retrieval effectiveness; however, this fails when the initial

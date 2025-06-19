@@ -9,7 +9,7 @@ citations: 31
 bibkey: wen2023knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.09729'}, {name: Code,
     url: 'https://github.com/wyl-willing/MindMap'}]
-tags: [RAG, Prompting, Ethics and Bias, Tools]
+tags: [Prompting, Tools, RAG, Ethics and Bias]
 ---
 Large language models (LLMs) have achieved remarkable performance in natural
 language understanding and generation tasks. However, they often suffer from

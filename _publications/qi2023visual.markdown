@@ -7,7 +7,7 @@ year: 2023
 citations: 36
 bibkey: qi2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.13213'}]
-tags: [Security, Multimodal Models, Few-Shot, GPT]
+tags: [Security, Multimodal Models, GPT, Few-Shot]
 ---
 Recently, there has been a surge of interest in integrating vision into Large
 Language Models (LLMs), exemplified by Visual Language Models (VLMs) such as

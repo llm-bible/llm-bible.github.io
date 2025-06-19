@@ -9,8 +9,8 @@ year: 2021
 citations: 19
 bibkey: eichenberg2021magma
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.05253'}]
-tags: [Multimodal Models, Language Modeling, Efficiency and Optimization, In-Context
-    Learning, GPT]
+tags: [Language Modeling, Multimodal Models, GPT, In-Context Learning, Efficiency
+    and Optimization]
 ---
 Large-scale pretraining is fast becoming the norm in Vision-Language (VL)
 modeling. However, prevailing VL approaches are limited by the requirement for

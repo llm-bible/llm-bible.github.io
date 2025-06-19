@@ -7,7 +7,7 @@ year: 2019
 citations: 58
 bibkey: merity2019single
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.11423'}]
-tags: [Transformer, Language Modeling, Attention Mechanism, Efficiency and Optimization]
+tags: [Language Modeling, Efficiency and Optimization, Attention Mechanism]
 ---
 The leading approaches in language modeling are all obsessed with TV shows of
 my youth - namely Transformers and Sesame Street. Transformers this,

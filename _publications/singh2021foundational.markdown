@@ -7,7 +7,7 @@ year: 2021
 citations: 253
 bibkey: singh2021foundational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.04482'}]
-tags: [Multimodal Models]
+tags: [Multimodal Models, Reinforcement Learning]
 ---
 State-of-the-art vision and vision-and-language models rely on large-scale
 visio-linguistic pretraining for obtaining good performance on a variety of

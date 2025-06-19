@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: dhingra2023mind
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11436'}]
-tags: [GPT, Reinforcement Learning, Attention Mechanism]
+tags: [GPT, Reinforcement Learning, Model Architecture, Attention Mechanism]
 ---
 Cognitive psychology delves on understanding perception, attention, memory,
 language, problem-solving, decision-making, and reasoning. Large language

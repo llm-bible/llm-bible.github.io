@@ -8,7 +8,7 @@ year: 2023
 citations: 37
 bibkey: savelka2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.08033'}]
-tags: [GPT, Transformer, Reinforcement Learning, Interpretability and Explainability]
+tags: [Transformer, GPT, Interpretability and Explainability, Reinforcement Learning]
 ---
 We analyzed effectiveness of three generative pre-trained transformer (GPT)
 models in answering multiple-choice question (MCQ) assessments, often involving

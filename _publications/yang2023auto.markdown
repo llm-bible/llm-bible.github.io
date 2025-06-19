@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: yang2023auto
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.02224'}]
-tags: [GPT, Reinforcement Learning, RAG, Agentic, Fine-Tuning]
+tags: [Fine-Tuning, GPT, Agentic, Reinforcement Learning, RAG]
 ---
 Auto-GPT is an autonomous agent that leverages recent advancements in
 adapting Large Language Models (LLMs) for decision-making tasks. While there

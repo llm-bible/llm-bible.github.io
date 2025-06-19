@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: chen2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.18651'}]
-tags: [Prompting, Multimodal Models, Applications]
+tags: [Multimodal Models, Prompting, Applications]
 ---
 Recent advances in Large Multimodal Models (LMM) have made it possible for
 various applications in human-machine interactions. However, developing LMMs

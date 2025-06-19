@@ -8,7 +8,7 @@ citations: 46
 bibkey: frantar2023massive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.00774'}, {name: Code,
     url: 'https://github.com/IST-DASLab/sparsegpt'}]
-tags: [GPT, Transformer, Pruning, Efficiency and Optimization, Quantization]
+tags: [Transformer, Quantization, GPT, Pruning, Efficiency and Optimization]
 ---
 We show for the first time that large-scale generative pretrained transformer
 (GPT) family models can be pruned to at least 50% sparsity in one-shot, without

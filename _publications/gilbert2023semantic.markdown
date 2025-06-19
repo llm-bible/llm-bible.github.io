@@ -8,7 +8,7 @@ year: 2023
 citations: 17
 bibkey: gilbert2023semantic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.12512'}]
-tags: [GPT, RAG, Prompting]
+tags: [Prompting, GPT, RAG]
 ---
 The rise of large language models (LLMs) is revolutionizing information
 retrieval, question answering, summarization, and code generation tasks.

@@ -7,7 +7,7 @@ year: 2021
 citations: 79
 bibkey: phan2021text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03598'}]
-tags: [Transformer, BERT, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling, BERT]
 ---
 In this report, we introduce SciFive, a domain-specific T5 model that has
 been pre-trained on large biomedical corpora. Our model outperforms the current

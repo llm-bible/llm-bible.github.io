@@ -8,7 +8,7 @@ year: 2023
 citations: 127
 bibkey: kotek2023gender
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14921'}]
-tags: [Ethics and Bias, Prompting, Interpretability and Explainability]
+tags: [Ethics and Bias, Interpretability and Explainability, Prompting]
 ---
 Large Language Models (LLMs) have made substantial progress in the past
 several months, shattering state-of-the-art benchmarks in many domains. This

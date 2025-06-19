@@ -7,7 +7,7 @@ year: 2021
 citations: 67
 bibkey: kim2021self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.07345'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [BERT, Transformer, Fine-Tuning]
 ---
 Although BERT and its variants have reshaped the NLP landscape, it still
 remains unclear how best to derive sentence embeddings from such pre-trained

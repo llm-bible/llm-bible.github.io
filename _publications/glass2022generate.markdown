@@ -8,7 +8,7 @@ citations: 23
 bibkey: glass2022generate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.06300'}, {name: Code,
     url: 'https://github.com/IBM/kgi-slot-filling/tree/re2g'}]
-tags: [RAG, GPT, Transformer, Distillation, Efficiency and Optimization]
+tags: [RAG, Transformer, Distillation, GPT, Efficiency and Optimization]
 ---
 As demonstrated by GPT-3 and T5, transformers grow in capability as parameter
 spaces become larger and larger. However, for tasks that require a large amount

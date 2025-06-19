@@ -7,7 +7,7 @@ year: 2019
 citations: 15
 bibkey: chen2019dual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.08360'}]
-tags: [Multimodal Models, RAG, Attention Mechanism]
+tags: [Multimodal Models, Agentic, Attention Mechanism]
 ---
 Visual Dialog is a vision-language task that requires an AI agent to engage
 in a conversation with humans grounded in an image. It remains a challenging

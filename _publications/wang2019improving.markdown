@@ -8,7 +8,7 @@ citations: 25
 bibkey: wang2019improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.07491'}, {name: Code,
     url: 'https://github.com/siat-nlp/TransDG'}]
-tags: [Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism]
 ---
 Neural network models usually suffer from the challenge of incorporating
 commonsense knowledge into the open-domain dialogue systems. In this paper, we

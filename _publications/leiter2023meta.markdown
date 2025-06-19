@@ -7,7 +7,7 @@ year: 2023
 citations: 49
 bibkey: leiter2023meta
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13795'}]
-tags: [GPT, Survey Paper, Ethics and Bias, Tools]
+tags: [GPT, Ethics and Bias, Survey Paper]
 ---
 ChatGPT, a chatbot developed by OpenAI, has gained widespread popularity and
 media attention since its release in November 2022. However, little hard

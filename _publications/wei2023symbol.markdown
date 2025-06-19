@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: wei2023symbol
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.08298'}]
-tags: [In-Context Learning, Prompting]
+tags: [Prompting, In-Context Learning]
 ---
 We present symbol tuning - finetuning language models on in-context
 input-label pairs where natural language labels (e.g., "positive/negative

@@ -8,7 +8,7 @@ year: 2019
 citations: 22
 bibkey: wen2019adapting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.05604'}]
-tags: [Transformer, BERT, Training Techniques]
+tags: [Transformer, BERT, Tools]
 ---
 Objectives: To adapt and evaluate a deep learning language model for
 answering why-questions based on patient-specific clinical text. Materials and

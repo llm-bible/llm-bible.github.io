@@ -8,7 +8,7 @@ year: 2024
 citations: 30
 bibkey: novelli2024generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.07348'}]
-tags: [GPT, Multimodal Models, Security]
+tags: [Security, Multimodal Models, GPT, Applications, Ethics and Bias]
 ---
 The advent of Generative AI, particularly through Large Language Models
 (LLMs) like ChatGPT and its successors, marks a paradigm shift in the AI

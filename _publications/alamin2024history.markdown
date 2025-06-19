@@ -8,7 +8,7 @@ year: 2024
 citations: 16
 bibkey: alamin2024history
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.05122'}]
-tags: [GPT, Transformer, Survey Paper, Agentic]
+tags: [Survey Paper, Transformer, GPT, Agentic]
 ---
 This research provides an in-depth comprehensive review of the progress of
 chatbot technology over time, from the initial basic systems relying on rules

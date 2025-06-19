@@ -7,7 +7,7 @@ year: 2021
 citations: 69
 bibkey: wu2021additive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.09084'}]
-tags: [Transformer, Attention Mechanism, Model Architecture]
+tags: [Transformer, Efficiency and Optimization]
 ---
 Transformer is a powerful model for text understanding. However, it is
 inefficient due to its quadratic complexity to input sequence length. Although

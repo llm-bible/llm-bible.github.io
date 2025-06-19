@@ -7,7 +7,7 @@ year: 2021
 citations: 90
 bibkey: xie2021explanation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.02080'}]
-tags: [GPT, Scaling Laws, In-Context Learning, Transformer, Few-Shot, Prompting]
+tags: [Prompting, Few-Shot, In-Context Learning, Transformer, Scaling Laws]
 ---
 Large language models (LMs) such as GPT-3 have the surprising ability to do
 in-context learning, where the model learns to do a downstream task simply by

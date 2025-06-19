@@ -9,7 +9,7 @@ citations: 21
 bibkey: jin2023chat
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.08046'}, {name: Code,
     url: 'https://github.com/PKU-YuanGroup/Chat-UniVi'}]
-tags: [Multimodal Models, Reinforcement Learning, RAG, Tools]
+tags: [Multimodal Models, Tools]
 ---
 Large language models have demonstrated impressive universal capabilities
 across a wide range of open-ended tasks and have extended their utility to

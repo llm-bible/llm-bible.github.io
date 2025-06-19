@@ -8,7 +8,7 @@ year: 2023
 citations: 35
 bibkey: zhang2023recommendation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07001'}]
-tags: [GPT, Reinforcement Learning, Tools, Attention Mechanism]
+tags: [GPT, Reinforcement Learning, Tools, Prompting]
 ---
 In the past decades, recommender systems have attracted much attention in
 both research and industry communities, and a large number of studies have been

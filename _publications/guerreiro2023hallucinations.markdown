@@ -7,7 +7,7 @@ year: 2023
 citations: 32
 bibkey: guerreiro2023hallucinations
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.16104'}]
-tags: [GPT, Applications, Prompting, Responsible AI]
+tags: [Prompting, Applications, GPT, Reinforcement Learning]
 ---
 Large-scale multilingual machine translation systems have demonstrated
 remarkable ability to translate directly between numerous languages, making

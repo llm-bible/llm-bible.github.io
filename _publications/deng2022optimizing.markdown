@@ -7,7 +7,7 @@ year: 2022
 citations: 43
 bibkey: deng2022optimizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12548'}]
-tags: [GPT, Reinforcement Learning, Few-Shot, Prompting, BERT]
+tags: [Prompting, Few-Shot, Reinforcement Learning, BERT, GPT]
 ---
 Prompting has shown impressive success in enabling large pretrained language
 models (LMs) to perform diverse NLP tasks, especially when only few downstream

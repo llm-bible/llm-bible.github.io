@@ -7,7 +7,7 @@ year: 2023
 citations: 28
 bibkey: hagendorff2023deception
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16513'}]
-tags: [Reinforcement Learning, GPT, Agentic]
+tags: [GPT, Reinforcement Learning, Agentic]
 ---
 Large language models (LLMs) are currently at the forefront of intertwining
 artificial intelligence (AI) systems with human communication and everyday

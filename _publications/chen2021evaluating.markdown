@@ -7,7 +7,7 @@ year: 2021
 citations: 1169
 bibkey: chen2021evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.03374'}]
-tags: [GPT, Prompting, Security]
+tags: [Prompting, Security, GPT]
 ---
 We introduce Codex, a GPT language model fine-tuned on publicly available
 code from GitHub, and study its Python code-writing capabilities. A distinct

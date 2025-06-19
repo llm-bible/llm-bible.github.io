@@ -8,7 +8,7 @@ year: 2019
 citations: 38
 bibkey: chen2019semantically
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.12866'}]
-tags: [Transformer, Attention Mechanism, Model Architecture]
+tags: [Transformer, Attention Mechanism]
 ---
 Semantically controlled neural response generation on limited-domain has
 achieved great performance. However, moving towards multi-domain large-scale

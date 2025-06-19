@@ -7,7 +7,7 @@ year: 2019
 citations: 22
 bibkey: zhang2019sequence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06002'}]
-tags: [Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Pre-Training]
 ---
 We study sequence-to-sequence (seq2seq) pre-training with data augmentation
 for sentence rewriting. Instead of training a seq2seq model with gold training

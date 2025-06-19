@@ -8,7 +8,7 @@ year: 2022
 citations: 24
 bibkey: shaikh2022second
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.08061'}]
-tags: [Ethics and Bias, Prompting]
+tags: [Prompting, Ethics and Bias]
 ---
 Generating a Chain of Thought (CoT) has been shown to consistently improve
 large language model (LLM) performance on a wide range of NLP tasks. However,

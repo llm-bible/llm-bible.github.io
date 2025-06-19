@@ -8,7 +8,7 @@ citations: 26
 bibkey: fei2023transferable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16525'}, {name: Code,
     url: 'https://github.com/FeiElysia/ViECap'}]
-tags: [Multimodal Models, RAG, Prompting, Attention Mechanism, Language Modeling]
+tags: [Prompting, Multimodal Models, Language Modeling, RAG]
 ---
 Image-to-text generation aims to describe images using natural language.
 Recently, zero-shot image captioning based on pre-trained vision-language

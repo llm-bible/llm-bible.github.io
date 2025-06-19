@@ -7,7 +7,7 @@ year: 2019
 citations: 24
 bibkey: witteveen2019paraphrasing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.09661'}]
-tags: [GPT, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, GPT]
 ---
 Recently, large language models such as GPT-2 have shown themselves to be
 extremely adept at text generation and have also been able to achieve

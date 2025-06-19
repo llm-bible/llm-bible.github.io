@@ -8,7 +8,7 @@ year: 2021
 citations: 182
 bibkey: zaken2021simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.10199'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT]
 ---
 We introduce BitFit, a sparse-finetuning method where only the bias-terms of
 the model (or a subset of them) are being modified. We show that with

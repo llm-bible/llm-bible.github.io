@@ -7,7 +7,7 @@ year: 2022
 citations: 232
 bibkey: lewkowycz2022solving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.14858'}]
-tags: [Reinforcement Learning, Tools, Pre-Training, Language Modeling]
+tags: [Pre-Training, Reinforcement Learning, Language Modeling]
 ---
 Language models have achieved remarkable performance on a wide range of tasks
 that require natural language understanding. Nevertheless, state-of-the-art

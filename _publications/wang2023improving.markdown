@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: wang2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.00368'}]
-tags: [RAG, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Pre-Training, RAG]
 ---
 In this paper, we introduce a novel and simple method for obtaining
 high-quality text embeddings using only synthetic data and less than 1k

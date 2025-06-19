@@ -7,7 +7,7 @@ year: 2020
 citations: 40
 bibkey: guo2020incorporating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06138'}]
-tags: [BERT, Fine-Tuning, Language Modeling, RAG]
+tags: [Fine-Tuning, Language Modeling, BERT, Model Architecture]
 ---
 While large scale pre-trained language models such as BERT have achieved
 great success on various natural language understanding tasks, how to

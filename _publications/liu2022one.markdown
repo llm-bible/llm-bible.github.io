@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: liu2022one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10505'}]
-tags: [Few-Shot, Prompting, Reinforcement Learning]
+tags: [Prompting, Few-Shot, Reinforcement Learning]
 ---
 Visual language such as charts and plots is ubiquitous in the human world.
 Comprehending plots and charts requires strong reasoning skills. Prior

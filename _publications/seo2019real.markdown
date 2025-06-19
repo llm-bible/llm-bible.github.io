@@ -7,7 +7,7 @@ year: 2019
 citations: 44
 bibkey: seo2019real
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.05807'}]
-tags: [RAG, Efficiency and Optimization]
+tags: [Efficiency and Optimization, RAG]
 ---
 Existing open-domain question answering (QA) models are not suitable for
 real-time usage because they need to process several long documents on-demand

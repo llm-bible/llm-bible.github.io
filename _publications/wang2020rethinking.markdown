@@ -7,7 +7,7 @@ year: 2020
 citations: 16
 bibkey: wang2020rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.03803'}]
-tags: [Transformer, Pre-Training]
+tags: [Transformer, Training Techniques]
 ---
 Transformer becomes the state-of-the-art translation model, while it is not
 well studied how each intermediate component contributes to the model

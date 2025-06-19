@@ -7,7 +7,7 @@ year: 2021
 citations: 18
 bibkey: xing2021km
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00419'}]
-tags: [Multimodal Models, Transformer, Pre-Training, RAG]
+tags: [Transformer, Multimodal Models, RAG, Pre-Training]
 ---
 We present Knowledge Enhanced Multimodal BART (KM-BART), which is a
 Transformer-based sequence-to-sequence model capable of reasoning about

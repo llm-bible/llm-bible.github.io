@@ -7,7 +7,7 @@ year: 2020
 citations: 261
 bibkey: sun2020compact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.02984'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT, Model Architecture]
 ---
 Natural Language Processing (NLP) has recently achieved great success by
 using huge pre-trained models with hundreds of millions of parameters. However,

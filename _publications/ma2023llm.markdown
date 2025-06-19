@@ -8,7 +8,7 @@ citations: 52
 bibkey: ma2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11627'}, {name: Code,
     url: 'https://github.com/horseee/LLM-Pruner'}]
-tags: [Pruning, Efficiency and Optimization, Fine-Tuning]
+tags: [Fine-Tuning, Distillation, Pruning, Efficiency and Optimization]
 ---
 Large language models (LLMs) have shown remarkable capabilities in language
 understanding and generation. However, such impressive capability typically

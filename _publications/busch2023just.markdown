@@ -7,7 +7,7 @@ year: 2023
 citations: 34
 bibkey: busch2023just
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07183'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 GPT-3 and several other language models (LMs) can effectively address various
 natural language processing (NLP) tasks, including machine translation and text

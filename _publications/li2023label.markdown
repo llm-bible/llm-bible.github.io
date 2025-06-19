@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: li2023label
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01208'}]
-tags: [Fine-Tuning, Few-Shot, BERT, Prompting, Reinforcement Learning]
+tags: [Fine-Tuning, Few-Shot, BERT, Prompting, Reinforcement Learning, RAG]
 ---
 The recent success of Large Language Models (LLMs) has gained significant
 attention in both academia and industry. Substantial efforts have been made to

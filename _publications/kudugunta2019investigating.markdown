@@ -8,7 +8,7 @@ year: 2019
 citations: 19
 bibkey: kudugunta2019investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02197'}]
-tags: [Few-Shot, Fine-Tuning]
+tags: [Fine-Tuning, Few-Shot]
 ---
 Multilingual Neural Machine Translation (NMT) models have yielded large
 empirical success in transfer learning settings. However, these black-box

@@ -7,7 +7,7 @@ year: 2023
 citations: 49
 bibkey: liao2023ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.01941'}]
-tags: [Ethics and Bias, Interpretability and Explainability, Applications]
+tags: [Applications, Ethics and Bias, Interpretability and Explainability]
 ---
 The rise of powerful large language models (LLMs) brings about tremendous
 opportunities for innovation but also looming risks for individuals and society

@@ -8,7 +8,7 @@ year: 2023
 citations: 22
 bibkey: fleming2023clinician
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14089'}]
-tags: [GPT, Reinforcement Learning, Language Modeling, Survey Paper]
+tags: [Language Modeling, GPT, Reinforcement Learning]
 ---
 The ability of large language models (LLMs) to follow natural language
 instructions with human-level fluency suggests many opportunities in healthcare

@@ -8,7 +8,7 @@ year: 2023
 citations: 27
 bibkey: "m\xFCndler2023self"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15852'}]
-tags: [GPT, Prompting, Tools]
+tags: [Tools, Prompting, GPT]
 ---
 Large language models (large LMs) are susceptible to producing text that
 contains hallucinated content. An important instance of this problem is

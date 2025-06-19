@@ -9,7 +9,7 @@ citations: 106
 bibkey: lu2022learn
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.09513'}, {name: Code,
     url: 'https://scienceqa.github.io'}]
-tags: [Multimodal Models, Few-Shot, RAG, Interpretability and Explainability, GPT]
+tags: [Multimodal Models, Few-Shot, Interpretability and Explainability, RAG, GPT]
 ---
 When answering a question, humans utilize the information available across
 different modalities to synthesize a consistent and complete chain of thought

@@ -7,7 +7,7 @@ year: 2020
 citations: 22
 bibkey: pudipeddi2020training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.05645'}]
-tags: [Transformer, BERT, Efficiency and Optimization]
+tags: [BERT, Transformer, Efficiency and Optimization]
 ---
 Widely popular transformer-based NLP models such as BERT and Turing-NLG have
 enormous capacity trending to billions of parameters. Current execution methods

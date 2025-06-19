@@ -8,7 +8,7 @@ year: 2021
 citations: 73
 bibkey: solaiman2021process
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.10328'}]
-tags: [GPT, Ethics and Bias, Fine-Tuning]
+tags: [Fine-Tuning, GPT, Ethics and Bias]
 ---
 Language models can generate harmful and biased outputs and exhibit
 undesirable behavior according to a given cultural context. We propose a

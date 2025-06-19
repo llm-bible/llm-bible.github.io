@@ -8,7 +8,7 @@ year: 2023
 citations: 30
 bibkey: siddiq2023using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00418'}]
-tags: [GPT, Prompting, Language Modeling, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Language Modeling, GPT]
 ---
 A code generation model generates code by taking a prompt from a code
 comment, existing code, or a combination of both. Although code generation

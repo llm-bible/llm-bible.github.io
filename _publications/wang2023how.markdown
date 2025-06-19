@@ -8,7 +8,7 @@ citations: 27
 bibkey: wang2023how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.04751'}, {name: Code,
     url: 'https://github.com/allenai/open-instruct'}]
-tags: [GPT, Fine-Tuning, Tools]
+tags: [Fine-Tuning, GPT, Tools]
 ---
 In this work we explore recent advances in instruction-tuning language models
 on a range of open instruction-following datasets. Despite recent claims that

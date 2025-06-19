@@ -8,7 +8,7 @@ year: 2024
 citations: 34
 bibkey: guo2024deepseek
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.14196'}]
-tags: [GPT, Pre-Training, Tools, Language Modeling]
+tags: [Tools, GPT, Pre-Training, Language Modeling, Model Architecture]
 ---
 The rapid development of large language models has revolutionized code
 intelligence in software development. However, the predominance of

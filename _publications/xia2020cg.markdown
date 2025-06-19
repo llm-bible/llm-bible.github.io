@@ -8,7 +8,7 @@ year: 2020
 citations: 37
 bibkey: xia2020cg
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.01881'}]
-tags: [Few-Shot, BERT, Language Modeling]
+tags: [Language Modeling, Few-Shot, BERT]
 ---
 In this paper, we formulate a more realistic and difficult problem setup for
 the intent detection task in natural language understanding, namely Generalized

@@ -8,8 +8,8 @@ citations: 23
 bibkey: nijkamp2023lessons
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02309'}, {name: Code,
     url: 'https://github.com/salesforce/CodeGen'}]
-tags: [Scaling Laws, Pre-Training, Efficiency and Optimization, Language Modeling,
-  Model Architecture, Training Techniques]
+tags: [Fine-Tuning, Language Modeling, Pre-Training, Efficiency and Optimization,
+  Scaling Laws, Model Architecture]
 ---
 Large language models (LLMs) have demonstrated remarkable abilities in
 representation learning for program synthesis and understanding tasks. The

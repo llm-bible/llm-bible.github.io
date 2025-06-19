@@ -8,8 +8,7 @@ year: 2023
 citations: 53
 bibkey: liesenfeld2023opening
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05532'}]
-tags: [GPT, Reinforcement Learning, Ethics and Bias, Fine-Tuning, Survey Paper, Language
-    Modeling]
+tags: [Fine-Tuning, Ethics and Bias, Reinforcement Learning, Language Modeling, GPT]
 ---
 Large language models that exhibit instruction-following behaviour represent
 one of the biggest recent upheavals in conversational interfaces, a trend in

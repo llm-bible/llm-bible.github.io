@@ -7,7 +7,7 @@ year: 2021
 citations: 74
 bibkey: gao2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08253'}]
-tags: [Transformer, Pre-Training]
+tags: [Transformer, Pre-Training, Model Architecture]
 ---
 Pre-trained Transformer language models (LM) have become go-to text
 representation encoders. Prior research fine-tunes deep LMs to encode text

@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: sima2023driving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.14150'}]
-tags: [Multimodal Models, Reinforcement Learning, Agentic]
+tags: [Multimodal Models, Agentic, Reinforcement Learning]
 ---
 We study how vision-language models (VLMs) trained on web-scale data can be
 integrated into end-to-end driving systems to boost generalization and enable

@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: gholami2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.06589'}]
-tags: [Efficiency and Optimization, Language Modeling, Tools]
+tags: [Efficiency and Optimization, Language Modeling]
 ---
 This paper presents novel systems and methodologies for the development of
 efficient large language models (LLMs). It explores the trade-offs between

@@ -8,7 +8,7 @@ citations: 43
 bibkey: dou2022coarse
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.07643'}, {name: Code,
     url: 'https://github.com/microsoft/FIBER'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Attention Mechanism]
+tags: [Transformer, Multimodal Models, Pre-Training]
 ---
 Vision-language (VL) pre-training has recently received considerable
 attention. However, most existing end-to-end pre-training approaches either

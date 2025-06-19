@@ -8,7 +8,7 @@ year: 2020
 citations: 67
 bibkey: chung2020rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.12821'}]
-tags: [Transformer, Pre-Training, Fine-Tuning, Efficiency and Optimization]
+tags: [Fine-Tuning, Transformer, Pre-Training, Efficiency and Optimization]
 ---
 We re-evaluate the standard practice of sharing weights between input and
 output embeddings in state-of-the-art pre-trained language models. We show that

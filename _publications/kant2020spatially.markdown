@@ -7,7 +7,7 @@ year: 2020
 citations: 57
 bibkey: kant2020spatially
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.12146'}]
-tags: [Multimodal Models, Transformer, Attention Mechanism]
+tags: [Transformer, Multimodal Models]
 ---
 Textual cues are essential for everyday tasks like buying groceries and using
 public transport. To develop this assistive technology, we study the TextVQA

@@ -7,7 +7,7 @@ year: 2019
 citations: 30
 bibkey: yavuz2019grounded
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.10731'}]
-tags: [RAG, Language Modeling, Prompting]
+tags: [RAG, Language Modeling, Applications]
 ---
 Recent advances in neural sequence-to-sequence models have led to promising
 results for several language generation-based tasks, including dialogue

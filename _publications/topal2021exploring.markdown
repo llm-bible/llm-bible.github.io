@@ -7,7 +7,7 @@ year: 2021
 citations: 51
 bibkey: topal2021exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.08036'}]
-tags: [GPT, Transformer, BERT, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling, GPT, BERT]
 ---
 Recent years have seen a proliferation of attention mechanisms and the rise
 of Transformers in Natural Language Generation (NLG). Previously,

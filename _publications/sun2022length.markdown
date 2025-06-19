@@ -8,7 +8,7 @@ citations: 19
 bibkey: sun2022length
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10554'}, {name: Code,
     url: 'https://aka.ms/LeX-Transformer'}]
-tags: [Transformer, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling]
 ---
 Position modeling plays a critical role in Transformers. In this paper, we
 focus on length extrapolation, i.e., training on short texts while evaluating

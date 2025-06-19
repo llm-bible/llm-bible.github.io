@@ -8,7 +8,7 @@ citations: 47
 bibkey: le2019multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.01166'}, {name: Code,
     url: 'https://github.com/henryhungle/MTN'}]
-tags: [Multimodal Models, Transformer, Attention Mechanism]
+tags: [Transformer, Multimodal Models, Agentic]
 ---
 Developing Video-Grounded Dialogue Systems (VGDS), where a dialogue is
 conducted based on visual and audio aspects of a given video, is significantly

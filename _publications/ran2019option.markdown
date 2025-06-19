@@ -7,7 +7,7 @@ year: 2019
 citations: 53
 bibkey: ran2019option
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.03033'}]
-tags: [Transformer, Attention Mechanism, RAG, Model Architecture]
+tags: [Transformer, RAG, Attention Mechanism]
 ---
 Multiple-choice reading comprehension (MCRC) is the task of selecting the
 correct answer from multiple options given a question and an article. Existing

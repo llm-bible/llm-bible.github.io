@@ -9,7 +9,7 @@ citations: 44
 bibkey: mehta2020deep
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00623'}, {name: Code,
     url: 'https://github.com/sacmehta/delight'}]
-tags: [Transformer, Language Modeling, Efficiency and Optimization]
+tags: [Transformer, Language Modeling]
 ---
 We introduce a deep and light-weight transformer, DeLighT, that delivers
 similar or better performance than standard transformer-based models with
@@ -22,4 +22,4 @@ are 2.5 to 4 times deeper than standard transformer models and yet have fewer
 parameters and operations. Experiments on benchmark machine translation and
 language modeling tasks show that DeLighT matches or improves the performance
 of baseline Transformers with 2 to 3 times fewer parameters on average. Our
-source code is available at: \url\{https://github.com/sacmehta/delight\}
+source code is available at: https://github.com/sacmehta/delight

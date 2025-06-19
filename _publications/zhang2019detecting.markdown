@@ -8,7 +8,7 @@ year: 2019
 citations: 57
 bibkey: zhang2019detecting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.05339'}]
-tags: [Transformer, Attention Mechanism, Interpretability and Explainability]
+tags: [Transformer, Interpretability and Explainability, Attention Mechanism]
 ---
 In multi-turn dialogue generation, response is usually related with only a
 few contexts. Therefore, an ideal model should be able to detect these relevant

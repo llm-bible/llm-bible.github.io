@@ -8,7 +8,7 @@ year: 2023
 citations: 17
 bibkey: xiong2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.13063'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 Empowering large language models to accurately express confidence in their
 answers is essential for trustworthy decision-making. Previous confidence

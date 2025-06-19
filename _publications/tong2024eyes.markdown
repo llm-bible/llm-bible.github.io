@@ -7,7 +7,7 @@ year: 2024
 citations: 34
 bibkey: tong2024eyes
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06209'}]
-tags: [Multimodal Models, Interpretability and Explainability, Pre-Training]
+tags: [Multimodal Models, Pre-Training, GPT, Interpretability and Explainability]
 ---
 Is vision good enough for language? Recent advancements in multimodal models
 primarily stem from the powerful reasoning abilities of large language models

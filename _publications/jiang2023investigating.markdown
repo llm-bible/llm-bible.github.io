@@ -8,7 +8,7 @@ year: 2023
 citations: 19
 bibkey: jiang2023investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02547'}]
-tags: [GPT, Applications, Agentic]
+tags: [Applications, GPT, Agentic]
 ---
 Despite the many use cases for large language models (LLMs) in creating
 personalized chatbots, there has been limited research on evaluating the extent

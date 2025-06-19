@@ -9,7 +9,7 @@ citations: 540
 bibkey: li2022bootstrapping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.12086'}, {name: Code,
     url: 'https://github.com/salesforce/BLIP'}]
-tags: [Multimodal Models, Pre-Training, RAG, Tools]
+tags: [Multimodal Models, Pre-Training, Tools, RAG]
 ---
 Vision-Language Pre-training (VLP) has advanced the performance for many
 vision-language tasks. However, most existing pre-trained models only excel in

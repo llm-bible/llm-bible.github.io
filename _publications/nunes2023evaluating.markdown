@@ -8,7 +8,7 @@ citations: 20
 bibkey: nunes2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17003'}, {name: Code,
     url: 'https://github.com/piresramon/gpt-4-enem'}]
-tags: [GPT, Prompting, Interpretability and Explainability]
+tags: [Prompting, GPT, Interpretability and Explainability]
 ---
 The present study aims to explore the capabilities of Language Models (LMs)
 in tackling high-stakes multiple-choice tests, represented here by the Exame

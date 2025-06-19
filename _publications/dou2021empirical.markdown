@@ -8,7 +8,7 @@ citations: 204
 bibkey: dou2021empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.02387'}, {name: Code,
     url: 'https://github.com/zdou0830/METER'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Attention Mechanism]
+tags: [Transformer, Multimodal Models, Pre-Training, Tools]
 ---
 Vision-and-language (VL) pre-training has proven to be highly effective on
 various VL downstream tasks. While recent work has shown that fully

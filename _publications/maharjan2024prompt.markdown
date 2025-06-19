@@ -8,7 +8,7 @@ year: 2024
 citations: 22
 bibkey: maharjan2024prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.19371'}]
-tags: [Few-Shot, Applications, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Applications, Few-Shot]
 ---
 LLMs have become increasingly capable at accomplishing a range of
 specialized-tasks and can be utilized to expand equitable access to medical

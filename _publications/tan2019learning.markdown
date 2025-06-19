@@ -8,8 +8,8 @@ citations: 1132
 bibkey: tan2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.07490'}, {name: Code,
     url: 'https://github.com/airsplay/lxmert'}]
-tags: [Multimodal Models, Transformer, Masked Language Model, Pre-Training, Fine-Tuning,
-  Language Modeling, Attention Mechanism]
+tags: [Fine-Tuning, Transformer, Language Modeling, Multimodal Models, Pre-Training,
+  Masked Language Model, BERT, Model Architecture, Attention Mechanism]
 ---
 Vision-and-language reasoning requires an understanding of visual concepts,
 language semantics, and, most importantly, the alignment and relationships

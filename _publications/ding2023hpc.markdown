@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: ding2023hpc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.12833'}]
-tags: [GPT, Applications, Fine-Tuning]
+tags: [Fine-Tuning, Applications, GPT]
 ---
 Large Language Models (LLMs), including the LLaMA model, have exhibited their
 efficacy across various general-domain natural language processing (NLP) tasks.

@@ -8,7 +8,7 @@ year: 2020
 citations: 19
 bibkey: yang2020intent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.00571'}]
-tags: [Transformer, Attention Mechanism, Model Architecture]
+tags: [Transformer]
 ---
 Personal assistant systems, such as Apple Siri, Google Assistant, Amazon
 Alexa, and Microsoft Cortana, are becoming ever more widely used. Understanding

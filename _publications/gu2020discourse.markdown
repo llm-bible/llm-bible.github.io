@@ -8,7 +8,7 @@ year: 2020
 citations: 23
 bibkey: gu2020discourse
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.01775'}]
-tags: [BERT, Transformer, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT]
 ---
 Recent advances in pre-trained language models have significantly improved
 neural response generation. However, existing methods usually view the dialogue

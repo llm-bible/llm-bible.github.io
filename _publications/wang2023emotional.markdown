@@ -7,7 +7,7 @@ year: 2023
 citations: 39
 bibkey: wang2023emotional
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.09042'}]
-tags: [GPT, Reinforcement Learning, Applications]
+tags: [Applications, GPT, Reinforcement Learning]
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities across
 numerous disciplines, primarily assessed through tasks in language generation,

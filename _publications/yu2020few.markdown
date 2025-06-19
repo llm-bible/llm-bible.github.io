@@ -7,7 +7,7 @@ year: 2020
 citations: 68
 bibkey: yu2020few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.05009'}]
-tags: [GPT, Few-Shot, Fine-Tuning]
+tags: [Few-Shot, GPT, Fine-Tuning]
 ---
 Conversational query rewriting aims to reformulate a concise conversational
 query to a fully specified, context-independent query that can be effectively

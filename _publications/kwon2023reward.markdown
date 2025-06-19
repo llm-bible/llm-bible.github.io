@@ -7,7 +7,7 @@ year: 2023
 citations: 19
 bibkey: kwon2023reward
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.00001'}]
-tags: [GPT, Reinforcement Learning, Few-Shot, Prompting, Agentic]
+tags: [Prompting, Few-Shot, Reinforcement Learning, GPT, Agentic]
 ---
 Reward design in reinforcement learning (RL) is challenging since specifying
 human notions of desired behavior may be difficult via reward functions or

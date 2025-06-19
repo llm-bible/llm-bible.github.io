@@ -9,7 +9,7 @@ citations: 53
 bibkey: wang2020improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.02329'}, {name: Code,
     url: 'https://github.com/AI-secure/InfoBERT'}]
-tags: [BERT, Fine-Tuning, Security, Tools]
+tags: [Fine-Tuning, Security, BERT]
 ---
 Large-scale language models such as BERT have achieved state-of-the-art
 performance across a wide range of NLP tasks. Recent studies, however, show

@@ -8,7 +8,7 @@ year: 2021
 citations: 22
 bibkey: uchendu2021benchmark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.13296'}]
-tags: [GPT, Transformer, Reinforcement Learning, Applications, Language Modeling]
+tags: [Applications, Transformer, Language Modeling, GPT, Reinforcement Learning]
 ---
 Recent progress in generative language models has enabled machines to
 generate astonishingly realistic texts. While there are many legitimate

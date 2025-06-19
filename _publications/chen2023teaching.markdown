@@ -7,7 +7,7 @@ year: 2023
 citations: 56
 bibkey: chen2023teaching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05128'}]
-tags: [Few-Shot, Interpretability and Explainability, Efficiency and Optimization]
+tags: [Interpretability and Explainability, Few-Shot, Efficiency and Optimization]
 ---
 Large language models (LLMs) have achieved impressive performance on code
 generation. However, for complex programming tasks, generating the correct

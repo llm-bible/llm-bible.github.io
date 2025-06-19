@@ -7,7 +7,7 @@ year: 2023
 citations: 18
 bibkey: arefeen2023cost
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00841'}]
-tags: [Reinforcement Learning, Tools, Agentic]
+tags: [Tools, Reinforcement Learning]
 ---
 Question-answering (QA) is a significant application of Large Language Models
 (LLMs), shaping chatbot capabilities across healthcare, education, and customer

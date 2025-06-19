@@ -7,7 +7,7 @@ year: 2021
 citations: 31
 bibkey: sheng2021societal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.04054'}]
-tags: [Ethics and Bias, Survey Paper, Applications]
+tags: [Ethics and Bias, Bias Mitigation, Applications, Survey Paper]
 ---
 Technology for language generation has advanced rapidly, spurred by
 advancements in pre-training large models on massive amounts of data and the

@@ -9,7 +9,7 @@ citations: 23
 bibkey: tan2020improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06775'}, {name: Code,
     url: 'https://github.com/airsplay/vokenization'}]
-tags: [Multimodal Models, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Multimodal Models, Pre-Training, Tools]
 ---
 Humans learn language by listening, speaking, writing, reading, and also, via
 interaction with the multimodal real world. Existing language pre-training

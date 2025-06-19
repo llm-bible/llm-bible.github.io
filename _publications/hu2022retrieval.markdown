@@ -8,7 +8,7 @@ year: 2022
 citations: 25
 bibkey: hu2022retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.05221'}]
-tags: [Multimodal Models, RAG, Pre-Training]
+tags: [Multimodal Models, Pre-Training, RAG]
 ---
 In this paper, we propose an end-to-end Retrieval-Augmented Visual Language
 Model (REVEAL) that learns to encode world knowledge into a large-scale memory,

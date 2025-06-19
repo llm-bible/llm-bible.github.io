@@ -8,7 +8,7 @@ citations: 100
 bibkey: zhu2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14865'}, {name: Code,
     url: 'https://github.com/BeierZhu/Prompt-align'}]
-tags: [Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Few-Shot]
 ---
 Thanks to the large pre-trained vision-language models (VLMs) like CLIP, we
 can craft a zero-shot classifier by "prompt", e.g., the confidence score of an

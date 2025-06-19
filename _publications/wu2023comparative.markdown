@@ -8,7 +8,7 @@ year: 2023
 citations: 16
 bibkey: wu2023comparative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.04709'}]
-tags: [GPT, Applications, Reinforcement Learning]
+tags: [Applications, GPT, Reinforcement Learning]
 ---
 In recent years, there have been significant breakthroughs in the field of
 natural language processing, particularly with the development of large

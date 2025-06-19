@@ -8,7 +8,7 @@ year: 2017
 citations: 40
 bibkey: eric2017copy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1701.04024'}]
-tags: [Attention Mechanism, Agentic, Model Architecture]
+tags: [Agentic]
 ---
 Task-oriented dialogue focuses on conversational agents that participate in
 user-initiated dialogues on domain-specific topics. In contrast to chatbots,

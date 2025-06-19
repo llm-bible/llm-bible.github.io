@@ -7,7 +7,7 @@ year: 2022
 citations: 1291
 bibkey: ji2022survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.03629'}]
-tags: [Survey Paper, Transformer, Language Modeling]
+tags: [Transformer, Language Modeling, Survey Paper]
 ---
 Natural Language Generation (NLG) has improved exponentially in recent years
 thanks to the development of sequence-to-sequence deep learning technologies

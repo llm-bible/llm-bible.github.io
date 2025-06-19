@@ -8,7 +8,7 @@ year: 2020
 citations: 20
 bibkey: qi2020bridging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15525'}]
-tags: [Pre-Training, GPT]
+tags: [Pre-Training, Reinforcement Learning, GPT]
 ---
 In this paper, we propose BANG, a new pretraining model to Bridge the gap
 between Autoregressive (AR) and Non-autoregressive (NAR) Generation. AR and NAR

@@ -8,7 +8,7 @@ citations: 16
 bibkey: robey2023defending
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03684'}, {name: Code,
     url: 'https://github.com/arobey1/smooth-llm'}]
-tags: [GPT, Security, Reinforcement Learning, Prompting]
+tags: [Security, Prompting, GPT]
 ---
 Despite efforts to align large language models (LLMs) with human intentions,
 widely-used LLMs such as GPT, Llama, and Claude are susceptible to jailbreaking
@@ -23,4 +23,4 @@ against the GCG, PAIR, RandomSearch, and AmpleGCG jailbreaks. SmoothLLM is also
 resistant against adaptive GCG attacks, exhibits a small, though non-negligible
 trade-off between robustness and nominal performance, and is compatible with
 any LLM. Our code is publicly available at
-\url\{https://github.com/arobey1/smooth-llm\}.
+https://github.com/arobey1/smooth-llm.

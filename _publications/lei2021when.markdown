@@ -8,7 +8,7 @@ year: 2021
 citations: 16
 bibkey: lei2021when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.12459'}]
-tags: [Transformer, Attention Mechanism, Language Modeling, Efficiency and Optimization]
+tags: [Transformer, Language Modeling, Efficiency and Optimization]
 ---
 Large language models have become increasingly difficult to train because of
 the growing computation time and cost. In this work, we present SRU++, a

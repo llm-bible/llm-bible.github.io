@@ -8,7 +8,7 @@ citations: 292
 bibkey: yao2023tree
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10601'}, {name: Code,
     url: 'https://github.com/princeton-nlp/tree-of-thought-llm'}]
-tags: [GPT, Prompting, Fine-Tuning, Tools]
+tags: [Prompting, Fine-Tuning, GPT, Tools]
 ---
 Language models are increasingly being deployed for general problem solving
 across a wide range of tasks, but are still confined to token-level,

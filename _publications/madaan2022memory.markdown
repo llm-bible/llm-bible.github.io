@@ -8,7 +8,7 @@ citations: 22
 bibkey: madaan2022memory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.06009'}, {name: Code,
     url: 'https://www.memprompt.com/'}]
-tags: [GPT, Prompting, Training Techniques]
+tags: [Prompting, GPT]
 ---
 Large LMs such as GPT-3 are powerful, but can commit mistakes that are
 obvious to humans. For example, GPT-3 would mistakenly interpret "What word is

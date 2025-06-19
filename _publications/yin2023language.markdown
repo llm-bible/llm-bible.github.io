@@ -8,7 +8,7 @@ year: 2023
 citations: 22
 bibkey: yin2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06687'}]
-tags: [Tools, Agentic, Fine-Tuning, Multimodal Models]
+tags: [Fine-Tuning, Agentic, Tools, Reinforcement Learning, Multimodal Models]
 ---
 Large language models have emerged as a promising approach towards achieving
 general-purpose AI agents. The thriving open-source LLM community has greatly

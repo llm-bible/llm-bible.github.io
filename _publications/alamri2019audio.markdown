@@ -7,7 +7,7 @@ year: 2019
 citations: 87
 bibkey: alamri2019audio
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.09107'}]
-tags: [RAG, Agentic]
+tags: [Agentic, RAG, Multimodal Models]
 ---
 We introduce the task of scene-aware dialog. Our goal is to generate a
 complete and natural response to a question about a scene, given video and

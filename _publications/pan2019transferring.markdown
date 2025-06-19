@@ -8,7 +8,7 @@ year: 2019
 citations: 19
 bibkey: pan2019transferring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.01816'}]
-tags: [Attention Mechanism, Model Architecture]
+tags: [Tools, Model Architecture, Attention Mechanism]
 ---
 Machine Comprehension (MC) is one of the core problems in natural language
 processing, requiring both understanding of the natural language and knowledge

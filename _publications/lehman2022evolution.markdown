@@ -7,7 +7,7 @@ year: 2022
 citations: 26
 bibkey: lehman2022evolution
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08896'}]
-tags: [Reinforcement Learning, Pre-Training, Agentic]
+tags: [Pre-Training, Agentic, Reinforcement Learning]
 ---
 This paper pursues the insight that large language models (LLMs) trained to
 generate code can vastly improve the effectiveness of mutation operators

@@ -8,7 +8,7 @@ citations: 167
 bibkey: zhang2022automatic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03493'}, {name: Code,
     url: 'https://github.com/amazon-research/auto-cot'}]
-tags: [GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 Large language models (LLMs) can perform complex reasoning by generating
 intermediate reasoning steps. Providing these steps for prompting

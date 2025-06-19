@@ -9,7 +9,7 @@ citations: 34
 bibkey: zhu2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.06594'}, {name: Code,
     url: 'https://github.com/Vision-CAIR/ChatCaptioner'}]
-tags: [GPT, Prompting, Reinforcement Learning]
+tags: [Prompting, GPT, Reinforcement Learning]
 ---
 Asking insightful questions is crucial for acquiring knowledge and expanding
 our understanding of the world. However, the importance of questioning has been

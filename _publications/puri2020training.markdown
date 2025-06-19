@@ -7,7 +7,7 @@ year: 2020
 citations: 43
 bibkey: puri2020training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.09599'}]
-tags: [GPT, Pre-Training, Fine-Tuning, Language Modeling]
+tags: [GPT, Training Techniques]
 ---
 Question and answer generation is a data augmentation method that aims to
 improve question answering (QA) models given the limited amount of human

@@ -7,7 +7,7 @@ year: 2022
 citations: 69
 bibkey: shu2022test
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.07511'}]
-tags: [Multimodal Models, Prompting]
+tags: [Prompting, Multimodal Models]
 ---
 Pre-trained vision-language models (e.g., CLIP) have shown promising
 zero-shot generalization in many downstream tasks with properly designed text

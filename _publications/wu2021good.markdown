@@ -8,7 +8,7 @@ year: 2021
 citations: 22
 bibkey: wu2021good
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.14462'}]
-tags: [Interpretability and Explainability, Multimodal Models]
+tags: [Multimodal Models, Interpretability and Explainability]
 ---
 A neural multimodal machine translation (MMT) system is one that aims to
 perform better translation by extending conventional text-only translation

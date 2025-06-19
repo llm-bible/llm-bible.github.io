@@ -8,7 +8,7 @@ year: 2023
 citations: 19
 bibkey: kumar2023geotechnical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02138'}]
-tags: [GPT, Prompting, Applications]
+tags: [Applications, Prompting, GPT]
 ---
 The widespread adoption of large language models (LLMs), such as OpenAI's
 ChatGPT, could revolutionize various industries, including geotechnical

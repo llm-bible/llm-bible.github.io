@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: fu2023comparing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13382'}]
-tags: [Reinforcement Learning, GPT, Applications]
+tags: [GPT, Reinforcement Learning]
 ---
 Traditionally, writing assistance systems have focused on short or even
 single-word suggestions. Recently, large language models like GPT-3 have made

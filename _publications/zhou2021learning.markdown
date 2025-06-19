@@ -7,7 +7,7 @@ year: 2021
 citations: 1232
 bibkey: zhou2021learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.01134'}]
-tags: [Multimodal Models, Prompting, Pre-Training]
+tags: [Prompting, Multimodal Models, Pre-Training]
 ---
 Large pre-trained vision-language models like CLIP have shown great potential
 in learning representations that are transferable across a wide range of

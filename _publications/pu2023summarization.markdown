@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: pu2023summarization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09558'}]
-tags: [Language Modeling, Few-Shot, Prompting, Applications]
+tags: [Few-Shot, Applications, Language Modeling, Prompting]
 ---
 How well can large language models (LLMs) generate summaries? We develop new
 datasets and conduct human evaluation experiments to evaluate the zero-shot

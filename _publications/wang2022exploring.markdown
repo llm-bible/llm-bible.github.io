@@ -8,7 +8,7 @@ year: 2022
 citations: 17
 bibkey: wang2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04173'}]
-tags: [GPT, Ethics and Bias, Pre-Training, Efficiency and Optimization]
+tags: [Pre-Training, Ethics and Bias, Efficiency and Optimization, GPT]
 ---
 Pre-trained language models (LMs) are shown to easily generate toxic
 language. In this work, we systematically explore domain-adaptive training to

@@ -8,8 +8,7 @@ citations: 15
 bibkey: caciularu2021cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00406'}, {name: Code,
     url: 'https://github.com/aviclu/CDLM'}]
-tags: [Transformer, Masked Language Model, BERT, RAG, Attention Mechanism, Language
-    Modeling, Pre-Training]
+tags: [Transformer, Language Modeling, Masked Language Model, BERT, RAG]
 ---
 We introduce a new pretraining approach geared for multi-document language
 modeling, incorporating two key ideas into the masked language modeling

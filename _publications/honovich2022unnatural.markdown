@@ -7,7 +7,7 @@ year: 2022
 citations: 29
 bibkey: honovich2022unnatural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09689'}]
-tags: [Prompting]
+tags: [Prompting, Pre-Training]
 ---
 Instruction tuning enables pretrained language models to perform new tasks
 from inference-time natural language descriptions. These approaches rely on

@@ -8,7 +8,7 @@ citations: 344
 bibkey: rao2021language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.01518'}, {name: Code,
     url: 'https://github.com/raoyongming/DenseCLIP'}]
-tags: [RAG, Prompting, Pre-Training, Tools]
+tags: [Prompting, Pre-Training, Tools]
 ---
 Recent progress has shown that large-scale pre-training using contrastive
 image-text pairs can be a promising alternative for high-quality visual

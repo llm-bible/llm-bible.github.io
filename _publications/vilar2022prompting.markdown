@@ -7,7 +7,7 @@ year: 2022
 citations: 26
 bibkey: vilar2022prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.09102'}]
-tags: [Prompting, Few-Shot, In-Context Learning]
+tags: [Prompting, Few-Shot]
 ---
 Large language models (LLMs) that have been trained on multilingual but not
 parallel text exhibit a remarkable ability to translate between languages. We

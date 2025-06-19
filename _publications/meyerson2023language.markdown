@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: meyerson2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12170'}]
-tags: [Few-Shot, In-Context Learning, Prompting]
+tags: [Prompting, In-Context Learning, Few-Shot]
 ---
 This paper pursues the insight that language models naturally enable an
 intelligent variation operator similar in spirit to evolutionary crossover. In

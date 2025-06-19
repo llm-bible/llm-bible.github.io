@@ -8,7 +8,7 @@ citations: 44
 bibkey: su2023one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.16355'}, {name: Code,
     url: 'https://panda-gpt.github.io/'}]
-tags: [GPT, Multimodal Models]
+tags: [Multimodal Models, GPT]
 ---
 We present PandaGPT, an approach to emPower large lANguage moDels with visual
 and Auditory instruction-following capabilities. Our pilot experiments show

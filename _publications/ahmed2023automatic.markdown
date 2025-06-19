@@ -7,7 +7,7 @@ year: 2023
 citations: 25
 bibkey: ahmed2023automatic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.06815'}]
-tags: [Transformer, Reinforcement Learning, Few-Shot, Prompting]
+tags: [Prompting, Transformer, Few-Shot]
 ---
 Large Language Models (LLM) are a new class of computation engines,
 "programmed" via prompt engineering. We are still learning how to best

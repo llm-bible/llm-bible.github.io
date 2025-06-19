@@ -8,8 +8,7 @@ citations: 40
 bibkey: tunstall2023direct
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.16944'}, {name: Code,
     url: 'https://github.com/huggingface/alignment-handbook'}]
-tags: [Distillation, Reinforcement Learning, Fine-Tuning, Prompting, Efficiency and
-    Optimization]
+tags: [Fine-Tuning, Distillation, Reinforcement Learning, Prompting]
 ---
 We aim to produce a smaller language model that is aligned to user intent.
 Previous research has shown that applying distilled supervised fine-tuning

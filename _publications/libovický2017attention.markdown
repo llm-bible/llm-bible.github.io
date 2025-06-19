@@ -7,7 +7,7 @@ year: 2017
 citations: 47
 bibkey: "libovick\xFD2017attention"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1704.06567'}]
-tags: [Multimodal Models, Transformer, Attention Mechanism]
+tags: [Transformer, Multimodal Models, Attention Mechanism]
 ---
 Modeling attention in neural multi-source sequence-to-sequence learning
 remains a relatively unexplored area, despite its usefulness in tasks that

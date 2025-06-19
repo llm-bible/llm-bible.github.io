@@ -9,7 +9,8 @@ citations: 22
 bibkey: wang2022what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.05832'}, {name: Code,
     url: 'https://github.com/bigscience-workshop/architecture-objective'}]
-tags: [GPT, Transformer, Masked Language Model, Prompting, Language Modeling, Pre-Training]
+tags: [Prompting, Transformer, Language Modeling, GPT, Masked Language Model, BERT,
+  Model Architecture]
 ---
 Large pretrained Transformer language models have been shown to exhibit
 zero-shot generalization, i.e. they can perform a wide variety of tasks that

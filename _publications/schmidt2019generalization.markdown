@@ -7,7 +7,7 @@ year: 2019
 citations: 29
 bibkey: schmidt2019generalization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.00292'}]
-tags: [GPT, Reinforcement Learning, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, GPT, Reinforcement Learning]
 ---
 Exposure bias refers to the train-test discrepancy that seemingly arises when
 an autoregressive generative model uses only ground-truth contexts at training

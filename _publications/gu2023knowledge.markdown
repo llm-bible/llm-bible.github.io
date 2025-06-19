@@ -8,7 +8,7 @@ citations: 16
 bibkey: gu2023knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.08543'}, {name: Code,
     url: 'https://github.com/microsoft/LMOps/tree/main/minillm'}]
-tags: [Distillation, GPT, Language Modeling, Efficiency and Optimization]
+tags: [Distillation, Language Modeling, Efficiency and Optimization, Tools]
 ---
 Knowledge Distillation (KD) is a promising technique for reducing the high
 computational demand of large language models (LLMs). However, previous KD

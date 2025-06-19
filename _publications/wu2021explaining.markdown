@@ -8,7 +8,7 @@ year: 2021
 citations: 15
 bibkey: wu2021explaining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00196'}]
-tags: [Interpretability and Explainability, BERT, Fine-Tuning, Attention Mechanism]
+tags: [Fine-Tuning, Interpretability and Explainability, BERT]
 ---
 BERT, as one of the pretrianed language models, attracts the most attention
 in recent years for creating new benchmarks across GLUE tasks via fine-tuning.

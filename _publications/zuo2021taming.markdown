@@ -8,7 +8,7 @@ citations: 25
 bibkey: zuo2021taming
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.04260'}, {name: Code,
     url: 'https://github.com/microsoft/Stochastic-Mixture-of-Experts'}]
-tags: [Transformer, RAG, Training Techniques]
+tags: [Transformer, RAG]
 ---
 Sparsely activated models (SAMs), such as Mixture-of-Experts (MoE), can
 easily scale to have outrageously large amounts of parameters without

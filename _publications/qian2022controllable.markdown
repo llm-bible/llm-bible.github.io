@@ -7,7 +7,7 @@ year: 2022
 citations: 19
 bibkey: qian2022controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13257'}]
-tags: [GPT, Fine-Tuning]
+tags: [Fine-Tuning, GPT]
 ---
 To guide the generation of large pretrained language models (LM), previous
 work has focused on directly fine-tuning the language model or utilizing an

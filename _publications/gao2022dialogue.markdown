@@ -8,7 +8,7 @@ year: 2022
 citations: 15
 bibkey: gao2022dialogue
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13330'}]
-tags: [Reinforcement Learning, Agentic, Tools]
+tags: [Agentic, Reinforcement Learning, Tools]
 ---
 Language-guided Embodied AI benchmarks requiring an agent to navigate an
 environment and manipulate objects typically allow one-way communication: the

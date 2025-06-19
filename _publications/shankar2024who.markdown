@@ -9,7 +9,7 @@ year: 2024
 citations: 46
 bibkey: shankar2024who
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.12272'}]
-tags: [Reinforcement Learning, Prompting]
+tags: [Prompting, Reinforcement Learning]
 ---
 Due to the cumbersome nature of human evaluation and limitations of
 code-based evaluation, Large Language Models (LLMs) are increasingly being used

@@ -7,7 +7,7 @@ year: 2022
 citations: 29
 bibkey: li2022accelerating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.03227'}]
-tags: [Transformer, Pruning, Efficiency and Optimization, BERT, GPT]
+tags: [Transformer, GPT, BERT, Pruning, Efficiency and Optimization]
 ---
 Self-attention is a key enabler of state-of-art accuracy for various
 transformer-based Natural Language Processing models. This attention mechanism

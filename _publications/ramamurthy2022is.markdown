@@ -8,7 +8,7 @@ year: 2022
 citations: 48
 bibkey: ramamurthy2022is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01241'}]
-tags: [Reinforcement Learning, Tools, Agentic, Language Modeling, Efficiency and Optimization]
+tags: [Reinforcement Learning, Language Modeling, Agentic, Tools, Efficiency and Optimization]
 ---
 We tackle the problem of aligning pre-trained large language models (LMs)
 with human preferences. If we view text generation as a sequential

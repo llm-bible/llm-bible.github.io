@@ -7,7 +7,7 @@ year: 2022
 citations: 78
 bibkey: su2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.06417'}]
-tags: [Reinforcement Learning, Applications, Language Modeling]
+tags: [Language Modeling, Reinforcement Learning, RAG]
 ---
 Text generation is of great importance to many natural language processing
 applications. However, maximization-based decoding methods (e.g. beam search)

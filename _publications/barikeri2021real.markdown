@@ -8,7 +8,7 @@ year: 2021
 citations: 24
 bibkey: barikeri2021real
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03521'}]
-tags: [GPT, Ethics and Bias, Reinforcement Learning]
+tags: [Ethics and Bias, GPT, Reinforcement Learning]
 ---
 Text representation models are prone to exhibit a range of societal biases,
 reflecting the non-controlled and biased nature of the underlying pretraining

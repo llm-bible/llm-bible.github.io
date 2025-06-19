@@ -9,7 +9,7 @@ citations: 33
 bibkey: liu2023trustworthy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.05374'}]
 tags: [Ethics and Bias, Survey Paper, Applications, Interpretability and Explainability,
-  Security]
+  Security, Reinforcement Learning]
 ---
 Ensuring alignment, which refers to making models behave in accordance with
 human intentions [1,2], has become a critical task before deploying large

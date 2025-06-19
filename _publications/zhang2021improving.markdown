@@ -8,7 +8,7 @@ year: 2021
 citations: 23
 bibkey: zhang2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.13073'}]
-tags: [Transformer, BERT, Model Architecture]
+tags: [BERT, Transformer]
 ---
 Context: Stack Overflow is very helpful for software developers who are
 seeking answers to programming problems. Previous studies have shown that a

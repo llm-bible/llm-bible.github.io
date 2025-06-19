@@ -8,7 +8,7 @@ year: 2023
 citations: 49
 bibkey: lu2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.05345'}]
-tags: [GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 Inspired by the recent success of large language models (LLMs) like ChatGPT,
 researchers start to explore the adoption of LLMs for agile hardware design,

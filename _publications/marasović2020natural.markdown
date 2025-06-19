@@ -8,7 +8,7 @@ year: 2020
 citations: 24
 bibkey: "marasovi\u01072020natural"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07526'}]
-tags: [Transformer, RAG, Interpretability and Explainability]
+tags: [Transformer, Interpretability and Explainability, RAG]
 ---
 Natural language rationales could provide intuitive, higher-level
 explanations that are easily understandable by humans, complementing the more

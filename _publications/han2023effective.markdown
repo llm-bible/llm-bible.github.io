@@ -8,7 +8,7 @@ citations: 23
 bibkey: han2023effective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.13770'}, {name: Code,
     url: 'https://github.com/ChengHan111/E2VPT'}]
-tags: [Transformer, Prompting, Efficiency and Optimization, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Transformer, Efficiency and Optimization]
 ---
 As the size of transformer-based models continues to grow, fine-tuning these
 large-scale pretrained vision models for new tasks has become increasingly

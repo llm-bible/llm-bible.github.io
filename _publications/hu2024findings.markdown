@@ -8,8 +8,8 @@ year: 2024
 citations: 16
 bibkey: hu2024findings
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2412.05149'}]
-tags: [Multimodal Models, Masked Language Model, BERT, Language Modeling, Efficiency
-    and Optimization]
+tags: [Language Modeling, Multimodal Models, Masked Language Model, Efficiency and
+    Optimization, BERT]
 ---
 The BabyLM Challenge is a community effort to close the data-efficiency gap
 between human and computational language learners. Participants compete to

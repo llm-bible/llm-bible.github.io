@@ -7,7 +7,7 @@ year: 2024
 citations: 35
 bibkey: huang2024trustworthiness
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.05561'}]
-tags: [Ethics and Bias, Fairness, Security, Reinforcement Learning, Prompting]
+tags: [Ethics and Bias, Security, Prompting, GPT]
 ---
 Large language models (LLMs), exemplified by ChatGPT, have gained
 considerable attention for their excellent natural language processing

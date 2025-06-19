@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: bhandari2023are
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.13002'}]
-tags: [GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 Despite the impressive performance of Large Language Models (LLM) for various
 natural language processing tasks, little is known about their comprehension of

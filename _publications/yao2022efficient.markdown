@@ -8,7 +8,7 @@ year: 2022
 citations: 50
 bibkey: yao2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.01861'}]
-tags: [Quantization, Efficiency and Optimization, GPT, BERT, Transformer, Distillation]
+tags: [Quantization, Efficiency and Optimization, Transformer, BERT, GPT, Distillation]
 ---
 How to efficiently serve ever-larger trained natural language models in
 practice has become exceptionally challenging even for powerful cloud servers

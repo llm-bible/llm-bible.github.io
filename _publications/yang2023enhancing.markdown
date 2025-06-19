@@ -9,7 +9,7 @@ citations: 39
 bibkey: yang2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.03549'}, {name: Code,
     url: 'https://github.com/SupritYoung/Zhongjing'}]
-tags: [GPT, Reinforcement Learning, Applications, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Applications, Pre-Training, Reinforcement Learning, Agentic, GPT]
 ---
 Recent advances in Large Language Models (LLMs) have achieved remarkable
 breakthroughs in understanding and responding to user intents. However, their

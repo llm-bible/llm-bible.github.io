@@ -7,7 +7,7 @@ year: 2021
 citations: 18
 bibkey: du2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.06922'}]
-tags: [Interpretability and Explainability]
+tags: [Interpretability and Explainability, Reinforcement Learning]
 ---
 Recent studies indicate that NLU models are prone to rely on shortcut
 features for prediction, without achieving true language understanding. As a

@@ -7,7 +7,7 @@ year: 2020
 citations: 105
 bibkey: bunk2020lightweight
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.09936'}]
-tags: [Transformer, Pre-Training, Fine-Tuning, BERT]
+tags: [Fine-Tuning, Transformer, Pre-Training, BERT]
 ---
 Large-scale pre-trained language models have shown impressive results on
 language understanding benchmarks like GLUE and SuperGLUE, improving

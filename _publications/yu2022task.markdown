@@ -8,7 +8,7 @@ citations: 41
 bibkey: yu2022task
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.10277'}, {name: Code,
     url: 'https://github.com/geekyutao/TaskRes'}]
-tags: [Multimodal Models, Fine-Tuning, Prompting]
+tags: [Fine-Tuning, Multimodal Models, Prompting]
 ---
 Large-scale vision-language models (VLMs) pre-trained on billion-level data
 have learned general visual representations and broad visual concepts. In

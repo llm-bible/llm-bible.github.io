@@ -8,7 +8,7 @@ citations: 24
 bibkey: fan2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.20088'}, {name: Code,
     url: 'https://github.com/LijieFan/LaCLIP'}]
-tags: [In-Context Learning, Pre-Training, RAG]
+tags: [Pre-Training, In-Context Learning, RAG]
 ---
 Contrastive Language-Image Pre-training (CLIP) stands as one of the most
 effective and scalable methods for training transferable vision models using

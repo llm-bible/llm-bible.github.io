@@ -7,7 +7,7 @@ year: 2023
 citations: 36
 bibkey: pourreza2023din
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.11015'}]
-tags: [Prompting, Few-Shot, In-Context Learning]
+tags: [Prompting, In-Context Learning, Few-Shot]
 ---
 There is currently a significant gap between the performance of fine-tuned
 models and prompting approaches using Large Language Models (LLMs) on the

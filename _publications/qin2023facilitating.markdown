@@ -7,7 +7,7 @@ year: 2023
 citations: 31
 bibkey: qin2023facilitating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16789'}]
-tags: [GPT, Reinforcement Learning, Prompting, Tools, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Tools, Reinforcement Learning, GPT]
 ---
 Despite the advancements of open-source large language models (LLMs), e.g.,
 LLaMA, they remain significantly limited in tool-use capabilities, i.e., using

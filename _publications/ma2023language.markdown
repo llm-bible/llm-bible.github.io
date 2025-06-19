@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: ma2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.00958'}]
-tags: [Reinforcement Learning, Multimodal Models, Pre-Training, Fine-Tuning]
+tags: [Multimodal Models, Reinforcement Learning]
 ---
 We present Language-Image Value learning (LIV), a unified objective for
 vision-language representation and reward learning from action-free videos with

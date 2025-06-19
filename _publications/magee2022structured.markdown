@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: magee2022structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.05058'}]
-tags: [GPT, Ethics and Bias, Prompting]
+tags: [Prompting, Fine-Tuning, GPT, Ethics and Bias, Reinforcement Learning]
 ---
 Drawing from the resources of psychoanalysis and critical media studies, in
 this paper we develop an analysis of Large Language Models (LLMs) as automated

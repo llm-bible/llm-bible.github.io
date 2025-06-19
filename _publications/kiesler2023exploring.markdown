@@ -8,7 +8,7 @@ year: 2023
 citations: 34
 bibkey: kiesler2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00029'}]
-tags: [GPT, Applications]
+tags: [Applications, GPT]
 ---
 Ever since the emergence of large language models (LLMs) and related
 applications, such as ChatGPT, its performance and error analysis for

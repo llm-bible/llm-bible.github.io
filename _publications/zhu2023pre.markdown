@@ -7,7 +7,8 @@ year: 2023
 citations: 36
 bibkey: zhu2023pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.04352'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Fine-Tuning, Efficiency and Optimization]
+tags: [Pre-Training, Fine-Tuning, Transformer, Multimodal Models, GPT, Efficiency
+    and Optimization]
 ---
 3D vision-language grounding (3D-VL) is an emerging field that aims to
 connect the 3D physical world with natural language, which is crucial for

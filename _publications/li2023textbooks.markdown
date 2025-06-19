@@ -7,7 +7,7 @@ year: 2023
 citations: 36
 bibkey: li2023textbooks
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.05463'}]
-tags: [In-Context Learning, Transformer, Ethics and Bias]
+tags: [Transformer, Ethics and Bias, In-Context Learning, RAG]
 ---
 We continue the investigation into the power of smaller Transformer-based
 language models as initiated by \textbf\{TinyStories\} -- a 10 million parameter

@@ -7,7 +7,7 @@ year: 2018
 citations: 37
 bibkey: platanios2018contextual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.08493'}]
-tags: [Fine-Tuning, Training Techniques]
+tags: [Fine-Tuning, Language Modeling]
 ---
 We propose a simple modification to existing neural machine translation (NMT)
 models that enables using a single universal model to translate between

@@ -8,7 +8,7 @@ citations: 18
 bibkey: xu2019review
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.00821'}, {name: Code,
     url: 'https://github.com/howardhsu/RCRC'}]
-tags: [Reinforcement Learning, RAG, BERT, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Pre-Training, BERT, RAG]
 ---
 Inspired by conversational reading comprehension (CRC), this paper studies a
 novel task of leveraging reviews as a source to build an agent that can answer
@@ -19,4 +19,4 @@ fine-tuning. The proposed pre-tuning requires no data annotation, but can
 greatly enhance the performance on our end task. Experimental results show that
 the proposed approach is highly effective and has competitive performance as
 the supervised approach. The dataset is available at
-\url\{https://github.com/howardhsu/RCRC\}
+https://github.com/howardhsu/RCRC

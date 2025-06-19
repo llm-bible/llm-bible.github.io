@@ -7,7 +7,7 @@ year: 2021
 citations: 19
 bibkey: bao2021g
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.14761'}]
-tags: [Transformer, Pre-Training, Attention Mechanism]
+tags: [Transformer, Pre-Training, Model Architecture, Attention Mechanism]
 ---
 Document-level MT models are still far from satisfactory. Existing work
 extend translation unit from single sentence to multiple sentences. However,

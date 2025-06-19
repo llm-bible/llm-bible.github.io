@@ -9,7 +9,7 @@ citations: 21
 bibkey: chen2023autoregressive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06531'}, {name: Code,
     url: 'https://yongchao98.github.io/MIT-REALM-AutoTAMP/'}]
-tags: [GPT, Prompting, Few-Shot]
+tags: [Prompting, Few-Shot, GPT]
 ---
 For effective human-robot interaction, robots need to understand, plan, and
 execute complex, long-horizon tasks described by natural language. Recent

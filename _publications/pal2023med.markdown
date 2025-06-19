@@ -7,7 +7,7 @@ year: 2023
 citations: 29
 bibkey: pal2023med
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15343'}]
-tags: [GPT, Ethics and Bias, Applications]
+tags: [Applications, GPT, Ethics and Bias]
 ---
 This research paper focuses on the challenges posed by hallucinations in
 large language models (LLMs), particularly in the context of the medical

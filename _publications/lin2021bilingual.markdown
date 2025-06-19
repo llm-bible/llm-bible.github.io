@@ -7,7 +7,7 @@ year: 2021
 citations: 37
 bibkey: lin2021bilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.02787'}]
-tags: [RAG, Fine-Tuning, Agentic]
+tags: [Fine-Tuning, RAG]
 ---
 Task-oriented dialogue (ToD) benchmarks provide an important avenue to
 measure progress and develop better conversational agents. However, existing

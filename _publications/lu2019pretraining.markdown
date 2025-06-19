@@ -8,7 +8,7 @@ year: 2019
 citations: 1507
 bibkey: lu2019pretraining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.02265'}]
-tags: [Transformer, BERT, Training Techniques]
+tags: [Transformer, BERT, Model Architecture]
 ---
 We present ViLBERT (short for Vision-and-Language BERT), a model for learning
 task-agnostic joint representations of image content and natural language. We

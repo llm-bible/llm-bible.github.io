@@ -9,8 +9,7 @@ citations: 34
 bibkey: sammani2022nlx
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.05081'}, {name: Code,
     url: 'https://github.com/fawazsammani/nlxgpt'}]
-tags: [GPT, Multimodal Models, Pre-Training, Interpretability and Explainability,
-  Ethics and Bias]
+tags: [Multimodal Models, GPT, Pre-Training, Interpretability and Explainability]
 ---
 Natural language explanation (NLE) models aim at explaining the
 decision-making process of a black box system via generating natural language

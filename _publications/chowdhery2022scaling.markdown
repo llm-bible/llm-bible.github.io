@@ -7,7 +7,7 @@ year: 2022
 citations: 1863
 bibkey: chowdhery2022scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.02311'}]
-tags: [Transformer, Few-Shot, Language Modeling, Ethics and Bias]
+tags: [Transformer, Language Modeling, Few-Shot, Ethics and Bias]
 ---
 Large language models have been shown to achieve remarkable performance
 across a variety of natural language tasks using few-shot learning, which

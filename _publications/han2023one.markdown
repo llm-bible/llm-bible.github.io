@@ -8,7 +8,7 @@ citations: 17
 bibkey: han2023one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03700'}, {name: Code,
     url: 'https://github.com/csuhan/OneLLM'}]
-tags: [Multimodal Models, RAG, Tools, Attention Mechanism]
+tags: [Multimodal Models, Tools]
 ---
 Multimodal large language models (MLLMs) have gained significant attention
 due to their strong multimodal understanding capability. However, existing

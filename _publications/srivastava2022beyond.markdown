@@ -8,7 +8,7 @@ year: 2022
 citations: 413
 bibkey: srivastava2022beyond
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.04615'}]
-tags: [GPT, Transformer, Reinforcement Learning, Ethics and Bias, Prompting]
+tags: [Prompting, Transformer, GPT, Ethics and Bias, Reinforcement Learning]
 ---
 Language models demonstrate both quantitative improvement and new qualitative
 capabilities with increasing scale. Despite their potentially transformative

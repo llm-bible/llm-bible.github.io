@@ -7,7 +7,8 @@ year: 2023
 citations: 118
 bibkey: mialon2023augmented
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.07842'}]
-tags: [Survey Paper, RAG, Tools, Language Modeling, Interpretability and Explainability]
+tags: [Language Modeling, Tools, Survey Paper, Interpretability and Explainability,
+  RAG]
 ---
 This survey reviews works in which language models (LMs) are augmented with
 reasoning skills and the ability to use tools. The former is defined as

@@ -7,7 +7,7 @@ year: 2020
 citations: 24
 bibkey: su2020bert
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.02128'}]
-tags: [Transformer, BERT]
+tags: [BERT, Transformer, Model Architecture]
 ---
 Visual storytelling is a creative and challenging task, aiming to
 automatically generate a story-like description for a sequence of images. The

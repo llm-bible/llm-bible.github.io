@@ -7,7 +7,7 @@ year: 2023
 citations: 42
 bibkey: kamalloo2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06984'}]
-tags: [Reinforcement Learning, GPT, Few-Shot]
+tags: [GPT, Few-Shot, Reinforcement Learning]
 ---
 Lexical matching remains the de facto evaluation method for open-domain
 question answering (QA). Unfortunately, lexical matching fails completely when

@@ -7,7 +7,7 @@ year: 2020
 citations: 16
 bibkey: wu2020controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00613'}]
-tags: [Transformer, Attention Mechanism, Tools, Model Architecture]
+tags: [Tools, Transformer, Attention Mechanism]
 ---
 Current end-to-end neural conversation models inherently lack the flexibility
 to impose semantic control in the response generation process, often resulting

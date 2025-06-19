@@ -8,7 +8,7 @@ year: 2021
 citations: 46
 bibkey: gheini2021cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08771'}]
-tags: [Transformer, Fine-Tuning, Attention Mechanism]
+tags: [Fine-Tuning, Transformer]
 ---
 We study the power of cross-attention in the Transformer architecture within
 the context of transfer learning for machine translation, and extend the

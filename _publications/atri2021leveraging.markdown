@@ -8,7 +8,7 @@ year: 2021
 citations: 23
 bibkey: atri2021leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.09601'}]
-tags: [Multimodal Models, Transformer, Attention Mechanism, RAG]
+tags: [Fine-Tuning, Transformer, Multimodal Models, RAG, Attention Mechanism]
 ---
 In recent years, abstractive text summarization with multimodal inputs has
 started drawing attention due to its ability to accumulate information from

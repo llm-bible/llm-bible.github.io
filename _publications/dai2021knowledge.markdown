@@ -8,7 +8,7 @@ citations: 47
 bibkey: dai2021knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08696'}, {name: Code,
     url: 'https://github.com/Hunter-DDM/knowledge-neurons'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT]
 ---
 Large-scale pretrained language models are surprisingly good at recalling
 factual knowledge presented in the training corpus. In this paper, we present

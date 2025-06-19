@@ -7,7 +7,7 @@ year: 2023
 citations: 23
 bibkey: dai2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.15100'}]
-tags: [GPT, In-Context Learning, Prompting, Reinforcement Learning]
+tags: [Prompting, GPT, In-Context Learning, Tools, RAG]
 ---
 Thematic analysis (TA) has been widely used for analyzing qualitative data in
 many disciplines and fields. To ensure reliable analysis, the same piece of

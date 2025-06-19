@@ -7,7 +7,7 @@ year: 2021
 citations: 19
 bibkey: lauscher2021sustainable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.03646'}]
-tags: [Ethics and Bias, BERT, Language Modeling, Bias Mitigation]
+tags: [Bias Mitigation, Fairness, Language Modeling, Ethics and Bias, BERT]
 ---
 Unfair stereotypical biases (e.g., gender, racial, or religious biases)
 encoded in modern pretrained language models (PLMs) have negative ethical

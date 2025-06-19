@@ -8,7 +8,7 @@ year: 2023
 citations: 34
 bibkey: jang2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17807'}]
-tags: [GPT, Prompting, Ethics and Bias]
+tags: [Prompting, GPT, Ethics and Bias]
 ---
 Traditional Korean medicine (TKM) emphasizes individualized diagnosis and
 treatment. This uniqueness makes AI modeling difficult due to limited data and

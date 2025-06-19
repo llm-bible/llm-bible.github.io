@@ -8,7 +8,7 @@ year: 2021
 citations: 23
 bibkey: xiao2021training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09268'}]
-tags: [Reinforcement Learning, RAG, BERT, Efficiency and Optimization]
+tags: [Efficiency and Optimization, BERT, Reinforcement Learning, RAG]
 ---
 News recommendation calls for deep insights of news articles' underlying
 semantics. Therefore, pretrained language models (PLMs), like BERT and RoBERTa,

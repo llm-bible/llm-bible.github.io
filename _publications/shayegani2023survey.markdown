@@ -8,7 +8,7 @@ year: 2023
 citations: 26
 bibkey: shayegani2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10844'}]
-tags: [Survey Paper, Security, Reinforcement Learning, GPT, ACL]
+tags: [Security, Survey Paper, ACL]
 ---
 Large Language Models (LLMs) are swiftly advancing in architecture and
 capability, and as they integrate more deeply into complex systems, the urgency

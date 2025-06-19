@@ -7,7 +7,7 @@ year: 2020
 citations: 60
 bibkey: deng2020residual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.11714'}]
-tags: [BERT, Language Modeling, RAG]
+tags: [Language Modeling, BERT, Model Architecture]
 ---
 Text generation is ubiquitous in many NLP tasks, from summarization, to
 dialogue and machine translation. The dominant parametric approach is based on

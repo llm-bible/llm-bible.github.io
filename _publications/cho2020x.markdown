@@ -7,7 +7,7 @@ year: 2020
 citations: 52
 bibkey: cho2020x
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.11278'}]
-tags: [Multimodal Models, Transformer, Pre-Training]
+tags: [Transformer, Multimodal Models, Pre-Training, Masked Language Model, BERT]
 ---
 Mirroring the success of masked language models, vision-and-language
 counterparts like ViLBERT, LXMERT and UNITER have achieved state of the art

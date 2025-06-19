@@ -9,7 +9,7 @@ citations: 25
 bibkey: zhong2023sur
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.05189'}, {name: Code,
     url: 'https://github.com/Qrange-group/SUR-adapter'}]
-tags: [Fine-Tuning, Prompting, Distillation, Efficiency and Optimization]
+tags: [Fine-Tuning, Prompting, Efficiency and Optimization]
 ---
 Diffusion models, which have emerged to become popular text-to-image
 generation models, can produce high-quality and content-rich images guided by

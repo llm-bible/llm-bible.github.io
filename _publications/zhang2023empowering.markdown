@@ -8,7 +8,7 @@ year: 2023
 citations: 52
 bibkey: zhang2023empowering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11000'}]
-tags: [GPT, Multimodal Models, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Multimodal Models, Pre-Training, GPT]
 ---
 Multi-modal large language models are regarded as a crucial step towards
 Artificial General Intelligence (AGI) and have garnered significant interest

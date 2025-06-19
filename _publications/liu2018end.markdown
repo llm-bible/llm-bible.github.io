@@ -8,7 +8,7 @@ year: 2018
 citations: 16
 bibkey: liu2018end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1807.01763'}]
-tags: [Transformer, RAG, Attention Mechanism]
+tags: [Transformer, Tools, RAG, Attention Mechanism]
 ---
 We present an end-to-end approach that takes unstructured textual input and
 generates structured output compliant with a given vocabulary. Inspired by

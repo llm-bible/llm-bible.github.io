@@ -9,8 +9,7 @@ citations: 24
 bibkey: li2023masked
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05314'}, {name: Code,
     url: 'https://github.com/pengfeiliHEU/MUMC'}]
-tags: [Multimodal Models, Pre-Training, Fine-Tuning, Masked Language Model, Language
-    Modeling]
+tags: [Multimodal Models, Pre-Training, Masked Language Model, Fine-Tuning]
 ---
 Medical visual question answering (VQA) is a challenging task that requires
 answering clinical questions of a given medical image, by taking consider of

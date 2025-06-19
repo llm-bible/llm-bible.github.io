@@ -7,7 +7,7 @@ year: 2018
 citations: 138
 bibkey: alrfou2018character
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.04444'}]
-tags: [Transformer, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling]
 ---
 LSTMs and other RNN variants have shown strong performance on character-level
 language modeling. These models are typically trained using truncated

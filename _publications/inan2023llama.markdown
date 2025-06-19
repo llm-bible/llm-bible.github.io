@@ -7,7 +7,7 @@ year: 2023
 citations: 20
 bibkey: inan2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.06674'}]
-tags: [Few-Shot, Applications, Fine-Tuning, Prompting]
+tags: [Prompting, Fine-Tuning, Applications, Few-Shot]
 ---
 We introduce Llama Guard, an LLM-based input-output safeguard model geared
 towards Human-AI conversation use cases. Our model incorporates a safety risk

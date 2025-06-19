@@ -7,7 +7,7 @@ year: 2024
 citations: 34
 bibkey: gemmateam2024gemma
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2408.00118'}]
-tags: [Transformer, Reinforcement Learning, Distillation, Efficiency and Optimization]
+tags: [Transformer, Distillation, Efficiency and Optimization]
 ---
 In this work, we introduce Gemma 2, a new addition to the Gemma family of
 lightweight, state-of-the-art open models, ranging in scale from 2 billion to

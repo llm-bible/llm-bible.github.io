@@ -7,7 +7,7 @@ year: 2023
 citations: 61
 bibkey: ma2023query
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14283'}]
-tags: [RAG, Reinforcement Learning, Prompting, Agentic, Attention Mechanism]
+tags: [Prompting, RAG, Reinforcement Learning]
 ---
 Large Language Models (LLMs) play powerful, black-box readers in the
 retrieve-then-read pipeline, making remarkable progress in knowledge-intensive

@@ -7,7 +7,7 @@ year: 2020
 citations: 43
 bibkey: krause2020generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.06367'}]
-tags: [Ethics and Bias, GPT, Model Architecture]
+tags: [GPT, Ethics and Bias]
 ---
 While large-scale language models (LMs) are able to imitate the distribution
 of natural language well enough to generate realistic text, it is difficult to

@@ -8,7 +8,7 @@ year: 2024
 citations: 19
 bibkey: qi2024multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.03170'}]
-tags: [GPT, Multimodal Models, Interpretability and Explainability, RAG]
+tags: [Multimodal Models, Interpretability and Explainability, RAG]
 ---
 Misinformation is a prevalent societal issue due to its potential high risks.
 Out-of-context (OOC) misinformation, where authentic images are repurposed with

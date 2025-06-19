@@ -8,7 +8,7 @@ year: 2023
 citations: 85
 bibkey: shahriar2023have
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13817'}]
-tags: [GPT, Applications, Transformer, Reinforcement Learning]
+tags: [Applications, Transformer, GPT, Reinforcement Learning]
 ---
 The emergence of an AI-powered chatbot that can generate human-like sentences
 and write coherent essays has caught the world's attention. This paper

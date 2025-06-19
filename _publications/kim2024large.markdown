@@ -9,8 +9,8 @@ citations: 20
 bibkey: kim2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.11343'}, {name: Code,
     url: 'https://github.com/ghdtjr/A-LLMRec'}]
-tags: [Reinforcement Learning, Few-Shot, RAG, Tools, Efficiency and Optimization,
-  Fine-Tuning]
+tags: [Fine-Tuning, Few-Shot, Tools, Efficiency and Optimization, Reinforcement Learning,
+  RAG]
 ---
 Collaborative filtering recommender systems (CF-RecSys) have shown successive
 results in enhancing the user experience on social media and e-commerce

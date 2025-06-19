@@ -8,7 +8,7 @@ year: 2023
 citations: 24
 bibkey: fecher2023friend
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.09928'}]
-tags: [Ethics and Bias, Applications]
+tags: [Applications, Ethics and Bias, Prompting]
 ---
 The advent of ChatGPT by OpenAI has prompted extensive discourse on its
 potential implications for science and higher education. While the impact on

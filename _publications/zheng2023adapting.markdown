@@ -8,7 +8,7 @@ citations: 18
 bibkey: zheng2023adapting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.09049'}, {name: Code,
     url: 'https://github.com/RUCAIBox/LC-Rec/'}]
-tags: [RAG, Quantization, Fine-Tuning, Efficiency and Optimization]
+tags: [Fine-Tuning, Quantization, RAG]
 ---
 Recently, large language models (LLMs) have shown great potential in
 recommender systems, either improving existing recommendation models or serving

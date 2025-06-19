@@ -9,7 +9,7 @@ year: 2023
 citations: 44
 bibkey: todd2023level
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.05817'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 Large Language Models (LLMs) are powerful tools, capable of leveraging their
 training on natural language to write stories, generate code, and answer

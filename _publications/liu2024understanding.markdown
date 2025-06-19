@@ -7,7 +7,7 @@ year: 2024
 citations: 16
 bibkey: liu2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.02038'}]
-tags: [Fine-Tuning, Pre-Training, Efficiency and Optimization, Quantization, GPT]
+tags: [Fine-Tuning, Quantization, Pre-Training, Efficiency and Optimization, GPT]
 ---
 The introduction of ChatGPT has led to a significant increase in the
 utilization of Large Language Models (LLMs) for addressing downstream tasks.

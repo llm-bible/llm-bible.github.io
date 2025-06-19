@@ -7,7 +7,7 @@ year: 2019
 citations: 19
 bibkey: glass2019span
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04120'}]
-tags: [Pre-Training, Transformer, Masked Language Model, BERT]
+tags: [Pre-Training, Transformer, BERT, Reinforcement Learning]
 ---
 BERT (Bidirectional Encoder Representations from Transformers) and related
 pre-trained Transformers have provided large gains across many language

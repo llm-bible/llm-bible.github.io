@@ -7,7 +7,7 @@ year: 2020
 citations: 29
 bibkey: xia2020cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.01473'}]
-tags: [GPT, Multimodal Models, Pre-Training, Language Modeling]
+tags: [Multimodal Models, Pre-Training, Language Modeling, GPT]
 ---
 While many BERT-based cross-modal pre-trained models produce excellent
 results on downstream understanding tasks like image-text retrieval and VQA,

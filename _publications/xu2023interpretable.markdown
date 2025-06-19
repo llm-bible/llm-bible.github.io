@@ -8,7 +8,7 @@ year: 2023
 citations: 83
 bibkey: xu2023interpretable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01412'}]
-tags: [GPT, Multimodal Models, Applications, Fine-Tuning]
+tags: [Fine-Tuning, Applications, Multimodal Models, GPT]
 ---
 Multimodal large language models (MLLMs) have emerged as a prominent area of
 interest within the research community, given their proficiency in handling and

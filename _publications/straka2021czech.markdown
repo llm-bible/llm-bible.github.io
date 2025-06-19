@@ -8,7 +8,7 @@ year: 2021
 citations: 19
 bibkey: straka2021czech
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11314'}]
-tags: [Transformer, BERT]
+tags: [BERT, Transformer]
 ---
 We present RobeCzech, a monolingual RoBERTa language representation model
 trained on Czech data. RoBERTa is a robustly optimized Transformer-based

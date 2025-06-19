@@ -8,7 +8,7 @@ citations: 17
 bibkey: communication2023multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.05187'}, {name: Code,
     url: 'https://github.com/facebookresearch/seamless_communication'}]
-tags: [Multimodal Models, Transformer, Ethics and Bias, Attention Mechanism]
+tags: [Multimodal Models, Transformer, Ethics and Bias, Tools]
 ---
 Large-scale automatic speech translation systems today lack key features that
 help machine-mediated communication feel seamless when compared to

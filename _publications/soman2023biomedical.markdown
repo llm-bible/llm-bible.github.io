@@ -7,7 +7,7 @@ year: 2023
 citations: 20
 bibkey: soman2023biomedical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17330'}]
-tags: [RAG, Prompting, Pre-Training, Fine-Tuning, Efficiency and Optimization, GPT]
+tags: [Prompting, Fine-Tuning, Pre-Training, RAG, GPT, Efficiency and Optimization]
 ---
 Large Language Models (LLMs) are being adopted at an unprecedented rate, yet
 still face challenges in knowledge-intensive domains like biomedicine.

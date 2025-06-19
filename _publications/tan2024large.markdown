@@ -7,7 +7,7 @@ year: 2024
 citations: 29
 bibkey: tan2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.13446'}]
-tags: [GPT, Survey Paper, Applications, Reinforcement Learning]
+tags: [Applications, Survey Paper, GPT]
 ---
 Data annotation and synthesis generally refers to the labeling or generating
 of raw data with relevant information, which could be used for improving the

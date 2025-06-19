@@ -7,7 +7,7 @@ year: 2022
 citations: 998
 bibkey: chung2022scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.11416'}]
-tags: [Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Few-Shot]
 ---
 Finetuning language models on a collection of datasets phrased as
 instructions has been shown to improve model performance and generalization to

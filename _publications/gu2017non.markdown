@@ -7,8 +7,8 @@ year: 2017
 citations: 471
 bibkey: gu2017non
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.02281'}]
-tags: [Transformer, Distillation, Language Modeling, Efficiency and Optimization,
-  Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling, Distillation, Efficiency and Optimization,
+  Reinforcement Learning]
 ---
 Existing approaches to neural machine translation condition each output word
 on previously generated outputs. We introduce a model that avoids this

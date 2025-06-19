@@ -7,7 +7,7 @@ year: 2023
 citations: 109
 bibkey: chen2023how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.09009'}]
-tags: [Survey Paper, GPT, Prompting]
+tags: [Prompting, Survey Paper, GPT]
 ---
 GPT-3.5 and GPT-4 are the two most widely used large language model (LLM)
 services. However, when and how these models are updated over time is opaque.

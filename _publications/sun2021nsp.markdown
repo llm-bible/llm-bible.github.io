@@ -8,7 +8,7 @@ year: 2021
 citations: 21
 bibkey: sun2021nsp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.03564'}]
-tags: [Few-Shot, Pre-Training, Prompting, BERT]
+tags: [Prompting, Pre-Training, Few-Shot, BERT]
 ---
 Using prompts to utilize language models to perform various downstream tasks,
 also known as prompt-based learning or prompt-learning, has lately gained

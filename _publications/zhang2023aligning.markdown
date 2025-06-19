@@ -8,7 +8,7 @@ year: 2023
 citations: 23
 bibkey: zhang2023aligning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11159'}]
-tags: [Fine-Tuning, Few-Shot, Prompting]
+tags: [Fine-Tuning, Few-Shot]
 ---
 Recent work has shown that fine-tuning large language models (LLMs) on
 large-scale instruction-following datasets substantially improves their

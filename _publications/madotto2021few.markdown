@@ -7,7 +7,7 @@ year: 2021
 citations: 44
 bibkey: madotto2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08118'}]
-tags: [GPT, Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Few-Shot, Fine-Tuning, GPT]
 ---
 Learning to converse using only a few examples is a great challenge in
 conversational AI. The current best conversational models, which are either

@@ -8,7 +8,7 @@ year: 2024
 citations: 25
 bibkey: dhillon2024shaping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.11723'}]
-tags: [RAG, Tools, Prompting, Language Modeling]
+tags: [Tools, Prompting, Language Modeling]
 ---
 Advances in language modeling have paved the way for novel human-AI
 co-writing experiences. This paper explores how varying levels of scaffolding

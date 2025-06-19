@@ -7,7 +7,7 @@ year: 2022
 citations: 37
 bibkey: yang2022generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.06774'}]
-tags: [Prompting, Tools]
+tags: [Tools, Prompting]
 ---
 We consider the problem of automatically generating longer stories of over
 two thousand words. Compared to prior work on shorter stories, long-range plot

@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: manzoor2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02311'}]
-tags: [Reinforcement Learning, RAG, Attention Mechanism]
+tags: [Reinforcement Learning, RAG]
 ---
 Conversational recommender systems have attracted immense attention recently.
 The most recent approaches rely on neural models trained on recorded dialogs

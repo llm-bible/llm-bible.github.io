@@ -8,7 +8,7 @@ citations: 21
 bibkey: geng2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14302'}, {name: Code,
     url: 'https://github.com/jeykigung/VIP5'}]
-tags: [Multimodal Models, Applications, Prompting, Fine-Tuning, Efficiency and Optimization]
+tags: [Multimodal Models, Prompting, Fine-Tuning, Applications, Efficiency and Optimization]
 ---
 Computer Vision (CV), Natural Language Processing (NLP), and Recommender
 Systems (RecSys) are three prominent AI applications that have traditionally

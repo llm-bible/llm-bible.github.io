@@ -8,7 +8,7 @@ year: 2024
 citations: 32
 bibkey: hartsock2024vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.02469'}]
-tags: [Multimodal Models, Survey Paper, Applications, Pre-Training]
+tags: [Multimodal Models, Pre-Training, Survey Paper, Applications]
 ---
 Medical vision-language models (VLMs) combine computer vision (CV) and
 natural language processing (NLP) to analyze visual and textual medical data.

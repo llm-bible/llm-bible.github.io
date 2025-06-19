@@ -7,7 +7,7 @@ year: 2023
 citations: 64
 bibkey: wang2023query
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.07678'}]
-tags: [In-Context Learning, Few-Shot, Prompting]
+tags: [Prompting, Few-Shot, Fine-Tuning, In-Context Learning]
 ---
 This paper introduces a simple yet effective query expansion approach,
 denoted as query2doc, to improve both sparse and dense retrieval systems. The

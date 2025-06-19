@@ -8,7 +8,7 @@ year: 2024
 citations: 18
 bibkey: liang2024monitoring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.07183'}]
-tags: [GPT, Survey Paper, NeurIPS, EMNLP]
+tags: [NeurIPS, GPT, Survey Paper]
 ---
 We present an approach for estimating the fraction of text in a large corpus
 which is likely to be substantially modified or produced by a large language

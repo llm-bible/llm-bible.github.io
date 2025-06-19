@@ -8,7 +8,7 @@ citations: 81
 bibkey: wu2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.19860'}, {name: Code,
     url: 'https://github.com/WLiK/LLM4Rec'}]
-tags: [Survey Paper, RAG, Prompting, Fine-Tuning, Attention Mechanism]
+tags: [Prompting, Fine-Tuning, Survey Paper, RAG]
 ---
 Large Language Models (LLMs) have emerged as powerful tools in the field of
 Natural Language Processing (NLP) and have recently gained significant

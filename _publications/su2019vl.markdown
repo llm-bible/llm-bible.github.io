@@ -8,7 +8,7 @@ citations: 709
 bibkey: su2019vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.08530'}, {name: Code,
     url: 'https://github.com/jackroos/VL-BERT'}]
-tags: [Transformer, BERT, Pre-Training]
+tags: [Transformer, Pre-Training, BERT, Multimodal Models]
 ---
 We introduce a new pre-trainable generic representation for visual-linguistic
 tasks, called Visual-Linguistic BERT (VL-BERT for short). VL-BERT adopts the
@@ -24,4 +24,4 @@ visual-linguistic clues and benefit the downstream tasks, such as visual
 commonsense reasoning, visual question answering and referring expression
 comprehension. It is worth noting that VL-BERT achieved the first place of
 single model on the leaderboard of the VCR benchmark. Code is released at
-\url\{https://github.com/jackroos/VL-BERT\}.
+https://github.com/jackroos/VL-BERT.

@@ -7,7 +7,7 @@ year: 2020
 citations: 19
 bibkey: soldaini2020cascade
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.02534'}]
-tags: [Transformer, Applications, Efficiency and Optimization]
+tags: [Applications, Transformer, Efficiency and Optimization]
 ---
 Large transformer-based language models have been shown to be very effective
 in many classification tasks. However, their computational complexity prevents

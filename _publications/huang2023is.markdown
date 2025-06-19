@@ -8,7 +8,7 @@ year: 2023
 citations: 98
 bibkey: huang2023is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.07736'}]
-tags: [GPT, Prompting, Interpretability and Explainability]
+tags: [Interpretability and Explainability, Prompting, GPT]
 ---
 Recent studies have alarmed that many online hate speeches are implicit. With
 its subtle nature, the explainability of the detection of such hateful speech

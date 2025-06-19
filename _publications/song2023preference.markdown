@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: song2023preference
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17492'}]
-tags: [Reinforcement Learning, Fine-Tuning, GPT, Agentic]
+tags: [Fine-Tuning, Reinforcement Learning, GPT, Agentic]
 ---
 Large language models (LLMs) often contain misleading content, emphasizing
 the need to align them with human values to ensure secure AI systems.

@@ -7,7 +7,7 @@ year: 2019
 citations: 43
 bibkey: edunov2019pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.09722'}]
-tags: [Pre-Training, Fine-Tuning, Language Modeling, Applications, Transformer]
+tags: [Pre-Training, Fine-Tuning, Language Modeling, Applications]
 ---
 Pre-trained language model representations have been successful in a wide
 range of language understanding tasks. In this paper, we examine different

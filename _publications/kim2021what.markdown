@@ -8,8 +8,8 @@ year: 2021
 citations: 36
 bibkey: kim2021what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04650'}]
-tags: [Tokenization, GPT, In-Context Learning, Transformer, Few-Shot, Applications,
-  Prompting]
+tags: [Prompting, Applications, Transformer, GPT, Few-Shot, Tokenization, In-Context
+    Learning]
 ---
 GPT-3 shows remarkable in-context learning ability of large-scale language
 models (LMs) trained on hundreds of billion scale data. Here we address some

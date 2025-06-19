@@ -8,7 +8,7 @@ citations: 29
 bibkey: ma2020character
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.01513'}, {name: Code,
     url: 'https://github.com/wtma/CharBERT'}]
-tags: [BERT, Pre-Training, Security]
+tags: [Pre-Training, BERT, Model Architecture]
 ---
 Most pre-trained language models (PLMs) construct word representations at
 subword level with Byte-Pair Encoding (BPE) or its variations, by which OOV

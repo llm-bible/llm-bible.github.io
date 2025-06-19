@@ -7,7 +7,7 @@ year: 2021
 citations: 38
 bibkey: rohde2021hierarchical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07545'}]
-tags: [Transformer, RAG, Pre-Training, Attention Mechanism]
+tags: [Transformer, Pre-Training, RAG, Attention Mechanism]
 ---
 One of the challenges for current sequence to sequence (seq2seq) models is
 processing long sequences, such as those in summarization and document level

@@ -7,7 +7,7 @@ year: 2022
 citations: 20
 bibkey: an2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14690'}]
-tags: [Reinforcement Learning, Language Modeling]
+tags: [Language Modeling, Reinforcement Learning]
 ---
 Recently, contrastive learning attracts increasing interests in neural text
 generation as a new solution to alleviate the exposure bias problem. It

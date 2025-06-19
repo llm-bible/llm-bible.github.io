@@ -9,7 +9,7 @@ citations: 15
 bibkey: sengupta2023jais
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.16149'}, {name: Code,
     url: 'https://huggingface.co/inception-mbzuai/jais-13b-chat'}]
-tags: [GPT, Training Techniques, Responsible AI]
+tags: [GPT, Pre-Training, Fine-Tuning, Applications]
 ---
 We introduce Jais and Jais-chat, new state-of-the-art Arabic-centric
 foundation and instruction-tuned open generative large language models (LLMs).

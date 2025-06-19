@@ -8,7 +8,7 @@ year: 2019
 citations: 16
 bibkey: ferreira2019neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.09022'}]
-tags: [Transformer, Language Modeling, Applications]
+tags: [Applications, Transformer, Language Modeling]
 ---
 Traditionally, most data-to-text applications have been designed using a
 modular pipeline architecture, in which non-linguistic input data is converted

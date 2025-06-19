@@ -7,7 +7,7 @@ year: 2023
 citations: 54
 bibkey: chen2023meditron
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.16079'}]
-tags: [GPT, Pre-Training, Fine-Tuning, Transformer]
+tags: [Pre-Training, GPT, Fine-Tuning, Model Architecture]
 ---
 Large language models (LLMs) can potentially democratize access to medical
 knowledge. While many efforts have been made to harness and improve LLMs'

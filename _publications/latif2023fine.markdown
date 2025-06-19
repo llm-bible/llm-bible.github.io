@@ -7,7 +7,7 @@ year: 2023
 citations: 47
 bibkey: latif2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10072'}]
-tags: [GPT, Fine-Tuning]
+tags: [Fine-Tuning, GPT]
 ---
 This study highlights the potential of fine-tuned ChatGPT (GPT-3.5) for
 automatically scoring student written constructed responses using example

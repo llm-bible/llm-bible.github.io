@@ -7,7 +7,7 @@ year: 2018
 citations: 21
 bibkey: hu2018attention
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.07644'}]
-tags: [Distillation, Attention Mechanism, Efficiency and Optimization]
+tags: [Distillation, Efficiency and Optimization, RAG, Attention Mechanism]
 ---
 Despite that current reading comprehension systems have achieved significant
 advancements, their promising performances are often obtained at the cost of

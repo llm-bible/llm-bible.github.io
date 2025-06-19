@@ -7,7 +7,7 @@ year: 2022
 citations: 29
 bibkey: petrov2022systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.07483'}]
-tags: [Transformer, BERT, Survey Paper, Tools, Attention Mechanism]
+tags: [Transformer, Survey Paper, BERT, Model Architecture, Attention Mechanism]
 ---
 BERT4Rec is an effective model for sequential recommendation based on the
 Transformer architecture. In the original publication, BERT4Rec claimed

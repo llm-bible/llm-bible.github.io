@@ -8,7 +8,7 @@ year: 2024
 citations: 19
 bibkey: chen2024pixart
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.04692'}]
-tags: [Transformer, Pre-Training, Prompting, Efficiency and Optimization]
+tags: [Prompting, Transformer, Pre-Training, Efficiency and Optimization]
 ---
 In this paper, we introduce PixArt-\Sigma, a Diffusion Transformer
 model~(DiT) capable of directly generating images at 4K resolution.

@@ -8,7 +8,7 @@ citations: 16
 bibkey: li2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01623'}, {name: Code,
     url: 'https://github.com/RUCAIBox/Few-Shot-KG2Text'}]
-tags: [Few-Shot, RAG, Language Modeling]
+tags: [Language Modeling, Few-Shot, RAG]
 ---
 This paper studies how to automatically generate a natural language text that
 describes the facts in knowledge graph (KG). Considering the few-shot setting,

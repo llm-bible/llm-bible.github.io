@@ -7,7 +7,7 @@ year: 2020
 citations: 24
 bibkey: gupta2020global
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.03274'}]
-tags: [Transformer, Masked Language Model, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling, Masked Language Model]
 ---
 Transformer-based models have become ubiquitous in natural language
 processing thanks to their large capacity, innate parallelism and high

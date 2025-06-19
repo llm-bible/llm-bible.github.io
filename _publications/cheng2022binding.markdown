@@ -8,8 +8,8 @@ citations: 36
 bibkey: cheng2022binding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02875'}, {name: Code,
     url: 'https://github.com/HKUNLP/Binder'}]
-tags: [GPT, Prompting, Reinforcement Learning, Interpretability and Explainability,
-  Tools]
+tags: [Prompting, GPT, Tools, Interpretability and Explainability, Reinforcement Learning,
+  RAG]
 ---
 Though end-to-end neural approaches have recently been dominating NLP tasks
 in both performance and ease-of-use, they lack interpretability and robustness.

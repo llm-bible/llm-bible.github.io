@@ -7,7 +7,7 @@ year: 2023
 citations: 45
 bibkey: chen2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.12793'}]
-tags: [GPT, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Pre-Training, GPT, Reinforcement Learning]
 ---
 In the realm of large multi-modal models (LMMs), efficient modality alignment
 is crucial yet often constrained by the scarcity of high-quality image-text

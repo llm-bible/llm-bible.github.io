@@ -7,7 +7,7 @@ year: 2021
 citations: 30
 bibkey: narayan2021planning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07606'}]
-tags: [Transformer, Prompting, Pre-Training, Fine-Tuning]
+tags: [Prompting, Transformer, Pre-Training, Fine-Tuning]
 ---
 We introduce a simple but flexible mechanism to learn an intermediate plan to
 ground the generation of abstractive summaries. Specifically, we prepend (or

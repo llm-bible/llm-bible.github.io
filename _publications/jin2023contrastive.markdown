@@ -8,7 +8,7 @@ year: 2023
 citations: 35
 bibkey: jin2023contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.00589'}]
-tags: [Transformer, Reinforcement Learning, Training Techniques]
+tags: [Pre-Training, Transformer, Reinforcement Learning, Applications]
 ---
 Information retrieval (IR) is essential in biomedical knowledge acquisition
 and clinical decision support. While recent progress has shown that language

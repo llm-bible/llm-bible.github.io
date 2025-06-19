@@ -9,7 +9,7 @@ citations: 71
 bibkey: wang2022simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13669'}, {name: Code,
     url: 'https://github.com/jpWang/LiLT'}]
-tags: [Transformer, Pre-Training]
+tags: [Transformer, Pre-Training, Model Architecture, Attention Mechanism]
 ---
 Structured document understanding has attracted considerable attention and
 made significant progress recently, owing to its crucial role in intelligent

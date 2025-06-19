@@ -7,7 +7,7 @@ year: 2023
 citations: 22
 bibkey: mysore2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.02250'}]
-tags: [In-Context Learning, Reinforcement Learning, Few-Shot, Prompting, Tools]
+tags: [Prompting, Few-Shot, Reinforcement Learning]
 ---
 Narrative-driven recommendation (NDR) presents an information access problem
 where users solicit recommendations with verbose descriptions of their

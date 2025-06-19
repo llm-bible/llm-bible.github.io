@@ -9,7 +9,7 @@ citations: 506
 bibkey: luo2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.10341'}, {name: Code,
     url: 'https://github.com/microsoft/BioGPT'}]
-tags: [GPT, Transformer, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling, GPT]
 ---
 Pre-trained language models have attracted increasing attention in the
 biomedical domain, inspired by their great success in the general natural

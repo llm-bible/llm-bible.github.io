@@ -7,7 +7,7 @@ year: 2019
 citations: 21
 bibkey: stahlberg2019nmt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.10090'}]
-tags: [Transformer, Ethics and Bias]
+tags: [Transformer, Ethics and Bias, Reinforcement Learning]
 ---
 We report on search errors and model errors in neural machine translation
 (NMT). We present an exact inference procedure for neural sequence models based

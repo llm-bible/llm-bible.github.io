@@ -8,7 +8,7 @@ year: 2023
 citations: 68
 bibkey: lai2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05613'}]
-tags: [GPT, Applications, Training Techniques]
+tags: [Applications, GPT]
 ---
 Over the last few years, large language models (LLMs) have emerged as the
 most important breakthroughs in natural language processing (NLP) that

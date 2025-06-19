@@ -10,7 +10,7 @@ bibkey: dan2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.02773'}, {name: Code,
     url: 'https://www.educhat.top/)'}, {name: Code, url: 'https://github.com/icalk-nlp/EduChat,'},
   {name: Code, url: 'https://huggingface.co/ecnu-icalk'}, {name: Code, url: 'https://vimeo.com/851004454)'}]
-tags: [Applications, Pre-Training, Fine-Tuning, Prompting, Tools, Reinforcement Learning]
+tags: [Prompting, Fine-Tuning, Applications, Pre-Training, Tools, Reinforcement Learning]
 ---
 EduChat (https://www.educhat.top/) is a large-scale language model
 (LLM)-based chatbot system in the education domain. Its goal is to support

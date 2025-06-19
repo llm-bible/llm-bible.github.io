@@ -7,7 +7,7 @@ year: 2016
 citations: 260
 bibkey: kim2016sequence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.07947'}]
-tags: [Distillation, Pruning, Efficiency and Optimization]
+tags: [Distillation, Efficiency and Optimization, Pruning]
 ---
 Neural machine translation (NMT) offers a novel alternative formulation of
 translation that is potentially simpler than statistical approaches. However to

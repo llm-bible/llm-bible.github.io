@@ -7,7 +7,7 @@ year: 2020
 citations: 1599
 bibkey: lewis2020retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.11401'}]
-tags: [RAG, Fine-Tuning, Vector Indexing]
+tags: [Fine-Tuning, Vector Indexing, Reinforcement Learning, RAG]
 ---
 Large pre-trained language models have been shown to store factual knowledge
 in their parameters, and achieve state-of-the-art results when fine-tuned on

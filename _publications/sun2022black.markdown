@@ -7,7 +7,7 @@ year: 2022
 citations: 55
 bibkey: sun2022black
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.03514'}]
-tags: [GPT, In-Context Learning, Tools, Prompting, Efficiency and Optimization]
+tags: [Prompting, GPT, Tools, In-Context Learning, Efficiency and Optimization, BERT]
 ---
 Extremely large pre-trained language models (PTMs) such as GPT-3 are usually
 released as a service. It allows users to design task-specific prompts to query

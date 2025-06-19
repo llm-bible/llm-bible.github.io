@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: cao2023pro
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.08088'}]
-tags: [Multimodal Models, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Multimodal Models]
 ---
 Hateful meme detection is a challenging multimodal task that requires
 comprehension of both vision and language, as well as cross-modal interactions.

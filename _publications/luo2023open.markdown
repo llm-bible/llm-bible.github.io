@@ -8,7 +8,7 @@ citations: 16
 bibkey: luo2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.09442'}, {name: Code,
     url: 'https://github.com/PharMolix/OpenBioMed'}]
-tags: [GPT, Multimodal Models, Transformer, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Multimodal Models, GPT]
 ---
 Foundation models (FMs) have exhibited remarkable performance across a wide
 range of downstream tasks in many domains. Nevertheless, general-purpose FMs
@@ -34,4 +34,4 @@ the biomedical domain, therefore is commercial friendly. Both BioMedGPT-10B and
 BioMedGPT-LM-7B are open-sourced to the research community. In addition, we
 publish the datasets that are meticulously curated for the alignment of
 multi-modalities, i.e., PubChemQA and UniProtQA. All the models, codes, and
-datasets are available at \url\{https://github.com/PharMolix/OpenBioMed\}.
+datasets are available at https://github.com/PharMolix/OpenBioMed.

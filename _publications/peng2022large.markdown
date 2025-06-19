@@ -7,7 +7,7 @@ year: 2022
 citations: 28
 bibkey: peng2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.11309'}]
-tags: [GPT, Reinforcement Learning, Few-Shot, RAG, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, Few-Shot, Fine-Tuning, Reinforcement Learning, RAG, GPT]
 ---
 We introduce GODEL (Grounded Open Dialogue Language Model), a large
 pre-trained language model for dialog. In contrast with earlier models such as

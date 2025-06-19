@@ -7,7 +7,7 @@ year: 2023
 citations: 33
 bibkey: cao2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.04156'}]
-tags: [Multimodal Models, Prompting, BERT]
+tags: [Prompting, Multimodal Models, BERT]
 ---
 Hateful meme classification is a challenging multimodal task that requires
 complex reasoning and contextual background knowledge. Ideally, we could

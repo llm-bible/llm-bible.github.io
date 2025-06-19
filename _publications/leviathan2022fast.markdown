@@ -7,7 +7,7 @@ year: 2022
 citations: 19
 bibkey: leviathan2022fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.17192'}]
-tags: [GPT, Transformer, Language Modeling, Efficiency and Optimization]
+tags: [Transformer, Language Modeling, GPT, Efficiency and Optimization]
 ---
 Inference from large autoregressive models like Transformers is slow -
 decoding K tokens takes K serial runs of the model. In this work we introduce

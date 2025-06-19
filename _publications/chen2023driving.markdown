@@ -8,8 +8,8 @@ year: 2023
 citations: 39
 bibkey: chen2023driving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01957'}]
-tags: [Multimodal Models, Reinforcement Learning, Interpretability and Explainability,
-  Fine-Tuning, GPT]
+tags: [Multimodal Models, Fine-Tuning, Interpretability and Explainability, Reinforcement
+    Learning, GPT, Agentic]
 ---
 Large Language Models (LLMs) have shown promise in the autonomous driving
 sector, particularly in generalization and interpretability. We introduce a

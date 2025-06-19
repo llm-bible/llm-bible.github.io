@@ -9,7 +9,7 @@ citations: 91
 bibkey: li2021supervision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.05208'}, {name: Code,
     url: 'https://github.com/Sense-GVT/DeCLIP'}]
-tags: [Pre-Training, Tools]
+tags: [Pre-Training, Tools, Model Architecture]
 ---
 Recently, large-scale Contrastive Language-Image Pre-training (CLIP) has
 attracted unprecedented attention for its impressive zero-shot recognition

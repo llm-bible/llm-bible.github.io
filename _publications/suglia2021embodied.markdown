@@ -8,7 +8,7 @@ year: 2021
 citations: 29
 bibkey: suglia2021embodied
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.04927'}]
-tags: [Transformer, BERT, Agentic]
+tags: [Transformer, Agentic, BERT]
 ---
 Language-guided robots performing home and office tasks must navigate in and
 interact with the world. Grounding language instructions against visual

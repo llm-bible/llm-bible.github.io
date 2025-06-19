@@ -7,7 +7,8 @@ year: 2023
 citations: 27
 bibkey: sun2023short
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.09136'}]
-tags: [Survey Paper, Ethics and Bias, Applications, Interpretability and Explainability]
+tags: [Applications, Ethics and Bias, Interpretability and Explainability, Survey
+    Paper]
 ---
 Large language models (LLMs) have transformed many fields, including natural
 language processing, computer vision, and reinforcement learning. These models

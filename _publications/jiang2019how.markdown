@@ -8,7 +8,7 @@ citations: 455
 bibkey: jiang2019how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.12543'}, {name: Code,
     url: 'https://github.com/jzbjyb/LPAQA'}]
-tags: [Prompting]
+tags: [Prompting, Has Code]
 ---
 Recent work has presented intriguing results examining the knowledge
 contained in language models (LM) by having the LM fill in the blanks of

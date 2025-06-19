@@ -8,7 +8,7 @@ year: 2023
 citations: 23
 bibkey: sultanum2023investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.04076'}]
-tags: [Language Modeling, RAG]
+tags: [Reinforcement Learning, RAG, Language Modeling]
 ---
 Authoring data-driven articles is a complex process requiring authors to not
 only analyze data for insights but also craft a cohesive narrative that

@@ -8,7 +8,7 @@ citations: 24
 bibkey: zan2022continual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.06888'}, {name: Code,
     url: 'https://github.com/microsoft/PyCodeGPT'}]
-tags: [Pre-Training, RAG, Tools, GPT]
+tags: [Pre-Training, GPT, Tools]
 ---
 Code generation is a longstanding challenge, aiming to generate a code
 snippet based on a natural language description. Usually, expensive text-code

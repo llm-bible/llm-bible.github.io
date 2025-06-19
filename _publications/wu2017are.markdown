@@ -8,7 +8,7 @@ year: 2017
 citations: 64
 bibkey: wu2017are
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.07613'}]
-tags: [Reinforcement Learning, Attention Mechanism, Agentic, Transformer]
+tags: [Reinforcement Learning, Transformer, Agentic, Attention Mechanism]
 ---
 The Visual Dialogue task requires an agent to engage in a conversation about
 an image with a human. It represents an extension of the Visual Question

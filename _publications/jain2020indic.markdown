@@ -9,7 +9,7 @@ citations: 25
 bibkey: jain2020indic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.02323'}, {name: Code,
     url: 'https://huggingface.co/neuralspace-reverie'}]
-tags: [Transformer, Fine-Tuning, Pre-Training]
+tags: [Fine-Tuning, Transformer]
 ---
 Language models based on the Transformer architecture have achieved
 state-of-the-art performance on a wide range of NLP tasks such as text

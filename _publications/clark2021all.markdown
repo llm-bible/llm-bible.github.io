@@ -8,7 +8,7 @@ year: 2021
 citations: 86
 bibkey: clark2021all
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.00061'}]
-tags: [GPT, Applications, Ethics and Bias]
+tags: [GPT, Applications]
 ---
 Human evaluations are typically considered the gold standard in natural
 language generation, but as models' fluency improves, how well can evaluators

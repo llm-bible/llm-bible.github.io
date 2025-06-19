@@ -7,7 +7,7 @@ year: 2020
 citations: 41
 bibkey: zhu2020modifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.00363'}]
-tags: [Transformer, Fine-Tuning, Ethics and Bias]
+tags: [Fine-Tuning, Transformer, Ethics and Bias]
 ---
 Large Transformer models have achieved impressive performance in many natural
 language tasks. In particular, Transformer based language models have been

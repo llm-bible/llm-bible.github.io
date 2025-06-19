@@ -8,7 +8,7 @@ year: 2019
 citations: 44
 bibkey: tay2019simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.10847'}]
-tags: [Transformer, Attention Mechanism, Pre-Training]
+tags: [Transformer, Model Architecture, Attention Mechanism]
 ---
 This paper tackles the problem of reading comprehension over long narratives
 where documents easily span over thousands of tokens. We propose a curriculum

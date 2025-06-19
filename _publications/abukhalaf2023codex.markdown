@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: abukhalaf2023codex
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.16244'}]
-tags: [GPT, Prompting, Few-Shot]
+tags: [Prompting, Few-Shot, GPT]
 ---
 The Object Constraint Language (OCL) is a declarative language that adds
 constraints and object query expressions to MOF models. Despite its potential

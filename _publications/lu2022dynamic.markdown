@@ -8,7 +8,7 @@ year: 2022
 citations: 29
 bibkey: lu2022dynamic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.14610'}]
-tags: [GPT, Reinforcement Learning, Few-Shot, Prompting]
+tags: [Prompting, Few-Shot, Reinforcement Learning, GPT]
 ---
 Mathematical reasoning, a core ability of human intelligence, presents unique
 challenges for machines in abstract thinking and logical reasoning. Recent

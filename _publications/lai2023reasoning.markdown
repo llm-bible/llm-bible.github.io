@@ -8,7 +8,7 @@ citations: 72
 bibkey: lai2023reasoning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.00692'}, {name: Code,
     url: 'https://github.com/dvlab-research/LISA'}]
-tags: [Multimodal Models, Reinforcement Learning, Fine-Tuning]
+tags: [Fine-Tuning, Multimodal Models, Reinforcement Learning]
 ---
 Although perception systems have made remarkable advancements in recent
 years, they still rely on explicit human instruction or pre-defined categories

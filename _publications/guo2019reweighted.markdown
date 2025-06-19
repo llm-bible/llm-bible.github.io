@@ -7,7 +7,7 @@ year: 2019
 citations: 52
 bibkey: guo2019reweighted
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.12486'}]
-tags: [BERT, Pruning, Efficiency and Optimization, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Pre-Training, Pruning, BERT, Efficiency and Optimization]
 ---
 Recently, pre-trained language representation flourishes as the mainstay of
 the natural language understanding community, e.g., BERT. These pre-trained

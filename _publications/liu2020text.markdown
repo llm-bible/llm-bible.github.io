@@ -7,7 +7,7 @@ year: 2020
 citations: 26
 bibkey: liu2020text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.13192'}]
-tags: [Multimodal Models, Transformer, Pre-Training]
+tags: [Transformer, Multimodal Models, Pre-Training]
 ---
 Focusing on text-to-image (T2I) generation, we propose Text and Image
 Mutual-Translation Adversarial Networks (TIME), a lightweight but effective

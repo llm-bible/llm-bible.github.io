@@ -8,7 +8,7 @@ year: 2023
 citations: 22
 bibkey: chen2023dipping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.01709'}]
-tags: [Prompting, Efficiency and Optimization, Fine-Tuning]
+tags: [Prompting, Efficiency and Optimization]
 ---
 Knowledge Graph Completion (KGC) often requires both KG structural and
 textual information to be effective. Pre-trained Language Models (PLMs) have

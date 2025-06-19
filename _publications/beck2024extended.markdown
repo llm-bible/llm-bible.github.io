@@ -7,7 +7,7 @@ year: 2024
 citations: 32
 bibkey: beck2024extended
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.04517'}]
-tags: [Transformer, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling, Model Architecture]
 ---
 In the 1990s, the constant error carousel and gating were introduced as the
 central ideas of the Long Short-Term Memory (LSTM). Since then, LSTMs have

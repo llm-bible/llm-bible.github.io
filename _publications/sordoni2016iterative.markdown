@@ -7,7 +7,7 @@ year: 2016
 citations: 40
 bibkey: sordoni2016iterative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.02245'}]
-tags: [Transformer, Attention Mechanism, Fine-Tuning]
+tags: [Transformer, Fine-Tuning, Attention Mechanism]
 ---
 We propose a novel neural attention architecture to tackle machine
 comprehension tasks, such as answering Cloze-style queries with respect to a

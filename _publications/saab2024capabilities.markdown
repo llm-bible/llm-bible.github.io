@@ -7,7 +7,8 @@ year: 2024
 citations: 46
 bibkey: saab2024capabilities
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.18416'}]
-tags: [Multimodal Models, Applications, RAG, Reinforcement Learning]
+tags: [Applications, Multimodal Models, GPT, In-Context Learning, Reinforcement Learning,
+  RAG]
 ---
 Excellence in a wide variety of medical applications poses considerable
 challenges for AI, requiring advanced reasoning, access to up-to-date medical

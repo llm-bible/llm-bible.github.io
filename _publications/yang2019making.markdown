@@ -7,7 +7,7 @@ year: 2019
 citations: 39
 bibkey: yang2019making
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.09326'}]
-tags: [Multimodal Models, Reinforcement Learning, Attention Mechanism, Agentic]
+tags: [Multimodal Models, Reinforcement Learning, Attention Mechanism]
 ---
 We study the multi-round response generation in visual dialog, where a
 response is generated according to a visually grounded conversational history.

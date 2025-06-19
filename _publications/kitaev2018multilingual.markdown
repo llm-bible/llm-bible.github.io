@@ -7,7 +7,7 @@ year: 2018
 citations: 47
 bibkey: kitaev2018multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.11760'}]
-tags: [Transformer, BERT, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, Fine-Tuning, Transformer, BERT]
 ---
 We show that constituency parsing benefits from unsupervised pre-training
 across a variety of languages and a range of pre-training conditions. We first

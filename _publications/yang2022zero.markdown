@@ -8,7 +8,7 @@ citations: 58
 bibkey: yang2022zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08155'}, {name: Code,
     url: 'https://github.com/antoyang/FrozenBiLM'}]
-tags: [BERT, Few-Shot, Language Modeling, Masked Language Model]
+tags: [Language Modeling, Few-Shot, Masked Language Model, BERT]
 ---
 Video question answering (VideoQA) is a complex task that requires diverse
 multi-modal data for training. Manual annotation of question and answers for

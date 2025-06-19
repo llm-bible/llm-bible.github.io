@@ -8,7 +8,7 @@ citations: 18
 bibkey: kharitonov2021text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.03264'}, {name: Code,
     url: 'https://speechbot.github.io/pgslm'}, {name: Code, url: 'https://github.com/pytorch/fairseq/tree/main/examples/textless_nlp/pgslm'}]
-tags: [GPT, Transformer, Language Modeling, Pre-Training, Prompting]
+tags: [Prompting, Transformer, Language Modeling, Pre-Training, GPT]
 ---
 Speech pre-training has primarily demonstrated efficacy on classification
 tasks, while its capability of generating novel speech, similar to how GPT-2

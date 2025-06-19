@@ -8,7 +8,7 @@ year: 2020
 citations: 21
 bibkey: li2020empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.04195'}]
-tags: [Transformer, Language Modeling, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling, Pre-Training]
 ---
 We present an empirical investigation of pre-trained Transformer-based
 auto-regressive language models for the task of open-domain dialogue

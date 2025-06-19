@@ -7,7 +7,7 @@ year: 2021
 citations: 19
 bibkey: ram2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00438'}]
-tags: [Few-Shot, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Few-Shot, Pre-Training]
 ---
 In several question answering benchmarks, pretrained models have reached
 human parity through fine-tuning on an order of 100,000 annotated questions and

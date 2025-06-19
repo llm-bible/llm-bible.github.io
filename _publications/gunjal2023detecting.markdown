@@ -7,7 +7,7 @@ year: 2023
 citations: 43
 bibkey: gunjal2023detecting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.06394'}]
-tags: [Reinforcement Learning, Efficiency and Optimization, Multimodal Models]
+tags: [Reinforcement Learning, Multimodal Models, Fine-Tuning]
 ---
 Instruction tuned Large Vision Language Models (LVLMs) have significantly
 advanced in generalizing across a diverse set of multi-modal tasks, especially

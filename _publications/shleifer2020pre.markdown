@@ -8,7 +8,7 @@ citations: 57
 bibkey: shleifer2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.13002'}, {name: Code,
     url: 'http://tiny.cc/4iy0tz'}]
-tags: [Transformer, Distillation, Fine-Tuning, Efficiency and Optimization]
+tags: [Fine-Tuning, Transformer, Distillation, BERT]
 ---
 Recent state-of-the-art approaches to summarization utilize large pre-trained
 Transformer models. Distilling these models to smaller student models has

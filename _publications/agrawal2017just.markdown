@@ -8,7 +8,7 @@ year: 2017
 citations: 260
 bibkey: agrawal2017just
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1712.00377'}]
-tags: [Multimodal Models, Ethics and Bias, Attention Mechanism, Training Techniques]
+tags: [Multimodal Models, Ethics and Bias, Model Architecture]
 ---
 A number of studies have found that today's Visual Question Answering (VQA)
 models are heavily driven by superficial correlations in the training data and

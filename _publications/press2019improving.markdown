@@ -7,7 +7,7 @@ year: 2019
 citations: 25
 bibkey: press2019improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03864'}]
-tags: [Transformer, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling]
 ---
 Multilayer transformer networks consist of interleaved self-attention and
 feedforward sublayers. Could ordering the sublayers in a different pattern lead

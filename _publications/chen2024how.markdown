@@ -9,7 +9,7 @@ citations: 31
 bibkey: chen2024how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.16821'}, {name: Code,
     url: 'https://github.com/OpenGVLab/InternVL'}]
-tags: [GPT, Multimodal Models, Reinforcement Learning]
+tags: [Multimodal Models, GPT]
 ---
 In this report, we introduce InternVL 1.5, an open-source multimodal large
 language model (MLLM) to bridge the capability gap between open-source and

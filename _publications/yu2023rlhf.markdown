@@ -9,8 +9,8 @@ citations: 21
 bibkey: yu2023rlhf
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.00849'}, {name: Code,
     url: 'https://github.com/RLHF-V/RLHF-V'}]
-tags: [Reinforcement Learning, Multimodal Models, Applications, Efficiency and Optimization,
-  Security, GPT]
+tags: [Applications, Security, Reinforcement Learning, Multimodal Models, GPT, Efficiency
+    and Optimization]
 ---
 Multimodal Large Language Models (MLLMs) have recently demonstrated
 impressive capabilities in multimodal understanding, reasoning, and

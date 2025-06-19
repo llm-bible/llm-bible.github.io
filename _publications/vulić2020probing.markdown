@@ -8,7 +8,7 @@ year: 2020
 citations: 49
 bibkey: "vuli\u01072020probing"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.05731'}]
-tags: [Transformer, BERT]
+tags: [Transformer, BERT, Language Modeling]
 ---
 The success of large pretrained language models (LMs) such as BERT and
 RoBERTa has sparked interest in probing their representations, in order to

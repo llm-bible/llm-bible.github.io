@@ -7,7 +7,7 @@ year: 2023
 citations: 38
 bibkey: zhong2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10250'}]
-tags: [Reinforcement Learning, GPT]
+tags: [GPT, Reinforcement Learning]
 ---
 Revolutionary advancements in Large Language Models have drastically reshaped
 our interactions with artificial intelligence systems. Despite this, a notable

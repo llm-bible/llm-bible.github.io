@@ -8,7 +8,7 @@ year: 2019
 citations: 19
 bibkey: nangia2019human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.10425'}]
-tags: [BERT, RAG]
+tags: [BERT, Language Modeling, Few-Shot]
 ---
 The GLUE benchmark (Wang et al., 2019b) is a suite of language understanding
 tasks which has seen dramatic progress in the past year, with average

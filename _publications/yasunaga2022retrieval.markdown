@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: yasunaga2022retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.12561'}]
-tags: [Multimodal Models, RAG, Transformer, Language Modeling, In-Context Learning]
+tags: [RAG, Multimodal Models, Transformer, Language Modeling, In-Context Learning]
 ---
 Recent multimodal models such as DALL-E and CM3 have achieved remarkable
 progress in text-to-image and image-to-text generation. However, these models

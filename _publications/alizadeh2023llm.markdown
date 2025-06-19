@@ -7,7 +7,7 @@ year: 2023
 citations: 22
 bibkey: alizadeh2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.11514'}]
-tags: [Efficiency and Optimization]
+tags: [Efficiency and Optimization, Tools]
 ---
 Large language models (LLMs) are central to modern natural language
 processing, delivering exceptional performance in various tasks. However, their

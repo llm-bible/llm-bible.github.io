@@ -7,7 +7,7 @@ year: 2023
 citations: 31
 bibkey: zhang2023extractive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.04193'}]
-tags: [GPT, Fine-Tuning, Prompting]
+tags: [Fine-Tuning, GPT]
 ---
 Extractive summarization is a crucial task in natural language processing
 that aims to condense long documents into shorter versions by directly

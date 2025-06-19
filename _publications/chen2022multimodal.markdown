@@ -8,7 +8,7 @@ year: 2022
 citations: 28
 bibkey: chen2022multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02928'}]
-tags: [Multimodal Models, Transformer, RAG]
+tags: [Transformer, Multimodal Models, RAG]
 ---
 While language Models store a massive amount of world knowledge implicitly in
 their parameters, even very large models often fail to encode information about

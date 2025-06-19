@@ -7,7 +7,7 @@ year: 2020
 citations: 127
 bibkey: qi2020predicting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.04063'}]
-tags: [Pre-Training, Transformer, Attention Mechanism]
+tags: [Transformer, Pre-Training, Attention Mechanism]
 ---
 This paper presents a new sequence-to-sequence pre-training model called
 ProphetNet, which introduces a novel self-supervised objective named future

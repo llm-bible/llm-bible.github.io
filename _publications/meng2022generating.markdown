@@ -8,7 +8,7 @@ year: 2022
 citations: 72
 bibkey: meng2022generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04538'}]
-tags: [GPT, Few-Shot, BERT, Prompting, Language Modeling, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Language Modeling, GPT, Few-Shot, BERT]
 ---
 Pretrained language models (PLMs) have demonstrated remarkable performance in
 various natural language processing tasks: Unidirectional PLMs (e.g., GPT) are

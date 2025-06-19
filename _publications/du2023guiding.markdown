@@ -8,7 +8,7 @@ citations: 25
 bibkey: du2023guiding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.06692'}, {name: Code,
     url: 'https://github.com/yuqingd/ellm'}]
-tags: [Reinforcement Learning, Prompting, Agentic, Pre-Training]
+tags: [Prompting, Fine-Tuning, Reinforcement Learning, Agentic]
 ---
 Reinforcement learning algorithms typically struggle in the absence of a
 dense, well-shaped reward function. Intrinsically motivated exploration methods

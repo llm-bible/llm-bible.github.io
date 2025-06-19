@@ -8,7 +8,8 @@ citations: 229
 bibkey: huang2022pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.08387'}, {name: Code,
     url: 'https://aka.ms/layoutlmv3'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Language Modeling]
+tags: [Transformer, Language Modeling, Multimodal Models, Pre-Training, Masked Language
+    Model]
 ---
 Self-supervised pre-training techniques have achieved remarkable progress in
 Document AI. Most multimodal pre-trained models use a masked language modeling
@@ -26,4 +27,4 @@ not only in text-centric tasks, including form understanding, receipt
 understanding, and document visual question answering, but also in
 image-centric tasks such as document image classification and document layout
 analysis. The code and models are publicly available at
-\url\{https://aka.ms/layoutlmv3\}.
+https://aka.ms/layoutlmv3.

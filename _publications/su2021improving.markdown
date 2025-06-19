@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: su2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.04198'}]
-tags: [Pre-Training, BERT, Masked Language Model]
+tags: [Pre-Training, BERT]
 ---
 Masked language models (MLMs) such as BERT and RoBERTa have revolutionized
 the field of Natural Language Understanding in the past few years. However,

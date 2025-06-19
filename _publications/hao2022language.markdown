@@ -7,8 +7,8 @@ year: 2022
 citations: 20
 bibkey: hao2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.06336'}]
-tags: [Multimodal Models, In-Context Learning, Reinforcement Learning, Few-Shot, Applications,
-  Language Modeling, Attention Mechanism]
+tags: [Applications, Language Modeling, Multimodal Models, Few-Shot, In-Context Learning,
+  Reinforcement Learning]
 ---
 Foundation models have received much attention due to their effectiveness
 across a broad range of downstream applications. Though there is a big

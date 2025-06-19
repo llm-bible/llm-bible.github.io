@@ -9,7 +9,7 @@ citations: 18
 bibkey: deldjoo2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.10545'}, {name: Code,
     url: 'https://github.com/yasdel/Benchmark_RecLLM_Fairness'}]
-tags: [GPT, Ethics and Bias, Few-Shot, Prompting]
+tags: [Prompting, Ethics and Bias, Few-Shot, GPT, In-Context Learning]
 ---
 This paper explores the biases in ChatGPT-based recommender systems, focusing
 on provider fairness (item-side fairness). Through extensive experiments and

@@ -8,8 +8,7 @@ citations: 20
 bibkey: zhang2023making
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.06671'}, {name: Code,
     url: 'https://github.com/zjukg/KoPA'}]
-tags: [Multimodal Models, In-Context Learning, Reinforcement Learning, Prompting,
-  Pre-Training]
+tags: [Prompting, Pre-Training, In-Context Learning, Reinforcement Learning]
 ---
 Large language model (LLM) based knowledge graph completion (KGC) aims to
 predict the missing triples in the KGs with LLMs. However, research about

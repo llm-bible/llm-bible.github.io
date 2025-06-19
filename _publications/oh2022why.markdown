@@ -8,7 +8,7 @@ year: 2022
 citations: 36
 bibkey: oh2022why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.12131'}]
-tags: [GPT, Transformer, Reinforcement Learning]
+tags: [Transformer, GPT, Reinforcement Learning]
 ---
 This work presents a detailed linguistic analysis into why larger
 Transformer-based pre-trained language models with more parameters and lower

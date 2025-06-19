@@ -7,7 +7,7 @@ year: 2023
 citations: 1038
 bibkey: bubeck2023sparks
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12712'}]
-tags: [GPT, Reinforcement Learning, Prompting, Fine-Tuning]
+tags: [Prompting, GPT, Reinforcement Learning]
 ---
 Artificial intelligence (AI) researchers have been developing and refining
 large language models (LLMs) that exhibit remarkable capabilities across a

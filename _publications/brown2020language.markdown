@@ -5,9 +5,9 @@ authors: Tom B. Brown et al.
 conference: Arxiv
 year: 2020
 citations: 12845
-bibkey: b2020language
-additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2005.14165v4'}]
-tags: [Few-Shot, GPT, Pre-Training, Fine-Tuning, Language Modeling, Transformer]
+bibkey: brown2020language
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.14165'}]
+tags: [Few-Shot, Pre-Training, GPT, Fine-Tuning, Language Modeling, Transformer]
 ---
 Recent work has demonstrated substantial gains on many NLP tasks and
 benchmarks by pre-training on a large corpus of text followed by fine-tuning on

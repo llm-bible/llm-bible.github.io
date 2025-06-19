@@ -8,7 +8,7 @@ year: 2024
 citations: 19
 bibkey: hedderich2024piece
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.17456'}]
-tags: [Reinforcement Learning, Prompting, Tools]
+tags: [Tools, Prompting]
 ---
 Cyberbullying harms teenagers' mental health, and teaching them upstanding
 intervention is crucial. Wizard-of-Oz studies show chatbots can scale up

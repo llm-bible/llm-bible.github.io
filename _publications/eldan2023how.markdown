@@ -7,7 +7,7 @@ year: 2023
 citations: 38
 bibkey: eldan2023how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07759'}]
-tags: [GPT, Transformer, RAG, Tools, Attention Mechanism]
+tags: [Transformer, GPT, RAG]
 ---
 Language models (LMs) are powerful tools for natural language processing, but
 they often struggle to produce coherent and fluent text when they are small.

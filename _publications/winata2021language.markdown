@@ -7,7 +7,7 @@ year: 2021
 citations: 41
 bibkey: winata2021language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07684'}]
-tags: [GPT, Few-Shot, Language Modeling]
+tags: [GPT, Few-Shot]
 ---
 General-purpose language models have demonstrated impressive capabilities,
 performing on par with state-of-the-art approaches on a range of downstream

@@ -6,9 +6,9 @@ conference: The 2023 Conference on Empirical Methods in Natural Language Process
   (EMNLP 2023)
 year: 2023
 citations: 24
-bibkey: erik2023consistency
-additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.06273v3'}]
-tags: [Few-Shot, GPT, Prompting, Reinforcement Learning]
+bibkey: jang2023consistency
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.06273'}]
+tags: [Prompting, GPT, Few-Shot]
 ---
 ChatGPT has gained a huge popularity since its introduction. Its positive
 aspects have been reported through many media platforms, and some analyses even

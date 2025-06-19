@@ -8,7 +8,7 @@ year: 2023
 citations: 255
 bibkey: yan2023practical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13379'}]
-tags: [GPT, Survey Paper, Ethics and Bias]
+tags: [GPT, Ethics and Bias, Survey Paper]
 ---
 Educational technology innovations leveraging large language models (LLMs)
 have shown the potential to automate the laborious process of generating and

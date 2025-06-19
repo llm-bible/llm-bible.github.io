@@ -8,7 +8,7 @@ year: 2021
 citations: 16
 bibkey: betz2021thinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.13033'}]
-tags: [Language Modeling, GPT, Few-Shot, Prompting]
+tags: [GPT, Language Modeling, Few-Shot]
 ---
 Thinking aloud is an effective meta-cognitive strategy human reasoners apply
 to solve difficult problems. We suggest to improve the reasoning ability of

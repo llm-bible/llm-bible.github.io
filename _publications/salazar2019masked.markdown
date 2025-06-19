@@ -9,7 +9,7 @@ citations: 119
 bibkey: salazar2019masked
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.14659'}, {name: Code,
     url: 'https://github.com/awslabs/mlm-scoring'}]
-tags: [BERT, Masked Language Model, Fine-Tuning, Tools]
+tags: [Fine-Tuning, Masked Language Model, BERT, GPT]
 ---
 Pretrained masked language models (MLMs) require finetuning for most NLP
 tasks. Instead, we evaluate MLMs out of the box via their pseudo-log-likelihood

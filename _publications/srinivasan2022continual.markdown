@@ -7,7 +7,7 @@ year: 2022
 citations: 19
 bibkey: srinivasan2022continual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.09059'}]
-tags: [Multimodal Models, Transformer, Reinforcement Learning]
+tags: [Transformer, Multimodal Models, Tools]
 ---
 Current state-of-the-art vision-and-language models are evaluated on tasks
 either individually or in a multi-task setting, overlooking the challenges of

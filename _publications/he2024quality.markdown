@@ -8,7 +8,7 @@ year: 2024
 citations: 20
 bibkey: he2024quality
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.01693'}]
-tags: [GPT, Tools, Responsible AI]
+tags: [GPT, Tools, Ethics and Bias, Applications]
 ---
 Lab results are often confusing and hard to understand. Large language models
 (LLMs) such as ChatGPT have opened a promising avenue for patients to get their

@@ -9,7 +9,7 @@ citations: 26
 bibkey: li2021token
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.07988'}, {name: Code,
     url: 'https://github.com/zhuohan123/terapipe'}]
-tags: [GPT, Transformer, Tools]
+tags: [Transformer, GPT, Tools]
 ---
 Model parallelism has become a necessity for training modern large-scale deep
 language models. In this work, we identify a new and orthogonal dimension from

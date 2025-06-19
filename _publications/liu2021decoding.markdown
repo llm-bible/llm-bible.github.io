@@ -7,7 +7,7 @@ year: 2021
 citations: 30
 bibkey: liu2021decoding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03023'}]
-tags: [Language Modeling, GPT, Fine-Tuning]
+tags: [GPT, Language Modeling]
 ---
 Despite recent advances in natural language generation, it remains
 challenging to control attributes of generated text. We propose DExperts:

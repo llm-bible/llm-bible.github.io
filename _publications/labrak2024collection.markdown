@@ -9,7 +9,7 @@ year: 2024
 citations: 65
 bibkey: labrak2024collection
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.10373'}]
-tags: [Pre-Training, Applications, Efficiency and Optimization, Quantization]
+tags: [Applications, Quantization, Efficiency and Optimization, Pre-Training]
 ---
 Large Language Models (LLMs) have demonstrated remarkable versatility in
 recent years, offering potential applications across specialized domains such

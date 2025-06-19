@@ -8,7 +8,7 @@ citations: 23
 bibkey: berglund2023reversal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.12288'}, {name: Code,
     url: 'https://github.com/lukasberglund/reversal_curse'}]
-tags: [GPT, Reinforcement Learning, Training Techniques]
+tags: [GPT, Reinforcement Learning, Fine-Tuning]
 ---
 We expose a surprising failure of generalization in auto-regressive large
 language models (LLMs). If a model is trained on a sentence of the form "A is

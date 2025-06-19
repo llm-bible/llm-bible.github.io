@@ -8,7 +8,7 @@ citations: 31
 bibkey: moor2023med
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15189'}, {name: Code,
     url: 'https://github.com/snap-stanford/med-flamingo'}]
-tags: [Multimodal Models, Few-Shot, Pre-Training, Applications]
+tags: [Multimodal Models, Pre-Training, Few-Shot, Applications]
 ---
 Medicine, by its nature, is a multifaceted domain that requires the synthesis
 of information across various modalities. Medical generative vision-language

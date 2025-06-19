@@ -7,7 +7,7 @@ year: 2020
 citations: 16
 bibkey: tan2020progressive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.15720'}]
-tags: [GPT, Efficiency and Optimization, Pre-Training]
+tags: [GPT, Efficiency and Optimization, Fine-Tuning, Prompting]
 ---
 Large-scale language models (LMs) pretrained on massive corpora of text, such
 as GPT-2, are powerful open-domain text generators. However, as our systematic

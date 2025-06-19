@@ -7,7 +7,7 @@ year: 2022
 citations: 20
 bibkey: long2022vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.07356'}]
-tags: [Survey Paper, Transformer, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Survey Paper]
 ---
 Pretrained models have produced great success in both Computer Vision (CV)
 and Natural Language Processing (NLP). This progress leads to learning joint

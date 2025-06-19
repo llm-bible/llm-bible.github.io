@@ -9,7 +9,7 @@ citations: 239
 bibkey: geng2022recommendation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13366'}, {name: Code,
     url: 'https://github.com/jeykigung/P5'}]
-tags: [Pre-Training, Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Few-Shot, Fine-Tuning, Reinforcement Learning, Tools]
 ---
 For a long time, different recommendation tasks typically require designing
 task-specific architectures and training objectives. As a result, it is hard to

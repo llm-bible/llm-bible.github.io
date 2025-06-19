@@ -7,7 +7,7 @@ year: 2019
 citations: 133
 bibkey: nguyen2019transformers
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.05895'}]
-tags: [Transformer, Attention Mechanism, Pre-Training, Training Techniques]
+tags: [Transformer, Training Techniques, Attention Mechanism]
 ---
 We evaluate three simple, normalization-centric changes to improve
 Transformer training. First, we show that pre-norm residual connections

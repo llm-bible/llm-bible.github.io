@@ -8,7 +8,7 @@ citations: 64
 bibkey: liu2023is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.06281'}, {name: Code,
     url: 'https://github.com/open-compass/VLMEvalKit'}]
-tags: [Ethics and Bias, Multimodal Models, Tools]
+tags: [Multimodal Models, Ethics and Bias]
 ---
 Large vision-language models (VLMs) have recently achieved remarkable
 progress, exhibiting impressive multimodal perception and reasoning abilities.

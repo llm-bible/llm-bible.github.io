@@ -7,7 +7,7 @@ year: 2022
 citations: 871
 bibkey: kojima2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11916'}]
-tags: [GPT, Few-Shot, Prompting, Pre-Training]
+tags: [Prompting, Few-Shot, Pre-Training, GPT, Scaling Laws]
 ---
 Pretrained large language models (LLMs) are widely used in many sub-fields of
 natural language processing (NLP) and generally known as excellent few-shot

@@ -7,7 +7,7 @@ year: 2022
 citations: 140
 bibkey: zeng2022socratic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.00598'}]
-tags: [Multimodal Models, Applications, Prompting]
+tags: [Prompting, Applications, Multimodal Models]
 ---
 Large pretrained (e.g., "foundation") models exhibit distinct capabilities
 depending on the domain of data they are trained on. While these domains are

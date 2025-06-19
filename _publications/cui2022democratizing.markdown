@@ -9,7 +9,7 @@ citations: 15
 bibkey: cui2022democratizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.05796'}, {name: Code,
     url: 'https://github.com/Sense-GVT/DeCLIP'}]
-tags: [Transformer, Pre-Training]
+tags: [Transformer, Pre-Training, Model Architecture]
 ---
 Contrastive Language-Image Pretraining (CLIP) has emerged as a novel paradigm
 to learn visual models from language supervision. While researchers continue to

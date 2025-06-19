@@ -7,7 +7,7 @@ year: 2020
 citations: 26
 bibkey: seo2020look
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.05710'}]
-tags: [Multimodal Models, Transformer, RAG, Attention Mechanism]
+tags: [Transformer, Multimodal Models, RAG]
 ---
 While most conversational AI systems focus on textual dialogue only,
 conditioning utterances on visual context (when it's available) can lead to

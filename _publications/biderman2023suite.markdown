@@ -8,7 +8,7 @@ citations: 94
 bibkey: biderman2023suite
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01373'}, {name: Code,
     url: 'https://github.com/EleutherAI/pythia'}]
-tags: [Few-Shot, Tools, Ethics and Bias, Reinforcement Learning]
+tags: [Few-Shot, Tools, Ethics and Bias]
 ---
 How do large language models (LLMs) develop and evolve over the course of
 training? How do these patterns change as models scale? To answer these
@@ -22,4 +22,4 @@ memorization, term frequency effects on few-shot performance, and reducing
 gender bias. We demonstrate that this highly controlled setup can be used to
 yield novel insights toward LLMs and their training dynamics. Trained models,
 analysis code, training code, and training data can be found at
-\url\{https://github.com/EleutherAI/pythia\}.
+https://github.com/EleutherAI/pythia.

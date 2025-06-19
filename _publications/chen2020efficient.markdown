@@ -8,7 +8,7 @@ citations: 18
 bibkey: chen2020efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00063'}, {name: Code,
     url: 'https://github.com/VITA-Group/EarlyBERT'}]
-tags: [Transformer, BERT, Pre-Training, Fine-Tuning, Efficiency and Optimization]
+tags: [Fine-Tuning, Transformer, Pre-Training, BERT, Efficiency and Optimization]
 ---
 Heavily overparameterized language models such as BERT, XLNet and T5 have
 achieved impressive success in many NLP tasks. However, their high model

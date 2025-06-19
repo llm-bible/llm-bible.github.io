@@ -8,7 +8,7 @@ citations: 19
 bibkey: ushio2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03992'}, {name: Code,
     url: 'https://github.com/asahi417/lm-question-generation,'}]
-tags: [RAG, Fine-Tuning]
+tags: [Fine-Tuning, RAG]
 ---
 Powerful generative models have led to recent progress in question generation
 (QG). However, it is difficult to measure advances in QG research since there

@@ -7,7 +7,7 @@ year: 2022
 citations: 35
 bibkey: su2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.02655'}]
-tags: [GPT, Multimodal Models, Prompting, Language Modeling]
+tags: [Prompting, Language Modeling, Multimodal Models, GPT]
 ---
 Generative language models (LMs) such as GPT-2/3 can be prompted to generate
 text with remarkable quality. While they are designed for text-prompted

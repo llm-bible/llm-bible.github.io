@@ -7,7 +7,7 @@ year: 2020
 citations: 15
 bibkey: gao2020robust
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.03457'}]
-tags: [Transformer, Reinforcement Learning, Language Modeling, Pre-Training, Fine-Tuning]
+tags: [Transformer, Reinforcement Learning, Language Modeling]
 ---
 This article presents a hybrid approach based on a Grounded Text Generation
 (GTG) model to building robust task bots at scale. GTG is a hybrid model which

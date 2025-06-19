@@ -8,7 +8,7 @@ year: 2023
 citations: 23
 bibkey: chen2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13614'}]
-tags: [GPT, Reinforcement Learning, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 Empowering chatbots in the field of mental health is receiving increasing
 amount of attention, while there still lacks exploration in developing and

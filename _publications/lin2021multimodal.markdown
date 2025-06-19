@@ -8,7 +8,7 @@ year: 2021
 citations: 17
 bibkey: lin2021multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.05759'}]
-tags: [Multimodal Models, Transformer, Agentic, Attention Mechanism]
+tags: [Transformer, Multimodal Models, Agentic]
 ---
 Vision-and-Language Navigation (VLN) is a task that an agent is required to
 follow a language instruction to navigate to the goal position, which relies on

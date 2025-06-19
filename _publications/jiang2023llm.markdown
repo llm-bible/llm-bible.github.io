@@ -8,7 +8,7 @@ year: 2023
 citations: 32
 bibkey: jiang2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.02561'}]
-tags: [RAG, GPT, Attention Mechanism]
+tags: [RAG, GPT, Tools]
 ---
 We present LLM-Blender, an ensembling framework designed to attain
 consistently superior performance by leveraging the diverse strengths of

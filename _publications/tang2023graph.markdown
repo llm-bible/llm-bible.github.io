@@ -8,7 +8,7 @@ citations: 34
 bibkey: tang2023graph
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.13023'}, {name: Code,
     url: 'https://github.com/HKUDS/GraphGPT'}]
-tags: [GPT, Fine-Tuning, Tools]
+tags: [Fine-Tuning, GPT, Tools]
 ---
 Graph Neural Networks (GNNs) have evolved to understand graph structures
 through recursive exchanges and aggregations among nodes. To enhance

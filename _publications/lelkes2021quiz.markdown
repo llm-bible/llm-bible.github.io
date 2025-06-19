@@ -7,7 +7,7 @@ year: 2021
 citations: 22
 bibkey: lelkes2021quiz
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09094'}]
-tags: [Transformer, Reinforcement Learning, Tools]
+tags: [Transformer, Tools, Reinforcement Learning]
 ---
 A large majority of American adults get at least some of their news from the
 Internet. Even though many online news products have the goal of informing

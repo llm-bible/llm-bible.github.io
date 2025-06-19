@@ -8,7 +8,7 @@ citations: 15
 bibkey: tian2023graph
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15427'}, {name: Code,
     url: 'https://github.com/meettyj/GNP'}]
-tags: [RAG, Prompting, Language Modeling, Multimodal Models]
+tags: [Prompting, Language Modeling, RAG]
 ---
 Large language models (LLMs) have shown remarkable generalization capability
 with exceptional performance in various language modeling tasks. However, they

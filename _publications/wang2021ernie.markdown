@@ -8,7 +8,8 @@ year: 2021
 citations: 33
 bibkey: wang2021ernie
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.12731'}]
-tags: [GPT, Pre-Training, Distillation, Language Modeling, Efficiency and Optimization]
+tags: [Pre-Training, Language Modeling, Distillation, Efficiency and Optimization,
+  Model Architecture]
 ---
 Pre-trained language models have achieved state-of-the-art results in various
 Natural Language Processing (NLP) tasks. GPT-3 has shown that scaling up

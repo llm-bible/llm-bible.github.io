@@ -7,7 +7,7 @@ year: 2021
 citations: 25
 bibkey: goyal2021larger
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.00572'}]
-tags: [Transformer, Masked Language Model, BERT, Language Modeling, Pre-Training]
+tags: [Transformer, Language Modeling, Masked Language Model, BERT]
 ---
 Recent work has demonstrated the effectiveness of cross-lingual language
 model pretraining for cross-lingual understanding. In this study, we present

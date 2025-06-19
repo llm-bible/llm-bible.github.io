@@ -8,7 +8,7 @@ year: 2024
 citations: 17
 bibkey: chang2024data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.11202'}]
-tags: [GPT, Fine-Tuning, Prompting, Tools]
+tags: [Fine-Tuning, Prompting, GPT]
 ---
 Recent advances in large language models have demonstrated their potential
 for automated generation of hardware description language (HDL) code from

@@ -7,7 +7,7 @@ year: 2023
 citations: 38
 bibkey: lehman2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.08091'}]
-tags: [Pre-Training, Efficiency and Optimization, In-Context Learning]
+tags: [In-Context Learning, Efficiency and Optimization, Ethics and Bias]
 ---
 Although recent advances in scaling large language models (LLMs) have
 resulted in improvements on many NLP tasks, it remains unclear whether these

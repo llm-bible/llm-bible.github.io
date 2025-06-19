@@ -8,7 +8,7 @@ year: 2018
 citations: 40
 bibkey: elsahar2018zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1802.06842'}]
-tags: [Few-Shot, RAG, Model Architecture]
+tags: [Few-Shot, RAG]
 ---
 We present a neural model for question generation from knowledge base triples
 in a "Zero-Shot" setup, that is generating questions for triples containing

@@ -8,7 +8,7 @@ year: 2020
 citations: 15
 bibkey: bhojanapalli2020low
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.07028'}]
-tags: [Transformer, Attention Mechanism, Pre-Training]
+tags: [Transformer, Pre-Training, Attention Mechanism]
 ---
 Attention based Transformer architecture has enabled significant advances in
 the field of natural language processing. In addition to new pre-training

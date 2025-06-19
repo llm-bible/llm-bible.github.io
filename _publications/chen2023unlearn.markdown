@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: chen2023unlearn
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.20150'}]
-tags: [Transformer, Pre-Training, Training Techniques]
+tags: [Pre-Training, Transformer]
 ---
 Large language models (LLMs) have achieved significant progress from
 pre-training on and memorizing a wide range of textual data, however, this

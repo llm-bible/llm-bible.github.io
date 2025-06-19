@@ -7,7 +7,7 @@ year: 2024
 citations: 15
 bibkey: li2024unsupervised
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.02781'}]
-tags: [Multimodal Models, Distillation, Few-Shot, Prompting, Pre-Training]
+tags: [Prompting, Multimodal Models, Distillation, Pre-Training, Few-Shot]
 ---
 Prompt learning has emerged as a valuable technique in enhancing
 vision-language models (VLMs) such as CLIP for downstream tasks in specific

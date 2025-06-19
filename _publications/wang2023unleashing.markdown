@@ -9,7 +9,7 @@ citations: 15
 bibkey: wang2023unleashing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05300'}, {name: Code,
     url: 'https://github.com/MikeWangWZHL/Solo-Performance-Prompting.git'}]
-tags: [GPT, Prompting, Agentic]
+tags: [Prompting, GPT, Agentic]
 ---
 Human intelligence thrives on cognitive synergy, where collaboration among
 different minds yield superior outcomes compared to isolated individuals. In

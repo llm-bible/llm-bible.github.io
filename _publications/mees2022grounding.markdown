@@ -8,7 +8,7 @@ citations: 39
 bibkey: mees2022grounding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01911'}, {name: Code,
     url: 'http://hulc2.cs.uni-freiburg.de'}]
-tags: [In-Context Learning, Reinforcement Learning, Few-Shot, Prompting]
+tags: [Prompting, Few-Shot, In-Context Learning, Reinforcement Learning]
 ---
 Recent works have shown that Large Language Models (LLMs) can be applied to
 ground natural language to a wide variety of robot skills. However, in

@@ -7,7 +7,7 @@ year: 2020
 citations: 93
 bibkey: hendrycks2020pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06100'}]
-tags: [Transformer, BERT, Distillation, Efficiency and Optimization, Security]
+tags: [Transformer, Security, Distillation, BERT, Efficiency and Optimization]
 ---
 Although pretrained Transformers such as BERT achieve high accuracy on
 in-distribution examples, do they generalize to new distributions? We

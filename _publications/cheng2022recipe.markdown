@@ -8,7 +8,7 @@ citations: 33
 bibkey: cheng2022recipe
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.05051'}, {name: Code,
     url: 'https://github.com/klauscc/VindLU'}]
-tags: [Multimodal Models, Pre-Training, Tools]
+tags: [Multimodal Models, Pre-Training, Scaling Laws, Tools]
 ---
 The last several years have witnessed remarkable progress in
 video-and-language (VidL) understanding. However, most modern VidL approaches

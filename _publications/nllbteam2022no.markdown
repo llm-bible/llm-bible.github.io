@@ -5,10 +5,10 @@ authors: Nllb Team et al.
 conference: Arxiv
 year: 2022
 citations: 291
-bibkey: nllb2022no
-additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2207.04672v3'}, {name: Code,
+bibkey: nllbteam2022no
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.04672'}, {name: Code,
     url: 'https://github.com/facebookresearch/fairseq/tree/nllb'}]
-tags: [Applications, Fine-Tuning, Reinforcement Learning, Responsible AI]
+tags: [Fine-Tuning, Reinforcement Learning, Responsible AI]
 ---
 Driven by the goal of eradicating language barriers on a global scale,
 machine translation has solidified itself as a key focus of artificial

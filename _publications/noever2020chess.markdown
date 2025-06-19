@@ -7,7 +7,7 @@ year: 2020
 citations: 22
 bibkey: noever2020chess
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.04057'}]
-tags: [GPT, Transformer, Reinforcement Learning, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, GPT, Reinforcement Learning]
 ---
 This work demonstrates that natural language transformers can support more
 generic strategic modeling, particularly for text-archived games. In addition

@@ -8,7 +8,7 @@ year: 2021
 citations: 15
 bibkey: chrysostomou2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.02657'}]
-tags: [Transformer, Interpretability and Explainability, Attention Mechanism]
+tags: [Interpretability and Explainability, Transformer, Attention Mechanism]
 ---
 Neural network architectures in natural language processing often use
 attention mechanisms to produce probability distributions over input token

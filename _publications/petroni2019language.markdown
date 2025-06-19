@@ -8,7 +8,7 @@ citations: 613
 bibkey: petroni2019language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.01066'}, {name: Code,
     url: 'https://github.com/facebookresearch/LAMA'}]
-tags: [BERT, Fine-Tuning, Training Techniques]
+tags: [Fine-Tuning, BERT, Language Modeling, ACL]
 ---
 Recent progress in pretraining language models on large textual corpora led
 to a surge of improvements for downstream NLP tasks. Whilst learning linguistic

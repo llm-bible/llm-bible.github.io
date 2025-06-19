@@ -8,7 +8,7 @@ citations: 64
 bibkey: niu2018recursive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.02664'}, {name: Code,
     url: 'https://github.com/yuleiniu/rva'}]
-tags: [Multimodal Models, Transformer, Attention Mechanism, Agentic]
+tags: [Multimodal Models, Transformer, Attention Mechanism]
 ---
 Visual dialog is a challenging vision-language task, which requires the agent
 to answer multi-round questions about an image. It typically needs to address
@@ -27,4 +27,4 @@ results on the large-scale VisDial v0.9 and v1.0 datasets demonstrate that the
 proposed RvA not only outperforms the state-of-the-art methods, but also
 achieves reasonable recursion and interpretable attention maps without
 additional annotations. The code is available at
-\url\{https://github.com/yuleiniu/rva\}.
+https://github.com/yuleiniu/rva.

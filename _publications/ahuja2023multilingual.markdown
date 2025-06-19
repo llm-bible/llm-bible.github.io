@@ -7,7 +7,7 @@ year: 2023
 citations: 31
 bibkey: ahuja2023multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12528'}]
-tags: [GPT, Tools, Language Modeling]
+tags: [Tools, GPT]
 ---
 Generative AI models have shown impressive performance on many Natural
 Language Processing tasks such as language understanding, reasoning, and

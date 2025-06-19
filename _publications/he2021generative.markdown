@@ -8,7 +8,7 @@ year: 2021
 citations: 37
 bibkey: he2021generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.14592'}]
-tags: [Few-Shot, Pre-Training, Efficiency and Optimization]
+tags: [Pre-Training, Few-Shot]
 ---
 Pre-trained models have proved to be powerful in enhancing task-oriented
 dialog systems. However, current pre-training methods mainly focus on enhancing

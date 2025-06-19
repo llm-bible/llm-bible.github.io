@@ -8,7 +8,7 @@ year: 2021
 citations: 87
 bibkey: guhur2021pretraining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.09105'}]
-tags: [Few-Shot, BERT, Agentic, Pre-Training]
+tags: [Few-Shot, Agentic, BERT]
 ---
 Vision-and-language navigation (VLN) aims to enable embodied agents to
 navigate in realistic environments using natural language instructions. Given

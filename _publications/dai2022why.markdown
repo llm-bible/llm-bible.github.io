@@ -9,7 +9,7 @@ citations: 54
 bibkey: dai2022why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10559'}, {name: Code,
     url: 'https://aka.ms/icl'}]
-tags: [GPT, In-Context Learning, Transformer, Reinforcement Learning]
+tags: [Transformer, GPT, In-Context Learning, Reinforcement Learning]
 ---
 Large pretrained language models have shown surprising in-context learning
 (ICL) ability. With a few demonstration input-label pairs, they can predict the
@@ -29,4 +29,4 @@ we design a momentum-based attention by analogy with gradient descent with
 momentum. The improved performance over vanilla attention further supports our
 understanding from another perspective, and more importantly, shows the
 potential to utilize our understanding for future model design. The code is
-available at \url\{https://aka.ms/icl\}.
+available at https://aka.ms/icl.

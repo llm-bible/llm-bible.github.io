@@ -8,7 +8,7 @@ citations: 45
 bibkey: liu2019aligning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.06139'}, {name: Code,
     url: 'https://github.com/fenglinliu98/MIA)'}]
-tags: [Applications, Attention Mechanism, Model Architecture]
+tags: [Applications, Model Architecture, Attention Mechanism]
 ---
 In vision-and-language grounding problems, fine-grained representations of
 the image are considered to be of paramount importance. Most of the current

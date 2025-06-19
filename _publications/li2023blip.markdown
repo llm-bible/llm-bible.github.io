@@ -10,7 +10,7 @@ bibkey: li2023blip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14720'}, {name: Code,
     url: 'https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion'},
   {name: Code, url: 'https://dxli94.github.io/BLIP-Diffusion-website/'}]
-tags: [Multimodal Models, Fine-Tuning, Prompting, Applications]
+tags: [Prompting, Fine-Tuning, Applications, Multimodal Models]
 ---
 Subject-driven text-to-image generation models create novel renditions of an
 input subject based on text prompts. Existing models suffer from lengthy

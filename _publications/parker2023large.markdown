@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: parker2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.17447'}]
-tags: [GPT, Survey Paper, Applications, Prompting, Fine-Tuning]
+tags: [Prompting, Applications, GPT, Survey Paper, Few-Shot]
 ---
 This paper assesses the potential for the large language models (LLMs) GPT-4
 and GPT-3.5 to aid in deriving insight from education feedback surveys.

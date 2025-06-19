@@ -8,7 +8,7 @@ year: 2024
 citations: 19
 bibkey: pan2024assessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.03676'}]
-tags: [Reinforcement Learning, GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 Educators are increasingly concerned about the usage of Large Language Models
 (LLMs) such as ChatGPT in programming education, particularly regarding the

@@ -7,7 +7,7 @@ year: 2023
 citations: 25
 bibkey: le2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.15687'}]
-tags: [Reinforcement Learning, In-Context Learning, GPT]
+tags: [In-Context Learning, GPT, Multimodal Models]
 ---
 Large-scale generative models such as GPT and DALL-E have revolutionized the
 research community. These models not only generate high fidelity outputs, but
@@ -25,4 +25,4 @@ diverse sample generation. In particular, Voicebox outperforms the
 state-of-the-art zero-shot TTS model VALL-E on both intelligibility (5.9% vs
 1.9% word error rates) and audio similarity (0.580 vs 0.681) while being up to
 20 times faster. Audio samples can be found in
-\url\{https://voicebox.metademolab.com\}.
+https://voicebox.metademolab.com.

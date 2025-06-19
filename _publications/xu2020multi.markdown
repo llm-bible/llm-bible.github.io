@@ -8,7 +8,7 @@ citations: 203
 bibkey: xu2020multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.14740'}, {name: Code,
     url: 'https://aka.ms/layoutlmv2'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Attention Mechanism]
+tags: [Transformer, Language Modeling, Multimodal Models, Pre-Training, Tools]
 ---
 Pre-training of text and layout has proved effective in a variety of
 visually-rich document understanding tasks due to its effective model
@@ -27,4 +27,4 @@ state-of-the-art results on a wide variety of downstream visually-rich document
 understanding tasks, including FUNSD (0.7895 \\(\to\\) 0.8420), CORD (0.9493 \\(\to\\)
 0.9601), SROIE (0.9524 \\(\to\\) 0.9781), Kleister-NDA (0.8340 \\(\to\\) 0.8520),
 RVL-CDIP (0.9443 \\(\to\\) 0.9564), and DocVQA (0.7295 \\(\to\\) 0.8672). We made our
-model and code publicly available at \url\{https://aka.ms/layoutlmv2\}.
+model and code publicly available at https://aka.ms/layoutlmv2.

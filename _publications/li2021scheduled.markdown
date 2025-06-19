@@ -9,7 +9,7 @@ citations: 35
 bibkey: li2021scheduled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.11562'}, {name: Code,
     url: 'https://github.com/YehLi/TDEN'}]
-tags: [Multimodal Models, Reinforcement Learning, Fine-Tuning, BERT]
+tags: [Fine-Tuning, Multimodal Models, Tools, BERT, Model Architecture]
 ---
 Despite having impressive vision-language (VL) pretraining with BERT-based
 encoder for VL understanding, the pretraining of a universal encoder-decoder
@@ -29,4 +29,4 @@ elegantly mitigates such discrepancy via pretraining encoder-decoder in a
 two-pass manner. Extensive experiments demonstrate the compelling
 generalizability of our pretrained encoder-decoder by fine-tuning on four VL
 understanding and generation downstream tasks. Source code is available at
-\url\{https://github.com/YehLi/TDEN\}.
+https://github.com/YehLi/TDEN.

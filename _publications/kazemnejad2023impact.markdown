@@ -8,7 +8,7 @@ year: 2023
 citations: 20
 bibkey: kazemnejad2023impact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.19466'}]
-tags: [Transformer, Attention Mechanism]
+tags: [Transformer, Model Architecture, Attention Mechanism]
 ---
 Length generalization, the ability to generalize from small training context
 sizes to larger ones, is a critical challenge in the development of

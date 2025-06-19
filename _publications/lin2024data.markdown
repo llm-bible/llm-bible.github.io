@@ -7,8 +7,7 @@ year: 2024
 citations: 40
 bibkey: lin2024data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.17197'}]
-tags: [Fine-Tuning, Few-Shot, Efficiency and Optimization, Pruning, Reinforcement
-    Learning]
+tags: [Fine-Tuning, Few-Shot, Efficiency and Optimization, Reinforcement Learning]
 ---
 Leveraging Large Language Models (LLMs) for recommendation has recently
 garnered considerable attention, where fine-tuning plays a key role in LLMs'

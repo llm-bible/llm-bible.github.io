@@ -8,7 +8,7 @@ year: 2024
 citations: 25
 bibkey: ha2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.15265'}]
-tags: [Reinforcement Learning, GPT, Agentic]
+tags: [GPT, Reinforcement Learning, Agentic]
 ---
 Large language models (LLMs) have facilitated significant strides in
 generating conversational agents, enabling seamless, contextually relevant

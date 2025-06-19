@@ -7,7 +7,7 @@ year: 2021
 citations: 17
 bibkey: manakul2021long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03801'}]
-tags: [Transformer, Attention Mechanism, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Attention Mechanism]
 ---
 Transformer-based models have achieved state-of-the-art results in a wide
 range of natural language processing (NLP) tasks including document

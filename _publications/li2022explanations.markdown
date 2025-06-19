@@ -7,7 +7,7 @@ year: 2022
 citations: 30
 bibkey: li2022explanations
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.06726'}]
-tags: [GPT, In-Context Learning, Interpretability and Explainability, Prompting]
+tags: [Prompting, In-Context Learning, Interpretability and Explainability, GPT]
 ---
 Integrating free-text explanations to in-context learning of large language
 models (LLM) is shown to elicit strong reasoning capabilities along with

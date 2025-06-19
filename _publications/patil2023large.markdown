@@ -8,7 +8,7 @@ citations: 53
 bibkey: patil2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15334'}, {name: Code,
     url: 'https://gorilla.cs.berkeley.edu'}]
-tags: [GPT, Prompting, Tools, Fine-Tuning, RAG]
+tags: [Prompting, GPT, Tools, Fine-Tuning, RAG]
 ---
 Large Language Models (LLMs) have seen an impressive wave of advances
 recently, with models now excelling in a variety of tasks, such as mathematical

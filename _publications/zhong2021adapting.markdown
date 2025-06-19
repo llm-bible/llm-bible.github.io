@@ -8,7 +8,7 @@ year: 2021
 citations: 29
 bibkey: zhong2021adapting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.04670'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 Large pre-trained language models (LMs) such as GPT-3 have acquired a
 surprising ability to perform zero-shot learning. For example, to classify

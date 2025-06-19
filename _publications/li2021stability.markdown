@@ -8,7 +8,7 @@ year: 2021
 citations: 18
 bibkey: li2021stability
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.06084'}]
-tags: [GPT, Efficiency and Optimization, Pre-Training]
+tags: [GPT, Pre-Training, Efficiency and Optimization]
 ---
 Recent works have demonstrated great success in pre-training large-scale
 autoregressive language models on massive GPUs. To reduce the wall-clock

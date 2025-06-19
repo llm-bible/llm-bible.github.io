@@ -7,7 +7,7 @@ year: 2021
 citations: 69
 bibkey: pashevich2021episodic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.06453'}]
-tags: [Multimodal Models, Transformer, RAG, Agentic, Pre-Training]
+tags: [Transformer, Multimodal Models, Agentic, Pre-Training]
 ---
 Interaction and navigation defined by natural language instructions in
 dynamic environments pose significant challenges for neural agents. This paper

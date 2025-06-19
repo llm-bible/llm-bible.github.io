@@ -9,7 +9,7 @@ citations: 42
 bibkey: yu2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.15895'}, {name: Code,
     url: 'https://github.com/yueyu1030/AttrPrompt'}]
-tags: [GPT, Ethics and Bias, Prompting, Efficiency and Optimization]
+tags: [Prompting, Ethics and Bias, Efficiency and Optimization, GPT]
 ---
 Large language models (LLMs) have been recently leveraged as training data
 generators for various natural language processing (NLP) tasks. While previous
@@ -29,4 +29,4 @@ as regional bias; secondly, attribute diversity plays a pivotal role in
 enhancing model performance; lastly, attributed prompts achieve the performance
 of simple class-conditional prompts while utilizing only 5% of the querying
 cost of ChatGPT associated with the latter. The data and code are available on
-\url\{https://github.com/yueyu1030/AttrPrompt\}.
+https://github.com/yueyu1030/AttrPrompt.

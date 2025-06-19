@@ -7,7 +7,7 @@ year: 2023
 citations: 29
 bibkey: moghaddam2023boosting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.11490'}]
-tags: [GPT, In-Context Learning, Reinforcement Learning, Prompting]
+tags: [Prompting, GPT, In-Context Learning, Reinforcement Learning]
 ---
 Large language models (LLMs) excel in many tasks in 2023, but they still face
 challenges in complex reasoning. Theory-of-mind (ToM) tasks, which require

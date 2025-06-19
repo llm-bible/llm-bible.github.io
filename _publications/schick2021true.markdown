@@ -7,7 +7,7 @@ year: 2021
 citations: 20
 bibkey: schick2021true
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.13440'}]
-tags: [Few-Shot, Prompting, Applications]
+tags: [Applications, Prompting, Few-Shot]
 ---
 Prompt-based approaches are strong at few-shot learning. However, Perez et
 al. (2021) have recently cast doubt on their performance because they had

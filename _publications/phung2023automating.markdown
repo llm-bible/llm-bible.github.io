@@ -8,7 +8,7 @@ year: 2023
 citations: 17
 bibkey: phung2023automating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03780'}]
-tags: [GPT, Reinforcement Learning, Prompting]
+tags: [Prompting, GPT, Tools]
 ---
 Generative AI and large language models hold great promise in enhancing
 programming education by automatically generating individualized feedback for

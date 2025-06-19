@@ -9,7 +9,7 @@ year: 2023
 citations: 26
 bibkey: "clavi\xE92023large"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.07142'}]
-tags: [GPT, Few-Shot, Prompting]
+tags: [Prompting, GPT, Few-Shot]
 ---
 This case study investigates the task of job classification in a real-world
 setting, where the goal is to determine whether an English-language job posting

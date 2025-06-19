@@ -8,7 +8,7 @@ citations: 46
 bibkey: muennighoff2022gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.08904'}, {name: Code,
     url: 'https://github.com/Muennighoff/sgpt'}]
-tags: [GPT, Transformer, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Transformer, GPT]
 ---
 Decoder transformers have continued increasing in scale reaching hundreds of
 billions of parameters. Due to their scale the same decoder sets

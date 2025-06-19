@@ -8,7 +8,7 @@ year: 2023
 citations: 19
 bibkey: yan2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.03999'}]
-tags: [GPT, Efficiency and Optimization, Applications, Prompting]
+tags: [GPT, Fine-Tuning, Efficiency and Optimization]
 ---
 Generative artificial intelligence (GenAI) offers promising potential for
 advancing human-AI collaboration in qualitative research. However, existing

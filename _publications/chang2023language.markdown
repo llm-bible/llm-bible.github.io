@@ -7,7 +7,7 @@ year: 2023
 citations: 32
 bibkey: chang2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11504'}]
-tags: [Survey Paper, Transformer, Ethics and Bias, Fine-Tuning, Reinforcement Learning]
+tags: [Fine-Tuning, Transformer, Ethics and Bias, Survey Paper, Reinforcement Learning]
 ---
 Transformer language models have received widespread public attention, yet
 their generated text is often surprising even to NLP researchers. In this

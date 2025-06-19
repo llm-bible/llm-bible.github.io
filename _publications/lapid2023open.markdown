@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: lapid2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.01446'}]
-tags: [Ethics and Bias, Security, Prompting]
+tags: [Prompting, Security, Ethics and Bias]
 ---
 Large language models (LLMs), designed to provide helpful and safe responses,
 often rely on alignment techniques to align with user intent and social

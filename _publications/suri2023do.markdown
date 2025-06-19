@@ -8,7 +8,7 @@ year: 2023
 citations: 24
 bibkey: suri2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.04400'}]
-tags: [GPT, Reinforcement Learning, Ethics and Bias, Prompting, Agentic]
+tags: [Prompting, GPT, Ethics and Bias]
 ---
 A Large Language Model (LLM) is an artificial intelligence system that has
 been trained on vast amounts of natural language data, enabling it to generate

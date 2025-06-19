@@ -7,7 +7,7 @@ year: 2018
 citations: 48
 bibkey: niu2018polite
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.03162'}]
-tags: [Reinforcement Learning, Applications, RAG, Attention Mechanism, Fine-Tuning]
+tags: [Fine-Tuning, Reinforcement Learning, RAG, Applications]
 ---
 Stylistic dialogue response generation, with valuable applications in
 personality-based conversational agents, is a challenging task because the

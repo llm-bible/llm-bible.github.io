@@ -7,7 +7,7 @@ year: 2019
 citations: 43
 bibkey: si2019what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.12391'}]
-tags: [BERT, Security, Fine-Tuning]
+tags: [BERT, Security]
 ---
 Multiple-Choice Reading Comprehension (MCRC) requires the model to read the
 passage and question, and select the correct answer among the given options.

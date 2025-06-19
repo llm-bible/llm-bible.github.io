@@ -9,7 +9,7 @@ citations: 23
 bibkey: misra2022enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13112'}, {name: Code,
     url: 'https://github.com/kanishkamisra/minicons'}]
-tags: [Transformer, BERT, Tools]
+tags: [Transformer, BERT, Tools, Language Modeling]
 ---
 We present minicons, an open source library that provides a standard API for
 researchers interested in conducting behavioral and representational analyses

@@ -7,7 +7,7 @@ year: 2022
 citations: 809
 bibkey: zhang2022open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.01068'}]
-tags: [GPT, Transformer, Few-Shot]
+tags: [Transformer, GPT, Few-Shot, Tools]
 ---
 Large language models, which are often trained for hundreds of thousands of
 compute days, have shown remarkable capabilities for zero- and few-shot

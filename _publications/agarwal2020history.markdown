@@ -7,7 +7,7 @@ year: 2020
 citations: 30
 bibkey: agarwal2020history
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.07493'}]
-tags: [Attention Mechanism, RAG, Model Architecture]
+tags: [RAG, Attention Mechanism]
 ---
 Visual Dialog involves "understanding" the dialog history (what has been
 discussed previously) and the current question (what is asked), in addition to

@@ -7,7 +7,8 @@ year: 2019
 citations: 45
 bibkey: wang2019tree
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06639'}]
-tags: [Transformer, BERT, Attention Mechanism, Language Modeling, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling, Pre-Training, BERT, Attention
+    Mechanism]
 ---
 Pre-training Transformer from large-scale raw texts and fine-tuning on the
 desired task have achieved state-of-the-art results on diverse NLP tasks.

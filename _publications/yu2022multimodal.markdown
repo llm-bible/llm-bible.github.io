@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: yu2022multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12630'}]
-tags: [Multimodal Models, Reinforcement Learning, Agentic]
+tags: [Multimodal Models, Reinforcement Learning]
 ---
 Large language models readily adapt to novel settings, even without
 task-specific training data. Can their zero-shot capacity be extended to

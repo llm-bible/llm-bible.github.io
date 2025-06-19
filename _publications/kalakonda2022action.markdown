@@ -8,7 +8,7 @@ year: 2022
 citations: 28
 bibkey: kalakonda2022action
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.15603'}]
-tags: [GPT, RAG, Prompting]
+tags: [Prompting, GPT, RAG]
 ---
 We introduce Action-GPT, a plug-and-play framework for incorporating Large
 Language Models (LLMs) into text-based action generation models. Action phrases

@@ -8,7 +8,7 @@ year: 2019
 citations: 30
 bibkey: junczysdowmunt2019microsoft
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.06170'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT]
 ---
 This paper describes the Microsoft Translator submissions to the WMT19 news
 translation shared task for English-German. Our main focus is document-level

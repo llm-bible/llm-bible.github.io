@@ -7,7 +7,7 @@ year: 2019
 citations: 17
 bibkey: gu2019insertion
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.01370'}]
-tags: [Transformer, Reinforcement Learning, GPT]
+tags: [Transformer, Reinforcement Learning]
 ---
 Conventional neural autoregressive decoding commonly assumes a fixed
 left-to-right generation order, which may be sub-optimal. In this work, we

@@ -7,7 +7,7 @@ year: 2021
 citations: 44
 bibkey: xu2021end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01804'}]
-tags: [Multimodal Models, Transformer, Pre-Training]
+tags: [Transformer, Multimodal Models, Pre-Training]
 ---
 Vision-language pre-training (VLP) on large-scale image-text pairs has
 achieved huge success for the cross-modal downstream tasks. The most existing

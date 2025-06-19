@@ -7,7 +7,7 @@ year: 2019
 citations: 90
 bibkey: lee2019patent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.02052'}]
-tags: [GPT, Fine-Tuning, Language Modeling]
+tags: [Fine-Tuning, Language Modeling, GPT]
 ---
 In this work, we focus on fine-tuning an OpenAI GPT-2 pre-trained model for
 generating patent claims. GPT-2 has demonstrated impressive efficacy of

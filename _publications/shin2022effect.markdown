@@ -8,7 +8,7 @@ year: 2022
 citations: 18
 bibkey: shin2022effect
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.13509'}]
-tags: [GPT, In-Context Learning, Few-Shot, Language Modeling, Pre-Training]
+tags: [Language Modeling, GPT, Few-Shot, In-Context Learning]
 ---
 Many recent studies on large-scale language models have reported successful
 in-context zero- and few-shot learning ability. However, the in-depth analysis

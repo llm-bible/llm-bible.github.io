@@ -7,7 +7,7 @@ year: 2022
 citations: 81
 bibkey: liu2022integrating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.11603'}]
-tags: [Applications, Prompting, Tools]
+tags: [Prompting, Applications, GPT, Tools]
 ---
 Text-to-image AI are capable of generating novel images for inspiration, but
 their applications for 3D design workflows and how designers can build 3D

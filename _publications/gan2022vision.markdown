@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: gan2022vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.09263'}]
-tags: [Multimodal Models, Survey Paper, Few-Shot, Pre-Training]
+tags: [Multimodal Models, Pre-Training, Few-Shot, Survey Paper]
 ---
 This paper surveys vision-language pre-training (VLP) methods for multimodal
 intelligence that have been developed in the last few years. We group these

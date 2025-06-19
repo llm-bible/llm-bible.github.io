@@ -8,7 +8,7 @@ year: 2021
 citations: 18
 bibkey: lu2021new
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.13214'}]
-tags: [Transformer, Multimodal Models]
+tags: [Multimodal Models, Transformer]
 ---
 Current visual question answering (VQA) tasks mainly consider answering
 human-annotated questions for natural images. However, aside from natural

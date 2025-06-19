@@ -8,7 +8,7 @@ year: 2023
 citations: 43
 bibkey: phung2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17156'}]
-tags: [GPT, Tools, Reinforcement Learning]
+tags: [Tools, GPT, Reinforcement Learning]
 ---
 Generative AI and large language models hold great promise in enhancing
 computing education by powering next-generation educational technologies for

@@ -8,7 +8,7 @@ citations: 23
 bibkey: barraco2022mean
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.10492'}, {name: Code,
     url: 'https://github.com/aimagelab/camel'}]
-tags: [Transformer, Distillation, Efficiency and Optimization]
+tags: [Transformer, Distillation, Efficiency and Optimization, RAG]
 ---
 Describing images in natural language is a fundamental step towards the
 automatic modeling of connections between the visual and textual modalities. In

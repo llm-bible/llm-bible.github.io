@@ -9,7 +9,7 @@ citations: 34
 bibkey: zhu2023multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.04675'}, {name: Code,
     url: 'https://github.com/NJUNLP/MMT-LLM'}]
-tags: [GPT, Language Modeling, Applications]
+tags: [GPT, Applications]
 ---
 Large language models (LLMs) have demonstrated remarkable potential in
 handling multilingual machine translation (MMT). In this paper, we

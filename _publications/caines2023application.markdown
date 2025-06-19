@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: caines2023application
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08393'}]
-tags: [GPT, Ethics and Bias, Prompting, Language Modeling, Attention Mechanism]
+tags: [Prompting, Language Modeling, GPT, Ethics and Bias]
 ---
 The recent release of very large language models such as PaLM and GPT-4 has
 made an unprecedented impact in the popular media and public consciousness,

@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: jahan2023evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.04504'}]
-tags: [GPT, Transformer, Pre-Training]
+tags: [Transformer, Pre-Training, GPT]
 ---
 ChatGPT is a large language model developed by OpenAI. Despite its impressive
 performance across various tasks, no prior work has investigated its capability

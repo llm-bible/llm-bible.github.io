@@ -7,7 +7,7 @@ year: 2022
 citations: 15
 bibkey: dziri2022faithful
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.10757'}]
-tags: [Reinforcement Learning, Applications]
+tags: [Reinforcement Learning]
 ---
 The goal of information-seeking dialogue is to respond to seeker queries with
 natural language utterances that are grounded on knowledge sources. However,

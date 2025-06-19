@@ -7,7 +7,7 @@ year: 2019
 citations: 16
 bibkey: choe2019bridging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.10322'}]
-tags: [Tokenization, Transformer]
+tags: [Transformer, Tokenization]
 ---
 Purely character-based language models (LMs) have been lagging in quality on
 large scale datasets, and current state-of-the-art LMs rely on word

@@ -7,7 +7,8 @@ year: 2019
 citations: 53
 bibkey: wang2019structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.04732'}]
-tags: [Pruning, Language Modeling, Efficiency and Optimization, BERT]
+tags: [Fine-Tuning, Language Modeling, Quantization, Pruning, Efficiency and Optimization,
+  BERT]
 ---
 Large language models have recently achieved state of the art performance
 across a wide variety of natural language tasks. Meanwhile, the size of these

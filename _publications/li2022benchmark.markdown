@@ -8,7 +8,7 @@ year: 2022
 citations: 48
 bibkey: li2022benchmark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.08790'}]
-tags: [Few-Shot, Tools, Efficiency and Optimization, Fine-Tuning]
+tags: [Fine-Tuning, Few-Shot, Tools, Efficiency and Optimization]
 ---
 Learning visual representations from natural language supervision has
 recently shown great promise in a number of pioneering works. In general, these

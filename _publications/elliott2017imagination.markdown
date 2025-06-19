@@ -7,7 +7,7 @@ year: 2017
 citations: 91
 bibkey: elliott2017imagination
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.04350'}]
-tags: [Multimodal Models, Attention Mechanism]
+tags: [Multimodal Models, Tools]
 ---
 We decompose multimodal translation into two sub-tasks: learning to translate
 and learning visually grounded representations. In a multitask learning

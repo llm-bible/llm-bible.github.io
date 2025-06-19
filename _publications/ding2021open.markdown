@@ -8,7 +8,7 @@ citations: 96
 bibkey: ding2021open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.01998'}, {name: Code,
     url: 'https://github.com/thunlp/OpenPrompt'}]
-tags: [Prompting, Tools, Applications, GPT, Language Modeling]
+tags: [Prompting, Tools, Applications, Language Modeling]
 ---
 Prompt-learning has become a new paradigm in modern natural language
 processing, which directly adapts pre-trained language models (PLMs) to

@@ -8,7 +8,7 @@ citations: 17
 bibkey: khattab2023compiling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03714'}, {name: Code,
     url: 'https://github.com/stanfordnlp/dspy'}]
-tags: [GPT, Few-Shot, Prompting, Tools, Agentic]
+tags: [Prompting, Few-Shot, Tools, GPT, Agentic]
 ---
 The ML community is rapidly exploring techniques for prompting language
 models (LMs) and for stacking them into pipelines that solve complex tasks.

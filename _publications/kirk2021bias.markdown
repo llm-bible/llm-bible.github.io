@@ -8,7 +8,7 @@ year: 2021
 citations: 46
 bibkey: kirk2021bias
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.04130'}]
-tags: [GPT, Ethics and Bias, Language Modeling]
+tags: [Ethics and Bias, Language Modeling, GPT]
 ---
 The capabilities of natural language models trained on large-scale data have
 increased immensely over the past few years. Open source libraries such as

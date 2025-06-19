@@ -8,7 +8,7 @@ year: 2018
 citations: 16
 bibkey: wang2018can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.10860'}]
-tags: [BERT, Language Modeling, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, BERT, Pre-Training]
 ---
 Natural language understanding has recently seen a surge of progress with the
 use of sentence encoders like ELMo (Peters et al., 2018a) and BERT (Devlin et

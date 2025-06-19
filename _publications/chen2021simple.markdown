@@ -9,7 +9,7 @@ citations: 15
 bibkey: chen2021simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.00149'}, {name: Code,
     url: 'https://github.com/GT-SALT/HiddenCut'}]
-tags: [Transformer, Fine-Tuning, Training Techniques]
+tags: [Fine-Tuning, Transformer, Has Code]
 ---
 Fine-tuning large pre-trained models with task-specific data has achieved
 great success in NLP. However, it has been demonstrated that the majority of

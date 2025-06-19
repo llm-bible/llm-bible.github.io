@@ -7,7 +7,7 @@ year: 2020
 citations: 18
 bibkey: ding2020ernie
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15688'}]
-tags: [Transformer, Language Modeling, Pre-Training, RAG]
+tags: [Transformer, Language Modeling, RAG]
 ---
 Transformers are not suited for processing long documents, due to their
 quadratically increasing memory and time consumption. Simply truncating a long

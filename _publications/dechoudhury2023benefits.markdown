@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: dechoudhury2023benefits
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.14693'}]
-tags: [Applications, Security]
+tags: [Tools, Applications, Ethics and Bias]
 ---
 The past decade has been transformative for mental health research and
 practice. The ability to harness large repositories of data, whether from

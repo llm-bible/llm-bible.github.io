@@ -8,7 +8,7 @@ year: 2023
 citations: 34
 bibkey: chung2023increasing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.04140'}]
-tags: [Few-Shot, Language Modeling]
+tags: [Language Modeling, Few-Shot]
 ---
 Large language models (LLMs) can be used to generate text data for training
 and evaluating other models. However, creating high-quality datasets with LLMs

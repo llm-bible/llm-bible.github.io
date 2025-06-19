@@ -7,7 +7,7 @@ year: 2022
 citations: 25
 bibkey: tschannen2022image
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.08045'}]
-tags: [Multimodal Models, Transformer, Reinforcement Learning]
+tags: [Transformer, Multimodal Models, Reinforcement Learning]
 ---
 Multimodal models are becoming increasingly effective, in part due to unified
 components, such as the Transformer architecture. However, multimodal models

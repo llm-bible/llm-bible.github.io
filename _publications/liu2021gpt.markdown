@@ -7,7 +7,7 @@ year: 2021
 citations: 305
 bibkey: liu2021gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.10385'}]
-tags: [GPT, Few-Shot, Prompting]
+tags: [Prompting, Few-Shot, GPT]
 ---
 Prompting a pretrained language model with natural language patterns has been
 proved effective for natural language understanding (NLU). However, our

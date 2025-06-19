@@ -7,7 +7,7 @@ year: 2022
 citations: 119
 bibkey: ahmed2022few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.04237'}]
-tags: [GPT, Transformer, Few-Shot]
+tags: [Few-Shot, Transformer, GPT]
 ---
 Very large language models (LLMs), such as GPT-3 and Codex have achieved
 state-of-the-art performance on several natural-language tasks, and show great

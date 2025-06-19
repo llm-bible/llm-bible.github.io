@@ -8,7 +8,7 @@ year: 2021
 citations: 31
 bibkey: cahyawijaya2021benchmark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08200'}]
-tags: [GPT, Pre-Training, Language Modeling, Applications]
+tags: [Pre-Training, GPT, Language Modeling]
 ---
 Natural language generation (NLG) benchmarks provide an important avenue to
 measure progress and develop better NLG systems. Unfortunately, the lack of

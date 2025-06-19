@@ -8,7 +8,7 @@ year: 2020
 citations: 22
 bibkey: bi2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.07159'}]
-tags: [GPT, Transformer, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, Fine-Tuning, Transformer, GPT]
 ---
 Self-supervised pre-training, such as BERT, MASS and BART, has emerged as a
 powerful technique for natural language understanding and generation. Existing

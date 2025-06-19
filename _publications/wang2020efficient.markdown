@@ -8,7 +8,7 @@ year: 2020
 citations: 17
 bibkey: wang2020efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.05208'}]
-tags: [Multimodal Models, RAG]
+tags: [Multimodal Models]
 ---
 Visual context provides grounding information for multimodal machine
 translation (MMT). However, previous MMT models and probing studies on visual

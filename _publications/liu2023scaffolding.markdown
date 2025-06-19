@@ -8,7 +8,7 @@ year: 2023
 citations: 21
 bibkey: liu2023scaffolding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.02161'}]
-tags: [RAG, Tools, Ethics and Bias]
+tags: [Tools, RAG, Ethics and Bias]
 ---
 Sensemaking in unfamiliar domains can be challenging, demanding considerable
 user effort to compare different options with respect to various criteria.

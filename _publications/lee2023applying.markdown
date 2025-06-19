@@ -7,7 +7,7 @@ year: 2023
 citations: 42
 bibkey: lee2023applying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03748'}]
-tags: [GPT, Few-Shot, Prompting, Interpretability and Explainability]
+tags: [Prompting, GPT, Few-Shot, Tools, Interpretability and Explainability]
 ---
 This study investigates the application of large language models (LLMs),
 specifically GPT-3.5 and GPT-4, with Chain-of-Though (CoT) in the automatic

@@ -8,7 +8,7 @@ citations: 17
 bibkey: jin2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.02783'}, {name: Code,
     url: 'https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs'}]
-tags: [Survey Paper, Applications, GPT]
+tags: [Applications, Survey Paper, GPT]
 ---
 Large language models (LLMs), such as GPT4 and LLaMA, are creating
 significant advancements in natural language processing, due to their strong

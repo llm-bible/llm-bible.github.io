@@ -7,7 +7,7 @@ year: 2023
 citations: 44
 bibkey: gao2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15363'}]
-tags: [Applications, Prompting, Fine-Tuning, Efficiency and Optimization]
+tags: [Prompting, Fine-Tuning, Applications, Efficiency and Optimization]
 ---
 Large language models (LLMs) have emerged as a new paradigm for Text-to-SQL
 task. However, the absence of a systematical benchmark inhibits the development

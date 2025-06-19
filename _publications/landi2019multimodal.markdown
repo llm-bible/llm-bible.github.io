@@ -9,8 +9,7 @@ citations: 22
 bibkey: landi2019multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.12377'}, {name: Code,
     url: 'https://github.com/aimagelab/perceive-transform-and-act'}]
-tags: [Multimodal Models, Transformer, Reinforcement Learning, Agentic, Attention
-    Mechanism]
+tags: [Transformer, Multimodal Models, Agentic, Reinforcement Learning]
 ---
 Vision-and-Language Navigation (VLN) is a challenging task in which an agent
 needs to follow a language-specified path to reach a target destination. The

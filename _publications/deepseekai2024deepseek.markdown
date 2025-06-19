@@ -8,7 +8,8 @@ citations: 25
 bibkey: deepseekai2024deepseek
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2412.19437'}, {name: Code,
     url: 'https://github.com/deepseek-ai/DeepSeek-V3'}]
-tags: [Reinforcement Learning, Attention Mechanism, Fine-Tuning, Agentic]
+tags: [Fine-Tuning, Reinforcement Learning, Agentic, Model Architecture, Attention
+    Mechanism]
 ---
 We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with
 671B total parameters with 37B activated for each token. To achieve efficient

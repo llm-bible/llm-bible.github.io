@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: antonello2023scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11863'}]
-tags: [Scaling Laws, Transformer, Applications, Pre-Training]
+tags: [Transformer, Pre-Training, Scaling Laws, Applications]
 ---
 Representations from transformer-based unidirectional language models are
 known to be effective at predicting brain responses to natural language.

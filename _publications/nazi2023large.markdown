@@ -7,7 +7,7 @@ year: 2023
 citations: 93
 bibkey: nazi2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06775'}]
-tags: [Survey Paper, Applications, Efficiency and Optimization]
+tags: [Fine-Tuning, Applications, Survey Paper, Efficiency and Optimization]
 ---
 The deployment of large language models (LLMs) within the healthcare sector
 has sparked both enthusiasm and apprehension. These models exhibit the

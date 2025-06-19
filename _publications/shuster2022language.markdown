@@ -8,7 +8,7 @@ year: 2022
 citations: 32
 bibkey: shuster2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13224'}]
-tags: [GPT, Prompting, RAG]
+tags: [Prompting, GPT, RAG]
 ---
 Language models (LMs) have recently been shown to generate more factual
 responses by employing modularity (Zhou et al., 2021) in combination with

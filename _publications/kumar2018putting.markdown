@@ -8,7 +8,7 @@ year: 2018
 citations: 15
 bibkey: kumar2018putting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.04961'}]
-tags: [Reinforcement Learning, RAG, Tools]
+tags: [Reinforcement Learning, RAG]
 ---
 Automatic question generation (QG) is a useful yet challenging task in NLP.
 Recent neural network-based approaches represent the state-of-the-art in this

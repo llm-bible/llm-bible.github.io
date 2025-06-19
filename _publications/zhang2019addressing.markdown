@@ -8,7 +8,7 @@ year: 2019
 citations: 44
 bibkey: zhang2019addressing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06356'}]
-tags: [Reinforcement Learning, BERT]
+tags: [BERT, Reinforcement Learning]
 ---
 Text-based Question Generation (QG) aims at generating natural and relevant
 questions that can be answered by a given answer in some context. Existing QG

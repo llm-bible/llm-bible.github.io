@@ -8,7 +8,7 @@ citations: 165
 bibkey: wang2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14100'}, {name: Code,
     url: 'https://github.com/microsoft/GenerativeImage2Text'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Fine-Tuning, Language Modeling]
+tags: [Fine-Tuning, Transformer, Language Modeling, Multimodal Models, Pre-Training]
 ---
 In this paper, we design and train a Generative Image-to-text Transformer,
 GIT, to unify vision-language tasks such as image/video captioning and question
@@ -24,4 +24,4 @@ large margin. For instance, our model surpasses the human performance for the
 first time on TextCaps (138.2 vs. 125.5 in CIDEr). Furthermore, we present a
 new scheme of generation-based image classification and scene text recognition,
 achieving decent performance on standard benchmarks. Codes are released at
-\url\{https://github.com/microsoft/GenerativeImage2Text\}.
+https://github.com/microsoft/GenerativeImage2Text.

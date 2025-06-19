@@ -8,7 +8,7 @@ year: 2024
 citations: 20
 bibkey: zhang2024closing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2408.00588'}]
-tags: [GPT, Fine-Tuning, Ethics and Bias]
+tags: [Fine-Tuning, GPT, Ethics and Bias]
 ---
 Large language models (LLMs) hold great promise in summarizing medical
 evidence. Most recent studies focus on the application of proprietary LLMs.

@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: kucharavy2023fundamentals
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12132'}]
-tags: [GPT, Survey Paper, Applications, Fine-Tuning, Attention Mechanism]
+tags: [Fine-Tuning, Applications, GPT, Survey Paper]
 ---
 Generative Language Models gained significant attention in late 2022 / early
 2023, notably with the introduction of models refined to act consistently with

@@ -8,7 +8,7 @@ year: 2023
 citations: 103
 bibkey: "sch\xE4fer2023empirical"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.06527'}]
-tags: [GPT, Few-Shot, Tools, Prompting]
+tags: [Prompting, Few-Shot, GPT, Tools]
 ---
 Unit tests play a key role in ensuring the correctness of software. However,
 manually creating unit tests is a laborious task, motivating the need for

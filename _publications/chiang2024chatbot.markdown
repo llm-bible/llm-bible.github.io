@@ -7,7 +7,7 @@ year: 2024
 citations: 33
 bibkey: chiang2024chatbot
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.04132'}]
-tags: [Reinforcement Learning, Tools, Applications]
+tags: [Tools, Applications]
 ---
 Large Language Models (LLMs) have unlocked new capabilities and applications;
 however, evaluating the alignment with human preferences still poses
@@ -24,4 +24,4 @@ those of expert raters. These analyses collectively establish a robust
 foundation for the credibility of Chatbot Arena. Because of its unique value
 and openness, Chatbot Arena has emerged as one of the most referenced LLM
 leaderboards, widely cited by leading LLM developers and companies. Our demo is
-publicly available at \url\{https://chat.lmsys.org\}.
+publicly available at https://chat.lmsys.org.

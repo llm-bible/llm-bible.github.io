@@ -8,7 +8,7 @@ citations: 77
 bibkey: wang2022all
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07303'}, {name: Code,
     url: 'https://github.com/showlab/all-in-one'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Fine-Tuning, Efficiency and Optimization]
+tags: [Multimodal Models, Pre-Training, Fine-Tuning, Transformer]
 ---
 Mainstream Video-Language Pre-training models \cite\{actbert,clipbert,violet\}
 consist of three parts, a video encoder, a text encoder, and a video-text

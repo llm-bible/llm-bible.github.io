@@ -7,7 +7,7 @@ year: 2020
 citations: 42
 bibkey: sajjad2020effect
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.03844'}]
-tags: [Transformer, Distillation, BERT, Pruning, Efficiency and Optimization]
+tags: [Transformer, Distillation, Pruning, Efficiency and Optimization, BERT]
 ---
 Transformer-based NLP models are trained using hundreds of millions or even
 billions of parameters, limiting their applicability in computationally

@@ -8,7 +8,7 @@ year: 2023
 citations: 103
 bibkey: li2023llava
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.00890'}]
-tags: [GPT, Multimodal Models, RAG, Fine-Tuning]
+tags: [Multimodal Models, GPT, RAG]
 ---
 Conversational generative AI has demonstrated remarkable promise for
 empowering biomedical practitioners, but current investigations focus on

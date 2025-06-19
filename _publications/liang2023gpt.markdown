@@ -7,7 +7,7 @@ year: 2023
 citations: 178
 bibkey: liang2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02819'}]
-tags: [Fairness, GPT, Ethics and Bias, Prompting]
+tags: [Prompting, Bias Mitigation, Fairness, Ethics and Bias, GPT]
 ---
 The rapid adoption of generative language models has brought about
 substantial advancements in digital communication, while simultaneously raising

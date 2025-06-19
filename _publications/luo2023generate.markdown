@@ -8,7 +8,7 @@ year: 2023
 citations: 20
 bibkey: luo2023generate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.08975'}]
-tags: [RAG, Tools, Fine-Tuning]
+tags: [Tools, RAG, Fine-Tuning]
 ---
 Knowledge Base Question Answering (KBQA) aims to answer natural language
 questions over large-scale knowledge bases (KBs), which can be summarized into

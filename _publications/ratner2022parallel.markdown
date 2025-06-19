@@ -8,7 +8,7 @@ citations: 15
 bibkey: ratner2022parallel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10947'}, {name: Code,
     url: 'https://github.com/ai21labs/parallel-context-windows'}]
-tags: [In-Context Learning, Transformer, RAG, Attention Mechanism]
+tags: [Transformer, In-Context Learning, RAG, Attention Mechanism]
 ---
 When applied to processing long text, Large Language Models (LLMs) are
 limited by their context window. Existing efforts to address this limitation

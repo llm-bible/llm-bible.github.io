@@ -23,4 +23,4 @@ StrategyQA. Results suggest that current retrievers are the main bottleneck and
 that readers are already performing at the human level as long as relevant
 passages are provided. The system is also shown to be more effective when the
 model is induced to give explanations before answering a question. Code is
-available at \url\{https://github.com/neuralmind-ai/visconde\}.
+available at https://github.com/neuralmind-ai/visconde.

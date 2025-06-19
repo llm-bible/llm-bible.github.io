@@ -8,7 +8,7 @@ year: 2021
 citations: 17
 bibkey: razumovskaia2021crossing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08570'}]
-tags: [Few-Shot, RAG, Agentic]
+tags: [Few-Shot, Agentic, RAG]
 ---
 In task-oriented dialogue (ToD), a user holds a conversation with an
 artificial agent to complete a concrete task. Although this technology

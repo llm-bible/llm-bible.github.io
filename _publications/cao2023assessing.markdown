@@ -8,7 +8,7 @@ year: 2023
 citations: 43
 bibkey: cao2023assessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17466'}]
-tags: [GPT, Ethics and Bias, Prompting]
+tags: [Prompting, Ethics and Bias, GPT]
 ---
 The recent release of ChatGPT has garnered widespread recognition for its
 exceptional ability to generate human-like responses in dialogue. Given its

@@ -8,7 +8,7 @@ year: 2021
 citations: 20
 bibkey: wang2021can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01561'}]
-tags: [Pre-Training, Fine-Tuning, BART, Prompting]
+tags: [Pre-Training, Reinforcement Learning, Fine-Tuning, BART]
 ---
 Recent work has investigated the interesting question using pre-trained
 language models (PLMs) as knowledge bases for answering open questions.

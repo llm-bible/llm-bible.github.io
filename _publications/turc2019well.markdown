@@ -8,7 +8,7 @@ year: 2019
 citations: 438
 bibkey: turc2019well
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.08962'}]
-tags: [Distillation, Fine-Tuning, Pre-Training, BERT, Efficiency and Optimization]
+tags: [Pre-Training, Fine-Tuning, Distillation, BERT, Efficiency and Optimization]
 ---
 Recent developments in natural language representations have been accompanied
 by large and expensive models that leverage vast amounts of general-domain text

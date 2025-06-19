@@ -7,7 +7,7 @@ year: 2022
 citations: 1356
 bibkey: singhal2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.13138'}]
-tags: [Ethics and Bias, Applications, Prompting]
+tags: [Prompting, Applications, Ethics and Bias]
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 natural language understanding and generation, but the quality bar for medical

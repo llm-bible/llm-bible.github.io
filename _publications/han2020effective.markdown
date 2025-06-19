@@ -8,7 +8,7 @@ year: 2020
 citations: 21
 bibkey: han2020effective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15283'}]
-tags: [Pre-Training, Fine-Tuning, Attention Mechanism, Applications]
+tags: [Pre-Training, Fine-Tuning, Applications, Transformer]
 ---
 While pre-trained language models (PTLMs) have achieved noticeable success on
 many NLP tasks, they still struggle for tasks that require event temporal

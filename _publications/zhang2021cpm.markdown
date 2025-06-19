@@ -8,7 +8,8 @@ citations: 41
 bibkey: zhang2021cpm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.10715'}, {name: Code,
     url: 'https://github.com/TsinghuaAI/CPM'}]
-tags: [Pre-Training, Fine-Tuning, Efficiency and Optimization, Prompting]
+tags: [Pre-Training, Fine-Tuning, Prompting, Efficiency and Optimization, Reinforcement
+    Learning]
 ---
 In recent years, the size of pre-trained language models (PLMs) has grown by
 leaps and bounds. However, efficiency issues of these large-scale PLMs limit

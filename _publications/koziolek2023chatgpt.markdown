@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: koziolek2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15809'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 Large language models (LLMs) providing generative AI have become popular to
 support software engineers in creating, summarizing, optimizing, and

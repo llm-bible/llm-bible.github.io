@@ -7,7 +7,7 @@ year: 2020
 citations: 48
 bibkey: kale2020text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.10433'}]
-tags: [Pre-Training, Fine-Tuning, Transformer, Language Modeling, GPT, BERT]
+tags: [Fine-Tuning, Transformer, Language Modeling, Pre-Training, GPT, BERT]
 ---
 We study the pre-train + fine-tune strategy for data-to-text tasks. Our
 experiments indicate that text-to-text pre-training in the form of T5, enables

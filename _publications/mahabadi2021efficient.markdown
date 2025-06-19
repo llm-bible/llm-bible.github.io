@@ -28,4 +28,4 @@ Kronecker products between shared "slow" weights and "fast" rank-one matrices
 defined per Compacter layer. By only training 0.047% of a pretrained model's
 parameters, Compacter performs on par with standard fine-tuning on GLUE and
 outperforms standard fine-tuning on SuperGLUE and low-resource settings. Our
-code is publicly available at~\url\{https://github.com/rabeehk/compacter\}.
+code is publicly available at~https://github.com/rabeehk/compacter.

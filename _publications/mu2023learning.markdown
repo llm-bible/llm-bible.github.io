@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: mu2023learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08467'}]
-tags: [Transformer, Distillation, Prompting, Efficiency and Optimization]
+tags: [Prompting, Transformer, Distillation, Efficiency and Optimization]
 ---
 Prompting is the primary way to utilize the multitask capabilities of
 language models (LMs), but prompts occupy valuable space in the input context

@@ -8,7 +8,7 @@ year: 2021
 citations: 40
 bibkey: clark2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.06874'}]
-tags: [Tokenization, Pre-Training, Transformer, BERT]
+tags: [Pre-Training, Tokenization, Transformer, BERT]
 ---
 Pipelined NLP systems have largely been superseded by end-to-end neural
 modeling, yet nearly all commonly-used models still require an explicit

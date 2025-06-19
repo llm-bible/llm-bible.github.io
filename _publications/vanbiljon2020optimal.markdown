@@ -7,7 +7,7 @@ year: 2020
 citations: 21
 bibkey: vanbiljon2020optimal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04418'}]
-tags: [Transformer, Training Techniques, Model Architecture]
+tags: [Transformer, Model Architecture]
 ---
 Transformers have shown great promise as an approach to Neural Machine
 Translation (NMT) for low-resource languages. However, at the same time,

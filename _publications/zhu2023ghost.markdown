@@ -9,7 +9,7 @@ citations: 17
 bibkey: zhu2023ghost
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17144'}, {name: Code,
     url: 'https://github.com/OpenGVLab/GITM'}]
-tags: [Reinforcement Learning, RAG, Agentic]
+tags: [Agentic, Reinforcement Learning, RAG]
 ---
 The captivating realm of Minecraft has attracted substantial research
 interest in recent years, serving as a rich platform for developing intelligent

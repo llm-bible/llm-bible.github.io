@@ -8,7 +8,7 @@ year: 2023
 citations: 40
 bibkey: wei2023copiloting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00608'}]
-tags: [Reinforcement Learning, GPT, RAG, Tools]
+tags: [Tools, GPT, Reinforcement Learning]
 ---
 During Automated Program Repair (APR), it can be challenging to synthesize
 correct patches for real-world systems in general-purpose programming

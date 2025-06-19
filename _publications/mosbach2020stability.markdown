@@ -9,8 +9,8 @@ citations: 199
 bibkey: mosbach2020stability
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.04884'}, {name: Code,
     url: 'https://github.com/uds-lsv/bert-stable-fine-tuning'}]
-tags: [Transformer, BERT, Fine-Tuning, Interpretability and Explainability, Efficiency
-    and Optimization]
+tags: [Fine-Tuning, Transformer, BERT, Efficiency and Optimization, Interpretability
+    and Explainability]
 ---
 Fine-tuning pre-trained transformer-based language models such as BERT has
 become a common practice dominating leaderboards across various NLP benchmarks.

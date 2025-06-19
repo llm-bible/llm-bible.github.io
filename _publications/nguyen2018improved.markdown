@@ -8,7 +8,7 @@ year: 2018
 citations: 246
 bibkey: nguyen2018improved
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.00775'}]
-tags: [Transformer, Attention Mechanism]
+tags: [Attention Mechanism, Model Architecture, Transformer]
 ---
 A key solution to visual question answering (VQA) exists in how to fuse
 visual and language features extracted from an input image and question. We

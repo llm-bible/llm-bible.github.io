@@ -9,7 +9,7 @@ citations: 73
 bibkey: jiang2020how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.00955'}, {name: Code,
     url: 'https://github.com/jzbjyb/lm-calibration'}]
-tags: [GPT, Fine-Tuning]
+tags: [Fine-Tuning, GPT]
 ---
 Recent works have shown that language models (LM) capture different types of
 knowledge regarding facts or common sense. However, because no model is

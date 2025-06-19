@@ -9,7 +9,7 @@ citations: 32
 bibkey: nguyen2019efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.11390'}, {name: Code,
     url: 'https://github.com/davidnvq/visdial'}]
-tags: [Transformer, Attention Mechanism, Tools, Model Architecture]
+tags: [Transformer, Attention Mechanism]
 ---
 It has been a primary concern in recent studies of vision and language tasks
 to design an effective attention mechanism dealing with interactions between

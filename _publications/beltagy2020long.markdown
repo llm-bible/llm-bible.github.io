@@ -7,7 +7,7 @@ year: 2020
 citations: 2149
 bibkey: beltagy2020long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.05150'}]
-tags: [Transformer, BERT, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling, BERT, Fine-Tuning]
 ---
 Transformer-based models are unable to process long sequences due to their
 self-attention operation, which scales quadratically with the sequence length.

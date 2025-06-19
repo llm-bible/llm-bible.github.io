@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: gou2023multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.12627'}]
-tags: [RAG, Prompting]
+tags: [Prompting]
 ---
 Generative methods greatly promote aspect-based sentiment analysis via
 generating a sequence of sentiment elements in a specified format. However,

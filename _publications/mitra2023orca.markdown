@@ -7,7 +7,7 @@ year: 2023
 citations: 24
 bibkey: mitra2023orca
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.11045'}]
-tags: [Reinforcement Learning, Prompting, Interpretability and Explainability]
+tags: [Prompting, Reinforcement Learning, Interpretability and Explainability]
 ---
 Orca 1 learns from rich signals, such as explanation traces, allowing it to
 outperform conventional instruction-tuned models on benchmarks like BigBench

@@ -7,7 +7,7 @@ year: 2023
 citations: 27
 bibkey: paul2023reasoning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01904'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Tools, Prompting, GPT, Fine-Tuning]
 ---
 Language models (LMs) have recently shown remarkable performance on reasoning
 tasks by explicitly generating intermediate inferences, e.g., chain-of-thought

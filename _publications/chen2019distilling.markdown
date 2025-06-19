@@ -8,7 +8,7 @@ citations: 57
 bibkey: chen2019distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03829'}, {name: Code,
     url: 'https://github.com/ChenRocks/Distill-BERT-Textgen'}]
-tags: [Transformer, BERT, Language Modeling, RAG]
+tags: [Transformer, Language Modeling, BERT, RAG]
 ---
 Large-scale pre-trained language model such as BERT has achieved great
 success in language understanding tasks. However, it remains an open question

@@ -8,7 +8,7 @@ year: 2021
 citations: 22
 bibkey: lourie2021unicorn
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.13009'}]
-tags: [Efficiency and Optimization, Fine-Tuning]
+tags: [Fine-Tuning, Efficiency and Optimization]
 ---
 Commonsense AI has long been seen as a near impossible goal -- until
 recently. Now, research interest has sharply increased with an influx of new

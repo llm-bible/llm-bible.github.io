@@ -7,7 +7,7 @@ year: 2020
 citations: 45
 bibkey: chan2020self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.03535'}]
-tags: [Transformer, Language Modeling, Prompting, Few-Shot]
+tags: [Transformer, Language Modeling, Prompting]
 ---
 Pretrained Transformer-based language models (LMs) display remarkable natural
 language generation capabilities. With their immense potential, controlling

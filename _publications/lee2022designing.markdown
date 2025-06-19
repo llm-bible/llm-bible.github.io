@@ -8,7 +8,7 @@ year: 2022
 citations: 191
 bibkey: lee2022designing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.06796'}]
-tags: [Reinforcement Learning, GPT, Applications]
+tags: [GPT, Reinforcement Learning]
 ---
 Large language models (LMs) offer unprecedented language generation
 capabilities and exciting opportunities for interaction design. However, their

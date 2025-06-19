@@ -8,7 +8,7 @@ year: 2023
 citations: 22
 bibkey: pan2023automatically
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.03188'}]
-tags: [Survey Paper, Applications, Prompting]
+tags: [Prompting, Survey Paper, Applications]
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 a wide array of NLP tasks. However, their efficacy is undermined by undesired

@@ -7,7 +7,7 @@ year: 2022
 citations: 26
 bibkey: welleck2022generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.00053'}]
-tags: [Prompting, Few-Shot, Applications]
+tags: [Applications, Prompting, Few-Shot]
 ---
 Sequence generation applications require satisfying semantic constraints,
 such as ensuring that programs are correct, using certain keywords, or avoiding

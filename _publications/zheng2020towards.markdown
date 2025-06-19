@@ -7,7 +7,7 @@ year: 2020
 citations: 24
 bibkey: zheng2020towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.07982'}]
-tags: [Transformer, Tools]
+tags: [Transformer]
 ---
 Document-level machine translation manages to outperform sentence level
 models by a small margin, but have failed to be widely adopted. We argue that

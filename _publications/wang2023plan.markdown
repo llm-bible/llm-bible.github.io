@@ -9,7 +9,7 @@ citations: 81
 bibkey: wang2023plan
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.04091'}, {name: Code,
     url: 'https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting'}]
-tags: [GPT, Few-Shot, Prompting]
+tags: [Prompting, GPT, Few-Shot]
 ---
 Large language models (LLMs) have recently been shown to deliver impressive
 performance in various NLP tasks. To tackle multi-step reasoning tasks,

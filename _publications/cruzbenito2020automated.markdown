@@ -9,7 +9,7 @@ year: 2020
 citations: 19
 bibkey: cruzbenito2020automated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.07740'}]
-tags: [Tokenization, Transformer, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Tokenization]
 ---
 In recent years, the use of deep learning in language models gained much
 attention. Some research projects claim that they can generate text that can be

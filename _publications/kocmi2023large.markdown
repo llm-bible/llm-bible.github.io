@@ -7,7 +7,7 @@ year: 2023
 citations: 82
 bibkey: kocmi2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.14520'}]
-tags: [GPT, Prompting, Pre-Training]
+tags: [Prompting, GPT]
 ---
 We describe GEMBA, a GPT-based metric for assessment of translation quality,
 which works both with a reference translation and without. In our evaluation,

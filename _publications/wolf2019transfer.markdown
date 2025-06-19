@@ -8,7 +8,7 @@ year: 2019
 citations: 289
 bibkey: wolf2019transfer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.08149'}]
-tags: [Transformer, Fine-Tuning, Agentic]
+tags: [Fine-Tuning, Transformer, Agentic]
 ---
 We introduce a new approach to generative data-driven dialogue systems (e.g.
 chatbots) called TransferTransfo which is a combination of a Transfer learning

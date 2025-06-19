@@ -7,7 +7,7 @@ year: 2021
 citations: 22
 bibkey: rahimi2021explaining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.01314'}]
-tags: [Transformer, Interpretability and Explainability, Attention Mechanism]
+tags: [Transformer, Interpretability and Explainability, Reinforcement Learning]
 ---
 We present GenEx, a generative model to explain search results to users
 beyond just showing matches between query and document words. Adding GenEx

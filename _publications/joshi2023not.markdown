@@ -9,7 +9,7 @@ year: 2023
 citations: 17
 bibkey: joshi2023not
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.09651'}]
-tags: [GPT, Survey Paper, Applications]
+tags: [Applications, GPT, Survey Paper]
 ---
 Large language models (LLMs) such as ChatGPT and Google Bard have garnered
 significant attention in the academic community. Previous research has

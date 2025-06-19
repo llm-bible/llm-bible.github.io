@@ -7,7 +7,7 @@ year: 2024
 citations: 15
 bibkey: caffagni2024revolution
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.12451'}]
-tags: [Survey Paper, Multimodal Models, Applications]
+tags: [Multimodal Models, Survey Paper, Applications]
 ---
 Connecting text and visual modalities plays an essential role in generative
 intelligence. For this reason, inspired by the success of large language

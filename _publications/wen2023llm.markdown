@@ -8,7 +8,7 @@ citations: 18
 bibkey: wen2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15272'}, {name: Code,
     url: 'https://autodroid-sys.github.io/'}]
-tags: [GPT, Reinforcement Learning, Efficiency and Optimization, Fine-Tuning]
+tags: [Fine-Tuning, GPT, Efficiency and Optimization, Reinforcement Learning]
 ---
 Mobile task automation is an attractive technique that aims to enable
 voice-based hands-free user interaction with smartphones. However, existing

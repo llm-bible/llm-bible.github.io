@@ -7,7 +7,7 @@ year: 2019
 citations: 31
 bibkey: yu2019multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.04107'}]
-tags: [Transformer, Multimodal Models]
+tags: [Multimodal Models, Transformer]
 ---
 Learning an effective attention mechanism for multimodal data is important in
 many vision-and-language tasks that require a synergic understanding of both

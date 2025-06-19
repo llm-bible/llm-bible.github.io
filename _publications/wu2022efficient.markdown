@@ -8,7 +8,7 @@ citations: 15
 bibkey: wu2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.16773'}, {name: Code,
     url: 'https://github'}]
-tags: [Transformer, RAG, Efficiency and Optimization, Pre-Training]
+tags: [Transformer, Pre-Training, Efficiency and Optimization, RAG]
 ---
 Access to external knowledge is essential for many natural language
 processing tasks, such as question answering and dialogue. Existing methods

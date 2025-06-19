@@ -8,7 +8,7 @@ citations: 16
 bibkey: wang2023zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.03153'}, {name: Code,
     url: 'https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec'}]
-tags: [GPT, Prompting, Reinforcement Learning]
+tags: [Prompting, GPT, Reinforcement Learning]
 ---
 Large language models (LLMs) have achieved impressive zero-shot performance
 in various natural language processing (NLP) tasks, demonstrating their

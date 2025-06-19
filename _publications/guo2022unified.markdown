@@ -7,7 +7,7 @@ year: 2022
 citations: 25
 bibkey: guo2022unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.14989'}]
-tags: [Multimodal Models, RAG, Pre-Training]
+tags: [Multimodal Models, Pre-Training, RAG]
 ---
 Knowledge-based Visual Question Answering (VQA) expects models to rely on
 external knowledge for robust answer prediction. Though significant it is, this

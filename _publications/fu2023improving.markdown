@@ -8,7 +8,7 @@ year: 2023
 citations: 27
 bibkey: fu2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10142'}]
-tags: [GPT, In-Context Learning, Agentic, Fine-Tuning]
+tags: [Fine-Tuning, GPT, Agentic, In-Context Learning]
 ---
 We study whether multiple large language models (LLMs) can autonomously
 improve each other in a negotiation game by playing, reflecting, and

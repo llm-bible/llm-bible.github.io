@@ -8,7 +8,7 @@ year: 2019
 citations: 17
 bibkey: neelakantan2019neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.14613'}]
-tags: [Transformer, RAG, Language Modeling]
+tags: [Transformer, Language Modeling, RAG]
 ---
 Task-oriented dialog presents a difficult challenge encompassing multiple
 problems including multi-turn language understanding and generation, knowledge

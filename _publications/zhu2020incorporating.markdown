@@ -8,7 +8,7 @@ citations: 223
 bibkey: zhu2020incorporating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.06823'}, {name: Code,
     url: 'https://github.com/bert-nmt/bert-nmt'}]
-tags: [BERT, Attention Mechanism, Fine-Tuning]
+tags: [Fine-Tuning, BERT, Attention Mechanism]
 ---
 The recently proposed BERT has shown great power on a variety of natural
 language understanding tasks, such as text classification, reading
@@ -24,4 +24,4 @@ with each layer of the encoder and decoder of the NMT model through attention
 mechanisms. We conduct experiments on supervised (including sentence-level and
 document-level translations), semi-supervised and unsupervised machine
 translation, and achieve state-of-the-art results on seven benchmark datasets.
-Our code is available at \url\{https://github.com/bert-nmt/bert-nmt\}.
+Our code is available at https://github.com/bert-nmt/bert-nmt.

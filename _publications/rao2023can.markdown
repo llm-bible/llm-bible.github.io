@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: rao2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.01248'}]
-tags: [Fairness, GPT, Ethics and Bias, Prompting]
+tags: [Prompting, Bias Mitigation, Fairness, GPT, Ethics and Bias]
 ---
 Large Language Models (LLMs) especially ChatGPT have produced impressive
 results in various areas, but their potential human-like psychology is still

@@ -7,7 +7,7 @@ year: 2022
 citations: 18
 bibkey: alabdulmohsin2022revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.06640'}]
-tags: [Scaling Laws, Language Modeling, Efficiency and Optimization, Pre-Training]
+tags: [Language Modeling, Pre-Training, Efficiency and Optimization, Scaling Laws]
 ---
 The remarkable progress in deep learning in recent years is largely driven by
 improvements in scale, where bigger models are trained on larger datasets for

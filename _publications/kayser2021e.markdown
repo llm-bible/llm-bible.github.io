@@ -9,7 +9,8 @@ citations: 28
 bibkey: kayser2021e
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03761'}, {name: Code,
     url: 'https://github.com/maximek3/e-ViL'}]
-tags: [Multimodal Models, GPT, Interpretability and Explainability, Tools]
+tags: [Multimodal Models, Language Modeling, GPT, Interpretability and Explainability,
+  Tools]
 ---
 Recently, there has been an increasing number of efforts to introduce models
 capable of generating natural language explanations (NLEs) for their

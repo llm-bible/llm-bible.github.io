@@ -9,7 +9,7 @@ citations: 15
 bibkey: lin2023retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.11131'}, {name: Code,
     url: 'https://github.com/LaVieEnRose365/ReLLa'}]
-tags: [Reinforcement Learning, Few-Shot, Tools]
+tags: [Few-Shot, Reinforcement Learning, Tools]
 ---
 With large language models (LLMs) achieving remarkable breakthroughs in
 natural language processing (NLP) domains, LLM-enhanced recommender systems
@@ -36,4 +36,4 @@ capability for lifelong sequential behavior comprehension. To be highlighted,
 with only less than 10% training samples, few-shot ReLLa can outperform
 traditional CTR models that are trained on the entire training set (e.g.,
 DCNv2, DIN, SIM). The code is available
-\url\{https://github.com/LaVieEnRose365/ReLLa\}.
+https://github.com/LaVieEnRose365/ReLLa.

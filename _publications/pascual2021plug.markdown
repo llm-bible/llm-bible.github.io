@@ -7,7 +7,7 @@ year: 2021
 citations: 23
 bibkey: pascual2021plug
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.09707'}]
-tags: [GPT, Reinforcement Learning, Prompting, Language Modeling, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Language Modeling, GPT, Reinforcement Learning]
 ---
 Large pre-trained language models have repeatedly shown their ability to
 produce fluent text. Yet even when starting from a prompt, generation can

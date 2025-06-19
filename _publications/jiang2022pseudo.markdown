@@ -8,7 +8,7 @@ citations: 42
 bibkey: jiang2022pseudo
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.08481'}, {name: Code,
     url: 'https://github.com/LeapLabTHU/Pseudo-Q'}]
-tags: [Multimodal Models, Transformer, RAG, Prompting, Attention Mechanism]
+tags: [Prompting, Multimodal Models, Transformer, RAG, Attention Mechanism]
 ---
 Visual grounding, i.e., localizing objects in images according to natural
 language queries, is an important topic in visual language understanding. The

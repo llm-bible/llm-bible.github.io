@@ -9,7 +9,7 @@ citations: 51
 bibkey: ma2021encoder
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.13736'}, {name: Code,
     url: 'https://aka.ms/deltalm'}]
-tags: [Pre-Training, Tools, Reinforcement Learning]
+tags: [Pre-Training, Tools]
 ---
 While pretrained encoders have achieved success in various natural language
 understanding (NLU) tasks, there is a gap between these pretrained encoders and
@@ -25,4 +25,4 @@ pre-training tasks. Experiments show that DeltaLM outperforms various strong
 baselines on both natural language generation and translation tasks, including
 machine translation, abstractive text summarization, data-to-text, and question
 generation. The code and pretrained models are available at
-\url\{https://aka.ms/deltalm\}.
+https://aka.ms/deltalm.

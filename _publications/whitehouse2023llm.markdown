@@ -7,7 +7,7 @@ year: 2023
 citations: 21
 bibkey: whitehouse2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14288'}]
-tags: [GPT, BERT, RAG, Fine-Tuning]
+tags: [Fine-Tuning, GPT, BERT, RAG]
 ---
 This paper explores the potential of leveraging Large Language Models (LLMs)
 for data augmentation in multilingual commonsense reasoning datasets where the

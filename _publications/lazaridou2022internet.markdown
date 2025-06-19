@@ -8,7 +8,7 @@ year: 2022
 citations: 59
 bibkey: lazaridou2022internet
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.05115'}]
-tags: [Few-Shot, Prompting, RAG, In-Context Learning]
+tags: [Prompting, Few-Shot, Fine-Tuning, In-Context Learning]
 ---
 In this work, we aim to capitalize on the unique few-shot capabilities of
 large-scale language models (LSLMs) to overcome some of their challenges with

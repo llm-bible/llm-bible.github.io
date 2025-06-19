@@ -7,7 +7,8 @@ year: 2023
 citations: 146
 bibkey: li2023may
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06161'}]
-tags: [Reinforcement Learning, Prompting, Tools, Attention Mechanism, Ethics and Bias]
+tags: [Prompting, Ethics and Bias, Tools, Reinforcement Learning, Model Architecture,
+  Attention Mechanism]
 ---
 The BigCode community, an open-scientific collaboration working on the
 responsible development of Large Language Models for Code (Code LLMs),

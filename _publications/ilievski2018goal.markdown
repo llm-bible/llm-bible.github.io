@@ -7,7 +7,7 @@ year: 2018
 citations: 28
 bibkey: ilievski2018goal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1802.00500'}]
-tags: [Reinforcement Learning, Fine-Tuning, Agentic]
+tags: [Fine-Tuning, Reinforcement Learning, Agentic]
 ---
 Goal-Oriented (GO) Dialogue Systems, colloquially known as goal oriented
 chatbots, help users achieve a predefined goal (e.g. book a movie ticket)

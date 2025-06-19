@@ -8,7 +8,7 @@ year: 2023
 citations: 118
 bibkey: penedo2023refinedweb
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.01116'}]
-tags: [Pre-Training, Language Modeling, GPT]
+tags: [Pre-Training, Reinforcement Learning]
 ---
 Large language models are commonly trained on a mixture of filtered web data
 and curated high-quality corpora, such as social media conversations, books, or

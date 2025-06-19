@@ -8,7 +8,7 @@ year: 2020
 citations: 47
 bibkey: bird2020chatbot
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.05990'}]
-tags: [Transformer, BERT, RAG, Fine-Tuning, Attention Mechanism]
+tags: [Fine-Tuning, Transformer, BERT, RAG]
 ---
 In this work, we present the Chatbot Interaction with Artificial Intelligence
 (CI-AI) framework as an approach to the training of deep learning chatbots for

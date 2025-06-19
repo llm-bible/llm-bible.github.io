@@ -8,7 +8,7 @@ year: 2019
 citations: 53
 bibkey: klein2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.02365'}]
-tags: [GPT, Transformer, BERT, Reinforcement Learning]
+tags: [Transformer, GPT, BERT, Reinforcement Learning]
 ---
 Automatic question generation aims at the generation of questions from a
 context, with the corresponding answers being sub-spans of the given passage.

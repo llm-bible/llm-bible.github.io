@@ -9,7 +9,7 @@ year: 2023
 citations: 50
 bibkey: espejel2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.12477'}]
-tags: [GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 Large Language Models (LLMs) have exhibited remarkable performance on various
 Natural Language Processing (NLP) tasks. However, there is a current hot debate

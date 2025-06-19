@@ -8,7 +8,7 @@ citations: 15
 bibkey: yang2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.08206'}, {name: Code,
     url: 'https://github.com/KTH-RPL/DriveCmd_LLM'}]
-tags: [Reinforcement Learning, Few-Shot, RAG, Prompting]
+tags: [Prompting, Few-Shot, Reinforcement Learning]
 ---
 The evolution of autonomous driving has made remarkable advancements in
 recent years, evolving into a tangible reality. However, a human-centric
@@ -24,4 +24,4 @@ textual commands. We confirm the general ability of LLMs to understand and
 reason about prompts but underline that their effectiveness is conditioned on
 the quality of both the LLM model and the design of appropriate sequential
 prompts. Code and models are public with the link
-\url\{https://github.com/KTH-RPL/DriveCmd_LLM\}.
+https://github.com/KTH-RPL/DriveCmd_LLM.

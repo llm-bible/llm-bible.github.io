@@ -9,7 +9,7 @@ year: 2023
 citations: 35
 bibkey: rastogi2023supporting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09991'}]
-tags: [GPT, Ethics and Bias, RAG, Tools]
+tags: [GPT, Ethics and Bias, Tools, Reinforcement Learning]
 ---
 Large language models are becoming increasingly pervasive and ubiquitous in
 society via deployment in sociotechnical systems. Yet these language models, be

@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: seenivasan2023end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09974'}]
-tags: [GPT, RAG, Attention Mechanism]
+tags: [GPT, RAG, Tokenization, Multimodal Models]
 ---
 Advances in GPT-based large language models (LLMs) are revolutionizing
 natural language processing, exponentially increasing its use across various

@@ -7,7 +7,7 @@ year: 2021
 citations: 15
 bibkey: lai2021thank
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.06947'}]
-tags: [GPT, Reinforcement Learning, Fine-Tuning]
+tags: [Fine-Tuning, Reinforcement Learning, GPT]
 ---
 Scarcity of parallel data causes formality style transfer models to have
 scarce success in preserving content. We show that fine-tuning pre-trained

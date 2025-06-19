@@ -8,7 +8,7 @@ year: 2022
 citations: 101
 bibkey: siriwardhana2022improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02627'}]
-tags: [RAG, Transformer, Fine-Tuning, Tools]
+tags: [Fine-Tuning, RAG, Transformer, Tools]
 ---
 Retrieval Augment Generation (RAG) is a recent advancement in Open-Domain
 Question Answering (ODQA). RAG has only been trained and explored with a

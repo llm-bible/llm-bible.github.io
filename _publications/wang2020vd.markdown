@@ -8,7 +8,7 @@ citations: 41
 bibkey: wang2020vd
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.13278'}, {name: Code,
     url: 'https://github.com/salesforce/VD-BERT'}]
-tags: [Multimodal Models, Transformer, BERT, Attention Mechanism]
+tags: [Transformer, Multimodal Models, BERT, RAG]
 ---
 Visual dialog is a challenging vision-language task, where a dialog agent
 needs to answer a series of questions through reasoning on the image content

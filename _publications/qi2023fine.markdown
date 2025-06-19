@@ -8,7 +8,7 @@ year: 2023
 citations: 20
 bibkey: qi2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03693'}]
-tags: [GPT, Reinforcement Learning, Fine-Tuning, Security, Responsible AI]
+tags: [Fine-Tuning, Security, GPT, Reinforcement Learning]
 ---
 Optimizing large language models (LLMs) for downstream use cases often
 involves the customization of pre-trained LLMs through further fine-tuning.

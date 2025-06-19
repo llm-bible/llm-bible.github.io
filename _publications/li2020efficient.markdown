@@ -8,7 +8,7 @@ year: 2020
 citations: 20
 bibkey: li2020efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.08065'}]
-tags: [Transformer, Distillation, Pruning, Efficiency and Optimization]
+tags: [Transformer, Distillation, Pruning, Efficiency and Optimization, BERT]
 ---
 Pre-trained large-scale language models have increasingly demonstrated high
 accuracy on many natural language processing (NLP) tasks. However, the limited

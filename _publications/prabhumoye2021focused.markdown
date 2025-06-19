@@ -7,7 +7,7 @@ year: 2021
 citations: 18
 bibkey: prabhumoye2021focused
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.12714'}]
-tags: [Language Modeling, Attention Mechanism, Model Architecture]
+tags: [Attention Mechanism, Model Architecture, Language Modeling]
 ---
 Document grounded generation is the task of using the information provided in
 a document to improve text generation. This work focuses on two different

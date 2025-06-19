@@ -7,7 +7,7 @@ year: 2023
 citations: 41
 bibkey: feng2023interactive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.09036'}]
-tags: [Multimodal Models, Prompting]
+tags: [Prompting, Multimodal Models]
 ---
 Generative text-to-image models have gained great popularity among the public
 for their powerful capability to generate high-quality images based on natural

@@ -8,7 +8,7 @@ citations: 49
 bibkey: gong2023multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.04790'}, {name: Code,
     url: 'https://github.com/open-mmlab/Multimodal-GPT'}]
-tags: [GPT, Multimodal Models, Transformer, Fine-Tuning]
+tags: [Fine-Tuning, Multimodal Models, Transformer, GPT]
 ---
 We present a vision and language model named MultiModal-GPT to conduct
 multi-round dialogue with humans. MultiModal-GPT can follow various

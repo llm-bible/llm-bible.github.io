@@ -8,7 +8,7 @@ citations: 32
 bibkey: huang2023understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.12995'}, {name: Code,
     url: 'https://github.com/AIGC-Audio/AudioGPT'}]
-tags: [GPT, Multimodal Models, Reinforcement Learning]
+tags: [Multimodal Models, GPT]
 ---
 Large language models (LLMs) have exhibited remarkable capabilities across a
 variety of domains and tasks, challenging our understanding of learning and
@@ -25,4 +25,4 @@ capability, and robustness. Experimental results demonstrate the capabilities
 of AudioGPT in solving AI tasks with speech, music, sound, and talking head
 understanding and generation in multi-round dialogues, which empower humans to
 create rich and diverse audio content with unprecedented ease. Our system is
-publicly available at \url\{https://github.com/AIGC-Audio/AudioGPT\}.
+publicly available at https://github.com/AIGC-Audio/AudioGPT.

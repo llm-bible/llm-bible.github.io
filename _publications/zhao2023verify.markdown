@@ -7,7 +7,7 @@ year: 2023
 citations: 26
 bibkey: zhao2023verify
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.03268'}]
-tags: [GPT, Applications, Prompting]
+tags: [Prompting, Applications, GPT]
 ---
 As large language models (LLMs) have become the norm in NLP, demonstrating
 good performance in generation and reasoning tasks, one of its most fatal

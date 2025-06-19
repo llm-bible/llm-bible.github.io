@@ -8,7 +8,7 @@ year: 2024
 citations: 48
 bibkey: tonmoy2024comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.01313'}]
-tags: [Survey Paper, Ethics and Bias, Applications, RAG, Prompting]
+tags: [Survey Paper, RAG, Ethics and Bias, Applications]
 ---
 As Large Language Models (LLMs) continue to advance in their ability to write
 human-like text, a key challenge remains around their tendency to hallucinate

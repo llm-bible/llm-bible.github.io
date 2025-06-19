@@ -9,7 +9,7 @@ citations: 105
 bibkey: chen2021data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.10407'}, {name: Code,
     url: 'https://github.com/Vision-CAIR/VisualGPT'}]
-tags: [GPT, Transformer, Applications, Efficiency and Optimization]
+tags: [Applications, Transformer, GPT, Efficiency and Optimization]
 ---
 The ability to quickly learn from a small quantity oftraining data widens the
 range of machine learning applications. In this paper, we propose a

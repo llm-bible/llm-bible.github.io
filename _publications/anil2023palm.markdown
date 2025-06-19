@@ -7,7 +7,8 @@ year: 2023
 citations: 134
 bibkey: anil2023palm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10403'}]
-tags: [Transformer, Reinforcement Learning, Ethics and Bias, Efficiency and Optimization]
+tags: [Transformer, Ethics and Bias, Efficiency and Optimization, Reinforcement Learning,
+  Pre-Training]
 ---
 We introduce PaLM 2, a new state-of-the-art language model that has better
 multilingual and reasoning capabilities and is more compute-efficient than its

@@ -8,7 +8,7 @@ year: 2021
 citations: 31
 bibkey: kao2021optimized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.06419'}]
-tags: [Transformer, Attention Mechanism, Efficiency and Optimization]
+tags: [Transformer, Efficiency and Optimization, Attention Mechanism]
 ---
 Attention mechanisms, primarily designed to capture pairwise correlations
 between words, have become the backbone of machine learning, expanding beyond

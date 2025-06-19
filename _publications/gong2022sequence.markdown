@@ -8,7 +8,7 @@ citations: 71
 bibkey: gong2022sequence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08933'}, {name: Code,
     url: 'https://github.com/Shark-NLP/DiffuSeq'}]
-tags: [GPT, Language Modeling, Reinforcement Learning]
+tags: [GPT, Language Modeling]
 ---
 Recently, diffusion models have emerged as a new paradigm for generative
 models. Despite the success in domains using continuous signals such as vision
@@ -25,4 +25,4 @@ theoretical analysis revealing the connection between DiffuSeq and
 autoregressive/non-autoregressive models. Bringing together theoretical
 analysis and empirical evidence, we demonstrate the great potential of
 diffusion models in complex conditional language generation tasks. Code is
-available at \url\{https://github.com/Shark-NLP/DiffuSeq\}
+available at https://github.com/Shark-NLP/DiffuSeq

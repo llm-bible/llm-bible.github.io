@@ -7,7 +7,7 @@ year: 2021
 citations: 34
 bibkey: fang2021compressing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.02096'}]
-tags: [Transformer, Distillation, Efficiency and Optimization, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Distillation, Pre-Training, Efficiency and Optimization]
 ---
 Despite exciting progress in pre-training for visual-linguistic (VL)
 representations, very few aspire to a small VL model. In this paper, we study

@@ -8,7 +8,7 @@ year: 2023
 citations: 17
 bibkey: schumann2023verbalization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.06082'}]
-tags: [Reinforcement Learning, Prompting, Agentic]
+tags: [Prompting, Reinforcement Learning, Agentic]
 ---
 Incremental decision making in real-world environments is one of the most
 challenging tasks in embodied artificial intelligence. One particularly

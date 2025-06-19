@@ -8,7 +8,7 @@ citations: 33
 bibkey: kasai2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.18027'}, {name: Code,
     url: 'https://github.com/jungokasai/IgakuQA'}]
-tags: [GPT, Applications, Tools]
+tags: [Applications, GPT, Tools]
 ---
 As large language models (LLMs) gain popularity among speakers of diverse
 languages, we believe that it is crucial to benchmark them to better understand

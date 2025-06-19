@@ -8,7 +8,7 @@ year: 2023
 citations: 41
 bibkey: jahan2023comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.04270'}]
-tags: [Applications, Pre-Training, Few-Shot, Fine-Tuning, Language Modeling]
+tags: [Applications, Few-Shot, Pre-Training, Fine-Tuning, Language Modeling]
 ---
 Recently, Large Language Models (LLM) have demonstrated impressive capability
 to solve a wide range of tasks. However, despite their success across various

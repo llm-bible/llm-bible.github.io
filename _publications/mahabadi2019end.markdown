@@ -26,4 +26,4 @@ specifically designed to assess the robustness of models against known biases
 in the training data. Results show that our debiasing methods greatly improve
 robustness in all settings and better transfer to other textual entailment
 datasets. Our code and data are publicly available in
-\url\{https://github.com/rabeehk/robust-nli\}.
+https://github.com/rabeehk/robust-nli.

@@ -9,7 +9,7 @@ citations: 21
 bibkey: zhang2023internlm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15112'}, {name: Code,
     url: 'https://github.com/InternLM/InternLM-XComposer'}]
-tags: [Multimodal Models, GPT]
+tags: [Multimodal Models, GPT, Reinforcement Learning]
 ---
 We propose InternLM-XComposer, a vision-language large model that enables
 advanced image-text comprehension and composition. The innovative nature of our

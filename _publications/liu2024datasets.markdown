@@ -8,7 +8,7 @@ citations: 21
 bibkey: liu2024datasets
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.18041'}, {name: Code,
     url: 'https://github.com/lmmlzn/Awesome-LLMs-Datasets'}]
-tags: [Survey Paper, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, Fine-Tuning, Survey Paper]
 ---
 This paper embarks on an exploration into the Large Language Model (LLM)
 datasets, which play a crucial role in the remarkable advancements of LLMs. The

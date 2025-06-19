@@ -8,7 +8,7 @@ citations: 15
 bibkey: cha2023locality
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.06742'}, {name: Code,
     url: 'https://github.com/kakaobrain/honeybee'}]
-tags: [Multimodal Models, Efficiency and Optimization, Tools]
+tags: [Multimodal Models, Efficiency and Optimization]
 ---
 In Multimodal Large Language Models (MLLMs), a visual projector plays a
 crucial role in bridging pre-trained vision encoders with LLMs, enabling

@@ -7,7 +7,7 @@ year: 2021
 citations: 110
 bibkey: hambardzumyan2021word
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00121'}]
-tags: [GPT, Few-Shot, Prompting, Fine-Tuning, Security]
+tags: [Prompting, Few-Shot, Fine-Tuning, Security, GPT]
 ---
 Transfer learning from pretrained language models recently became the
 dominant approach for solving many NLP tasks. A common approach to transfer

@@ -7,7 +7,7 @@ year: 2019
 citations: 36
 bibkey: vig2019visualizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.02679'}]
-tags: [Transformer, BERT, GPT, Attention Mechanism, Ethics and Bias, Applications]
+tags: [Applications, Transformer, BERT, GPT, Ethics and Bias, Attention Mechanism]
 ---
 We present an open-source tool for visualizing multi-head self-attention in
 Transformer-based language representation models. The tool extends earlier work

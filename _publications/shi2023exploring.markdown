@@ -8,7 +8,7 @@ year: 2023
 citations: 17
 bibkey: shi2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.12298'}]
-tags: [GPT, Reinforcement Learning, Security, Fine-Tuning]
+tags: [Security, Fine-Tuning, Reinforcement Learning, GPT]
 ---
 Recently, ChatGPT has gained significant attention in research due to its
 ability to interact with humans effectively. The core idea behind this model is

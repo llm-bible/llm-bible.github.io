@@ -7,7 +7,7 @@ year: 2021
 citations: 45
 bibkey: gui2021knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08614'}]
-tags: [Multimodal Models, Transformer, RAG, Interpretability and Explainability]
+tags: [Transformer, Multimodal Models, Interpretability and Explainability, RAG]
 ---
 The primary focus of recent work with largescale transformers has been on
 optimizing the amount of information packed into the model's parameters. In

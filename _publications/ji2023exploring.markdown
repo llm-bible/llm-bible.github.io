@@ -8,7 +8,7 @@ year: 2023
 citations: 16
 bibkey: ji2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.14742'}]
-tags: [GPT, Applications, Fine-Tuning]
+tags: [Fine-Tuning, Applications, GPT]
 ---
 The success of ChatGPT has recently attracted numerous efforts to replicate
 it, with instruction-tuning strategies being a key factor in achieving

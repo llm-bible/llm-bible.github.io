@@ -8,8 +8,8 @@ citations: 45
 bibkey: ren2023representation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.15950'}, {name: Code,
     url: 'https://github.com/HKUDS/RLMRec'}]
-tags: [Reinforcement Learning, Prompting, Tools, Efficiency and Optimization, Attention
-    Mechanism]
+tags: [Prompting, Tools, Efficiency and Optimization, Reinforcement Learning, Ethics
+    and Bias]
 ---
 Recommender systems have seen significant advancements with the influence of
 deep learning and graph neural networks, particularly in capturing complex

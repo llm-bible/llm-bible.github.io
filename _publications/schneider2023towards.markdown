@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: schneider2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.11508'}]
-tags: [Reinforcement Learning, Ethics and Bias, GPT]
+tags: [GPT, Ethics and Bias, Reinforcement Learning]
 ---
 Grading exams is an important, labor-intensive, subjective, repetitive, and
 frequently challenging task. The feasibility of autograding textual responses

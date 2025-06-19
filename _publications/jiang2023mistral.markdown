@@ -7,7 +7,7 @@ year: 2023
 citations: 137
 bibkey: jiang2023mistral
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.06825'}]
-tags: [RAG, Efficiency and Optimization, Model Architecture]
+tags: [Efficiency and Optimization, RAG, Attention Mechanism]
 ---
 We introduce Mistral 7B v0.1, a 7-billion-parameter language model engineered
 for superior performance and efficiency. Mistral 7B outperforms Llama 2 13B

@@ -9,7 +9,7 @@ year: 2024
 citations: 17
 bibkey: khojah2024beyond
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.14901'}]
-tags: [GPT, Survey Paper, Tools]
+tags: [GPT, Tools, Survey Paper]
 ---
 Large Language Models (LLMs) are frequently discussed in academia and the
 general public as support tools for virtually any use case that relies on the

@@ -7,7 +7,7 @@ year: 2023
 citations: 47
 bibkey: harte2023leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09261'}]
-tags: [Applications, BERT, RAG, Attention Mechanism]
+tags: [Applications, BERT, RAG]
 ---
 Sequential recommendation problems have received increasing attention in
 research during the past few years, leading to the inception of a large variety

@@ -7,7 +7,7 @@ year: 2021
 citations: 18
 bibkey: chen2021meta
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07814'}]
-tags: [In-Context Learning, Prompting, Fine-Tuning]
+tags: [Prompting, In-Context Learning, Fine-Tuning]
 ---
 The goal of meta-learning is to learn to adapt to a new task with only a few
 labeled examples. To tackle this problem in NLP, we propose \\(\textit\{in-context

@@ -8,7 +8,7 @@ year: 2023
 citations: 21
 bibkey: jin2023better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.13132'}]
-tags: [Fairness, Reinforcement Learning, Tools, Agentic, Responsible AI]
+tags: [Fairness, Responsible AI, Agentic]
 ---
 Large language models (LLMs) are transforming the ways the general public
 accesses and consumes information. Their influence is particularly pronounced

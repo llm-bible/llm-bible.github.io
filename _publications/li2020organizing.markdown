@@ -7,7 +7,7 @@ year: 2020
 citations: 35
 bibkey: li2020organizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04092'}]
-tags: [Pre-Training, Language Modeling, GPT, BERT]
+tags: [Language Modeling, Pre-Training, GPT, BERT]
 ---
 When trained effectively, the Variational Autoencoder (VAE) can be both a
 powerful generative model and an effective representation learning framework

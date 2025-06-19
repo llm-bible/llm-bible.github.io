@@ -7,7 +7,7 @@ year: 2018
 citations: 24
 bibkey: "gr\xF6nroos2018memad"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.10802'}]
-tags: [Multimodal Models, Transformer]
+tags: [Transformer, Multimodal Models]
 ---
 This paper describes the MeMAD project entry to the WMT Multimodal Machine
 Translation Shared Task.

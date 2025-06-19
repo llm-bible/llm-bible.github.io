@@ -7,7 +7,7 @@ year: 2023
 citations: 35
 bibkey: rubenstein2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.12925'}]
-tags: [Multimodal Models, Applications, RAG, Prompting, Pre-Training]
+tags: [Multimodal Models, Applications, Prompting]
 ---
 We introduce AudioPaLM, a large language model for speech understanding and
 generation. AudioPaLM fuses text-based and speech-based language models, PaLM-2

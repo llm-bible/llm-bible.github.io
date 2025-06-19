@@ -7,7 +7,7 @@ year: 2022
 citations: 46
 bibkey: talmor2022commonsenseqa
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.05320'}]
-tags: [Few-Shot, GPT, Security]
+tags: [Security, Few-Shot, GPT]
 ---
 Constructing benchmarks that test the abilities of modern natural language
 understanding models is difficult - pre-trained language models exploit

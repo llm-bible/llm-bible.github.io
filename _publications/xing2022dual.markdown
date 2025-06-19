@@ -8,7 +8,7 @@ citations: 29
 bibkey: xing2022dual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.08340'}, {name: Code,
     url: 'https://github.com/fanrena/DPT'}]
-tags: [Multimodal Models, Prompting, Attention Mechanism]
+tags: [Prompting, Multimodal Models]
 ---
 With the emergence of large pre-trained vison-language model like CLIP,
 transferable representations can be adapted to a wide range of downstream tasks

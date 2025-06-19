@@ -8,7 +8,7 @@ citations: 277
 bibkey: xu2022systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13169'}, {name: Code,
     url: 'https://github.com/VHellendoorn/Code-LMs,'}]
-tags: [Language Modeling, GPT, Model Architecture]
+tags: [GPT, Language Modeling]
 ---
 Large language models (LMs) of code have recently shown tremendous promise in
 completing code and synthesizing code from natural language descriptions.

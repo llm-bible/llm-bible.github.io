@@ -7,7 +7,7 @@ year: 2019
 citations: 67
 bibkey: lee2019what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03090'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT]
 ---
 Pretrained transformer-based language models have achieved state of the art
 across countless tasks in natural language processing. These models are highly

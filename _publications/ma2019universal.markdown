@@ -7,7 +7,7 @@ year: 2019
 citations: 44
 bibkey: ma2019universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.07973'}]
-tags: [BERT, Fine-Tuning]
+tags: [Fine-Tuning, BERT]
 ---
 We present a systematic investigation of layer-wise BERT activations for
 general-purpose text representations to understand what linguistic information

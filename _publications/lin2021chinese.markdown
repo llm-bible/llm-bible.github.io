@@ -7,7 +7,7 @@ year: 2021
 citations: 47
 bibkey: lin2021chinese
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.00823'}]
-tags: [Multimodal Models, Transformer, Applications, Pre-Training]
+tags: [Multimodal Models, Pre-Training, Transformer, Applications]
 ---
 In this work, we construct the largest dataset for multimodal pretraining in
 Chinese, which consists of over 1.9TB images and 292GB texts that cover a wide

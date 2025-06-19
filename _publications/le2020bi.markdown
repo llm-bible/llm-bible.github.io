@@ -7,7 +7,7 @@ year: 2020
 citations: 15
 bibkey: le2020bi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.10095'}]
-tags: [Multimodal Models]
+tags: [Multimodal Models, Tools]
 ---
 Video-grounded dialogues are very challenging due to (i) the complexity of
 videos which contain both spatial and temporal variations, and (ii) the

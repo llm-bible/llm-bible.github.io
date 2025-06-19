@@ -8,7 +8,7 @@ year: 2023
 citations: 205
 bibkey: lyu2023translating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.09038'}]
-tags: [GPT, Prompting, RAG]
+tags: [Prompting, GPT]
 ---
 The large language model called ChatGPT has drawn extensively attention
 because of its human-like expression and reasoning abilities. In this study, we

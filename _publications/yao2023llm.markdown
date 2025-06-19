@@ -8,7 +8,7 @@ citations: 39
 bibkey: yao2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01469'}, {name: Code,
     url: 'https://github.com/PKU-YuanGroup/Hallucination-Attack'}]
-tags: [GPT, Transformer, Security, Prompting]
+tags: [Prompting, Security, Transformer, GPT]
 ---
 Large Language Models (LLMs), including GPT-3.5, LLaMA, and PaLM, seem to be
 knowledgeable and able to adapt to many tasks. However, we still cannot

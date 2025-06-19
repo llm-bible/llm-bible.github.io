@@ -8,7 +8,7 @@ year: 2021
 citations: 22
 bibkey: chada2021simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.01951'}]
-tags: [Few-Shot, Pre-Training, Fine-Tuning, BERT]
+tags: [Fine-Tuning, Pre-Training, Few-Shot, BERT]
 ---
 The task of learning from only a few examples (called a few-shot setting) is
 of key importance and relevance to a real-world setting. For question answering

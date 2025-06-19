@@ -8,7 +8,7 @@ citations: 15
 bibkey: cheng2023batch
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.08721'}, {name: Code,
     url: 'https://github.com/xlang-ai/batch-prompting'}]
-tags: [GPT, Few-Shot, Prompting, Tools]
+tags: [Prompting, Few-Shot, Tools, GPT]
 ---
 Performing inference on large volumes of samples with large language models
 (LLMs) can be computationally and financially costly in industry and real-world

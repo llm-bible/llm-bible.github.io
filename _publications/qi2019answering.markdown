@@ -7,7 +7,7 @@ year: 2019
 citations: 24
 bibkey: qi2019answering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.07000'}]
-tags: [Reinforcement Learning, RAG, Interpretability and Explainability]
+tags: [RAG, Interpretability and Explainability]
 ---
 It is challenging for current one-step retrieve-and-read question answering
 (QA) systems to answer questions like "Which novel by the author of 'Armada'

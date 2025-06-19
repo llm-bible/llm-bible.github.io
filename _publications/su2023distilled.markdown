@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: su2023distilled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14731'}]
-tags: [GPT, Distillation, Efficiency and Optimization]
+tags: [Distillation, GPT, Efficiency and Optimization]
 ---
 A code summary is a brief natural language description of source code.
 Summaries are usually only a single sentence long, and yet form the backbone of

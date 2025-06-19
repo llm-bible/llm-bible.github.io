@@ -7,7 +7,8 @@ year: 2022
 citations: 21
 bibkey: cui2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.08084'}]
-tags: [GPT, Reinforcement Learning, RAG, Prompting, Fine-Tuning, Efficiency and Optimization]
+tags: [Prompting, Fine-Tuning, GPT, Pruning, Efficiency and Optimization, Reinforcement
+    Learning, RAG]
 ---
 Industrial recommender systems have been growing increasingly complex, may
 involve *diverse domains* such as e-commerce products and user-generated

@@ -8,8 +8,7 @@ citations: 47
 bibkey: yang2019towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.05672'}, {name: Code,
     url: 'https://github.com/bytedance/neurst/'}]
-tags: [BERT, Transformer, Distillation, Pre-Training, Fine-Tuning, Efficiency and
-    Optimization]
+tags: [Fine-Tuning, Transformer, Distillation, Pre-Training, BERT]
 ---
 GPT-2 and BERT demonstrate the effectiveness of using pre-trained language
 models (LMs) on various natural language processing tasks. However, LM

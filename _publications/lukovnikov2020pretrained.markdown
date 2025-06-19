@@ -7,7 +7,7 @@ year: 2020
 citations: 39
 bibkey: lukovnikov2020pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.11985'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [BERT, Transformer, Fine-Tuning]
 ---
 Answering simple questions over knowledge graphs is a well-studied problem in
 question answering. Previous approaches for this task built on recurrent and

@@ -7,7 +7,7 @@ year: 2022
 citations: 54
 bibkey: li2022survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.01110'}]
-tags: [Survey Paper, RAG, Language Modeling, Attention Mechanism]
+tags: [RAG, Survey Paper, Language Modeling]
 ---
 Recently, retrieval-augmented text generation attracted increasing attention
 of the computational linguistics community. Compared with conventional

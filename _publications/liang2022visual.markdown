@@ -7,7 +7,7 @@ year: 2022
 citations: 15
 bibkey: liang2022visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.04006'}]
-tags: [Multimodal Models, Prompting, Fine-Tuning, Efficiency and Optimization]
+tags: [Prompting, Fine-Tuning, Multimodal Models, Efficiency and Optimization]
 ---
 Vision-language navigation (VLN) is a challenging task due to its large
 searching space in the environment. To address this problem, previous works

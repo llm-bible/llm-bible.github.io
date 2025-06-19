@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: zhang2023automl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02499'}]
-tags: [GPT, Applications, Prompting, Efficiency and Optimization]
+tags: [Prompting, Applications, GPT, Efficiency and Optimization]
 ---
 AI tasks encompass a wide range of domains and fields. While numerous AI
 models have been designed for specific tasks and applications, they often

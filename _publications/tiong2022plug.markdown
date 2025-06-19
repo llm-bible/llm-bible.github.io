@@ -10,7 +10,7 @@ citations: 34
 bibkey: tiong2022plug
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08773'}, {name: Code,
     url: 'https://github.com/salesforce/LAVIS/tree/main/projects/pnp-vqa'}]
-tags: [Tools, Few-Shot, Multimodal Models]
+tags: [Tools, Prompting, Multimodal Models]
 ---
 Visual question answering (VQA) is a hallmark of vision and language
 reasoning and a challenging task under the zero-shot setting. We propose

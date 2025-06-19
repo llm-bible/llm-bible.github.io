@@ -8,7 +8,7 @@ year: 2023
 citations: 56
 bibkey: wong2023natural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.02503'}]
-tags: [Transformer, Survey Paper, Applications]
+tags: [Applications, Transformer, Survey Paper]
 ---
 This paper provides a comprehensive review of the literature concerning the
 utilization of Natural Language Processing (NLP) techniques, with a particular

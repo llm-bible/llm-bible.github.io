@@ -8,7 +8,7 @@ year: 2022
 citations: 89
 bibkey: wang2022super
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.07705'}]
-tags: [Transformer, Prompting, Few-Shot, Language Modeling]
+tags: [Transformer, GPT, Prompting, Few-Shot]
 ---
 How well can NLP models generalize to a variety of unseen tasks when provided
 with task instructions? To address this question, we first introduce

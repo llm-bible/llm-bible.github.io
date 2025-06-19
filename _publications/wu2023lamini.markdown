@@ -8,7 +8,7 @@ year: 2023
 citations: 19
 bibkey: wu2023lamini
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.14402'}]
-tags: [GPT, Fine-Tuning]
+tags: [Fine-Tuning, GPT]
 ---
 Large language models (LLMs) with instruction fine-tuning demonstrate
 superior generative capabilities. However, these models are resource-intensive.

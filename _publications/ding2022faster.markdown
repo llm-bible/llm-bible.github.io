@@ -7,7 +7,7 @@ year: 2022
 citations: 103
 bibkey: ding2022faster
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.14217'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Fine-Tuning]
+tags: [Transformer, Multimodal Models, Pre-Training, Fine-Tuning]
 ---
 The development of the transformer-based text-to-image models are impeded by
 its slow generation and complexity for high-resolution images. In this work, we

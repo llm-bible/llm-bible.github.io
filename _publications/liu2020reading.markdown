@@ -7,7 +7,7 @@ year: 2020
 citations: 19
 bibkey: liu2020reading
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14560'}]
-tags: [Transformer, RAG, Attention Mechanism]
+tags: [RAG, Transformer, Attention Mechanism]
 ---
 Reading long documents to answer open-domain questions remains challenging in
 natural language understanding. In this paper, we introduce a new model, called

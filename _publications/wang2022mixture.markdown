@@ -7,7 +7,7 @@ year: 2022
 citations: 38
 bibkey: wang2022mixture
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.17451'}]
-tags: [Transformer, Few-Shot, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Few-Shot]
 ---
 Standard fine-tuning of large pre-trained language models (PLMs) for
 downstream tasks requires updating hundreds of millions to billions of

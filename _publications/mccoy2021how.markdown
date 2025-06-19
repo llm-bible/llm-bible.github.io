@@ -8,7 +8,7 @@ year: 2021
 citations: 22
 bibkey: mccoy2021how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.09509'}]
-tags: [GPT, Transformer, Language Modeling]
+tags: [Transformer, Language Modeling, GPT]
 ---
 Current language models can generate high-quality text. Are they simply
 copying text they have seen before, or have they learned generalizable

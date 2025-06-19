@@ -7,7 +7,7 @@ year: 2022
 citations: 33
 bibkey: lu2022controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.13636'}]
-tags: [Reinforcement Learning, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, Reinforcement Learning]
 ---
 Large-scale language models often learn behaviors that are misaligned with
 user expectations. Generated text may contain offensive or toxic language,

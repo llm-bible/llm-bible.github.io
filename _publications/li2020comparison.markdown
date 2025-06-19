@@ -8,7 +8,7 @@ year: 2020
 citations: 45
 bibkey: li2020comparison
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.01523'}]
-tags: [Multimodal Models, Attention Mechanism]
+tags: [Multimodal Models, BERT, Attention Mechanism]
 ---
 Joint image-text embedding extracted from medical images and associated
 contextual reports is the bedrock for most biomedical vision-and-language (V+L)

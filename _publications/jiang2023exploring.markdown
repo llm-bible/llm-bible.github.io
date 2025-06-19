@@ -7,7 +7,7 @@ year: 2023
 citations: 57
 bibkey: jiang2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11473'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 Large language models (LLMs) have recently soared in popularity due to their
 ease of access and the unprecedented ability to synthesize text responses to

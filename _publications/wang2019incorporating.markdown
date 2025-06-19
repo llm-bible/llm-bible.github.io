@@ -8,7 +8,7 @@ year: 2019
 citations: 138
 bibkey: wang2019incorporating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.04577'}]
-tags: [BERT, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, BERT, Model Architecture]
 ---
 Recently, the pre-trained language model, BERT (and its robustly optimized
 version RoBERTa), has attracted a lot of attention in natural language

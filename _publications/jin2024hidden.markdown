@@ -7,7 +7,7 @@ year: 2024
 citations: 42
 bibkey: jin2024hidden
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.08396'}]
-tags: [Transformer, GPT, Multimodal Models]
+tags: [Multimodal Models, Transformer, GPT]
 ---
 Recent studies indicate that Generative Pre-trained Transformer 4 with Vision
 (GPT-4V) outperforms human physicians in medical challenge tasks. However,

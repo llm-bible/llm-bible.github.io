@@ -7,7 +7,7 @@ year: 2023
 citations: 19
 bibkey: xie2023empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10035'}]
-tags: [GPT, Few-Shot, Prompting]
+tags: [Prompting, GPT, Few-Shot]
 ---
 Large language models (LLMs) exhibited powerful capability in various natural
 language processing tasks. This work focuses on exploring LLM performance on

@@ -8,7 +8,7 @@ year: 2023
 citations: 24
 bibkey: aiyappa2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12767'}]
-tags: [Reinforcement Learning, GPT, Agentic]
+tags: [GPT, Reinforcement Learning, Agentic]
 ---
 ChatGPT, the first large language model (LLM) with mass adoption, has
 demonstrated remarkable performance in numerous natural language tasks. Despite

@@ -8,7 +8,7 @@ year: 2024
 citations: 19
 bibkey: lehr2024chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2406.14765'}]
-tags: [GPT, Ethics and Bias, RAG]
+tags: [GPT, Ethics and Bias]
 ---
 How good a research scientist is ChatGPT? We systematically probed the
 capabilities of GPT-3.5 and GPT-4 across four central components of the

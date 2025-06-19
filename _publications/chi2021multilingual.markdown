@@ -7,7 +7,7 @@ year: 2021
 citations: 26
 bibkey: chi2021multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08692'}]
-tags: [Pre-Training, Transformer, GPT]
+tags: [Transformer, Pre-Training]
 ---
 Multilingual T5 (mT5) pretrains a sequence-to-sequence model on massive
 monolingual texts, which has shown promising results on many cross-lingual

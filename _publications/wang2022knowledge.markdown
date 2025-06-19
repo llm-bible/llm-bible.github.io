@@ -7,7 +7,7 @@ year: 2022
 citations: 15
 bibkey: wang2022knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08536'}]
-tags: [Pre-Training, Prompting, RAG, Attention Mechanism]
+tags: [Prompting, Pre-Training, RAG]
 ---
 Knowledge-enhanced Pre-trained Language Model (PLM) has recently received
 significant attention, which aims to incorporate factual knowledge into PLMs.

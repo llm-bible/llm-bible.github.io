@@ -7,7 +7,7 @@ year: 2020
 citations: 45
 bibkey: lin2020variational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.12738'}]
-tags: [GPT, Transformer, Efficiency and Optimization]
+tags: [Transformer, GPT, Efficiency and Optimization]
 ---
 Despite the great promise of Transformers in many sequence modeling tasks
 (e.g., machine translation), their deterministic nature hinders them from

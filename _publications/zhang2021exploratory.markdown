@@ -8,7 +8,7 @@ year: 2021
 citations: 21
 bibkey: zhang2021exploratory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04609'}]
-tags: [Transformer, RAG, Fine-Tuning, Survey Paper]
+tags: [Fine-Tuning, Transformer, Survey Paper, Reinforcement Learning]
 ---
 Dialogue summarization helps readers capture salient information from long
 conversations in meetings, interviews, and TV series. However, real-world

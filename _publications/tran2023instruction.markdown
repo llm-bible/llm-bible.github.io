@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: tran2023instruction
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.19975'}]
-tags: [GPT, Applications, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Applications, GPT]
 ---
 To enhance the performance of large language models (LLMs) in biomedical
 natural language processing (BioNLP) by introducing a domain-specific

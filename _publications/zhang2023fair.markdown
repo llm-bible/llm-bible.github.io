@@ -8,7 +8,7 @@ year: 2023
 citations: 26
 bibkey: zhang2023fair
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.11653'}]
-tags: [GPT, Reinforcement Learning, Agentic]
+tags: [GPT, Agentic, Ethics and Bias]
 ---
 The widespread use of Large Language Model (LLM)-based conversational agents
 (CAs), especially in high-stakes domains, raises many privacy concerns.

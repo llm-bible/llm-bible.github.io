@@ -8,7 +8,7 @@ citations: 39
 bibkey: zhang2023pmc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10415'}, {name: Code,
     url: 'https://paperswithcode.com/paper/pmc-vqa-visual-instruction-tuning-for-medical,'}]
-tags: [RAG, Fine-Tuning, Multimodal Models]
+tags: [Fine-Tuning, RAG, Multimodal Models]
 ---
 Medical Visual Question Answering (MedVQA) presents a significant opportunity
 to enhance diagnostic accuracy and healthcare delivery by leveraging artificial

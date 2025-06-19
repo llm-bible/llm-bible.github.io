@@ -9,7 +9,7 @@ citations: 41
 bibkey: jiang2023compressing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05736'}, {name: Code,
     url: 'https://aka.ms/LLMLingua'}]
-tags: [GPT, In-Context Learning, Applications, Prompting]
+tags: [Prompting, Applications, In-Context Learning, GPT]
 ---
 Large language models (LLMs) have been applied in various applications due to
 their astonishing capabilities. With advancements in technologies such as

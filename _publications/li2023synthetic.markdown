@@ -8,7 +8,7 @@ year: 2023
 citations: 34
 bibkey: li2023synthetic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.07849'}]
-tags: []
+tags: [Reinforcement Learning]
 ---
 The collection and curation of high-quality training data is crucial for
 developing text classification models with superior performance, but it is

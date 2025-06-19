@@ -8,7 +8,7 @@ citations: 22
 bibkey: li2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17043'}, {name: Code,
     url: 'https://github.com/dvlab-research/LLaMA-VID}{https://github.com/dvlab-research/LLaMA-VID'}]
-tags: [Reinforcement Learning, Tools]
+tags: [Tools, Reinforcement Learning]
 ---
 In this work, we present a novel method to tackle the token generation
 challenge in Vision Language Models (VLMs) for video and image understanding,

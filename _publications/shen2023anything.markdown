@@ -8,7 +8,7 @@ year: 2023
 citations: 37
 bibkey: shen2023anything
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.03825'}]
-tags: [GPT, Reinforcement Learning, Security, Prompting]
+tags: [Prompting, Security, GPT]
 ---
 The misuse of large language models (LLMs) has drawn significant attention
 from the general public and LLM vendors. One particular type of adversarial

@@ -9,7 +9,7 @@ citations: 23
 bibkey: luo2023cheap
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15023'}, {name: Code,
     url: 'https://luogen1996.github.io/lavin'}]
-tags: [Multimodal Models, Efficiency and Optimization, Pre-Training]
+tags: [Multimodal Models, Pre-Training, Efficiency and Optimization]
 ---
 Recently, growing interest has been aroused in extending the multimodal
 capability of large language models (LLMs), e.g., vision-language (VL)

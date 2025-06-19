@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: ivgi2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.00748'}]
-tags: [Transformer, Reinforcement Learning, RAG, Training Techniques]
+tags: [Transformer, Reinforcement Learning, RAG]
 ---
 Transformer-based pretrained language models (LMs) are ubiquitous across
 natural language understanding, but cannot be applied to long sequences such as

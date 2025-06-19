@@ -7,7 +7,7 @@ year: 2023
 citations: 45
 bibkey: gruver2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.07820'}]
-tags: [GPT, Tokenization, Reinforcement Learning, Multimodal Models]
+tags: [Tokenization, GPT, Reinforcement Learning, Multimodal Models]
 ---
 By encoding time series as a string of numerical digits, we can frame time
 series forecasting as next-token prediction in text. Developing this approach,

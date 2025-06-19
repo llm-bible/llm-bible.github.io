@@ -8,7 +8,7 @@ year: 2022
 citations: 301
 bibkey: wang2022image
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.10442'}]
-tags: [Multimodal Models, Transformer, Pre-Training]
+tags: [Transformer, Multimodal Models, Scaling Laws]
 ---
 A big convergence of language, vision, and multimodal pretraining is
 emerging. In this work, we introduce a general-purpose multimodal foundation

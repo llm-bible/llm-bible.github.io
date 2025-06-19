@@ -7,7 +7,7 @@ year: 2018
 citations: 15
 bibkey: tandon2018reasoning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.10012'}]
-tags: [Reinforcement Learning, Ethics and Bias]
+tags: [Ethics and Bias, Reinforcement Learning]
 ---
 Comprehending procedural text, e.g., a paragraph describing photosynthesis,
 requires modeling actions and the state changes they produce, so that questions

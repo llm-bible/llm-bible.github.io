@@ -9,7 +9,7 @@ citations: 125
 bibkey: bao2023effective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00447'}, {name: Code,
     url: 'https://github.com/SAI990323/TALLRec'}]
-tags: [In-Context Learning, RAG, Tools, Prompting, Pre-Training]
+tags: [Prompting, Pre-Training, Tools, In-Context Learning, RAG]
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse domains, thereby prompting researchers to explore their potential for

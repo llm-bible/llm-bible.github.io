@@ -8,7 +8,7 @@ year: 2021
 citations: 69
 bibkey: buschek2021impact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.09157'}]
-tags: [GPT, Efficiency and Optimization, Applications]
+tags: [GPT, Efficiency and Optimization, Reinforcement Learning]
 ---
 We present an in-depth analysis of the impact of multi-word suggestion
 choices from a neural language model on user behaviour regarding input and text

@@ -7,7 +7,7 @@ year: 2023
 citations: 26
 bibkey: chen2023extending
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.15595'}]
-tags: [Transformer, Language Modeling, Efficiency and Optimization, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling, Efficiency and Optimization]
 ---
 We present Position Interpolation (PI) that extends the context window sizes
 of RoPE-based pretrained LLMs such as LLaMA models to up to 32768 with minimal

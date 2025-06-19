@@ -7,7 +7,7 @@ year: 2019
 citations: 82
 bibkey: bao2019pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.07931'}]
-tags: [Pre-Training, Transformer, Reinforcement Learning, Attention Mechanism]
+tags: [Pre-Training, Transformer, Reinforcement Learning, RAG, Attention Mechanism]
 ---
 Pre-training models have been proved effective for a wide range of natural
 language processing tasks. Inspired by this, we propose a novel dialogue

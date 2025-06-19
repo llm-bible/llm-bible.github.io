@@ -7,7 +7,7 @@ year: 2020
 citations: 202
 bibkey: nogueira2020document
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.06713'}]
-tags: [Transformer, Reinforcement Learning, BERT, Training Techniques]
+tags: [Pre-Training, Transformer, Reinforcement Learning, BERT]
 ---
 This work proposes a novel adaptation of a pretrained sequence-to-sequence
 model to the task of document ranking. Our approach is fundamentally different

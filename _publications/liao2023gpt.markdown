@@ -8,7 +8,7 @@ year: 2023
 citations: 33
 bibkey: liao2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03543'}]
-tags: [GPT, Multimodal Models, Transformer, Applications, Attention Mechanism]
+tags: [Applications, Multimodal Models, GPT, Transformer]
 ---
 In the field of autonomous vehicles (AVs), accurately discerning commander
 intent and executing linguistic commands within a visual context presents a

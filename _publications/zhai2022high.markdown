@@ -8,7 +8,7 @@ year: 2022
 citations: 28
 bibkey: zhai2022high
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03052'}]
-tags: [Transformer, Efficiency and Optimization, BERT]
+tags: [Efficiency and Optimization, Transformer, BERT]
 ---
 Transformers have become keystone models in natural language processing over
 the past decade. They have achieved great popularity in deep learning

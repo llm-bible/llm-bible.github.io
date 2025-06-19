@@ -8,7 +8,7 @@ citations: 26
 bibkey: yao2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11166'}, {name: Code,
     url: 'https://github.com/thunlp/DPT'}]
-tags: [Prompting, BERT, Language Modeling, Fine-Tuning, Tools]
+tags: [Prompting, Fine-Tuning, Language Modeling, BERT]
 ---
 Recent works have shown promising results of prompt tuning in stimulating
 pre-trained language models (PLMs) for natural language processing (NLP) tasks.

@@ -7,7 +7,7 @@ year: 2023
 citations: 49
 bibkey: "kr\xFCgel2023moral"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.07098'}]
-tags: [Ethics and Bias, GPT]
+tags: [GPT, Ethics and Bias]
 ---
 ChatGPT is not only fun to chat with, but it also searches information,
 answers questions, and gives advice. With consistent moral advice, it might

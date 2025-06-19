@@ -8,7 +8,7 @@ year: 2021
 citations: 33
 bibkey: lin2021end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.12059'}]
-tags: [Tokenization, Multimodal Models, Transformer, Language Modeling, GPT]
+tags: [Transformer, Language Modeling, Multimodal Models, Tokenization, GPT]
 ---
 We present \textsc\{Vx2Text\}, a framework for text generation from multimodal
 inputs consisting of video plus text, speech, or audio. In order to leverage

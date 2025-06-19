@@ -8,7 +8,7 @@ citations: 30
 bibkey: zhu2023collaborative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.01343'}, {name: Code,
     url: 'https://github.com/yaochenzhu/llm4rec'}]
-tags: [Prompting, RAG, Language Modeling, Fine-Tuning]
+tags: [Prompting, Language Modeling, RAG, Fine-Tuning]
 ---
 Recently, there has been growing interest in developing the next-generation
 recommender systems (RSs) based on pretrained large language models (LLMs).

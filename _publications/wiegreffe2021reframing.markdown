@@ -7,7 +7,7 @@ year: 2021
 citations: 20
 bibkey: wiegreffe2021reframing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08674'}]
-tags: [GPT, Few-Shot, Prompting, Interpretability and Explainability, Reinforcement
+tags: [Prompting, GPT, Few-Shot, Interpretability and Explainability, Reinforcement
     Learning]
 ---
 Large language models are increasingly capable of generating fluent-appearing

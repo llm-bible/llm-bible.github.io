@@ -9,7 +9,8 @@ citations: 15
 bibkey: zhang2023heavy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.14048'}, {name: Code,
     url: 'https://github.com/FMInference/H2O'}]
-tags: [GPT, Applications, Attention Mechanism, Fine-Tuning]
+tags: [Fine-Tuning, Applications, GPT, Reinforcement Learning, Model Architecture,
+  Attention Mechanism]
 ---
 Large Language Models (LLMs), despite their recent impressive
 accomplishments, are notably cost-prohibitive to deploy, particularly for

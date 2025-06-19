@@ -7,7 +7,7 @@ year: 2023
 citations: 231
 bibkey: hacker2023regulating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.02337'}]
-tags: [GPT, Ethics and Bias, Applications]
+tags: [Ethics and Bias, Applications, GPT]
 ---
 Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or Stable
 Diffusion, are rapidly transforming the way we communicate, illustrate, and

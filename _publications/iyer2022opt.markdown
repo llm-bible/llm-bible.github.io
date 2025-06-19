@@ -8,7 +8,7 @@ year: 2022
 citations: 77
 bibkey: iyer2022opt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.12017'}]
-tags: [Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Few-Shot]
 ---
 Recent work has shown that fine-tuning large pre-trained language models on a
 collection of tasks described via instructions, a.k.a. instruction-tuning,

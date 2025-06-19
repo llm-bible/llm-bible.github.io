@@ -8,7 +8,7 @@ citations: 55
 bibkey: cui2023efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08177'}, {name: Code,
     url: 'https://github.com/ymcui/Chinese-LLaMA-Alpaca'}, {name: Code, url: 'https://github.com/ymcui/Chinese-LLaMA-Alpaca-2'}]
-tags: [GPT, Efficiency and Optimization, Pre-Training]
+tags: [Pre-Training, Efficiency and Optimization, GPT]
 ---
 Large Language Models (LLMs), such as ChatGPT and GPT-4, have dramatically
 transformed natural language processing research and shown promising strides
@@ -31,5 +31,5 @@ C-Eval dataset yield competitive performance among the models with several
 times the size of ours. We have made our pre-trained models, training scripts,
 and other resources available through GitHub, fostering open research for our
 community. Chinese LLaMA series:
-\url\{https://github.com/ymcui/Chinese-LLaMA-Alpaca\} and Chinese Llama-2 series:
-\url\{https://github.com/ymcui/Chinese-LLaMA-Alpaca-2\}
+https://github.com/ymcui/Chinese-LLaMA-Alpaca and Chinese Llama-2 series:
+https://github.com/ymcui/Chinese-LLaMA-Alpaca-2

@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: liu2021controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.13070'}]
-tags: [Reinforcement Learning, Applications]
+tags: [Applications, Reinforcement Learning]
 ---
 In this paper, we propose a controllable neural generation framework that can
 flexibly guide dialogue summarization with personal named entity planning. The

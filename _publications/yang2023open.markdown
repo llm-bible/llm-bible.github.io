@@ -8,7 +8,7 @@ citations: 89
 bibkey: yang2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06031'}, {name: Code,
     url: 'https://github.com/AI4Finance-Foundation/FinGPT'}, {name: Code, url: 'https://github.com/AI4Finance-Foundation/FinNLP'}]
-tags: [GPT, Applications, Reinforcement Learning]
+tags: [Applications, GPT, Reinforcement Learning]
 ---
 Large language models (LLMs) have shown the potential of revolutionizing
 natural language processing tasks in diverse domains, sparking great interest
@@ -26,5 +26,5 @@ applications as stepping stones for users, such as robo-advising, algorithmic
 trading, and low-code development. Through collaborative efforts within the
 open-source AI4Finance community, FinGPT aims to stimulate innovation,
 democratize FinLLMs, and unlock new opportunities in open finance. Two
-associated code repos are \url\{https://github.com/AI4Finance-Foundation/FinGPT\}
-and \url\{https://github.com/AI4Finance-Foundation/FinNLP\}
+associated code repos are https://github.com/AI4Finance-Foundation/FinGPT
+and https://github.com/AI4Finance-Foundation/FinNLP

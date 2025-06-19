@@ -8,7 +8,7 @@ citations: 70
 bibkey: dai2023uncovering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02182'}, {name: Code,
     url: 'https://github.com/rainym00d/LLM4RS'}]
-tags: [GPT, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT]
 ---
 The debut of ChatGPT has recently attracted the attention of the natural
 language processing (NLP) community and beyond. Existing studies have

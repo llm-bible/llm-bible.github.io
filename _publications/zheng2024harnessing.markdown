@@ -7,7 +7,7 @@ year: 2024
 citations: 20
 bibkey: zheng2024harnessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.13325'}]
-tags: [Reinforcement Learning, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Reinforcement Learning]
 ---
 Recent advances in Large Language Models (LLMs) have been changing the
 paradigm of Recommender Systems (RS). However, when items in the recommendation

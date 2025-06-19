@@ -8,7 +8,7 @@ year: 2024
 citations: 18
 bibkey: bewersdorff2024taking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.00832'}]
-tags: [GPT, Multimodal Models, Applications, Ethics and Bias]
+tags: [Applications, Multimodal Models, GPT, Fine-Tuning]
 ---
 The integration of Artificial Intelligence (AI), particularly Large Language
 Model (LLM)-based systems, in education has shown promise in enhancing teaching

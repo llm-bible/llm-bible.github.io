@@ -8,7 +8,7 @@ year: 2022
 citations: 262
 bibkey: smith2022using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.11990'}]
-tags: [Transformer, Few-Shot, Tools, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Few-Shot, Tools]
 ---
 Pretrained general-purpose language models can achieve state-of-the-art
 accuracies in various natural language processing domains by adapting to

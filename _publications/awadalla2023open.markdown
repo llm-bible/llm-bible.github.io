@@ -9,7 +9,7 @@ citations: 43
 bibkey: awadalla2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.01390'}, {name: Code,
     url: 'https://github.com/mlfoundations/open_flamingo'}]
-tags: [GPT, Multimodal Models, Tools, RAG]
+tags: [Multimodal Models, Tools, RAG, GPT]
 ---
 We introduce OpenFlamingo, a family of autoregressive vision-language models
 ranging from 3B to 9B parameters. OpenFlamingo is an ongoing effort to produce

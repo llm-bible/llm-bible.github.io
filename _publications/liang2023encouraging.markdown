@@ -9,7 +9,7 @@ citations: 24
 bibkey: liang2023encouraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.19118'}, {name: Code,
     url: 'https://github.com/Skytliang/Multi-Agents-Debate'}]
-tags: [GPT, Reinforcement Learning, RAG, Agentic]
+tags: [GPT, Agentic, Reinforcement Learning, Tools]
 ---
 Modern large language models (LLMs) like ChatGPT have shown remarkable
 performance on general language tasks but still struggle on complex reasoning

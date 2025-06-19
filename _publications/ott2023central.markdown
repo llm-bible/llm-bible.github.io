@@ -7,7 +7,7 @@ year: 2023
 citations: 20
 bibkey: ott2023central
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.11596'}]
-tags: [GPT, Prompting, Ethics and Bias, Tools]
+tags: [Prompting, GPT, Ethics and Bias, Tools]
 ---
 Large language models (LLMs) such as GPT-4 have recently demonstrated
 impressive results across a wide range of tasks. LLMs are still limited,

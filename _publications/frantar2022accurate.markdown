@@ -8,7 +8,7 @@ citations: 92
 bibkey: frantar2022accurate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.17323'}, {name: Code,
     url: 'https://github.com/IST-DASLab/gptq'}]
-tags: [GPT, Transformer, Efficiency and Optimization, Quantization]
+tags: [Quantization, Efficiency and Optimization, Transformer, GPT]
 ---
 Generative Pre-trained Transformer models, known as GPT or OPT, set
 themselves apart through breakthrough performance across complex language

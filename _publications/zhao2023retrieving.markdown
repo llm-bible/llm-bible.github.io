@@ -7,8 +7,7 @@ year: 2023
 citations: 19
 bibkey: zhao2023retrieving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.10868'}]
-tags: [Multimodal Models, Survey Paper, RAG, Interpretability and Explainability,
-  Applications]
+tags: [Applications, Multimodal Models, Survey Paper, RAG]
 ---
 As Large Language Models (LLMs) become popular, there emerged an important
 trend of using multimodality to augment the LLMs' generation ability, which

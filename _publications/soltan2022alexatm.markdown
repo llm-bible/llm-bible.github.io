@@ -7,7 +7,7 @@ year: 2022
 citations: 33
 bibkey: soltan2022alexatm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.01448'}]
-tags: [GPT, Few-Shot, Language Modeling, Pre-Training]
+tags: [Language Modeling, Few-Shot, GPT]
 ---
 In this work, we demonstrate that multilingual large-scale
 sequence-to-sequence (seq2seq) models, pre-trained on a mixture of denoising

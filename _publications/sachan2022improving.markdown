@@ -7,7 +7,7 @@ year: 2022
 citations: 26
 bibkey: sachan2022improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.07496'}]
-tags: [RAG, Attention Mechanism, Language Modeling]
+tags: [RAG, Prompting, Language Modeling]
 ---
 We propose a simple and effective re-ranking method for improving passage
 retrieval in open question answering. The re-ranker re-scores retrieved

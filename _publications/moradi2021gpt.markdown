@@ -7,7 +7,7 @@ year: 2021
 citations: 33
 bibkey: moradi2021gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02555'}]
-tags: [GPT, Transformer, Few-Shot, BERT]
+tags: [Few-Shot, Transformer, GPT, BERT]
 ---
 Deep neural language models have set new breakthroughs in many tasks of
 Natural Language Processing (NLP). Recent work has shown that deep transformer

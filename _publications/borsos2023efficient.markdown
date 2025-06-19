@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: borsos2023efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.09636'}]
-tags: [Prompting, Attention Mechanism, Model Architecture]
+tags: [Prompting, Model Architecture, Attention Mechanism]
 ---
 We present SoundStorm, a model for efficient, non-autoregressive audio
 generation. SoundStorm receives as input the semantic tokens of AudioLM, and

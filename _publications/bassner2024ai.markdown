@@ -7,7 +7,7 @@ year: 2024
 citations: 18
 bibkey: bassner2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.08008'}]
-tags: [GPT, Reinforcement Learning, Few-Shot, Prompting, Tools]
+tags: [Prompting, Few-Shot, Tools, GPT, Reinforcement Learning]
 ---
 Integrating AI-driven tools in higher education is an emerging area with
 transformative potential. This paper introduces Iris, a chat-based virtual

@@ -8,7 +8,7 @@ year: 2023
 citations: 17
 bibkey: pandya2023automating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05421'}]
-tags: [GPT, Applications, Tools, Fine-Tuning]
+tags: [Applications, Fine-Tuning, GPT, Tools]
 ---
 In the digital age, the dynamics of customer service are evolving, driven by
 technological advancements and the integration of Large Language Models (LLMs).

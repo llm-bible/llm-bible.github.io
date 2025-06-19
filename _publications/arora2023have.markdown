@@ -8,7 +8,7 @@ year: 2023
 citations: 16
 bibkey: arora2023have
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15074'}]
-tags: [GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 The performance of large language models (LLMs) on existing reasoning
 benchmarks has significantly improved over the past years. In response, we

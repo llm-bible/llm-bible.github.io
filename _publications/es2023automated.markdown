@@ -7,7 +7,7 @@ year: 2023
 citations: 33
 bibkey: es2023automated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15217'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 We introduce Ragas (Retrieval Augmented Generation Assessment), a framework
 for reference-free evaluation of Retrieval Augmented Generation (RAG)

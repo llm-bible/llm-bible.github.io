@@ -7,7 +7,8 @@ year: 2020
 citations: 51
 bibkey: bostrom2020byte
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.03720'}]
-tags: [Tokenization, Transformer, BERT, Language Modeling, Pre-Training]
+tags: [Tokenization, Pre-Training, Transformer, Language Modeling, Masked Language
+    Model, BERT]
 ---
 The success of pretrained transformer language models (LMs) in natural
 language processing has led to a wide range of pretraining setups. In

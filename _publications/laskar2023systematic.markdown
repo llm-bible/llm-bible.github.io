@@ -7,7 +7,7 @@ year: 2023
 citations: 33
 bibkey: laskar2023systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.18486'}]
-tags: [GPT, Reinforcement Learning, Ethics and Bias, Applications, Attention Mechanism]
+tags: [Applications, GPT, Ethics and Bias, Reinforcement Learning]
 ---
 The development of large language models (LLMs) such as ChatGPT has brought a
 lot of attention recently. However, their evaluation in the benchmark academic

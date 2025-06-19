@@ -8,7 +8,7 @@ citations: 20
 bibkey: bonifacio2022data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.05144'}, {name: Code,
     url: 'https://github.com/zetaalphavector/inpars'}]
-tags: [Transformer, Few-Shot, Fine-Tuning, Reinforcement Learning]
+tags: [Fine-Tuning, Transformer, Few-Shot, Reinforcement Learning]
 ---
 The information retrieval community has recently witnessed a revolution due
 to large pretrained transformer models. Another key ingredient for this

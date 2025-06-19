@@ -7,7 +7,7 @@ year: 2021
 citations: 46
 bibkey: karmakar2021what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.11308'}]
-tags: [Transformer, BERT, Efficiency and Optimization]
+tags: [BERT, Transformer, Efficiency and Optimization]
 ---
 Pre-trained models of code built on the transformer architecture have
 performed well on software engineering (SE) tasks such as predictive code

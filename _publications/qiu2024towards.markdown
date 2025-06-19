@@ -7,7 +7,7 @@ year: 2024
 citations: 22
 bibkey: qiu2024towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.13963'}]
-tags: [Reinforcement Learning, GPT, Language Modeling]
+tags: [GPT, Reinforcement Learning]
 ---
 The development of open-source, multilingual medical language models can
 benefit a wide, linguistically diverse audience from different regions. To

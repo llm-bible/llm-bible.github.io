@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: kim2023memory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14152'}]
-tags: [Few-Shot, Language Modeling, Efficiency and Optimization, Quantization, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, Quantization, Few-Shot, Efficiency and Optimization]
 ---
 Large language models (LLMs) face the challenges in fine-tuning and
 deployment due to their high memory demands and computational costs. While

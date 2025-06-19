@@ -7,7 +7,7 @@ year: 2021
 citations: 222
 bibkey: rae2021scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.11446'}]
-tags: [Transformer, Ethics and Bias, Scaling Laws]
+tags: [Transformer, Ethics and Bias, Reinforcement Learning]
 ---
 Language modelling provides a step towards intelligent communication systems
 by harnessing large repositories of written human knowledge to better predict

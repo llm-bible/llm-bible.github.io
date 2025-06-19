@@ -7,7 +7,8 @@ year: 2022
 citations: 37
 bibkey: hua2022transformer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.10447'}]
-tags: [Transformer, Language Modeling, BERT, Attention Mechanism]
+tags: [Transformer, Language Modeling, Masked Language Model, BERT, Model Architecture,
+  Attention Mechanism]
 ---
 We revisit the design choices in Transformers, and propose methods to address
 their weaknesses in handling long sequences. First, we propose a simple layer

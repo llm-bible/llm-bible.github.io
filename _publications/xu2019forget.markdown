@@ -8,7 +8,7 @@ year: 2019
 citations: 19
 bibkey: xu2019forget
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.00202'}]
-tags: [Fine-Tuning]
+tags: [Fine-Tuning, Reinforcement Learning]
 ---
 The creation of large-scale open domain reading comprehension data sets in
 recent years has enabled the development of end-to-end neural comprehension

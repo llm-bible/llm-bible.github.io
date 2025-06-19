@@ -8,7 +8,7 @@ year: 2023
 citations: 24
 bibkey: tian2023just
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14975'}]
-tags: [GPT, Reinforcement Learning, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, Reinforcement Learning, GPT, Agentic]
 ---
 A trustworthy real-world prediction system should produce well-calibrated
 confidence scores; that is, its confidence in an answer should be indicative of

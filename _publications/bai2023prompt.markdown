@@ -8,7 +8,7 @@ citations: 21
 bibkey: bai2023prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.09553'}, {name: Code,
     url: 'https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment'}]
-tags: [Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Tools, Reinforcement Learning]
 ---
 Recently, despite the unprecedented success of large pre-trained
 visual-language models (VLMs) on a wide range of downstream tasks, the

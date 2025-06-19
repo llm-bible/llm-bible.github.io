@@ -8,7 +8,7 @@ year: 2024
 citations: 70
 bibkey: sahoo2024systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.07927'}]
-tags: [Survey Paper, Applications, Prompting]
+tags: [Prompting, Applications, Survey Paper]
 ---
 Prompt engineering has emerged as an indispensable technique for extending
 the capabilities of large language models (LLMs) and vision-language models

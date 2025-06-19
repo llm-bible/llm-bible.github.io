@@ -7,7 +7,7 @@ year: 2022
 citations: 27
 bibkey: lin2022vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.15509'}]
-tags: [Multimodal Models, Transformer, Prompting, Agentic]
+tags: [Prompting, Transformer, Multimodal Models, Agentic]
 ---
 Vision-Language Navigation (VLN) is a challenging task that requires an
 embodied agent to perform action-level modality alignment, i.e., make

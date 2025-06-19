@@ -7,7 +7,7 @@ year: 2023
 citations: 136
 bibkey: madaan2023self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17651'}]
-tags: [GPT, Reinforcement Learning, RAG, Agentic]
+tags: [GPT, Reinforcement Learning, Agentic, RAG]
 ---
 Like humans, large language models (LLMs) do not always generate the best
 output on their first try. Motivated by how humans refine their written text,

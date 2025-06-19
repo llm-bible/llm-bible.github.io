@@ -7,7 +7,7 @@ year: 2020
 citations: 15
 bibkey: shuster2020multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.01082'}]
-tags: [Reinforcement Learning, Pre-Training, Fine-Tuning, Multimodal Models, Agentic]
+tags: [Fine-Tuning, Pre-Training, Agentic, Reinforcement Learning, Multimodal Models]
 ---
 Recent work in open-domain conversational agents has demonstrated that
 significant improvements in model engagingness and humanness metrics can be

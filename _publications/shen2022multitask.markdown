@@ -8,7 +8,7 @@ citations: 15
 bibkey: shen2022multitask
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.11720'}, {name: Code,
     url: 'https://github.com/sIncerass/MVLPT'}]
-tags: [Prompting, Multimodal Models, Few-Shot]
+tags: [Multimodal Models, Prompting, Few-Shot]
 ---
 Prompt Tuning, conditioning on task-specific learned prompt vectors, has
 emerged as a data-efficient and parameter-efficient method for adapting large

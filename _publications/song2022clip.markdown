@@ -7,7 +7,7 @@ year: 2022
 citations: 48
 bibkey: song2022clip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07190'}]
-tags: [Multimodal Models, Few-Shot, Fine-Tuning, Pre-Training]
+tags: [Fine-Tuning, Multimodal Models, Pre-Training, Few-Shot]
 ---
 CLIP has shown a remarkable zero-shot capability on a wide range of vision
 tasks. Previously, CLIP is only regarded as a powerful visual encoder. However,

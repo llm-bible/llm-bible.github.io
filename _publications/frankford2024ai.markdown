@@ -8,7 +8,7 @@ year: 2024
 citations: 20
 bibkey: frankford2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.02548'}]
-tags: [GPT, Survey Paper, Tools, Fine-Tuning]
+tags: [Fine-Tuning, GPT, Tools, Survey Paper]
 ---
 With the rapid advancement of artificial intelligence (AI) in various
 domains, the education sector is set for transformation. The potential of

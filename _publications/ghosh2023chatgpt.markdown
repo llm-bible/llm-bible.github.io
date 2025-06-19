@@ -8,7 +8,7 @@ year: 2023
 citations: 47
 bibkey: ghosh2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10510'}]
-tags: [GPT, Ethics and Bias, Prompting]
+tags: [Ethics and Bias, Prompting, GPT]
 ---
 In this multicultural age, language translation is one of the most performed
 tasks, and it is becoming increasingly AI-moderated and automated. As a novel

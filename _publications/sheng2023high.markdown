@@ -9,7 +9,7 @@ citations: 27
 bibkey: sheng2023high
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.06865'}, {name: Code,
     url: 'https://github.com/FMInference/FlexGen'}]
-tags: [Efficiency and Optimization, Attention Mechanism, Model Architecture]
+tags: [Efficiency and Optimization, Model Architecture]
 ---
 The high computational and memory requirements of large language model (LLM)
 inference make it feasible only with multiple high-end accelerators. Motivated

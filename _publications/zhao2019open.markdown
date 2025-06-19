@@ -7,7 +7,7 @@ year: 2019
 citations: 48
 bibkey: zhao2019open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.05658'}]
-tags: [Tools, Pre-Training, BERT]
+tags: [Pre-Training, Tools, BERT]
 ---
 Existing works, including ELMO and BERT, have revealed the importance of
 pre-training for NLP tasks. While there does not exist a single pre-training

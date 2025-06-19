@@ -7,7 +7,7 @@ year: 2020
 citations: 27
 bibkey: zhu2020vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.06745'}]
-tags: [Multimodal Models, Transformer, Agentic, Attention Mechanism]
+tags: [Multimodal Models, Agentic, Transformer, Attention Mechanism]
 ---
 Vision-dialog navigation posed as a new holy-grail task in vision-language
 disciplinary targets at learning an agent endowed with the capability of

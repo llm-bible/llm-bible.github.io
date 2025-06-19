@@ -7,7 +7,7 @@ year: 2023
 citations: 51
 bibkey: mckenna2023sources
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14552'}]
-tags: [Ethics and Bias, GPT]
+tags: [GPT, Ethics and Bias]
 ---
 Large Language Models (LLMs) are claimed to be capable of Natural Language
 Inference (NLI), necessary for applied tasks like question answering and

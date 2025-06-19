@@ -8,7 +8,7 @@ citations: 37
 bibkey: fang2023eva
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11331'}, {name: Code,
     url: 'https://github.com/baaivision/EVA/tree/master/EVA-02'}]
-tags: [Transformer, Pre-Training, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Pre-Training]
 ---
 We launch EVA-02, a next-generation Transformer-based visual representation
 pre-trained to reconstruct strong and robust language-aligned vision features

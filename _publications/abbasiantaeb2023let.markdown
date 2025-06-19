@@ -8,7 +8,7 @@ year: 2023
 citations: 24
 bibkey: abbasiantaeb2023let
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.02913'}]
-tags: [GPT, Prompting]
+tags: [Tools, Prompting, GPT]
 ---
 Conversational question-answering (CQA) systems aim to create interactive
 search systems that effectively retrieve information by interacting with users.

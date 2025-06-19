@@ -8,7 +8,7 @@ year: 2021
 citations: 35
 bibkey: yu2021vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02401'}]
-tags: [Multimodal Models, RAG, Language Modeling, Attention Mechanism]
+tags: [Language Modeling, Multimodal Models, RAG, Attention Mechanism]
 ---
 Multimodal abstractive summarization (MAS) models that summarize videos
 (vision modality) and their corresponding transcripts (text modality) are able

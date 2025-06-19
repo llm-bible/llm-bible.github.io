@@ -7,7 +7,7 @@ year: 2020
 citations: 36
 bibkey: zhou2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.07956'}]
-tags: [Transformer, Pre-Training, Fine-Tuning]
+tags: [Pre-Training, Fine-Tuning, Transformer]
 ---
 Pre-trained language models (PTLM) have achieved impressive results in a
 range of natural language understanding (NLU) and generation (NLG) tasks.

@@ -8,7 +8,7 @@ year: 2022
 citations: 28
 bibkey: sahu2022data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.01959'}]
-tags: [GPT, Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT, Few-Shot]
 ---
 Data augmentation is a widely employed technique to alleviate the problem of
 data scarcity. In this work, we propose a prompting-based approach to generate

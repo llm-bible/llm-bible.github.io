@@ -7,7 +7,7 @@ year: 2022
 citations: 64
 bibkey: huang2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.11610'}]
-tags: [Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Pre-Training]
 ---
 Large Language Models (LLMs) have achieved excellent performances in various
 tasks. However, fine-tuning an LLM requires extensive supervision. Human, on

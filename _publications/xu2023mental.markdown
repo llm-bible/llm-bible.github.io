@@ -8,7 +8,7 @@ year: 2023
 citations: 33
 bibkey: xu2023mental
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.14385'}]
-tags: [GPT, Few-Shot, Applications, Fine-Tuning, Ethics and Bias, Prompting]
+tags: [Prompting, Fine-Tuning, Applications, GPT, Few-Shot, Ethics and Bias]
 ---
 Advances in large language models (LLMs) have empowered a variety of
 applications. However, there is still a significant gap in research when it

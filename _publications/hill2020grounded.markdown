@@ -7,7 +7,7 @@ year: 2020
 citations: 35
 bibkey: hill2020grounded
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.01719'}]
-tags: [Reinforcement Learning, Prompting, Agentic]
+tags: [Prompting, Reinforcement Learning, Agentic]
 ---
 Recent work has shown that large text-based neural language models, trained
 with conventional supervised learning objectives, acquire a surprising

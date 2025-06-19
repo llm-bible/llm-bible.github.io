@@ -8,7 +8,7 @@ citations: 16
 bibkey: ziems2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.09612'}, {name: Code,
     url: 'https://github.com/Ziems/llm-url'}]
-tags: [GPT, Few-Shot, Reinforcement Learning]
+tags: [Few-Shot, GPT, Reinforcement Learning, Applications]
 ---
 Document retrieval is a key stage of standard Web search engines. Existing
 dual-encoder dense retrievers obtain representations for questions and
@@ -28,4 +28,4 @@ Experiments demonstrate that our method can consistently achieve better
 retrieval performance than existing retrieval approaches by a significant
 margin on three open-domain question answering benchmarks, under both zero and
 few-shot settings. The code for this work can be found at
-\url\{https://github.com/Ziems/llm-url\}.
+https://github.com/Ziems/llm-url.

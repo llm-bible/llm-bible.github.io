@@ -7,7 +7,7 @@ year: 2023
 citations: 33
 bibkey: shi2023retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.12652'}]
-tags: [RAG, GPT, Transformer, Language Modeling, Attention Mechanism]
+tags: [RAG, Transformer, Language Modeling, GPT]
 ---
 We introduce REPLUG, a retrieval-augmented language modeling framework that
 treats the language model (LM) as a black box and augments it with a tuneable

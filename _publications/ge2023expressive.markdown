@@ -7,7 +7,7 @@ year: 2023
 citations: 42
 bibkey: ge2023expressive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.06720'}]
-tags: [Prompting, Attention Mechanism]
+tags: [Prompting, Language Modeling, Reinforcement Learning]
 ---
 Plain text has become a prevalent interface for text-to-image synthesis.
 However, its limited customization options hinder users from accurately

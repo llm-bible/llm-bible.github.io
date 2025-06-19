@@ -7,7 +7,7 @@ year: 2023
 citations: 31
 bibkey: zhao2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.10144'}]
-tags: [Reinforcement Learning, RAG, Agentic, Fine-Tuning, GPT]
+tags: [Fine-Tuning, GPT, Agentic, Reinforcement Learning]
 ---
 The recent surge in research interest in applying large language models
 (LLMs) to decision-making tasks has flourished by leveraging the extensive

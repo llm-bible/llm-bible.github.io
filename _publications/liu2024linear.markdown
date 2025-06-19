@@ -7,7 +7,7 @@ year: 2024
 citations: 26
 bibkey: liu2024linear
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2411.01537'}]
-tags: [Transformer, Attention Mechanism, Efficiency and Optimization]
+tags: [Transformer, Efficiency and Optimization, Attention Mechanism]
 ---
 Transformer models have achieved remarkable success in sequential recommender
 systems (SRSs). However, computing the attention matrix in traditional

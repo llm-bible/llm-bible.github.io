@@ -8,7 +8,7 @@ year: 2019
 citations: 58
 bibkey: hoover2019visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.05276'}]
-tags: [Transformer, BERT, Tools, Attention Mechanism]
+tags: [Transformer, Tools, BERT, Attention Mechanism]
 ---
 Large language models can produce powerful contextual representations that
 lead to improvements across many NLP tasks. Since these models are typically

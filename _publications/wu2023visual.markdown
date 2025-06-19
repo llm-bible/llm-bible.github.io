@@ -8,7 +8,7 @@ citations: 147
 bibkey: wu2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.04671'}, {name: Code,
     url: 'https://github.com/microsoft/visual-chatgpt'}]
-tags: [GPT, Transformer, Prompting]
+tags: [Prompting, Transformer, GPT]
 ---
 ChatGPT is attracting a cross-field interest as it provides a language
 interface with remarkable conversational competency and reasoning capabilities
@@ -28,4 +28,4 @@ considering models of multiple inputs/outputs and models that require visual
 feedback. Experiments show that Visual ChatGPT opens the door to investigating
 the visual roles of ChatGPT with the help of Visual Foundation Models. Our
 system is publicly available at
-\url\{https://github.com/microsoft/visual-chatgpt\}.
+https://github.com/microsoft/visual-chatgpt.

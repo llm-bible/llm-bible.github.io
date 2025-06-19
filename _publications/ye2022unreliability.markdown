@@ -7,7 +7,8 @@ year: 2022
 citations: 42
 bibkey: ye2022unreliability
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.03401'}]
-tags: [GPT, In-Context Learning, Few-Shot, Prompting, Interpretability and Explainability]
+tags: [Prompting, Few-Shot, In-Context Learning, Interpretability and Explainability,
+  GPT]
 ---
 Does prompting a large language model (LLM) like GPT-3 with explanations
 improve in-context learning? We study this question on two NLP tasks that

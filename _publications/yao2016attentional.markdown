@@ -7,7 +7,7 @@ year: 2016
 citations: 30
 bibkey: yao2016attentional
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.01292'}]
-tags: [Attention Mechanism, Applications, Model Architecture]
+tags: [Applications, Attention Mechanism]
 ---
 In this paper we propose a neural conversation model for conducting
 dialogues. We demonstrate the use of this model to generate help desk

@@ -9,7 +9,7 @@ citations: 32
 bibkey: zhang2020constrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00558'}, {name: Code,
     url: 'https://github.com/dreasysnail/POINTER)'}]
-tags: [GPT, Transformer, Language Modeling, Pre-Training, Fine-Tuning]
+tags: [Transformer, Language Modeling, Pre-Training, GPT, BERT]
 ---
 Large-scale pre-trained language models, such as BERT and GPT-2, have
 achieved excellent performance in language representation learning and

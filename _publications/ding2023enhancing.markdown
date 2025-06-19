@@ -8,7 +8,7 @@ citations: 32
 bibkey: ding2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14233'}, {name: Code,
     url: 'https://github.com/thunlp/UltraChat'}]
-tags: [GPT, Reinforcement Learning, Fine-Tuning, Tools]
+tags: [Fine-Tuning, GPT, Tools]
 ---
 Fine-tuning on instruction data has been widely validated as an effective
 practice for implementing chat language models like ChatGPT. Scaling the
@@ -28,4 +28,4 @@ UltraChat, we fine-tune a LLaMA model to create a powerful conversational
 model, UltraLLaMA. Our evaluations indicate that UltraLLaMA consistently
 outperforms other open-source models, including Vicuna, the previously
 recognized state-of-the-art open-source model. The dataset and the model will
-be publicly released\footnote\{\url\{https://github.com/thunlp/UltraChat\}\}.
+be publicly released\footnote\{https://github.com/thunlp/UltraChat\}.

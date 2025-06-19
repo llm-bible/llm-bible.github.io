@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: yang2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15649'}]
-tags: [In-Context Learning, Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Few-Shot, In-Context Learning]
 ---
 We explore the ability of large language models (LLMs) to act as speech
 recognition post-processors that perform rescoring and error correction. Our

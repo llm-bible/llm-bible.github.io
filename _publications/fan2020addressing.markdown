@@ -7,7 +7,7 @@ year: 2020
 citations: 30
 bibkey: fan2020addressing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.09402'}]
-tags: [Transformer, Reinforcement Learning, Language Modeling, Attention Mechanism]
+tags: [Transformer, Language Modeling, Reinforcement Learning, Agentic]
 ---
 Transformers have been successfully applied to sequential, auto-regressive
 tasks despite being feedforward networks. Unlike recurrent neural networks,

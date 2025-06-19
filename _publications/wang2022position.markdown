@@ -8,7 +8,7 @@ citations: 18
 bibkey: wang2022position
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09737'}, {name: Code,
     url: 'https://github.com/sail-sg/ptp'}]
-tags: [Multimodal Models, Prompting, Pre-Training, Reinforcement Learning]
+tags: [Prompting, Multimodal Models, Pre-Training, Tools]
 ---
 Vision-Language Pre-Training (VLP) has shown promising capabilities to align
 image and text pairs, facilitating a broad variety of cross-modal learning
@@ -31,4 +31,4 @@ recall@1) for ViLT \cite\{vilt\} baseline, and COCO Captioning (+5.3 in CIDEr)
 for SOTA BLIP \cite\{blip\} baseline. Moreover, PTP achieves comparable results
 with object-detector based methods, and much faster inference speed since PTP
 discards its object detector for inference while the later cannot. Our code and
-pre-trained weight will be released at \url\{https://github.com/sail-sg/ptp\}.
+pre-trained weight will be released at https://github.com/sail-sg/ptp.

@@ -8,7 +8,7 @@ citations: 18
 bibkey: mitra2023compositional
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17076'}, {name: Code,
     url: 'https://github.com/chancharikmitra/CCoT'}]
-tags: [Multimodal Models, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Multimodal Models]
 ---
 The combination of strong visual backbones and Large Language Model (LLM)
 reasoning has led to Large Multimodal Models (LMMs) becoming the current

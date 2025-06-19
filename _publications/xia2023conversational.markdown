@@ -7,7 +7,7 @@ year: 2023
 citations: 27
 bibkey: xia2023conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.13246'}]
-tags: [GPT, RAG, Prompting]
+tags: [Prompting, GPT, RAG]
 ---
 Automated Program Repair (APR) can help developers automatically generate
 patches for bugs. Due to the impressive performance obtained using Large

@@ -7,8 +7,8 @@ year: 2023
 citations: 377
 bibkey: nori2023capabilities
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13375'}]
-tags: [GPT, Reinforcement Learning, Interpretability and Explainability, Applications,
-  Prompting]
+tags: [Prompting, Applications, GPT, Interpretability and Explainability, Reinforcement
+    Learning]
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding and generation across various domains, including

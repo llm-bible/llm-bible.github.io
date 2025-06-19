@@ -7,7 +7,7 @@ year: 2020
 citations: 17
 bibkey: you2020hard
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00742'}]
-tags: [Transformer, Attention Mechanism, Model Architecture]
+tags: [Transformer, Attention Mechanism]
 ---
 Recent work has questioned the importance of the Transformer's multi-headed
 attention for achieving high translation quality. We push further in this

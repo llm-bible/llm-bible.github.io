@@ -8,7 +8,7 @@ year: 2022
 citations: 16
 bibkey: park2022lut
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.09557'}]
-tags: [Efficiency and Optimization, Quantization, Transformer]
+tags: [Quantization, Efficiency and Optimization, Transformer]
 ---
 Recent advances in self-supervised learning and the Transformer architecture
 have significantly improved natural language processing (NLP), achieving

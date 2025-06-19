@@ -8,7 +8,7 @@ citations: 20
 bibkey: oh2023black
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.14773'}, {name: Code,
     url: 'https://github.com/changdaeoh/BlackVIP'}]
-tags: [Few-Shot, Applications, Prompting, Fine-Tuning, Security]
+tags: [Prompting, Few-Shot, Fine-Tuning, Applications, Tools, Security]
 ---
 With the surge of large-scale pre-trained models (PTMs), fine-tuning these
 models to numerous downstream tasks becomes a crucial problem. Consequently,
@@ -28,4 +28,4 @@ and robustness on distribution/location shift. SPSA-GC efficiently estimates
 the gradient of a target model to update Coordinator. Extensive experiments on
 16 datasets demonstrate that BlackVIP enables robust adaptation to diverse
 domains without accessing PTMs' parameters, with minimal memory requirements.
-Code: \url\{https://github.com/changdaeoh/BlackVIP\}
+Code: https://github.com/changdaeoh/BlackVIP

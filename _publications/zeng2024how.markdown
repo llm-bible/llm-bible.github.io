@@ -8,7 +8,7 @@ year: 2024
 citations: 15
 bibkey: zeng2024how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06373'}]
-tags: [GPT, Reinforcement Learning, Prompting, Security]
+tags: [Prompting, Security, GPT, Reinforcement Learning]
 ---
 Most traditional AI safety research has approached AI models as machines and
 centered on algorithm-focused attacks developed by security experts. As large

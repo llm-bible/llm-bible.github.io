@@ -7,7 +7,7 @@ year: 2019
 citations: 315
 bibkey: michel2019are
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.10650'}]
-tags: [Transformer, BERT, RAG, Pruning, Attention Mechanism, Efficiency and Optimization]
+tags: [Transformer, Pruning, Efficiency and Optimization, BERT]
 ---
 Attention is a powerful and ubiquitous mechanism for allowing neural models
 to focus on particular salient pieces of information by taking their weighted

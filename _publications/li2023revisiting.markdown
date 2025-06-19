@@ -7,7 +7,7 @@ year: 2023
 citations: 18
 bibkey: li2023revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05028'}]
-tags: [Prompting, GPT]
+tags: [Prompting, GPT, Reinforcement Learning]
 ---
 Relation extraction (RE) consistently involves a certain degree of labeled or
 unlabeled data even if under zero-shot setting. Recent studies have shown that

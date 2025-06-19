@@ -7,7 +7,7 @@ year: 2021
 citations: 62
 bibkey: li2021personalized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11601'}]
-tags: [Transformer, Interpretability and Explainability, BERT, Efficiency and Optimization]
+tags: [Transformer, Interpretability and Explainability, BERT]
 ---
 Personalization of natural language generation plays a vital role in a large
 spectrum of tasks, such as explainable recommendation, review summarization and

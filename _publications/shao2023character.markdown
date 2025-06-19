@@ -7,7 +7,7 @@ year: 2023
 citations: 31
 bibkey: shao2023character
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10158'}]
-tags: [GPT, Prompting, Agentic]
+tags: [Prompting, Agentic, GPT]
 ---
 Large language models (LLMs) can be used to serve as agents to simulate human
 behaviors, given the powerful ability to understand human instructions and

@@ -7,7 +7,7 @@ year: 2023
 citations: 46
 bibkey: nasr2023scalable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17035'}]
-tags: [GPT, Reinforcement Learning, Security]
+tags: [Security, GPT, Reinforcement Learning]
 ---
 This paper studies extractable memorization: training data that an adversary
 can efficiently extract by querying a machine learning model without prior

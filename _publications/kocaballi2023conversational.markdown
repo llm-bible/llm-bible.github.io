@@ -7,7 +7,7 @@ year: 2023
 citations: 25
 bibkey: kocaballi2023conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.07406'}]
-tags: [GPT, Prompting, Tools]
+tags: [Prompting, GPT, Tools, Applications]
 ---
 The recent advancements in Large Language Models (LLMs), particularly
 conversational LLMs like ChatGPT, have prompted changes in a range of fields,

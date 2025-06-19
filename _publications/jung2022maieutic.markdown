@@ -7,7 +7,7 @@ year: 2022
 citations: 22
 bibkey: jung2022maieutic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11822'}]
-tags: [Interpretability and Explainability, Prompting]
+tags: [Prompting, Interpretability and Explainability]
 ---
 Despite their impressive capabilities, large pre-trained language models
 (LMs) struggle with consistent reasoning; recently, prompting LMs to generate

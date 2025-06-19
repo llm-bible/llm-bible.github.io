@@ -8,7 +8,7 @@ citations: 132
 bibkey: wang2020hardware
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.14187'}, {name: Code,
     url: 'https://github.com/mit-han-lab/hardware-aware-transformers.git'}]
-tags: [Transformer, Tools, Attention Mechanism]
+tags: [Transformer, Tools, Efficiency and Optimization]
 ---
 Transformers are ubiquitous in Natural Language Processing (NLP) tasks, but
 they are difficult to be deployed on hardware due to the intensive computation.

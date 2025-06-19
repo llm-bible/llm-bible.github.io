@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: jiang2023delving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.08912'}]
-tags: [Multimodal Models, Prompting, Efficiency and Optimization]
+tags: [Prompting, Multimodal Models, Efficiency and Optimization]
 ---
 Fine-grained visual classification (FGVC) involves categorizing fine
 subdivisions within a broader category, which poses challenges due to subtle

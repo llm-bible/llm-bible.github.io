@@ -7,7 +7,7 @@ year: 2023
 citations: 37
 bibkey: chen2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.01863'}]
-tags: [GPT, Prompting, Tools, Interpretability and Explainability]
+tags: [Prompting, GPT, Tools, Interpretability and Explainability]
 ---
 Learning new programming skills requires tailored guidance. With the
 emergence of advanced Natural Language Generation models like the ChatGPT API,

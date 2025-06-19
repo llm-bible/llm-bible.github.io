@@ -7,7 +7,7 @@ year: 2019
 citations: 47
 bibkey: caglayan2019probing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.08678'}]
-tags: [Multimodal Models, RAG]
+tags: [Multimodal Models]
 ---
 Current work on multimodal machine translation (MMT) has suggested that the
 visual modality is either unnecessary or only marginally beneficial. We posit

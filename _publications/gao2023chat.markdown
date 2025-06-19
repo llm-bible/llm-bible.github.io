@@ -7,7 +7,7 @@ year: 2023
 citations: 47
 bibkey: gao2023chat
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.14524'}]
-tags: [GPT, Reinforcement Learning, Prompting, Interpretability and Explainability]
+tags: [Prompting, Interpretability and Explainability, Reinforcement Learning, GPT]
 ---
 Large language models (LLMs) have demonstrated their significant potential to
 be applied for addressing various application tasks. However, traditional

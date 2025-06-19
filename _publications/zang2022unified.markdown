@@ -7,7 +7,7 @@ year: 2022
 citations: 46
 bibkey: zang2022unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.07225'}]
-tags: [Multimodal Models, Few-Shot, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Multimodal Models, Few-Shot]
 ---
 Prompt tuning, a parameter- and data-efficient transfer learning paradigm
 that tunes only a small number of parameters in a model's input space, has

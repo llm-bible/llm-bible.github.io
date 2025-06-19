@@ -8,7 +8,7 @@ year: 2020
 citations: 15
 bibkey: xu2020edit
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.06868'}]
-tags: [Transformer, Applications]
+tags: [Transformer, Applications, ACL]
 ---
 We introduce an Edit-Based Transformer with Repositioning (EDITOR), which
 makes sequence generation flexible by seamlessly allowing users to specify

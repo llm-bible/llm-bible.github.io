@@ -9,7 +9,7 @@ citations: 92
 bibkey: liu2021augmenting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.00522'}, {name: Code,
     url: 'https://github.com/DyGRec/ASReP'}]
-tags: [Transformer, Pre-Training, Reinforcement Learning, Tools]
+tags: [Transformer, Pre-Training, Reinforcement Learning, Model Architecture]
 ---
 Sequential Recommendation characterizes the evolving patterns by modeling
 item sequences chronologically. The essential target of it is to capture the
@@ -26,4 +26,4 @@ transformer to generate fabricated historical items at the beginning of short
 sequences. Finally, we fine-tune the transformer using these augmented
 sequences from the time order to predict the next item. Experiments on two
 real-world datasets verify the effectiveness of ASReP. The code is available on
-\url\{https://github.com/DyGRec/ASReP\}.
+https://github.com/DyGRec/ASReP.

@@ -8,7 +8,7 @@ year: 2023
 citations: 93
 bibkey: savage2023diagnostic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.06834'}]
-tags: [GPT, Prompting, Interpretability and Explainability]
+tags: [Interpretability and Explainability, Prompting, GPT]
 ---
 One of the major barriers to using large language models (LLMs) in medicine
 is the perception they use uninterpretable methods to make clinical decisions

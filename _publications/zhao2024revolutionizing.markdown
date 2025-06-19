@@ -7,7 +7,7 @@ year: 2024
 citations: 17
 bibkey: zhao2024revolutionizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.11641'}]
-tags: [GPT, Transformer, Survey Paper, Applications, Prompting]
+tags: [Applications, Transformer, GPT, Prompting, Survey Paper]
 ---
 In recent years, Large Language Models (LLMs) like ChatGPT have seen
 considerable advancements and have been applied in diverse fields. Built on the

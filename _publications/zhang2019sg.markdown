@@ -7,7 +7,7 @@ year: 2019
 citations: 81
 bibkey: zhang2019sg
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.05147'}]
-tags: [Transformer, BERT, Attention Mechanism, Model Architecture]
+tags: [BERT, Transformer, Attention Mechanism]
 ---
 For machine reading comprehension, the capacity of effectively modeling the
 linguistic knowledge from the detail-riddled and lengthy passages and getting

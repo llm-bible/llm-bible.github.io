@@ -7,7 +7,7 @@ year: 2022
 citations: 40
 bibkey: "guti\xE9rrez2022thinking"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.08410'}]
-tags: [GPT, In-Context Learning, Few-Shot, Fine-Tuning, Survey Paper]
+tags: [Fine-Tuning, GPT, Few-Shot, In-Context Learning, Survey Paper]
 ---
 The strong few-shot in-context learning capability of large pre-trained
 language models (PLMs) such as GPT-3 is highly appealing for application

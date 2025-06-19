@@ -8,8 +8,7 @@ year: 2022
 citations: 21
 bibkey: aflalo2022vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.17247'}]
-tags: [Multimodal Models, Transformer, Interpretability and Explainability, Attention
-    Mechanism, Tools]
+tags: [Transformer, Multimodal Models, Interpretability and Explainability, Tools]
 ---
 Breakthroughs in transformer-based models have revolutionized not only the
 NLP field, but also vision and multimodal systems. However, although

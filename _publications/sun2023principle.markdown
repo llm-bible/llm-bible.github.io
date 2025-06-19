@@ -8,7 +8,7 @@ year: 2023
 citations: 46
 bibkey: sun2023principle
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.03047'}]
-tags: [GPT, In-Context Learning, Reinforcement Learning, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Reinforcement Learning, In-Context Learning, Agentic]
 ---
 Recent AI-assistant agents, such as ChatGPT, predominantly rely on supervised
 fine-tuning (SFT) with human annotations and reinforcement learning from human

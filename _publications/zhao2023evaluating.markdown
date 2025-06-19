@@ -8,7 +8,7 @@ citations: 19
 bibkey: zhao2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.16934'}, {name: Code,
     url: 'https://github.com/yunqing-me/AttackVLM'}]
-tags: [Multimodal Models, Security]
+tags: [Security, Multimodal Models]
 ---
 Large vision-language models (VLMs) such as GPT-4 have achieved unprecedented
 performance in response generation, especially with visual inputs, enabling

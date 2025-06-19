@@ -8,7 +8,7 @@ year: 2023
 citations: 28
 bibkey: zhang2023potential
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08152'}]
-tags: [GPT, Few-Shot, Applications, Prompting]
+tags: [Prompting, Applications, GPT, Few-Shot, In-Context Learning]
 ---
 Recent studies have demonstrated promising performance of ChatGPT and GPT-4
 on several medical domain tasks. However, none have assessed its performance

@@ -9,7 +9,7 @@ citations: 36
 bibkey: shah2022lm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.04429'}, {name: Code,
     url: 'https://sites.google.com/view/lmnav'}]
-tags: [GPT, Reinforcement Learning, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Language Modeling, GPT, Reinforcement Learning]
 ---
 Goal-conditioned policies for robotic navigation can be trained on large,
 unannotated datasets, providing for good generalization to real-world settings.

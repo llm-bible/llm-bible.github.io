@@ -7,7 +7,7 @@ year: 2019
 citations: 35
 bibkey: henderson2019efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03688'}]
-tags: [Transformer, RAG, Efficiency and Optimization, Quantization, Applications]
+tags: [Efficiency and Optimization, Transformer, RAG, Applications, Quantization]
 ---
 General-purpose pretrained sentence encoders such as BERT are not ideal for
 real-world conversational AI applications; they are computationally heavy,

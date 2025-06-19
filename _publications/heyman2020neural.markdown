@@ -8,7 +8,7 @@ year: 2020
 citations: 15
 bibkey: heyman2020neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.12193'}]
-tags: [RAG, Fine-Tuning]
+tags: [Fine-Tuning, RAG]
 ---
 In this work, we propose and study annotated code search: the retrieval of
 code snippets paired with brief descriptions of their intent using natural

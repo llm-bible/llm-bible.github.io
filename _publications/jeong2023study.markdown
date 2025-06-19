@@ -8,7 +8,7 @@ year: 2023
 citations: 36
 bibkey: jeong2023study
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.01105'}]
-tags: [RAG, Fine-Tuning]
+tags: [Fine-Tuning, RAG]
 ---
 This study presents a method for implementing generative AI services by
 utilizing the Large Language Models (LLM) application architecture. With recent

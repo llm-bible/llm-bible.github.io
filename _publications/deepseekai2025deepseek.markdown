@@ -8,7 +8,7 @@ year: 2025
 citations: 58
 bibkey: deepseekai2025deepseek
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2501.12948'}]
-tags: [Reinforcement Learning, Fine-Tuning, Agentic]
+tags: [Fine-Tuning, Reinforcement Learning, Agentic]
 ---
 We introduce our first-generation reasoning models, DeepSeek-R1-Zero and
 DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement

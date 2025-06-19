@@ -8,7 +8,7 @@ year: 2022
 citations: 15
 bibkey: wan2022what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.06840'}]
-tags: [Transformer, Interpretability and Explainability, BERT, Pre-Training, Attention
+tags: [Transformer, Pre-Training, Interpretability and Explainability, BERT, Attention
     Mechanism]
 ---
 Recently, many pre-trained language models for source code have been proposed

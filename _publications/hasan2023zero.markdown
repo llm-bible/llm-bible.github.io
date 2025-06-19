@@ -8,7 +8,7 @@ year: 2023
 citations: 21
 bibkey: hasan2023zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.10783'}]
-tags: [GPT, Few-Shot, Applications, Prompting, Transformer, Fine-Tuning, In-Context
+tags: [Prompting, Fine-Tuning, Applications, Transformer, GPT, Few-Shot, In-Context
     Learning]
 ---
 The rapid expansion of the digital world has propelled sentiment analysis

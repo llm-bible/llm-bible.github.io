@@ -9,7 +9,7 @@ citations: 39
 bibkey: ma2022understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.02219'}, {name: Code,
     url: 'https://tinyurl.com/mpe64f89'}]
-tags: [Multimodal Models, Prompting, Efficiency and Optimization]
+tags: [Prompting, Multimodal Models, Efficiency and Optimization]
 ---
 Pretrained vision-language models (VLMs) such as CLIP have shown impressive
 generalization capability in downstream vision tasks with appropriate text

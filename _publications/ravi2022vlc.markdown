@@ -7,7 +7,7 @@ year: 2022
 citations: 25
 bibkey: ravi2022vlc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.13626'}]
-tags: [Transformer, BERT, Multimodal Models]
+tags: [Multimodal Models, BERT, Transformer]
 ---
 There has been a growing interest in solving Visual Question Answering (VQA)
 tasks that require the model to reason beyond the content present in the image.

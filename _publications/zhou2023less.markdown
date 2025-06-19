@@ -7,7 +7,7 @@ year: 2023
 citations: 96
 bibkey: zhou2023less
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11206'}]
-tags: [GPT, Reinforcement Learning, Prompting, Agentic, Pre-Training, Fine-Tuning]
+tags: [Prompting, GPT, Reinforcement Learning, Fine-Tuning, Language Modeling]
 ---
 Large language models are trained in two stages: (1) unsupervised pretraining
 from raw text, to learn general-purpose representations, and (2) large scale

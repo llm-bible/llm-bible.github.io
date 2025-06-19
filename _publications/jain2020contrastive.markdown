@@ -7,7 +7,7 @@ year: 2020
 citations: 55
 bibkey: jain2020contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.04973'}]
-tags: [BERT, Pre-Training, Security]
+tags: [Pre-Training, BERT]
 ---
 Recent work learns contextual representations of source code by
 reconstructing tokens from their context. For downstream semantic understanding

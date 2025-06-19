@@ -8,7 +8,7 @@ year: 2017
 citations: 56
 bibkey: song2017unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.01058'}]
-tags: [RAG, Attention Mechanism, Reinforcement Learning]
+tags: [RAG, Reinforcement Learning, Attention Mechanism]
 ---
 We propose a query-based generative model for solving both tasks of question
 generation (QG) and question an- swering (QA). The model follows the classic

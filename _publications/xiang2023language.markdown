@@ -7,7 +7,8 @@ year: 2023
 citations: 18
 bibkey: xiang2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10626'}]
-tags: [GPT, Reinforcement Learning, RAG, Agentic, Fine-Tuning, Efficiency and Optimization]
+tags: [Fine-Tuning, Reinforcement Learning, Agentic, Efficiency and Optimization,
+  GPT]
 ---
 While large language models (LMs) have shown remarkable capabilities across
 numerous tasks, they often struggle with simple reasoning and planning in

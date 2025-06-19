@@ -8,7 +8,7 @@ citations: 32
 bibkey: tam2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.11955'}, {name: Code,
     url: 'https://github.com/rrmenon10/ADAPET'}]
-tags: [Few-Shot, Fine-Tuning]
+tags: [Fine-Tuning, Few-Shot]
 ---
 Recently, pre-trained language models (LMs) have achieved strong performance
 when fine-tuned on difficult benchmarks like SuperGLUE. However, performance

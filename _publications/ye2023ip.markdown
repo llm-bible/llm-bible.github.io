@@ -8,7 +8,7 @@ year: 2023
 citations: 71
 bibkey: ye2023ip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.06721'}]
-tags: [Multimodal Models, Transformer, Prompting, Attention Mechanism, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Transformer, Multimodal Models, Attention Mechanism]
 ---
 Recent years have witnessed the strong power of large text-to-image diffusion
 models for the impressive generative capability to create high-fidelity images.
@@ -29,4 +29,4 @@ generalized not only to other custom models fine-tuned from the same base
 model, but also to controllable generation using existing controllable tools.
 With the benefit of the decoupled cross-attention strategy, the image prompt
 can also work well with the text prompt to achieve multimodal image generation.
-The project page is available at \url\{https://ip-adapter.github.io\}.
+The project page is available at https://ip-adapter.github.io.

@@ -8,7 +8,7 @@ citations: 20
 bibkey: shridhar2022distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.00193'}, {name: Code,
     url: 'https://github.com/kumar-shridhar/Distiiling-LM'}]
-tags: [GPT, Distillation, Efficiency and Optimization]
+tags: [Distillation, GPT, Efficiency and Optimization]
 ---
 Step-by-step reasoning approaches like chain of thought (CoT) have proved to
 be very effective in inducing reasoning capabilities in large language models.

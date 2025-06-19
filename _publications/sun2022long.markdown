@@ -9,7 +9,7 @@ citations: 28
 bibkey: sun2022long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.06031'}, {name: Code,
     url: 'https://github.com/microsoft/XPretrain'}]
-tags: [Multimodal Models, Transformer, Pre-Training]
+tags: [Multimodal Models, Pre-Training, Transformer]
 ---
 Large-scale video-language pre-training has shown significant improvement in
 video-language understanding tasks. Previous studies of video-language

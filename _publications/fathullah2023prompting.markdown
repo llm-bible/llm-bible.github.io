@@ -7,7 +7,7 @@ year: 2023
 citations: 24
 bibkey: fathullah2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.11795'}]
-tags: [Prompting, Multimodal Models, Transformer]
+tags: [Prompting, Multimodal Models]
 ---
 Large language models have proven themselves highly flexible, able to solve a
 wide range of generative tasks, such as abstractive summarization and

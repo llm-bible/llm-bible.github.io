@@ -7,7 +7,7 @@ year: 2023
 citations: 23
 bibkey: paiss2023teaching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12066'}]
-tags: [Multimodal Models, Fine-Tuning]
+tags: [Multimodal Models, RAG]
 ---
 Large vision-language models (VLMs), such as CLIP, learn rich joint
 image-text representations, facilitating advances in numerous downstream tasks,

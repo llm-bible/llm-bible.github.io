@@ -7,7 +7,7 @@ year: 2020
 citations: 22
 bibkey: radiyadixit2020how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14129'}]
-tags: [Transformer, BERT, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, BERT]
 ---
 State-of-the-art performance on language understanding tasks is now achieved
 with increasingly large networks; the current record holder has billions of

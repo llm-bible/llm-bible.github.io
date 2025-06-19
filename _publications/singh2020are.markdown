@@ -7,7 +7,7 @@ year: 2020
 citations: 31
 bibkey: singh2020are
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.08744'}]
-tags: [Pre-Training, Attention Mechanism, Model Architecture]
+tags: [Pre-Training, Multimodal Models]
 ---
 Numerous recent works have proposed pretraining generic visio-linguistic
 representations and then finetuning them for downstream vision and language

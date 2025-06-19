@@ -7,7 +7,7 @@ year: 2021
 citations: 43
 bibkey: talmor2021complex
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.06039'}]
-tags: [RAG, Multimodal Models]
+tags: [Multimodal Models, RAG]
 ---
 When answering complex questions, people can seamlessly combine information
 from visual, textual and tabular sources. While interest in models that reason

@@ -8,7 +8,7 @@ year: 2021
 citations: 39
 bibkey: west2021symbolic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07178'}]
-tags: [GPT, Distillation, Prompting, Efficiency and Optimization]
+tags: [Distillation, GPT, Prompting, Efficiency and Optimization]
 ---
 The common practice for training commonsense models has gone
 from-human-to-corpus-to-machine: humans author commonsense knowledge graphs in

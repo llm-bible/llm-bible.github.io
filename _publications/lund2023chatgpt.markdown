@@ -8,7 +8,7 @@ year: 2023
 citations: 461
 bibkey: lund2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13367'}]
-tags: [GPT, Transformer, Ethics and Bias]
+tags: [Transformer, GPT, Ethics and Bias]
 ---
 This paper discusses OpenAIs ChatGPT, a generative pre-trained transformer,
 which uses natural language processing to fulfill text-based user requests

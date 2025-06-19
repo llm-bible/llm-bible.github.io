@@ -8,7 +8,7 @@ year: 2020
 citations: 45
 bibkey: lauscher2020from
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00633'}]
-tags: [Transformer, Few-Shot, BERT, Language Modeling, Fine-Tuning]
+tags: [Fine-Tuning, Transformer, Language Modeling, Few-Shot, BERT]
 ---
 Massively multilingual transformers pretrained with language modeling
 objectives (e.g., mBERT, XLM-R) have become a de facto default transfer

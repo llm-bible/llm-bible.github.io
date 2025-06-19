@@ -7,7 +7,7 @@ year: 2023
 citations: 35
 bibkey: hao2023reasoning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14992'}]
-tags: [GPT, Reinforcement Learning, Prompting, Agentic, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT, Agentic, Reinforcement Learning]
 ---
 Large language models (LLMs) have shown remarkable reasoning capabilities,
 especially when prompted to generate intermediate reasoning steps (e.g.,

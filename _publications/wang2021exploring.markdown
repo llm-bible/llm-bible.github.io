@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: wang2021exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.14625'}]
-tags: [Transformer, Attention Mechanism, Model Architecture]
+tags: [Transformer, Attention Mechanism]
 ---
 Why do large pre-trained transformer-based models perform so well across a
 wide variety of NLP tasks? Recent research suggests the key may lie in

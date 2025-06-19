@@ -7,7 +7,7 @@ year: 2020
 citations: 41
 bibkey: madotto2020language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.06239'}]
-tags: [GPT, Few-Shot, Fine-Tuning]
+tags: [Few-Shot, Fine-Tuning, GPT]
 ---
 Task-oriented dialogue systems use four connected modules, namely, Natural
 Language Understanding (NLU), a Dialogue State Tracking (DST), Dialogue Policy

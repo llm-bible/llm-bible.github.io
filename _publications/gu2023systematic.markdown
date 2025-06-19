@@ -7,7 +7,7 @@ year: 2023
 citations: 42
 bibkey: gu2023systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.12980'}]
-tags: [Multimodal Models, Survey Paper, Prompting, Applications]
+tags: [Prompting, Applications, Multimodal Models, Survey Paper]
 ---
 Prompt engineering is a technique that involves augmenting a large
 pre-trained model with task-specific hints, known as prompts, to adapt the

@@ -8,7 +8,7 @@ year: 2023
 citations: 15
 bibkey: palagin2023ontochatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05082'}]
-tags: [Reinforcement Learning, GPT, Prompting]
+tags: [Prompting, GPT]
 ---
 This research presents a comprehensive methodology for utilizing an
 ontology-driven structured prompts system in interplay with ChatGPT, a widely

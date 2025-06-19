@@ -7,7 +7,7 @@ year: 2022
 citations: 18
 bibkey: strudel2022self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.04236'}]
-tags: [Language Modeling, GPT]
+tags: [GPT, Language Modeling]
 ---
 Can continuous diffusion models bring the same performance breakthrough on
 natural language they did for image generation? To circumvent the discrete

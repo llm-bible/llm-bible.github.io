@@ -7,7 +7,7 @@ year: 2024
 citations: 17
 bibkey: haque2024exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.14643'}]
-tags: [GPT, Transformer, Ethics and Bias, Applications]
+tags: [Applications, Transformer, GPT, Ethics and Bias]
 ---
 Artificial intelligence has been around for a while, but suddenly it has
 received more attention than ever before. Thanks to innovations from companies

@@ -8,7 +8,7 @@ year: 2023
 citations: 19
 bibkey: kim2023cot
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14045'}]
-tags: [Few-Shot, Fine-Tuning, GPT]
+tags: [Fine-Tuning, Few-Shot, GPT]
 ---
 Language models (LMs) with less than 100B parameters are known to perform
 poorly on chain-of-thought (CoT) reasoning in contrast to large LMs when

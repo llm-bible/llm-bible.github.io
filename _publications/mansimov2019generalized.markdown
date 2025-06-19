@@ -8,7 +8,7 @@ year: 2019
 citations: 49
 bibkey: mansimov2019generalized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.12790'}]
-tags: [BERT, Language Modeling, Attention Mechanism]
+tags: [Language Modeling, BERT, Model Architecture, Attention Mechanism]
 ---
 Undirected neural sequence models such as BERT (Devlin et al., 2019) have
 received renewed interest due to their success on discriminative natural

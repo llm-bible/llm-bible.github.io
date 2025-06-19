@@ -7,7 +7,7 @@ year: 2020
 citations: 18
 bibkey: mager2020gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.09123'}]
-tags: [GPT, Transformer, Language Modeling]
+tags: [Transformer, Language Modeling, GPT]
 ---
 Meaning Representations (AMRs) are broad-coverage sentence-level semantic
 graphs. Existing approaches to generating text from AMR have focused on

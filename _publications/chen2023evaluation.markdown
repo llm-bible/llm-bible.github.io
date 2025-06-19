@@ -7,7 +7,7 @@ year: 2023
 citations: 32
 bibkey: chen2023evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02496'}]
-tags: [GPT, Applications, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Applications, GPT]
 ---
 Recent advances in large language models (LLMs) have shown impressive ability
 in biomedical question-answering, but have not been adequately investigated for

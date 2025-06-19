@@ -7,7 +7,7 @@ year: 2020
 citations: 18
 bibkey: filippova2020controlled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.05873'}]
-tags: [Reinforcement Learning, Applications, Language Modeling]
+tags: [Language Modeling, Reinforcement Learning, Applications]
 ---
 Neural text generation (data- or text-to-text) demonstrates remarkable
 performance when training data is abundant which for many applications is not

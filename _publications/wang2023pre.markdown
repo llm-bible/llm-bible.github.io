@@ -9,7 +9,7 @@ citations: 27
 bibkey: wang2023pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.11175'}, {name: Code,
     url: 'https://github.com/gimpong/MM23-MISSRec'}]
-tags: [Transformer, Pre-Training, Fine-Tuning, Tools]
+tags: [Pre-Training, Fine-Tuning, Transformer, Tools]
 ---
 The goal of sequential recommendation (SR) is to predict a user's potential
 interested items based on her/his historical interaction sequences. Most
@@ -30,4 +30,4 @@ more precise matching between users and items. We pre-train the model with
 contrastive learning objectives and fine-tune it in an efficient manner.
 Extensive experiments demonstrate the effectiveness and flexibility of MISSRec,
 promising a practical solution for real-world recommendation scenarios. Data
-and code are available on \url\{https://github.com/gimpong/MM23-MISSRec\}.
+and code are available on https://github.com/gimpong/MM23-MISSRec.

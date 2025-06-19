@@ -9,7 +9,7 @@ citations: 21
 bibkey: yao2022position
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11169'}, {name: Code,
     url: 'https://github.com/thunlp/PEVL'}]
-tags: [Multimodal Models, Prompting, Pre-Training]
+tags: [Prompting, Pre-Training, Multimodal Models, Tools, Efficiency and Optimization]
 ---
 Vision-language pre-training (VLP) has shown impressive performance on a wide
 range of cross-modal tasks, where VLP models without reliance on object

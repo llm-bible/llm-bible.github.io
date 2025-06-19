@@ -7,7 +7,7 @@ year: 2020
 citations: 35
 bibkey: bao2020plato
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.16779'}]
-tags: [Pre-Training, Fine-Tuning, Applications]
+tags: [Tools, Fine-Tuning, Language Modeling]
 ---
 To build a high-quality open-domain chatbot, we introduce the effective
 training process of PLATO-2 via curriculum learning. There are two stages

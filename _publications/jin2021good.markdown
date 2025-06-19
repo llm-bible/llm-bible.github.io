@@ -9,8 +9,8 @@ citations: 51
 bibkey: jin2021good
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08484'}, {name: Code,
     url: 'https://github.com/woojeongjin/FewVLM'}]
-tags: [Multimodal Models, Transformer, Few-Shot, Prompting, Masked Language Model,
-  Language Modeling, Applications, Fine-Tuning]
+tags: [Prompting, Few-Shot, Fine-Tuning, Multimodal Models, Transformer, Masked Language
+    Model]
 ---
 Large pre-trained vision-language (VL) models can learn a new task with a
 handful of examples and generalize to a new task without fine-tuning. However,
@@ -28,4 +28,4 @@ affect zero-shot performance but marginally affect few-shot performance, (2)
 models with noisy prompts learn as quickly as hand-crafted prompts given larger
 training data, and (3) MaskedLM helps VQA tasks while PrefixLM boosts
 captioning performance. Our code is publicly available at
-\url\{https://github.com/woojeongjin/FewVLM\}
+https://github.com/woojeongjin/FewVLM

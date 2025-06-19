@@ -8,7 +8,7 @@ year: 2020
 citations: 35
 bibkey: cao2020behind
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.07310'}]
-tags: [Multimodal Models, Transformer, Pre-Training, Attention Mechanism]
+tags: [Transformer, Multimodal Models, Pre-Training, Attention Mechanism]
 ---
 Recent Transformer-based large-scale pre-trained models have revolutionized
 vision-and-language (V+L) research. Models such as ViLBERT, LXMERT and UNITER

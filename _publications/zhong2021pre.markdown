@@ -8,7 +8,7 @@ citations: 32
 bibkey: zhong2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02492'}, {name: Code,
     url: 'https://github.com/microsoft/DialogLM)'}]
-tags: [Pre-Training, Reinforcement Learning, Attention Mechanism, Tools]
+tags: [Pre-Training, Tools, Model Architecture, Attention Mechanism]
 ---
 Dialogue is an essential part of human communication and cooperation.
 Existing research mainly focuses on short dialogue scenarios in a one-on-one

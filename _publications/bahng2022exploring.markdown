@@ -8,7 +8,7 @@ citations: 94
 bibkey: bahng2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.17274'}, {name: Code,
     url: 'http://hjbahng.github.io/visual_prompting'}]
-tags: [Prompting, Reinforcement Learning]
+tags: [Prompting]
 ---
 We investigate the efficacy of visual prompting to adapt large-scale models
 in vision. Following the recent approach from prompt tuning and adversarial

@@ -7,7 +7,7 @@ year: 2020
 citations: 36
 bibkey: pearce2020deriving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.01026'}]
-tags: [GPT, Fine-Tuning, RAG]
+tags: [Fine-Tuning, GPT]
 ---
 While specifications for digital systems are provided in natural language,
 engineers undertake significant efforts to translate them into the programming

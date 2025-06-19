@@ -7,8 +7,7 @@ year: 2022
 citations: 39
 bibkey: fu2022hungry
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.14052'}]
-tags: [Transformer, Reinforcement Learning, Few-Shot, Language Modeling, Efficiency
-    and Optimization]
+tags: [Transformer, Language Modeling, Few-Shot, Efficiency and Optimization]
 ---
 State space models (SSMs) have demonstrated state-of-the-art sequence
 modeling performance in some modalities, but underperform attention in language

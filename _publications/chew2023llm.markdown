@@ -8,7 +8,7 @@ year: 2023
 citations: 21
 bibkey: chew2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.14924'}]
-tags: [GPT, Prompting, Tools]
+tags: [Prompting, GPT, Tools]
 ---
 Deductive coding is a widely used qualitative research method for determining
 the prevalence of themes across documents. While useful, deductive coding is

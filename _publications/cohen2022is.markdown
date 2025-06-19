@@ -7,7 +7,7 @@ year: 2022
 citations: 31
 bibkey: cohen2022is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.01694'}]
-tags: [Multimodal Models, Few-Shot, Model Architecture]
+tags: [Multimodal Models, Prompting, Few-Shot]
 ---
 Large Vision & Language models pretrained on web-scale data provide
 representations that are invaluable for numerous V&L problems. However, it is

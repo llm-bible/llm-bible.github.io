@@ -8,7 +8,7 @@ citations: 32
 bibkey: mahabadi2021variational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.05469'}, {name: Code,
     url: 'https://github.com/rabeehk/vibert'}]
-tags: [Fine-Tuning, BERT, Ethics and Bias]
+tags: [Fine-Tuning, Ethics and Bias, BERT]
 ---
 While large-scale pretrained language models have obtained impressive results
 when fine-tuned on a wide variety of tasks, they still often suffer from

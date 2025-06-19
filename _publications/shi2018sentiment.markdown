@@ -7,7 +7,7 @@ year: 2018
 citations: 32
 bibkey: shi2018sentiment
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.10731'}]
-tags: [Multimodal Models, Reinforcement Learning, Agentic]
+tags: [Multimodal Models, Reinforcement Learning]
 ---
 End-to-end learning framework is useful for building dialog systems for its
 simplicity in training and efficiency in model updating. However, current

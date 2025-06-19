@@ -7,7 +7,7 @@ year: 2022
 citations: 29
 bibkey: dai2022enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.06386'}]
-tags: [Multimodal Models, Distillation, Pre-Training]
+tags: [Multimodal Models, Distillation, Pre-Training, Efficiency and Optimization]
 ---
 The recent large-scale vision-language pre-training (VLP) of dual-stream
 architectures (e.g., CLIP) with a tremendous amount of image-text pair data,

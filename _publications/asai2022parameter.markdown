@@ -8,7 +8,7 @@ year: 2022
 citations: 20
 bibkey: asai2022parameter
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11961'}]
-tags: [Few-Shot, Prompting, Fine-Tuning, Attention Mechanism]
+tags: [Prompting, Fine-Tuning, Few-Shot]
 ---
 This work introduces a new multi-task, parameter-efficient language model
 (LM) tuning method that learns to transfer knowledge across different tasks via

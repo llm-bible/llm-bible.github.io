@@ -8,7 +8,7 @@ year: 2023
 citations: 42
 bibkey: fu2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.10730'}]
-tags: [GPT, In-Context Learning, RAG, Tools, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, GPT, Tools, In-Context Learning]
 ---
 The remarkable capabilities and intricate nature of Artificial Intelligence
 (AI) have dramatically escalated the imperative for specialized AI

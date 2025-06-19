@@ -7,7 +7,7 @@ year: 2023
 citations: 20
 bibkey: marjieh2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.01308'}]
-tags: [GPT, Multimodal Models]
+tags: [GPT, Reinforcement Learning]
 ---
 Determining the extent to which the perceptual world can be recovered from
 language is a longstanding problem in philosophy and cognitive science. We show

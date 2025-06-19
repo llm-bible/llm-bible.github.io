@@ -7,7 +7,7 @@ year: 2020
 citations: 26
 bibkey: li2020multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.12829'}]
-tags: [Multimodal Models, Efficiency and Optimization, Fine-Tuning]
+tags: [Fine-Tuning, Multimodal Models, Efficiency and Optimization, Language Modeling]
 ---
 We present a simple yet effective approach to build multilingual
 speech-to-text (ST) translation by efficient transfer learning from pretrained

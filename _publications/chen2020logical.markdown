@@ -8,7 +8,7 @@ citations: 36
 bibkey: chen2020logical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.10404'}, {name: Code,
     url: 'https://github.com/wenhuchen/LogicNLG'}]
-tags: [Transformer, Reinforcement Learning, Tools, Survey Paper, Pre-Training]
+tags: [Transformer, Reinforcement Learning, Tools]
 ---
 Neural natural language generation (NLG) models have recently shown
 remarkable progress in fluency and coherence. However, existing studies on
@@ -30,4 +30,4 @@ LM can significantly boost both the fluency and logical fidelity metrics, 2) RL
 and Adversarial Training are trading fluency for fidelity, 3) Coarse-to-Fine
 generation can help partially alleviate the fidelity issue while maintaining
 high language fluency. The code and data are available at
-\url\{https://github.com/wenhuchen/LogicNLG\}.
+https://github.com/wenhuchen/LogicNLG.

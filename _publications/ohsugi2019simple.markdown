@@ -8,7 +8,7 @@ year: 2019
 citations: 18
 bibkey: ohsugi2019simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.12848'}]
-tags: [BERT, Pre-Training]
+tags: [Pre-Training, BERT]
 ---
 Conversational machine comprehension (CMC) requires understanding the context
 of multi-turn dialogue. Using BERT, a pre-training language model, has been

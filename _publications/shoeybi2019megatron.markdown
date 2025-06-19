@@ -8,8 +8,7 @@ year: 2019
 citations: 785
 bibkey: shoeybi2019megatron
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.08053'}]
-tags: [GPT, Transformer, Language Modeling, Efficiency and Optimization, Applications,
-  BERT]
+tags: [Transformer, Language Modeling, GPT, BERT, Efficiency and Optimization]
 ---
 Recent work in language modeling demonstrates that training large transformer
 models advances the state of the art in Natural Language Processing

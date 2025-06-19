@@ -9,8 +9,8 @@ year: 2024
 citations: 15
 bibkey: parthasarathy2024ultimate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2408.13296'}]
-tags: [Fine-Tuning, Multimodal Models, Reinforcement Learning, Applications, RAG,
-  Efficiency and Optimization, Training Techniques, Agentic]
+tags: [Fine-Tuning, Applications, Reinforcement Learning, Efficiency and Optimization,
+  Multimodal Models]
 ---
 This report examines the fine-tuning of Large Language Models (LLMs),
 integrating theoretical insights with practical applications. It outlines the

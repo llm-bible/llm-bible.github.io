@@ -8,7 +8,7 @@ year: 2022
 citations: 29
 bibkey: borisov2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.06280'}]
-tags: [Transformer, Language Modeling]
+tags: [Transformer, Reinforcement Learning]
 ---
 Tabular data is among the oldest and most ubiquitous forms of data. However,
 the generation of synthetic samples with the original data's characteristics

@@ -7,7 +7,7 @@ year: 2021
 citations: 23
 bibkey: su2021plan
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.13740'}]
-tags: [Reinforcement Learning, Applications, Language Modeling]
+tags: [Applications, Reinforcement Learning, Language Modeling]
 ---
 Recent developments in neural networks have led to the advance in
 data-to-text generation. However, the lack of ability of neural models to

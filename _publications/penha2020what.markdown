@@ -8,7 +8,7 @@ year: 2020
 citations: 48
 bibkey: penha2020what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.15356'}]
-tags: [Transformer, BERT, Masked Language Model, Pre-Training, Prompting, Fine-Tuning]
+tags: [Prompting, Fine-Tuning, Transformer, Pre-Training, Masked Language Model, BERT]
 ---
 Heavily pre-trained transformer models such as BERT have recently shown to be
 remarkably powerful at language modelling by achieving impressive results on
