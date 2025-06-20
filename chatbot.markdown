@@ -14,6 +14,9 @@ Feel free to ask any of your own questions!
 
 <div class="chat-container">
   <div class="chatbox">
+    <div id="loading" style="display: none; text-align: center; padding: 10px;">
+          <span class="spinner"></span> Retrieving response...
+    </div>
     <div id="messages" class="messages"></div>
     <div class="input-area">
       <input id="query" type="text" placeholder="Ask a question..." class="chat-input">
@@ -29,6 +32,22 @@ Feel free to ask any of your own questions!
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+}
+
+.spinner {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border: 3px solid rgba(0,0,0,0.2);
+  border-top: 3px solid #2196f3;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
 }
 
 .chatbox {
@@ -64,6 +83,7 @@ Feel free to ask any of your own questions!
   text-align: right;
 }
 
+    
 .bot {
   align-self: flex-start;
   background-color: #e8f5e9;
@@ -139,9 +159,12 @@ window.onload = function() {
 async function sendQuery() {
   const query = document.getElementById("query").value;
   const messagesDiv = document.getElementById("messages");
+  const loadingDiv = document.getElementById("loading");
 
   appendMessage("user", "You: " + query);
   document.getElementById("query").value = "";
+
+  loadingDiv.style.display = "block"; // Show spinner
 
   try {
     const response = await fetch("https://aicoinanalysis.com/chat", {
@@ -168,9 +191,10 @@ async function sendQuery() {
     }
   } catch (error) {
     displayBotMessage(`Error - ${error.message}`);
+  } finally {
+    loadingDiv.style.display = "none"; // Hide spinner after fetch
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
   }
-
-  messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
 
 function displayWelcomeMessage() {
