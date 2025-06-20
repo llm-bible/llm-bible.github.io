@@ -58,13 +58,13 @@ html, body {
   flex: 1;
   display: flex;
   flex-direction: column;
+  width: 90%;
   max-width: 900px;
   min-width: 400px;
   border-radius: 10px;
   overflow: hidden;
   background-color: #ffffff;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  margin: 0 auto;
 }
 
 .messages {
@@ -72,6 +72,26 @@ html, body {
   padding: 15px;
   overflow-y: auto;
   border-bottom: 1px solid #e0e0e0;
+}
+
+.message {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user {
+  align-self: flex-end;
+  background-color: #d1e7ff; /* Light blue */
+  text-align: right;
+}
+
+.bot {
+  align-self: flex-start;
+  background-color: #e8f5e9; /* Light green */
+  text-align: left;
 }
 
 .input-area {
