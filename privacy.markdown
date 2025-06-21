@@ -4,7 +4,7 @@ title: Privacy Notice
 description: Privacy Notice  
 ---
 
-**Last Updated:** 25th October 2024
+**Last Updated:** 19th June 2025
 
 Your privacy is important to us. This Privacy Notice explains how we collect, use, and protect your information when you use our site and services.
 

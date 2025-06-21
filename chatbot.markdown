@@ -3,7 +3,7 @@ layout: page
 title: Chat with the LLM-Bible Bot
 description: LLM-Bible Chatbot
 ---
-The LLM-Bible Chatbot can help you find relevant papers, with nearly 1,500 papers currently ingested into the Bot's knowledge base.
+The LLM-Bible Chatbot can help you find relevant papers, with nearly 2,000 papers (and growing) currently ingested into the Bot's knowledge base.
 
 <div class="container">
     <h3>Example Queries</h3>
@@ -12,26 +12,52 @@ The LLM-Bible Chatbot can help you find relevant papers, with nearly 1,500 paper
 
 Feel free to ask any of your own questions!
 
-<div class="chat-container">
-  <div class="chatbox">
-    <div id="messages" class="messages"></div>
-    <div class="input-area">
-      <input id="query" type="text" placeholder="Ask a question..." class="chat-input">
-      <button onclick="sendQuery()" class="send-button">Send</button>
+<div class="chat-layout">
+  <div class="chat-container">
+    <div class="chatbox">
+      <div id="messages" class="messages"></div>
+
+      <div id="loading" style="display: none; text-align: center; padding: 10px;">
+        <span class="spinner"></span> Retrieving response...
+      </div>
+
+      <div class="input-area">
+        <input id="query" type="text" placeholder="Ask a question..." class="chat-input">
+        <button onclick="sendQuery()" class="send-button">Send</button>
+      </div>
     </div>
   </div>
 </div>
 
 <style>
-/* Chatbox Container */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-layout {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .chat-container {
+  flex: 1;
   display: flex;
   justify-content: center;
-  align-items: center;
-  margin-top: 50px;
+  align-items: stretch;
+  padding: 10px;
 }
 
 .chatbox {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
   width: 90%;
   max-width: 900px;
   min-width: 400px;
@@ -39,14 +65,12 @@ Feel free to ask any of your own questions!
   overflow: hidden;
   background-color: #ffffff;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  display: flex;
-  flex-direction: column;
 }
 
 .messages {
+  flex: 1;
   padding: 15px;
-  height: 400px;
-  overflow-y: scroll;
+  overflow-y: auto;
   border-bottom: 1px solid #e0e0e0;
 }
 
@@ -60,13 +84,13 @@ Feel free to ask any of your own questions!
 
 .user {
   align-self: flex-end;
-  background-color: #d1e7ff;
+  background-color: #d1e7ff; /* Light blue */
   text-align: right;
 }
 
 .bot {
   align-self: flex-start;
-  background-color: #e8f5e9;
+  background-color: #e8f5e9; /* Light green */
   text-align: left;
 }
 
@@ -99,6 +123,23 @@ Feel free to ask any of your own questions!
 
 .send-button:hover {
   background-color: #1e88e5;
+}
+
+/* Spinner */
+.spinner {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border: 3px solid rgba(0,0,0,0.2);
+  border-top: 3px solid #2196f3;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
 }
 </style>
 
@@ -139,9 +180,12 @@ window.onload = function() {
 async function sendQuery() {
   const query = document.getElementById("query").value;
   const messagesDiv = document.getElementById("messages");
+  const loadingDiv = document.getElementById("loading");
 
   appendMessage("user", "You: " + query);
   document.getElementById("query").value = "";
+
+  loadingDiv.style.display = "block"; // Show spinner
 
   try {
     const response = await fetch("https://aicoinanalysis.com/chat", {
@@ -168,9 +212,10 @@ async function sendQuery() {
     }
   } catch (error) {
     displayBotMessage(`Error - ${error.message}`);
+  } finally {
+    loadingDiv.style.display = "none"; // Hide spinner after fetch
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
   }
-
-  messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
 
 function displayWelcomeMessage() {

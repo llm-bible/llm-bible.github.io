@@ -5,7 +5,7 @@ title: Resources on Large Language Models
 
 ## 🤖📚 Andrew Ng’s Latest LLM & Generative AI Courses
 
-- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): Non-technical introduction to generative AI and large language models, covering prompt engineering, business applications, and strategy. Taught by Andrew Ng. (https://www.deeplearning.ai/courses/generative-ai-for-everyone/?utm_source=chatgpt.com)
+- [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/): Non-technical introduction to generative AI and large language models, covering prompt engineering, business applications, and strategy. Taught by Andrew Ng.
 
 - [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/): Learn Python API calls, chatbots, debugging, and LLM integrations. Taught by Andrew Ng.
 
