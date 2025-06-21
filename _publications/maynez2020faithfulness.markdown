@@ -1,0 +1,26 @@
+---
+layout: publication
+title: On Faithfulness And Factuality In Abstractive Summarization
+authors: Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan Mcdonald
+conference: Arxiv
+year: 2020
+citations: 268
+bibkey: maynez2020faithfulness
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00661'}]
+tags: [Language Modeling, Pre-Training]
+---
+It is well known that the standard likelihood training and approximate
+decoding objectives in neural text generation models lead to less human-like
+responses for open-ended tasks such as language modeling and story generation.
+In this paper we have analyzed limitations of these models for abstractive
+document summarization and found that these models are highly prone to
+hallucinate content that is unfaithful to the input document. We conducted a
+large scale human evaluation of several neural abstractive summarization
+systems to better understand the types of hallucinations they produce. Our
+human annotators found substantial amounts of hallucinated content in all model
+generated summaries. However, our analysis does show that pretrained models are
+better summarizers not only in terms of raw metrics, i.e., ROUGE, but also in
+generating faithful and factual summaries as evaluated by humans. Furthermore,
+we show that textual entailment measures better correlate with faithfulness
+than standard metrics, potentially leading the way to automatic evaluation
+metrics as well as training and decoding criteria.

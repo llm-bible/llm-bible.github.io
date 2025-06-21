@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'ELEVATER: A Benchmark And Toolkit For Evaluating Language-augmented Visual
+  Models'
+authors: Chunyuan Li et al.
+conference: Arxiv
+year: 2022
+citations: 48
+bibkey: li2022benchmark
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.08790'}]
+tags: [Few-Shot, Tools, Fine-Tuning, Efficiency and Optimization]
+---
+Learning visual representations from natural language supervision has
+recently shown great promise in a number of pioneering works. In general, these
+language-augmented visual models demonstrate strong transferability to a
+variety of datasets and tasks. However, it remains challenging to evaluate the
+transferablity of these models due to the lack of easy-to-use evaluation
+toolkits and public benchmarks. To tackle this, we build ELEVATER (Evaluation
+of Language-augmented Visual Task-level Transfer), the first benchmark and
+toolkit for evaluating(pre-trained) language-augmented visual models. ELEVATER
+is composed of three components. (i) Datasets. As downstream evaluation suites,
+it consists of 20 image classification datasets and 35 object detection
+datasets, each of which is augmented with external knowledge. (ii) Toolkit. An
+automatic hyper-parameter tuning toolkit is developed to facilitate model
+evaluation on downstream tasks. (iii) Metrics. A variety of evaluation metrics
+are used to measure sample-efficiency (zero-shot and few-shot) and
+parameter-efficiency (linear probing and full model fine-tuning). ELEVATER is a
+platform for Computer Vision in the Wild (CVinW), and is publicly released at
+at https://computer-vision-in-the-wild.github.io/ELEVATER/

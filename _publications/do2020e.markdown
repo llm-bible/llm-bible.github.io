@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'E-snli-ve: Corrected Visual-textual Entailment With Natural Language Explanations'
+authors: Virginie Do, Oana-maria Camburu, Zeynep Akata, Thomas Lukasiewicz
+conference: IEEE CVPR Workshop on Fair Data Efficient and Trusted Computer Vision
+  2020
+year: 2020
+citations: 26
+bibkey: do2020e
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.03744'}]
+tags: [Multimodal Models, Interpretability and Explainability]
+---
+The recently proposed SNLI-VE corpus for recognising visual-textual
+entailment is a large, real-world dataset for fine-grained multimodal
+reasoning. However, the automatic way in which SNLI-VE has been assembled (via
+combining parts of two related datasets) gives rise to a large number of errors
+in the labels of this corpus. In this paper, we first present a data collection
+effort to correct the class with the highest error rate in SNLI-VE. Secondly,
+we re-evaluate an existing model on the corrected corpus, which we call
+SNLI-VE-2.0, and provide a quantitative comparison with its performance on the
+non-corrected corpus. Thirdly, we introduce e-SNLI-VE, which appends
+human-written natural language explanations to SNLI-VE-2.0. Finally, we train
+models that learn from these explanations at training time, and output such
+explanations at testing time.

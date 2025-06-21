@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Livebot: Generating Live Video Comments Based On Visual And Textual Contexts'
+authors: Shuming Ma, Lei Cui, Damai Dai, Furu Wei, Xu Sun
+conference: Arxiv
+year: 2018
+citations: 40
+bibkey: ma2018generating
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.04938'}]
+tags: [RAG, Agentic]
+---
+We introduce the task of automatic live commenting. Live commenting, which is
+also called `video barrage', is an emerging feature on online video sites that
+allows real-time comments from viewers to fly across the screen like bullets or
+roll at the right side of the screen. The live comments are a mixture of
+opinions for the video and the chit chats with other comments. Automatic live
+commenting requires AI agents to comprehend the videos and interact with human
+viewers who also make the comments, so it is a good testbed of an AI agent's
+ability of dealing with both dynamic vision and language. In this work, we
+construct a large-scale live comment dataset with 2,361 videos and 895,929 live
+comments. Then, we introduce two neural models to generate live comments based
+on the visual and textual contexts, which achieve better performance than
+previous neural baselines such as the sequence-to-sequence model. Finally, we
+provide a retrieval-based evaluation protocol for automatic live commenting
+where the model is asked to sort a set of candidate comments based on the
+log-likelihood score, and evaluated on metrics such as mean-reciprocal-rank.
+Putting it all together, we demonstrate the first `LiveBot'.

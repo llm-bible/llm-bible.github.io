@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'On The Use Of BERT For Automated Essay Scoring: Joint Learning Of Multi-scale
+  Essay Representation'
+authors: Yongjie Wang, Chuan Wang, Ruobing Li, Hui Lin
+conference: Arxiv
+year: 2022
+citations: 39
+bibkey: wang2022use
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.03835'}]
+tags: [Fine-Tuning, BERT]
+---
+In recent years, pre-trained models have become dominant in most natural
+language processing (NLP) tasks. However, in the area of Automated Essay
+Scoring (AES), pre-trained models such as BERT have not been properly used to
+outperform other deep learning models such as LSTM. In this paper, we introduce
+a novel multi-scale essay representation for BERT that can be jointly learned.
+We also employ multiple losses and transfer learning from out-of-domain essays
+to further improve the performance. Experiment results show that our approach
+derives much benefit from joint learning of multi-scale essay representation
+and obtains almost the state-of-the-art result among all deep learning models
+in the ASAP task. Our multi-scale essay representation also generalizes well to
+CommonLit Readability Prize data set, which suggests that the novel text
+representation proposed in this paper may be a new and effective choice for
+long-text tasks.
